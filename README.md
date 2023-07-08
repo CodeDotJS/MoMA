@@ -42,7 +42,7 @@ __How do I make it fast?__
 
 __How is the data organized?__
 
-- The script scrapes and saves random pages as separate JSON files named "`Page_<X-N>_moma_collection.json`" to handle concurrent requests.
+- The script scrapes and saves random pages as "`Page_<X-N>_moma_collection.json`" to handle concurrent requests.
 - Files are then merged into a single, organized "`collection.json`" file.
 - By default, the script deletes the intermediate pages, keeping only the main collection file, but you can keep all the pages by commenting out the last four lines of code.
 
