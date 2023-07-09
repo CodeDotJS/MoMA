@@ -37,7 +37,7 @@ Each page shows 48 works, and if there `"N"` works online, you can do `math.ceil
 
 __How do I make it fast?__
 
-- You can change the concurrent request limit at [line 92]()
+- You can change the concurrent request limit at [`L87`](https://github.com/CodeDotJS/MoMA/blob/master/collection.py#L87)
 
 
 __How is the data organized?__
