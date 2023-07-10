@@ -2,7 +2,7 @@
 
 ## Description
 
-An attempt to build Museum of Modern Art's dataset from scratch ([*without inventing the universe*](http://www.youtube.com/watch?v=7s664NsLeFM) )
+An attempt to build Museum of Modern Art's dataset from scratch.
 
 ## Install
 
