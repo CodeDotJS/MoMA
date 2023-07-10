@@ -23,7 +23,6 @@ all_data = {}
 start = input("Get data from page: ")
 end = input("Get data till page: ")
 
-
 async def fetch_page(session, page_number):
     url = base_url.format(page_number)
     try:
@@ -72,11 +71,9 @@ async def fetch_page(session, page_number):
     except Exception as e:
         print(f"An error occurred while fetching Page {page_number}: {str(e)}")
 
-
 def normalize_text(text):
     normalized = unicodedata.normalize('NFKD', text)
     return ''.join(c for c in normalized if not unicodedata.combining(c))
-
 
 async def scrape_pages():
     async with aiohttp.ClientSession() as session:
