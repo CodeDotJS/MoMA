@@ -1,0 +1,866 @@
+[
+    {
+        "Artist": "Henri Cartier-Bresson",
+        "Title": "Students, Zurich",
+        "Year": "1966",
+        "ObjectID": "110806",
+        "Work": "https://www.moma.org/collection/works/110806",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1OTQ1MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=88580482464576d8",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "15 1/2 \u00d7 22 13/16\" (39.4 \u00d7 57.9 cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "240.2009",
+            "Copyright": "\u00a9 2023 Henri Cartier-Bresson/Magnum Photos, courtesy Fondation Henri Cartier-Bresson, Paris",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/1000"
+    },
+    {
+        "Artist": "Henri Cartier-Bresson",
+        "Title": "Le Mans Auto Race",
+        "Year": "1966",
+        "ObjectID": "110819",
+        "Work": "https://www.moma.org/collection/works/110819",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1OTQ1MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=bfba6bb90aa04d68",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "10 7/16 \u00d7 15 7/16\" (26.5 \u00d7 39.2 cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "237.2009",
+            "Copyright": "\u00a9 2023 Henri Cartier-Bresson/Magnum Photos, courtesy Fondation Henri Cartier-Bresson, Paris",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/1000"
+    },
+    {
+        "Artist": "Henri Cartier-Bresson",
+        "Title": "Fatehpur Sikri, India",
+        "Year": "1966",
+        "ObjectID": "110869",
+        "Work": "https://www.moma.org/collection/works/110869",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4ODU5MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=53e997e1cf783058",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "35 7/16 \u00d7 23 3/16\" (90 \u00d7 58.9 cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "235.2009",
+            "Copyright": "\u00a9 2023 Henri Cartier-Bresson/Magnum Photos, courtesy Fondation Henri Cartier-Bresson, Paris",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/1000"
+    },
+    {
+        "Artist": "Henri Cartier-Bresson",
+        "Title": "Ahmedabad, India",
+        "Year": "1966",
+        "ObjectID": "110882",
+        "Work": "https://www.moma.org/collection/works/110882",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4NDE3OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=72f53c9f411d3695",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "23 3/16 \u00d7 35 7/16\" (58.9 \u00d7 90 cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "230.2009",
+            "Copyright": "\u00a9 2023 Henri Cartier-Bresson/Magnum Photos, courtesy Fondation Henri Cartier-Bresson, Paris",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/1000"
+    },
+    {
+        "Artist": "Henri Cartier-Bresson",
+        "Title": "Old Delhi, India",
+        "Year": "1966",
+        "ObjectID": "110890",
+        "Work": "https://www.moma.org/collection/works/110890",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4NDE4NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3fb4387a5d2b42b9",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "35 7/16 \u00d7 23 1/16\" (90 \u00d7 58.6 cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "238.2009",
+            "Copyright": "\u00a9 2023 Henri Cartier-Bresson/Magnum Photos, courtesy Fondation Henri Cartier-Bresson, Paris",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/1000"
+    },
+    {
+        "Artist": "Henri Cartier-Bresson",
+        "Title": "Ahmedabad, India",
+        "Year": "1966",
+        "ObjectID": "110894",
+        "Work": "https://www.moma.org/collection/works/110894",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4NDE4MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=46cf114fe4a18b0e",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "22 15/16 \u00d7 35 1/16\" (58.3 \u00d7 89.1 cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "232.2009",
+            "Copyright": "\u00a9 2023 Henri Cartier-Bresson/Magnum Photos, courtesy Fondation Henri Cartier-Bresson, Paris",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/1000"
+    },
+    {
+        "Artist": "Henri Cartier-Bresson",
+        "Title": "India",
+        "Year": "1966",
+        "ObjectID": "111031",
+        "Work": "https://www.moma.org/collection/works/111031",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1OTM5MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7d132d446c7f5cec",
+        "Details": {
+            "Medium": "Gelatin silver print, printed 1968",
+            "Dimensions": "15 3/16 \u00d7 10 1/4\" (38.6 \u00d7 26 cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "166.2009",
+            "Copyright": "\u00a9 2023 Henri Cartier-Bresson/Magnum Photos, courtesy Fondation Henri Cartier-Bresson, Paris",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/1000"
+    },
+    {
+        "Artist": "Henri Cartier-Bresson",
+        "Title": "Switzerland",
+        "Year": "1966",
+        "ObjectID": "111033",
+        "Work": "https://www.moma.org/collection/works/111033",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1OTQ1NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1fc96287ca03fd2b",
+        "Details": {
+            "Medium": "Gelatin silver print, printed 1968",
+            "Dimensions": "10 1/4 \u00d7 15 3/16\" (26 \u00d7 38.6 cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "242.2009",
+            "Copyright": "\u00a9 2023 Henri Cartier-Bresson/Magnum Photos, courtesy Fondation Henri Cartier-Bresson, Paris",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/1000"
+    },
+    {
+        "Artist": "John Cavanaugh",
+        "Title": "Blink (Fluxfilm no. 5)",
+        "Year": "1966",
+        "ObjectID": "150228",
+        "Work": "https://www.moma.org/collection/works/150228",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NDk5OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=44b9f81edc01f4e4",
+        "Details": {
+            "Medium": "16mm film (black and white, silent)",
+            "Duration": "2:26 min.",
+            "Producer": "George Maciunas",
+            "Publisher": "Fluxus",
+            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
+            "Object number": "2452.2008.11",
+            "Associated work": "Fluxfilms",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/40461"
+    },
+    {
+        "Artist": "Perez Celis",
+        "Title": "The Black Sun (El sol negro)",
+        "Year": "1966",
+        "ObjectID": "64373",
+        "Work": "https://www.moma.org/collection/works/64373",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxODM1MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=570ffe738d886e59",
+        "Details": {
+            "Medium": "Screenprint",
+            "Dimensions": "composition: 25 5/8 x 19 13/16\" (65.1 x 50.3 cm); sheet: 25 5/8 x 19 13/16\" (65.1 x 50.3 cm)",
+            "Edition": "7",
+            "Credit": "Inter-American Fund",
+            "Object number": "205.1967",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1047"
+    },
+    {
+        "Artist": "Vija Celmins",
+        "Title": "Flying Fortress",
+        "Year": "1966",
+        "ObjectID": "100223",
+        "Work": "https://www.moma.org/collection/works/100223",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5NDkxNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=00a168c569e3c097",
+        "Details": {
+            "Medium": "Oil on canvas",
+            "Dimensions": "16 x 26\" (40.6 x 66 cm)",
+            "Credit": "Gift of Edward R. Broida",
+            "Object number": "672.2005",
+            "Copyright": "\u00a9 2023 Vija Celmins",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/1048"
+    },
+    {
+        "Artist": "Vija Celmins",
+        "Title": "Puzzle",
+        "Year": "1965-66",
+        "ObjectID": "100224",
+        "Work": "https://www.moma.org/collection/works/100224",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NTg0MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=277a3aa7ff7a4e8c",
+        "Details": {
+            "Medium": "Oil on wood",
+            "Dimensions": "2 x 12 x 10\" (5.1 x 30.5 x 25.4 cm)",
+            "Credit": "Gift of Edward R. Broida",
+            "Object number": "671.2005",
+            "Copyright": "\u00a9 2023 Vija Celmins",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/1048"
+    },
+    {
+        "Artist": "Lynn Chadwick",
+        "Title": "Trig (Composition II)",
+        "Year": "1966",
+        "ObjectID": "74506",
+        "Work": "https://www.moma.org/collection/works/74506",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNDk1MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5a1bf701c67093c9",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition (irreg.): 21 3/16 x 15 1/4\" (53.8 x 38.7 cm); sheet: 32 1/4 x 23 3/8\" (81.9 x 59.4 cm)",
+            "Credit": "Gift of Galerie G\u00e9rald Cramer",
+            "Object number": "864.1969",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1054"
+    },
+    {
+        "Artist": "Barbara Chase-Riboud",
+        "Title": "Untitled",
+        "Year": "1966",
+        "ObjectID": "36989",
+        "Work": "https://www.moma.org/collection/works/36989",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxMDExOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e5ad816d2944a621",
+        "Details": {
+            "Medium": "Charcoal on paper",
+            "Dimensions": "30 x 21 7/8\" (76.3 x 55.7 cm)",
+            "Credit": "Gift of Betty Parsons Gallery",
+            "Object number": "453.1972",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4894"
+    },
+    {
+        "Artist": "Eduardo Chillida",
+        "Title": "Untitled",
+        "Year": "(1966)",
+        "ObjectID": "33342",
+        "Work": "https://www.moma.org/collection/works/33342",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwNjI2MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2c1d4105d2e47074",
+        "Details": {
+            "Medium": "Ink on paper",
+            "Dimensions": "39 3/8 x 27 5/8\" (100.1 x 70.2 cm)",
+            "Credit": "The Joan and Lester Avnet Collection",
+            "Object number": "25.1978",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VEGAP, Madrid",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1104"
+    },
+    {
+        "Artist": "Christo",
+        "Title": "Temporary Volume - Package - For Minneapolis School of Art",
+        "Year": "October 24-28, 1966",
+        "ObjectID": "81426",
+        "Work": "https://www.moma.org/collection/works/81426",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwODg3MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d6052ce40e9f4bec",
+        "Details": {
+            "Medium": "Stuffed plastic sheet wrapped with twine, plastic figure, and paint and pencil on board on wood base",
+            "Dimensions": "11 7/8 x 27 x 27 3/4\" (30.1 x 68.5 x 70.5 cm)",
+            "Credit": "Gift of Mr. and Mrs. Armand P. Bartos",
+            "Object number": "389.1970",
+            "Copyright": "\u00a9 2023 Christo",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/1114"
+    },
+    {
+        "Artist": "Chryssa",
+        "Title": "Five Variations on the Ampersand",
+        "Year": "1966",
+        "ObjectID": "81434",
+        "Work": "https://www.moma.org/collection/works/81434",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMTgzNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=10afc90d45f5a509",
+        "Details": {
+            "Medium": "Neon in tinted-plexiglass vitrines",
+            "Dimensions": "One vitrine 30 3/4 x 14 1/4 x 12 3/8\" (78.1 x 36.2 x 31.3 cm), other four vitrines 29 1/2 x 14 1/4 x 12 3/8\" (74.8 x 36.2 x 31.3 cm)",
+            "Credit": "Gift of D. and J. de Menil",
+            "Object number": "393.1966.1-5",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/1118"
+    },
+    {
+        "Artist": "Elaine Lustig Cohen",
+        "Title": "Catalog for the exhibition \"The Lower East Side: Portal to American Life\" at the Jewish Museum",
+        "Year": "1966",
+        "ObjectID": "289921",
+        "Work": "https://www.moma.org/collection/works/289921",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUwOTAzMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=506b976478b41df8",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "(9 1/2 x 8 1/2\")",
+            "Credit": "Gift of Tamar Cohen",
+            "Object number": "76.2018.135",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7644"
+    },
+    {
+        "Artist": "Elaine Lustig Cohen",
+        "Title": "Catalog for the exhibition \"Primary Structures\" at the Jewish Museum",
+        "Year": "1966",
+        "ObjectID": "289922",
+        "Work": "https://www.moma.org/collection/works/289922",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUwOTAzMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d36161e3cd884de7",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "9 9/16 \u00d7 8 1/4\" (24.3 \u00d7 21 cm)",
+            "Credit": "Gift of Tamar Cohen",
+            "Object number": "76.2018.136",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7644"
+    },
+    {
+        "Artist": "Elaine Lustig Cohen",
+        "Title": "Catalog for the exhibition \"2 Kinetic Sculptors\" at the Jewish Museum",
+        "Year": "1966",
+        "ObjectID": "289923",
+        "Work": "https://www.moma.org/collection/works/289923",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUwOTAzMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fab35434a6450db1",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "(9 1/2 x 8 1/4\")",
+            "Credit": "Gift of Tamar Cohen",
+            "Object number": "76.2018.137",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7644"
+    },
+    {
+        "Artist": "Elaine Lustig Cohen",
+        "Title": "Catalog for the exhibition \"Contemporary Art for the Synagogue\" at the Jewish Museum",
+        "Year": "1966",
+        "ObjectID": "289924",
+        "Work": "https://www.moma.org/collection/works/289924",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUwOTAzNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1433b0616500221c",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "(9 1/8 x 7\")",
+            "Credit": "Gift of Tamar Cohen",
+            "Object number": "76.2018.138",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7644"
+    },
+    {
+        "Artist": "Elaine Lustig Cohen",
+        "Title": "Catalog for the exhibition \"Max Ernst: Sculpture and Recent Painting\" at the Jewish Museum",
+        "Year": "1966",
+        "ObjectID": "289925",
+        "Work": "https://www.moma.org/collection/works/289925",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUwOTAzNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=185bd25106464a85",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "(9 1/2 x 8 1/4\")",
+            "Credit": "Gift of Tamar Cohen",
+            "Object number": "76.2018.139",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7644"
+    },
+    {
+        "Artist": "Elaine Lustig Cohen",
+        "Title": "Invitation cards for opening receptions at the Jewish Museum",
+        "Year": "1964-1966",
+        "ObjectID": "289932",
+        "Work": "https://www.moma.org/collection/works/289932",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxMDY5NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9518c8aeed0d9ed5",
+        "Details": {
+            "Medium": "Letterpress",
+            "Dimensions": "(dims vary)",
+            "Credit": "Gift of Tamar Cohen",
+            "Object number": "76.2018.146a-h",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7644"
+    },
+    {
+        "Artist": "Elaine Lustig Cohen",
+        "Title": "Brochure for circulating exhibitions offered by the Jewish Museum",
+        "Year": "1966",
+        "ObjectID": "289938",
+        "Work": "https://www.moma.org/collection/works/289938",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxMDcwOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=adc225abc5069528",
+        "Details": {
+            "Medium": "Letterpress",
+            "Dimensions": "9 \u00d7 3 7/8\" (22.9 \u00d7 9.8 cm)",
+            "Credit": "Gift of Tamar Cohen",
+            "Object number": "76.2018.152",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7644"
+    },
+    {
+        "Artist": "Elaine Lustig Cohen",
+        "Title": "Stationery invitation and envelope for the Purim Ball at the Jewish Museum",
+        "Year": "1966",
+        "ObjectID": "289939",
+        "Work": "https://www.moma.org/collection/works/289939",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxMDcwOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=67bb5e08dacfb1c6",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "(dims vary)",
+            "Credit": "Gift of Tamar Cohen",
+            "Object number": "76.2018.153a-b",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7644"
+    },
+    {
+        "Artist": "Warrington Colescott",
+        "Title": "Stock Exchange",
+        "Year": "1966",
+        "ObjectID": "78117",
+        "Work": "https://www.moma.org/collection/works/78117",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNDkzMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=06eadd9343bc62b3",
+        "Details": {
+            "Medium": "Drypoint, etching, and aquatint",
+            "Dimensions": "plate: 17 13/16 \u00d7 17 15/16\" (45.3 \u00d7 45.6 cm); sheet: 22 1/4 \u00d7 29 7/8\" (56.5 \u00d7 75.9 cm)",
+            "Publisher": "Warrington Colescott, London",
+            "Printer": "Warrington Colescott, London",
+            "Edition": "artist's proof before the edition of 50",
+            "Credit": "John B. Turner Fund",
+            "Object number": "2332.1967",
+            "Copyright": "\u00a9 2023 Family of Warrington Colescott",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1184"
+    },
+    {
+        "Artist": "Joe Colombo",
+        "Title": "Coupe Floor Lamp (model 3321)",
+        "Year": "1966",
+        "ObjectID": "4742",
+        "Work": "https://www.moma.org/collection/works/4742",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxOTY1MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=01a4a64f67001d32",
+        "Details": {
+            "Manufacturer": "Oluce, Milan, Italy",
+            "Medium": "Enameled and chrome-plated steel",
+            "Dimensions": "57 1/2\" (146 cm)",
+            "Credit": "Gift of George Kovacs, Inc.",
+            "Object number": "2226.1967",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/1196"
+    },
+    {
+        "Artist": "Bruce Conner",
+        "Title": "BOOKPAGE",
+        "Year": "September 29, 1966",
+        "ObjectID": "95696",
+        "Work": "https://www.moma.org/collection/works/95696",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNDQ0NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ebde5734f25677d7",
+        "Details": {
+            "Medium": "Felt-tip pen on paper",
+            "Dimensions": "8 1/2 x 5 1/4\" (21.6 x 13.3 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift (purchase, and gift, in part, of The Eileen and Michael Cohen Collection)",
+            "Object number": "1445.2005",
+            "Copyright": "\u00a9 2023 Bruce Conner / Artists Rights Society (ARS), New York",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1215"
+    },
+    {
+        "Artist": "Bruce Conner",
+        "Title": "UNTITLED",
+        "Year": "September 1, 1966",
+        "ObjectID": "95697",
+        "Work": "https://www.moma.org/collection/works/95697",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1MDQyNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=dbd2fb9b82ea8f4a",
+        "Details": {
+            "Medium": "Felt-tip pen and pencil on paper",
+            "Dimensions": "12 x 12\" (30.5 x 30.5 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift (purchase, and gift, in part, of The Eileen and Michael Cohen Collection)",
+            "Object number": "1444.2005",
+            "Copyright": "\u00a9 2023 Bruce Conner / Artists Rights Society (ARS), New York",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1215"
+    },
+    {
+        "Artist": "Linda Connor",
+        "Title": "Tours, France",
+        "Year": "1966",
+        "ObjectID": "204921",
+        "Work": "https://www.moma.org/collection/works/204921",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM1NTg0NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8d9380898980983c",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "4 3/16 \u00d7 6 3/16\" (10.6 \u00d7 15.7 cm)",
+            "Credit": "Purchase",
+            "Object number": "SC1967.1.2",
+            "Portfolio": "Photographs Rhode Island School of Design",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/1217"
+    },
+    {
+        "Artist": "Pietro Consagra",
+        "Title": "So Many Gardens for Us",
+        "Year": "1966",
+        "ObjectID": "60557",
+        "Work": "https://www.moma.org/collection/works/60557",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNDcxNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a3f7bcf666b1f545",
+        "Details": {
+            "Medium": "Etching and aquatint",
+            "Dimensions": "plate: 12 5/8 x 16 1/4\" (32 x 41.3 cm); sheet: 19 5/8 x 25 3/8\" (49.8 x 64.4 cm)",
+            "Credit": "John S. Newberry Fund",
+            "Object number": "34.1968",
+            "Copyright": "\u00a9 2023 Pietro Consagra / Artists Rights Society (ARS), New York / SIAE, Rome",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1221"
+    },
+    {
+        "Artist": "Continental Can Co., USA",
+        "Title": "Tumblers",
+        "Year": "1966",
+        "ObjectID": "3313",
+        "Work": "https://www.moma.org/collection/works/3313",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMTA4OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=702c0976391b837c",
+        "Details": {
+            "Manufacturer": "Continental Can Co., USA",
+            "Medium": "Plastic",
+            "Dimensions": "Each: 4 3/8 x 3 1/4\" (11.1 x 8.3 cm)",
+            "Credit": "Gift of Bonniers",
+            "Object number": "331.1967.1-3",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/10483"
+    },
+    {
+        "Artist": "Alfredo Cortina",
+        "Title": "Hotel San Juan de Los Morros",
+        "Year": "1966",
+        "ObjectID": "177284",
+        "Work": "https://www.moma.org/collection/works/177284",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5MjA2OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=be96c6e23dc81ac6",
+        "Details": {
+            "Medium": "Gelatin silver print, printed 2013",
+            "Dimensions": "10 1/16 \u00d7 10 1/16\" (25.5 \u00d7 25.6 cm)",
+            "Credit": "Gift of Herman Sifontes through the Latin American and Caribbean Fund",
+            "Object number": "108.2014",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/44727"
+    },
+    {
+        "Artist": "Marie Cosindas",
+        "Title": "Paula Nude",
+        "Year": "1966",
+        "ObjectID": "50734",
+        "Work": "https://www.moma.org/collection/works/50734",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxOTU3NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b0a4a78573194912",
+        "Details": {
+            "Medium": "Dye transfer print",
+            "Dimensions": "7 1/2 \u00d7 5 1/2\" (18.1 \u00d7 14.0 cm)",
+            "Credit": "Acquired with matching funds from Samuel William Sax and the National Endowment for the Arts, 1978",
+            "Object number": "322.1978",
+            "Copyright": "\u00a9 2023 Marie Cosindas",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/1260"
+    },
+    {
+        "Artist": "Marie Cosindas",
+        "Title": "Sailors, Key West",
+        "Year": "1966",
+        "ObjectID": "50757",
+        "Work": "https://www.moma.org/collection/works/50757",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxOTU3OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5f11e7fad79b0a28",
+        "Details": {
+            "Medium": "Dye transfer print",
+            "Dimensions": "5 5/16 \u00d7 6 7/8\" (13.5 \u00d7 17.5 cm)",
+            "Credit": "Acquired with matching funds from Samuel William Sax and the National Endowment for the Arts",
+            "Object number": "323.1978",
+            "Copyright": "\u00a9 2023 Marie Cosindas",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/1260"
+    },
+    {
+        "Artist": "Marie Cosindas",
+        "Title": "Masks, Boston",
+        "Year": "1966",
+        "ObjectID": "220670",
+        "Work": "https://www.moma.org/collection/works/220670",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQwMDY4NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b62cd65be5d6b503",
+        "Details": {
+            "Medium": "Dye transfer print",
+            "Dimensions": "10 \u00d7 7\" (25.4 \u00d7 17.8 cm)",
+            "Credit": "Gift of Helen Kornblum",
+            "Object number": "433.2017",
+            "Copyright": "\u00a9 2023 Marie Cosindas",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/1260"
+    },
+    {
+        "Artist": "Jack Coughlin",
+        "Title": "Hyena-Hyenas",
+        "Year": "1966",
+        "ObjectID": "60556",
+        "Work": "https://www.moma.org/collection/works/60556",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxODUwMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=34d9232dc0a5142b",
+        "Details": {
+            "Medium": "Etching and aquatint",
+            "Dimensions": "plate: 22 3/4 x 16 3/4\" (57.8 x 42.6cm); sheet: 26 7/16 x 20 3/4\" (67.2 x 52.7cm)",
+            "Edition": "50",
+            "Credit": "John B. Turner Fund",
+            "Object number": "34.1967",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1270"
+    },
+    {
+        "Artist": "Jose Luis Cuevas",
+        "Title": "Title page from Charenton",
+        "Year": "1966",
+        "ObjectID": "32414",
+        "Work": "https://www.moma.org/collection/works/32414",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjU0MjI1OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=eb33e6a6da2debfb",
+        "Details": {
+            "Author": "Jos\u00e9 Luis Cuevas",
+            "Medium": "Lithograph from an illustrated book with 15 lithographs (including title page, table of contents, and colophon)",
+            "Dimensions": "composition (irreg.): 26 3/4 \u00d7 18\" (68 \u00d7 45.7 cm); sheet: 30 3/8 \u00d7 22 7/16\" (77.1 \u00d7 57 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1778.1967.1",
+            "Copyright": "\u00a9 2023 Jos\u00e9 Luis Cuevas / Artists Rights Society (ARS), New York / SOMAAP, Mexico",
+            "Illustrated book": "Charenton",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1325"
+    },
+    {
+        "Artist": "Jose Luis Cuevas",
+        "Title": "Charenton",
+        "Year": "1965-66, published 1966",
+        "ObjectID": "32415",
+        "Work": "https://www.moma.org/collection/works/32415",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjU0MjI2MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=46d64d3d0582bcb4",
+        "Details": {
+            "Author": "Jos\u00e9 Luis Cuevas",
+            "Medium": "Illustrated book with 15 lithographs (including title page, table of contents, and colophon)",
+            "Dimensions": "page (orientation varies; each approx.): 30 1/2 \u00d7 22 5/8\" (77.5 \u00d7 57.5 cm); overall (closed): 32 \u00d7 23 7/8 \u00d7 13/16\" (81.3 \u00d7 60.6 \u00d7 2.1 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1778.1967.1-15",
+            "Copyright": "\u00a9 2023 Jos\u00e9 Luis Cuevas / Artists Rights Society (ARS), New York / SOMAAP, Mexico",
+            "Type": "Illustrated Book",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1325"
+    },
+    {
+        "Artist": "Jose Luis Cuevas",
+        "Title": "Happenings in Charenton (plate 8) from Charenton",
+        "Year": "1966",
+        "ObjectID": "32416",
+        "Work": "https://www.moma.org/collection/works/32416",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjU0MjI1OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e7606426f0355a15",
+        "Details": {
+            "Author": "Jos\u00e9 Luis Cuevas",
+            "Medium": "Lithograph from an illustrated book with 15 lithographs (including title page, table of contents, and colophon)",
+            "Dimensions": "composition (irreg.): 19 \u00d7 24 15/16\" (48.2 \u00d7 63.4 cm); sheet: 22 7/16 \u00d7 30 5/16\" (57 \u00d7 77 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1778.1967.10",
+            "Copyright": "\u00a9 2023 Jos\u00e9 Luis Cuevas / Artists Rights Society (ARS), New York / SOMAAP, Mexico",
+            "Illustrated book": "Charenton",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1325"
+    },
+    {
+        "Artist": "Jose Luis Cuevas",
+        "Title": "Procuress with Meat (plate 9) from Charenton",
+        "Year": "1966",
+        "ObjectID": "32417",
+        "Work": "https://www.moma.org/collection/works/32417",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjU0MjI2MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8b5aaf76298fdb52",
+        "Details": {
+            "Author": "Jos\u00e9 Luis Cuevas",
+            "Medium": "Lithograph from an illustrated book with 15 lithographs (including title page, table of contents, and colophon)",
+            "Dimensions": "composition and sheet: 22 3/8 \u00d7 30 3/16\" (56.8 \u00d7 76.7 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1778.1967.11",
+            "Copyright": "\u00a9 2023 Jos\u00e9 Luis Cuevas / Artists Rights Society (ARS), New York / SOMAAP, Mexico",
+            "Illustrated book": "Charenton",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1325"
+    },
+    {
+        "Artist": "Jose Luis Cuevas",
+        "Title": "The Marriage of Arnolfini (plate 10) from Charenton",
+        "Year": "1966",
+        "ObjectID": "32418",
+        "Work": "https://www.moma.org/collection/works/32418",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjU0MjI2MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7804e5a79028b6e6",
+        "Details": {
+            "Author": "Jos\u00e9 Luis Cuevas",
+            "Medium": "Lithograph from an illustrated book with 15 lithographs (including title page, table of contents, and colophon)",
+            "Dimensions": "composition and sheet: 22 3/8 \u00d7 30 3/8\" (56.8 \u00d7 77.1 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1778.1967.12",
+            "Copyright": "\u00a9 2023 Jos\u00e9 Luis Cuevas / Artists Rights Society (ARS), New York / SOMAAP, Mexico",
+            "Illustrated book": "Charenton",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1325"
+    },
+    {
+        "Artist": "Jose Luis Cuevas",
+        "Title": "Beast Eating (plate 11) from Charenton",
+        "Year": "1965, published 1966",
+        "ObjectID": "32419",
+        "Work": "https://www.moma.org/collection/works/32419",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjU0MjI2MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d2f699c74ba32710",
+        "Details": {
+            "Author": "Jos\u00e9 Luis Cuevas",
+            "Medium": "Lithograph from an illustrated book with 15 lithographs (including title page, table of contents, and colophon)",
+            "Dimensions": "composition (irreg.) and sheet: 22 5/16 \u00d7 30 3/8\" (56.7 \u00d7 77.2 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1778.1967.13",
+            "Copyright": "\u00a9 2023 Jos\u00e9 Luis Cuevas / Artists Rights Society (ARS), New York / SOMAAP, Mexico",
+            "Illustrated book": "Charenton",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1325"
+    },
+    {
+        "Artist": "Jose Luis Cuevas",
+        "Title": "Worm Pit (plate 12) from Charenton",
+        "Year": "1965-66, published 1966",
+        "ObjectID": "32420",
+        "Work": "https://www.moma.org/collection/works/32420",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjU0MjI2NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8f2d9947cad3bd4f",
+        "Details": {
+            "Author": "Jos\u00e9 Luis Cuevas",
+            "Medium": "Lithograph from an illustrated book with 15 lithographs (including title page, table of contents, and colophon)",
+            "Dimensions": "composition and sheet: 22 7/16 \u00d7 30 1/4\" (57 \u00d7 76.8 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1778.1967.14",
+            "Copyright": "\u00a9 2023 Jos\u00e9 Luis Cuevas / Artists Rights Society (ARS), New York / SOMAAP, Mexico",
+            "Illustrated book": "Charenton",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1325"
+    },
+    {
+        "Artist": "Jose Luis Cuevas",
+        "Title": "Colophon from Charenton",
+        "Year": "1966",
+        "ObjectID": "32421",
+        "Work": "https://www.moma.org/collection/works/32421",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjU0MjI2NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3483a941910b2782",
+        "Details": {
+            "Author": "Jos\u00e9 Luis Cuevas",
+            "Medium": "Lithograph from an illustrated book with 15 lithographs (including title page, table of contents, and colophon)",
+            "Dimensions": "composition (irreg.): 26 \u00d7 16 1/8\" (66 \u00d7 41 cm); sheet: 30 3/16 \u00d7 22 5/16\" (76.7 \u00d7 56.7 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1778.1967.15",
+            "Copyright": "\u00a9 2023 Jos\u00e9 Luis Cuevas / Artists Rights Society (ARS), New York / SOMAAP, Mexico",
+            "Illustrated book": "Charenton",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1325"
+    },
+    {
+        "Artist": "Jose Luis Cuevas",
+        "Title": "Table of contents from Charenton",
+        "Year": "1966",
+        "ObjectID": "32422",
+        "Work": "https://www.moma.org/collection/works/32422",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjU0MjI2NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ec1f6b7e95bbdfaf",
+        "Details": {
+            "Author": "Jos\u00e9 Luis Cuevas",
+            "Medium": "Lithograph from an illustrated book with 15 lithographs (including title page, table of contents, and colophon)",
+            "Dimensions": "composition (irreg.): 16 3/4 \u00d7 11 7/16\" (42.5 \u00d7 29 cm); sheet: 30 5/16 \u00d7 22 7/16\" (77 \u00d7 57 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1778.1967.2",
+            "Copyright": "\u00a9 2023 Jos\u00e9 Luis Cuevas / Artists Rights Society (ARS), New York / SOMAAP, Mexico",
+            "Illustrated book": "Charenton",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1325"
+    },
+    {
+        "Artist": "Jose Luis Cuevas",
+        "Title": "Justine and the Marquis de Sade (plate 1) from Charenton",
+        "Year": "1965, published 1966",
+        "ObjectID": "32423",
+        "Work": "https://www.moma.org/collection/works/32423",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjU0MjI2NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4bb2d66408902579",
+        "Details": {
+            "Author": "Jos\u00e9 Luis Cuevas",
+            "Medium": "Lithograph from an illustrated book with 15 lithographs (including title page, table of contents, and colophon)",
+            "Dimensions": "composition (irreg.) and sheet: 22 1/2 \u00d7 30 1/2\" (57.1 \u00d7 77.4 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1778.1967.3",
+            "Copyright": "\u00a9 2023 Jos\u00e9 Luis Cuevas / Artists Rights Society (ARS), New York / SOMAAP, Mexico",
+            "Illustrated book": "Charenton",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1325"
+    },
+    {
+        "Artist": "Jose Luis Cuevas",
+        "Title": "Doctor Laforet and His Patients (headpiece) from Charenton",
+        "Year": "1965, published 1966",
+        "ObjectID": "32424",
+        "Work": "https://www.moma.org/collection/works/32424",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjU0MjI2OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e9373cb718083d13",
+        "Details": {
+            "Author": "Jos\u00e9 Luis Cuevas",
+            "Medium": "Lithograph from an illustrated book with 15 lithographs (including title page, table of contents, and colophon)",
+            "Dimensions": "composition: 15 3/16 \u00d7 22 3/8\" (38.5 \u00d7 56.9 cm); sheet: 30 3/8 \u00d7 22 3/8\" (77.2 \u00d7 56.9 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1778.1967.4",
+            "Copyright": "\u00a9 2023 Jos\u00e9 Luis Cuevas / Artists Rights Society (ARS), New York / SOMAAP, Mexico",
+            "Illustrated book": "Charenton",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1325"
+    }
+]
