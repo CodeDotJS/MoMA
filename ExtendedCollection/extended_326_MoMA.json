@@ -396,7 +396,15 @@
         "Year": "1995",
         "ObjectID": "175730",
         "Work": "https://www.moma.org/collection/works/175730",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM4NzQxNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3483085265a8cc24"
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM4NzQxNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3483085265a8cc24",
+        "Details": {
+            "Medium": "Ink on paper",
+            "Dimensions": "12 5/8 \u00d7 8 5/8\" (32.1 \u00d7 21.9 cm)",
+            "Credit": "Gift of Archivo Clorindo Testa",
+            "Object number": "946.2016",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/42231"
     },
     {
         "Artist": "Robert Therrien",
@@ -404,7 +412,16 @@
         "Year": "(1995)",
         "ObjectID": "33480",
         "Work": "https://www.moma.org/collection/works/33480",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjk3MTI1Il0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNTEyeDUxMlx1MDAzZSJdXQ.jpg?sha=399b221a8489a36e"
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjk3MTI1Il0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNTEyeDUxMlx1MDAzZSJdXQ.jpg?sha=399b221a8489a36e",
+        "Details": {
+            "Medium": "Synthetic polymer paint on paper",
+            "Dimensions": "61 x 40\" (155 x 101.6 cm)",
+            "Credit": "Purchased with funds given by Sarah-Ann and Werner H. Kramarsky",
+            "Object number": "42.1997",
+            "Copyright": "\u00a9 2023 Robert Therrien / Artists Rights Society (ARS), New York",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/7080"
     },
     {
         "Artist": "Robert Therrien",
