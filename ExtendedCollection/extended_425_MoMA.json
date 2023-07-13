@@ -1,0 +1,816 @@
+[
+    {
+        "Artist": "Douglas Darden",
+        "Title": "Oxygen House Project (Elevation)",
+        "Year": "1988",
+        "ObjectID": "164221",
+        "Work": "https://www.moma.org/collection/works/164221",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MzQyOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c71a67374f3f9968",
+        "Details": {
+            "Medium": "Pencil and colored pencil on paper",
+            "Dimensions": "18 1/2 x 12\" (47 x 30.5 cm)",
+            "Credit": "Gift of Allison Collins",
+            "Object number": "1703.2012",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/42466"
+    },
+    {
+        "Artist": "Douglas Darden",
+        "Title": "Oxygen House Project",
+        "Year": "1988",
+        "ObjectID": "164222",
+        "Work": "https://www.moma.org/collection/works/164222",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MzQyNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1fa0e7ea71949958",
+        "Details": {
+            "Medium": "Pencil and colored pencil on paper",
+            "Dimensions": "12 x 15\" (30.5 x 38.1 cm)",
+            "Credit": "Gift of Allison Collins",
+            "Object number": "1704.2012",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/42466"
+    },
+    {
+        "Artist": "Douglas Darden",
+        "Title": "Oxygen House Project (Section)",
+        "Year": "1988",
+        "ObjectID": "164223",
+        "Work": "https://www.moma.org/collection/works/164223",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MjcxMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9674c5fecd25b9d1",
+        "Details": {
+            "Medium": "Pencil on paper",
+            "Dimensions": "24 x 32\" (61 x 81.3 cm)",
+            "Credit": "Gift of Allison Collins",
+            "Object number": "1705.2012",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/42466"
+    },
+    {
+        "Artist": "Douglas Darden",
+        "Title": "Oxygen House Project (Elevation)",
+        "Year": "1988",
+        "ObjectID": "164649",
+        "Work": "https://www.moma.org/collection/works/164649",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MjcxNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3b59a215b86cad4c",
+        "Details": {
+            "Medium": "Pencil on paper",
+            "Dimensions": "35 x 24\" (88.9 x 61 cm)",
+            "Credit": "Gift of Allison Collins",
+            "Object number": "1706.2012",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/42466"
+    },
+    {
+        "Artist": "Douglas Darden",
+        "Title": "Oxygen House Project (Plan)",
+        "Year": "1988",
+        "ObjectID": "164650",
+        "Work": "https://www.moma.org/collection/works/164650",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MjcxNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=70dcb643a156b037",
+        "Details": {
+            "Medium": "Pencil on paper",
+            "Dimensions": "31 x 24\" (78.7 x 61 cm)",
+            "Credit": "Gift of Allison Collins",
+            "Object number": "1707.2012",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/42466"
+    },
+    {
+        "Artist": "Douglas Darden",
+        "Title": "Oxygen House Project (Elevation)",
+        "Year": "1988",
+        "ObjectID": "164651",
+        "Work": "https://www.moma.org/collection/works/164651",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MjcxNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1c996c272ea5a6fa",
+        "Details": {
+            "Medium": "Pencil and colored pencil on paper",
+            "Dimensions": "28 x 24\" (71.1 x 61 cm)",
+            "Credit": "Gift of Allison Collins",
+            "Object number": "1708.2012",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/42466"
+    },
+    {
+        "Artist": "Douglas Darden",
+        "Title": "Oxygen House Project (Elevation)",
+        "Year": "1988",
+        "ObjectID": "164652",
+        "Work": "https://www.moma.org/collection/works/164652",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MzQyNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=607faa8234a1b971",
+        "Details": {
+            "Medium": "Pencil on paper",
+            "Dimensions": "28 x 18\" (71.1 x 45.7 cm)",
+            "Credit": "Gift of Allison Collins",
+            "Object number": "1709.2012",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/42466"
+    },
+    {
+        "Artist": "Douglas Darden",
+        "Title": "Oxygen House Project (Plan)",
+        "Year": "1988",
+        "ObjectID": "164653",
+        "Work": "https://www.moma.org/collection/works/164653",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MjcxNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0e4256146d700355",
+        "Details": {
+            "Medium": "Pencil and colored pencil on paper",
+            "Dimensions": "30 x 24\" (76.2 x 61 cm)",
+            "Credit": "Gift of Allison Collins",
+            "Object number": "1710.2012",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/42466"
+    },
+    {
+        "Artist": "Douglas Darden",
+        "Title": "Oxygen House Project (Plan)",
+        "Year": "1988",
+        "ObjectID": "164654",
+        "Work": "https://www.moma.org/collection/works/164654",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MzQyNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a7c9929a18fae8a0",
+        "Details": {
+            "Medium": "Pencil on paper",
+            "Dimensions": "18 x 23\" (45.7 x 58.4 cm)",
+            "Credit": "Gift of Allison Collins",
+            "Object number": "1711.2012",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/42466"
+    },
+    {
+        "Artist": "Douglas Darden",
+        "Title": "Oxygen House Project (Plan)",
+        "Year": "1988",
+        "ObjectID": "164655",
+        "Work": "https://www.moma.org/collection/works/164655",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MzQyNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3239d90d96f0cc08",
+        "Details": {
+            "Medium": "Pencil on paper",
+            "Dimensions": "22 x 16\" (55.9 x 40.6 cm)",
+            "Credit": "Gift of Allison Collins",
+            "Object number": "1712.2012",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/42466"
+    },
+    {
+        "Artist": "Douglas Darden",
+        "Title": "Oxygen House Project (Elevation)",
+        "Year": "1988",
+        "ObjectID": "164656",
+        "Work": "https://www.moma.org/collection/works/164656",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MzQyMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fd4ee869ba9b3125",
+        "Details": {
+            "Medium": "Pencil on paper",
+            "Dimensions": "27 1/2 x 18\" (69.9 x 45.7 cm)",
+            "Credit": "Gift of Allison Collins",
+            "Object number": "1713.2012",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/42466"
+    },
+    {
+        "Artist": "Douglas Darden",
+        "Title": "Oxygen House Project",
+        "Year": "1988",
+        "ObjectID": "164657",
+        "Work": "https://www.moma.org/collection/works/164657",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MzQyMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=eaaceb952b24c133",
+        "Details": {
+            "Medium": "Colored pencil on paper",
+            "Dimensions": "30 x 14 1/2\" (76.2 x 36.8 cm)",
+            "Credit": "Gift of Allison Collins",
+            "Object number": "1714.2012",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/42466"
+    },
+    {
+        "Artist": "Douglas Darden",
+        "Title": "Oxygen House Project (Elevation)",
+        "Year": "1988",
+        "ObjectID": "164658",
+        "Work": "https://www.moma.org/collection/works/164658",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MzQyMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d8b05c94bd7e8c81",
+        "Details": {
+            "Medium": "Pencil on paper",
+            "Dimensions": "28 x 18\" (71.1 x 45.7 cm)",
+            "Credit": "Gift of Allison Collins",
+            "Object number": "1715.2012",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/42466"
+    },
+    {
+        "Artist": "Douglas Darden",
+        "Title": "Oxygen House Project (Plan)",
+        "Year": "1988",
+        "ObjectID": "164659",
+        "Work": "https://www.moma.org/collection/works/164659",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MzQyMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=43c48fbe68cef0df",
+        "Details": {
+            "Medium": "Pencil and colored pencil on paper",
+            "Dimensions": "21 x 12\" (53.3 x 30.5 cm)",
+            "Credit": "Gift of Allison Collins",
+            "Object number": "1716.2012",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/42466"
+    },
+    {
+        "Artist": "Douglas Darden",
+        "Title": "Oxygen House Project (Plan/ section study)",
+        "Year": "1988",
+        "ObjectID": "164660",
+        "Work": "https://www.moma.org/collection/works/164660",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MzQxOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e4a65173b5f03a77",
+        "Details": {
+            "Medium": "Pencil on paper",
+            "Dimensions": "12 x 12\" (30.5 x 30.5 cm)",
+            "Credit": "Gift of Allison Collins",
+            "Object number": "1717.2012",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/42466"
+    },
+    {
+        "Artist": "Douglas Darden",
+        "Title": "Oxygen House Project (Elevation/section)",
+        "Year": "1988",
+        "ObjectID": "164661",
+        "Work": "https://www.moma.org/collection/works/164661",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MzQxOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=dbf7866f7963db61",
+        "Details": {
+            "Medium": "Pencil and colored pencil on tracing paper",
+            "Dimensions": "27 1/2 x 18\" (69.9 x 45.7 cm)",
+            "Credit": "Gift of Allison Collins",
+            "Object number": "1718.2012",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/42466"
+    },
+    {
+        "Artist": "Douglas Darden",
+        "Title": "Oxygen House Project (Elevation, section, plan and detail sketches)",
+        "Year": "1988",
+        "ObjectID": "164662",
+        "Work": "https://www.moma.org/collection/works/164662",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2Nzk0MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1a6182f622739063",
+        "Details": {
+            "Medium": "Pencil and colored pencil on tracing paper",
+            "Dimensions": "26 1/2 x 21 1/2\" (67.3 x 54.6 cm)",
+            "Credit": "Gift of Allison Collins",
+            "Object number": "1719.2012",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/42466"
+    },
+    {
+        "Artist": "Douglas Darden",
+        "Title": "Oxygen House Project (Plan)",
+        "Year": "1988",
+        "ObjectID": "164663",
+        "Work": "https://www.moma.org/collection/works/164663",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MzQxNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ffd9313e45c38eae",
+        "Details": {
+            "Medium": "Pencil and colored pencil on paper",
+            "Dimensions": "29 x 18\" (73.7 x 45.7 cm)",
+            "Credit": "Gift of Allison Collins",
+            "Object number": "1720.2012",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/42466"
+    },
+    {
+        "Artist": "Douglas Darden",
+        "Title": "Oxygen House Project (Elevation)",
+        "Year": "1988",
+        "ObjectID": "164664",
+        "Work": "https://www.moma.org/collection/works/164664",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MzQxNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=945141ac238a062c",
+        "Details": {
+            "Medium": "Pencil and colored pencil on paper",
+            "Dimensions": "28 x 18\" (71.1 x 45.7 cm)",
+            "Credit": "Gift of Allison Collins",
+            "Object number": "1721.2012",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/42466"
+    },
+    {
+        "Artist": "Douglas Darden",
+        "Title": "Oxygen House Project (Elevation)",
+        "Year": "1988",
+        "ObjectID": "164665",
+        "Work": "https://www.moma.org/collection/works/164665",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MzQxNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=06e4bfd55f002797",
+        "Details": {
+            "Medium": "Pencil on paper",
+            "Dimensions": "25 3/4 x 17 3/4\" (65.4 x 45.1 cm)",
+            "Credit": "Gift of Allison Collins",
+            "Object number": "1722.2012",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/42466"
+    },
+    {
+        "Artist": "Douglas Darden",
+        "Title": "Oxygen House Project (Section)",
+        "Year": "1988",
+        "ObjectID": "164666",
+        "Work": "https://www.moma.org/collection/works/164666",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MzQxNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=440dc6a4b66377b4",
+        "Details": {
+            "Medium": "Pencil and colored pencil on paper",
+            "Dimensions": "23 1/2 x 16 3/4\" (59.7 x 42.5 cm)",
+            "Credit": "Gift of Allison Collins",
+            "Object number": "1723.2012",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/42466"
+    },
+    {
+        "Artist": "Douglas Darden",
+        "Title": "Oxygen House Project (Plan)",
+        "Year": "1988",
+        "ObjectID": "164667",
+        "Work": "https://www.moma.org/collection/works/164667",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MzQxMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=44fb3a0966a9184d",
+        "Details": {
+            "Medium": "Pencil and colored pencil on paper",
+            "Dimensions": "27 1/4 x 18\" (69.2 x 45.7 cm)",
+            "Credit": "Gift of Allison Collins",
+            "Object number": "1724.2012",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/42466"
+    },
+    {
+        "Artist": "Richard Deacon",
+        "Title": "Out of His Own Mouth",
+        "Year": "1987-88",
+        "ObjectID": "81170",
+        "Work": "https://www.moma.org/collection/works/81170",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyNzA3OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=abbdf464246c72fc",
+        "Details": {
+            "Medium": "Vinyl, plywood, copper, and steel",
+            "Dimensions": "53 3/4 x 69 1/4 x 41\" (136.5 x 175.9 x 104.2 cm)",
+            "Credit": "Gift of Raymond J. Learsy and Gabriella De Ferrari",
+            "Object number": "224.1991",
+            "Copyright": "\u00a9 2023 Richard Deacon",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/1456"
+    },
+    {
+        "Artist": "Eduardo Del Valle, Mirta Gomez",
+        "Title": "Oaxaca, Mexico",
+        "Year": "1988",
+        "ObjectID": "53144",
+        "Work": "https://www.moma.org/collection/works/53144",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNjY4MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9b2c56e11f8a6a93",
+        "Details": {
+            "Collaborating artist": "Mirta G\u00f3mez",
+            "Medium": "Chromogenic print",
+            "Dimensions": "11 1/8 \u00d7 7 3/8\" (28.3 \u00d7 18.7 cm)",
+            "Credit": "E.T. Harmax Foundation Fund",
+            "Object number": "420.1988.x1-x2",
+            "Copyright": "\u00a9 2023 Eduardo Del Valle and Mirta G\u00f3mez",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/1473"
+    },
+    {
+        "Artist": "Helen De Michiel",
+        "Title": "Consider Anything, Only Don't Cry",
+        "Year": "1988",
+        "ObjectID": "120116",
+        "Work": "https://www.moma.org/collection/works/120116",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNDU2MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d7a9ce332281cc0e",
+        "Details": {
+            "Medium": "Video (color, sound)",
+            "Duration": "22 min.",
+            "Credit": "Purchase",
+            "Object number": "741.1993",
+            "Copyright": "\u00a9 2023 Helen De Michiel. Used by permission.",
+            "Department": "Media and Performance"
+        },
+        "Profile": "https://www.moma.org/artists/34849"
+    },
+    {
+        "Artist": "Agnes Denes",
+        "Title": "Snail Pyramid \u2013 Study for Self-Contained, Self-Supporting City Dwelling \u2013 A Future Habitat",
+        "Year": "1988",
+        "ObjectID": "82196",
+        "Work": "https://www.moma.org/collection/works/82196",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MDU4MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=be0d7e133d6adc68",
+        "Details": {
+            "Medium": "Ink on plastic sheet",
+            "Dimensions": "38 3/4 x 57 1/4\" (98.4 x 145.4 cm)",
+            "Credit": "Purchased with funds provided by Agnes Gund",
+            "Object number": "1358.2001",
+            "Copyright": "\u00a9 2023 Agnes Denes",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1491"
+    },
+    {
+        "Artist": "Facundo de Zuviria",
+        "Title": "Bar Lavalle (esq. Rodriquez Pena)",
+        "Year": "1988",
+        "ObjectID": "284646",
+        "Work": "https://www.moma.org/collection/works/284646",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQzNzkwMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8d150715fe50266b",
+        "Details": {
+            "Medium": "Chromogenic print",
+            "Dimensions": "12 5/8 \u00d7 18 7/8\" (32.1 \u00d7 47.9 cm)",
+            "Credit": "Committee on Photography Fund",
+            "Object number": "319.2018",
+            "Copyright": "\u00a9 2023 Facundo de Zuvir\u00eda",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/74357"
+    },
+    {
+        "Artist": "Stuart Diamond",
+        "Title": "Human/Nature",
+        "Year": "1988",
+        "ObjectID": "36116",
+        "Work": "https://www.moma.org/collection/works/36116",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMyMjczOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cf4ea96fcd13507b",
+        "Details": {
+            "Medium": "Charcoal, pastel and metallic powder on paper",
+            "Dimensions": "38 1/8 x 50\" (96.7 x 127 cm)",
+            "Credit": "Acquired with matching funds from the Robert Lehman Foundation, Inc. and the National Endowment for the Arts",
+            "Object number": "304.1989",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1526"
+    },
+    {
+        "Artist": "David Diao",
+        "Title": "Untitled",
+        "Year": "(1988)",
+        "ObjectID": "62356",
+        "Work": "https://www.moma.org/collection/works/62356",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxOTg1OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=515adc46a4690ddf",
+        "Details": {
+            "Medium": "Etching and aquatint",
+            "Dimensions": "composition  15 5/16 x 21 15/16\" (38.9 x 55.8 cm)",
+            "sheet  22 3/16 x 29 15/16\" (56 x 76.1 cm)": "Publisher",
+            "The Spring Street Workshop, New York": "Printer",
+            "Catherine Mosley": "Credit",
+            "John B. Turner Fund": "Object number",
+            "127.1989": "Department"
+        },
+        "Profile": "https://www.moma.org/artists/1528"
+    },
+    {
+        "Artist": "Philip-Lorca diCorcia",
+        "Title": "Auden",
+        "Year": "1988",
+        "ObjectID": "57821",
+        "Work": "https://www.moma.org/collection/works/57821",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM4NDE2OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0f53c40dbbf34a24",
+        "Details": {
+            "Medium": "Chromogenic print",
+            "Dimensions": "15 3/8 \u00d7 22 7/16\" (39 \u00d7 57 cm)",
+            "Credit": "Gift of Carol and Arthur Goldberg",
+            "Object number": "1185.2001.x1-x2",
+            "Copyright": "\u00a9 2023 Philip-Lorca diCorcia, courtesy David Zwirner, New York",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/7027"
+    },
+    {
+        "Artist": "Philip-Lorca diCorcia",
+        "Title": "Brian",
+        "Year": "1988",
+        "ObjectID": "57824",
+        "Work": "https://www.moma.org/collection/works/57824",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM4NDE2OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=27ee0c0f349fafb4",
+        "Details": {
+            "Medium": "Chromogenic print",
+            "Dimensions": "16 9/16 \u00d7 23 1/8\" (42.1 \u00d7 58.7 cm)",
+            "Credit": "Gift of Carol and Arthur Goldberg",
+            "Object number": "1186.2001.x1-x2",
+            "Copyright": "\u00a9 2023 Philip-Lorca diCorcia, courtesy David Zwirner, New York",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/7027"
+    },
+    {
+        "Artist": "Philip-Lorca diCorcia",
+        "Title": "Madras",
+        "Year": "1988",
+        "ObjectID": "57827",
+        "Work": "https://www.moma.org/collection/works/57827",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM4NDE3MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9bddb6642d5844d8",
+        "Details": {
+            "Medium": "Chromogenic print",
+            "Dimensions": "15 7/16 \u00d7 22 15/16\" (39.2 \u00d7 58.2 cm)",
+            "Credit": "Gift of Carol and Arthur Goldberg",
+            "Object number": "1187.2001.x1-x2",
+            "Copyright": "\u00a9 2023 Philip-Lorca diCorcia, courtesy David Zwirner, New York",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/7027"
+    },
+    {
+        "Artist": "Carroll Dunham",
+        "Title": "Red (1st) from Red Shift",
+        "Year": "1987-88",
+        "ObjectID": "87713",
+        "Work": "https://www.moma.org/collection/works/87713",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1Mzc1OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=43cf9d528977e6e3",
+        "Details": {
+            "Medium": "One from a portfolio of five lithographs",
+            "Dimensions": "composition and sheet: 30 \u00d7 22 1/2\" (76.2 \u00d7 57.1 cm)",
+            "Publisher": "Universal Limited Art Editions, West Islip, New York",
+            "Printer": "Universal Limited Art Editions, West Islip, New York",
+            "Edition": "49",
+            "Credit": "Gift of Emily Fisher Landau",
+            "Object number": "337.1988.1",
+            "Copyright": "\u00a9 2023 Carroll Dunham",
+            "Portfolio": "Red Shift",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1652"
+    },
+    {
+        "Artist": "Carroll Dunham",
+        "Title": "Blue (2nd) from Red Shift",
+        "Year": "1987-88",
+        "ObjectID": "87714",
+        "Work": "https://www.moma.org/collection/works/87714",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1Mzc2MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=173131a2df5329eb",
+        "Details": {
+            "Medium": "One from a portfolio of five lithographs",
+            "Dimensions": "composition and sheet: 30 \u00d7 22 1/2\" (76.2 \u00d7 57.1 cm)",
+            "Publisher": "Universal Limited Art Editions, West Islip, New York",
+            "Printer": "Universal Limited Art Editions, West Islip, New York",
+            "Edition": "49",
+            "Credit": "Gift of Emily Fisher Landau",
+            "Object number": "337.1988.2",
+            "Copyright": "\u00a9 2023 Carroll Dunham",
+            "Portfolio": "Red Shift",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1652"
+    },
+    {
+        "Artist": "Carroll Dunham",
+        "Title": "Purple (3rd) from Red Shift",
+        "Year": "1987-88",
+        "ObjectID": "87715",
+        "Work": "https://www.moma.org/collection/works/87715",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1Mzc2MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f1421f2a05a486e3",
+        "Details": {
+            "Medium": "One from a portfolio of five lithographs",
+            "Dimensions": "composition and sheet: 30 \u00d7 22 1/2\" (76.2 \u00d7 57.1 cm)",
+            "Publisher": "Universal Limited Art Editions, West Islip, New York",
+            "Printer": "Universal Limited Art Editions, West Islip, New York",
+            "Edition": "49",
+            "Credit": "Gift of Emily Fisher Landau",
+            "Object number": "337.1988.3",
+            "Copyright": "\u00a9 2023 Carroll Dunham",
+            "Portfolio": "Red Shift",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1652"
+    },
+    {
+        "Artist": "Carroll Dunham",
+        "Title": "Green (4th) from Red Shift",
+        "Year": "1987-88",
+        "ObjectID": "87716",
+        "Work": "https://www.moma.org/collection/works/87716",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1Mzc2MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=af36a6e54734ab62",
+        "Details": {
+            "Medium": "One from a portfolio of five lithographs",
+            "Dimensions": "composition and sheet: 30 \u00d7 22 1/2\" (76.2 \u00d7 57.1 cm)",
+            "Publisher": "Universal Limited Art Editions, West Islip, New York",
+            "Printer": "Universal Limited Art Editions, West Islip, New York",
+            "Edition": "49",
+            "Credit": "Gift of Emily Fisher Landau",
+            "Object number": "337.1988.4",
+            "Copyright": "\u00a9 2023 Carroll Dunham",
+            "Portfolio": "Red Shift",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1652"
+    },
+    {
+        "Artist": "Carroll Dunham",
+        "Title": "Black (5th) from Red Shift",
+        "Year": "1987-88",
+        "ObjectID": "87717",
+        "Work": "https://www.moma.org/collection/works/87717",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1Mzc2MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=698e07f26f5d2711",
+        "Details": {
+            "Medium": "One from a portfolio of five lithographs",
+            "Dimensions": "composition and sheet: 30 \u00d7 22 1/2\" (76.2 \u00d7 57.1 cm)",
+            "Publisher": "Universal Limited Art Editions, West Islip, New York",
+            "Printer": "Universal Limited Art Editions, West Islip, New York",
+            "Edition": "49",
+            "Credit": "Gift of Emily Fisher Landau",
+            "Object number": "337.1988.5",
+            "Copyright": "\u00a9 2023 Carroll Dunham",
+            "Portfolio": "Red Shift",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1652"
+    },
+    {
+        "Artist": "Jeanne Dunning",
+        "Title": "Untitled Hole",
+        "Year": "1988",
+        "ObjectID": "89024",
+        "Work": "https://www.moma.org/collection/works/89024",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjc5ODAzIl0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNTEyeDUxMlx1MDAzZSJdXQ.jpg?sha=eb38ceae8cb6e328",
+        "Details": {
+            "Medium": "Chromogenic print",
+            "Dimensions": "3 7/16 \u00d7 4 7/16\" (8.8 \u00d7 11.3 cm)",
+            "Credit": "Given anonymously in fond memory of Timothy Greathouse and the Greathouse Gallery",
+            "Object number": "257.2003",
+            "Copyright": "\u00a9 2023 Jeanne Dunning",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/8096"
+    },
+    {
+        "Artist": "Melvin Edwards",
+        "Title": "Cup of? from the Lynch Fragment series",
+        "Year": "1988",
+        "ObjectID": "81196",
+        "Work": "https://www.moma.org/collection/works/81196",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwODU5NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=04a546362de2e503",
+        "Details": {
+            "Medium": "Steel",
+            "Dimensions": "12 7/8 x 6 3/4 x 9 1/2\" (32.7 x 17 x 24 cm)",
+            "Credit": "Purchase",
+            "Object number": "243.1990",
+            "Copyright": "\u00a9 Melvin Edwards/Artists Rights Society (ARS), New York",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/1685"
+    },
+    {
+        "Artist": "Melvin Edwards",
+        "Title": "Sekuru Knows from the Lynch Fragment series",
+        "Year": "1988",
+        "ObjectID": "81199",
+        "Work": "https://www.moma.org/collection/works/81199",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwODYwMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=090809686497b680",
+        "Details": {
+            "Medium": "Steel",
+            "Dimensions": "14 7/8 x 11 x 7 1/4\" (37.9 x 28 x 18.3 cm)",
+            "Credit": "Purchase",
+            "Object number": "244.1990",
+            "Copyright": "\u00a9 Melvin Edwards/Artists Rights Society (ARS), New York",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/1685"
+    },
+    {
+        "Artist": "Dorte Eissfeldt",
+        "Title": "Attempted Exhibition of an Animal, No. 2",
+        "Year": "1988",
+        "ObjectID": "51828",
+        "Work": "https://www.moma.org/collection/works/51828",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ2MzQzOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3588002a608069c7",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "50 \u00d7 31 1/4\" (127 \u00d7 79.4 cm)",
+            "Credit": "Geraldine J. Murphy Fund",
+            "Object number": "364.1998",
+            "Copyright": "\u00a9 2023 D\u00f6rte Eissfeldt",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/7848"
+    },
+    {
+        "Artist": "Emigre Inc., Rudy VanderLans, Zuzana Licko",
+        "Title": "Emigre 9, 4AD",
+        "Year": "1988",
+        "ObjectID": "112307",
+        "Work": "https://www.moma.org/collection/works/112307",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MTQwMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0a7926bfe25fcde2",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "16 3/4 x 11 1/4\"",
+            "Credit": "Agnes Gund Purchase Fund",
+            "Object number": "205.2006.9",
+            "Copyright": "\u00a9 2023 Rudy VanderLans & Zuzana Licko",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/30189"
+    },
+    {
+        "Artist": "Emigre Inc., Rudy VanderLans, Zuzana Licko",
+        "Title": "Emigre 10, Cranbrook",
+        "Year": "1988",
+        "ObjectID": "112308",
+        "Work": "https://www.moma.org/collection/works/112308",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MTMyOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3b286c34763ec5bc",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "16 3/4 x 11 1/4\"",
+            "Credit": "Agnes Gund Purchase Fund",
+            "Object number": "205.2006.10",
+            "Copyright": "\u00a9 2023 Rudy VanderLans & Zuzana Licko",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/30189"
+    },
+    {
+        "Artist": "Harun Farocki",
+        "Title": "Images of the World and the Inscription of War",
+        "Year": "1988",
+        "ObjectID": "147847",
+        "Work": "https://www.moma.org/collection/works/147847",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNTUyNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4acfb6f39b512266",
+        "Details": {
+            "Medium": "16mm film transferred to video (black and white and color, sound)",
+            "Duration": "75 min.",
+            "Credit": "Acquired through the generosity of Agnes Gund",
+            "Object number": "498.2011",
+            "Copyright": "\u00a9 2023 Harun Farocki Filmproduktion",
+            "Department": "Media and Performance"
+        },
+        "Profile": "https://www.moma.org/artists/30905"
+    },
+    {
+        "Artist": "Mark Farrow, Eric Watson, Parlophone Records",
+        "Title": "Album cover for Pet Shop Boys, Introspective",
+        "Year": "1988",
+        "ObjectID": "185419",
+        "Work": "https://www.moma.org/collection/works/185419",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwNTQ3MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3332fc2f21500736",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "12 x 12\" (30.5 x 30.5 cm)",
+            "Credit": "Committee on Architecture and Design Funds",
+            "Object number": "806.2014",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/46475"
+    },
+    {
+        "Artist": "Paola Ferrario",
+        "Title": "Untitled",
+        "Year": "1988",
+        "ObjectID": "52118",
+        "Work": "https://www.moma.org/collection/works/52118",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMTkwMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=df2a0a1048625ee4",
+        "Details": {
+            "Medium": "Chromogenic print",
+            "Dimensions": "16 1/4 \u00d7 23 1/16\" (41.2 \u00d7 58.6 cm)",
+            "Credit": "The Family of Man Fund",
+            "Object number": "377.1990.x1-x2",
+            "Copyright": "\u00a9 2023 Paola Ferrario",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/6989"
+    },
+    {
+        "Artist": "Paola Ferrario",
+        "Title": "Santa Veronica",
+        "Year": "1988",
+        "ObjectID": "52138",
+        "Work": "https://www.moma.org/collection/works/52138",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMTkwMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=04151f9b8f9109eb",
+        "Details": {
+            "Medium": "Chromogenic print",
+            "Dimensions": "23 3/16 \u00d7 16 1/4\" (58.9 \u00d7 41.3 cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "378.1990.x1-x2",
+            "Copyright": "\u00a9 2023 Paola Ferrario",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/6989"
+    },
+    {
+        "Artist": "Larry Fink",
+        "Title": "Giselle, Nice, France",
+        "Year": "1988",
+        "ObjectID": "49889",
+        "Work": "https://www.moma.org/collection/works/49889",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MTI4MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=68aa274990d0bd6b",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "14 1/4 \u00d7 14 3/4\" (36.2 \u00d7 37.5 cm)",
+            "Credit": "Gift of Pauline Marks",
+            "Object number": "277.1996",
+            "Copyright": "\u00a9 2023 Larry Fink",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/1877"
+    }
+]
