@@ -2,7 +2,10 @@
 
 ## Description
 
-An attempt to build Museum of Modern Art's dataset from scratch.
+An attempt to build Museum of Modern Art's dataset and API from scratch.
+
+
+<h1 align="center"><img width="10%" src="media/work-in-progress.png" alt=""></h1>
 
 ## Install
 
