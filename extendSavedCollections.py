@@ -17,21 +17,6 @@ headers = {
     'Connection': 'keep-alive'
 }
 
-def extract_key_value_pairs(description):
-    key_value_pairs = {}
-    lines = description.split('\n')
-    key = None
-    for line in lines:
-        stripped_line = line.strip()
-        if stripped_line:
-            if key is None:
-                key = stripped_line
-            else:
-                value = stripped_line
-                key_value_pairs[key] = value
-                key = None
-    return key_value_pairs
-
 def scrape_artist_data(artist_data, total_artists, lock):
     url = artist_data["Work"]
     response = requests.get(url, headers=headers)
@@ -39,8 +24,16 @@ def scrape_artist_data(artist_data, total_artists, lock):
         soup = BeautifulSoup(response.content, "html.parser")
         details_element = soup.find(id="caption")
         if details_element:
-            details = details_element.get_text()
-            artist_data["Details"] = extract_key_value_pairs(details)
+            details = {}
+            dt_elements = details_element.find_all("dt")
+            dd_elements = details_element.find_all("dd")
+
+            for dt, dd in zip(dt_elements, dd_elements):
+                key = dt.get_text().strip()
+                value = dd.get_text().strip()
+                details[key] = value
+
+            artist_data["Details"] = details
 
             profile_href = soup.select_one('.typography.typography\\/underline\\:disable a[href]')
             if not profile_href:
