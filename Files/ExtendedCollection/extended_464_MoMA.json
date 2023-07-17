@@ -1,0 +1,873 @@
+[
+    {
+        "Artist": "Bob Kane",
+        "Title": "Untitled",
+        "Year": "1985",
+        "ObjectID": "100285",
+        "Work": "https://www.moma.org/collection/works/100285",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MTE0MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8652bb710821bae4",
+        "Details": {
+            "Medium": "Oil on canvas",
+            "Dimensions": "50 1/8 x 40 1/8\" (127.3 x 101.9 cm)",
+            "Credit": "Gift of Edward R. Broida",
+            "Object number": "745.2005",
+            "Copyright": "\u00a9 2023 Bob Kane",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/2983"
+    },
+    {
+        "Artist": "Anish Kapoor",
+        "Title": "Untitled",
+        "Year": "(1985)",
+        "ObjectID": "96295",
+        "Work": "https://www.moma.org/collection/works/96295",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExMjg1MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=86fbabb13d029265",
+        "Details": {
+            "Medium": "Gouache on paper",
+            "Dimensions": "11 x 17 3/4\" (27.9 x 45.1 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "2017.2005",
+            "Copyright": "\u00a9 2023 Anish Kapoor / Artists Rights Society (ARS), New York / DACS, London",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/2995"
+    },
+    {
+        "Artist": "Alex Katz",
+        "Title": "The Green Cap",
+        "Year": "1985",
+        "ObjectID": "62884",
+        "Work": "https://www.moma.org/collection/works/62884",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyNjY5OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f48cae200ac44c52",
+        "Details": {
+            "Medium": "Woodcut",
+            "Dimensions": "composition: 12 3/16 x 17 15/16\" (31 x 45.5cm); sheet: 17 11/16 x 24 1/4\" (45 x 61.6cm)",
+            "Publisher": "Crown Point Press, San Francisco",
+            "Printer": "Shi-un-do Print Shop, Kyoto",
+            "Edition": "200",
+            "Credit": "Gift of Crown Point Press in celebration of its 25th anniversary",
+            "Object number": "142.1987",
+            "Copyright": "\u00a9 2023 Alex Katz / Licensed by VAGA at Artists Rights Society (ARS), NY",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3016"
+    },
+    {
+        "Artist": "Leandro Katz",
+        "Title": "The Castle [Chichen Itza]",
+        "Year": "1985",
+        "ObjectID": "222037",
+        "Work": "https://www.moma.org/collection/works/222037",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQyMjkxMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3ec9bbf912c09e7a",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "20 \u00d7 16\" (50.8 \u00d7 40.6 cm)",
+            "Credit": "Promised gift of Patricia Phelps de Cisneros through the Latin American and Caribbean Fund in honor of May Castleberry",
+            "Object number": "PG720.2017",
+            "Copyright": "\u00a9 2023 Leandro Katz",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/26616"
+    },
+    {
+        "Artist": "Leandro Katz",
+        "Title": "Tulum, after Catherwood [The Castle]",
+        "Year": "1985",
+        "ObjectID": "222039",
+        "Work": "https://www.moma.org/collection/works/222039",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQyMjkxNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6dec26076c65c59a",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "16 \u00d7 20\" (40.6 \u00d7 50.8 cm)",
+            "Credit": "Promised gift of Patricia Phelps de Cisneros through the Latin American and Caribbean Fund in honor of May Castleberry",
+            "Object number": "PG721.2017",
+            "Copyright": "\u00a9 2023 Leandro Katz",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/26616"
+    },
+    {
+        "Artist": "Leandro Katz",
+        "Title": "Uxmal, after Catherwood [House of the Nuns, Southeast Corner]",
+        "Year": "1985",
+        "ObjectID": "222045",
+        "Work": "https://www.moma.org/collection/works/222045",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQyMjkxNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f8699246356f4337",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "16 \u00d7 20\" (40.6 \u00d7 50.8 cm)",
+            "Credit": "Promised gift of Patricia Phelps de Cisneros through the Latin American and Caribbean Fund in honor of May Castleberry",
+            "Object number": "PG722.2017",
+            "Copyright": "\u00a9 2023 Leandro Katz",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/26616"
+    },
+    {
+        "Artist": "Leandro Katz",
+        "Title": "Kabah, after Catherwood [Temple of the Masks]",
+        "Year": "1985",
+        "ObjectID": "222046",
+        "Work": "https://www.moma.org/collection/works/222046",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQyMjkxMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=61d34c9a8303ec5d",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "16 \u00d7 20\" (40.6 \u00d7 50.8 cm)",
+            "Credit": "Promised gift of Patricia Phelps de Cisneros through the Latin American and Caribbean Fund in honor of May Castleberry",
+            "Object number": "PG719.2017",
+            "Copyright": "\u00a9 2023 Leandro Katz",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/26616"
+    },
+    {
+        "Artist": "Mike Kelley",
+        "Title": "Exploring from Plato's Cave, Rothko's Chapel, Lincoln's Profile",
+        "Year": "1985",
+        "ObjectID": "36626",
+        "Work": "https://www.moma.org/collection/works/36626",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0NjM2MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9f926df4ddcaff99",
+        "Details": {
+            "Medium": "Acrylic on paper pinned to canvas",
+            "Dimensions": "76 1/2 x 64\" (194.3 x 162.6 cm)",
+            "Credit": "Gift of the Friends of Contemporary Drawing, the Contemporary Arts Council, and The Junior Associates of The Museum of Modern Art",
+            "Object number": "387.1999",
+            "Copyright": "\u00a9 2023 Mike Kelley",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3045"
+    },
+    {
+        "Artist": "Anselm Kiefer",
+        "Title": "The Red Sea",
+        "Year": "1984-85",
+        "ObjectID": "79158",
+        "Work": "https://www.moma.org/collection/works/79158",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3NDgzMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3090585353ab271b",
+        "Details": {
+            "Medium": "Oil, lead, woodcut, photograph, and shellac on canvas",
+            "Dimensions": "9' 1 3/4\" x 13' 11 3/8\" (278.8 x 425.2 cm)",
+            "Credit": "Enid A. Haupt Fund",
+            "Object number": "211.1985",
+            "Copyright": "\u00a9 2023 Anselm Kiefer",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/3086"
+    },
+    {
+        "Artist": "Martin Kippenberger",
+        "Title": "War is No Nice",
+        "Year": "1985",
+        "ObjectID": "79453",
+        "Work": "https://www.moma.org/collection/works/79453",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1MTI0MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2ca315e393219879",
+        "Details": {
+            "Medium": "Oil and silicone rubber on canvas",
+            "Dimensions": "71 x 59 1/8\" (180.3 x 150.1 cm)",
+            "Credit": "Gift of Emily and Jerry Spiegel",
+            "Object number": "299.1997",
+            "Copyright": "\u00a9 2023 Estate Martin Kippenberger, Galerie Gisela Capitain, Cologne",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/3111"
+    },
+    {
+        "Artist": "Martin Kippenberger",
+        "Title": "Jeder Mensch hat Anspruch auf Erholung",
+        "Year": "1985",
+        "ObjectID": "96349",
+        "Work": "https://www.moma.org/collection/works/96349",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExMjc3MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ec2c2d8f0d65dbc0",
+        "Details": {
+            "Medium": "Cut-and-pasted printed paper and cut-and-pasted colored paper with synthetic polymer paint, spray paint, and glue on printed paper in artist's frame",
+            "Dimensions": "32 3/8 x 24 1/2 x 1 1/2\" (82.2 x 62.2 x 3.8 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "2054.2005",
+            "Copyright": "\u00a9 2023 Estate Martin Kippenberger, Galerie Gisela Capitain, Cologne",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3111"
+    },
+    {
+        "Artist": "Martin Kippenberger",
+        "Title": "Untitled",
+        "Year": "1985",
+        "ObjectID": "96350",
+        "Work": "https://www.moma.org/collection/works/96350",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExMjc3NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7674713f141aadd7",
+        "Details": {
+            "Medium": "Cut-and-pasted printed paper and cut-and-pasted chromogenic print with synthetic polymer paint, spray paint, glue, and nail clippers on board in artist's frame",
+            "Dimensions": "14 3/4 x 13 x 1 1/2\" (37.5 x 33 x 3.8 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "2055.2005",
+            "Copyright": "\u00a9 2023 Estate Martin Kippenberger, Galerie Gisela Capitain, Cologne",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3111"
+    },
+    {
+        "Artist": "Martin Kippenberger",
+        "Title": "1984. Wie es wirklich war am Beispiel Knokke,",
+        "Year": "1985",
+        "ObjectID": "195098",
+        "Work": "https://www.moma.org/collection/works/195098",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzMjY5MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f8819a047f777082",
+        "Details": {
+            "Medium": "Artist's book, lithograph printed",
+            "Dimensions": "page (each): 5 7/8 \u00d7 3 11/16\" (14.9 \u00d7 9.4 cm); overall (closed): 5 7/8 \u00d7 3 3/4 \u00d7 1/8\" (15 \u00d7 9.5 \u00d7 0.3 cm)",
+            "Publisher": "Galerie B\u00e4rbel Gr\u00e4sslin, Frankfurt",
+            "Edition": "approx. 1,000",
+            "Credit": "Committee on Drawings and Prints Fund and through the generosity of Philip E. Aarons and Shelley Fox Aarons",
+            "Object number": "559.2015",
+            "Copyright": "\u00a9 2023 Estate Martin Kippenberger, Galerie Gisela Capitain, Cologne",
+            "Associated work": "Martin Kippenberger Artist's Books",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3111"
+    },
+    {
+        "Artist": "Martin Kippenberger",
+        "Title": "Arbeiten Mit Papier 1983/85,",
+        "Year": "1985",
+        "ObjectID": "195099",
+        "Work": "https://www.moma.org/collection/works/195099",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0MzgxNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6f4c8fd8ad2cabc2",
+        "Details": {
+            "Medium": "Catalogue, lithograph printed",
+            "Dimensions": "page (each): 10 9/16 \u00d7 8 1/16\" (26.9 \u00d7 20.4 cm); overall (closed): 10 9/16 \u00d7 8 1/4 \u00d7 1/4\" (26.9 \u00d7 21 \u00d7 0.6 cm)",
+            "Publisher": "Galerie Erhard Klein, Bonn, Kunstverein, Oldenburg",
+            "Edition": "approx. 600-800",
+            "Credit": "Committee on Drawings and Prints Fund and through the generosity of Philip E. Aarons and Shelley Fox Aarons",
+            "Object number": "560.2015",
+            "Copyright": "\u00a9 2023 Estate Martin Kippenberger, Galerie Gisela Capitain, Cologne",
+            "Associated work": "Martin Kippenberger Artist's Books",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3111"
+    },
+    {
+        "Artist": "Martin Kippenberger, Albert Oehlen",
+        "Title": "The Cologne Manifesto",
+        "Year": "1985",
+        "ObjectID": "193103",
+        "Work": "https://www.moma.org/collection/works/193103",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzMjY5MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cbe0dd2fed2395d4",
+        "Details": {
+            "Collaborating artist": "Albert Oehlen",
+            "Medium": "Artist's book, lithograph printed with pasted screenprints",
+            "Dimensions": "page (each): 9 \u00d7 13 1/8\" (22.8 \u00d7 33.4 cm); overall (closed): 9 1/4 \u00d7 13 9/16 \u00d7 1\" (23.5 \u00d7 34.5 \u00d7 2.5 cm)",
+            "Publisher": "Edition Lord Jim Loge, Graz/Cologne/Hamburg",
+            "Edition": "25",
+            "Credit": "Gift of Lawrence Luhring",
+            "Object number": "558.2015",
+            "Copyright": "\u00a9 2023 Estate Martin Kippenberger, Galerie Gisela Capitain, Cologne",
+            "Associated work": "Martin Kippenberger Artist's Books",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3111"
+    },
+    {
+        "Artist": "Per Kirkeby",
+        "Title": "Untitled",
+        "Year": "1985",
+        "ObjectID": "86947",
+        "Work": "https://www.moma.org/collection/works/86947",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NjI3NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9eabb267bcfe412e",
+        "Details": {
+            "Medium": "Oil, watercolor, ink, crayon, and pencil on paper",
+            "Dimensions": "23 1/4 x 16 1/2\" (59.1 x 41.9 cm)",
+            "Credit": "Gift of Gabriella De Ferrari and Nathaniel and Gabriella Jeppson in honor of Agnes Gund",
+            "Object number": "403.2002",
+            "Copyright": "\u00a9 2023 Per Kirkeby",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3118"
+    },
+    {
+        "Artist": "Richard Kleinberg",
+        "Title": "Los Ebanos, Texas",
+        "Year": "1985",
+        "ObjectID": "50669",
+        "Work": "https://www.moma.org/collection/works/50669",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNjY1MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=50d5af639b51a6e7",
+        "Details": {
+            "Medium": "Chromogenic print",
+            "Dimensions": "9 11/16 \u00d7 11 7/8\" (24.5 \u00d7 30.2 cm)",
+            "Credit": "Robert and Joyce Menschel Fund",
+            "Object number": "319.1987.x1-x2",
+            "Copyright": "\u00a9 2023 Richard Kleinberg",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/3138"
+    },
+    {
+        "Artist": "Richard Kleinberg",
+        "Title": "Los Ebanos, Texas",
+        "Year": "1985",
+        "ObjectID": "50692",
+        "Work": "https://www.moma.org/collection/works/50692",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNjY1NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d803f28b18be6939",
+        "Details": {
+            "Medium": "Chromogenic print",
+            "Dimensions": "9 11/16 \u00d7 11 15/16\" (24.5 \u00d7 30.3 cm)",
+            "Credit": "Robert and Joyce Menschel Fund",
+            "Object number": "320.1987.x1-x2",
+            "Copyright": "\u00a9 2023 Richard Kleinberg",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/3138"
+    },
+    {
+        "Artist": "Milan Knizak",
+        "Title": "I Prefer Silence",
+        "Year": "c. 1980",
+        "ObjectID": "131312",
+        "Work": "https://www.moma.org/collection/works/131312",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MDU5NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d83103dbd6e1a4bf",
+        "Details": {
+            "Medium": "Cut-and-pasted offset lithograph with transfer type, acrylic paint, ballpoint pen, and collage on card stock",
+            "Dimensions": "sheet: 11 13/16 x 8 1/4\" (30 x 21 cm); overall: 11 13/16 x 8 1/4 x 3/16\" (30 x 21 x 0.4 cm)",
+            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
+            "Object number": "3863.2008",
+            "Copyright": "\u00a9 2023 Milan Kn\u00ed\u017e\u00e1k / Artists Rights Society (ARS), New York / VG Bild-Kunst, Germany",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/29427"
+    },
+    {
+        "Artist": "Milan Knizak",
+        "Title": "Wedding",
+        "Year": "c. 1980",
+        "ObjectID": "131329",
+        "Work": "https://www.moma.org/collection/works/131329",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMxMjYzNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=39a8cdb1f8a9468f",
+        "Details": {
+            "Medium": "Gelatin silver print, synthetic polymer paint, and plastic disc",
+            "Dimensions": "sheet: 9 1/2 x 12\" (24.1 x 30.5 cm)",
+            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
+            "Object number": "3230.2008.1",
+            "Copyright": "\u00a9 2023 Milan Kn\u00ed\u017e\u00e1k / Artists Rights Society (ARS), New York / VG Bild-Kunst, Germany",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/29427"
+    },
+    {
+        "Artist": "Milan Knizak",
+        "Title": "Wedding",
+        "Year": "c. 1980",
+        "ObjectID": "131330",
+        "Work": "https://www.moma.org/collection/works/131330",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMxMjYzNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=254b9c3359eb5be4",
+        "Details": {
+            "Medium": "Gelatin silver print and synthetic polymer paint",
+            "Dimensions": "sheet: 9 1/2 x 11 3/4\" (24.1 x 29.8 cm)",
+            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
+            "Object number": "3230.2008.2",
+            "Copyright": "\u00a9 2023 Milan Kn\u00ed\u017e\u00e1k / Artists Rights Society (ARS), New York / VG Bild-Kunst, Germany",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/29427"
+    },
+    {
+        "Artist": "Milan Knizak",
+        "Title": "Wedding",
+        "Year": "c. 1980",
+        "ObjectID": "131332",
+        "Work": "https://www.moma.org/collection/works/131332",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMxMjYzNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5f87322a0f02b89c",
+        "Details": {
+            "Medium": "Gelatin silver print and synthetic polymer paint",
+            "Dimensions": "sheet: 9 1/2 x 11 3/4\" (24.1 x 29.8 cm)",
+            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
+            "Object number": "3230.2008.3",
+            "Copyright": "\u00a9 2023 Milan Kn\u00ed\u017e\u00e1k / Artists Rights Society (ARS), New York / VG Bild-Kunst, Germany",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/29427"
+    },
+    {
+        "Artist": "Milan Knizak",
+        "Title": "Wedding",
+        "Year": "c. 1980",
+        "ObjectID": "136664",
+        "Work": "https://www.moma.org/collection/works/136664",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMxMjYzOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7b6c3c246cc21be0",
+        "Details": {
+            "Medium": "Gelatin silver print and synthetic polymer paint",
+            "Dimensions": "sheet: 9 1/2 x 11 3/4\" (24.1 x 29.8 cm)",
+            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
+            "Object number": "3230.2008.4",
+            "Copyright": "\u00a9 2023 Milan Kn\u00ed\u017e\u00e1k / Artists Rights Society (ARS), New York / VG Bild-Kunst, Germany",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/29427"
+    },
+    {
+        "Artist": "Milan Knizak",
+        "Title": "Performance Files",
+        "Year": "1962-85",
+        "ObjectID": "178908",
+        "Work": "https://www.moma.org/collection/works/178908",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5NDE2NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a5f1cfef7d87d940",
+        "Details": {
+            "Medium": "101 files with scores and photographs",
+            "Dimensions": "dimensions vary",
+            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
+            "Object number": "3160.2008.1-101",
+            "Copyright": "\u00a9 2023 Milan Kn\u00ed\u017e\u00e1k / Artists Rights Society (ARS), New York / VG Bild-Kunst, Germany",
+            "Type": "Associated Work",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/29427"
+    },
+    {
+        "Artist": "Christopher Knowles",
+        "Title": "Untitled (My Name Is Christopher Knowles)",
+        "Year": "c. 1980",
+        "ObjectID": "96407",
+        "Work": "https://www.moma.org/collection/works/96407",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNTY4MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5fee3db1ffd1c570",
+        "Details": {
+            "Medium": "Typewriting and correction fluid on paper",
+            "Dimensions": "11 x 8 1/2\" (27.9 x 21.6 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "2110.2005",
+            "Copyright": "\u00a9 2023 Christopher Knowles",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3167"
+    },
+    {
+        "Artist": "Jeff Koons",
+        "Title": "Three Ball 50/50 Tank (Two Dr. J. Silver Series, One Wilson Supershot)",
+        "Year": "1985",
+        "ObjectID": "81173",
+        "Work": "https://www.moma.org/collection/works/81173",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMzk0OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=229aa2b2a280d502",
+        "Details": {
+            "Medium": "Glass, painted steel, distilled water, plastic, and three basketballs",
+            "Dimensions": "60 5/8 x 48 3/4 x 13 1/4\" (154 x 123.9 x 33.6 cm)",
+            "Credit": "Gift of Werner and Elaine Dannheisser",
+            "Object number": "226.1991.a-f",
+            "Copyright": "\u00a9 2023 Jeff Koons",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/6622"
+    },
+    {
+        "Artist": "Leon Krier",
+        "Title": "The Completion of Washington, D.C., project, Washington, D.C., Aerial perspective",
+        "Year": "1985",
+        "ObjectID": "521",
+        "Work": "https://www.moma.org/collection/works/521",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyNDA4OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5bfa9f3a2ec256d1",
+        "Details": {
+            "Medium": "Ink, crayon, and colored pencil on vellum",
+            "Dimensions": "30 x 42\" (76.2 x 106.7 cm)",
+            "Credit": "Purchase",
+            "Object number": "395.1985",
+            "Copyright": "\u00a9 2023 Leon Krier",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/3250"
+    },
+    {
+        "Artist": "Leon Krier",
+        "Title": "The Completion of Washington, D.C., project, Washington, D.C., Plan",
+        "Year": "1985",
+        "ObjectID": "527",
+        "Work": "https://www.moma.org/collection/works/527",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyNDA5MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e38bbc6f686bffd4",
+        "Details": {
+            "Medium": "Ink, crayon, and colored pencil on vellum",
+            "Dimensions": "22 1/2 x 42 1/4\" (57.2 x 107.3 cm)",
+            "Credit": "Purchase",
+            "Object number": "396.1985",
+            "Copyright": "\u00a9 2023 Leon Krier",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/3250"
+    },
+    {
+        "Artist": "Leon Krier",
+        "Title": "The Completion of Washington, D.C., project, Washington, D.C., Plans",
+        "Year": "1985",
+        "ObjectID": "532",
+        "Work": "https://www.moma.org/collection/works/532",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyNDA5MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8b000f4fcf766e68",
+        "Details": {
+            "Medium": "Ink and crayon on vellum",
+            "Dimensions": "38 1/8 x 29 1/2\" (96.8 x 74.9 cm)",
+            "Credit": "Purchase",
+            "Object number": "397.1985",
+            "Copyright": "\u00a9 2023 Leon Krier",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/3250"
+    },
+    {
+        "Artist": "Leon Krier",
+        "Title": "The Completion of Washington, D.C., project, Washington, D.C., Plans",
+        "Year": "1985",
+        "ObjectID": "536",
+        "Work": "https://www.moma.org/collection/works/536",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyNDA5MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5ceef567cd1a46b1",
+        "Details": {
+            "Medium": "Ink and crayon on vellum",
+            "Dimensions": "38 1/8 x 30\" (96.8 x 76.2 cm)",
+            "Credit": "Purchase",
+            "Object number": "398.1985",
+            "Copyright": "\u00a9 2023 Leon Krier",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/3250"
+    },
+    {
+        "Artist": "Leon Krier",
+        "Title": "The Completion of Washington, D.C., project, The National Gallery; The National Pantheon; The Grand Canal; The Mall, Perspective",
+        "Year": "1985",
+        "ObjectID": "540",
+        "Work": "https://www.moma.org/collection/works/540",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyNDA5MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b209c63c424c6038",
+        "Details": {
+            "Medium": "Ink and graphite on paper",
+            "Dimensions": "11 7/8 x 15 5/8\" (30.2 x 39.7 cm)",
+            "Credit": "Purchase",
+            "Object number": "399.1985",
+            "Copyright": "\u00a9 2023 Leon Krier",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/3250"
+    },
+    {
+        "Artist": "Leon Krier",
+        "Title": "The Completion of Washington, D.C., project, Corrections to the Capitol Buildings, The Grand Perron, The New Constitution Square, Perspective",
+        "Year": "1985",
+        "ObjectID": "544",
+        "Work": "https://www.moma.org/collection/works/544",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyNDA5NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=582da7613b69f0a2",
+        "Details": {
+            "Medium": "Ink on paper",
+            "Dimensions": "16 1/2 x 11 3/4\" (41.9 x 29.8 cm)",
+            "Credit": "Purchase",
+            "Object number": "400.1985",
+            "Copyright": "\u00a9 2023 Leon Krier",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/3250"
+    },
+    {
+        "Artist": "Leon Krier",
+        "Title": "The Completion of Washington, D.C., project, Pyramid Lake as Seen from the Loggia of the White House, Washington, D.C., Perspective",
+        "Year": "1985",
+        "ObjectID": "548",
+        "Work": "https://www.moma.org/collection/works/548",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyNDA5NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fb074cbda3450632",
+        "Details": {
+            "Medium": "Ink on paper",
+            "Dimensions": "15 5/8 x 11 7/8\" (39.7 x 30.2 cm)",
+            "Credit": "Purchase",
+            "Object number": "401.1985",
+            "Copyright": "\u00a9 2023 Leon Krier",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/3250"
+    },
+    {
+        "Artist": "Leon Krier",
+        "Title": "The Completion of Washington, D.C., project, The Proposed Civil War Memorial and New Stylobate of Washington Monument in Pyramid Lake, Washington, D.C., Perspective",
+        "Year": "1985",
+        "ObjectID": "552",
+        "Work": "https://www.moma.org/collection/works/552",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyNDA5NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ebb35e213b553c0d",
+        "Details": {
+            "Medium": "Ink on paper",
+            "Dimensions": "19 3/4 x 16 1/4\" (50.2 x 41.3 cm)",
+            "Credit": "Purchase",
+            "Object number": "402.1985",
+            "Copyright": "\u00a9 2023 Leon Krier",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/3250"
+    },
+    {
+        "Artist": "Leon Krier",
+        "Title": "The Completion of Washington, D.C., project, Washington, D.C., Nine hand-lettered pages of text",
+        "Year": "1985",
+        "ObjectID": "555",
+        "Work": "https://www.moma.org/collection/works/555",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyNDA5NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e01362d21f0ad2e7",
+        "Details": {
+            "Medium": "Ink on paper",
+            "Dimensions": "Each: 19 5/8 x 16\" (49.9 x 40.6 cm)",
+            "Credit": "Purchase",
+            "Object number": "403.1985",
+            "Copyright": "\u00a9 2023 Leon Krier",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/3250"
+    },
+    {
+        "Artist": "Barbara Kruger",
+        "Title": "Untitled from Untitled (We Will No Longer Be Seen and Not Heard)",
+        "Year": "1985",
+        "ObjectID": "59845",
+        "Work": "https://www.moma.org/collection/works/59845",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwNTA3NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=424c6c4f24c5c31d",
+        "Details": {
+            "Medium": "Offset lithograph and screenprint with lithograph from a portfolio of nine offset lithographs and screenprints (seven with lithograph, one with chine coll\u00e9, and one with embossing)",
+            "Dimensions": "composition and sheet: 20 1/2 \u00d7 20 1/2\" (52.1 \u00d7 52.1 cm)",
+            "Publisher": "Peter Blum Edition, New York",
+            "Printer": "Derriere L'Etoile Studios, New York",
+            "Edition": "50",
+            "Credit": "The Charles A. Dana Foundation Fund",
+            "Object number": "11.1986.1",
+            "Copyright": "\u00a9 2023 Barbara Kruger",
+            "Portfolio": "Untitled (We Will No Longer Be Seen and Not Heard)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3266"
+    },
+    {
+        "Artist": "Barbara Kruger",
+        "Title": "Untitled (We Will No Longer Be Seen and Not Heard)",
+        "Year": "1985",
+        "ObjectID": "59846",
+        "Work": "https://www.moma.org/collection/works/59846",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwNTA3NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a90645267f0d54b5",
+        "Details": {
+            "Medium": "Portfolio of nine offset lithographs and screenprints (seven with lithograph, one with chine coll\u00e9, and one with embossing)",
+            "Dimensions": "composition and sheet (each): 20 1/2 x 20 1/2\" (52.1 x 52.1 cm)",
+            "Publisher": "Peter Blum Edition, New York",
+            "Printer": "Derriere L'Etoile Studios, New York",
+            "Edition": "50",
+            "Credit": "The Charles A. Dana Foundation Fund",
+            "Object number": "11.1986.1-9",
+            "Copyright": "\u00a9 2023 Barbara Kruger",
+            "Type": "Portfolio",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3266"
+    },
+    {
+        "Artist": "Barbara Kruger",
+        "Title": "Untitled from Untitled (We Will No Longer Be Seen and Not Heard)",
+        "Year": "1985",
+        "ObjectID": "59847",
+        "Work": "https://www.moma.org/collection/works/59847",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwNTA3NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ade0e3cf2148bbae",
+        "Details": {
+            "Medium": "Offset lithograph and screenprint with lithograph from a portfolio of nine offset lithographs and screenprints (seven with lithograph, one with chine coll\u00e9, and one with embossing)",
+            "Dimensions": "composition and sheet: 20 1/2 \u00d7 20 1/2\" (52.1 \u00d7 52.1 cm)",
+            "Publisher": "Peter Blum Edition, New York",
+            "Printer": "Derriere L'Etoile Studios, New York",
+            "Edition": "50",
+            "Credit": "The Charles A. Dana Foundation Fund",
+            "Object number": "11.1986.2",
+            "Copyright": "\u00a9 2023 Barbara Kruger",
+            "Portfolio": "Untitled (We Will No Longer Be Seen and Not Heard)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3266"
+    },
+    {
+        "Artist": "Barbara Kruger",
+        "Title": "Untitled from Untitled (We Will No Longer Be Seen and Not Heard)",
+        "Year": "1985",
+        "ObjectID": "59848",
+        "Work": "https://www.moma.org/collection/works/59848",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwNTA3OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a22858944899c299",
+        "Details": {
+            "Medium": "Offset lithograph and screenprint with lithograph from a portfolio of nine offset lithographs and screenprints (seven with lithograph, one with chine coll\u00e9, and one with embossing)",
+            "Dimensions": "composition and sheet: 20 1/2 \u00d7 20 1/2\" (52.1 \u00d7 52.1 cm)",
+            "Publisher": "Peter Blum Edition, New York",
+            "Printer": "Derriere L'Etoile Studios, New York",
+            "Edition": "50",
+            "Credit": "The Charles A. Dana Foundation Fund",
+            "Object number": "11.1986.3",
+            "Copyright": "\u00a9 2023 Barbara Kruger",
+            "Portfolio": "Untitled (We Will No Longer Be Seen and Not Heard)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3266"
+    },
+    {
+        "Artist": "Barbara Kruger",
+        "Title": "Untitled from Untitled (We Will No Longer Be Seen and Not Heard)",
+        "Year": "1985",
+        "ObjectID": "59849",
+        "Work": "https://www.moma.org/collection/works/59849",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwNTA3OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=576880c59dd6465a",
+        "Details": {
+            "Medium": "Offset lithograph and screenprint with lithograph from a portfolio of nine offset lithographs and screenprints (seven with lithograph, one with chine coll\u00e9, and one with embossing)",
+            "Dimensions": "composition and sheet: 20 1/2 \u00d7 20 1/2\" (52.1 \u00d7 52.1 cm)",
+            "Publisher": "Peter Blum Edition, New York",
+            "Printer": "Derriere L'Etoile Studios, New York",
+            "Edition": "50",
+            "Credit": "The Charles A. Dana Foundation Fund",
+            "Object number": "11.1986.4",
+            "Copyright": "\u00a9 2023 Barbara Kruger",
+            "Portfolio": "Untitled (We Will No Longer Be Seen and Not Heard)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3266"
+    },
+    {
+        "Artist": "Barbara Kruger",
+        "Title": "Untitled from Untitled (We Will No Longer Be Seen and Not Heard)",
+        "Year": "1985",
+        "ObjectID": "59850",
+        "Work": "https://www.moma.org/collection/works/59850",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwNTA4MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d1a42dac11461ccc",
+        "Details": {
+            "Medium": "Offset lithograph and screenprint from a portfolio of nine offset lithographs and screenprints (seven with lithograph, one with chine coll\u00e9, and one with embossing)",
+            "Dimensions": "composition and sheet: 20 1/2 \u00d7 20 1/2\" (52.1 \u00d7 52.1 cm)",
+            "Publisher": "Peter Blum Edition, New York",
+            "Printer": "Derriere L'Etoile Studios, New York",
+            "Edition": "50",
+            "Credit": "The Charles A. Dana Foundation Fund",
+            "Object number": "11.1986.5",
+            "Copyright": "\u00a9 2023 Barbara Kruger",
+            "Portfolio": "Untitled (We Will No Longer Be Seen and Not Heard)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3266"
+    },
+    {
+        "Artist": "Barbara Kruger",
+        "Title": "Untitled from Untitled (We Will No Longer Be Seen and Not Heard)",
+        "Year": "1985",
+        "ObjectID": "59851",
+        "Work": "https://www.moma.org/collection/works/59851",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwNTA4MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a9430ab36140ba84",
+        "Details": {
+            "Medium": "Offset lithograph and screenprint with lithograph from a portfolio of nine offset lithographs and screenprints (seven with lithograph, one with chine coll\u00e9, and one with embossing)",
+            "Dimensions": "composition and sheet: 20 1/2 \u00d7 20 1/2\" (52.1 \u00d7 52.1 cm)",
+            "Publisher": "Peter Blum Edition, New York",
+            "Printer": "Derriere L'Etoile Studios, New York",
+            "Edition": "50",
+            "Credit": "The Charles A. Dana Foundation Fund",
+            "Object number": "11.1986.6",
+            "Copyright": "\u00a9 2023 Barbara Kruger",
+            "Portfolio": "Untitled (We Will No Longer Be Seen and Not Heard)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3266"
+    },
+    {
+        "Artist": "Barbara Kruger",
+        "Title": "Untitled from Untitled (We Will No Longer Be Seen and Not Heard)",
+        "Year": "1985",
+        "ObjectID": "59852",
+        "Work": "https://www.moma.org/collection/works/59852",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwNTA4MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=bc72fbdedf84a19d",
+        "Details": {
+            "Medium": "Offset lithograph and screenprint with lithograph and chine coll\u00e9 from a portfolio of nine offset lithographs and screenprints (seven with lithograph, one with chine coll\u00e9, and one with embossing)",
+            "Dimensions": "composition and sheet: 20 1/2 \u00d7 20 1/2\" (52.1 \u00d7 52.1 cm)",
+            "Publisher": "Peter Blum Edition, New York",
+            "Printer": "Derriere L'Etoile Studios, New York",
+            "Edition": "50",
+            "Credit": "The Charles A. Dana Foundation Fund",
+            "Object number": "11.1986.7",
+            "Copyright": "\u00a9 2023 Barbara Kruger",
+            "Portfolio": "Untitled (We Will No Longer Be Seen and Not Heard)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3266"
+    },
+    {
+        "Artist": "Barbara Kruger",
+        "Title": "Untitled from Untitled (We Will No Longer Be Seen and Not Heard)",
+        "Year": "1985",
+        "ObjectID": "59853",
+        "Work": "https://www.moma.org/collection/works/59853",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwNTA4MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=187ebafc763b5d7d",
+        "Details": {
+            "Medium": "Offset lithograph and screenprint with lithograph and embossing from a portfolio of nine offset lithographs and screenprints (seven with lithograph, one with chine coll\u00e9, and one with embossing)",
+            "Dimensions": "composition and sheet: 20 1/2 \u00d7 20 1/2\" (52.1 \u00d7 52.1 cm)",
+            "Publisher": "Peter Blum Edition, New York",
+            "Printer": "Derriere L'Etoile Studios, New York",
+            "Edition": "50",
+            "Credit": "The Charles A. Dana Foundation Fund",
+            "Object number": "11.1986.8",
+            "Copyright": "\u00a9 2023 Barbara Kruger",
+            "Portfolio": "Untitled (We Will No Longer Be Seen and Not Heard)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3266"
+    },
+    {
+        "Artist": "Barbara Kruger",
+        "Title": "Untitled from Untitled (We Will No Longer Be Seen and Not Heard)",
+        "Year": "1985",
+        "ObjectID": "59854",
+        "Work": "https://www.moma.org/collection/works/59854",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwNTA4NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=28a15d4112c8fc33",
+        "Details": {
+            "Medium": "Offset lithograph and screenprint from a portfolio of nine offset lithographs and screenprints (seven with lithograph, one with chine coll\u00e9, and one with embossing)",
+            "Dimensions": "composition and sheet: 20 1/2 \u00d7 20 1/2\" (52.1 \u00d7 52.1 cm)",
+            "Publisher": "Peter Blum Edition, New York",
+            "Printer": "Derriere L'Etoile Studios, New York",
+            "Edition": "50",
+            "Credit": "The Charles A. Dana Foundation Fund",
+            "Object number": "11.1986.9",
+            "Copyright": "\u00a9 2023 Barbara Kruger",
+            "Portfolio": "Untitled (We Will No Longer Be Seen and Not Heard)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3266"
+    },
+    {
+        "Artist": "Shigeko Kubota",
+        "Title": "SoHo SoAp/Rain Damage",
+        "Year": "1985",
+        "ObjectID": "120611",
+        "Work": "https://www.moma.org/collection/works/120611",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1MTc4OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=77e4564ff506d314",
+        "Details": {
+            "Medium": "Video (color, sound)",
+            "Duration": "8:25 min.",
+            "Cameraman": "Paul Garrin",
+            "Editor": "Shigeko Kubota, Paul Garrin",
+            "Credit": "Purchase",
+            "Object number": "2648.2001",
+            "Copyright": "\u00a9 2023 Estate of Shigeko Kubota. Courtesy Electronic Arts Intermix (EAI), New York",
+            "Department": "Media and Performance"
+        },
+        "Profile": "https://www.moma.org/artists/3277"
+    },
+    {
+        "Artist": "Willi Kunz",
+        "Title": "Columbia University, Graduate School of Architecture, Planning and Preservation Lecture Series Spring 1985",
+        "Year": "1985",
+        "ObjectID": "108292",
+        "Work": "https://www.moma.org/collection/works/108292",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNDQ1NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=34d7c6b958bc201e",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "24 x 12\" (61 x 30.5 cm)",
+            "Credit": "Gift of the designer",
+            "Object number": "SC89.2007.2",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7519"
+    },
+    {
+        "Artist": "Justen Ladda",
+        "Title": "Tide",
+        "Year": "1985",
+        "ObjectID": "80851",
+        "Work": "https://www.moma.org/collection/works/80851",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwODQ0NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f468a428b97d60c4",
+        "Details": {
+            "Medium": "Latex, vinyl paint, and synthetic polymer paint on a washing-powder boxes",
+            "Dimensions": "6' 3\" x 57\" x 64\" (190.5 x 144.8 x 162.5 cm)",
+            "Credit": "Given anonymously",
+            "Object number": "24.1986",
+            "Copyright": "\u00a9 2023 Justen Ladda",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/3338"
+    }
+]
