@@ -12,7 +12,9 @@ for file in json_files:
         json_data = json.load(f)
         combined_data.extend(json_data)
 
-output_file = os.path.join("artworks.json")
+script_directory = os.path.dirname(os.path.abspath(__file__))
+
+output_file = os.path.join(script_directory, "artworks.json")
 with open(output_file, "w") as f:
     json.dump(combined_data, f, indent=4)
 
