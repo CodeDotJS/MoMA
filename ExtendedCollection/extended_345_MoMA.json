@@ -247,11 +247,11 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjU0MTQwNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=858bd9e9391e6ad4",
         "Details": {
             "Medium": "Artist's book of cut-and-taped printed and colored paper, gelatin silver prints, colored mylar, graphite, colored pencil, and paint on graph paper",
-            "Dimensions": "closed: 9 1/2 \u00d7 7 1/2 \u00d7 1\" (24.1 \u00d7 19.1 \u00d7 2.5 cm)",
-            "open: 9 1/2 \u00d7 15 \u00d7 13/16\" (24.1 \u00d7 38.1 \u00d7 2 cm)": "Edition",
-            "Unique.": "Credit",
-            "Anonymous gift in memory of Brooke Alexander": "Object number",
-            "684.2022": "Department"
+            "Dimensions": "closed: 9 1/2 \u00d7 7 1/2 \u00d7 1\" (24.1 \u00d7 19.1 \u00d7 2.5 cm)\r\nopen: 9 1/2 \u00d7 15 \u00d7 13/16\" (24.1 \u00d7 38.1 \u00d7 2 cm)",
+            "Edition": "Unique.",
+            "Credit": "Anonymous gift in memory of Brooke Alexander",
+            "Object number": "684.2022",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/304"
     },
@@ -389,10 +389,10 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5NTkzMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=631e2790b817f2c3",
         "Details": {
             "Medium": "Drypoint",
-            "Dimensions": "plate  7 3/4 x 7 7/8\" (19.7 x 20 cm)",
-            "sheet  15 1/4 x 12 3/16\" (38 x 30.9 cm)": "Credit",
-            "Purchased with funds given by Walter Bareiss": "Object number",
-            "732.1993": "Department"
+            "Dimensions": "plate  7 3/4 x 7 7/8\" (19.7 x 20 cm)\r\nsheet  15 1/4 x 12 3/16\" (38 x 30.9 cm)",
+            "Credit": "Purchased with funds given by Walter Bareiss",
+            "Object number": "732.1993",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/7115"
     },
@@ -507,14 +507,13 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3NTIxMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f62b2b840790ab0b",
         "Details": {
             "Medium": "Lithograph on adhesive paper",
-            "Dimensions": ".a yellow butterfly: 10 13/16 x 15 3/16\" (27.5 x 38.6 cm)",
-            ".b blue butterfly: 10 13/16 x 15 3/16\" (27.5 x 38.6 cm)": ".c orange: 10 13/16 x 15 3/16\" (27.5 x 38.6 cm)",
-            ".d single butterfly: 2 3/4 x 4 1/8\" (7 x 10.5 cm)": "Publisher",
-            "TGP Post": "Printer",
-            "Joh. Ensched\u00e9, Haarlem": "Credit",
-            "Gift of Royal TNT Post, Netherlands": "Object number",
-            "895.2007.a-d": "Copyright",
-            "\u00a9 2023 Irma Boom": "Department"
+            "Dimensions": ".a yellow butterfly: 10 13/16 x 15 3/16\" (27.5 x 38.6 cm)\r\n.b blue butterfly: 10 13/16 x 15 3/16\" (27.5 x 38.6 cm)\r\n.c orange: 10 13/16 x 15 3/16\" (27.5 x 38.6 cm)\r\n.d single butterfly: 2 3/4 x 4 1/8\" (7 x 10.5 cm)",
+            "Publisher": "TGP Post",
+            "Printer": "Joh. Ensched\u00e9, Haarlem",
+            "Credit": "Gift of Royal TNT Post, Netherlands",
+            "Object number": "895.2007.a-d",
+            "Copyright": "\u00a9 2023 Irma Boom",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/33693"
     },
@@ -527,13 +526,13 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3NTE2MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=98c6289256cee234",
         "Details": {
             "Medium": "Lithograph on paper and aluminum",
-            "Dimensions": ".a folder: 13 3/16 x 6 9/16\" (33.5 x 16.6 cm)",
-            ".b-e phone cards: 2 1/8 x 3 3/8\" (5.4 x 8.5 cm)": "Publisher",
-            "KPN": "Printer",
-            "Mart. Spruijt, Landis+Gyr": "Credit",
-            "Gift of the designer": "Object number",
-            "896.2007.a-e": "Copyright",
-            "\u00a9 2023 Irma Boom": "Department"
+            "Dimensions": ".a folder: 13 3/16 x 6 9/16\" (33.5 x 16.6 cm)\r\n.b-e phone cards: 2 1/8 x 3 3/8\" (5.4 x 8.5 cm)",
+            "Publisher": "KPN",
+            "Printer": "Mart. Spruijt, Landis+Gyr",
+            "Credit": "Gift of the designer",
+            "Object number": "896.2007.a-e",
+            "Copyright": "\u00a9 2023 Irma Boom",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/33693"
     },

@@ -21,14 +21,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNDAyMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f135dc7ca9ecd2ca",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "composition  22 1/4 x 30 1/16\" (56.6 x 76.4 cm)",
-            "sheet  22 1/4 x 30 1/16\" (56 x 76.4 cm)": "Publisher",
-            "Parkett Publishers, Z\u00fcrich and New York": "Printer",
-            "Hamilton Press, Venice, CA": "Edition",
-            "60": "Credit",
-            "Robert and Anna Marie Shapiro Fund": "Object number",
-            "450.1999.1": "Copyright",
-            "\u00a9 2023 Edward Ruscha": "Department"
+            "Dimensions": "composition  22 1/4 x 30 1/16\" (56.6 x 76.4 cm)\r\nsheet  22 1/4 x 30 1/16\" (56 x 76.4 cm)",
+            "Publisher": "Parkett Publishers, Z\u00fcrich and New York",
+            "Printer": "Hamilton Press, Venice, CA",
+            "Edition": "60",
+            "Credit": "Robert and Anna Marie Shapiro Fund",
+            "Object number": "450.1999.1",
+            "Copyright": "\u00a9 2023 Edward Ruscha",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/5086"
     },
@@ -311,14 +311,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDQ4OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=89c5b258dee464be",
         "Details": {
             "Medium": "Screenprint",
-            "Dimensions": "irreg. composition  24 5/8 x 32 11/16\" (62.5 x 83 cm)",
-            "sheet  27 15/16 x 35\" (71 x 88.9 cm)": "Publisher",
-            "Deitch Steinberg Editions, New York": "Printer",
-            "Noblet Serigraphie, Inc.": "Edition",
-            "60": "Credit",
-            "Lee and Ann Fensterstock Fund": "Object number",
-            "173.2000": "Copyright",
-            "\u00a9 2023 Shahzia Sikander": "Department"
+            "Dimensions": "irreg. composition  24 5/8 x 32 11/16\" (62.5 x 83 cm)\r\nsheet  27 15/16 x 35\" (71 x 88.9 cm)",
+            "Publisher": "Deitch Steinberg Editions, New York",
+            "Printer": "Noblet Serigraphie, Inc.",
+            "Edition": "60",
+            "Credit": "Lee and Ann Fensterstock Fund",
+            "Object number": "173.2000",
+            "Copyright": "\u00a9 2023 Shahzia Sikander",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/8197"
     },
@@ -472,12 +472,12 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0OTUwMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=58e0832b43a914fc",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "composition  24 1/4 x 18 1/4\" (61.6 x 46.3 cm)",
-            "sheet  24 1/4 x 18 1/4\" (61 x 46.3 cm)": "Publisher",
-            "Pegram Harrison Fine Art, Bloomington, Indiana": "Credit",
-            "Anonymously given": "Object number",
-            "455.1999": "Copyright",
-            "\u00a9 2023 David Storey": "Department"
+            "Dimensions": "composition  24 1/4 x 18 1/4\" (61.6 x 46.3 cm)\r\nsheet  24 1/4 x 18 1/4\" (61 x 46.3 cm)",
+            "Publisher": "Pegram Harrison Fine Art, Bloomington, Indiana",
+            "Credit": "Anonymously given",
+            "Object number": "455.1999",
+            "Copyright": "\u00a9 2023 David Storey",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/5679"
     },
@@ -656,12 +656,12 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3OTM0MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ae6b21845112b1bc",
         "Details": {
             "Medium": "Etching",
-            "Dimensions": "composition  31 5/8 x 22 3/8\" (80.3 x 56.9 cm)",
-            "sheet  31 5/8 x 22 3/8\" (80 x 56.9 cm)": "Publisher",
-            "Edition Schellmann, Munich": "Credit",
-            "Acquired through the generosity of Edward and Evanne Gargiulo": "Object number",
-            "178.2000": "Copyright",
-            "\u00a9 2023 Rosemarie Trockel": "Department"
+            "Dimensions": "composition  31 5/8 x 22 3/8\" (80.3 x 56.9 cm)\r\nsheet  31 5/8 x 22 3/8\" (80 x 56.9 cm)",
+            "Publisher": "Edition Schellmann, Munich",
+            "Credit": "Acquired through the generosity of Edward and Evanne Gargiulo",
+            "Object number": "178.2000",
+            "Copyright": "\u00a9 2023 Rosemarie Trockel",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/5933"
     },
@@ -692,10 +692,10 @@
         "Details": {
             "Manufacturer": "Mahakit Rubber Co. Ltd., Thailand",
             "Medium": "Synthetic rubber",
-            "Dimensions": "small: diam. 1 3/4\" (4.4 cm)",
-            "large: diam. 2 1/4\" (5.7 cm)": "Credit",
-            "Gift of the supplier, Laufer AC, Germany": "Object number",
-            "1430.2001": "Department"
+            "Dimensions": "small: diam. 1 3/4\" (4.4 cm)\r\nlarge: diam. 2 1/4\" (5.7 cm)",
+            "Credit": "Gift of the supplier, Laufer AC, Germany",
+            "Object number": "1430.2001",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/6011"
     },

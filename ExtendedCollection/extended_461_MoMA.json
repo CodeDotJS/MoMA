@@ -77,10 +77,10 @@
         "Details": {
             "Manufacturer": "Paul Chaleff",
             "Medium": "Unglazed, wood-fired stoneware",
-            "Dimensions": ".a (body): 10 x 10 3/4\" (25.4 x 27.3 cm)",
-            ".b (lid): 1 x 5\" (2.5 x 12.7 cm)": "Credit",
-            "Gift of Bernard Vidal and Yolande Flesch": "Object number",
-            "237.1986.a-b": "Department"
+            "Dimensions": ".a (body): 10 x 10 3/4\" (25.4 x 27.3 cm)\r\n.b (lid): 1 x 5\" (2.5 x 12.7 cm)",
+            "Credit": "Gift of Bernard Vidal and Yolande Flesch",
+            "Object number": "237.1986.a-b",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/1058"
     },
@@ -94,10 +94,10 @@
         "Details": {
             "Manufacturer": "Paul Chaleff",
             "Medium": "Unglazed, wood-fired stoneware",
-            "Dimensions": ".a (body): 11 x 10\" (28 x 25.4 cm)",
-            ".b (lid): 1 x 6\" (2.5 x 15.2 cm)": "Credit",
-            "Gift of Bernard Vidal and Yolande Flesch": "Object number",
-            "238.1986.a-b": "Department"
+            "Dimensions": ".a (body): 11 x 10\" (28 x 25.4 cm)\r\n.b (lid): 1 x 6\" (2.5 x 15.2 cm)",
+            "Credit": "Gift of Bernard Vidal and Yolande Flesch",
+            "Object number": "238.1986.a-b",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/1058"
     },
@@ -162,14 +162,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5NTc4OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=54c185db2fc72d8e",
         "Details": {
             "Medium": "Collotype and screenprint, printed in black with photograph, masking tape and cloth, and pencil additions",
-            "Dimensions": "Composition: 14 x 11\" (35.5 x 28 cm)",
-            "Sheet: 13 3/4 x 11\" (35 x 28 cm)": "Publisher",
-            "Edition Schellmann, Munich": "Printer",
-            "Domberger KG, Bonlanden, Germany": "Edition",
-            "100": "Credit",
-            "Gift of Edition Schellmann, Munich and New York": "Object number",
-            "250.1989": "Copyright",
-            "\u00a9 2023 Christo": "Department"
+            "Dimensions": "Composition: 14 x 11\" (35.5 x 28 cm)\r\nSheet: 13 3/4 x 11\" (35 x 28 cm)",
+            "Publisher": "Edition Schellmann, Munich",
+            "Printer": "Domberger KG, Bonlanden, Germany",
+            "Edition": "100",
+            "Credit": "Gift of Edition Schellmann, Munich and New York",
+            "Object number": "250.1989",
+            "Copyright": "\u00a9 2023 Christo",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/1114"
     },
@@ -182,14 +182,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5NTc4OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=dae762432bf04a31",
         "Details": {
             "Medium": "Collotype and screenprint with photograph, cloth and twine, and pencil additions",
-            "Dimensions": "Composition: 14 x 11\" (35.6 x 28 cm)",
-            "Sheet: 13 3/4 x 11\" (35 x 28 cm)": "Publisher",
-            "Edition Schellmann, Munich": "Printer",
-            "Domberger KG, Bonlanden, Germany": "Edition",
-            "100": "Credit",
-            "Gift of Edition Schellmann, Munich and New York": "Object number",
-            "251.1989": "Copyright",
-            "\u00a9 2023 Christo": "Department"
+            "Dimensions": "Composition: 14 x 11\" (35.6 x 28 cm)\r\nSheet: 13 3/4 x 11\" (35 x 28 cm)",
+            "Publisher": "Edition Schellmann, Munich",
+            "Printer": "Domberger KG, Bonlanden, Germany",
+            "Edition": "100",
+            "Credit": "Gift of Edition Schellmann, Munich and New York",
+            "Object number": "251.1989",
+            "Copyright": "\u00a9 2023 Christo",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/1114"
     },
@@ -505,12 +505,13 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNDkzOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c7ada96026dffaa4",
         "Details": {
             "Medium": "Screenprint",
-            "Dimensions": "irreg composition  23 5/8 x 20 1/4\" (60 x 51.4 cm)",
-            "sheet  29 5/8 x 24 1/16\" (75.2 x 61.1 cm)": "Publisher",
-            "Walter Dahn, Cologne": "Edition",
-            "3": "Credit",
-            "Walter Bareiss Fund": "Object number",
-            "124.1987": "Department"
+            "Dimensions": "irreg composition  23 5/8 x 20 1/4\" (60 x 51.4 cm)\r\nsheet  29 5/8 x 24 1/16\" (75.2 x 61.1 cm)",
+            "Publisher": "Walter Dahn, Cologne",
+            "Printer": "Walter Dahn, Cologne",
+            "Edition": "3",
+            "Credit": "Walter Bareiss Fund",
+            "Object number": "124.1987",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/1359"
     },
@@ -759,13 +760,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQyNjY2OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4f5da7f841ddc3e3",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "Composition (irreg.): 41 5/8 x 29 3/4\" (105.7 x 75.6 cm)",
-            "Sheet: 41 7/8 x 29 3/4\" (106.3 x 75.6 cm)": "Publisher",
-            "Universal Limited Art Editions, West Islip, New York": "Edition",
-            "51": "Credit",
-            "Gift of Emily Fisher Landau": "Object number",
-            "299.1985": "Copyright",
-            "\u00a9 2023 Carroll Dunham": "Department"
+            "Dimensions": "Composition (irreg.): 41 5/8 x 29 3/4\" (105.7 x 75.6 cm)\r\nSheet: 41 7/8 x 29 3/4\" (106.3 x 75.6 cm)",
+            "Publisher": "Universal Limited Art Editions, West Islip, New York",
+            "Printer": "Universal Limited Art Editions, West Islip, New York",
+            "Edition": "51",
+            "Credit": "Gift of Emily Fisher Landau",
+            "Object number": "299.1985",
+            "Copyright": "\u00a9 2023 Carroll Dunham",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/1652"
     },

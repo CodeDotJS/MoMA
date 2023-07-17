@@ -298,10 +298,10 @@
         "Details": {
             "Manufacturer": "Ansa Bottle Company, Inc., Muskogee, OK",
             "Medium": "Polyethylene",
-            "Dimensions": ".1-.2: 8 1/8 x 3 x 1 7/8\" (20.6 x 7.6 x 4.8 cm)",
-            ".3-.4: 5 5/8 x 2 9/16 x 1 3/4\" (14.3 x 6.5 x 4.5 cm)": "Credit",
-            "Gift of the manufacturer": "Object number",
-            "136.1988.1-4": "Department"
+            "Dimensions": ".1-.2: 8 1/8 x 3 x 1 7/8\" (20.6 x 7.6 x 4.8 cm)\r\n.3-.4: 5 5/8 x 2 9/16 x 1 3/4\" (14.3 x 6.5 x 4.5 cm)",
+            "Credit": "Gift of the manufacturer",
+            "Object number": "136.1988.1-4",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/937"
     },
@@ -582,14 +582,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MjIyNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9cf82330b5e1643b",
         "Details": {
             "Medium": "Lithograph with wrapping paper, painted cloth and staple additions",
-            "Dimensions": "Composition: 22 5/16 x 28 1/4\" (56.6 x 71.7 cm)",
-            "Sheet: 22 1/16 x 28 1/4\" (56 x 71.7 cm)": "Publisher",
-            "Edition Schellmann & Kl\u00fcser, Munich": "Printer",
-            "Landfall Press, Inc., Chicago": "Edition",
-            "100": "Credit",
-            "Gift of Edition Schellmann, Munich and New York": "Object number",
-            "249.1989": "Copyright",
-            "\u00a9 2023 Christo": "Department"
+            "Dimensions": "Composition: 22 5/16 x 28 1/4\" (56.6 x 71.7 cm)\r\nSheet: 22 1/16 x 28 1/4\" (56 x 71.7 cm)",
+            "Publisher": "Edition Schellmann & Kl\u00fcser, Munich",
+            "Printer": "Landfall Press, Inc., Chicago",
+            "Edition": "100",
+            "Credit": "Gift of Edition Schellmann, Munich and New York",
+            "Object number": "249.1989",
+            "Copyright": "\u00a9 2023 Christo",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/1114"
     },

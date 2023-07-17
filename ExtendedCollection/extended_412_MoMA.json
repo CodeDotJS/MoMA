@@ -110,13 +110,13 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MzgzNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a5049b19f4be52ff",
         "Details": {
             "Medium": "Drypoint",
-            "Dimensions": "plate  4 3/4 x 3 5/16\" (12 x 8.4 cm)",
-            "sheet  14 15/16 x 11 1/4\" (38 x 28.6 cm)": "Publisher",
-            "Galerie La Hune, Paris": "Printer",
-            "Atelier Ren\u00e9 Taz\u00e9, Paris": "Edition",
-            "14; plus 2 A.P and 5 A.P (on gray Rives)": "Credit",
-            "Purchase": "Object number",
-            "181.1990": "Department"
+            "Dimensions": "plate  4 3/4 x 3 5/16\" (12 x 8.4 cm)\r\nsheet  14 15/16 x 11 1/4\" (38 x 28.6 cm)",
+            "Publisher": "Galerie La Hune, Paris",
+            "Printer": "Atelier Ren\u00e9 Taz\u00e9, Paris",
+            "Edition": "14; plus 2 A.P and 5 A.P (on gray Rives)",
+            "Credit": "Purchase",
+            "Object number": "181.1990",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/1816"
     },

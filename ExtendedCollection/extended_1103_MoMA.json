@@ -457,10 +457,10 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNTEwNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c56fee077bc75961",
         "Details": {
             "Medium": "Etching and aquatint",
-            "Dimensions": "plate  11 13/16 x 17 13/16\" (30 x 45.3 cm)",
-            "sheet  14 7/8 x 21 7/16\" (37 x 54.5 cm)": "Credit",
-            "Gift of William S. Lieberman": "Object number",
-            "173.1986": "Department"
+            "Dimensions": "plate  11 13/16 x 17 13/16\" (30 x 45.3 cm)\r\nsheet  14 7/8 x 21 7/16\" (37 x 54.5 cm)",
+            "Credit": "Gift of William S. Lieberman",
+            "Object number": "173.1986",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/1942"
     },
@@ -491,14 +491,10 @@
         "Details": {
             "Manufacturer": "Manufactured by Arabia, W\u00e4rtsil\u00e4 Ab, Helsinki, Finland",
             "Medium": "Glazed earthenware",
-            "Dimensions": ".1: 4 x 8 3/4\" (10.2 x 22.2 cm)",
-            ".2: 3 3/8 x 7 3/8\" (8.6 x 18.7 cm)": ".3: 2 5/8 x 5 3/4\" (6.7 x 14.6 cm)",
-            ".4: 1 7/8 x 6 1/8\" (4.8 x 15.6 cm)": ".5: 3 3/4 x 9\" (9.5 x 22.9 cm)",
-            ".6: 8 1/2\" (21.6 cm)": ".7: 7 3/4\" (19.7 cm)",
-            ".8: 5 3/4\" (14.6 cm)": ".9: 4 3/8 x 9 3/8\" (11.1 x 23.8 cm)",
-            ".10: 6 1/2\" (16.5 cm)": "Credit",
-            "Gift of Waertsila Corporation, New York": "Object number",
-            "144.1955.1-10": "Department"
+            "Dimensions": ".1: 4 x 8 3/4\" (10.2 x 22.2 cm)\r\n.2: 3 3/8 x 7 3/8\" (8.6 x 18.7 cm)\r\n.3: 2 5/8 x 5 3/4\" (6.7 x 14.6 cm)\r\n.4: 1 7/8 x 6 1/8\" (4.8 x 15.6 cm)\r\n.5: 3 3/4 x 9\" (9.5 x 22.9 cm)\r\n.6: 8 1/2\" (21.6 cm)\r\n.7: 7 3/4\" (19.7 cm)\r\n.8: 5 3/4\" (14.6 cm)\r\n.9: 4 3/8 x 9 3/8\" (11.1 x 23.8 cm)\r\n.10: 6 1/2\" (16.5 cm)",
+            "Credit": "Gift of Waertsila Corporation, New York",
+            "Object number": "144.1955.1-10",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/1968"
     },

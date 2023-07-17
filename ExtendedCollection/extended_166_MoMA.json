@@ -245,11 +245,11 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4NTQ1MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8aefcf9ba5b037f9",
         "Details": {
             "Medium": "C-print from Java software",
-            "Dimensions": ".1 (abortion): 28 x 36\" (71.1 x 91.4 cm)",
-            ".2 (chocolate): 28 x 36\" (71.1 x 91.4 cm)": "Credit",
-            "Gift of the designers": "Object number",
-            "SC515.2008.1-2": "Copyright",
-            "\u00a9 2023 Fernanda Bertini Vi\u00e9gas and Martin Wattenberg": "Department"
+            "Dimensions": ".1 (abortion): 28 x 36\" (71.1 x 91.4 cm)\r\n.2 (chocolate): 28 x 36\" (71.1 x 91.4 cm)",
+            "Credit": "Gift of the designers",
+            "Object number": "SC515.2008.1-2",
+            "Copyright": "\u00a9 2023 Fernanda Bertini Vi\u00e9gas and Martin Wattenberg",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/33165"
     },

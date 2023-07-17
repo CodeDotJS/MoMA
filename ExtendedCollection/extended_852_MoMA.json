@@ -325,11 +325,11 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5OTkxNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=df292f114bb59232",
         "Details": {
             "Medium": "Fabric",
-            "Dimensions": "Component (Sack): 19 11/16 x 11 13/16 x 7 7/8\" (50 x 30 x 20 cm)",
-            "Component (Blocks): 1 9/16 x 1 9/16 x 1 9/16\" (4 x 4 x 4 cm)": "Credit",
-            "Scott Burton Fund": "Object number",
-            "1060.2010.44": "Copyright",
-            "\u00a9 2023 Franz Erhard Walther / Artists Rights Society (ARS), New York / VG Bild-Kunst, Germany": "Department"
+            "Dimensions": "Component (Sack): 19 11/16 x 11 13/16 x 7 7/8\" (50 x 30 x 20 cm)\r\nComponent (Blocks): 1 9/16 x 1 9/16 x 1 9/16\" (4 x 4 x 4 cm)",
+            "Credit": "Scott Burton Fund",
+            "Object number": "1060.2010.44",
+            "Copyright": "\u00a9 2023 Franz Erhard Walther / Artists Rights Society (ARS), New York / VG Bild-Kunst, Germany",
+            "Department": "Painting and Sculpture"
         },
         "Profile": "https://www.moma.org/artists/7662"
     },
@@ -411,8 +411,7 @@
         "Details": {
             "Author": "Phillip Greer",
             "Medium": "Portfolio of eleven screenprints with screenprint cover",
-            "Dimensions": "Each sheet:  20 7/8 x 20 7/8\" (53.1 x 53.1 cm)",
-            "Each page:  21 1/2 x 21 1/4\" (54.6 x 54 cm)": "Each composition: various dimensions",
+            "Dimensions": "Each sheet:  20 7/8 x 20 7/8\" (53.1 x 53.1 cm)\r\nEach page:  21 1/2 x 21 1/4\" (54.6 x 54 cm)\r\nEach composition: various dimensions",
             "Publisher": "Racolin Press, Inc., Briarcliff Manor, NY",
             "Printer": "Aetna Silkscreen Products, Inc., New York",
             "Edition": "200",

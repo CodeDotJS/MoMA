@@ -366,8 +366,7 @@
         "Details": {
             "Author": "Jean-Clarence Lambert",
             "Medium": "21 photolithographic reproductions after paintings (including front cover); and supplementary suite of 4 lithographs (3 with aquatint and lift ground aquatint and 1 with etching), printed in color",
-            "Dimensions": "ea. sheet  19 1/2 x 25 7/8\" (49.5 x 65.7 cm)",
-            "page  9 5/8 x 6 11/16\" (24 x 17 cm)": "Prints:  various dimensions.",
+            "Dimensions": "ea. sheet  19 1/2 x 25 7/8\" (49.5 x 65.7 cm)\r\npage  9 5/8 x 6 11/16\" (24 x 17 cm)\r\nPrints:  various dimensions.",
             "Publisher": "Yves Rivi\u00e8re, Paris",
             "Edition": "525 (100 numbered 1-100 with supplementary suite; 15 e.a. numbered I-XV with supplementary suite; 10 H.C. reserved for collaborators and exhibition with supplementary suite; 400)",
             "Credit": "Gift of the artist",
@@ -387,14 +386,14 @@
         "Details": {
             "Author": "Yves Bonnefoy",
             "Medium": "3 collotypes with pochoir",
-            "Dimensions": "irreg. page  15 9/16 x 11 5/16\" (39 x 28.8 cm)",
-            "Prints:  various dimensions.": "Publisher",
-            "\u00c9ditions F.B., Paris": "Printer",
-            "Imprimerie Arte, Paris": "Edition",
-            "99 (75 numbered 1-75; 9 numbered +un- - +neuf- with supplementary drawing; 10 A.P. numbered I-X; 3 H.C. marked A-C; 1 deposit copy; 1 for Asger Jorn Foundation)": "Credit",
-            "Gift of the artist": "Object number",
-            "660.1978.1-3": "Copyright",
-            "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris": "Department"
+            "Dimensions": "irreg. page  15 9/16 x 11 5/16\" (39 x 28.8 cm)\r\nPrints:  various dimensions.",
+            "Publisher": "\u00c9ditions F.B., Paris",
+            "Printer": "Imprimerie Arte, Paris",
+            "Edition": "99 (75 numbered 1-75; 9 numbered +un- - +neuf- with supplementary drawing; 10 A.P. numbered I-X; 3 H.C. marked A-C; 1 deposit copy; 1 for Asger Jorn Foundation)",
+            "Credit": "Gift of the artist",
+            "Object number": "660.1978.1-3",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/107"
     },
@@ -549,14 +548,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNDI4NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e465c7b6367097cf",
         "Details": {
             "Medium": "Etching with collage additions",
-            "Dimensions": "plate  6 11/16 x 10 5/8\" (17 x 27 cm)",
-            "irreg. sheet  14 7/8 x 22 5/16\" (37 x 56.7 cm)": "Publisher",
-            "Yves Rivi\u00e8re \u00c9diteur, Paris": "Printer",
-            "Jean Clert\u00e9 at the artist's studio": "Edition",
-            "90; plus X e.a. and 10 marked A-J": "Credit",
-            "Gift of the artist": "Object number",
-            "610.1978": "Copyright",
-            "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris": "Department"
+            "Dimensions": "plate  6 11/16 x 10 5/8\" (17 x 27 cm)\r\nirreg. sheet  14 7/8 x 22 5/16\" (37 x 56.7 cm)",
+            "Publisher": "Yves Rivi\u00e8re \u00c9diteur, Paris",
+            "Printer": "Jean Clert\u00e9 at the artist's studio",
+            "Edition": "90; plus X e.a. and 10 marked A-J",
+            "Credit": "Gift of the artist",
+            "Object number": "610.1978",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/107"
     },
@@ -606,12 +605,13 @@
         "Details": {
             "Author": "Terry Allen",
             "Medium": "Illustrated book with six lithographs, one with glitter additions",
-            "Dimensions": "page  12 5/8 x 12 9/16\" (32.1 x 32 cm)",
-            "Prints:  various dimensions.": "Publisher",
-            "Landfall Press, Inc., Chicago": "Edition",
-            "74 (50 numbered 1/50-50/50; 5 numbered I-V reserved for subscribers; 10 A.P. numbered 1-10; 6 H.C. reserved for printer and publisher; 2 T.P.; 1 B.A.T.)": "Credit",
-            "John B. Turner Fund": "Object number",
-            "577.1976.1-6": "Department"
+            "Dimensions": "page  12 5/8 x 12 9/16\" (32.1 x 32 cm)\r\nPrints:  various dimensions.",
+            "Publisher": "Landfall Press, Inc., Chicago",
+            "Printer": "Landfall Press, Inc., Chicago",
+            "Edition": "74 (50 numbered 1/50-50/50; 5 numbered I-V reserved for subscribers; 10 A.P. numbered 1-10; 6 H.C. reserved for printer and publisher; 2 T.P.; 1 B.A.T.)",
+            "Credit": "John B. Turner Fund",
+            "Object number": "577.1976.1-6",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/120"
     },

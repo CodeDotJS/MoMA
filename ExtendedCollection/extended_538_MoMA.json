@@ -496,13 +496,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMDQwNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f91f544b367f8e0e",
         "Details": {
             "Medium": "Screenprint, airbrush and embossing",
-            "Dimensions": "composition  11 5/16 x 19 9/16\" (28.7 x 49.7 cm)",
-            "sheet  21 7/8 x 29 11/16\" (55 x 75.4 cm)": "Publisher",
-            "Anna Bella Geiger": "Edition",
-            "60": "Credit",
-            "Felipe Cossio del Pomar Fund": "Object number",
-            "385.1981": "Copyright",
-            "\u00a9 2023 Anna Bella Geiger": "Department"
+            "Dimensions": "composition  11 5/16 x 19 9/16\" (28.7 x 49.7 cm)\r\nsheet  21 7/8 x 29 11/16\" (55 x 75.4 cm)",
+            "Publisher": "Anna Bella Geiger",
+            "Printer": "Anna Bella Geiger",
+            "Edition": "60",
+            "Credit": "Felipe Cossio del Pomar Fund",
+            "Object number": "385.1981",
+            "Copyright": "\u00a9 2023 Anna Bella Geiger",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/2110"
     },

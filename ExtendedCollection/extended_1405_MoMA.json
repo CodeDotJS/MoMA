@@ -144,10 +144,10 @@
         "Details": {
             "Manufacturer": "Coors Porcelain Co., Golden, CO",
             "Medium": "Glazed porcelain and wood",
-            "Dimensions": ".a (casserole): 3 3/8 x 5 5/8\" (8.6 x 14.3 cm)",
-            ".b (lid): 6\" (15.2 cm)": "Credit",
-            "Purchase": "Object number",
-            "166.1947.a-b": "Department"
+            "Dimensions": ".a (casserole): 3 3/8 x 5 5/8\" (8.6 x 14.3 cm)\r\n.b (lid): 6\" (15.2 cm)",
+            "Credit": "Purchase",
+            "Object number": "166.1947.a-b",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/9339"
     },
@@ -161,8 +161,7 @@
         "Details": {
             "Manufacturer": "Coors Porcelain Co., Golden, CO",
             "Medium": "Glazed porcelain",
-            "Dimensions": ".1: 1/2 x 3/4\" (1.3 x 1.9 cm)",
-            ".2: 1 x 1 1/2\" (2.5 x 3.8 cm)": ".3: 1 1/8 x 1 11/16\" (2.8 x 4.3 cm)",
+            "Dimensions": ".1: 1/2 x 3/4\" (1.3 x 1.9 cm)\r\n.2: 1 x 1 1/2\" (2.5 x 3.8 cm)\r\n.3: 1 1/8 x 1 11/16\" (2.8 x 4.3 cm)",
             "Credit": "Gift of Eimer & Amend",
             "Object number": "205.1950.1-3",
             "Department": "Architecture and Design"
@@ -196,12 +195,10 @@
         "Details": {
             "Manufacturer": "Coors Porcelain Co., Golden, CO",
             "Medium": "Glazed porcelain",
-            "Dimensions": ".1: 8 3/8 x 5 3/8\" (21.2 x 13.7 cm)",
-            ".3: 6 1/2 x 4 1/4\" (16.5 x 10.8 cm)": ".4: 6 x 3 7/8\" (15.2 x 9.8 cm)",
-            ".5: 5 5/8 x 3 5/8\" (14.3 x 9.2 cm)": ".7: 4 5/8 x 3 1/8\" (11.8 x 7.9 cm)",
-            ".9: 3 3/4 x 2 1/2\" (9.5 x 6.4 cm)": "Credit",
-            "Gift of the manufacturer": "Object number",
-            "225.1934.1-9": "Department"
+            "Dimensions": ".1: 8 3/8 x 5 3/8\" (21.2 x 13.7 cm)\r\n.3: 6 1/2 x 4 1/4\" (16.5 x 10.8 cm)\r\n.4: 6 x 3 7/8\" (15.2 x 9.8 cm)\r\n.5: 5 5/8 x 3 5/8\" (14.3 x 9.2 cm)\r\n.7: 4 5/8 x 3 1/8\" (11.8 x 7.9 cm)\r\n.9: 3 3/4 x 2 1/2\" (9.5 x 6.4 cm)",
+            "Credit": "Gift of the manufacturer",
+            "Object number": "225.1934.1-9",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/9339"
     },
@@ -215,11 +212,10 @@
         "Details": {
             "Manufacturer": "Coors Porcelain Co., Golden, CO",
             "Medium": "Glazed porcelain",
-            "Dimensions": ".1 (dish): 3 x 7 1/8\" (7.6 x 18.1 cm)",
-            ".2-.11 (capsules): 11/16 x 3\" (1.7 x 7.6 cm)": ".12-.15 (capsules): 1/2 x 1 3/4\" (1.3 x 4.5 cm)",
-            ".16-.21 (capsules): 7/16 x 1 7/8\" (1.1 x 4.7 cm)": "Credit",
-            "Gift of the manufacturer": "Object number",
-            "240.1934.1-21": "Department"
+            "Dimensions": ".1 (dish): 3 x 7 1/8\" (7.6 x 18.1 cm)\r\n.2-.11 (capsules): 11/16 x 3\" (1.7 x 7.6 cm)\r\n.12-.15 (capsules): 1/2 x 1 3/4\" (1.3 x 4.5 cm)\r\n.16-.21 (capsules): 7/16 x 1 7/8\" (1.1 x 4.7 cm)",
+            "Credit": "Gift of the manufacturer",
+            "Object number": "240.1934.1-21",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/9339"
     },
@@ -233,8 +229,7 @@
         "Details": {
             "Manufacturer": "Coors Porcelain Co., Golden, CO",
             "Medium": "Glazed porcelain",
-            "Dimensions": ".1-.3: 1 13/16 x 2 7/8\" (4.6 x 7.3 cm)",
-            ".4-.6: 2 7/16 x 2 7/8\" (6.2 x 7.3 cm)": ".7-.9: 2 1/2 x 2 3/4\" (6.4 x 7 cm)",
+            "Dimensions": ".1-.3: 1 13/16 x 2 7/8\" (4.6 x 7.3 cm)\r\n.4-.6: 2 7/16 x 2 7/8\" (6.2 x 7.3 cm)\r\n.7-.9: 2 1/2 x 2 3/4\" (6.4 x 7 cm)",
             "Credit": "Purchase",
             "Object number": "251.1944.1-9",
             "Department": "Architecture and Design"
@@ -251,10 +246,10 @@
         "Details": {
             "Manufacturer": "Coors Porcelain Co., Golden, CO",
             "Medium": "Porcelain",
-            "Dimensions": ".1-.2: 1 3/8 x 5 1/8 x 4 3/4\" (3.5 x 13 x 12.1 cm)",
-            ".3-.4: 1 1/4 x 4 1/4 x 4\" (3.2 x 10.8 x 10.2 cm)": "Credit",
-            "Purchase": "Object number",
-            "265.1944.1-4": "Department"
+            "Dimensions": ".1-.2: 1 3/8 x 5 1/8 x 4 3/4\" (3.5 x 13 x 12.1 cm)\r\n.3-.4: 1 1/4 x 4 1/4 x 4\" (3.2 x 10.8 x 10.2 cm)",
+            "Credit": "Purchase",
+            "Object number": "265.1944.1-4",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/9339"
     },

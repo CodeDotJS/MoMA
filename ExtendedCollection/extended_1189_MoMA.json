@@ -298,10 +298,10 @@
         "Details": {
             "Manufacturer": "United States Glass Co., Tiffin, OH",
             "Medium": "Glass",
-            "Dimensions": ".1: 5 1/8 x 2 5/8\" (13 x 6.7 cm)",
-            ".2: 3 3/8 x 3 3/8\" (8.6 x 8.6 cm)": "Credit",
-            "Gift of the manufacturer": "Object number",
-            "665.1954.1-2": "Department"
+            "Dimensions": ".1: 5 1/8 x 2 5/8\" (13 x 6.7 cm)\r\n.2: 3 3/8 x 3 3/8\" (8.6 x 8.6 cm)",
+            "Credit": "Gift of the manufacturer",
+            "Object number": "665.1954.1-2",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/975"
     },

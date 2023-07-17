@@ -595,10 +595,10 @@
         "Details": {
             "Manufacturer": "F. Schumacher & Co",
             "Medium": "Printed linen",
-            "Dimensions": "(.1): 55 x 48\" (139.7 x 121.9 cm)",
-            "(.2): 60 1/2 x 47\" (153.7 x 119.4 cm)": "Credit",
-            "Gift of Edgar Smith": "Object number",
-            "1170.2013.1-2": "Department"
+            "Dimensions": "(.1): 55 x 48\" (139.7 x 121.9 cm)\r\n(.2): 60 1/2 x 47\" (153.7 x 119.4 cm)",
+            "Credit": "Gift of Edgar Smith",
+            "Object number": "1170.2013.1-2",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/6459"
     },

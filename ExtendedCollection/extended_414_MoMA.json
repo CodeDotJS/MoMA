@@ -75,14 +75,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNTE2MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=71231f50aab17db0",
         "Details": {
             "Medium": "Line block",
-            "Dimensions": "Composition (irreg.): 9 13/16 x 17 1/4\" (24.9 x 43.8 cm)",
-            "Sheet: 15 3/4 x 20 1/16\" (40 x 50.9 cm)": "Publisher",
-            "Pace Editions, Inc., New York, Edition Schellmann, Munich": "Printer",
-            "The Spring Street Workshop, New York": "Edition",
-            "50": "Credit",
-            "Gift of Edition Schellmann, Munich and New York": "Object number",
-            "257.1989": "Copyright",
-            "\u00a9 2023 Peter Halley": "Department"
+            "Dimensions": "Composition (irreg.): 9 13/16 x 17 1/4\" (24.9 x 43.8 cm)\r\nSheet: 15 3/4 x 20 1/16\" (40 x 50.9 cm)",
+            "Publisher": "Pace Editions, Inc., New York, Edition Schellmann, Munich",
+            "Printer": "The Spring Street Workshop, New York",
+            "Edition": "50",
+            "Credit": "Gift of Edition Schellmann, Munich and New York",
+            "Object number": "257.1989",
+            "Copyright": "\u00a9 2023 Peter Halley",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/2467"
     },
@@ -482,13 +482,13 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMTI3NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2abeccbfe8fbbc57",
         "Details": {
             "Medium": "Photolithograph",
-            "Dimensions": "composition  16 1/8 x 21 9/16\" (40.9 x 54.8 cm)",
-            "sheet  19 3/16 x 27 3/8\" (48 x 69.6 cm)": "Publisher",
-            "Gisela Capitain, Cologne": "Edition",
-            "35": "Credit",
-            "Gift of Walter Sudol and Steven Johnson": "Object number",
-            "1470.2001": "Copyright",
-            "\u00a9 2023 Georg Herold / Artists Rights Society (ARS), New York / VG Bild-Kunst, Germany": "Department"
+            "Dimensions": "composition  16 1/8 x 21 9/16\" (40.9 x 54.8 cm)\r\nsheet  19 3/16 x 27 3/8\" (48 x 69.6 cm)",
+            "Publisher": "Gisela Capitain, Cologne",
+            "Edition": "35",
+            "Credit": "Gift of Walter Sudol and Steven Johnson",
+            "Object number": "1470.2001",
+            "Copyright": "\u00a9 2023 Georg Herold / Artists Rights Society (ARS), New York / VG Bild-Kunst, Germany",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/2615"
     },
@@ -804,8 +804,9 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyNzEzNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=66404530ecd92482",
         "Details": {
             "Production": "USA",
-            "Medium": "Object number",
-            "W25610": "Department"
+            "Medium": "",
+            "Object number": "W25610",
+            "Department": "Film"
         },
         "Profile": "https://www.moma.org/artists/7416"
     },

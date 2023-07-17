@@ -754,10 +754,10 @@
         "Details": {
             "Manufacturer": "Lenox, Inc., Trenton, NJ",
             "Medium": "Glazed porcelain",
-            "Dimensions": ".1: 10 1/4 x 3 1/8\" (26.1 x 8 cm)",
-            ".2: 8 x 2 3/8\" (20.3 x 6 cm)": "Credit",
-            "Gift of the manufacturer": "Object number",
-            "77.1946.1-2": "Department"
+            "Dimensions": ".1: 10 1/4 x 3 1/8\" (26.1 x 8 cm)\r\n.2: 8 x 2 3/8\" (20.3 x 6 cm)",
+            "Credit": "Gift of the manufacturer",
+            "Object number": "77.1946.1-2",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/2709"
     },

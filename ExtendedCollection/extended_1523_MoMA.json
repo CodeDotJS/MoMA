@@ -8,12 +8,13 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExOTE2NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=33190d9718cd6040",
         "Details": {
             "Medium": "Drypoint",
-            "Dimensions": "plate  2 7/16 x 3 1/2\" (6.2 x 8.9 cm)",
-            "sheet  10 5/8 x 14 9/16\" (27 x 37 cm)": "Publisher",
-            "Unidentified": "Edition",
-            "Trial proof": "Credit",
-            "Given anonymously": "Object number",
-            "66.1956": "Department"
+            "Dimensions": "plate  2 7/16 x 3 1/2\" (6.2 x 8.9 cm)\r\nsheet  10 5/8 x 14 9/16\" (27 x 37 cm)",
+            "Publisher": "Unidentified",
+            "Printer": "Unidentified",
+            "Edition": "Trial proof",
+            "Credit": "Given anonymously",
+            "Object number": "66.1956",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/1243"
     },
@@ -279,14 +280,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyMDYxNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=780018fdff23080c",
         "Details": {
             "Medium": "Lithograph from a portfolio of twelve lithographs",
-            "Dimensions": "sl. irreg. composition  9 3/8 x 6 15/16\" (23.8 x 17.6 cm)",
-            "sl. irreg. sheet  14 13/16 x 10 3/8\" (37 x 26.4 cm)": "Publisher",
-            "Avalun Verlag, Dresden-Hellerau": "Printer",
-            "A. Rogall, Berlin": "Edition",
-            "Illustrated book: 280 (including a special edition of 150, signed and numbered 1-150 at the colophon, each plate signed, bound in full-parchment; and a regular edition of 130, signed and numbered 151-280, bound in half-parchment); plus supplementary suite of 50 issued in portfolio accompanying nos. 1-50 of the special edition [this ex.]": "Credit",
-            "Gift of J. B. Neumann": "Object number",
-            "363.1956.3": "Portfolio",
-            "The Robbers (Die R\u00e4uber)": "Department"
+            "Dimensions": "sl. irreg. composition  9 3/8 x 6 15/16\" (23.8 x 17.6 cm)\r\nsl. irreg. sheet  14 13/16 x 10 3/8\" (37 x 26.4 cm)",
+            "Publisher": "Avalun Verlag, Dresden-Hellerau",
+            "Printer": "A. Rogall, Berlin",
+            "Edition": "Illustrated book: 280 (including a special edition of 150, signed and numbered 1-150 at the colophon, each plate signed, bound in full-parchment; and a regular edition of 130, signed and numbered 151-280, bound in half-parchment); plus supplementary suite of 50 issued in portfolio accompanying nos. 1-50 of the special edition [this ex.]",
+            "Credit": "Gift of J. B. Neumann",
+            "Object number": "363.1956.3",
+            "Portfolio": "The Robbers (Die R\u00e4uber)",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/1243"
     },

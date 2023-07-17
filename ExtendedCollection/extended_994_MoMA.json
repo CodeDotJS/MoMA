@@ -535,11 +535,11 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MzQyMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=55b2d40739104164",
         "Details": {
             "Medium": "Printer's assemblage of various papers, including layers of proofs of the first state",
-            "Dimensions": "Composition (irreg.): 12 5/8 x 6 1/8\" (32 x 15.5 cm)",
-            "Sheet (irreg.): 15 15/16 x 15 15/16\" (40.5 x 40.5 cm)": "Credit",
-            "Eugene Mercy, Jr. Fund, Riva Castleman Endowment Fund, and Louise Reinhardt Smith Bequest (by exchange)": "Object number",
-            "2523.2001": "Copyright",
-            "\u00a9 2023 Estate of Pablo Picasso / Artists Rights Society (ARS), New York": "Department"
+            "Dimensions": "Composition (irreg.): 12 5/8 x 6 1/8\" (32 x 15.5 cm)\r\nSheet (irreg.): 15 15/16 x 15 15/16\" (40.5 x 40.5 cm)",
+            "Credit": "Eugene Mercy, Jr. Fund, Riva Castleman Endowment Fund, and Louise Reinhardt Smith Bequest (by exchange)",
+            "Object number": "2523.2001",
+            "Copyright": "\u00a9 2023 Estate of Pablo Picasso / Artists Rights Society (ARS), New York",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/4609"
     },
@@ -701,10 +701,7 @@
         "Details": {
             "Manufacturer": "C. Hugo Pott, Solingen, Germany",
             "Medium": "18/8 Nickel-plated steel",
-            "Dimensions": ".1 (dinner fork): l. 8\" (20.3 cm)",
-            ".2 (salad fork): l. 7 1/4\" (18.4 cm)": ".3 (dinner knife): l. 8 1/4\" (21 cm)",
-            ".4 (butter knife): l. 6 1/8\" (15.5 cm)": ".5 (table spoon): l. 8 1/4\" (21 cm)",
-            ".6 (soup spoon): l. 7 3/8\" (18.7 cm)": ".7 (serving spoon): l. 6 1/4\" (15.9 cm)",
+            "Dimensions": ".1 (dinner fork): l. 8\" (20.3 cm)           \r\n.2 (salad fork): l. 7 1/4\" (18.4 cm)     \r\n.3 (dinner knife): l. 8 1/4\" (21 cm)      \r\n.4 (butter knife): l. 6 1/8\" (15.5 cm)    \r\n.5 (table spoon): l. 8 1/4\" (21 cm)    \r\n.6 (soup spoon): l. 7 3/8\" (18.7 cm) \r\n.7 (serving spoon): l. 6 1/4\" (15.9 cm)",
             "Credit": "Given anonymously",
             "Object number": "1319.2001.1-7",
             "Department": "Architecture and Design"
@@ -737,14 +734,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDYzMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=11dbff1709f0233f",
         "Details": {
             "Medium": "Monotype",
-            "Dimensions": "Composition: 10 1/16 x 4 1/2\" (25.5 x 11.4 cm)",
-            "Sheet: 13 1/4 x 8 13/16\" (33.6 x 22.4 cm)": "Publisher",
-            "David Rabinowitch": "Printer",
-            "David Rabinowitch and Ruthe Calverley Rabinowitch": "Edition",
-            "unique": "Credit",
-            "John B. Turner Fund": "Object number",
-            "31.2003": "Copyright",
-            "\u00a9 2023 David Rabinowitch / Artists Rights Society (ARS), New York": "Department"
+            "Dimensions": "Composition: 10 1/16 x 4 1/2\" (25.5 x 11.4 cm)\r\nSheet: 13 1/4 x 8 13/16\" (33.6 x 22.4 cm)",
+            "Publisher": "David Rabinowitch",
+            "Printer": "David Rabinowitch and Ruthe Calverley Rabinowitch",
+            "Edition": "unique",
+            "Credit": "John B. Turner Fund",
+            "Object number": "31.2003",
+            "Copyright": "\u00a9 2023 David Rabinowitch / Artists Rights Society (ARS), New York",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/4779"
     },
@@ -757,14 +754,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDYzOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ad06441584530a8e",
         "Details": {
             "Medium": "Monotype",
-            "Dimensions": "Composition: 8 11/16 x 5 1/4\" (22.1 x 13.3 cm)",
-            "Sheet: 10 1/8 x 6 3/4\" (25.7 x 17.1 cm)": "Publisher",
-            "David Rabinowitch": "Printer",
-            "David Rabinowitch and Ruthe Calverley Rabinowitch": "Edition",
-            "unique": "Credit",
-            "John B. Turner Fund": "Object number",
-            "32.2003": "Copyright",
-            "\u00a9 2023 David Rabinowitch / Artists Rights Society (ARS), New York": "Department"
+            "Dimensions": "Composition: 8 11/16 x 5 1/4\" (22.1 x 13.3 cm)\r\nSheet: 10 1/8 x 6 3/4\" (25.7 x 17.1 cm)",
+            "Publisher": "David Rabinowitch",
+            "Printer": "David Rabinowitch and Ruthe Calverley Rabinowitch",
+            "Edition": "unique",
+            "Credit": "John B. Turner Fund",
+            "Object number": "32.2003",
+            "Copyright": "\u00a9 2023 David Rabinowitch / Artists Rights Society (ARS), New York",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/4779"
     },
@@ -777,14 +774,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDY0MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c9b845837ced3e02",
         "Details": {
             "Medium": "Monotype",
-            "Dimensions": "Composition: 11 5/8 x 8 7/8\" (29.5 x 22.5 cm)",
-            "Sheet: 12 x 9 3/16\" (30.5 x 23.3 cm)": "Publisher",
-            "David Rabinowitch": "Printer",
-            "David Rabinowitch and Ruthe Calverley Rabinowitch": "Edition",
-            "unique": "Credit",
-            "John B. Turner Fund": "Object number",
-            "33.2003": "Copyright",
-            "\u00a9 2023 David Rabinowitch / Artists Rights Society (ARS), New York": "Department"
+            "Dimensions": "Composition: 11 5/8 x 8 7/8\" (29.5 x 22.5 cm)\r\nSheet: 12 x 9 3/16\" (30.5 x 23.3 cm)",
+            "Publisher": "David Rabinowitch",
+            "Printer": "David Rabinowitch and Ruthe Calverley Rabinowitch",
+            "Edition": "unique",
+            "Credit": "John B. Turner Fund",
+            "Object number": "33.2003",
+            "Copyright": "\u00a9 2023 David Rabinowitch / Artists Rights Society (ARS), New York",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/4779"
     },

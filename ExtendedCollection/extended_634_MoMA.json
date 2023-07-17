@@ -50,12 +50,12 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MTY3OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=16af00e0e08dfa59",
         "Details": {
             "Medium": "Etching",
-            "Dimensions": "plate  9 1/16 x 5 15/16\" (22.9 x 15.2 cm)",
-            "sheet  21 1/16 x 14 13/16\" (53.5 x 37.6 cm)": "Printer",
-            "John Semple": "Edition",
-            "Ed. 3": "Credit",
-            "Mrs. Bertram Smith Fund (by exchange)": "Object number",
-            "160.1986": "Department"
+            "Dimensions": "plate  9 1/16 x 5 15/16\" (22.9 x 15.2 cm)\r\nsheet  21 1/16 x 14 13/16\" (53.5 x 37.6 cm)",
+            "Printer": "John Semple",
+            "Edition": "Ed. 3",
+            "Credit": "Mrs. Bertram Smith Fund (by exchange)",
+            "Object number": "160.1986",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/100"
     },
@@ -105,14 +105,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjc5NjUxIl0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNTEyeDUxMlx1MDAzZSJdXQ.jpg?sha=73f3ecce0e69353c",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "irreg composition  29 3/4 x 21 5/8\" (75.5 x 55 cm)",
-            "sheet  33 1/4 x 22 1/4\" (84 x 56.5 cm)": "Publisher",
-            "Pierre Alechinsky": "Printer",
-            "Imprimerie Clot, Bramsen et Georges, Paris": "Edition",
-            "150; plus XXV e.a": "Credit",
-            "Gift of the artist": "Object number",
-            "599.1978": "Copyright",
-            "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris": "Department"
+            "Dimensions": "irreg composition  29 3/4 x 21 5/8\" (75.5 x 55 cm)\r\nsheet  33 1/4 x 22 1/4\" (84 x 56.5 cm)",
+            "Publisher": "Pierre Alechinsky",
+            "Printer": "Imprimerie Clot, Bramsen et Georges, Paris",
+            "Edition": "150; plus XXV e.a",
+            "Credit": "Gift of the artist",
+            "Object number": "599.1978",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/107"
     },
@@ -192,12 +192,12 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MTc0NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f6edf47d9b60a179",
         "Details": {
             "Medium": "Rubber stamp",
-            "Dimensions": "irreg. composition  2 15/16 x 2 15/16\" (7.4 x 7.5 cm)",
-            "sheet  8 1/2 x 8 9/16\" (21.6 x 21.7 cm)": "Printer",
-            "Carl Andre": "Credit",
-            "Ruth Vollmer Bequest": "Object number",
-            "218.1982": "Copyright",
-            "\u00a9 2023 Carl Andre / Licensed by VAGA at Artists Rights Society (ARS), NY": "Department"
+            "Dimensions": "irreg. composition  2 15/16 x 2 15/16\" (7.4 x 7.5 cm)\r\nsheet  8 1/2 x 8 9/16\" (21.6 x 21.7 cm)",
+            "Printer": "Carl Andre",
+            "Credit": "Ruth Vollmer Bequest",
+            "Object number": "218.1982",
+            "Copyright": "\u00a9 2023 Carl Andre / Licensed by VAGA at Artists Rights Society (ARS), NY",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/174"
     },

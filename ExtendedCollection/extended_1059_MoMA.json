@@ -111,8 +111,7 @@
         "Details": {
             "Manufacturer": "Rome Manufacturing Co., Div. of Revere Copper and Brass, Inc., Rome, NY",
             "Medium": "Copper-clad stainless steel",
-            "Dimensions": ".1 (1-qt open saucepan): 2 1/4 x 6 1/8\" (5.7 x 15.5 cm)",
-            ".2a (4-qt saucepan): 5 3/8 x 7 5/8\" (13.7 x 19.3 cm)": ".2b (cover): 8\" (20.3 cm)",
+            "Dimensions": ".1 (1-qt open saucepan): 2 1/4 x 6 1/8\" (5.7 x 15.5 cm)\r\n.2a (4-qt saucepan): 5 3/8 x 7 5/8\" (13.7 x 19.3 cm)\r\n.2b (cover): 8\" (20.3 cm)",
             "Credit": "Gift of the manufacturer",
             "Object number": "495.1956.1-2",
             "Department": "Architecture and Design"
@@ -129,8 +128,7 @@
         "Details": {
             "Manufacturer": "Rome Manufacturing Co., Div. of Revere Copper and Brass, Inc., Rome, NY",
             "Medium": "Stainless steel with copper-clad bottom",
-            "Dimensions": ".1a: 6 3/4 x 9 5/8\" (17.1 x 24.4 cm)",
-            ".1b: 10\" (25.4 cm)": ".2: 5 1/8 x 9 11/16\" (13 x 24.6 cm)",
+            "Dimensions": ".1a: 6 3/4 x 9 5/8\" (17.1 x 24.4 cm)\r\n.1b: 10\" (25.4 cm)\r\n.2: 5 1/8 x 9 11/16\" (13 x 24.6 cm)",
             "Credit": "Gift of the manufacturer",
             "Object number": "497.1956.1-2",
             "Department": "Architecture and Design"
@@ -487,12 +485,10 @@
         "Details": {
             "Manufacturer": "The Steubenville Pottery Company, Steubenville, OH",
             "Medium": "Glazed earthenware",
-            "Dimensions": ".1 (bowl): 2 x 5 9/16\" (5.1 x 14.1 cm)",
-            ".2 (small plate): 9/16 x 6 1/8\" (1.4 x 15.6 cm)": ".3 (luncheon plate): 3/4 x 8\" (1.9 x 20.3 cm)",
-            ".4 (dinner plate): 13/16 x 9 13/16\" (2.1 x 25 cm)": ".5 (water pitcher): 10 3/4 x 6 1/2\" (27.3 x 16.5 cm)",
-            ".6 (teapot): 4 1/4 x 8 1/2\" (10.8 x 21.6 cm)": "Credit",
-            "Gift of the manufacturer": "Object number",
-            "244.1944.1-6": "Department"
+            "Dimensions": ".1 (bowl): 2 x 5 9/16\" (5.1 x 14.1 cm)\r\n.2 (small plate): 9/16 x 6 1/8\" (1.4 x 15.6 cm)\r\n.3 (luncheon plate): 3/4 x 8\" (1.9 x 20.3 cm)\r\n.4 (dinner plate): 13/16 x 9 13/16\" (2.1 x 25 cm)\r\n.5 (water pitcher): 10 3/4 x 6 1/2\" (27.3 x 16.5 cm)\r\n.6 (teapot): 4 1/4 x 8 1/2\" (10.8 x 21.6 cm)",
+            "Credit": "Gift of the manufacturer",
+            "Object number": "244.1944.1-6",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/6460"
     },

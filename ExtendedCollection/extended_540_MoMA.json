@@ -26,12 +26,13 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5MDE0OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b27c11d1a1f3d7fe",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "composition  31 x 23\" (78.7 x 58.4 cm)",
-            "sheet  31 x 23\" (78.7 x 58.4 cm)": "Publisher",
-            "Cirrus Editions, Ltd., Los Angeles": "Credit",
-            "John B. Turner Fund": "Object number",
-            "158.1981": "Copyright",
-            "\u00a9 2023 Charles Christopher Hill": "Department"
+            "Dimensions": "composition  31 x 23\" (78.7 x 58.4 cm)\r\nsheet  31 x 23\" (78.7 x 58.4 cm)",
+            "Publisher": "Cirrus Editions, Ltd., Los Angeles",
+            "Printer": "Cirrus Editions, Ltd., Los Angeles",
+            "Credit": "John B. Turner Fund",
+            "Object number": "158.1981",
+            "Copyright": "\u00a9 2023 Charles Christopher Hill",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/2646"
     },
@@ -619,11 +620,12 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5MDE0OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a428debd82a3b19b",
         "Details": {
             "Medium": "Lithograph and screenprint",
-            "Dimensions": "irreg composition  30 11/16 x 20 13/16\" (77.9 x 52.8 cm)",
-            "irreg sheet  33 1/2 x 23 5/8\" (85.1 x 60 cm)": "Publisher",
-            "Cirrus Editions, Ltd., Los Angeles": "Credit",
-            "John B. Turner Fund": "Object number",
-            "160.1981": "Department"
+            "Dimensions": "irreg composition  30 11/16 x 20 13/16\" (77.9 x 52.8 cm)\r\nirreg sheet  33 1/2 x 23 5/8\" (85.1 x 60 cm)",
+            "Publisher": "Cirrus Editions, Ltd., Los Angeles",
+            "Printer": "Cirrus Editions, Ltd., Los Angeles",
+            "Credit": "John B. Turner Fund",
+            "Object number": "160.1981",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/3021"
     },

@@ -738,14 +738,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMjE1NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e1faf6526a786fb5",
         "Details": {
             "Medium": "Screenprint",
-            "Dimensions": "composition  11 1/4 x 7 15/16\" (28.6 x 20.3 cm)",
-            "sheet  22 15/16 x 17 11/16\" (58 x 45 cm)": "Publisher",
-            "Kunstring Folkwang, Essen, Germany": "Printer",
-            "Siebdruck-Technik Hotze, Essen, Germany": "Edition",
-            "40": "Credit",
-            "John B. Turner Fund": "Object number",
-            "207.1990": "Copyright",
-            "\u00a9 2023 Matt Mullican": "Department"
+            "Dimensions": "composition  11 1/4 x 7 15/16\" (28.6 x 20.3 cm)\r\nsheet  22 15/16 x 17 11/16\" (58 x 45 cm)",
+            "Publisher": "Kunstring Folkwang, Essen, Germany",
+            "Printer": "Siebdruck-Technik Hotze, Essen, Germany",
+            "Edition": "40",
+            "Credit": "John B. Turner Fund",
+            "Object number": "207.1990",
+            "Copyright": "\u00a9 2023 Matt Mullican",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/4160"
     },

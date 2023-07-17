@@ -135,14 +135,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMzA1MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=657d95da83d14758",
         "Details": {
             "Medium": "Screenprint",
-            "Dimensions": "irreg. composition  16 3/8 x 22 13/16\" (41.6 x 57.9 cm)",
-            "sheet  21 1/8 x 27 3/4\" (53 x 70.5 cm)": "Publisher",
-            "Gesellschaft Kunst Edition, Hamburg": "Printer",
-            "Thomas Sanmann": "Edition",
-            "30, two proofs numbered V and II": "Credit",
-            "Gift of Gesellschaft Kunst Edition": "Object number",
-            "146.1992": "Copyright",
-            "\u00a9 2023 Lawrence Weiner / Artists Rights Society (ARS), New York": "Department"
+            "Dimensions": "irreg. composition  16 3/8 x 22 13/16\" (41.6 x 57.9 cm)\r\nsheet  21 1/8 x 27 3/4\" (53 x 70.5 cm)",
+            "Publisher": "Gesellschaft Kunst Edition, Hamburg",
+            "Printer": "Thomas Sanmann",
+            "Edition": "30, two proofs numbered V and II",
+            "Credit": "Gift of Gesellschaft Kunst Edition",
+            "Object number": "146.1992",
+            "Copyright": "\u00a9 2023 Lawrence Weiner / Artists Rights Society (ARS), New York",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/6288"
     },
@@ -154,12 +154,12 @@
         "Work": "https://www.moma.org/collection/works/82329",
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0NDA3NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6f7ce71063e5a05e",
         "Details": {
-            "Medium": "a)  Felt-tip pen, pencil, and stamped ink on cut transparentized paper",
-            "b)  Felt-tip pen, pencil, colored pencil, and stamped ink on cut transparentized paper": "Dimensions",
-            "each: 19 x 23 7/8\" (48.3 x 60.6 cm)": "Credit",
-            "Gift of Sarah-Ann and Werner H. Kramarsky": "Object number",
-            "2606.2001.a-b": "Copyright",
-            "\u00a9 2023 Lawrence Weiner / Artists Rights Society (ARS), New York": "Department"
+            "Medium": "a)  Felt-tip pen, pencil, and stamped ink on cut transparentized paper\r\nb)  Felt-tip pen, pencil, colored pencil, and stamped ink on cut transparentized paper",
+            "Dimensions": "each: 19 x 23 7/8\" (48.3 x 60.6 cm)",
+            "Credit": "Gift of Sarah-Ann and Werner H. Kramarsky",
+            "Object number": "2606.2001.a-b",
+            "Copyright": "\u00a9 2023 Lawrence Weiner / Artists Rights Society (ARS), New York",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/6288"
     },
@@ -520,8 +520,7 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1Mzc3MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a723f6cffd59451c",
         "Details": {
             "Medium": "Screenprint, printed on two sheets",
-            "Dimensions": ".a composition  18 11/16 x 23 5/8\" (47.4 x 60 cm)",
-            ".b composition  18 3/8 x 23 11/16\" (46.7 x 60.1 cm)": "each sheet  23 1/8 x 27 9/16\" (58 x 70.1 cm)",
+            "Dimensions": ".a composition  18 11/16 x 23 5/8\" (47.4 x 60 cm)\r\n.b composition  18 3/8 x 23 11/16\" (46.7 x 60.1 cm)\r\neach sheet  23 1/8 x 27 9/16\" (58 x 70.1 cm)",
             "Publisher": "Atelier the Hun, Jersey City",
             "Printer": "Atelier the Hun, Jersey City",
             "Edition": "100, 20 AP, 20 PP",

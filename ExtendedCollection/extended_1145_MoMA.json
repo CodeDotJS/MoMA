@@ -130,10 +130,10 @@
         "Details": {
             "Manufacturer": "Hall China Co., East Liverpool, OH",
             "Medium": "Glazed earthenware",
-            "Dimensions": ".1 (sauce boat): 6 1/4 x 6 1/2 x 5 1/4\" (15.9 x 16.5 x 13.3 cm)",
-            ".2 (ladle): 4 x 4 1/2 x 1 7/8\" (10.2 x 11.4 x 4.7 cm)": "Credit",
-            "Gift of Della Rothermel in honor of John Petrik Rothermel": "Object number",
-            "404.1994.1-2": "Department"
+            "Dimensions": ".1 (sauce boat): 6 1/4 x 6 1/2 x 5 1/4\" (15.9 x 16.5 x 13.3 cm) \r\n.2 (ladle): 4 x 4 1/2 x 1 7/8\" (10.2 x 11.4 x 4.7 cm)",
+            "Credit": "Gift of Della Rothermel in honor of John Petrik Rothermel",
+            "Object number": "404.1994.1-2",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/6556"
     },
@@ -312,13 +312,13 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MTg2OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ee99c0e39dbf988d",
         "Details": {
             "Medium": "Etching and aquatint",
-            "Dimensions": "plate  6 5/16 x 4 5/16\" (16 x 10.9 cm)",
-            "sheet  12 3/4 x 9 13/16\" (32 x 24.9 cm)": "Printer",
-            "Lode Opdebeek": "Edition",
-            "25 proofs plus 1 artist's proof": "Credit",
-            "Gift of the artist": "Object number",
-            "526.1978": "Copyright",
-            "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris": "Department"
+            "Dimensions": "plate  6 5/16 x 4 5/16\" (16 x 10.9 cm)\r\nsheet  12 3/4 x 9 13/16\" (32 x 24.9 cm)",
+            "Printer": "Lode Opdebeek",
+            "Edition": "25 proofs plus 1 artist's proof",
+            "Credit": "Gift of the artist",
+            "Object number": "526.1978",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/107"
     },
@@ -331,13 +331,13 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MTg2OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e785c64a32c33e3a",
         "Details": {
             "Medium": "Etching",
-            "Dimensions": "plate  2 1/2 x 3 3/8\" (6.3 x 8.6 cm)",
-            "sheet  4 11/16 x 5\" (11 x 12.7 cm)": "Printer",
-            "Imprimerie Leblanc, Paris": "Edition",
-            "50": "Credit",
-            "Gift of the artist": "Object number",
-            "527.1978": "Copyright",
-            "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris": "Department"
+            "Dimensions": "plate  2 1/2 x 3 3/8\" (6.3 x 8.6 cm)\r\nsheet  4 11/16 x 5\" (11 x 12.7 cm)",
+            "Printer": "Imprimerie Leblanc, Paris",
+            "Edition": "50",
+            "Credit": "Gift of the artist",
+            "Object number": "527.1978",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/107"
     },
@@ -541,12 +541,10 @@
         "Details": {
             "Manufacturer": "Gense, Sweden",
             "Medium": "Stainless steel",
-            "Dimensions": ".1 (dinner knife): l. 8 1/4\" (21 cm)",
-            ".2 (butter knife): l. 6 11/16\" (17 cm)": ".3 (dinner fork): l. 7 1/2\" (19 cm)",
-            ".4 (salad fork): l. 6 7/16\" (16.4 cm)": ".5 (soup spoon): l. 7 1/8\" (18.1 cm)",
-            ".6 (teaspoon): l. 6\" (15.2 cm)": "Credit",
-            "Gift of the Education Department": "Object number",
-            "658.1954.1-6": "Department"
+            "Dimensions": ".1 (dinner knife): l. 8 1/4\" (21 cm)\r\n.2 (butter knife): l. 6 11/16\" (17 cm)\r\n.3 (dinner fork): l. 7 1/2\" (19 cm)\r\n.4 (salad fork): l. 6 7/16\" (16.4 cm)\r\n.5 (soup spoon): l. 7 1/8\" (18.1 cm)\r\n.6 (teaspoon): l. 6\" (15.2 cm)",
+            "Credit": "Gift of the Education Department",
+            "Object number": "658.1954.1-6",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/15"
     },

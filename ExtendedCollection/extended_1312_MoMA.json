@@ -166,8 +166,7 @@
         "Details": {
             "Manufacturer": "Azucena S.r.L., Milan",
             "Medium": "Handwrought silver",
-            "Dimensions": ".1 (knife): l. 9 1/4\" (l. 23.5 cm)",
-            ".2 (fork): l. 8\" (l. 20.3 cm)": ".3 (spoon): l. 7 7/8\" (l. 20 cm)",
+            "Dimensions": ".1 (knife): l. 9 1/4\" (l. 23.5 cm) \r\n.2 (fork): l. 8\" (l. 20.3 cm) \r\n.3 (spoon): l. 7 7/8\" (l. 20 cm)",
             "Credit": "Gift of Philip Johnson",
             "Object number": "528.1977.1-3",
             "Department": "Architecture and Design"
@@ -518,12 +517,13 @@
         "Work": "https://www.moma.org/collection/works/7941",
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNzU3NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=73270d1a3d244727",
         "Details": {
-            "Medium": "Lithograph and letterpress",
-            "Paper/Support: wove, yellow": "Dimensions",
-            "18 1/8 \u00d7 24 3/8\" (46 \u00d7 61.9 cm)": "Publisher",
-            "Taller de Gr\u00e1fica Popular, Mexico City": "Credit",
-            "Inter-American Fund": "Object number",
-            "691.1942": "Department"
+            "Medium": "Lithograph and letterpress\r\nPaper/Support: wove, yellow",
+            "Dimensions": "18 1/8 \u00d7 24 3/8\" (46 \u00d7 61.9 cm)",
+            "Publisher": "Taller de Gr\u00e1fica Popular, Mexico City",
+            "Printer": "Taller de Gr\u00e1fica Popular, Mexico City",
+            "Credit": "Inter-American Fund",
+            "Object number": "691.1942",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/1596"
     },

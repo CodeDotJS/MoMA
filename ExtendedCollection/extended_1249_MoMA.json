@@ -624,8 +624,7 @@
         "Details": {
             "Manufacturer": "Corning Glass Works, Corning, NY",
             "Medium": "Borosilicate glass and steel",
-            "Dimensions": ".a (bottom pot): 5 1/2 x 11 x 5 3/4\" (14 x 27.9 x 14.6 cm)",
-            ".b (top pot): 5 7/8 x 11 x 5 3/4\" (15 x 27.9 x 14.6 cm)": ".c (lid): 5 7/8\" (15 cm)",
+            "Dimensions": ".a (bottom pot): 5 1/2 x 11 x 5 3/4\" (14 x 27.9 x 14.6 cm)\r\n.b (top pot): 5 7/8 x 11 x 5 3/4\" (15 x 27.9 x 14.6 cm)\r\n.c (lid): 5 7/8\" (15 cm)",
             "Credit": "Purchase",
             "Object number": "249.1944.a-c",
             "Department": "Architecture and Design"
@@ -689,14 +688,14 @@
         "Details": {
             "Author": "Fran\u00e7ois Rabelais",
             "Medium": "Illustrated book with 180 woodcuts",
-            "Dimensions": "page  13 1/2 x 11\" (34 x 28 cm)",
-            "Prints:  various dimensions.": "Publisher",
-            "Editions Albert Skira, Paris": "Printer",
-            "Atelier Lacouri\u00e8re, Paris": "Edition",
-            "250": "Credit",
-            "The Louis E. Stern Collection": "Object number",
-            "795.1964.1-146": "Copyright",
-            "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris": "Department"
+            "Dimensions": "page  13 1/2 x 11\" (34 x 28 cm)\r\nPrints:  various dimensions.",
+            "Publisher": "Editions Albert Skira, Paris",
+            "Printer": "Atelier Lacouri\u00e8re, Paris",
+            "Edition": "250",
+            "Credit": "The Louis E. Stern Collection",
+            "Object number": "795.1964.1-146",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/1500"
     },

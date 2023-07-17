@@ -59,10 +59,10 @@
         "Details": {
             "Manufacturer": "Baccarat, France",
             "Medium": "Lead glass",
-            "Dimensions": ".a (decanter): 12 x 3 1/4\" (30.5 x 8.2 cm)",
-            ".b (stopper): 3\" (7.6 cm)": "Credit",
-            "Purchase": "Object number",
-            "485.1978.a-b": "Department"
+            "Dimensions": ".a (decanter): 12 x 3 1/4\" (30.5 x 8.2 cm)\r\n.b (stopper): 3\" (7.6 cm)",
+            "Credit": "Purchase",
+            "Object number": "485.1978.a-b",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/5944"
     },
@@ -75,11 +75,11 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0OTM4OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b084aa5d2cd82c6b",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "irreg composition  22 9/16 x 17 3/8\" (57.3 x 44.2 cm)",
-            "irreg sheet  30 5/8 x 22 3/16\" (77.8 x 56.3 cm)": "Credit",
-            "Gift of Brooke and Carolyn Alexander": "Object number",
-            "22.1975": "Copyright",
-            "\u00a9 2023 Richard Tuttle": "Department"
+            "Dimensions": "irreg composition  22 9/16 x 17 3/8\" (57.3 x 44.2 cm)\r\nirreg sheet  30 5/8 x 22 3/16\" (77.8 x 56.3 cm)",
+            "Credit": "Gift of Brooke and Carolyn Alexander",
+            "Object number": "22.1975",
+            "Copyright": "\u00a9 2023 Richard Tuttle",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/5983"
     },
@@ -160,13 +160,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMDE3MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e07594fc69044d25",
         "Details": {
             "Medium": "Etching and aquatint",
-            "Dimensions": "plate  23 9/16 x 28 1/4\" (59.8 x 71.7 cm)",
-            "sheet  27 9/16 x 40 5/8\" (70 x 103.2 cm)": "Publisher",
-            "Universal Limited Art Editions, West Islip, New York": "Edition",
-            "19": "Credit",
-            "Gift of Celeste Bartos": "Object number",
-            "276.1974": "Copyright",
-            "\u00a9 2023 Cy Twombly Foundation": "Department"
+            "Dimensions": "plate  23 9/16 x 28 1/4\" (59.8 x 71.7 cm)\r\nsheet  27 9/16 x 40 5/8\" (70 x 103.2 cm)",
+            "Publisher": "Universal Limited Art Editions, West Islip, New York",
+            "Printer": "Universal Limited Art Editions, West Islip, New York",
+            "Edition": "19",
+            "Credit": "Gift of Celeste Bartos",
+            "Object number": "276.1974",
+            "Copyright": "\u00a9 2023 Cy Twombly Foundation",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/5988"
     },

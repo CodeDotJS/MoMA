@@ -452,12 +452,12 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MTY5MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7ca96bdd400219fd",
         "Details": {
             "Medium": "Drypoint",
-            "Dimensions": "plate  8 x 6 1/2\" (20.4 x 16.5 cm)",
-            "sheet  14 7/8 x 12 15/16\" (37 x 32.9 cm)": "Edition",
-            "100": "Credit",
-            "Lily Auchincloss Fund in honor of Joanne Stern": "Object number",
-            "164.1988": "Copyright",
-            "\u00a9 2023 Milton Avery Trust / Artists Rights Society (ARS), New York": "Department"
+            "Dimensions": "plate  8 x 6 1/2\" (20.4 x 16.5 cm)\r\nsheet  14 7/8 x 12 15/16\" (37 x 32.9 cm)",
+            "Edition": "100",
+            "Credit": "Lily Auchincloss Fund in honor of Joanne Stern",
+            "Object number": "164.1988",
+            "Copyright": "\u00a9 2023 Milton Avery Trust / Artists Rights Society (ARS), New York",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/250"
     },
@@ -657,11 +657,11 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MTQ2MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=093e0aeec282f7fd",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "Composition: 7 13/16 x 12 1/16\" (19.9 x 30.7 cm)",
-            "Sheet: 12 x 16 1/8\" (30.5 x 41 cm)": "Credit",
-            "Gift of Kathleen L. Westin": "Object number",
-            "1052.1979": "Copyright",
-            "\u00a9 2023 Thomas Hart Benton Trust/Licensed by VAGA, New York, NY": "Department"
+            "Dimensions": "Composition: 7 13/16 x 12 1/16\" (19.9 x 30.7 cm)\r\nSheet: 12 x 16 1/8\" (30.5 x 41 cm)",
+            "Credit": "Gift of Kathleen L. Westin",
+            "Object number": "1052.1979",
+            "Copyright": "\u00a9 2023 Thomas Hart Benton Trust/Licensed by VAGA, New York, NY",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/483"
     },

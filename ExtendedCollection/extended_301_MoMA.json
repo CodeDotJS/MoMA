@@ -796,13 +796,13 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MzAyNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0afffbfcd4e2bca5",
         "Details": {
             "Medium": "Book, offset printed",
-            "Dimensions": ".1 (white): 8 7/8 x 6 11/16 x 4 5/16\" (22.5 x 17 x 11 cm)",
-            ".2 (black): 8 7/8 x 6 11/16 x 4 5/16\" (22.5 x 17 x 11 cm)": "Publisher",
-            "SHV Holdings": "Printer",
-            "Drukkerij Rosbeek, The Netherlands": "Credit",
-            "Gift of SHV Holdings NV, Utrecht": "Object number",
-            "899.2007.1-2": "Copyright",
-            "\u00a9 2023 Irma Boom": "Department"
+            "Dimensions": ".1 (white): 8 7/8 x 6 11/16 x 4 5/16\" (22.5 x 17 x 11 cm)\r\n.2 (black): 8 7/8 x 6 11/16 x 4 5/16\" (22.5 x 17 x 11 cm)",
+            "Publisher": "SHV Holdings",
+            "Printer": "Drukkerij Rosbeek, The Netherlands",
+            "Credit": "Gift of SHV Holdings NV, Utrecht",
+            "Object number": "899.2007.1-2",
+            "Copyright": "\u00a9 2023 Irma Boom",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/33693"
     },

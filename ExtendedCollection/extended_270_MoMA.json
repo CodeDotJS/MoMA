@@ -246,14 +246,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjk3NjE1Il0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNTEyeDUxMlx1MDAzZSJdXQ.jpg?sha=bc8ff1ee489b97bc",
         "Details": {
             "Medium": "One from a series of six screenprints",
-            "Dimensions": "comp.: 24 x 41 5/16\" (61 x 105 cm)",
-            "sheet  24 x 41 5/16\" (61 x 105 cm)": "Publisher",
-            "Alan Cristea Gallery, London": "Printer",
-            "Advanced Graphics, London": "Edition",
-            "40": "Credit",
-            "Acquired through the generosity of Andrew Shapiro, in honor of his mother, Anna Marie Shapiro": "Object number",
-            "435.1999.2": "Copyright",
-            "\u00a9 2023 Julian Opie": "Department"
+            "Dimensions": "comp.: 24 x 41 5/16\" (61 x 105 cm)\r\nsheet  24 x 41 5/16\" (61 x 105 cm)",
+            "Publisher": "Alan Cristea Gallery, London",
+            "Printer": "Advanced Graphics, London",
+            "Edition": "40",
+            "Credit": "Acquired through the generosity of Andrew Shapiro, in honor of his mother, Anna Marie Shapiro",
+            "Object number": "435.1999.2",
+            "Copyright": "\u00a9 2023 Julian Opie",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/8126"
     },
@@ -266,14 +266,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjk3NjE2Il0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNTEyeDUxMlx1MDAzZSJdXQ.jpg?sha=d1402b61c8f88737",
         "Details": {
             "Medium": "One from a series of six screenprints",
-            "Dimensions": "composition  24 x 57 1/16\" (61 x 145 cm)",
-            "sheet  24 x 57 1/16\" (61 x 145 cm)": "Publisher",
-            "Alan Cristea Gallery, London": "Printer",
-            "Advanced Graphics, London": "Edition",
-            "40": "Credit",
-            "Acquired through the generosity of Andrew Shapiro, in honor of his mother, Anna Marie Shapiro": "Object number",
-            "435.1999.3": "Copyright",
-            "\u00a9 2023 Julian Opie": "Department"
+            "Dimensions": "composition  24 x 57 1/16\" (61 x 145 cm)\r\nsheet  24 x 57 1/16\" (61 x 145 cm)",
+            "Publisher": "Alan Cristea Gallery, London",
+            "Printer": "Advanced Graphics, London",
+            "Edition": "40",
+            "Credit": "Acquired through the generosity of Andrew Shapiro, in honor of his mother, Anna Marie Shapiro",
+            "Object number": "435.1999.3",
+            "Copyright": "\u00a9 2023 Julian Opie",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/8126"
     },
@@ -286,14 +286,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjk3NjE4Il0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNTEyeDUxMlx1MDAzZSJdXQ.jpg?sha=f6b57b6f0d02feb8",
         "Details": {
             "Medium": "One from a series of six screenprints",
-            "Dimensions": "comp.: 24 x 31 1/8\" (61 x 79 cm)",
-            "sheet  24 x 31 1/8\" (61 x 79 cm)": "Publisher",
-            "Alan Cristea Gallery, London": "Printer",
-            "Advanced Graphics, London": "Edition",
-            "40": "Credit",
-            "Acquired through the generosity of Andrew Shapiro, in honor of his mother, Anna Marie Shapiro": "Object number",
-            "435.1999.4": "Copyright",
-            "\u00a9 2023 Julian Opie": "Department"
+            "Dimensions": "comp.: 24 x 31 1/8\" (61 x 79 cm)\r\nsheet  24 x 31 1/8\" (61 x 79 cm)",
+            "Publisher": "Alan Cristea Gallery, London",
+            "Printer": "Advanced Graphics, London",
+            "Edition": "40",
+            "Credit": "Acquired through the generosity of Andrew Shapiro, in honor of his mother, Anna Marie Shapiro",
+            "Object number": "435.1999.4",
+            "Copyright": "\u00a9 2023 Julian Opie",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/8126"
     },
@@ -306,14 +306,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjk3NjE5Il0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNTEyeDUxMlx1MDAzZSJdXQ.jpg?sha=955034c2ce14fb3a",
         "Details": {
             "Medium": "One from a series of six screenprints",
-            "Dimensions": "composition  22 7/8 x 20 7/8\" (58.1 x 53 cm)",
-            "sheet  24 x 20 7/8\" (61 x 53 cm)": "Publisher",
-            "Alan Cristea Gallery, London": "Printer",
-            "Advanced Graphics, London": "Edition",
-            "40": "Credit",
-            "Acquired through the generosity of Andrew Shapiro, in honor of his mother, Anna Marie Shapiro": "Object number",
-            "435.1999.5": "Copyright",
-            "\u00a9 2023 Julian Opie": "Department"
+            "Dimensions": "composition  22 7/8 x 20 7/8\" (58.1 x 53 cm)\r\nsheet  24 x 20 7/8\" (61 x 53 cm)",
+            "Publisher": "Alan Cristea Gallery, London",
+            "Printer": "Advanced Graphics, London",
+            "Edition": "40",
+            "Credit": "Acquired through the generosity of Andrew Shapiro, in honor of his mother, Anna Marie Shapiro",
+            "Object number": "435.1999.5",
+            "Copyright": "\u00a9 2023 Julian Opie",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/8126"
     },
@@ -326,8 +326,7 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjk3NjIxIl0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNTEyeDUxMlx1MDAzZSJdXQ.jpg?sha=55ac8d73a2e32927",
         "Details": {
             "Medium": "One from a series of six screenprints",
-            "Dimensions": "Composition: 24 x 33 7/8\" (61 x 86 cm)",
-            "Sheet: 24 x 33 7/8\" (61 x 86 cm)": "Sheet: 33 7/8\" (86 cm)",
+            "Dimensions": "Composition: 24 x 33 7/8\" (61 x 86 cm)\r\nSheet: 24 x 33 7/8\" (61 x 86 cm)\r\nSheet: 33 7/8\" (86 cm)",
             "Publisher": "Alan Cristea Gallery, London",
             "Printer": "Advanced Graphics, London",
             "Edition": "40",
@@ -511,11 +510,11 @@
         "Details": {
             "Manufacturer": "Think Outside, Inc., Carlsbad, CA",
             "Medium": "Injection-molded ABS and stamped and formed aluminum",
-            "Dimensions": "folded: 5 1/8 x 3 5/8\" (13 x 9.2 cm)",
-            "unfolded: 13 7/8 x 5 1/8\" (35.2 x 13 cm)": "Credit",
-            "Gift of the designer": "Object number",
-            "1428.2000": "Copyright",
-            "\u00a9 2023 Pentagram, Bob Olodort, John Tang, Peter Cazalet, Robert Brunner, and Benjamin Chia": "Department"
+            "Dimensions": "folded: 5 1/8 x 3 5/8\" (13 x 9.2 cm)\r\nunfolded: 13 7/8 x 5 1/8\" (35.2 x 13 cm)",
+            "Credit": "Gift of the designer",
+            "Object number": "1428.2000",
+            "Copyright": "\u00a9 2023 Pentagram, Bob Olodort, John Tang, Peter Cazalet, Robert Brunner, and Benjamin Chia",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/8434"
     },

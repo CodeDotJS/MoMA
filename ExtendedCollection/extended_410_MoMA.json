@@ -707,14 +707,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5NTc4NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5172209a71e6a424",
         "Details": {
             "Medium": "Photolithograph",
-            "Dimensions": "Composition: 7 1/4 x 11 7/16\" (18.4 x 29 cm)",
-            "Sheet: 14 15/16 x 19 11/16\" (38 x 50 cm)": "Publisher",
-            "Ediciones Pol\u00edgrafa, S.A., Barcelona": "Printer",
-            "La Pol\u00edgrafa S.A., Barcelona": "Edition",
-            "50": "Credit",
-            "Purchase": "Object number",
-            "247.1989": "Copyright",
-            "\u00a9 2023 Joan Brossa / Artists Rights Society (ARS), New York / VEGAP, Spain": "Department"
+            "Dimensions": "Composition: 7 1/4 x 11 7/16\" (18.4 x 29 cm)\r\nSheet: 14 15/16 x 19 11/16\" (38 x 50 cm)",
+            "Publisher": "Ediciones Pol\u00edgrafa, S.A., Barcelona",
+            "Printer": "La Pol\u00edgrafa S.A., Barcelona",
+            "Edition": "50",
+            "Credit": "Purchase",
+            "Object number": "247.1989",
+            "Copyright": "\u00a9 2023 Joan Brossa / Artists Rights Society (ARS), New York / VEGAP, Spain",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/802"
     },

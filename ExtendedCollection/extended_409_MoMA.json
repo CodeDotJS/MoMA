@@ -205,10 +205,10 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4MjA2NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=802b2b5b4e501816",
         "Details": {
             "Medium": "ABS plastic and other materials",
-            "Dimensions": "open: 10 3/4 x 15 1/4 x 14\" (27.3 x 38.7 x 35.6 cm)",
-            "closed: 4 x 15 1/4 x 14 1/4\" (10.2 x 38.7 x 36.2 cm)": "Credit",
-            "Gift of the Peter Norton Family Foundation": "Object number",
-            "965.2010": "Department"
+            "Dimensions": "open: 10 3/4 x 15 1/4 x 14\" (27.3 x 38.7 x 35.6 cm)\r\nclosed: 4 x 15 1/4 x 14 1/4\" (10.2 x 38.7 x 36.2 cm)",
+            "Credit": "Gift of the Peter Norton Family Foundation",
+            "Object number": "965.2010",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/10295"
     },
@@ -288,12 +288,13 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMTM3MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=12961a87f2236d91",
         "Details": {
             "Medium": "Photolithograph, with photolithograph die-cut collage and watercolor additions on six sheets",
-            "Dimensions": "Composition (each approx.): 6 1/4 x 6\" (15.8 x 15.3 cm)",
-            "Sheet (each approx.): 5 7/8 x 6\" (15 x 15.3 cm)": "Publisher",
-            "Rutgers Center for Innovative Printmaking, New Brunswick, New Jersey": "Edition",
-            "17": "Credit",
-            "Elinor and Edmund Grasheim Annual Fund": "Object number",
-            "238.1989.a-f": "Department"
+            "Dimensions": "Composition (each approx.): 6 1/4 x 6\" (15.8 x 15.3 cm)\r\nSheet (each approx.): 5 7/8 x 6\" (15 x 15.3 cm)",
+            "Publisher": "Rutgers Center for Innovative Printmaking, New Brunswick, New Jersey",
+            "Printer": "Rutgers Center for Innovative Printmaking, New Brunswick, New Jersey",
+            "Edition": "17",
+            "Credit": "Elinor and Edmund Grasheim Annual Fund",
+            "Object number": "238.1989.a-f",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/236"
     },

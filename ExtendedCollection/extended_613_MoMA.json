@@ -333,13 +333,14 @@
         "Details": {
             "Author": "William T. Wiley",
             "Medium": "Illustrated book with eleven etchings and four aquatints",
-            "Dimensions": "page  16 5/16 x 12 9/16\" (41 x 32 cm)",
-            "Prints: various dimensions.": "Publisher",
-            "Landfall Press, Inc., Chicago": "Edition",
-            "50": "Credit",
-            "Henry Church Fund": "Object number",
-            "468.1977.1-14": "Copyright",
-            "\u00a9 2023 William T. Wiley": "Department"
+            "Dimensions": "page  16 5/16 x 12 9/16\" (41 x 32 cm)\r\nPrints: various dimensions.",
+            "Publisher": "Landfall Press, Inc., Chicago",
+            "Printer": "Landfall Press, Inc., Chicago",
+            "Edition": "50",
+            "Credit": "Henry Church Fund",
+            "Object number": "468.1977.1-14",
+            "Copyright": "\u00a9 2023 William T. Wiley",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/6370"
     },
@@ -426,14 +427,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1MTg4OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8522c632baca1206",
         "Details": {
             "Medium": "Etching",
-            "Dimensions": "plate  19 15/16 x 15 3/4\" (50.6 x 40 cm)",
-            "sheet  26 15/16 x 22 1/4\" (68.4 x 56.5 cm)": "Publisher",
-            "Multiples, Inc., New York": "Printer",
-            "Aeropress, New York": "Edition",
-            "15": "Credit",
-            "Gift of Nelson Blitz, Jr. (through The Associates of the Department of Prints and Illustrated Books)": "Object number",
-            "452.1978": "Copyright",
-            "\u00a9 2023 Robert Wilson": "Department"
+            "Dimensions": "plate  19 15/16 x 15 3/4\" (50.6 x 40 cm)\r\nsheet  26 15/16 x 22 1/4\" (68.4 x 56.5 cm)",
+            "Publisher": "Multiples, Inc., New York",
+            "Printer": "Aeropress, New York",
+            "Edition": "15",
+            "Credit": "Gift of Nelson Blitz, Jr. (through The Associates of the Department of Prints and Illustrated Books)",
+            "Object number": "452.1978",
+            "Copyright": "\u00a9 2023 Robert Wilson",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/6390"
     },
@@ -801,12 +802,11 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzOTU5NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5b61f1d47c67708a",
         "Details": {
             "Medium": "Gelatin silver prints",
-            "Dimensions": "overall 59 3/8 \u00d7 71 1/2\" (150.8 \u00d7 181.7 cm)",
-            "a: 19 7/8 \u00d7 23 13/16\" (50.5 \u00d7 60.5 cm)": "b: 19 3/4 \u00d7 23 13/16\" (50.2 \u00d7 60.5 cm)",
-            "c: 19 3/4 \u00d7 23 7/8\" (50.1 \u00d7 60.7 cm)": "Credit",
-            "Gift of Norman Dubrow": "Object number",
-            "533.1998.a-c": "Copyright",
-            "\u00a9 2023 Mac Adams": "Department"
+            "Dimensions": "overall 59 3/8 \u00d7 71 1/2\" (150.8 \u00d7 181.7 cm)\r\na: 19 7/8 \u00d7 23 13/16\" (50.5 \u00d7 60.5 cm) \r\nb: 19 3/4 \u00d7 23 13/16\" (50.2 \u00d7 60.5 cm) \r\nc: 19 3/4 \u00d7 23 7/8\" (50.1 \u00d7 60.7 cm)",
+            "Credit": "Gift of Norman Dubrow",
+            "Object number": "533.1998.a-c",
+            "Copyright": "\u00a9 2023 Mac Adams",
+            "Department": "Photography"
         },
         "Profile": "https://www.moma.org/artists/8252"
     },

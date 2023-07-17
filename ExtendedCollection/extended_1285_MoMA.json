@@ -764,12 +764,12 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MjcyNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7da6841b8696aad1",
         "Details": {
             "Medium": "Etching",
-            "Dimensions": "plate  11 3/4 x 10\" (29.9 x 25.5 cm)",
-            "sl. irreg sheet  14 1/2 x 11 3/4\" (36 x 29.8 cm)": "Printer",
-            "Philip Evergood": "Edition",
-            "Unique": "Credit",
-            "Abby Aldrich Rockefeller Fund (by exchange)": "Object number",
-            "172.1986": "Department"
+            "Dimensions": "plate  11 3/4 x 10\" (29.9 x 25.5 cm)\r\nsl. irreg sheet  14 1/2 x 11 3/4\" (36 x 29.8 cm)",
+            "Printer": "Philip Evergood",
+            "Edition": "Unique",
+            "Credit": "Abby Aldrich Rockefeller Fund (by exchange)",
+            "Object number": "172.1986",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/1780"
     },

@@ -125,14 +125,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3NjI4MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8009233463270ac1",
         "Details": {
             "Medium": "Screenprint",
-            "Dimensions": "(irreg.) composition  19 5/16 x 24 9/16\" (49.1 x 62.4 cm)",
-            "sheet  23 1/8 x 31 7/16\" (58 x 79.9 cm)": "Publisher",
-            "Castelli Graphics and Multiples, Inc., New York": "Printer",
-            "Styria Studio, Inc., New York": "Edition",
-            "80": "Credit",
-            "Gift of Harry Kahn": "Object number",
-            "123.1991": "Copyright",
-            "\u00a9 2023 James Rosenquist/Licensed by VAGA, New York, NY": "Department"
+            "Dimensions": "(irreg.) composition  19 5/16 x 24 9/16\" (49.1 x 62.4 cm)\r\nsheet  23 1/8 x 31 7/16\" (58 x 79.9 cm)",
+            "Publisher": "Castelli Graphics and Multiples, Inc., New York",
+            "Printer": "Styria Studio, Inc., New York",
+            "Edition": "80",
+            "Credit": "Gift of Harry Kahn",
+            "Object number": "123.1991",
+            "Copyright": "\u00a9 2023 James Rosenquist/Licensed by VAGA, New York, NY",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/5021"
     },
@@ -145,12 +145,13 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5Mzk5MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=474e2bf9deffceb8",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "irreg composition  37 1/16 x 78 5/16\" (94.1 x 199 cm)",
-            "approx sheet  42 15/16 x 79 3/16\" (109 x 201.2 cm)": "Publisher",
-            "Universal Limited Art Editions, West Islip, New York": "Edition",
-            "43": "Credit",
-            "Gift of Celeste Bartos": "Object number",
-            "383.1974": "Department"
+            "Dimensions": "irreg composition  37 1/16 x 78 5/16\" (94.1 x 199 cm)\r\napprox sheet  42 15/16 x 79 3/16\" (109 x 201.2 cm)",
+            "Publisher": "Universal Limited Art Editions, West Islip, New York",
+            "Printer": "Universal Limited Art Editions, West Islip, New York",
+            "Edition": "43",
+            "Credit": "Gift of Celeste Bartos",
+            "Object number": "383.1974",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/5021"
     },
@@ -163,14 +164,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwODk1OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=16b33bb9d5ac6388",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "composition  35 11/16 x 27 3/8\" (90.6 x 69.5 cm)",
-            "sheet  41 11/16 x 29 3/8\" (105.9 x 74.6 cm)": "Publisher",
-            "Petersburg Press, London and New York": "Printer",
-            "Petersburg Press, London": "Edition",
-            "75; plus 20 A.P., 5 T.P., 1 B.A.T., 5 Workshop, and an unknown number of color T.P": "Credit",
-            "Gift of Peterburg Press, Inc. in memory of Myron Orlofsky": "Object number",
-            "450.1978": "Copyright",
-            "\u00a9 2023 James Rosenquist/Licensed by VAGA, New York, NY": "Department"
+            "Dimensions": "composition  35 11/16 x 27 3/8\" (90.6 x 69.5 cm)\r\nsheet  41 11/16 x 29 3/8\" (105.9 x 74.6 cm)",
+            "Publisher": "Petersburg Press, London and New York",
+            "Printer": "Petersburg Press, London",
+            "Edition": "75; plus 20 A.P., 5 T.P., 1 B.A.T., 5 Workshop, and an unknown number of color T.P",
+            "Credit": "Gift of Peterburg Press, Inc. in memory of Myron Orlofsky",
+            "Object number": "450.1978",
+            "Copyright": "\u00a9 2023 James Rosenquist/Licensed by VAGA, New York, NY",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/5021"
     },

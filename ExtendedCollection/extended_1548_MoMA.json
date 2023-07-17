@@ -377,14 +377,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMzAzNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=bdaf3ee9eaac3e45",
         "Details": {
             "Medium": "Woodcut",
-            "Dimensions": "composition  13 3/16 x 10 1/8\" (33.5 x 25.8 cm)",
-            "sheet  22 1/16 x 17 15/16\" (56 x 45.5 cm)": "Publisher",
-            "Galerie Simon, Paris": "Printer",
-            "Paul Birault": "Edition",
-            "60": "Credit",
-            "Howard B. Johnson Fund in memory of Evelyn T. Bates": "Object number",
-            "141.1997": "Copyright",
-            "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris": "Department"
+            "Dimensions": "composition  13 3/16 x 10 1/8\" (33.5 x 25.8 cm)\r\nsheet  22 1/16 x 17 15/16\" (56 x 45.5 cm)",
+            "Publisher": "Galerie Simon, Paris",
+            "Printer": "Paul Birault",
+            "Edition": "60",
+            "Credit": "Howard B. Johnson Fund in memory of Evelyn T. Bates",
+            "Object number": "141.1997",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/6177"
     },

@@ -743,12 +743,13 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNTE4NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d7fa01574fed22ef",
         "Details": {
             "Medium": "Mezzotint",
-            "Dimensions": "plate  14 3/8 x 14 1/4\" (36.6 x 36.2 cm)",
-            "sheet  18 1/8 x 18 1/4\" (46 x 46.3 cm)": "Publisher",
-            "Katsunori Hamanishi": "Edition",
-            "50": "Credit",
-            "Purchase": "Object number",
-            "312.1986": "Department"
+            "Dimensions": "plate  14 3/8 x 14 1/4\" (36.6 x 36.2 cm)\r\nsheet  18 1/8 x 18 1/4\" (46 x 46.3 cm)",
+            "Publisher": "Katsunori Hamanishi",
+            "Printer": "Katsunori Hamanishi",
+            "Edition": "50",
+            "Credit": "Purchase",
+            "Object number": "312.1986",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/2473"
     },

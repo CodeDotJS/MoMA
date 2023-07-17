@@ -61,11 +61,11 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNDA0NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7c69dd6f8ad3f0bc",
         "Details": {
             "Medium": "Monotype",
-            "Dimensions": "Composition (irreg.): 11 3/4 x 12 7/8\" (29.9 x 32.7 cm)",
-            "Sheet: 20 1/8 x 25 3/4\" (51.1 x 65.4 cm)": "Credit",
-            "Gift of Frederic and Suzanne Weinstein": "Object number",
-            "1053.1979": "Copyright",
-            "\u00a9 2023 Julius Bissier / Artists Rights Society (ARS), New York / VG Bild-Kunst, Germany": "Department"
+            "Dimensions": "Composition (irreg.): 11 3/4 x 12 7/8\" (29.9 x 32.7 cm)\r\nSheet: 20 1/8 x 25 3/4\" (51.1 x 65.4 cm)",
+            "Credit": "Gift of Frederic and Suzanne Weinstein",
+            "Object number": "1053.1979",
+            "Copyright": "\u00a9 2023 Julius Bissier / Artists Rights Society (ARS), New York / VG Bild-Kunst, Germany",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/573"
     },
@@ -558,10 +558,10 @@
         "Details": {
             "Manufacturer": "Azucena S.r.L., Milan",
             "Medium": "Anodized aluminum",
-            "Dimensions": ".1: 3 1/4 x 10\" (8.3 x 25.4 cm)",
-            ".2: 2 1/4 x 7 1/2\" (5.7 x 19 cm)": "Credit",
-            "Phyllis B. Lambert Fund": "Object number",
-            "260.1958.1-2": "Department"
+            "Dimensions": ".1: 3 1/4 x 10\" (8.3 x 25.4 cm)\r\n.2: 2 1/4 x 7 1/2\" (5.7 x 19 cm)",
+            "Credit": "Phyllis B. Lambert Fund",
+            "Object number": "260.1958.1-2",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/906"
     },

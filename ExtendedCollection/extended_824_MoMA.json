@@ -29,15 +29,15 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3OTg2NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=673de25cbf54d41f",
         "Details": {
             "Medium": "Etching and aquatint from a portfolio of eleven etching and aquatints, one with engraving",
-            "Dimensions": "plate  7 9/16 x 8 15/16\" (19.2 x 22.7 cm)",
-            "sheet  14 15/16 x 21 7/8\" (38 x 55.5 cm)": "Publisher",
-            "Galerie La Hune, Paris": "Printer",
-            "Jean Clert\u00e9, Bougival, France": "Edition",
-            "30": "Credit",
-            "Gift of the artist": "Object number",
-            "528.1978.3": "Copyright",
-            "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris": "Portfolio",
-            "Hayterophilies": "Department"
+            "Dimensions": "plate  7 9/16 x 8 15/16\" (19.2 x 22.7 cm)\r\nsheet  14 15/16 x 21 7/8\" (38 x 55.5 cm)",
+            "Publisher": "Galerie La Hune, Paris",
+            "Printer": "Jean Clert\u00e9, Bougival, France",
+            "Edition": "30",
+            "Credit": "Gift of the artist",
+            "Object number": "528.1978.3",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Portfolio": "Hayterophilies",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/107"
     },
@@ -210,14 +210,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMzcwNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a035047402a6a1c8",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "irreg composition  21 5/8 x 29 15/16\" (55 x 76 cm)",
-            "sheet  22 1/4 x 30 1/8\" (56 x 76.5 cm)": "Publisher",
-            "\u00c9dition Prent 190, Amsterdam": "Printer",
-            "Imprimerie Clot, Bramsen et Georges, Paris": "Edition",
-            "190; plus X A.P": "Credit",
-            "Gift of the artist": "Object number",
-            "561.1978": "Copyright",
-            "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris": "Department"
+            "Dimensions": "irreg composition  21 5/8 x 29 15/16\" (55 x 76 cm)\r\nsheet  22 1/4 x 30 1/8\" (56 x 76.5 cm)",
+            "Publisher": "\u00c9dition Prent 190, Amsterdam",
+            "Printer": "Imprimerie Clot, Bramsen et Georges, Paris",
+            "Edition": "190; plus X A.P",
+            "Credit": "Gift of the artist",
+            "Object number": "561.1978",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/107"
     },
@@ -230,14 +230,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMzcwOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=846d03c7c905afc9",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "irreg composition  21 5/8 x 30\" (55 x 76.2 cm)",
-            "sheet  22 1/4 x 30\" (56 x 76.2 cm)": "Publisher",
-            "\u00c9dition Prent 190, Amsterdam": "Printer",
-            "Imprimerie Clot, Bramsen et Georges, Paris": "Edition",
-            "190; plus X A.P": "Credit",
-            "Gift of the artist": "Object number",
-            "562.1978": "Copyright",
-            "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris": "Department"
+            "Dimensions": "irreg composition  21 5/8 x 30\" (55 x 76.2 cm)\r\nsheet  22 1/4 x 30\" (56 x 76.2 cm)",
+            "Publisher": "\u00c9dition Prent 190, Amsterdam",
+            "Printer": "Imprimerie Clot, Bramsen et Georges, Paris",
+            "Edition": "190; plus X A.P",
+            "Credit": "Gift of the artist",
+            "Object number": "562.1978",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/107"
     },
@@ -744,8 +744,7 @@
         "Details": {
             "Manufacturer": "Fontana Arte, Italy",
             "Medium": "Glass",
-            "Dimensions": ".1: 11 1/2 x 9 1/16\" (29.2 x 23 cm)",
-            ".2: 14 x 11\" (35.6 x 28 cm)": ".3: 16 x 13 3/8\" (40.6 x 34 cm)",
+            "Dimensions": ".1: 11 1/2 x 9 1/16\" (29.2 x 23 cm)\r\n.2: 14 x 11\" (35.6 x 28 cm)\r\n.3: 16 x 13 3/8\" (40.6 x 34 cm)",
             "Credit": "Gift of the manufacturer",
             "Object number": "832.2005.1-3",
             "Copyright": "\u00a9 2023 Sergio Asti",

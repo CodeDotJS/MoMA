@@ -609,13 +609,13 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNDI1OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=eeb56cee61eccacd",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "irreg composition  16 5/8 x 21 5/8\" (42.2 x 54.9 cm)",
-            "sheet  20 1/8 x 25 15/16\" (51 x 65.9 cm)": "Printer",
-            "Pierre Bramsen": "Edition",
-            "60": "Credit",
-            "Gift of the artist": "Object number",
-            "535.1978": "Copyright",
-            "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris": "Department"
+            "Dimensions": "irreg composition  16 5/8 x 21 5/8\" (42.2 x 54.9 cm)\r\nsheet  20 1/8 x 25 15/16\" (51 x 65.9 cm)",
+            "Printer": "Pierre Bramsen",
+            "Edition": "60",
+            "Credit": "Gift of the artist",
+            "Object number": "535.1978",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/107"
     },
@@ -664,14 +664,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjY3MDY0Il0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNTEyeDUxMlx1MDAzZSJdXQ.jpg?sha=bba60cace55d9089",
         "Details": {
             "Medium": "Photolithograph",
-            "Dimensions": "irreg composition  24 15/16 x 30\" (63.4 x 76.3 cm)",
-            "sheet  25 3/8 x 30\" (64 x 76.3 cm)": "Publisher",
-            "Pierre Alechinsky": "Printer",
-            "Permild & Rosengreen, Copenhagen": "Edition",
-            "90": "Credit",
-            "Gift of the artist": "Object number",
-            "538.1978": "Copyright",
-            "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris": "Department"
+            "Dimensions": "irreg composition  24 15/16 x 30\" (63.4 x 76.3 cm)\r\nsheet  25 3/8 x 30\" (64 x 76.3 cm)",
+            "Publisher": "Pierre Alechinsky",
+            "Printer": "Permild & Rosengreen, Copenhagen",
+            "Edition": "90",
+            "Credit": "Gift of the artist",
+            "Object number": "538.1978",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/107"
     },
@@ -685,14 +685,14 @@
         "Details": {
             "Collaborating artist": "Walasse Ting",
             "Medium": "Lithograph",
-            "Dimensions": "irreg. composition  14 9/16 x 21 7/16\" (37 x 54.5 cm)",
-            "sheet  15 1/16 x 22 7/16\" (38 x 57 cm)": "Publisher",
-            "Galerie de France, Paris": "Printer",
-            "Imprimerie Beaudet, Paris": "Edition",
-            "100": "Credit",
-            "Gift of the artist": "Object number",
-            "539.1978": "Copyright",
-            "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris": "Department"
+            "Dimensions": "irreg. composition  14 9/16 x 21 7/16\" (37 x 54.5 cm)\r\nsheet  15 1/16 x 22 7/16\" (38 x 57 cm)",
+            "Publisher": "Galerie de France, Paris",
+            "Printer": "Imprimerie Beaudet, Paris",
+            "Edition": "100",
+            "Credit": "Gift of the artist",
+            "Object number": "539.1978",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/107"
     },

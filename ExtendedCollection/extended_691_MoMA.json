@@ -802,12 +802,12 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMzcxNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=aea5500243591271",
         "Details": {
             "Medium": "Etching and drypoint",
-            "Dimensions": "plate  17 3/16 x 19 15/16\" (43.6 x 50.6 cm)",
-            "sheet  22 1/2 x 24\" (57 x 61 cm)": "Printer",
-            "Karlen, Bern": "Edition",
-            "25": "Credit",
-            "Gift of William Kelly Simpson": "Object number",
-            "676.1993": "Department"
+            "Dimensions": "plate  17 3/16 x 19 15/16\" (43.6 x 50.6 cm)\r\nsheet  22 1/2 x 24\" (57 x 61 cm)",
+            "Printer": "Karlen, Bern",
+            "Edition": "25",
+            "Credit": "Gift of William Kelly Simpson",
+            "Object number": "676.1993",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/6976"
     },

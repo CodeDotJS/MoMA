@@ -607,14 +607,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMjIzMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=80395956536497e1",
         "Details": {
             "Medium": "Screenprint",
-            "Dimensions": "composition  26 7/16 x 34 3/8\" (67.2 x 87.3 cm)",
-            "sheet  28 11/16 x 40 1/4\" (72 x 102.2 cm)": "Publisher",
-            "Dorothea Leonhart, Munich": "Printer",
-            "Dietz Offizin, Lengmoos, Bavaria": "Edition",
-            "5,000": "Credit",
-            "John R. Jakobson Foundation Fund": "Object number",
-            "608.1970": "Copyright",
-            "\u00a9 2023 Artists Rights Society (ARS), New York / DACS, London": "Department"
+            "Dimensions": "composition  26 7/16 x 34 3/8\" (67.2 x 87.3 cm)\r\nsheet  28 11/16 x 40 1/4\" (72 x 102.2 cm)",
+            "Publisher": "Dorothea Leonhart, Munich",
+            "Printer": "Dietz Offizin, Lengmoos, Bavaria",
+            "Edition": "5,000",
+            "Credit": "John R. Jakobson Foundation Fund",
+            "Object number": "608.1970",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / DACS, London",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/2481"
     },

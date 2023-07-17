@@ -221,12 +221,13 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM1Nzk5MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1954d692134cadbb",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "composition  32 5/16 x 23 1/4\" (82.1 x 59.1 cm)",
-            "sheet  32 5/16 x 23 1/4\" (82 x 59.1 cm)": "Publisher",
-            "Universal Limited Art Editions, West Islip, New York": "Credit",
-            "Gift of Emily Fisher Landau": "Object number",
-            "615.1987": "Copyright",
-            "\u00a9 2023 Terry Winters": "Department"
+            "Dimensions": "composition  32 5/16 x 23 1/4\" (82.1 x 59.1 cm)\r\nsheet  32 5/16 x 23 1/4\" (82 x 59.1 cm)",
+            "Publisher": "Universal Limited Art Editions, West Islip, New York",
+            "Printer": "Universal Limited Art Editions, West Islip, New York",
+            "Credit": "Gift of Emily Fisher Landau",
+            "Object number": "615.1987",
+            "Copyright": "\u00a9 2023 Terry Winters",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/6408"
     },

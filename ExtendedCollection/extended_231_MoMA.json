@@ -755,12 +755,13 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMzQzNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=aef244afbba6d4d0",
         "Details": {
             "Medium": "Digital print",
-            "Dimensions": "Composition: 13 15/16 x 23 11/16\" (35.4 x 60.2 cm)",
-            "Sheet: 18 5/8 x 27 15/16\" (47.3 x 71 cm)": "Publisher",
-            "Universal Limited Art Editions, West Islip, New York": "Credit",
-            "Gift of Emily Fisher Landau": "Object number",
-            "349.2002": "Copyright",
-            "\u00a9 2023 Suzanne McClelland": "Department"
+            "Dimensions": "Composition: 13 15/16 x 23 11/16\" (35.4 x 60.2 cm)\r\nSheet: 18 5/8 x 27 15/16\" (47.3 x 71 cm)",
+            "Publisher": "Universal Limited Art Editions, West Islip, New York",
+            "Printer": "Universal Limited Art Editions, West Islip, New York",
+            "Credit": "Gift of Emily Fisher Landau",
+            "Object number": "349.2002",
+            "Copyright": "\u00a9 2023 Suzanne McClelland",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/7006"
     },

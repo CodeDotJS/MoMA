@@ -283,8 +283,7 @@
         "Details": {
             "Manufacturer": "Akari Associates, Long Island City, New York",
             "Medium": "Silk shade and bamboo stand",
-            "Dimensions": "Overall: 70 x 16 x 16\" (177.8 x 40.6 x 40.6 cm)",
-            ".a (shade): 42 1/4 x 16 x 16\" (107.4 x 40.6 x 40.6 cm)": ".b (base): h. 70\" (177.8 cm), diam. 5 1/2\" (14 cm)",
+            "Dimensions": "Overall: 70 x 16 x 16\" (177.8 x 40.6 x 40.6 cm)\r\n.a (shade): 42 1/4 x 16 x 16\" (107.4 x 40.6 x 40.6 cm) \r\n.b (base): h. 70\" (177.8 cm), diam. 5 1/2\" (14 cm)",
             "Credit": "Gift of the designer",
             "Object number": "220.1978",
             "Copyright": "\u00a9 2023 Estate of Isamu Noguchi / Artists Rights Society (ARS), New York",
@@ -318,13 +317,13 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3NjQwNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8bdcbc756fefd6c6",
         "Details": {
             "Medium": "Etching",
-            "Dimensions": "plate  9 15/16 x 11 7/8\" (25.3 x 30.2 cm)",
-            "irreg sheet  20 7/16 x 20 15/16\" (51.9 x 53.2 cm)": "Printer",
-            "Teaberry Press": "Edition",
-            "50": "Credit",
-            "Acquired with matching funds from Neil Janovic and the National Endowment for the Arts": "Object number",
-            "35.1979": "Copyright",
-            "\u00a9 2023 Jim Nutt": "Department"
+            "Dimensions": "plate  9 15/16 x 11 7/8\" (25.3 x 30.2 cm)\r\nirreg sheet  20 7/16 x 20 15/16\" (51.9 x 53.2 cm)",
+            "Printer": "Teaberry Press",
+            "Edition": "50",
+            "Credit": "Acquired with matching funds from Neil Janovic and the National Endowment for the Arts",
+            "Object number": "35.1979",
+            "Copyright": "\u00a9 2023 Jim Nutt",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/4348"
     },
@@ -337,12 +336,12 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MDE0OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=efaa331fed235fd7",
         "Details": {
             "Medium": "Etching, printed in color",
-            "Dimensions": "plate  3 15/16 x 4 5/16\" (10 x 11 cm)",
-            "irreg sheet  14 1/2 x 13 1/16\" (36.8 x 33.2 cm)": "Printer",
-            "Teaberry Press": "Credit",
-            "John B. Turner Fund": "Object number",
-            "36.1979": "Copyright",
-            "\u00a9 2023 Jim Nutt": "Department"
+            "Dimensions": "plate  3 15/16 x 4 5/16\" (10 x 11 cm)\r\nirreg sheet  14 1/2 x 13 1/16\" (36.8 x 33.2 cm)",
+            "Printer": "Teaberry Press",
+            "Credit": "John B. Turner Fund",
+            "Object number": "36.1979",
+            "Copyright": "\u00a9 2023 Jim Nutt",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/4348"
     },

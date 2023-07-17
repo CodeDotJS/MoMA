@@ -502,8 +502,7 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMzk2MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d79365204bfb3eef",
         "Details": {
             "Medium": "Three etchings with aquatint and drypoint",
-            "Dimensions": "Sheet (left): 39 3/4 \u00d7 30\" (101 \u00d7 76.2 cm)",
-            "Sheet (center): 39 3/4 \u00d7 49\" (101 \u00d7 124.5 cm)": "Sheet (right): 39 3/4 \u00d7 30\" (101 \u00d7 76.2 cm)",
+            "Dimensions": "Sheet (left): 39 3/4 \u00d7 30\" (101 \u00d7 76.2 cm)\r\nSheet (center): 39 3/4 \u00d7 49\" (101 \u00d7 124.5 cm)\r\nSheet (right): 39 3/4 \u00d7 30\" (101 \u00d7 76.2 cm)",
             "Publisher": "Sikkema Jenkins & Co.",
             "Printer": "Burnet Editions, New York",
             "Edition": "25",
@@ -840,11 +839,11 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ4MzA5NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=168d183f52053b82",
         "Details": {
             "Medium": "Video (color, sound; 10:59 min.), steel, Plexiglas, aluminum, paper, motor, computer, speakers, and Formica",
-            "Duration": "Overall: 196 \u00d7 87 \u00d7 80\" (497.8 \u00d7 221 \u00d7 203.2 cm)",
-            "Duration: 10:59 min.": "Credit",
-            "Fund for the Twenty-First Century": "Object number",
-            "1350.2016.a-u": "Copyright",
-            "\u00a9 2023 Ne\u00efl Beloufa. Courtesy of the Artist.": "Department"
+            "Duration": "Overall: 196 \u00d7 87 \u00d7 80\" (497.8 \u00d7 221 \u00d7 203.2 cm)\r\nDuration: 10:59 min.",
+            "Credit": "Fund for the Twenty-First Century",
+            "Object number": "1350.2016.a-u",
+            "Copyright": "\u00a9 2023 Ne\u00efl Beloufa. Courtesy of the Artist.",
+            "Department": "Media and Performance"
         },
         "Profile": "https://www.moma.org/artists/49216"
     }

@@ -217,10 +217,10 @@
         "Details": {
             "Manufacturer": "Ing. C. Olivetti & C. S.p.A., Ivrea, Italy",
             "Medium": "Steel",
-            "Dimensions": ".a (sphere): 1 3/8\" (3.5 cm)",
-            ".b (cylinder): 2 3/4 x 3\" (7 x 7.6 cm)": "Credit",
-            "Gift of the manufacturer": "Object number",
-            "907.1965.a-b": "Department"
+            "Dimensions": ".a (sphere): 1 3/8\" (3.5 cm)\r\n.b (cylinder): 2 3/4 x 3\" (7 x 7.6 cm)",
+            "Credit": "Gift of the manufacturer",
+            "Object number": "907.1965.a-b",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/5502"
     },

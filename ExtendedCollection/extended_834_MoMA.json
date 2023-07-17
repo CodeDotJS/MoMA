@@ -772,11 +772,12 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2Nzg5OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c026fd81dc2fac6c",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "composition  29 x 22 3/8\" (73.7 x 56.8 cm)",
-            "sheet  29 x 22 3/8\" (73.7 x 56.8 cm)": "Publisher",
-            "Collector's Press, San Francisco": "Credit",
-            "Gift of Miss Frances Keech": "Object number",
-            "1361.1968": "Department"
+            "Dimensions": "composition  29 x 22 3/8\" (73.7 x 56.8 cm)\r\nsheet  29 x 22 3/8\" (73.7 x 56.8 cm)",
+            "Publisher": "Collector's Press, San Francisco",
+            "Printer": "Collector's Press, San Francisco",
+            "Credit": "Gift of Miss Frances Keech",
+            "Object number": "1361.1968",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/2801"
     },

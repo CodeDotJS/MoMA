@@ -629,11 +629,10 @@
         "Details": {
             "Manufacturer": "Libbey Glass Company Division, Owens-Illinois Co., Toledo, OH",
             "Medium": "Glass",
-            "Dimensions": ".1: 5 x 3 3/16\" (12.7 x 8.1 cm)",
-            ".2: 4 5/8 x 3\" (11.7 x 7.6 cm)": ".3: 3 3/8 x 3 1/4\" (8.6 x 8.3 cm)",
-            ".4-.5: 3 1/2 x 2 5/8\" (8.9 x 6.7 cm)": "Credit",
-            "Given anonymously": "Object number",
-            "1297.2001.1-5": "Department"
+            "Dimensions": ".1: 5 x 3 3/16\" (12.7 x 8.1 cm)\r\n.2: 4 5/8 x 3\" (11.7 x 7.6 cm)\r\n.3: 3 3/8 x 3 1/4\" (8.6 x 8.3 cm)\r\n.4-.5: 3 1/2 x 2 5/8\" (8.9 x 6.7 cm)",
+            "Credit": "Given anonymously",
+            "Object number": "1297.2001.1-5",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/8645"
     },

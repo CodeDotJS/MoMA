@@ -109,14 +109,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4MDA2MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=bd96c417ce9e014a",
         "Details": {
             "Medium": "Drypoint",
-            "Dimensions": "Plate: 11 x 7\" (27.9 x 17.8 cm)",
-            "Sheet: 19 11/16 x 13\" (50 x 33 cm)": "Publisher",
-            "Galerie Louise Leiris, Paris": "Printer",
-            "Crommelynck & Dutrou, Paris": "Edition",
-            "30": "Credit",
-            "Gift of Frances Beatty": "Object number",
-            "455.1982": "Copyright",
-            "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris": "Department"
+            "Dimensions": "Plate: 11 x 7\" (27.9 x 17.8 cm)\r\nSheet: 19 11/16 x 13\" (50 x 33 cm)",
+            "Publisher": "Galerie Louise Leiris, Paris",
+            "Printer": "Crommelynck & Dutrou, Paris",
+            "Edition": "30",
+            "Credit": "Gift of Frances Beatty",
+            "Object number": "455.1982",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/3821"
     },

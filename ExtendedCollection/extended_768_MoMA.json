@@ -759,11 +759,11 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNzY5MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=52867c2fbbd03829",
         "Details": {
             "Medium": "Intaglio from found elements",
-            "Dimensions": "plate  17 1/2 x 21 3/4\" (44.5 x 55.2 cm)",
-            "sheet  20 1/2 x 29 1/2\" (52.1 x 74.9 cm)": "Edition",
-            "Unknown": "Credit",
-            "John B. Turner Fund": "Object number",
-            "171.1970": "Department"
+            "Dimensions": "plate  17 1/2 x 21 3/4\" (44.5 x 55.2 cm)\r\nsheet  20 1/2 x 29 1/2\" (52.1 x 74.9 cm)",
+            "Edition": "Unknown",
+            "Credit": "John B. Turner Fund",
+            "Object number": "171.1970",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/794"
     },

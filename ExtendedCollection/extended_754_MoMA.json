@@ -260,12 +260,13 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3NjM2NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d963744e964eec06",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "composition  17 7/8 x 23 5/8\" (45.4 x 60 cm)",
-            "sheet  20 1/2 x 28 3/8\" (52.1 x 72.1 cm)": "Publisher",
-            "Universal Limited Art Editions, West Islip, New York": "Credit",
-            "Gift of Celeste Bartos": "Object number",
-            "25.1972": "Copyright",
-            "\u00a9 2023 Estate of Larry Rivers/Licensed by VAGA, New York, NY": "Department"
+            "Dimensions": "composition  17 7/8 x 23 5/8\" (45.4 x 60 cm)\r\nsheet  20 1/2 x 28 3/8\" (52.1 x 72.1 cm)",
+            "Publisher": "Universal Limited Art Editions, West Islip, New York",
+            "Printer": "Universal Limited Art Editions, West Islip, New York",
+            "Credit": "Gift of Celeste Bartos",
+            "Object number": "25.1972",
+            "Copyright": "\u00a9 2023 Estate of Larry Rivers/Licensed by VAGA, New York, NY",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/4945"
     },
@@ -387,13 +388,13 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3NjM5MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b6f6feeafe711139",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "composition  20 1/4 x 30\" (51.4 x 76.3 cm)",
-            "sheet  22 1/2 x 30\" (57.2 x 76.3 cm)": "Printer",
-            "University of South Florida, Graphicstudio, Tampa": "Edition",
-            "70": "Credit",
-            "Gift of Monroe Wheeler": "Object number",
-            "305.1972": "Copyright",
-            "\u00a9 2023 James Rosenquist/Licensed by VAGA, New York, NY": "Department"
+            "Dimensions": "composition  20 1/4 x 30\" (51.4 x 76.3 cm)\r\nsheet  22 1/2 x 30\" (57.2 x 76.3 cm)",
+            "Printer": "University of South Florida, Graphicstudio, Tampa",
+            "Edition": "70",
+            "Credit": "Gift of Monroe Wheeler",
+            "Object number": "305.1972",
+            "Copyright": "\u00a9 2023 James Rosenquist/Licensed by VAGA, New York, NY",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/5021"
     },

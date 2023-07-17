@@ -344,11 +344,11 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1OTg0OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7d66b1187c4642ec",
         "Details": {
             "Medium": "Color transparency in plastic sleeve with grease pen",
-            "Dimensions": ".a (transparency): 10 x 8\" (25.4 x 20.3 cm)",
-            ".b (plastic sleeve): 10 x 8\" (25.4 x 20.3 cm)": "Credit",
-            "Gift of the artist": "Object number",
-            "SC523.2008.a-b": "Copyright",
-            "\u00a9 2023 Carl Fischer": "Department"
+            "Dimensions": ".a (transparency): 10 x 8\" (25.4 x 20.3 cm)\r\n.b (plastic sleeve): 10 x 8\" (25.4 x 20.3 cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "SC523.2008.a-b",
+            "Copyright": "\u00a9 2023 Carl Fischer",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/30604"
     },

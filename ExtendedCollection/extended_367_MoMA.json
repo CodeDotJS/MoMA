@@ -26,14 +26,14 @@
         "Details": {
             "Author": "Joseph Conrad (Teodor J\u00f3sef Konrad Korzeniowski)",
             "Medium": "Illustrated Book with 8 aquatints",
-            "Dimensions": "page 11 15/16 x 9 13/16\" (30 x 25 cm)",
-            "Prints:  various dimensions.": "Publisher",
-            "The Limited Editions Club, New York": "Printer",
-            "Mohammad O. Khalil": "Edition",
-            "300": "Credit",
-            "John B. Turner Fund": "Object number",
-            "38.1993.1-8": "Copyright",
-            "\u00a9 2023 Sean Scully / Artists Rights Society (ARS), New York / IVARO, Ireland": "Department"
+            "Dimensions": "page 11 15/16 x 9 13/16\" (30 x 25 cm)\r\nPrints:  various dimensions.",
+            "Publisher": "The Limited Editions Club, New York",
+            "Printer": "Mohammad O. Khalil",
+            "Edition": "300",
+            "Credit": "John B. Turner Fund",
+            "Object number": "38.1993.1-8",
+            "Copyright": "\u00a9 2023 Sean Scully / Artists Rights Society (ARS), New York / IVARO, Ireland",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/5305"
     },
@@ -263,14 +263,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0OTUxMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3110617aba719370",
         "Details": {
             "Medium": "Lithograph with flocking",
-            "Dimensions": "composition  12 13/16 x 7 9/16\" (32.5 x 19.2 cm)",
-            "sheet  24 1/16 x 15 1/8\" (61 x 38.4 cm)": "Publisher",
-            "Lorna Simpson": "Printer",
-            "21 Steps, Albuquerque": "Edition",
-            "45": "Credit",
-            "Purchase": "Object number",
-            "479.1992": "Copyright",
-            "\u00a9 2023 Lorna Simpson": "Department"
+            "Dimensions": "composition  12 13/16 x 7 9/16\" (32.5 x 19.2 cm)\r\nsheet  24 1/16 x 15 1/8\" (61 x 38.4 cm)",
+            "Publisher": "Lorna Simpson",
+            "Printer": "21 Steps, Albuquerque",
+            "Edition": "45",
+            "Credit": "Purchase",
+            "Object number": "479.1992",
+            "Copyright": "\u00a9 2023 Lorna Simpson",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/6602"
     },
@@ -434,11 +434,11 @@
         "Details": {
             "Manufacturer": "Driade S.p.A., Italy",
             "Medium": "Polished die-cast aluminum and maple plywood with malamine formaldehyde laminate",
-            "Dimensions": "maximum height: 28 3/4 x 16 1/16\" (73 x 40.8 cm)",
-            "minimum height: 20 x 16 1/16\" (50.8 x 40.8 cm)": "Credit",
-            "David Whitney Collection, Gift of David Whitney": "Object number",
-            "33.2000": "Copyright",
-            "\u00a9 2023 Driade S.p.A.": "Department"
+            "Dimensions": "maximum height: 28 3/4 x 16 1/16\" (73 x 40.8 cm)\r\nminimum height: 20 x 16 1/16\" (50.8 x 40.8 cm)",
+            "Credit": "David Whitney Collection, Gift of David Whitney",
+            "Object number": "33.2000",
+            "Copyright": "\u00a9 2023 Driade S.p.A.",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/8418"
     },
@@ -452,11 +452,10 @@
         "Details": {
             "Manufacturer": "Alessi, Crusinallo, Italy",
             "Medium": "ABS (Acrylonitrile Butneliene Styrene) plastic polyamide and 18/10 stainless steel",
-            "Dimensions": "Overall: 5 1/2 x 8 1/4 x 3 3/8\" (14 x  21 x 8.5 cm)",
-            ".b (spoon): 7 1/4 x 1 1/2 x 1 1/2\" (18.4  x 3.8 x 3.8 cm)": ".c (grater): 4 7/8 x 2 3/4 x 1/2\"  (12.4 x 7 x 1.2 cm)",
-            ".d (top): 1 1/4 x 5 1/4 x 3 1/4\"  (3.1 x 13.4 x 8.3 cm)": "Credit",
-            "David Whitney Collection, Gift of David Whitney": "Object number",
-            "61.2000.1": "Department"
+            "Dimensions": "Overall: 5 1/2 x 8 1/4 x 3 3/8\" (14 x  21 x 8.5 cm)\r\n.b (spoon): 7 1/4 x 1 1/2 x 1 1/2\" (18.4  x 3.8 x 3.8 cm)\r\n.c (grater): 4 7/8 x 2 3/4 x 1/2\"  (12.4 x 7 x 1.2 cm)\r\n.d (top): 1 1/4 x 5 1/4 x 3 1/4\"  (3.1 x 13.4 x 8.3 cm)",
+            "Credit": "David Whitney Collection, Gift of David Whitney",
+            "Object number": "61.2000.1",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/8418"
     },

@@ -25,17 +25,7 @@
         "Work": "https://www.moma.org/collection/works/97406",
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExMzY4MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=dc7116411a33274f",
         "Details": {
-            "Medium": "Ink, colored ink, and gouache on twenty pieces of prepared paper",
-            "a. Ink, colored ink, and gouache on prepared paper": "b. Ink and colored ink on prepared paper",
-            "c. Ink, colored ink, and gouache on prepared paper": "d. Ink, colored ink, and gouache on prepared paper",
-            "e. Ink and colored ink on prepared paper": "f. Colored ink on prepared paper",
-            "g. Ink, colored ink, and gouache on prepared paper": "h. Ink, colored ink, and gouache on prepared paper",
-            "I. Colored ink on prepared paper": "j. Colored ink on prepared paper",
-            "k. Ink and colored ink on prepared paper": "l. Ink and colored ink on prepared paper",
-            "m. Colored ink on prepared paper": "n. Colored ink and gouache on prepared paper",
-            "o. Ink, colored ink, and gouache on prepared paper": "p. Colored ink on prepared paper",
-            "q. Ink, colored ink, and gouache on prepared paper": "r. Colored ink and gouache on prepared paper",
-            "s. Colored ink on prepared paper": "t. Ink and colored ink on prepared paper",
+            "Medium": "Ink, colored ink, and gouache on twenty pieces of prepared paper\r\n\r\na. Ink, colored ink, and gouache on prepared paper\r\nb. Ink and colored ink on prepared paper\r\nc. Ink, colored ink, and gouache on prepared paper\r\nd. Ink, colored ink, and gouache on prepared paper\r\ne. Ink and colored ink on prepared paper\r\nf. Colored ink on prepared paper\r\ng. Ink, colored ink, and gouache on prepared paper\r\nh. Ink, colored ink, and gouache on prepared paper\r\nI. Colored ink on prepared paper\r\nj. Colored ink on prepared paper\r\nk. Ink and colored ink on prepared paper\r\nl. Ink and colored ink on prepared paper\r\nm. Colored ink on prepared paper\r\nn. Colored ink and gouache on prepared paper\r\no. Ink, colored ink, and gouache on prepared paper\r\np. Colored ink on prepared paper\r\nq. Ink, colored ink, and gouache on prepared paper\r\nr. Colored ink and gouache on prepared paper\r\ns. Colored ink on prepared paper\r\nt. Ink and colored ink on prepared paper",
             "Dimensions": "Each: 15 x 11\" (38.1 x 27.9 cm)",
             "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
             "Object number": "3105.2005.a-t",
@@ -384,11 +374,11 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExMTk0NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=062508c5ea869643",
         "Details": {
             "Medium": "Inkjet print and 3 DVDs",
-            "Duration": "7' 2 5/8\" \u00d7 18' 4 1/2\" (220 \u00d7 560 cm)",
-            "3 DVDs each 7 min. 28 sec.": "Credit",
-            "Fund for the Twenty-First Century": "Object number",
-            "432.2006.1-2": "Copyright",
-            "\u00a9 2023 Jules Spinatsch": "Department"
+            "Duration": "7' 2 5/8\" \u00d7 18' 4 1/2\" (220 \u00d7 560 cm) \r\n3 DVDs each 7 min. 28 sec.",
+            "Credit": "Fund for the Twenty-First Century",
+            "Object number": "432.2006.1-2",
+            "Copyright": "\u00a9 2023 Jules Spinatsch",
+            "Department": "Photography"
         },
         "Profile": "https://www.moma.org/artists/30610"
     },
@@ -637,13 +627,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MjE3OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=dd32c937d673cb7f",
         "Details": {
             "Medium": "Etching and inkless intaglio",
-            "Dimensions": "plate (.a): 2 5/16 x 4 11/16\" (5.9 x 11.9 cm); sheet (.a): 11 3/16 x 7 7/16\" (28.4 x 18.9 cm)",
-            "plate (.b (each)): 2 3/4 x 1 15/16\" (7 x 4.9 cm); sheet (.b): 11 1/8 x 7 1/2\" (28.2 x 19 cm)": "Publisher",
-            "Jos\u00e9 Antonio Su\u00e1rez Londo\u00f1o": "Edition",
-            "3-5 proofs": "Credit",
-            "Gift of the artist through the Latin American and Caribbean Fund": "Object number",
-            "1603.2009.a-b": "Copyright",
-            "\u00a9 2023 Jos\u00e9 Antonio Su\u00e1rez Londo\u00f1o": "Department"
+            "Dimensions": "plate (.a): 2 5/16 x 4 11/16\" (5.9 x 11.9 cm); sheet (.a): 11 3/16 x 7 7/16\" (28.4 x 18.9 cm)\r\nplate (.b (each)): 2 3/4 x 1 15/16\" (7 x 4.9 cm); sheet (.b): 11 1/8 x 7 1/2\" (28.2 x 19 cm)",
+            "Publisher": "Jos\u00e9 Antonio Su\u00e1rez Londo\u00f1o",
+            "Printer": "Jos\u00e9 Antonio Su\u00e1rez Londo\u00f1o",
+            "Edition": "3-5 proofs",
+            "Credit": "Gift of the artist through the Latin American and Caribbean Fund",
+            "Object number": "1603.2009.a-b",
+            "Copyright": "\u00a9 2023 Jos\u00e9 Antonio Su\u00e1rez Londo\u00f1o",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/26770"
     },

@@ -381,13 +381,13 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMTQwNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5732ca86c79bcc8c",
         "Details": {
             "Medium": "Etching and aquatint",
-            "Dimensions": "plate  19 3/4 x 19 3/4\" (50.2 x 50.2 cm)",
-            "sheet  30 5/16 x 22 3/16\" (77 x 56.4 cm)": "Publisher",
-            "David Hockney": "Printer",
-            "Royal College of Art, London": "Edition",
-            "50": "Credit",
-            "Gift of Joshua Mack": "Object number",
-            "385.1991": "Department"
+            "Dimensions": "plate  19 3/4 x 19 3/4\" (50.2 x 50.2 cm)\r\nsheet  30 5/16 x 22 3/16\" (77 x 56.4 cm)",
+            "Publisher": "David Hockney",
+            "Printer": "Royal College of Art, London",
+            "Edition": "50",
+            "Credit": "Gift of Joshua Mack",
+            "Object number": "385.1991",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/2678"
     },

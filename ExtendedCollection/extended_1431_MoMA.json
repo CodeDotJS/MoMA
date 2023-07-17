@@ -522,12 +522,12 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MTQzOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=10beba4749707027",
         "Details": {
             "Medium": "Letterpress, line block and half-tone relief",
-            "Dimensions": "folded: 7 3/8 x 5 1/2\" (18.7 x 14 cm)",
-            "unfolded: 7 3/8 x 10 1/8\" (18.7 x 25.7 cm)": "Publisher",
-            "Red Proletariat, Moscow": "Editor",
-            "Maxim Gorky": "Credit",
-            "Gift of the Rodchenko family": "Object number",
-            "465.2006": "Department"
+            "Dimensions": "folded: 7 3/8 x 5 1/2\" (18.7 x 14 cm)\r\nunfolded: 7 3/8 x 10 1/8\" (18.7 x 25.7 cm)",
+            "Publisher": "Red Proletariat, Moscow",
+            "Editor": "Maxim Gorky",
+            "Credit": "Gift of the Rodchenko family",
+            "Object number": "465.2006",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/5643"
     },

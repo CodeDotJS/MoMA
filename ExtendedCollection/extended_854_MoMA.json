@@ -512,12 +512,12 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwMjIzNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c9e0a0075cbe088e",
         "Details": {
             "Medium": "Screenprint",
-            "Dimensions": "composition  25 1/2 x 18 3/4\" (64.8 x 47.6 cm)",
-            "sheet  29 1/8 x 19 7/8\" (74 x 50.5 cm)": "Printer",
-            "Impressions Workshop, Inc., Boston": "Edition",
-            "45": "Credit",
-            "John B. Turner Fund": "Object number",
-            "103.1969": "Department"
+            "Dimensions": "composition  25 1/2 x 18 3/4\" (64.8 x 47.6 cm)\r\nsheet  29 1/8 x 19 7/8\" (74 x 50.5 cm)",
+            "Printer": "Impressions Workshop, Inc., Boston",
+            "Edition": "45",
+            "Credit": "John B. Turner Fund",
+            "Object number": "103.1969",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/6436"
     },

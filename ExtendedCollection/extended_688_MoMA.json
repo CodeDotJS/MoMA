@@ -472,11 +472,11 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MTQyMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=31fbf6ace216efc6",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "11 1/4 x 4 3/4\" (28.6 x 12.1 cm)",
-            "opened 11 1/4 x 9 1/2\" (28.6 x 24.1 cm)": "Credit",
-            "Gift of the designer": "Object number",
-            "401.2007": "Copyright",
-            "\u00a9 2023 Rolf Harder": "Department"
+            "Dimensions": "11 1/4 x 4 3/4\" (28.6 x 12.1 cm)\r\nopened 11 1/4 x 9 1/2\" (28.6 x 24.1 cm)",
+            "Credit": "Gift of the designer",
+            "Object number": "401.2007",
+            "Copyright": "\u00a9 2023 Rolf Harder",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/32655"
     },
@@ -654,10 +654,10 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMTM4MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=dca9bb7e21ce7f08",
         "Details": {
             "Medium": "Etching",
-            "Dimensions": "each of 2 plate  7 5/8 x 10 7/16\" (19.4 x 26.5 cm)",
-            "sheet  22 1/4 x 29 15/16\" (56.5 x 76 cm)": "Credit",
-            "Derald and Janet Ruttenberg Foundation Fund": "Object number",
-            "253.1974": "Department"
+            "Dimensions": "each of 2 plate  7 5/8 x 10 7/16\" (19.4 x 26.5 cm)\r\nsheet  22 1/4 x 29 15/16\" (56.5 x 76 cm)",
+            "Credit": "Derald and Janet Ruttenberg Foundation Fund",
+            "Object number": "253.1974",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/2672"
     },
@@ -709,12 +709,13 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMTUxMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=48a2298e1ea10000",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "irreg composition  25 x 19 1/8\" (63.5 x 48.6 cm)",
-            "sheet  30 1/8 x 22 3/8\" (76.5 x 56.8 cm)": "Publisher",
-            "Gemini G.E.L., Los Angeles": "Edition",
-            "60": "Credit",
-            "Gift of Frederick M. Myers": "Object number",
-            "670.1981": "Department"
+            "Dimensions": "irreg composition  25 x 19 1/8\" (63.5 x 48.6 cm)\r\nsheet  30 1/8 x 22 3/8\" (76.5 x 56.8 cm)",
+            "Publisher": "Gemini G.E.L., Los Angeles",
+            "Printer": "Gemini G.E.L., Los Angeles",
+            "Edition": "60",
+            "Credit": "Gift of Frederick M. Myers",
+            "Object number": "670.1981",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/2678"
     },

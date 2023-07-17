@@ -128,10 +128,10 @@
         "Details": {
             "Manufacturer": "Johnson & Johnson Consumer Companies, Inc.",
             "Medium": "Adhesive bandage and cotton",
-            "Dimensions": "unwrapped: 1 x 3\" (2.5 x 7.6 cm)",
-            "wrapped: 3 3/4 x 1 1/2\" (9.5 x 3.8 cm)": "Credit",
-            "Gift of the manufacturer": "Object number",
-            "144.2005": "Department"
+            "Dimensions": "unwrapped: 1 x 3\" (2.5 x 7.6 cm)\r\nwrapped: 3 3/4 x 1 1/2\" (9.5 x 3.8 cm)",
+            "Credit": "Gift of the manufacturer",
+            "Object number": "144.2005",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/26958"
     },

@@ -115,9 +115,7 @@
         "Details": {
             "Manufacturer": "Sasaki, Japan",
             "Medium": "Stainless steel",
-            "Dimensions": ".1 (knife): 9 1/8 x 1/2\" (23.2 x .3 cm)",
-            ".2 (fork): 7 7/8 x 1\" (20 x 2.5 cm)": ".3 (soupspoon): 7 1/2 x 1 1/4\" (19 x 3.2 cm)",
-            ".4 (spoon): 6 1/2 x 1 1/8\" (16.5 x 2.8 cm)": ".5 (salad fork): 6 3/4 x 7/8\" (17.2 x 2.3 cm)",
+            "Dimensions": ".1 (knife): 9 1/8 x 1/2\" (23.2 x .3 cm) \r\n.2 (fork): 7 7/8 x 1\" (20 x 2.5 cm) \r\n.3 (soupspoon): 7 1/2 x 1 1/4\" (19 x 3.2 cm) \r\n.4 (spoon): 6 1/2 x 1 1/8\" (16.5 x 2.8 cm) \r\n.5 (salad fork): 6 3/4 x 7/8\" (17.2 x 2.3 cm)",
             "Credit": "Zaidee Dufallo Fund",
             "Object number": "235.1986.1-5",
             "Department": "Architecture and Design"
@@ -526,13 +524,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNDA4OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d2ad5447a39d2629",
         "Details": {
             "Medium": "Aquatint",
-            "Dimensions": "plate  19 1/16 x 23 1/4\" (48.5 x 59 cm)",
-            "sheet  22 3/8 x 29 15/16\" (56 x 76.1 cm)": "Publisher",
-            "Vinalhaven Workshop and Press, Vinalhaven, Maine": "Edition",
-            "20": "Credit",
-            "John B. Turner Fund": "Object number",
-            "167.1986": "Copyright",
-            "\u00a9 2023 Mel Bochner": "Department"
+            "Dimensions": "plate  19 1/16 x 23 1/4\" (48.5 x 59 cm)\r\nsheet  22 3/8 x 29 15/16\" (56 x 76.1 cm)",
+            "Publisher": "Vinalhaven Workshop and Press, Vinalhaven, Maine",
+            "Printer": "Vinalhaven Workshop and Press, Vinalhaven, Maine",
+            "Edition": "20",
+            "Credit": "John B. Turner Fund",
+            "Object number": "167.1986",
+            "Copyright": "\u00a9 2023 Mel Bochner",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/625"
     },

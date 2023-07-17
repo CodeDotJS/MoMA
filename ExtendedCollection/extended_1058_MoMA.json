@@ -377,10 +377,10 @@
         "Details": {
             "Manufacturer": "Manufactured by Tupper Corporation, Farnumsville, MA",
             "Medium": "Polyethylene",
-            "Dimensions": ".1 (pitcher): 6 1/2 x 6 5/8 x 4 3/4\" (16.5 x 16.8 x 12.1 cm)",
-            ".2 (creamer): 4 1/4 x 4 1/4 x 3 3/16\" (10.8 x 10.8 x 8.1 cm)": "Credit",
-            "Gift of the manufacturer": "Object number",
-            "2300.2001.1-2": "Department"
+            "Dimensions": ".1 (pitcher): 6 1/2 x 6 5/8 x 4 3/4\" (16.5 x 16.8 x 12.1 cm)\r\n.2 (creamer): 4 1/4 x 4 1/4 x 3 3/16\" (10.8 x 10.8 x 8.1 cm)",
+            "Credit": "Gift of the manufacturer",
+            "Object number": "2300.2001.1-2",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/5970"
     },

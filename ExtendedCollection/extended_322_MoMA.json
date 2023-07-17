@@ -185,11 +185,11 @@
         "Details": {
             "Manufacturer": "International Business Machines Corp., Armonk, NY",
             "Medium": "Plastic casing",
-            "Dimensions": "closed: 1 3/4 x 9 11/16 x 7 7/8\" (4.5 x 24.6 x 20 cm)",
-            "opened: 9 1/8 x 11 1/2 x 7 7/8\" (23.2 x 29.2 x 20 cm)": "Credit",
-            "Gift of the manufacturer": "Object number",
-            "112.1996": "Copyright",
-            "\u00a9 2023 Sam Lucente, Richard Sapper, Robert P. Tennant, and IBM Corporation.": "Department"
+            "Dimensions": "closed: 1 3/4 x 9 11/16 x 7 7/8\" (4.5 x 24.6 x 20 cm)\r\nopened: 9 1/8 x 11 1/2 x 7 7/8\" (23.2 x 29.2 x 20 cm)",
+            "Credit": "Gift of the manufacturer",
+            "Object number": "112.1996",
+            "Copyright": "\u00a9 2023 Sam Lucente, Richard Sapper, Robert P. Tennant, and IBM Corporation.",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/6612"
     },
@@ -443,11 +443,11 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ2ODk3NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e19c3967804a70b4",
         "Details": {
             "Medium": "3D Duratrans print and acrylic, sound (3:20 min.)",
-            "Dimensions": "Light box: 73 \u00d7 50 \u00d7 6\" (185.4 \u00d7 127 \u00d7 15.2 cm)",
-            "Duratran print: 72 \u00d7 48 \u00d7 1/4\" (182.9 \u00d7 121.9 \u00d7 0.6 cm)": "Credit",
-            "Gift of Gwen and Peter Norton": "Object number",
-            "1778.2015": "Copyright",
-            "\u00a9 2023 Mariko Mori / Artists Rights Society (ARS), New York": "Department"
+            "Dimensions": "Light box: 73 \u00d7 50 \u00d7 6\" (185.4 \u00d7 127 \u00d7 15.2 cm)\r\nDuratran print: 72 \u00d7 48 \u00d7 1/4\" (182.9 \u00d7 121.9 \u00d7 0.6 cm)",
+            "Credit": "Gift of Gwen and Peter Norton",
+            "Object number": "1778.2015",
+            "Copyright": "\u00a9 2023 Mariko Mori / Artists Rights Society (ARS), New York",
+            "Department": "Media and Performance"
         },
         "Profile": "https://www.moma.org/artists/8123"
     },

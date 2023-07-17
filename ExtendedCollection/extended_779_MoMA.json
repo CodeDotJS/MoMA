@@ -880,14 +880,14 @@
         "Details": {
             "Author": "Tetsumi Kudo",
             "Medium": "Multi-volume artist's book",
-            "Dimensions": "page  7 7/8 x 7 3/4\" (20 x 19.7 cm)",
-            "Box:  8 15/16 x 8 15/16 x 8 15/16\" (22.7 x 22.7 x 22.7 cm)": "Designer",
-            "Sugiura Kohei": "Publisher",
-            "Tetsumi Kudo, Tokyo": "Printer",
-            "Hirohashi Printing and Photo-engraving Co., Tokyo": "Edition",
-            "7 variants": "Credit",
-            "Larry Aldrich Fund": "Object number",
-            "465.1977.A-C": "Department"
+            "Dimensions": "page  7 7/8 x 7 3/4\" (20 x 19.7 cm)\r\nBox:  8 15/16 x 8 15/16 x 8 15/16\" (22.7 x 22.7 x 22.7 cm)",
+            "Designer": "Sugiura Kohei",
+            "Publisher": "Tetsumi Kudo, Tokyo",
+            "Printer": "Hirohashi Printing and Photo-engraving Co., Tokyo",
+            "Edition": "7 variants",
+            "Credit": "Larry Aldrich Fund",
+            "Object number": "465.1977.A-C",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/3281"
     },
@@ -949,11 +949,11 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzNjczOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=84e8e4717a8117ce",
         "Details": {
             "Medium": "a)  Printed paper  b)  Pencil and watercolor and pencil on paper",
-            "Dimensions": "(a): 11 5/8 x 8 1/4\" (29.5 x 21 cm)",
-            "(b): 15 3/8 x 20 1/8\" (39.1 x 51.1 cm)": "Credit",
-            "Art & Project/Depot VBVR Gift": "Object number",
-            "520.2007.a-b": "Copyright",
-            "\u00a9 2023 William Leavitt": "Department"
+            "Dimensions": "(a): 11 5/8 x 8 1/4\" (29.5 x 21 cm)\r\n(b): 15 3/8 x 20 1/8\" (39.1 x 51.1 cm)",
+            "Credit": "Art & Project/Depot VBVR Gift",
+            "Object number": "520.2007.a-b",
+            "Copyright": "\u00a9 2023 William Leavitt",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/28690"
     }

@@ -586,11 +586,11 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQyMjM5NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ee97e42bdfa1a176",
         "Details": {
             "Medium": "Aluminum, glass, and steel",
-            "Dimensions": "Each panel: 145 \u00d7 48 \u00d7 8\" (368.3 \u00d7 121.9 \u00d7 20.3 cm)",
-            "As installed with three panels: 17' 2\" \u00d7 12' 4\" \u00d7 24\" (523.4 \u00d7 376 \u00d7 61 cm)": "Engineer",
-            "Restoration by Heintges & Associates": "Credit",
-            "Gift of the United Nations": "Object number",
-            "1064.2015.1-5": "Department"
+            "Dimensions": "Each panel: 145 \u00d7 48 \u00d7 8\" (368.3 \u00d7 121.9 \u00d7 20.3 cm)\r\nAs installed with three panels: 17' 2\" \u00d7 12' 4\" \u00d7 24\" (523.4 \u00d7 376 \u00d7 61 cm)",
+            "Engineer": "Restoration by Heintges & Associates",
+            "Credit": "Gift of the United Nations",
+            "Object number": "1064.2015.1-5",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/8722"
     },

@@ -8,14 +8,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NzU3MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cbae55258e73dd37",
         "Details": {
             "Medium": "One volume from a series of four portfolios, three with twelve prints and one with fourteen prints",
-            "Dimensions": "Sheet (each, approx): 11 1/8 x 8 3/4\" (28.3 x 22.2 cm) or 8 3/4 x 11 1/8\" (22.2 x 28.3 cm)",
-            "Prints (comp.): various dimensions": "Publisher",
-            "Thorny Devil Press, Wangi Wangi, New South Wales, Australia": "Printer",
-            "Various Printers": "Edition",
-            "60": "Credit",
-            "Gift of Mary Ellen Oldenburg": "Object number",
-            "946.2010.B": "Associated work",
-            "The Sydney Morning": "Department"
+            "Dimensions": "Sheet (each, approx): 11 1/8 x 8 3/4\" (28.3 x 22.2 cm) or 8 3/4 x 11 1/8\" (22.2 x 28.3 cm)\r\nPrints (comp.): various dimensions",
+            "Publisher": "Thorny Devil Press, Wangi Wangi, New South Wales, Australia",
+            "Printer": "Various Printers",
+            "Edition": "60",
+            "Credit": "Gift of Mary Ellen Oldenburg",
+            "Object number": "946.2010.B",
+            "Associated work": "The Sydney Morning",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/36025"
     },
@@ -28,14 +28,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NzU4MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=330a8c73d9d8e1d1",
         "Details": {
             "Medium": "One volume from a series of four portfolios, three with twelve prints and one with fourteen prints",
-            "Dimensions": "Sheet (each, approx): 11 1/8 x 8 3/4\" (28.3 x 22.2 cm) or 8 3/4 x 11 1/8\" (22.2 x 28.3 cm)",
-            "Prints (comp.): various dimensions": "Publisher",
-            "Thorny Devil Press, Wangi Wangi, New South Wales, Australia": "Printer",
-            "Various Printers": "Edition",
-            "60": "Credit",
-            "Gift of Mary Ellen Oldenburg": "Object number",
-            "946.2010.C": "Associated work",
-            "The Sydney Morning": "Department"
+            "Dimensions": "Sheet (each, approx): 11 1/8 x 8 3/4\" (28.3 x 22.2 cm) or 8 3/4 x 11 1/8\" (22.2 x 28.3 cm)\r\nPrints (comp.): various dimensions",
+            "Publisher": "Thorny Devil Press, Wangi Wangi, New South Wales, Australia",
+            "Printer": "Various Printers",
+            "Edition": "60",
+            "Credit": "Gift of Mary Ellen Oldenburg",
+            "Object number": "946.2010.C",
+            "Associated work": "The Sydney Morning",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/36025"
     },
@@ -48,14 +48,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NzU4OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9f0ecb2b1c47dfe7",
         "Details": {
             "Medium": "One volume from a series of four portfolios, three with twelve prints and one with fourteen prints",
-            "Dimensions": "Sheet (each approx): 11 1/8 x 8 3/4\" (28.3 x 22.2 cm) or 8 3/4 x 11 1/8\" (22.2 x 28.3 cm)",
-            "Prints (comp.): various dimensions": "Publisher",
-            "Thorny Devil Press, Wangi Wangi, New South Wales, Australia": "Printer",
-            "Various Printers": "Edition",
-            "60": "Credit",
-            "Gift of Mary Ellen Oldenburg": "Object number",
-            "946.2010.D": "Associated work",
-            "The Sydney Morning": "Department"
+            "Dimensions": "Sheet (each approx): 11 1/8 x 8 3/4\" (28.3 x 22.2 cm) or 8 3/4 x 11 1/8\" (22.2 x 28.3 cm)\r\nPrints (comp.): various dimensions",
+            "Publisher": "Thorny Devil Press, Wangi Wangi, New South Wales, Australia",
+            "Printer": "Various Printers",
+            "Edition": "60",
+            "Credit": "Gift of Mary Ellen Oldenburg",
+            "Object number": "946.2010.D",
+            "Associated work": "The Sydney Morning",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/36025"
     },
@@ -490,10 +490,11 @@
             "Dimensions": "each plate  16 3/4 x 13 5/8\" (42.5 x 34.6 cm)",
             "Publisher": "Universal Limited Art Editions, West Islip, New York",
             "Printer": "Universal Limited Art Editions, West Islip, New York",
-            "Edition": "Credit",
-            "Gift of Emily Fisher Landau": "Object number",
-            "592.1994.1-12": "Copyright",
-            "\u00a9 2023 Terry Winters": "Department"
+            "Edition": "",
+            "Credit": "Gift of Emily Fisher Landau",
+            "Object number": "592.1994.1-12",
+            "Copyright": "\u00a9 2023 Terry Winters",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/6408"
     },

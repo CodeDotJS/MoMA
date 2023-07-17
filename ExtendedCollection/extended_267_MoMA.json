@@ -563,14 +563,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4MTUwMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1379503d0a1cbc24",
         "Details": {
             "Medium": "Series of 5 photolithographs",
-            "Dimensions": "each composition  11 3/4 x 9 3/8\" (29.9 x 23.9 cm)",
-            "each sheet  19 5/8 x 13 1/2\" (49 x 34.3 cm)": "Publisher",
-            "Galerie Gebr\u00fcder Lehman, Dresden": "Printer",
-            "Druckwerkstatt Dresden, Germany": "Edition",
-            "60": "Credit",
-            "Robert and Anna Marie Shapiro Fund": "Object number",
-            "140.2000.1-5": "Copyright",
-            "\u00a9 2023 Eberhard Havekost": "Department"
+            "Dimensions": "each composition  11 3/4 x 9 3/8\" (29.9 x 23.9 cm)\r\neach sheet  19 5/8 x 13 1/2\" (49 x 34.3 cm)",
+            "Publisher": "Galerie Gebr\u00fcder Lehman, Dresden",
+            "Printer": "Druckwerkstatt Dresden, Germany",
+            "Edition": "60",
+            "Credit": "Robert and Anna Marie Shapiro Fund",
+            "Object number": "140.2000.1-5",
+            "Copyright": "\u00a9 2023 Eberhard Havekost",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/8192"
     },

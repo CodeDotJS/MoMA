@@ -461,9 +461,8 @@
         "Work": "https://www.moma.org/collection/works/307",
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxOTI0MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=17af9b1f92fcf521",
         "Details": {
-            "Medium": ".a: Pen and ink",
-            ".b: Collage": "Dimensions",
-            ".a:  5 5/8 x 7\" (14.3 x 17.8 cm)": ".b: 4 1/2 x 7\" (11.4 x 17.8 cm)",
+            "Medium": ".a: Pen and ink\r\n.b: Collage",
+            "Dimensions": ".a:  5 5/8 x 7\" (14.3 x 17.8 cm)\r\n.b: 4 1/2 x 7\" (11.4 x 17.8 cm)",
             "Credit": "Philip Johnson Fund",
             "Object number": "281.1965.a-b",
             "Copyright": "\u00a9 2023 Raimund Abraham",

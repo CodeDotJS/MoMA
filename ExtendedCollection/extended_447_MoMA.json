@@ -59,14 +59,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMDY0NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c0a05a9ed6c521d2",
         "Details": {
             "Medium": "Lithograph and letterpress",
-            "Dimensions": "composition  23 11/16 x 17 13/16\" (60.1 x 45.3 cm)",
-            "sheet  23 11/16 x 17 13/16\" (60 x 45.3 cm)": "Publisher",
-            "Art Issue Editions, Inc., New York": "Printer",
-            "SOLO Press, Inc.": "Edition",
-            "84": "Credit",
-            "Gift of Art Issue Editions, Inc.": "Object number",
-            "194.1988": "Copyright",
-            "\u00a9 2023 Nancy Spero": "Department"
+            "Dimensions": "composition  23 11/16 x 17 13/16\" (60.1 x 45.3 cm)\r\nsheet  23 11/16 x 17 13/16\" (60 x 45.3 cm)",
+            "Publisher": "Art Issue Editions, Inc., New York",
+            "Printer": "SOLO Press, Inc.",
+            "Edition": "84",
+            "Credit": "Gift of Art Issue Editions, Inc.",
+            "Object number": "194.1988",
+            "Copyright": "\u00a9 2023 Nancy Spero",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/5564"
     },
@@ -343,14 +343,14 @@
         "Details": {
             "Author": "Jean Fr\u00e9mon",
             "Medium": "5 etching and aquatints (1 with aquatint and embossing)",
-            "Dimensions": "page  11 13/16 x 9 1/4\" (30 x 23.5 cm)",
-            "Prints: various dimensions.": "Publisher",
-            "Daniel Lelong, \u00c9diteur, Paris": "Printer",
-            "Joan Barbar\u00e0": "Edition",
-            "145+": "Credit",
-            "Gift of Galerie Lelong, New York": "Object number",
-            "240.1990.A-B": "Copyright",
-            "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris": "Department"
+            "Dimensions": "page  11 13/16 x 9 1/4\" (30 x 23.5 cm)\r\nPrints: various dimensions.",
+            "Publisher": "Daniel Lelong, \u00c9diteur, Paris",
+            "Printer": "Joan Barbar\u00e0",
+            "Edition": "145+",
+            "Credit": "Gift of Galerie Lelong, New York",
+            "Object number": "240.1990.A-B",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/5809"
     },
@@ -363,14 +363,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0OTUxMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2b2fa6204d86657d",
         "Details": {
             "Medium": "Etching",
-            "Dimensions": "Plate: 11 5/8 x 15 11/16\" (29.6 x 39.9 cm)",
-            "Sheet: 22 1/16 x 29 15/16\" (56 x 76.1 cm)": "Publisher",
-            "Maeght-Lelong": "Printer",
-            "Joan Barbar\u00e0": "Edition",
-            "75": "Credit",
-            "Gift of Galerie Lelong, New York": "Object number",
-            "469.1990": "Copyright",
-            "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris": "Department"
+            "Dimensions": "Plate: 11 5/8 x 15 11/16\" (29.6 x 39.9 cm)\r\nSheet: 22 1/16 x 29 15/16\" (56 x 76.1 cm)",
+            "Publisher": "Maeght-Lelong",
+            "Printer": "Joan Barbar\u00e0",
+            "Edition": "75",
+            "Credit": "Gift of Galerie Lelong, New York",
+            "Object number": "469.1990",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/5809"
     },

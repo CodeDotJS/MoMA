@@ -56,10 +56,10 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMjgyOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=92796c8db63ce62e",
         "Details": {
             "Medium": "Cut-and-pasted colored paper on 27 sheets of printed paper",
-            "Dimensions": "60 \u00d7 85 7/8\" (152.4 \u00d7 218.1 cm)",
-            "Sheet (each): 13 1/2 \u00d7 9 1/2\" (34.3 \u00d7 24.1 cm)": "Credit",
-            "Gift of Lucille and Ron Neeley": "Object number",
-            "385.2022": "Department"
+            "Dimensions": "60 \u00d7 85 7/8\" (152.4 \u00d7 218.1 cm)\r\nSheet (each): 13 1/2 \u00d7 9 1/2\" (34.3 \u00d7 24.1 cm)",
+            "Credit": "Gift of Lucille and Ron Neeley",
+            "Object number": "385.2022",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/73623"
     },
@@ -496,10 +496,10 @@
         "Details": {
             "Manufacturer": "Magis SpA",
             "Medium": "Polyethylene",
-            "Dimensions": ".1: 21 7/8 x 16 1/2 x 27 3/8\" (55.6 x 41.9 x 69.6 cm)",
-            ".2: 17 11/16 x 13 3/8 x 22 1/4\" (45 x 34 x 56.5 cm)": "Credit",
-            "Gift of the manufacturer": "Object number",
-            "131.2013.1-2": "Department"
+            "Dimensions": ".1: 21 7/8 x 16 1/2 x 27 3/8\" (55.6 x 41.9 x 69.6 cm)\r\n.2: 17 11/16 x 13 3/8 x 22 1/4\" (45 x 34 x 56.5 cm)",
+            "Credit": "Gift of the manufacturer",
+            "Object number": "131.2013.1-2",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/36"
     },

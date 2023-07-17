@@ -382,8 +382,7 @@
             "Object number": "EL1957.1160",
             "Associated work": "Works Progress Administration (WPA), Federal Art Project, Graphic Arts Division, San Francisco",
             "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/45864"
+        }
     },
     {
         "Artist": "Theodore C. Polos",
@@ -808,8 +807,7 @@
         "Details": {
             "Manufacturer": "Chemex Corp., New York, NY",
             "Medium": "Aluminum, cork, and wood",
-            "Dimensions": ".a (shaker): 9 1/2 x 4\" (24.1 x 10.2 cm)",
-            ".b (stopper): 3 x 3 3/4\" (7.6 x 9.5 cm)": ".c (mixer): 12 1/4 x 3\" (31.1 x 7.6 cm)",
+            "Dimensions": ".a (shaker): 9 1/2 x 4\" (24.1 x 10.2 cm)\r\n.b (stopper): 3 x 3 3/4\" (7.6 x 9.5 cm)\r\n.c (mixer): 12 1/4 x 3\" (31.1 x 7.6 cm)",
             "Credit": "Gift of the manufacturer",
             "Object number": "492.1956.a-c",
             "Department": "Architecture and Design"
@@ -826,10 +824,10 @@
         "Details": {
             "Manufacturer": "Chemex Corp., New York, NY",
             "Medium": "Aluminum and cork",
-            "Dimensions": ".a (shaker): 9 1/2 x 4\" (24.2 x 10.2 cm)",
-            ".b (stopper): 3 1/4 x 3 3/4\" (8.3 x 9.5 cm)": "Credit",
-            "Gift of the manufacturer": "Object number",
-            "1330.2001.a-b": "Department"
+            "Dimensions": ".a (shaker): 9 1/2 x 4\" (24.2 x 10.2 cm)\r\n.b (stopper): 3 1/4 x 3 3/4\" (8.3 x 9.5 cm)",
+            "Credit": "Gift of the manufacturer",
+            "Object number": "1330.2001.a-b",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/5225"
     },

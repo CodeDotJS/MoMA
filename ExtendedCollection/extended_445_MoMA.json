@@ -511,12 +511,13 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM1MTAwNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1880ee54460527b0",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "irreg. composition  30 11/16 x 24 1/8\" (78 x 61.3 cm)",
-            "sheet  32 3/16 x 24 1/4\" (81 x 61.6 cm)": "Publisher",
-            "Universal Limited Art Editions, West Islip, New York": "Credit",
-            "Gift of Emily Fisher Landau": "Object number",
-            "404.1987": "Copyright",
-            "\u00a9 2023 Estate of Larry Rivers/Licensed by VAGA, New York, NY": "Department"
+            "Dimensions": "irreg. composition  30 11/16 x 24 1/8\" (78 x 61.3 cm)\r\nsheet  32 3/16 x 24 1/4\" (81 x 61.6 cm)",
+            "Publisher": "Universal Limited Art Editions, West Islip, New York",
+            "Printer": "Universal Limited Art Editions, West Islip, New York",
+            "Credit": "Gift of Emily Fisher Landau",
+            "Object number": "404.1987",
+            "Copyright": "\u00a9 2023 Estate of Larry Rivers/Licensed by VAGA, New York, NY",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/4945"
     },
@@ -833,13 +834,13 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0NjMwNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7405a744a1aa1f7c",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "sl. irreg. composition  22 x 17\" (55.9 x 43.2 cm)",
-            "sheet  30 1/8 x 22 7/8\" (76 x 58.1 cm)": "Publisher",
-            "Philip von Schantz": "Printer",
-            "Lindstr\u00f6ms, Solna-Stockholm": "Edition",
-            "75, 5 proofs": "Credit",
-            "Purchase": "Object number",
-            "143.1989": "Department"
+            "Dimensions": "sl. irreg. composition  22 x 17\" (55.9 x 43.2 cm)\r\nsheet  30 1/8 x 22 7/8\" (76 x 58.1 cm)",
+            "Publisher": "Philip von Schantz",
+            "Printer": "Lindstr\u00f6ms, Solna-Stockholm",
+            "Edition": "75, 5 proofs",
+            "Credit": "Purchase",
+            "Object number": "143.1989",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/5203"
     },

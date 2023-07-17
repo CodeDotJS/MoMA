@@ -165,14 +165,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5NDI3NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0d0749c7e0b599ea",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "composition  33 3/4 x 24 1/16\" (85.8 x 61.2 cm)",
-            "sheet  33 3/4 x 24 1/16\" (85.8 x 61.2 cm)": "Publisher",
-            "The Print Room, Clarion, PA (Charles Marlin)": "Printer",
-            "Bank Street Atelier, New York": "Edition",
-            "200": "Credit",
-            "Gift of Dr. Samuel Mandel": "Object number",
-            "523.1984": "Copyright",
-            "\u00a9 2023 Alex Katz / Licensed by VAGA at Artists Rights Society (ARS), NY": "Department"
+            "Dimensions": "composition  33 3/4 x 24 1/16\" (85.8 x 61.2 cm)\r\nsheet  33 3/4 x 24 1/16\" (85.8 x 61.2 cm)",
+            "Publisher": "The Print Room, Clarion, PA (Charles Marlin)",
+            "Printer": "Bank Street Atelier, New York",
+            "Edition": "200",
+            "Credit": "Gift of Dr. Samuel Mandel",
+            "Object number": "523.1984",
+            "Copyright": "\u00a9 2023 Alex Katz / Licensed by VAGA at Artists Rights Society (ARS), NY",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/3016"
     },

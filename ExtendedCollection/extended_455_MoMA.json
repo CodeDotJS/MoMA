@@ -370,12 +370,12 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3NDk4NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0029a02da3aa6364",
         "Details": {
             "Medium": "Monotype",
-            "Dimensions": "irreg composition  30 5/16 x 22 3/4\" (77 x 57.8 cm)",
-            "irreg sheet  30 5/16 x 22 3/4\" (77 x 57.8 cm)": "Printer",
-            "Maurice Payne Studio, New York": "Credit",
-            "Richard A. Epstein Fund": "Object number",
-            "191.1986": "Copyright",
-            "\u00a9 2023 James Nares": "Department"
+            "Dimensions": "irreg composition  30 5/16 x 22 3/4\" (77 x 57.8 cm)\r\nirreg sheet  30 5/16 x 22 3/4\" (77 x 57.8 cm)",
+            "Printer": "Maurice Payne Studio, New York",
+            "Credit": "Richard A. Epstein Fund",
+            "Object number": "191.1986",
+            "Copyright": "\u00a9 2023 James Nares",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/4225"
     },

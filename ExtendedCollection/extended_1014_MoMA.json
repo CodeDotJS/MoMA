@@ -179,10 +179,10 @@
         "Details": {
             "Manufacturer": "Hackman & Co., Helsinki",
             "Medium": "Steel blade, nylon handle, brass fittings, and leather sheath",
-            "Dimensions": ".a (knife): 8 5/8\" (21.9 cm)",
-            ".b (sheath): 8\" (20.3 cm)": "Credit",
-            "Greta Daniel Design Fund": "Object number",
-            "345.1966.a-b": "Department"
+            "Dimensions": ".a (knife): 8 5/8\" (21.9 cm)\r\n.b (sheath): 8\" (20.3 cm)",
+            "Credit": "Greta Daniel Design Fund",
+            "Object number": "345.1966.a-b",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/6409"
     },
@@ -229,13 +229,13 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NDAxMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=414be37f346a11ec",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "each approx. composition  15 3/16 x 19 11/16\" (38.6 x 50 cm)",
-            "each approx sheet  19 13/16 x 25 11/16\" (50 x 65.2 cm)": "Publisher",
-            "Paul Wunderlich": "Printer",
-            "Desjobert, Paris": "Edition",
-            "22": "Credit",
-            "Gift of Mr. and Mrs. Lawrence Saper": "Object number",
-            "685.1981": "Department"
+            "Dimensions": "each approx. composition  15 3/16 x 19 11/16\" (38.6 x 50 cm)\r\neach approx sheet  19 13/16 x 25 11/16\" (50 x 65.2 cm)",
+            "Publisher": "Paul Wunderlich",
+            "Printer": "Desjobert, Paris",
+            "Edition": "22",
+            "Credit": "Gift of Mr. and Mrs. Lawrence Saper",
+            "Object number": "685.1981",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/6463"
     },
@@ -733,11 +733,11 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMjU0NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=72001faa89e7d15b",
         "Details": {
             "Medium": "Woodcut",
-            "Dimensions": "(irreg): composition  20 1/2 x 24 11/16\" (52.1 x 62.7 cm)",
-            "sheet  25 3/8 x 27 13/16\" (64 x 70.6 cm)": "Edition",
-            "50": "Credit",
-            "Gift of Mr. and Mrs. Peter A. R\u00fcbel": "Object number",
-            "396.1961": "Department"
+            "Dimensions": "(irreg): composition  20 1/2 x 24 11/16\" (52.1 x 62.7 cm)\r\nsheet  25 3/8 x 27 13/16\" (64 x 70.6 cm)",
+            "Edition": "50",
+            "Credit": "Gift of Mr. and Mrs. Peter A. R\u00fcbel",
+            "Object number": "396.1961",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/127"
     },

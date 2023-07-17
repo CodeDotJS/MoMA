@@ -801,10 +801,10 @@
         "Details": {
             "Manufacturer": "Arabia, W\u00e4rtsil\u00e4 Ab, Helsinki, Finland",
             "Medium": "Glazed earthenware",
-            "Dimensions": ".1: 5 1/4 x 6 1/4\" (13.3 x 15.9 cm)",
-            ".2: 3 x 4 3/8\" (7.6 x 11.1 cm)": "Credit",
-            "Phyllis B. Lambert Fund": "Object number",
-            "219.1958.1-2": "Department"
+            "Dimensions": ".1: 5 1/4 x 6 1/4\" (13.3 x 15.9 cm)\r\n.2: 3 x 4 3/8\" (7.6 x 11.1 cm)",
+            "Credit": "Phyllis B. Lambert Fund",
+            "Object number": "219.1958.1-2",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/3557"
     },
@@ -820,7 +820,8 @@
             "Dimensions": "13 7/16 \u00d7 10 13/16\" (34.2 \u00d7 27.5 cm)",
             "Credit": "Purchase",
             "Object number": "275.1976",
-            "Copyright": "Department"
+            "Copyright": "",
+            "Department": "Photography"
         },
         "Profile": "https://www.moma.org/artists/3561"
     },

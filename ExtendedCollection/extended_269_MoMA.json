@@ -256,12 +256,13 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MDM5NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=570aea771b820742",
         "Details": {
             "Medium": "Inkjet print on polystyrene with laminate",
-            "Dimensions": "composition  30 1/4 x 23 3/16\" (76.9 x 58.9 cm)",
-            "sheet  30 1/4 x 23 3/16\" (76 x 58.9 cm)": "Publisher",
-            "Muse X Editions, Los Angeles": "Edition",
-            "25": "Credit",
-            "Gift of the Young Print Collectors of the Department of Prints and Illustrated Books": "Object number",
-            "429.1999": "Department"
+            "Dimensions": "composition  30 1/4 x 23 3/16\" (76.9 x 58.9 cm)\r\nsheet  30 1/4 x 23 3/16\" (76 x 58.9 cm)",
+            "Publisher": "Muse X Editions, Los Angeles",
+            "Printer": "Muse X Editions, Los Angeles",
+            "Edition": "25",
+            "Credit": "Gift of the Young Print Collectors of the Department of Prints and Illustrated Books",
+            "Object number": "429.1999",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/8122"
     },
@@ -876,11 +877,11 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxODMzMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=bcd55d611a5e695a",
         "Details": {
             "Medium": "Woodcut, wood engraving, and photoengraving",
-            "Dimensions": "composition  13 x 17 15/16\" (33.1 x 45.7 cm)",
-            "sheet  17 9/16 x 22 1/2\" (44 x 57.1 cm)": "Publisher",
-            "The Grenfell Press, New York": "Credit",
-            "Jacqueline Brody Fund": "Object number",
-            "176.1999": "Department"
+            "Dimensions": "composition  13 x 17 15/16\" (33.1 x 45.7 cm)\r\nsheet  17 9/16 x 22 1/2\" (44 x 57.1 cm)",
+            "Publisher": "The Grenfell Press, New York",
+            "Credit": "Jacqueline Brody Fund",
+            "Object number": "176.1999",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/4070"
     },

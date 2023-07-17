@@ -394,9 +394,8 @@
         "Work": "https://www.moma.org/collection/works/198597",
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0MzAwMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b0da88f0766d4841",
         "Details": {
-            "Medium": ".a Letterpress",
-            ".b Ink on paper": "Dimensions",
-            ".a: 10 3/4 \u00d7 8 3/8\" (27.3 \u00d7 21.3 cm)": ".b: 10 3/8 \u00d7 7\" (26.4 \u00d7 17.8 cm)",
+            "Medium": ".a Letterpress\r\n.b Ink on paper",
+            "Dimensions": ".a: 10 3/4 \u00d7 8 3/8\" (27.3 \u00d7 21.3 cm)\r\n.b: 10 3/8 \u00d7 7\" (26.4 \u00d7 17.8 cm)",
             "Credit": "Elaine Lustig Cohen Collection, gift of Lawrence Benenson and the Committee on Architecture and Design Funds",
             "Object number": "1486.2015a-b",
             "Department": "Architecture and Design"

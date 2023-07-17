@@ -388,10 +388,10 @@
         "Details": {
             "Manufacturer": "Tigrett Enterprises, Chicago, IL",
             "Medium": "Plastic coated slotted cards",
-            "Dimensions": "Box: 11 1/2 \u00d7 8 \u00d7 1 3/8\" (29.2 \u00d7 20.3 \u00d7 3.5 cm)",
-            "Component: 11 \u00d7 7\" (27.9 \u00d7 17.8 cm)": "Credit",
-            "Purchase": "Object number",
-            "419.1955": "Department"
+            "Dimensions": "Box: 11 1/2 \u00d7 8 \u00d7 1 3/8\" (29.2 \u00d7 20.3 \u00d7 3.5 cm)\r\nComponent: 11 \u00d7 7\" (27.9 \u00d7 17.8 cm)",
+            "Credit": "Purchase",
+            "Object number": "419.1955",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/1671"
     },
@@ -606,10 +606,10 @@
         "Details": {
             "Manufacturer": "Nuutaj\u00e4rvi Glass Works, W\u00e4rtsil\u00e4, Finland",
             "Medium": "Pressed glass",
-            "Dimensions": ".1: 4 13/16 x 3 3/8\" (12.2 x 8.6 cm)",
-            ".2: 3 x 3 1/8\" (7.6 x 7.9 cm)": "Credit",
-            "Phyllis B. Lambert Fund": "Object number",
-            "227.1958.1-2": "Department"
+            "Dimensions": ".1: 4 13/16 x 3 3/8\" (12.2 x 8.6 cm)\r\n.2: 3 x 3 1/8\" (7.6 x 7.9 cm)",
+            "Credit": "Phyllis B. Lambert Fund",
+            "Object number": "227.1958.1-2",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/1968"
     },
@@ -623,14 +623,10 @@
         "Details": {
             "Manufacturer": "Nuutaj\u00e4rvi Glass Works, W\u00e4rtsil\u00e4, Finland",
             "Medium": "Glass",
-            "Dimensions": ".1: 3 5/8 x 3 1/8\" (9.2 x 7.9 cm)",
-            ".2: 3 15/16 x 3 9/16\" (10 x 9 cm)": ".3: 4 x 2 3/8\" (10.2 x 6 cm)",
-            ".4: 2 3/4 x 2 3/4\" (7 x 7 cm)": ".5: 1 3/4 x 1 3/4\" (4.4 x 4.4 cm)",
-            ".6: 4 3/8 x 3 1/8\" (11.1 x 7.9 cm)": ".7: 3 7/8 x 3 9/16\" (9.8 x 9 cm)",
-            ".8: 4 1/8 x 2 3/8\" (10.5 x 6 cm)": ".9: 2 3/4 x 2 9/16\" (7 x 6.5 cm)",
-            ".10: 1 3/4 x 1 3/4\" (4.4 x 4.4 cm)": "Credit",
-            "Gift of Waertsila Corporation": "Object number",
-            "262.1954.1-10": "Department"
+            "Dimensions": ".1: 3 5/8 x 3 1/8\" (9.2 x 7.9 cm)\r\n.2: 3 15/16 x 3 9/16\" (10 x 9 cm)\r\n.3: 4 x 2 3/8\" (10.2 x 6 cm)\r\n.4: 2 3/4 x 2 3/4\" (7 x 7 cm)\r\n.5: 1 3/4 x 1 3/4\" (4.4 x 4.4 cm)\r\n.6: 4 3/8 x 3 1/8\" (11.1 x 7.9 cm)\r\n.7: 3 7/8 x 3 9/16\" (9.8 x 9 cm)\r\n.8: 4 1/8 x 2 3/8\" (10.5 x 6 cm)\r\n.9: 2 3/4 x 2 9/16\" (7 x 6.5 cm)\r\n.10: 1 3/4 x 1 3/4\" (4.4 x 4.4 cm)",
+            "Credit": "Gift of Waertsila Corporation",
+            "Object number": "262.1954.1-10",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/1968"
     },

@@ -101,8 +101,7 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NjczNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f276b58c95f77baa",
         "Details": {
             "Medium": "Collage of black and white instant prints attached to composite board with staples",
-            "Dimensions": "a 47 15/16 \u00d7 47 15/16\" (121.8 \u00d7 121.8 cm)",
-            "b 47 13/16 \u00d7 47 13/16\" (121.5 \u00d7 121.5 cm)": "c 11 \u00d7 8 1/2\" (28 \u00d7 21.6 cm)",
+            "Dimensions": "a 47 15/16 \u00d7 47 15/16\" (121.8 \u00d7 121.8 cm)\r\nb 47 13/16 \u00d7 47 13/16\" (121.5 \u00d7 121.5 cm)\r\nc 11 \u00d7 8 1/2\" (28 \u00d7 21.6 cm)",
             "Credit": "Purchased as the partial gift of Celeste Bartos",
             "Object number": "307.1982.a-c",
             "Copyright": "\u00a9 2023 The Robert Heinecken Trust",
@@ -119,12 +118,13 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5Mzk0NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cde9b2508f5d9f45",
         "Details": {
             "Medium": "Drypoint",
-            "Dimensions": "irreg composition  29 1/8 x 79 7/8\" (74 x 191.7 cm)",
-            "sheet  35 1/16 x 85\" (89 x 204 cm)": "Publisher",
-            "Gemini G.E.L., Los Angeles": "Edition",
-            "20": "Credit",
-            "Acquired with matching funds from James R. Epstein and the National Endowment for the Arts": "Object number",
-            "141.1979": "Department"
+            "Dimensions": "irreg composition  29 1/8 x 79 7/8\" (74 x 191.7 cm)\r\nsheet  35 1/16 x 85\" (89 x 204 cm)",
+            "Publisher": "Gemini G.E.L., Los Angeles",
+            "Printer": "Gemini G.E.L., Los Angeles",
+            "Edition": "20",
+            "Credit": "Acquired with matching funds from James R. Epstein and the National Endowment for the Arts",
+            "Object number": "141.1979",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/2580"
     },

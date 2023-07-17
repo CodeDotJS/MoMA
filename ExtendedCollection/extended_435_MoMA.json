@@ -158,14 +158,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMDQ0OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a917507d830e0b70",
         "Details": {
             "Medium": "Screenprint",
-            "Dimensions": "irreg. composition  47 1/2 x 29 5/16\" (120.7 x 74.5 cm)",
-            "sheet  54 3/8 x 36 11/16\" (138 x 93.2 cm)": "Publisher",
-            "Williamstown, Neuch\u00e2tel, Switzerland": "Printer",
-            "\u00c9ditions M\u00e9dia, Neuch\u00e2tel, Switzerland": "Edition",
-            "54": "Credit",
-            "John B. Turner Fund": "Object number",
-            "145.1989": "Copyright",
-            "\u00a9 2023 Lawrence Weiner / Artists Rights Society (ARS), New York": "Department"
+            "Dimensions": "irreg. composition  47 1/2 x 29 5/16\" (120.7 x 74.5 cm)\r\nsheet  54 3/8 x 36 11/16\" (138 x 93.2 cm)",
+            "Publisher": "Williamstown, Neuch\u00e2tel, Switzerland",
+            "Printer": "\u00c9ditions M\u00e9dia, Neuch\u00e2tel, Switzerland",
+            "Edition": "54",
+            "Credit": "John B. Turner Fund",
+            "Object number": "145.1989",
+            "Copyright": "\u00a9 2023 Lawrence Weiner / Artists Rights Society (ARS), New York",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/6288"
     },
@@ -347,13 +347,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMzM4MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c7e96ac91d435a37",
         "Details": {
             "Medium": "Aquatint and etching with chine coll\u00e9",
-            "Dimensions": "plate  15 13/16 x 11 15/16\" (40.2 x 30.3 cm)",
-            "sheet  24 1/2 x 19 3/8\" (62 x 49.3 cm)": "Publisher",
-            "Universal Limited Art Editions, West Islip, New York": "Edition",
-            "55": "Credit",
-            "Gift of Emily Fisher Landau": "Object number",
-            "384.1988": "Copyright",
-            "\u00a9 2023 Terry Winters": "Department"
+            "Dimensions": "plate  15 13/16 x 11 15/16\" (40.2 x 30.3 cm)\r\nsheet  24 1/2 x 19 3/8\" (62 x 49.3 cm)",
+            "Publisher": "Universal Limited Art Editions, West Islip, New York",
+            "Printer": "Universal Limited Art Editions, West Islip, New York",
+            "Edition": "55",
+            "Credit": "Gift of Emily Fisher Landau",
+            "Object number": "384.1988",
+            "Copyright": "\u00a9 2023 Terry Winters",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/6408"
     },

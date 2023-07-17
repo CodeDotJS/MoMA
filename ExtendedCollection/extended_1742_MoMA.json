@@ -386,11 +386,11 @@
             "Medium": "Lithograph",
             "Dimensions": "composition: 9 x 5\" (22.9 x 12.7 cm)",
             "Publisher": "L'Estampe Originale, Paris",
-            "Edition": "110",
-            "Impression:": "Credit",
-            "Gift of Abby Aldrich Rockefeller": "Object number",
-            "267.1940": "Copyright",
-            "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris": "Department"
+            "Edition": "110\r\nImpression:",
+            "Credit": "Gift of Abby Aldrich Rockefeller",
+            "Object number": "267.1940",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/665"
     },

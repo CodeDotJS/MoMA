@@ -577,11 +577,11 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5MDE5MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e6ad128850d147a5",
         "Details": {
             "Medium": "Screenprint",
-            "Dimensions": "composition  22 5/16 x 32 13/16\" (56.7 x 83.3 cm)",
-            "sheet  22 5/16 x 32 13/16\" (56.7 x 83.3 cm)": "Edition",
-            "50": "Credit",
-            "Felix and Helen Juda Foundation Fund": "Object number",
-            "54.1969": "Department"
+            "Dimensions": "composition  22 5/16 x 32 13/16\" (56.7 x 83.3 cm)\r\nsheet  22 5/16 x 32 13/16\" (56.7 x 83.3 cm)",
+            "Edition": "50",
+            "Credit": "Felix and Helen Juda Foundation Fund",
+            "Object number": "54.1969",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/2836"
     },

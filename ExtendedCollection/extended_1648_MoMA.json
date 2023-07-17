@@ -636,10 +636,10 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNzkxOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2567dd6e2eca3a00",
         "Details": {
             "Medium": "Molded glass",
-            "Dimensions": ".1: 7 1/4 x 4 3/8\" (18.4 x 11.1 cm)",
-            ".2: 5 7/8 x 3 3/4\" (14.9 x 9.5 cm)": "Credit",
-            "Phyllis B. Lambert Fund": "Object number",
-            "183.1958.1-2": "Department"
+            "Dimensions": ".1: 7 1/4 x 4 3/8\" (18.4 x 11.1 cm)\r\n.2: 5 7/8 x 3 3/4\" (14.9 x 9.5 cm)",
+            "Credit": "Phyllis B. Lambert Fund",
+            "Object number": "183.1958.1-2",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/4918"
     },

@@ -604,13 +604,13 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0Mzc1NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=78c7b7f8724f0da0",
         "Details": {
             "Medium": "Lithograph and aquatint, printed in color",
-            "Dimensions": "plate  29 15/16 x 21 3/4\" (76 x 55.2 cm)",
-            "sheet  35 3/8 x 24 5/8\" (89.8 x 62.6 cm)": "Printer",
-            "Pressing Company, Rome": "Edition",
-            "200, numbered 1-150 and I-L. 12 AP, 12 HC": "Credit",
-            "Purchase": "Object number",
-            "166.1985": "Copyright",
-            "\u00a9 2023 Cy Twombly Foundation": "Department"
+            "Dimensions": "plate  29 15/16 x 21 3/4\" (76 x 55.2 cm)\r\nsheet  35 3/8 x 24 5/8\" (89.8 x 62.6 cm)",
+            "Printer": "Pressing Company, Rome",
+            "Edition": "200, numbered 1-150 and I-L. 12 AP, 12 HC",
+            "Credit": "Purchase",
+            "Object number": "166.1985",
+            "Copyright": "\u00a9 2023 Cy Twombly Foundation",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/5988"
     },

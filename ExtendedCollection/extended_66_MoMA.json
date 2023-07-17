@@ -376,8 +376,7 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMxNjIyNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d1694db0cddd3e33",
         "Details": {
             "Medium": "Three artist's books",
-            "Dimensions": "a: 11 5/8 x 7 7/8 x 7/8\" (29.6 x 20 x 2.3 cm)",
-            "b: 11 5/8 x 7 7/8 x 1 13/16\" (29.6 x 20 x 4.6 cm)": "c: 11 5/8 x 7 7/8 x 2 7/16\" (29.6 x 20 x 6.2 cm)",
+            "Dimensions": "a: 11 5/8 x 7 7/8 x 7/8\" (29.6 x 20 x 2.3 cm)\r\nb: 11 5/8 x 7 7/8 x 1 13/16\" (29.6 x 20 x 4.6 cm)\r\nc: 11 5/8 x 7 7/8 x 2 7/16\" (29.6 x 20 x 6.2 cm)",
             "Publisher": "The Vanity Press, London",
             "Credit": "Anonymous gift",
             "Object number": "556.2014.51.a-c",
@@ -467,8 +466,7 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0NDY3NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8768ca385f915e10",
         "Details": {
             "Medium": "Video (color, sound)",
-            "Duration": "34 min. (The Power of Silence)",
-            "39 min. (The Submarine)": "34 min. (The Little Beaubourg)",
+            "Duration": "34 min. (The Power of Silence)\r\n39 min. (The Submarine)\r\n34 min. (The Little Beaubourg)",
             "Credit": "Gift of Andrea Woodner",
             "Object number": "122.2016.1-3",
             "Copyright": "\u00a9 2023 B\u00eaka & Lemoine",
@@ -567,10 +565,10 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMxMjcwMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=49d701601fe3d282",
         "Details": {
             "Medium": "Book, offset printed",
-            "Dimensions": ".1: 10 x 8 x 1\" (25.4 x 20.3 x 2.5 cm)",
-            ".2: 5 x 3 5/8 x 1/2\" (12.7 x 9.2 x 1.3 cm)": "Credit",
-            "Gift of the designer": "Object number",
-            "782.2014.1-2": "Department"
+            "Dimensions": ".1: 10 x 8 x 1\" (25.4 x 20.3 x 2.5 cm)\r\n.2: 5 x 3 5/8 x 1/2\" (12.7 x 9.2 x 1.3 cm)",
+            "Credit": "Gift of the designer",
+            "Object number": "782.2014.1-2",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/33693"
     },

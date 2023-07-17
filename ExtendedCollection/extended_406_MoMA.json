@@ -176,13 +176,13 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMzAwNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=daaa9d82fd89d56e",
         "Details": {
             "Medium": "Monotype",
-            "Dimensions": "sheet  19 1/2 x 15 3/4\" (49.5 x 40 cm)",
-            "irreg composition  15 3/4 x 14 3/4\" (40 x 37.5 cm)": "Publisher",
-            "Parkett Publishers, Z\u00fcrich and New York": "Printer",
-            "Philip Taaffe": "Edition",
-            "55": "Credit",
-            "Riva Castleman Endowment Fund, Lily Auchincloss Fund, and Gift of Parkett": "Object number",
-            "129.1998.1": "Department"
+            "Dimensions": "sheet  19 1/2 x 15 3/4\" (49.5 x 40 cm)\r\nirreg composition  15 3/4 x 14 3/4\" (40 x 37.5 cm)",
+            "Publisher": "Parkett Publishers, Z\u00fcrich and New York",
+            "Printer": "Philip Taaffe",
+            "Edition": "55",
+            "Credit": "Riva Castleman Endowment Fund, Lily Auchincloss Fund, and Gift of Parkett",
+            "Object number": "129.1998.1",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/6654"
     },

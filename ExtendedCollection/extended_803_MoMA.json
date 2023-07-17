@@ -497,13 +497,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4OTczNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fe637783f8920fe4",
         "Details": {
             "Medium": "Lithograph with embossing and lead additions",
-            "Dimensions": "Composition:  46 15/16 x 28 11/16\" (119.2 x 72.9 cm)",
-            "Sheet:  56 x 35 7/8\" (142.2 x 91.1 cm)": "Publisher",
-            "Gemini G.E.L., Los Angeles": "Edition",
-            "81": "Credit",
-            "Gift of Philip Johnson (by exchange)": "Object number",
-            "449.1971": "Copyright",
-            "\u00a9 2023 Jasper Johns / Licensed by VAGA at Artists Rights Society (ARS), NY": "Department"
+            "Dimensions": "Composition:  46 15/16 x 28 11/16\" (119.2 x 72.9 cm)\r\nSheet:  56 x 35 7/8\" (142.2 x 91.1 cm)",
+            "Publisher": "Gemini G.E.L., Los Angeles",
+            "Printer": "Gemini G.E.L., Los Angeles",
+            "Edition": "81",
+            "Credit": "Gift of Philip Johnson (by exchange)",
+            "Object number": "449.1971",
+            "Copyright": "\u00a9 2023 Jasper Johns / Licensed by VAGA at Artists Rights Society (ARS), NY",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/2923"
     },
@@ -795,8 +796,7 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxOTI2OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e65f913c06852859",
         "Details": {
             "Medium": "Graphite on tracing paper",
-            "Dimensions": ".1: 16 x 22\" (40.6 x 55.9 cm)",
-            ".2: 5 5/8 x 12 1/2\"  (14.3 x 31.8 cm)": ".3: 10 5/8 x 12 3/4\" (27 x  32.4 cm)",
+            "Dimensions": ".1: 16 x 22\" (40.6 x 55.9 cm)\r\n.2: 5 5/8 x 12 1/2\"  (14.3 x 31.8 cm)\r\n.3: 10 5/8 x 12 3/4\" (27 x  32.4 cm)",
             "Credit": "Gift of the architect",
             "Object number": "406.1964.1-3",
             "Copyright": "\u00a9 2023 Estate of Louis I. Kahn",

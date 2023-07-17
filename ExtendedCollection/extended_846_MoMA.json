@@ -109,13 +109,13 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwNjYyMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f512ecde5ca829f9",
         "Details": {
             "Medium": "Cut and collaged offset lithograph",
-            "Dimensions": "irreg composition  10 3/4 x 6 15/16\" (27.3 x 17.6 cm)",
-            "irreg sheet  10 3/4 x 6 15/16\" (27.3 x 17.6 cm)": "Publisher",
-            "The Letter Edged in Black Press, Inc., New York": "Edition",
-            "40. This is copy number 22": "Credit",
-            "Gift of Carol O. Selle": "Object number",
-            "460.1977.3h": "Illustrated book",
-            "S.M.S. No. 1-6, February-December 1968": "Department"
+            "Dimensions": "irreg composition  10 3/4 x 6 15/16\" (27.3 x 17.6 cm)\r\nirreg sheet  10 3/4 x 6 15/16\" (27.3 x 17.6 cm)",
+            "Publisher": "The Letter Edged in Black Press, Inc., New York",
+            "Edition": "40. This is copy number 22",
+            "Credit": "Gift of Carol O. Selle",
+            "Object number": "460.1977.3h",
+            "Illustrated book": "S.M.S. No. 1-6, February-December 1968",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/4551"
     },
@@ -364,13 +364,14 @@
         "Details": {
             "Author": "Fernand Crommelynck",
             "Medium": "Illustrated book with twelve etchings (five with aquatint, one with drypoint)",
-            "Dimensions": "page  11 1/8 x 14 15/16\" (28 x 38 cm)",
-            "Prints:  various dimensions.": "Publisher",
-            "Crommelynck, Paris": "Edition",
-            "200 (30 numbered 1-30 with supplementary suite; 150 numbered 31-180; 18 printers' copies numbered I-XVIII; 2 H.C. deposit copies marked 0 and 00)": "Credit",
-            "Monroe Wheeler Fund": "Object number",
-            "332.1969.1-12": "Copyright",
-            "\u00a9 2023 Estate of Pablo Picasso / Artists Rights Society (ARS), New York": "Department"
+            "Dimensions": "page  11 1/8 x 14 15/16\" (28 x 38 cm)\r\nPrints:  various dimensions.",
+            "Publisher": "Crommelynck, Paris",
+            "Printer": "Crommelynck, Paris",
+            "Edition": "200 (30 numbered 1-30 with supplementary suite; 150 numbered 31-180; 18 printers' copies numbered I-XVIII; 2 H.C. deposit copies marked 0 and 00)",
+            "Credit": "Monroe Wheeler Fund",
+            "Object number": "332.1969.1-12",
+            "Copyright": "\u00a9 2023 Estate of Pablo Picasso / Artists Rights Society (ARS), New York",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/4609"
     },

@@ -827,12 +827,13 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNDE4NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=80cc0bec01343846",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "Composition: 21 7/8 x 18 1/4\" (55.5 x 46.3 cm)",
-            "Sheet: 21 7/8 x 18 1/4\" (55.5 x 46.3 cm)": "Publisher",
-            "Universal Limited Art Editions, West Islip, New York": "Credit",
-            "Gift of Emily Fisher Landau": "Object number",
-            "326.2002": "Copyright",
-            "\u00a9 2023 Cecily Brown": "Department"
+            "Dimensions": "Composition: 21 7/8 x 18 1/4\" (55.5 x 46.3 cm)\r\nSheet: 21 7/8 x 18 1/4\" (55.5 x 46.3 cm)",
+            "Publisher": "Universal Limited Art Editions, West Islip, New York",
+            "Printer": "Universal Limited Art Editions, West Islip, New York",
+            "Credit": "Gift of Emily Fisher Landau",
+            "Object number": "326.2002",
+            "Copyright": "\u00a9 2023 Cecily Brown",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/8472"
     },
@@ -965,10 +966,10 @@
         "Details": {
             "Manufacturer": "HAY, Denmark",
             "Medium": "Powder coated laser-cut steel frame with felt covered water-cut neoprene rubber seat",
-            "Dimensions": ".1 (white): 31 1/2 x 39 3/8 x 31 1/2\" (80 x 100 x 80 cm)",
-            ".2 (black): 31 1/2 x 39 3/8 x 31 1/2\" (80 x 100 x 80 cm)": "Credit",
-            "Gift of the manufacturer": "Object number",
-            "58.2007.1-2": "Department"
+            "Dimensions": ".1 (white): 31 1/2 x 39 3/8 x 31 1/2\" (80 x 100 x 80 cm)\r\n.2 (black): 31 1/2 x 39 3/8 x 31 1/2\" (80 x 100 x 80 cm)",
+            "Credit": "Gift of the manufacturer",
+            "Object number": "58.2007.1-2",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/32007"
     }

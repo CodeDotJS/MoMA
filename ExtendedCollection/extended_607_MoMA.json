@@ -353,12 +353,13 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MTQ5MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1ca967237ef82937",
         "Details": {
             "Medium": "Drypoint and etching",
-            "Dimensions": "plate  6 x 5 15/16\" (15.3 x 15.1 cm)",
-            "irreg sheet  9 1/16 x 9 1/16\" (23 x 23 cm)": "Publisher",
-            "Crown Point Press, San Francisco": "Credit",
-            "Purchase": "Object number",
-            "451.1978": "Copyright",
-            "\u00a9 2023 Pat Steir": "Department"
+            "Dimensions": "plate  6 x 5 15/16\" (15.3 x 15.1 cm)\r\nirreg sheet  9 1/16 x 9 1/16\" (23 x 23 cm)",
+            "Publisher": "Crown Point Press, San Francisco",
+            "Printer": "Crown Point Press, San Francisco",
+            "Credit": "Purchase",
+            "Object number": "451.1978",
+            "Copyright": "\u00a9 2023 Pat Steir",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/5637"
     },

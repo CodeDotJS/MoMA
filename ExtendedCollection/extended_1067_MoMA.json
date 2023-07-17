@@ -106,10 +106,10 @@
         "Details": {
             "Manufacturer": "Herman Miller Furniture Co., Zeeland, MI",
             "Medium": "Polished die-cast aluminum and fabric",
-            "Dimensions": ".a (chair): 39 1/4 x 23 x 30\" (99.7 x 58.4 x 76.2 cm)",
-            ".b (ottoman): 18 1/4 x 21 1/2 x 21\" (46.4 x 54.6 x 53.3 cm)": "Credit",
-            "Gift of the manufacturer": "Object number",
-            "645.1973.a-b": "Department"
+            "Dimensions": ".a (chair): 39 1/4 x 23 x 30\" (99.7 x 58.4 x 76.2 cm)\r\n.b (ottoman): 18 1/4 x 21 1/2 x 21\" (46.4 x 54.6 x 53.3 cm)",
+            "Credit": "Gift of the manufacturer",
+            "Object number": "645.1973.a-b",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/1671"
     },
@@ -792,8 +792,7 @@
         "Details": {
             "Manufacturer": "Peill & Putzler, D\u00fcren, Germany",
             "Medium": "Crystal",
-            "Dimensions": ".1-.2 (champagne glasses): 8 1/2 x 2 7/8\" (21.6 x 7.3 cm)",
-            ".3 (wine glass): 7 5/8 x 2 13/16\" (19.4 x 7.1 cm)": ".4-.5 (short wine glasses): 6 3/8 x 2 5/8\" (16.2 x 6.7 cm)",
+            "Dimensions": ".1-.2 (champagne glasses): 8 1/2 x 2 7/8\" (21.6 x 7.3 cm)\r\n.3 (wine glass): 7 5/8 x 2 13/16\" (19.4 x 7.1 cm)\r\n.4-.5 (short wine glasses): 6 3/8 x 2 5/8\" (16.2 x 6.7 cm)",
             "Credit": "Phyllis B. Lambert Fund",
             "Object number": "228.1958.1-5",
             "Department": "Architecture and Design"

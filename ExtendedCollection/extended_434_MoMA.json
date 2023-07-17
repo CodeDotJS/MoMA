@@ -186,12 +186,13 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3NTAyNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=726467e99f353883",
         "Details": {
             "Medium": "Van Dyke brown print, on four sheets",
-            "Dimensions": "Composition (each approx.): 23 13/16 x 24\" (60.5 x 61 cm)",
-            "Sheet (each approx.): 23 5/8 x 24\" (60 x 61 cm)": "Publisher",
-            "Clarissa Sligh": "Edition",
-            "10": "Credit",
-            "Gift of Linda Barth Goldstein": "Object number",
-            "456.1990.a-d": "Department"
+            "Dimensions": "Composition (each approx.): 23 13/16 x 24\" (60.5 x 61 cm)\r\nSheet (each approx.): 23 5/8 x 24\" (60 x 61 cm)",
+            "Publisher": "Clarissa Sligh",
+            "Printer": "Clarissa Sligh",
+            "Edition": "10",
+            "Credit": "Gift of Linda Barth Goldstein",
+            "Object number": "456.1990.a-d",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/5470"
     },
@@ -340,14 +341,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMzAzOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cde39bdbc10cb61c",
         "Details": {
             "Medium": "Aquatint",
-            "Dimensions": "plate  13 7/8 x 9 15/16\" (35.3 x 25.3 cm)",
-            "sheet  23 1/16 x 18 1/16\" (58 x 45.9 cm)": "Publisher",
-            "The Spring Street Workshop, New York": "Printer",
-            "Harlan & Weaver, New York": "Edition",
-            "35, 13 AP's, 2 Exhibition, 1 BAT, 2 spares": "Credit",
-            "Miles O. Epstein Fund": "Object number",
-            "144.1989": "Copyright",
-            "\u00a9 2023 Gary Stephan": "Department"
+            "Dimensions": "plate  13 7/8 x 9 15/16\" (35.3 x 25.3 cm)\r\nsheet  23 1/16 x 18 1/16\" (58 x 45.9 cm)",
+            "Publisher": "The Spring Street Workshop, New York",
+            "Printer": "Harlan & Weaver, New York",
+            "Edition": "35, 13 AP's, 2 Exhibition, 1 BAT, 2 spares",
+            "Credit": "Miles O. Epstein Fund",
+            "Object number": "144.1989",
+            "Copyright": "\u00a9 2023 Gary Stephan",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/5644"
     },
@@ -594,14 +595,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMzIxNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=65506ae55702af7d",
         "Details": {
             "Medium": "Aquatint",
-            "Dimensions": "plate  5 15/16 x 4\" (15.1 x 10.2 cm)",
-            "sheet  21 1/4 x 14 15/16\" (53 x 37.9 cm)": "Publisher",
-            "Parasol Press, Ltd., New York": "Printer",
-            "Harlan & Weaver, New York": "Edition",
-            "15, 10 AP, 2 TP, RTP": "Credit",
-            "Gift of the artist": "Object number",
-            "225.1990": "Copyright",
-            "\u00a9 2023 Donald Sultan": "Department"
+            "Dimensions": "plate  5 15/16 x 4\" (15.1 x 10.2 cm)\r\nsheet  21 1/4 x 14 15/16\" (53 x 37.9 cm)",
+            "Publisher": "Parasol Press, Ltd., New York",
+            "Printer": "Harlan & Weaver, New York",
+            "Edition": "15, 10 AP, 2 TP, RTP",
+            "Credit": "Gift of the artist",
+            "Object number": "225.1990",
+            "Copyright": "\u00a9 2023 Donald Sultan",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/5726"
     },

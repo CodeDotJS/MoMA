@@ -286,10 +286,10 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzMTU5NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7bc2814989287110",
         "Details": {
             "Medium": "Gelatin silver prints",
-            "Dimensions": "Box: 4 5/8 \u00d7 6 5/16 \u00d7 4\" (11.7 \u00d7 16.1 \u00d7 10.2 cm)",
-            "Each (Card): 4 1/8 \u00d7 5 13/16\" (10.5 \u00d7 14.8 cm)": "Credit",
-            "Partial gift of the Daled Collection and partial purchase through the generosity of Maja Oeri and Hans Bodenmann, Sue and Edgar Wachenheim III, Agnes Gund, Marlene Hess and James D. Zirin, Marie-Jos\u00e9e and Henry R. Kravis, and Jerry I. Speyer and Katherine G. Farley": "Object number",
-            "721.2011": "Department"
+            "Dimensions": "Box: 4 5/8 \u00d7 6 5/16 \u00d7 4\" (11.7 \u00d7 16.1 \u00d7 10.2 cm)\r\nEach (Card): 4 1/8 \u00d7 5 13/16\" (10.5 \u00d7 14.8 cm)",
+            "Credit": "Partial gift of the Daled Collection and partial purchase through the generosity of Maja Oeri and Hans Bodenmann, Sue and Edgar Wachenheim III, Agnes Gund, Marlene Hess and James D. Zirin, Marie-Jos\u00e9e and Henry R. Kravis, and Jerry I. Speyer and Katherine G. Farley",
+            "Object number": "721.2011",
+            "Department": "Photography"
         },
         "Profile": "https://www.moma.org/artists/39639"
     },
@@ -454,12 +454,13 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5Mzk3NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c69f4894287e29e7",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "a & b, irreg composition  54 x 63 1/2\" (137.2 x 161.2 cm)",
-            "each sheet  54 x 31 3/4\" (137.2 x 80.6 cm)": "Publisher",
-            "Universal Limited Art Editions, West Islip, New York": "Credit",
-            "Gift of Celeste Bartos": "Object number",
-            "296.1972.a-b": "Copyright",
-            "\u00a9 2023 Jim Dine / Artists Rights Society (ARS), New York": "Department"
+            "Dimensions": "a & b, irreg composition  54 x 63 1/2\" (137.2 x 161.2 cm)\r\neach sheet  54 x 31 3/4\" (137.2 x 80.6 cm)",
+            "Publisher": "Universal Limited Art Editions, West Islip, New York",
+            "Printer": "Universal Limited Art Editions, West Islip, New York",
+            "Credit": "Gift of Celeste Bartos",
+            "Object number": "296.1972.a-b",
+            "Copyright": "\u00a9 2023 Jim Dine / Artists Rights Society (ARS), New York",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/1547"
     },
@@ -612,13 +613,13 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMDQyNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8d85069f757557ca",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "composition  20 1/8 x 25 1/8\" (51.1 x 63.9 cm)",
-            "sheet  22 5/16 x 27 3/16\" (56.7 x 69 cm)": "Publisher",
-            "Wuppertal Kunstvaren, Wuppertal, Germany": "Printer",
-            "Shorewood Atelier, Inc., New York": "Edition",
-            "150, plus 25 proofs": "Credit",
-            "Gift of Dr. Samuel Mandel": "Object number",
-            "516.1984": "Department"
+            "Dimensions": "composition  20 1/8 x 25 1/8\" (51.1 x 63.9 cm)\r\nsheet  22 5/16 x 27 3/16\" (56.7 x 69 cm)",
+            "Publisher": "Wuppertal Kunstvaren, Wuppertal, Germany",
+            "Printer": "Shorewood Atelier, Inc., New York",
+            "Edition": "150, plus 25 proofs",
+            "Credit": "Gift of Dr. Samuel Mandel",
+            "Object number": "516.1984",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/1678"
     },

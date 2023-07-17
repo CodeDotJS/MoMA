@@ -25,8 +25,7 @@
         "Details": {
             "Manufacturer": "Karhula-Iittala Glassworks, Iittala, Finland",
             "Medium": "Glass",
-            "Dimensions": ".1: 4 11/16 x 2 7/8\" (11.9 x 7.3 cm)",
-            ".2: 3 1/8 x 2 11/16\" (7.9 x 6.8 cm)": ".3: 3 1/2 x 3 1/4\" (8.9 x 8.3 cm)",
+            "Dimensions": ".1: 4 11/16 x 2 7/8\" (11.9 x 7.3 cm)\r\n.2: 3 1/8 x 2 11/16\" (7.9 x 6.8 cm)\r\n.3: 3 1/2 x 3 1/4\" (8.9 x 8.3 cm)",
             "Credit": "Gift of Emilio Ambasz",
             "Object number": "1134.1969.1-3",
             "Department": "Architecture and Design"
@@ -194,11 +193,11 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0NjMwNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e68990bd5f6f5d15",
         "Details": {
             "Medium": "Aquatint",
-            "Dimensions": "plate  23 13/16 x 19 11/16\" (60.5 x 50 cm)",
-            "sheet  27 15/16 x 22 1/8\" (71.1 x 56.2 cm)": "Edition",
-            "50": "Credit",
-            "Gift of the artist": "Object number",
-            "147.1975": "Department"
+            "Dimensions": "plate  23 13/16 x 19 11/16\" (60.5 x 50 cm)\r\nsheet  27 15/16 x 22 1/8\" (71.1 x 56.2 cm)",
+            "Edition": "50",
+            "Credit": "Gift of the artist",
+            "Object number": "147.1975",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/5268"
     },

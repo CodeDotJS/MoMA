@@ -80,13 +80,13 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzODkwMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b0451b7f61b20335",
         "Details": {
             "Medium": "Blind embossing on aluminum-coated paper mounted on aluminum-coated paper, from an illustrated book of texts and three embossings",
-            "Dimensions": "Sheet: 12 3/16 \u00d7 9 1/16\" (31 \u00d7 23 cm)",
-            "Mount: 24 15/16 \u00d7 21\" (63.4 \u00d7 53.4 cm)": "Publisher",
-            "Kestner-Gesellschaft, Hannover": "Printer",
-            "Unidentified": "Edition",
-            "250": "Credit",
-            "Gift of Mrs. Alan A. Rosenthal": "Object number",
-            "95.1968.1": "Department"
+            "Dimensions": "Sheet: 12 3/16 \u00d7 9 1/16\" (31 \u00d7 23 cm)\r\nMount: 24 15/16 \u00d7 21\" (63.4 \u00d7 53.4 cm)",
+            "Publisher": "Kestner-Gesellschaft, Hannover",
+            "Printer": "Unidentified",
+            "Edition": "250",
+            "Credit": "Gift of Mrs. Alan A. Rosenthal",
+            "Object number": "95.1968.1",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/3669"
     },
@@ -170,12 +170,12 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzNTI0MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e1e8f90d4f98c626",
         "Details": {
             "Medium": "Letter box with ceramic letters, zinc sheet painted and plaster letters",
-            "Dimensions": "Part (Box): 10 \u00d7 7 1/4 \u00d7 2 3/4\" (25.4 \u00d7 18.4 \u00d7 7 cm)",
-            "Part (Letters): 4 \u00d7 2 1/2 \u00d7 3/4\" (10.2 \u00d7 6.4 \u00d7 1.9 cm)": "Publisher",
-            "Multiples, Inc., New York": "Edition",
-            "*unrealized edition": "Credit",
-            "Gift of Marian Goodman": "Object number",
-            "80.2021.a-h": "Department"
+            "Dimensions": "Part (Box): 10 \u00d7 7 1/4 \u00d7 2 3/4\" (25.4 \u00d7 18.4 \u00d7 7 cm)\r\nPart (Letters): 4 \u00d7 2 1/2 \u00d7 3/4\" (10.2 \u00d7 6.4 \u00d7 1.9 cm)",
+            "Publisher": "Multiples, Inc., New York",
+            "Edition": "*unrealized edition",
+            "Credit": "Gift of Marian Goodman",
+            "Object number": "80.2021.a-h",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/3716"
     },
@@ -731,12 +731,13 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMzUzMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f3ef248a9dacf398",
         "Details": {
             "Medium": "Screenprint",
-            "Dimensions": "composition  23 7/8 x 17 15/16\" (60.6 x 45.6 cm)",
-            "sheet  23 7/8 x 17 15/16\" (60.6 x 45.6 cm)": "Publisher",
-            "Impressions Workshop, Inc., Boston": "Edition",
-            "50": "Credit",
-            "John B. Turner Fund": "Object number",
-            "76.1969": "Department"
+            "Dimensions": "composition  23 7/8 x 17 15/16\" (60.6 x 45.6 cm)\r\nsheet  23 7/8 x 17 15/16\" (60.6 x 45.6 cm)",
+            "Publisher": "Impressions Workshop, Inc., Boston",
+            "Printer": "Impressions Workshop, Inc., Boston",
+            "Edition": "50",
+            "Credit": "John B. Turner Fund",
+            "Object number": "76.1969",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/3936"
     },

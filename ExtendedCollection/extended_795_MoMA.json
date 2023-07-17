@@ -122,13 +122,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNDE3MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c60e65928e1e273e",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "composition  27 1/2 x 22 1/16\" (69.9 x 56 cm)",
-            "sheet  30 x 22 5/16\" (76.2 x 56.7 cm)": "Publisher",
-            "Collector's Press, San Francisco": "Edition",
-            "75": "Credit",
-            "John B. Turner Fund": "Object number",
-            "2.1972": "Copyright",
-            "\u00a9 2023 Robert Bechtle": "Department"
+            "Dimensions": "composition  27 1/2 x 22 1/16\" (69.9 x 56 cm)\r\nsheet  30 x 22 5/16\" (76.2 x 56.7 cm)",
+            "Publisher": "Collector's Press, San Francisco",
+            "Printer": "Collector's Press, San Francisco",
+            "Edition": "75",
+            "Credit": "John B. Turner Fund",
+            "Object number": "2.1972",
+            "Copyright": "\u00a9 2023 Robert Bechtle",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/424"
     },

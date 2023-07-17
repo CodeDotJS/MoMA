@@ -57,10 +57,10 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0ODcyMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0ad96af3e7bd7d4f",
         "Details": {
             "Medium": "Paper and cardboard",
-            "Dimensions": "closed: 6 x 3 1/4\" (15.2 x 8.3 cm)",
-            "open: 11 x 8 1/2\" (27.9 x 21.6 cm)": "Credit",
-            "Gift of the designer": "Object number",
-            "618.2009": "Department"
+            "Dimensions": "closed: 6 x 3 1/4\" (15.2 x 8.3 cm)\r\nopen: 11 x 8 1/2\" (27.9 x 21.6 cm)",
+            "Credit": "Gift of the designer",
+            "Object number": "618.2009",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/37338"
     },
@@ -73,10 +73,10 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0ODcyMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e77af9954aee94c7",
         "Details": {
             "Medium": "Paper and cardboard",
-            "Dimensions": "closed: 6 x 3 1/4\" (15.2 x 8.3 cm)",
-            "open: 11 x 8 1/2\" (27.9 x 21.6 cm)": "Credit",
-            "Gift of the designer": "Object number",
-            "619.2009": "Department"
+            "Dimensions": "closed: 6 x 3 1/4\" (15.2 x 8.3 cm)\r\nopen: 11 x 8 1/2\" (27.9 x 21.6 cm)",
+            "Credit": "Gift of the designer",
+            "Object number": "619.2009",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/37338"
     },
@@ -89,10 +89,10 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0ODcxNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a1aed1e95afefdf7",
         "Details": {
             "Medium": "Paper and cardboard",
-            "Dimensions": "closed: 6 x 3 1/4\" (15.2 x 8.3 cm)",
-            "open: 11 x 8 1/2\" (27.9 x 21.6 cm)": "Credit",
-            "Gift of the designer": "Object number",
-            "617.2009": "Department"
+            "Dimensions": "closed: 6 x 3 1/4\" (15.2 x 8.3 cm)\r\nopen: 11 x 8 1/2\" (27.9 x 21.6 cm)",
+            "Credit": "Gift of the designer",
+            "Object number": "617.2009",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/37338"
     },
@@ -281,8 +281,7 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwMjI0MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=50f30e5ad5fccd77",
         "Details": {
             "Medium": "Etching and drypoint",
-            "Dimensions": "composition  6 15/16 x 5 3/8\" (17.6 x 13.7 cm)",
-            "sheet  22 7/16 x 29 15/16\" (57 x 76 cm)": "Comp is composed of three horizontally abutted  plates, each:17.6 x 13.7 cm Overall comp is 17.6  x 41.7 cm",
+            "Dimensions": "composition  6 15/16 x 5 3/8\" (17.6 x 13.7 cm)\r\nsheet  22 7/16 x 29 15/16\" (57 x 76 cm)\r\nComp is composed of three horizontally abutted  plates, each:17.6 x 13.7 cm Overall comp is 17.6  x 41.7 cm",
             "Publisher": "John Walker",
             "Printer": "John Neeson",
             "Credit": "The Philip and Lynn Straus Foundation Fund",
@@ -301,11 +300,11 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjkwMDYxIl0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNTEyeDUxMlx1MDAzZSJdXQ.jpg?sha=f641c4e0d0256fbf",
         "Details": {
             "Medium": "Silver dye bleach transparency; aluminum light box",
-            "Dimensions": "Image: 6 ft. 2 1/2 in. \u00d7 7 ft. 6 1/4 in. (189.2 \u00d7 229.2 cm)",
-            "Lightbox: 6 ft. 8 1/2 in. \u00d7 8 ft. 1/2 in. \u00d7 8 3/4 in. (204.5 \u00d7 245.1 \u00d7 22.2 cm)": "Credit",
-            "Acquired through the Mary Joy Thomson Legacy": "Object number",
-            "480.2004": "Copyright",
-            "\u00a9 2023 Jeff Wall": "Department"
+            "Dimensions": "Image: 6 ft. 2 1/2 in. \u00d7 7 ft. 6 1/4 in. (189.2 \u00d7 229.2 cm)\r\nLightbox: 6 ft. 8 1/2 in. \u00d7 8 ft. 1/2 in. \u00d7 8 3/4 in. (204.5 \u00d7 245.1 \u00d7 22.2 cm)",
+            "Credit": "Acquired through the Mary Joy Thomson Legacy",
+            "Object number": "480.2004",
+            "Copyright": "\u00a9 2023 Jeff Wall",
+            "Department": "Photography"
         },
         "Profile": "https://www.moma.org/artists/7826"
     },
@@ -480,12 +479,12 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1Mzc1OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=bc4b46a2b13ba61c",
         "Details": {
             "Medium": "Etching and aquatint",
-            "Dimensions": "plate  18 15/16 x 25 3/8\" (48.2 x 64.5 cm)",
-            "sheet  23 11/16 x 31 1/8\" (60 x 79.1 cm)": "Publisher",
-            "Stanislaw Wejman": "Printer",
-            "Academy of Fine Arts, Krakow, Poland": "Credit",
-            "Walter Bareiss Fund": "Object number",
-            "32.1985": "Department"
+            "Dimensions": "plate  18 15/16 x 25 3/8\" (48.2 x 64.5 cm)\r\nsheet  23 11/16 x 31 1/8\" (60 x 79.1 cm)",
+            "Publisher": "Stanislaw Wejman",
+            "Printer": "Academy of Fine Arts, Krakow, Poland",
+            "Credit": "Walter Bareiss Fund",
+            "Object number": "32.1985",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/6302"
     },
@@ -594,13 +593,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEwODY2MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3cfe364b53fb1ac0",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "Composition: 41 3/4 x 31 5/8\" (106 x 80.4 cm)",
-            "Sheet: 41 3/4 x 31 5/8\" (106 x 80.4 cm)": "Publisher",
-            "Universal Limited Art Editions, West Islip, New York": "Edition",
-            "38": "Credit",
-            "Gift of Celeste Bartos": "Object number",
-            "67.1984": "Copyright",
-            "\u00a9 2023 Terry Winters": "Department"
+            "Dimensions": "Composition: 41 3/4 x 31 5/8\" (106 x 80.4 cm)\r\nSheet: 41 3/4 x 31 5/8\" (106 x 80.4 cm)",
+            "Publisher": "Universal Limited Art Editions, West Islip, New York",
+            "Printer": "Universal Limited Art Editions, West Islip, New York",
+            "Edition": "38",
+            "Credit": "Gift of Celeste Bartos",
+            "Object number": "67.1984",
+            "Copyright": "\u00a9 2023 Terry Winters",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/6408"
     },
@@ -613,13 +613,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEwODY2NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=63a7a69a8e996fd5",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "Composition: 42 5/16 x 32 7/16\" (107.4 x 82.4 cm)",
-            "Sheet: 42 5/16 x 32 7/16\" (107.4 x 82.4 cm)": "Publisher",
-            "Universal Limited Art Editions, West Islip, New York": "Edition",
-            "37": "Credit",
-            "Gift of Celeste Bartos": "Object number",
-            "68.1984": "Copyright",
-            "\u00a9 2023 Terry Winters": "Department"
+            "Dimensions": "Composition: 42 5/16 x 32 7/16\" (107.4 x 82.4 cm)\r\nSheet: 42 5/16 x 32 7/16\" (107.4 x 82.4 cm)",
+            "Publisher": "Universal Limited Art Editions, West Islip, New York",
+            "Printer": "Universal Limited Art Editions, West Islip, New York",
+            "Edition": "37",
+            "Credit": "Gift of Celeste Bartos",
+            "Object number": "68.1984",
+            "Copyright": "\u00a9 2023 Terry Winters",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/6408"
     },

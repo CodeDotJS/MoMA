@@ -9,10 +9,10 @@
         "Details": {
             "Manufacturer": "Officina Alessi, Italy",
             "Medium": "Thermoplastic resin and ABS polymer",
-            "Dimensions": "toothbrushes: 8 1/8 x 1 1/2 x 1 1/8\" (20.6 x  3.8 x 2.8 cm)",
-            "holders: h. 2 1/8\" (5.4 cm), diam. 2\" (5.1 cm)": "Credit",
-            "David Whitney Collection, Gift of David Whitney": "Object number",
-            "40.2000.1-4": "Department"
+            "Dimensions": "toothbrushes: 8 1/8 x 1 1/2 x 1 1/8\" (20.6 x  3.8 x 2.8 cm)\r\nholders: h. 2 1/8\" (5.4 cm), diam. 2\" (5.1 cm)",
+            "Credit": "David Whitney Collection, Gift of David Whitney",
+            "Object number": "40.2000.1-4",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/8418"
     },
@@ -60,10 +60,10 @@
         "Details": {
             "Manufacturer": "Officina Alessi, Italy",
             "Medium": "Polyamide with ABS polymer",
-            "Dimensions": ".a (holder): 3 5/8 x 1 3/4\" (9.2 x 4.5 cm)",
-            ".b-.g (toothpicks): 3 x 1/4\" (7.6 x 0.6 cm)": "Credit",
-            "David Whitney Collection, Gift of David Whitney": "Object number",
-            "60.2000.a-g": "Department"
+            "Dimensions": ".a (holder): 3 5/8 x 1 3/4\" (9.2 x 4.5 cm)\r\n.b-.g (toothpicks): 3 x 1/4\" (7.6 x 0.6 cm)",
+            "Credit": "David Whitney Collection, Gift of David Whitney",
+            "Object number": "60.2000.a-g",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/8418"
     },
@@ -527,10 +527,10 @@
         "Details": {
             "Manufacturer": "Toray Industries, Inc., Tokyo",
             "Medium": "\"TETORON\" polyester",
-            "Dimensions": "contracted: 278 x 1 7/16\" (706.1 x 3.7 cm)",
-            "expanded: 278 x 132\" (706.1 x 335.3 cm)": "Credit",
-            "Gift of the manufacturer": "Object number",
-            "129.1996": "Department"
+            "Dimensions": "contracted: 278 x 1 7/16\" (706.1 x 3.7 cm)\r\nexpanded: 278 x 132\" (706.1 x 335.3 cm)",
+            "Credit": "Gift of the manufacturer",
+            "Object number": "129.1996",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/9755"
     },
@@ -561,13 +561,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NDA2NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=eaa0714fdbbffcf9",
         "Details": {
             "Medium": "Set of three etchings",
-            "Dimensions": "(each) composition  46 11/16 x 34 11/16\" (118.6 x 88 cm)",
-            "(each) sheet  46 11/16 x 34 11/16\" (118 x 88 cm)": "Publisher",
-            "Centre genevois de gravure contemporaine, Geneva": "Edition",
-            "9": "Credit",
-            "Jacqueline Brody Fund": "Object number",
-            "75.1999.1-3": "Copyright",
-            "\u00a9 2023 Rosemarie Trockel": "Department"
+            "Dimensions": "(each) composition  46 11/16 x 34 11/16\" (118.6 x 88 cm)\r\n(each) sheet  46 11/16 x 34 11/16\" (118 x 88 cm)",
+            "Publisher": "Centre genevois de gravure contemporaine, Geneva",
+            "Printer": "Centre genevois de gravure contemporaine, Geneva",
+            "Edition": "9",
+            "Credit": "Jacqueline Brody Fund",
+            "Object number": "75.1999.1-3",
+            "Copyright": "\u00a9 2023 Rosemarie Trockel",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/5933"
     },

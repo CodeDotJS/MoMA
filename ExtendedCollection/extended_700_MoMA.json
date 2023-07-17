@@ -645,12 +645,13 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0ODg0MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f8ce6b65a102c98f",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "composition  15 3/4 x 22\" (40 x 55.9 cm)",
-            "sheet  22 5/8 x 30\" (57.5 x 76.3 cm)": "Publisher",
-            "Universal Limited Art Editions, West Islip, New York": "Credit",
-            "Gift of Celeste Bartos": "Object number",
-            "12.1974": "Copyright",
-            "\u00a9 2023 The Saul Steinberg Foundation / Artists Rights Society (ARS), New York": "Department"
+            "Dimensions": "composition  15 3/4 x 22\" (40 x 55.9 cm)\r\nsheet  22 5/8 x 30\" (57.5 x 76.3 cm)",
+            "Publisher": "Universal Limited Art Editions, West Islip, New York",
+            "Printer": "Universal Limited Art Editions, West Islip, New York",
+            "Credit": "Gift of Celeste Bartos",
+            "Object number": "12.1974",
+            "Copyright": "\u00a9 2023 The Saul Steinberg Foundation / Artists Rights Society (ARS), New York",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/5627"
     },

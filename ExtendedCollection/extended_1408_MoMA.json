@@ -91,13 +91,13 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2Njg4OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=698cde51d1e6c7f9",
         "Details": {
             "Medium": "Drypoint",
-            "Dimensions": "plate  10 x 7\" (25.4 x 17.8 cm)",
-            "sheet  13 9/16 x 10 1/2\" (34 x 26.6 cm)": "Printer",
-            "Martin Lewis, New York": "Edition",
-            "75": "Credit",
-            "Walter Bareiss Fund": "Object number",
-            "451.1971": "Copyright",
-            "\u00a9 The Estate of Martin Lewis": "Department"
+            "Dimensions": "plate  10 x 7\" (25.4 x 17.8 cm)\r\nsheet  13 9/16 x 10 1/2\" (34 x 26.6 cm)",
+            "Printer": "Martin Lewis, New York",
+            "Edition": "75",
+            "Credit": "Walter Bareiss Fund",
+            "Object number": "451.1971",
+            "Copyright": "\u00a9 The Estate of Martin Lewis",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/3523"
     },

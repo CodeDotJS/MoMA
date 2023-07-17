@@ -177,12 +177,13 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwODI3NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f90f27604bb7fe52",
         "Details": {
             "Medium": "Etching and aquatint with gold leaf and varnish additions",
-            "Dimensions": "plate  26 1/8 x 23 7/8\" (66.3 x 60.6 cm)",
-            "sheet  32 3/4 x 29 9/16\" (83.2 x 75.1 cm)": "Publisher",
-            "Aeropress, New York": "Edition",
-            "12": "Credit",
-            "John B. Turner Fund": "Object number",
-            "129.1982": "Department"
+            "Dimensions": "plate  26 1/8 x 23 7/8\" (66.3 x 60.6 cm)\r\nsheet  32 3/4 x 29 9/16\" (83.2 x 75.1 cm)",
+            "Publisher": "Aeropress, New York",
+            "Printer": "Aeropress, New York",
+            "Edition": "12",
+            "Credit": "John B. Turner Fund",
+            "Object number": "129.1982",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/2895"
     },
@@ -437,11 +438,11 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5MDU1NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=aa0dc59d9d953273",
         "Details": {
             "Medium": "Ink and felt-tip pen on four sheets of paper",
-            "Dimensions": "a:  24 3/8 x 18 3/8\" (61.9 x 46.7 cm)",
-            "b-d: 12 x 18\" (30.5 x 45.7 cm)": "Credit",
-            "Gift of Gwen and Peter Norton": "Object number",
-            "1789.2012.a-d": "Copyright",
-            "\u00a9 2023 Mike Kelley": "Department"
+            "Dimensions": "a:  24 3/8 x 18 3/8\" (61.9 x 46.7 cm)\r\nb-d: 12 x 18\" (30.5 x 45.7 cm)",
+            "Credit": "Gift of Gwen and Peter Norton",
+            "Object number": "1789.2012.a-d",
+            "Copyright": "\u00a9 2023 Mike Kelley",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/3045"
     },
@@ -685,10 +686,10 @@
         "Details": {
             "Manufacturer": "Ceramic Japan Co. Ltd., Aichi-ken, Japan",
             "Medium": "Bone china",
-            "Dimensions": ".a (pot): 2 15/16 x 2 3/16\" (7.5 x 5.5 cm)",
-            ".b (lid): 3/8 x 3 1/2\" (1 x 8.9 cm)": "Credit",
-            "Gift of the manufacturer": "Object number",
-            "1305.2001.a-b": "Department"
+            "Dimensions": ".a (pot): 2 15/16 x 2 3/16\" (7.5 x 5.5 cm)\r\n.b (lid): 3/8 x 3 1/2\" (1 x 8.9 cm)",
+            "Credit": "Gift of the manufacturer",
+            "Object number": "1305.2001.a-b",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/3207"
     },

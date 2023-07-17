@@ -595,12 +595,7 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MjkxNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9a6ba1d036c5bffb",
         "Details": {
             "Medium": "Offset lithography",
-            "Dimensions": ".1: 12 x 9\" (30.5 x 22.9 cm)",
-            ".2: 11 x 8 1/2\" (27.9 x 21.6 cm)": ".3: 5 x 7\" (12.7 x 17.8 cm)",
-            ".4: 8 1/2 x 5 1/2\" (21.6 x 14 cm)": ".5: 5 1/2 x 4 1/4\" (14 x 10.8 cm)",
-            ".6: 8 1/2 x 5 1/2\" (21.6 x 14 cm)": ".7: 4 3/8 x 7\" (11.1 x 17.8 cm)",
-            ".8: 4 1/8 x 9 1/2\" (10.5 x 24.1 cm)": ".9: 5 1/2 x 7 1/2\" (14 x 19.1 cm)",
-            ".10: 7 1/4 x 5\" (18.4 x 12.7 cm)": ".11: 5 3/8 x 7 1/4\" (13.7 x 18.4 cm)",
+            "Dimensions": ".1: 12 x 9\" (30.5 x 22.9 cm)\r\n.2: 11 x 8 1/2\" (27.9 x 21.6 cm)\r\n.3: 5 x 7\" (12.7 x 17.8 cm)\r\n.4: 8 1/2 x 5 1/2\" (21.6 x 14 cm)\r\n.5: 5 1/2 x 4 1/4\" (14 x 10.8 cm)\r\n.6: 8 1/2 x 5 1/2\" (21.6 x 14 cm)\r\n.7: 4 3/8 x 7\" (11.1 x 17.8 cm)\r\n.8: 4 1/8 x 9 1/2\" (10.5 x 24.1 cm)\r\n.9: 5 1/2 x 7 1/2\" (14 x 19.1 cm)\r\n.10: 7 1/4 x 5\" (18.4 x 12.7 cm)\r\n.11: 5 3/8 x 7 1/4\" (13.7 x 18.4 cm)",
             "Credit": "Gift of the designers",
             "Object number": "1338.2009.1-11",
             "Department": "Architecture and Design"
@@ -651,10 +646,10 @@
         "Details": {
             "Architectural firm": "Estudio Teddy Cruz + Fonna Forman",
             "Medium": "Plastic, plywood and two-channel video (color, sound)",
-            "Dimensions": "Component (.a House): 10 x 24 x 20\" (25.4 x 61 x 50.8 cm)",
-            "Component (.b Pedestal): 50 x 41 x 41\" (127 x 104.1 x 104.1 cm)": "Credit",
-            "Gift of the PARC Foundation": "Object number",
-            "76.2009.a-d": "Department"
+            "Dimensions": "Component (.a House): 10 x 24 x 20\" (25.4 x 61 x 50.8 cm)\r\nComponent (.b Pedestal): 50 x 41 x 41\" (127 x 104.1 x 104.1 cm)",
+            "Credit": "Gift of the PARC Foundation",
+            "Object number": "76.2009.a-d",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/34147"
     },

@@ -401,13 +401,13 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxOTkwMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=70602303e61791cd",
         "Details": {
             "Medium": "Drypoint",
-            "Dimensions": "plate  21 3/4 x 16 5/8\" (55.3 x 42.3 cm)",
-            "sheet  25 9/16 x 19 11/16\" (65 x 50 cm)": "Publisher",
-            "Sabine Knust": "Printer",
-            "Atelier von Karl Imhof, Munich": "Credit",
-            "John R. Jakobson Foundation Fund": "Object number",
-            "265.1982": "Copyright",
-            "\u00a9 2023 A.R. Penck": "Department"
+            "Dimensions": "plate  21 3/4 x 16 5/8\" (55.3 x 42.3 cm)\r\nsheet  25 9/16 x 19 11/16\" (65 x 50 cm)",
+            "Publisher": "Sabine Knust",
+            "Printer": "Atelier von Karl Imhof, Munich",
+            "Credit": "John R. Jakobson Foundation Fund",
+            "Object number": "265.1982",
+            "Copyright": "\u00a9 2023 A.R. Penck",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/4546"
     },

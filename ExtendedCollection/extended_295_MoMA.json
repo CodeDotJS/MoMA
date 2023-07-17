@@ -549,14 +549,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMzkyMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=73277cf131b1fd0d",
         "Details": {
             "Medium": "Photolithograph",
-            "Dimensions": "composition  17 x 21\" (43.2 x 53.4 cm)",
-            "sheet  20 x 26 15/16\" (50 x 68.4 cm)": "Publisher",
-            "Parkett Publishers, Z\u00fcrich and New York": "Printer",
-            "Link Printing, Sydney": "Edition",
-            "60": "Credit",
-            "Howard Johnson Fund": "Object number",
-            "175.1999": "Copyright",
-            "\u00a9 2023 Tracey Moffatt": "Department"
+            "Dimensions": "composition  17 x 21\" (43.2 x 53.4 cm)\r\nsheet  20 x 26 15/16\" (50 x 68.4 cm)",
+            "Publisher": "Parkett Publishers, Z\u00fcrich and New York",
+            "Printer": "Link Printing, Sydney",
+            "Edition": "60",
+            "Credit": "Howard Johnson Fund",
+            "Object number": "175.1999",
+            "Copyright": "\u00a9 2023 Tracey Moffatt",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/8041"
     },

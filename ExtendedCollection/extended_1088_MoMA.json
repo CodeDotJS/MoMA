@@ -43,10 +43,10 @@
         "Details": {
             "Manufacturer": "Chemex Corp., New York, NY",
             "Medium": "Glass",
-            "Dimensions": ".a (glass): 10 5/8 x 4\" (27 x 10.1 cm)",
-            ".b (stopper): 3 x 3 1/4\" (7.6 x 8.3 cm)": "Credit",
-            "Gift of the manufacturer": "Object number",
-            "1325.2001.a-b": "Department"
+            "Dimensions": ".a (glass): 10 5/8 x 4\" (27 x 10.1 cm)\r\n.b (stopper): 3 x 3 1/4\" (7.6 x 8.3 cm)",
+            "Credit": "Gift of the manufacturer",
+            "Object number": "1325.2001.a-b",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/5225"
     },
@@ -258,14 +258,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0OTQxNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=02ce2afc8ae2bd40",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "composition  24 13/16 x 18 15/16\" (63.1 x 48.1 cm)",
-            "sheet  27 7/8 x 19 15/16\" (70 x 50.7 cm)": "Publisher",
-            "Galerie Berggruen, Paris": "Printer",
-            "Mourlot, Paris": "Edition",
-            "200": "Credit",
-            "Gift of William S. Lieberman": "Object number",
-            "208.1986": "Copyright",
-            "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris": "Department"
+            "Dimensions": "composition  24 13/16 x 18 15/16\" (63.1 x 48.1 cm)\r\nsheet  27 7/8 x 19 15/16\" (70 x 50.7 cm)",
+            "Publisher": "Galerie Berggruen, Paris",
+            "Printer": "Mourlot, Paris",
+            "Edition": "200",
+            "Credit": "Gift of William S. Lieberman",
+            "Object number": "208.1986",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/5538"
     },
@@ -349,10 +349,10 @@
         "Details": {
             "Manufacturer": "Georg Jensen S\u00f8lvsmedie, Copenhagen, Denmark",
             "Medium": "Stainless steel",
-            "Dimensions": ".a (dish): 2 3/4 x 7 1/4\" (7 x 18.4 cm)",
-            ".b (lid): 7 3/16\" (18.2 cm)": "Credit",
-            "Phyllis B. Lambert Fund": "Object number",
-            "234.1958.a-b": "Department"
+            "Dimensions": ".a (dish): 2 3/4 x 7 1/4\" (7 x 18.4 cm)\r\n.b (lid): 7 3/16\" (18.2 cm)",
+            "Credit": "Phyllis B. Lambert Fund",
+            "Object number": "234.1958.a-b",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/5646"
     },
@@ -366,10 +366,10 @@
         "Details": {
             "Manufacturer": "Georg Jensen S\u00f8lvsmedie, Copenhagen, Denmark",
             "Medium": "Stainless steel and palisander wood",
-            "Dimensions": ".a (dish): 17 1/4 x 11 3/8 x 11 3/8\" (43.8 x 28.9 x 28.9 cm)",
-            ".b (lid): 6\" (15.2 cm)": "Credit",
-            "Phyllis B. Lambert Fund": "Object number",
-            "235.1958.a-b": "Department"
+            "Dimensions": ".a (dish): 17 1/4 x 11 3/8 x 11 3/8\" (43.8 x 28.9 x 28.9 cm)\r\n.b (lid): 6\" (15.2 cm)",
+            "Credit": "Phyllis B. Lambert Fund",
+            "Object number": "235.1958.a-b",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/5646"
     },

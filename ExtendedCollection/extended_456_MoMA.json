@@ -287,14 +287,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNjM1NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=805023ed7fe2b5b2",
         "Details": {
             "Medium": "Etching and aquatint",
-            "Dimensions": "plate  6 1/2 x 8 9/16\" (16.5 x 21.7 cm)",
-            "sheet  29 15/16 x 20 15/16\" (76.1 x 53.3 cm)": "Publisher",
-            "Swiss Institute of the Blind": "Printer",
-            "Kupferdruckatelier, Z\u00fcrich": "Edition",
-            "86": "Credit",
-            "Jeanne C. Thayer Fund": "Object number",
-            "160.1987": "Copyright",
-            "\u00a9 2023 Markus Raetz": "Department"
+            "Dimensions": "plate  6 1/2 x 8 9/16\" (16.5 x 21.7 cm)\r\nsheet  29 15/16 x 20 15/16\" (76.1 x 53.3 cm)",
+            "Publisher": "Swiss Institute of the Blind",
+            "Printer": "Kupferdruckatelier, Z\u00fcrich",
+            "Edition": "86",
+            "Credit": "Jeanne C. Thayer Fund",
+            "Object number": "160.1987",
+            "Copyright": "\u00a9 2023 Markus Raetz",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/4787"
     },
@@ -635,11 +635,11 @@
             "Dimensions": "composition (irreg.) and sheet (irreg.): 86 11/16 x 42 1/2\" (220.2 x 108 cm)",
             "Publisher": "Universal Limited Art Editions, West Islip, New York",
             "Printer": "Universal Limited Art Editions, West Islip, New York",
-            "Edition": "40",
-            "IMpression: \"1/40\" lower left comp., pencil, artist's hand": "Credit",
-            "Gift of Emily Fisher Landau": "Object number",
-            "201.1986": "Copyright",
-            "\u00a9 2023 Susan Rothenberg / Artists Rights Society (ARS), New York": "Department"
+            "Edition": "40\r\nIMpression: \"1/40\" lower left comp., pencil, artist's hand",
+            "Credit": "Gift of Emily Fisher Landau",
+            "Object number": "201.1986",
+            "Copyright": "\u00a9 2023 Susan Rothenberg / Artists Rights Society (ARS), New York",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/5044"
     },
@@ -652,13 +652,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEwMTYxMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1a4c4b1ac98af51e",
         "Details": {
             "Medium": "Woodcut",
-            "Dimensions": "composition  39 3/8 x 37 7/8\" (100 x 96.2 cm)",
-            "irreg. sheet  65 1/8 x 43 5/16\" (165 x 110 cm)": "Publisher",
-            "Universal Limited Art Editions, West Islip, New York": "Edition",
-            "37": "Credit",
-            "Gift of Emily Fisher Landau": "Object number",
-            "335.1986": "Copyright",
-            "\u00a9 2023 Susan Rothenberg / Artists Rights Society (ARS), New York": "Department"
+            "Dimensions": "composition  39 3/8 x 37 7/8\" (100 x 96.2 cm)\r\nirreg. sheet  65 1/8 x 43 5/16\" (165 x 110 cm)",
+            "Publisher": "Universal Limited Art Editions, West Islip, New York",
+            "Printer": "Universal Limited Art Editions, West Islip, New York",
+            "Edition": "37",
+            "Credit": "Gift of Emily Fisher Landau",
+            "Object number": "335.1986",
+            "Copyright": "\u00a9 2023 Susan Rothenberg / Artists Rights Society (ARS), New York",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/5044"
     },

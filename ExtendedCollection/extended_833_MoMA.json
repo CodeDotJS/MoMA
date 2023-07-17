@@ -120,12 +120,12 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMDM4NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6143089b02a922b0",
         "Details": {
             "Medium": "Screenprint",
-            "Dimensions": "irreg composition  14 11/16 x 21 7/8\" (37.3 x 55.6 cm)",
-            "sheet  21 15/16 x 30\" (55.8 x 76.3 cm)": "Publisher",
-            "Tibor de Nagy Gallery": "Printer",
-            "Gerald Marks": "Credit",
-            "Ruth Vollmer Bequest": "Object number",
-            "237.1982": "Department"
+            "Dimensions": "irreg composition  14 11/16 x 21 7/8\" (37.3 x 55.6 cm)\r\nsheet  21 15/16 x 30\" (55.8 x 76.3 cm)",
+            "Publisher": "Tibor de Nagy Gallery",
+            "Printer": "Gerald Marks",
+            "Credit": "Ruth Vollmer Bequest",
+            "Object number": "237.1982",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/2242"
     },
@@ -577,14 +577,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMDcxOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a6a40f1dfde48dec",
         "Details": {
             "Medium": "Photolithograph",
-            "Dimensions": "(irreg.) composition  27 3/16 x 18 3/4\" (69 x 47.6 cm)",
-            "sheet  27 11/16 x 19 3/4\" (70 x 50.1 cm)": "Publisher",
-            "ED.912 Edizioni di Cultura Contemporanea": "Printer",
-            "Richard Hamilton, Sergio Tosi Stampatore, Milan": "Edition",
-            "50 signed": "Credit",
-            "John R. Jakobson Foundation Fund": "Object number",
-            "287.1969": "Copyright",
-            "\u00a9 2023 Artists Rights Society (ARS), New York / DACS, London": "Department"
+            "Dimensions": "(irreg.) composition  27 3/16 x 18 3/4\" (69 x 47.6 cm)\r\nsheet  27 11/16 x 19 3/4\" (70 x 50.1 cm)",
+            "Publisher": "ED.912 Edizioni di Cultura Contemporanea",
+            "Printer": "Richard Hamilton, Sergio Tosi Stampatore, Milan",
+            "Edition": "50 signed",
+            "Credit": "John R. Jakobson Foundation Fund",
+            "Object number": "287.1969",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / DACS, London",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/2481"
     },
@@ -657,14 +657,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5NTI0OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=59ea295b6e33eb7c",
         "Details": {
             "Medium": "Laminated offset lithograph and screenprint, with collage and hand additions",
-            "Dimensions": "Composition: 13 7/16 x 10 5/16\" (34.2 x 26.2 cm)",
-            "Sheet: 23 7/16 x 18 1/4\" (59.5 x 46.4 cm)": "Publisher",
-            "Documenta, Kassel, Germany": "Printer",
-            "Kelpra Studio, London, Screenprint": "Edition",
-            "125": "Credit",
-            "Acquired through the generosity of Richard Gerrig and Timothy Peterson": "Object number",
-            "27.2009": "Copyright",
-            "\u00a9 2023 Artists Rights Society (ARS), New York / DACS, London": "Department"
+            "Dimensions": "Composition: 13 7/16 x 10 5/16\" (34.2 x 26.2 cm)\r\nSheet: 23 7/16 x 18 1/4\" (59.5 x 46.4 cm)",
+            "Publisher": "Documenta, Kassel, Germany",
+            "Printer": "Kelpra Studio, London, Screenprint",
+            "Edition": "125",
+            "Credit": "Acquired through the generosity of Richard Gerrig and Timothy Peterson",
+            "Object number": "27.2009",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / DACS, London",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/2481"
     },

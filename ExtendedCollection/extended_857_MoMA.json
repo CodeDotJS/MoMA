@@ -831,8 +831,7 @@
         "Details": {
             "Manufacturer": "AB Gustavsberg Fabriker, Sweden",
             "Medium": "Propen plastic",
-            "Dimensions": ".a: 8 1/4 x 4 1/8\" (20.9 x 10.5 cm)",
-            ".b: 2 1/4 x 4 1/8\" (5.7 x 10.5 cm)": ".c: 1 5/8 x 4 1/8\" (4.1 x 10.5 cm)",
+            "Dimensions": ".a: 8 1/4 x 4 1/8\" (20.9 x 10.5 cm)\r\n.b: 2 1/4 x 4 1/8\" (5.7 x 10.5 cm)\r\n.c: 1 5/8 x 4 1/8\" (4.1 x 10.5 cm)",
             "Credit": "Purchase",
             "Object number": "2219.1967.a-c",
             "Department": "Architecture and Design"
@@ -868,11 +867,11 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MzY4MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7792b56542b373fe",
         "Details": {
             "Medium": "Intaglio from electronic circuit",
-            "Dimensions": "plate  10 9/16 x 17 5/8\" (26.8 x 44.8 cm)",
-            "sheet  14 3/4 x 20 9/16\" (37.4 x 52.2 cm)": "Edition",
-            "Unknown": "Credit",
-            "John B. Turner Fund": "Object number",
-            "1347.1968": "Department"
+            "Dimensions": "plate  10 9/16 x 17 5/8\" (26.8 x 44.8 cm)\r\nsheet  14 3/4 x 20 9/16\" (37.4 x 52.2 cm)",
+            "Edition": "Unknown",
+            "Credit": "John B. Turner Fund",
+            "Object number": "1347.1968",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/794"
     }

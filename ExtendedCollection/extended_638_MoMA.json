@@ -678,14 +678,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5Mzk3NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d65f5086c72e6099",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "composition  20 9/16 x 30 5/16\" (52.2 x 77 cm)",
-            "sheet  30 x 80\" (76.2 x 203.2 cm)": "Publisher",
-            "Parasol Press, Ltd., New York": "Printer",
-            "Landfall Press, Inc., Chicago": "Edition",
-            "50": "Credit",
-            "Given in memory of Beth Lisa Feldman": "Object number",
-            "251.1975": "Copyright",
-            "\u00a9 2023 Chuck Close": "Department"
+            "Dimensions": "composition  20 9/16 x 30 5/16\" (52.2 x 77 cm)\r\nsheet  30 x 80\" (76.2 x 203.2 cm)",
+            "Publisher": "Parasol Press, Ltd., New York",
+            "Printer": "Landfall Press, Inc., Chicago",
+            "Edition": "50",
+            "Credit": "Given in memory of Beth Lisa Feldman",
+            "Object number": "251.1975",
+            "Copyright": "\u00a9 2023 Chuck Close",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/1156"
     },

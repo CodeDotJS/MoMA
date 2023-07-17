@@ -204,8 +204,7 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE0NDA5MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a96c40544069d292",
         "Details": {
             "Medium": "Watercolor on three pieces of paper",
-            "Dimensions": "a: 12 1/8 x 9\" (30.8 x 22.9 cm)",
-            "b: 14 1/8 x 10 1/4\" (35.9 x 26 cm)": "c: 12 1/4 x 9\" (31.1 x 22.9 cm)",
+            "Dimensions": "a: 12 1/8 x 9\" (30.8 x 22.9 cm)\r\nb: 14 1/8 x 10 1/4\" (35.9 x 26 cm)\r\nc: 12 1/4 x 9\" (31.1 x 22.9 cm)",
             "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
             "Object number": "3192.2005.a-c",
             "Copyright": "\u00a9 2023 Billy Sullivan",
@@ -674,10 +673,10 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjkyOTg0Il0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNTEyeDUxMlx1MDAzZSJdXQ.jpg?sha=1c3c6631039c4a6b",
         "Details": {
             "Medium": "Milled acrylic",
-            "Dimensions": ".1: 6 7/8 x 2 x 1 1/2\" (17.5 x 5.1 x 3.8 cm)",
-            ".2: 5 x 2 x 1 1/2\" (12.7 x 5.1 x 3.8 cm)": "Credit",
-            "Gift of the architects": "Object number",
-            "SC506.2004.1-2": "Department"
+            "Dimensions": ".1: 6 7/8 x 2 x 1 1/2\" (17.5 x 5.1 x 3.8 cm)\r\n.2: 5 x 2 x 1 1/2\" (12.7 x 5.1 x 3.8 cm)",
+            "Credit": "Gift of the architects",
+            "Object number": "SC506.2004.1-2",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/26398"
     },
@@ -771,11 +770,11 @@
         "Details": {
             "Manufacturer": "Moroso S.p.A.",
             "Medium": "Armchair: Steel, polyurethane foam and felt. Foot Stool: Polyurethane foam, leather and felt",
-            "Dimensions": "armchair .1: 40 3/16 x 37 3/8 x 31 1/2\" (102 x 95 x 80 cm)",
-            "foot stool .2: 13 3/4 x 31 1/2 x 23 5/8\" (35 x 80 x 60 cm)": "Credit",
-            "Gift of the manufacturer": "Object number",
-            "186.2006.1-2": "Copyright",
-            "\u00a9 2023 Patricia Urquiola": "Department"
+            "Dimensions": "armchair .1: 40 3/16 x 37 3/8 x 31 1/2\" (102 x 95 x 80 cm)\r\nfoot stool .2: 13 3/4 x 31 1/2 x 23 5/8\" (35 x 80 x 60 cm)",
+            "Credit": "Gift of the manufacturer",
+            "Object number": "186.2006.1-2",
+            "Copyright": "\u00a9 2023 Patricia Urquiola",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/29640"
     },

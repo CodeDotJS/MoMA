@@ -155,8 +155,7 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyOTkwNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=462db3509603ed87",
         "Details": {
             "Medium": "Bronze 16 x 8 1/4 x 12\" (40.5 x 21 x 30.4 cm), on a two-part pedestal of limestone 9 1/4\" (23.5 cm) high, and oak 23 3/4\" (60.3 cm) high (carved by the artist)",
-            "Dimensions": "16 \u00d7 8 1/4 \u00d7 12\" (40.6 \u00d7 21 \u00d7 30.5 cm)",
-            "Other (stone): 9 1/4\" (23.5 cm)": "Pedestal (overall): 36 \u00d7 13 1/2 \u00d7 14\" (91.4 \u00d7 34.3 \u00d7 35.6 cm)",
+            "Dimensions": "16 \u00d7 8 1/4 \u00d7 12\" (40.6 \u00d7 21 \u00d7 30.5 cm)\r\nOther (stone): 9 1/4\" (23.5 cm)\r\nPedestal (overall): 36 \u00d7 13 1/2 \u00d7 14\" (91.4 \u00d7 34.3 \u00d7 35.6 cm)",
             "Credit": "Gift of Mr. and Mrs. William A. M. Burden",
             "Object number": "498.1964",
             "Copyright": "\u00a9 Succession Brancusi - All rights reserved (ARS) 2018",
@@ -800,12 +799,11 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ1NTIyMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8a2490508fd8c08e",
         "Details": {
             "Medium": "Letterpress",
-            "Dimensions": ".a (envelope): 5 1/4 \u00d7 7 3/4\" (13.3 \u00d7 19.7 cm)",
-            ".b (certificate): 7 \u00d7 4 7/8\" (17.8 \u00d7 12.4 cm)": ".c (report card): 5 3/4 \u00d7 4\" (14.6 \u00d7 10.2 cm)",
-            ".d (report card): 5 3/4 \u00d7 4\" (14.6 \u00d7 10.2 cm)": "Credit",
-            "The Merrill C. Berman Collection. Riva Castleman Endowment": "Object number",
-            "558.2018.a-d": "Associated work",
-            "The Merrill C. Berman Collection at MoMA": "Department"
+            "Dimensions": ".a (envelope): 5 1/4 \u00d7 7 3/4\" (13.3 \u00d7 19.7 cm)\r\n.b (certificate): 7 \u00d7 4 7/8\" (17.8 \u00d7 12.4 cm)\r\n.c (report card): 5 3/4 \u00d7 4\" (14.6 \u00d7 10.2 cm)\r\n.d (report card): 5 3/4 \u00d7 4\" (14.6 \u00d7 10.2 cm)",
+            "Credit": "The Merrill C. Berman Collection. Riva Castleman Endowment",
+            "Object number": "558.2018.a-d",
+            "Associated work": "The Merrill C. Berman Collection at MoMA",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/67665"
     }

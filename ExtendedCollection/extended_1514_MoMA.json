@@ -805,10 +805,10 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxODMwMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f5fc09c3d655c2e4",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "composition  16 5/16 x 12 9/16\" (41.4 x 31.9 cm)",
-            "sheet  19 9/16 x 14 3/4\" (49 x 37.5 cm)": "Credit",
-            "John B. Turner Fund": "Object number",
-            "140.1975": "Department"
+            "Dimensions": "composition  16 5/16 x 12 9/16\" (41.4 x 31.9 cm)\r\nsheet  19 9/16 x 14 3/4\" (49 x 37.5 cm)",
+            "Credit": "John B. Turner Fund",
+            "Object number": "140.1975",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/3848"
     },

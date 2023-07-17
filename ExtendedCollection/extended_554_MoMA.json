@@ -127,12 +127,12 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1MjAxNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=94639f0a59180612",
         "Details": {
             "Medium": "Etching with hand additions",
-            "Dimensions": "Composition (irreg.): 22 15/16 x 37 7/8\" (58.3 x 96.2 cm)",
-            "Sheet: 23 3/4 x 39 1/16\" (60.3 x 99.2 cm)": "Edition",
-            "unknown": "Credit",
-            "Gift of the artist": "Object number",
-            "1039.1979": "Copyright",
-            "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris": "Department"
+            "Dimensions": "Composition (irreg.): 22 15/16 x 37 7/8\" (58.3 x 96.2 cm)\r\nSheet: 23 3/4 x 39 1/16\" (60.3 x 99.2 cm)",
+            "Edition": "unknown",
+            "Credit": "Gift of the artist",
+            "Object number": "1039.1979",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/107"
     },
@@ -230,13 +230,13 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMjUxMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=19c6001527c3493e",
         "Details": {
             "Medium": "Drypoint, mezzotint, engraving and brushed cooper plate",
-            "Dimensions": "plate  19 5/8 x 19 1/2\" (49.8 x 49.6 cm)",
-            "sheet  31 5/16 x 25 3/8\" (79 x 64.4 cm)": "Publisher",
-            "Ji\u00fei Anderle": "Printer",
-            "Pavel Drimal": "Edition",
-            "70": "Credit",
-            "Gift of Anne and Jacques Baruch": "Object number",
-            "141.1981": "Department"
+            "Dimensions": "plate  19 5/8 x 19 1/2\" (49.8 x 49.6 cm)\r\nsheet  31 5/16 x 25 3/8\" (79 x 64.4 cm)",
+            "Publisher": "Ji\u00fei Anderle",
+            "Printer": "Pavel Drimal",
+            "Edition": "70",
+            "Credit": "Gift of Anne and Jacques Baruch",
+            "Object number": "141.1981",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/158"
     },
@@ -357,10 +357,11 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyMTc4NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ccd66f255f74c044",
         "Details": {
             "Medium": "Eighty 35mm black and white and color slides (continuous loop) and Kodak carousel slide projector",
-            "Dimensions": "Credit",
-            "Art & Project/Depot VBVR Gift": "Object number",
-            "441.2007": "Copyright",
-            "\u00a9 2023 Robert Barry": "Department"
+            "Dimensions": "",
+            "Credit": "Art & Project/Depot VBVR Gift",
+            "Object number": "441.2007",
+            "Copyright": "\u00a9 2023 Robert Barry",
+            "Department": "Media and Performance"
         },
         "Profile": "https://www.moma.org/artists/352"
     },

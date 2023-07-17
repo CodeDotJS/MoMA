@@ -209,12 +209,12 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5NTgxNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8ee12d45fecd2390",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "irreg. composition  13 3/4 x 9 15/16\" (35 x 25.3 cm)",
-            "sheet  15 7/8 x 11 15/16\" (40 x 30.4 cm)": "Printer",
-            "George C. Miller": "Edition",
-            "60": "Credit",
-            "Purchase": "Object number",
-            "330.1988": "Department"
+            "Dimensions": "irreg. composition  13 3/4 x 9 15/16\" (35 x 25.3 cm)\r\nsheet  15 7/8 x 11 15/16\" (40 x 30.4 cm)",
+            "Printer": "George C. Miller",
+            "Edition": "60",
+            "Credit": "Purchase",
+            "Object number": "330.1988",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/870"
     },

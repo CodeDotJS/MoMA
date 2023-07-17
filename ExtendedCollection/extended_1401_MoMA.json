@@ -573,12 +573,12 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQzNjg0NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0da0fcc59e87b892",
         "Details": {
             "Medium": "Letterpress",
-            "Dimensions": "Folded: 8 1/4 x 6 5/8\" (21 x 16.8 cm)",
-            "unfolded: 8 1/4 x 15 5/8\" (21 x 39.7 cm)": "Printer",
-            "Dorland, Berlin": "Credit",
-            "Jan Tschichold Collection, Gift of Philip Johnson": "Object number",
-            "542.1999": "Copyright",
-            "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn": "Department"
+            "Dimensions": "Folded: 8 1/4 x 6 5/8\" (21 x 16.8 cm)\r\nunfolded: 8 1/4 x 15 5/8\" (21 x 39.7 cm)",
+            "Printer": "Dorland, Berlin",
+            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
+            "Object number": "542.1999",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/399"
     },

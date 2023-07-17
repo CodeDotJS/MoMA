@@ -760,14 +760,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMzczMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5aba3374ec63e6e0",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "irreg composition  30 1/8 x 22 1/16\" (76.5 x 56 cm)",
-            "sheet  32 3/4 x 23 1/4\" (83 x 59 cm)": "Publisher",
-            "Pierre Alechinsky": "Printer",
-            "Imprimerie Clot, Bramsen et Georges, Paris": "Edition",
-            "120; plus XII e.a": "Credit",
-            "Gift of the artist": "Object number",
-            "591.1978": "Copyright",
-            "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris": "Department"
+            "Dimensions": "irreg composition  30 1/8 x 22 1/16\" (76.5 x 56 cm)\r\nsheet  32 3/4 x 23 1/4\" (83 x 59 cm)",
+            "Publisher": "Pierre Alechinsky",
+            "Printer": "Imprimerie Clot, Bramsen et Georges, Paris",
+            "Edition": "120; plus XII e.a",
+            "Credit": "Gift of the artist",
+            "Object number": "591.1978",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/107"
     },

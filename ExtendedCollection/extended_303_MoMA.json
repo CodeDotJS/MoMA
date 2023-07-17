@@ -254,10 +254,10 @@
         "Details": {
             "Manufacturer": "Alessi S.p.A., Italy",
             "Medium": "Stainless steel",
-            "Dimensions": ".1a (ashtray): 1 13/16 x 4 7/8\" (4.6 x 12.4 cm)",
-            ".2 (ashtray): 2 3/4 x 6\" (7 x 15.2 cm)": "Credit",
-            "Gift of the manufacturer": "Object number",
-            "16.1997.1-2": "Department"
+            "Dimensions": ".1a (ashtray): 1 13/16 x 4 7/8\" (4.6 x 12.4 cm)\r\n.2 (ashtray): 2 3/4 x 6\" (7 x 15.2 cm)",
+            "Credit": "Gift of the manufacturer",
+            "Object number": "16.1997.1-2",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/1028"
     },
@@ -356,11 +356,11 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMyNzk1MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8e51e8427b1023e7",
         "Details": {
             "Medium": "a: Cut-and-pasted gelatin silver print with crayon on board; b: Cut-and-pasted fabric with crayon, colored pencil, and pencil on board",
-            "Dimensions": "a: 12 1/8 x 30 1/2\" (30.8 x 77.5 cm)",
-            "b: 26 1/4 x 30 1/2\" (66.7 x 77.5 cm)": "Credit",
-            "The Judith Rothschild Foundation Contemporary Drawings Collection Gift": "Object number",
-            "1424.2005.a-b": "Copyright",
-            "\u00a9 2023 Christo": "Department"
+            "Dimensions": "a: 12 1/8 x 30 1/2\" (30.8 x 77.5 cm)\r\nb: 26 1/4 x 30 1/2\" (66.7 x 77.5 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "1424.2005.a-b",
+            "Copyright": "\u00a9 2023 Christo",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/1114"
     },
@@ -456,11 +456,11 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEwNjU3NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=92f488ca8768feb8",
         "Details": {
             "Medium": "Ballpoint pen on paper in bound book",
-            "Dimensions": "(closed): 62 x 31 1/2 x 2\" (157.5 x 80 x 5.1 cm)",
-            "(open): 62 x 117\" (157.5 x 297.2 cm)": "Credit",
-            "Acquired through the generosity of The Junior Associates of The Museum of Modern Art": "Object number",
-            "1351.2001.a-t": "Copyright",
-            "\u00a9 2023 Russell Crotty": "Department"
+            "Dimensions": "(closed): 62 x 31 1/2 x 2\" (157.5 x 80 x 5.1 cm)\r\n (open): 62 x 117\" (157.5 x 297.2 cm)",
+            "Credit": "Acquired through the generosity of The Junior Associates of The Museum of Modern Art",
+            "Object number": "1351.2001.a-t",
+            "Copyright": "\u00a9 2023 Russell Crotty",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/8442"
     },
@@ -815,12 +815,13 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyNzc1OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=72f2c84a379f0f40",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "composition  13 1/2 x 20 9/16\" (34.3 x 52.2 cm)",
-            "sheet  21 1/4 x 26 7/8\" (54 x 68.2 cm)": "Publisher",
-            "Universal Limited Art Editions, West Islip, New York": "Credit",
-            "Gift of Emily Fisher Landau": "Object number",
-            "80.1997": "Copyright",
-            "\u00a9 2023 Carroll Dunham": "Department"
+            "Dimensions": "composition  13 1/2 x 20 9/16\" (34.3 x 52.2 cm)\r\nsheet  21 1/4 x 26 7/8\" (54 x 68.2 cm)",
+            "Publisher": "Universal Limited Art Editions, West Islip, New York",
+            "Printer": "Universal Limited Art Editions, West Islip, New York",
+            "Credit": "Gift of Emily Fisher Landau",
+            "Object number": "80.1997",
+            "Copyright": "\u00a9 2023 Carroll Dunham",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/1652"
     },

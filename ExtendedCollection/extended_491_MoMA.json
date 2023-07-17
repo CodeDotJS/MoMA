@@ -181,13 +181,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ3NzQ2OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2d569f55444f21a5",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "Composition: 50 1/4 x 38 1/8\" (127.6 x 96.8 cm)",
-            "Sheet: 50 1/4 x 38 1/8\" (127.6 x 96.8 cm)": "Publisher",
-            "Universal Limited Art Editions, West Islip, New York": "Edition",
-            "50": "Credit",
-            "Gift of Celeste Bartos": "Object number",
-            "611.1983": "Copyright",
-            "\u00a9 2023 Jim Dine / Artists Rights Society (ARS), New York": "Department"
+            "Dimensions": "Composition: 50 1/4 x 38 1/8\" (127.6 x 96.8 cm)\r\nSheet: 50 1/4 x 38 1/8\" (127.6 x 96.8 cm)",
+            "Publisher": "Universal Limited Art Editions, West Islip, New York",
+            "Printer": "Universal Limited Art Editions, West Islip, New York",
+            "Edition": "50",
+            "Credit": "Gift of Celeste Bartos",
+            "Object number": "611.1983",
+            "Copyright": "\u00a9 2023 Jim Dine / Artists Rights Society (ARS), New York",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/1547"
     },
@@ -644,10 +645,10 @@
         "Details": {
             "Manufacturer": "Progetti, Italy",
             "Medium": "Frosted hand-blown glass",
-            "Dimensions": ".1 (tumbler): 4 x 3 1/4\" (10.2 x 8.3 cm)",
-            ".2 (water glass): 3 x 2\" (7.6 x 5.1 cm)": "Credit",
-            "Gift of the manufacturer": "Object number",
-            "359.1985.1-2": "Department"
+            "Dimensions": ".1 (tumbler): 4 x 3 1/4\" (10.2 x 8.3 cm)\r\n.2 (water glass): 3 x 2\" (7.6 x 5.1 cm)",
+            "Credit": "Gift of the manufacturer",
+            "Object number": "359.1985.1-2",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/1978"
     },

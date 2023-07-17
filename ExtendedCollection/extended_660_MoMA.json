@@ -280,8 +280,7 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyMTQwMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=be36572e367af2a5",
         "Details": {
             "Medium": "Portfolio of six lithographs",
-            "Dimensions": "sheet  25 9/16 x 19 11/16\" (65 x 50 cm)",
-            "page  26 7/8 x 20 9/16\" (68 x 52.2 cm)": "Prints: various dimensions.",
+            "Dimensions": "sheet  25 9/16 x 19 11/16\" (65 x 50 cm)\r\npage  26 7/8 x 20 9/16\" (68 x 52.2 cm)\r\nPrints: various dimensions.",
             "Publisher": "George Weidenfeld & Nicolson, London, Marlborough Graphics Ltd., London",
             "Printer": "J.E. Wolfensberger, Zurich",
             "Edition": "160 (including a deluxe portfolio edition of 10 numbered I-X, all plates signed by the artist and the sitter, and a regular portfolio edition of 150 numbered 1-150, all plates signed by the artist [this ex.]); plus 20 A.P. of the single lithographs numbered A-T and several h.c. reserved for the collaborators",
@@ -475,11 +474,11 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMzY0OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a5cc7b5e618e6607",
         "Details": {
             "Medium": "Screenprint",
-            "Dimensions": "composition  21 7/8 x 7 3/16\" (55.6 x 18.2 cm)",
-            "sheet  27 3/4 x 21 1/16\" (70.5 x 53.5 cm)": "Edition",
-            "50": "Credit",
-            "Gift of the artist": "Object number",
-            "5.1974": "Department"
+            "Dimensions": "composition  21 7/8 x 7 3/16\" (55.6 x 18.2 cm)\r\nsheet  27 3/4 x 21 1/16\" (70.5 x 53.5 cm)",
+            "Edition": "50",
+            "Credit": "Gift of the artist",
+            "Object number": "5.1974",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/3401"
     },

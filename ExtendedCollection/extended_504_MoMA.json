@@ -322,10 +322,10 @@
         "Details": {
             "Manufacturer": "Industrie Formenti Italia, Milan",
             "Medium": "Plastic casing",
-            "Dimensions": ".a (upright): 14 3/4 x 16 15/16 x 17 1/4\" (37.5 x 43 x 43.8 cm)",
-            ".b (remote): 1 x 2 3/4 x 4 3/4\" (2.5 x 7 x 12 cm)": "Credit",
-            "Gift of the manufacturer": "Object number",
-            "441.1983.a-b": "Department"
+            "Dimensions": ".a (upright): 14 3/4 x 16 15/16 x 17 1/4\" (37.5 x 43 x 43.8 cm)\r\n.b (remote): 1 x 2 3/4 x 4 3/4\" (2.5 x 7 x 12 cm)",
+            "Credit": "Gift of the manufacturer",
+            "Object number": "441.1983.a-b",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/1049"
     },
@@ -375,12 +375,12 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNDk0NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a4aa761b6ee1c0da",
         "Details": {
             "Medium": "Drypoint and photogravure with chine coll\u00e9",
-            "Dimensions": "Composition: 29 11/16 x 22 3/4\" (75.4 x 57.8 cm)",
-            "Sheet: 29 1/2 x 22 3/4\" (75 x 57.8 cm)": "Publisher",
-            "Edition Schellmann & Kl\u00fcser, Munich": "Credit",
-            "Gift of Elinor and Edmund Grasheim": "Object number",
-            "610.1983": "Copyright",
-            "\u00a9 2023 Sandro Chia": "Department"
+            "Dimensions": "Composition: 29 11/16 x 22 3/4\" (75.4 x 57.8 cm)\r\nSheet: 29 1/2 x 22 3/4\" (75 x 57.8 cm)",
+            "Publisher": "Edition Schellmann & Kl\u00fcser, Munich",
+            "Credit": "Gift of Elinor and Edmund Grasheim",
+            "Object number": "610.1983",
+            "Copyright": "\u00a9 2023 Sandro Chia",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/1097"
     },
@@ -810,13 +810,13 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2Mjc5MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=829b6838fc0665af",
         "Details": {
             "Medium": "Woodcut",
-            "Dimensions": "irreg. composition  9 13/16 x 8 1/4\" (24.9 x 21 cm)",
-            "sheet  11 13/16 x 9 1/16\" (30 x 23 cm)": "Printer",
-            "Felix Droese": "Edition",
-            "Unique": "Credit",
-            "Miles O. Epstein Fund": "Object number",
-            "347.1987": "Copyright",
-            "\u00a9 2023 Felix Droese / Artists Rights Society (ARS), New York / VG Bild-Kunst, Germany": "Department"
+            "Dimensions": "irreg. composition  9 13/16 x 8 1/4\" (24.9 x 21 cm)\r\nsheet  11 13/16 x 9 1/16\" (30 x 23 cm)",
+            "Printer": "Felix Droese",
+            "Edition": "Unique",
+            "Credit": "Miles O. Epstein Fund",
+            "Object number": "347.1987",
+            "Copyright": "\u00a9 2023 Felix Droese / Artists Rights Society (ARS), New York / VG Bild-Kunst, Germany",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/1620"
     },

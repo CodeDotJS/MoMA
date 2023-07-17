@@ -365,13 +365,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0OTQ5NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a5941e608275cdf5",
         "Details": {
             "Medium": "Etching",
-            "Dimensions": "plate  12 x 17 1/16\" (30.5 x 43.3 cm)",
-            "sheet  21 1/2 x 25\" (54 x 63.5 cm)": "Publisher",
-            "Gemini G.E.L., Los Angeles": "Edition",
-            "50; 3 GEL": "Credit",
-            "Purchase": "Object number",
-            "415.1987": "Copyright",
-            "\u00a9 2023 The Saul Steinberg Foundation / Artists Rights Society (ARS), New York": "Department"
+            "Dimensions": "plate  12 x 17 1/16\" (30.5 x 43.3 cm)\r\nsheet  21 1/2 x 25\" (54 x 63.5 cm)",
+            "Publisher": "Gemini G.E.L., Los Angeles",
+            "Printer": "Gemini G.E.L., Los Angeles",
+            "Edition": "50; 3 GEL",
+            "Credit": "Purchase",
+            "Object number": "415.1987",
+            "Copyright": "\u00a9 2023 The Saul Steinberg Foundation / Artists Rights Society (ARS), New York",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/5627"
     },

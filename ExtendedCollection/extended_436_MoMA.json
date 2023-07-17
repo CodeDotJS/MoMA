@@ -41,13 +41,13 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNDkyNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fe9362bacb73ecb9",
         "Details": {
             "Medium": "Lithograph with collage additions",
-            "Dimensions": "composition  23 1/8 x 17 7/8\" (58.8 x 45.4 cm)",
-            "sheet  23 1/8 x 17 7/8\" (58 x 45.4 cm)": "Publisher",
-            "Art Issue Editions, Inc., New York": "Edition",
-            "84, plus ?? trial proofs": "Credit",
-            "John B. Turner Fund": "Object number",
-            "162.1988": "Copyright",
-            "\u00a9 2023 Vito Acconci": "Department"
+            "Dimensions": "composition  23 1/8 x 17 7/8\" (58.8 x 45.4 cm)\r\nsheet  23 1/8 x 17 7/8\" (58 x 45.4 cm)",
+            "Publisher": "Art Issue Editions, Inc., New York",
+            "Edition": "84, plus ?? trial proofs",
+            "Credit": "John B. Turner Fund",
+            "Object number": "162.1988",
+            "Copyright": "\u00a9 2023 Vito Acconci",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/53"
     },
@@ -216,8 +216,7 @@
         "Details": {
             "Manufacturer": "Apple, Inc.",
             "Medium": "Plastic, glass and electronics",
-            "Dimensions": ".a: 13 1/2 x 9 3/4 x 10 3/4\" (34.3 x 24.8 x 27.3 cm)",
-            ".b: 2 1/4 x 15 1/2 x 5 1/2\" (5.7 x 39.4 x 14 cm)": ".c: 1 1/2 x 3 3/4 x 2 1/2\" (3.8 x 9.5 x 6.4 cm)",
+            "Dimensions": ".a: 13 1/2 x 9 3/4 x 10 3/4\" (34.3 x 24.8 x 27.3 cm)\r\n.b: 2 1/4 x 15 1/2 x 5 1/2\" (5.7 x 39.4 x 14 cm)\r\n.c: 1 1/2 x 3 3/4 x 2 1/2\" (3.8 x 9.5 x 6.4 cm)",
             "Credit": "Gift of the designer and manufacturer",
             "Object number": "395.1994.a-c",
             "Department": "Architecture and Design"
@@ -289,12 +288,13 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMjUxNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=784f2ecdd686c26a",
         "Details": {
             "Medium": "Screenprint",
-            "Dimensions": "composition  33 3/8 x 23\" (84.8 x 58.5 cm)",
-            "sheet  34 15/16 x 23 1/16\" (88 x 58.6 cm)": "Publisher",
-            "Luis Cruz Azaceta": "Edition",
-            "100": "Credit",
-            "Purchase": "Object number",
-            "165.1988": "Department"
+            "Dimensions": "composition  33 3/8 x 23\" (84.8 x 58.5 cm)\r\nsheet  34 15/16 x 23 1/16\" (88 x 58.6 cm)",
+            "Publisher": "Luis Cruz Azaceta",
+            "Printer": "Luis Cruz Azaceta",
+            "Edition": "100",
+            "Credit": "Purchase",
+            "Object number": "165.1988",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/259"
     },

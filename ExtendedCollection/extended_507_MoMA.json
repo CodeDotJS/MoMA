@@ -276,14 +276,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMDY4NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=449b3875f16e648f",
         "Details": {
             "Medium": "Etching, soft ground etching, lift ground aquatint and engraving",
-            "Dimensions": "plate  20 7/8 x 17 1/4\" (53 x 43.8 cm)",
-            "sheet  29 7/8 x 22 3/16\" (75 x 56.3 cm)": "Publisher",
-            "Waddington Graphics, London": "Printer",
-            "Atelier Crommelynck, Paris": "Edition",
-            "120": "Credit",
-            "Riva Castleman Fund": "Object number",
-            "104.1991": "Copyright",
-            "\u00a9 2023 Artists Rights Society (ARS), New York / DACS, London": "Department"
+            "Dimensions": "plate  20 7/8 x 17 1/4\" (53 x 43.8 cm)\r\nsheet  29 7/8 x 22 3/16\" (75 x 56.3 cm)",
+            "Publisher": "Waddington Graphics, London",
+            "Printer": "Atelier Crommelynck, Paris",
+            "Edition": "120",
+            "Credit": "Riva Castleman Fund",
+            "Object number": "104.1991",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / DACS, London",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/2481"
     },
@@ -524,10 +524,10 @@
         "Details": {
             "Manufacturer": "World Pictures, Copenhagen",
             "Medium": "Beechwood",
-            "Dimensions": ".1 (coat hanger): 8 11/16 x 16 1/8 x 1 3/16\" (22 x 41 x 3 cm)",
-            ".2 (support, wall buttons): 2 3/4 x 3 1/8\" (7 x 7.9 cm)": "Credit",
-            "Gift of the manufacturer": "Object number",
-            "731.1983.1-2": "Department"
+            "Dimensions": ".1 (coat hanger): 8 11/16 x 16 1/8 x 1 3/16\" (22 x 41 x 3 cm)\r\n.2 (support, wall buttons): 2 3/4 x 3 1/8\" (7 x 7.9 cm)",
+            "Credit": "Gift of the manufacturer",
+            "Object number": "731.1983.1-2",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/7221"
     },
@@ -592,8 +592,7 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3MzMzMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3f0614dfe3549755",
         "Details": {
             "Medium": "Ink on two sheets of paper",
-            "Dimensions": "Sheet: 72 x 671 1/2\" (182.9 x 1705.6cm)",
-            "Part (panel a): 72 x 360 3/4\" (182.9 x 916.3 cm)": "Part (panel b): 72 x 310 1/4\" (182.9 x 788 cm)",
+            "Dimensions": "Sheet: 72 x 671 1/2\" (182.9 x 1705.6cm)\r\nPart (panel a): 72 x 360 3/4\" (182.9 x 916.3 cm)\r\nPart (panel b): 72 x 310 1/4\" (182.9 x 788 cm)",
             "Credit": "Gift of the Estate of Keith Haring, Inc.",
             "Object number": "495.1992.a-b",
             "Copyright": "\u00a9 2023 The Keith Haring Foundation",
@@ -662,11 +661,7 @@
         "Details": {
             "Manufacturer": "AB Bahco Verktyg, Enkoping, Sweden",
             "Medium": "Cellulosa acetate and nickle-plated steel",
-            "Dimensions": ".1: 14 5/16 x 1 3/8\" (36.4 x 3.5 cm)",
-            ".2: 13 7/8 x 1 3/8\" (35.2 x 3.5 cm)": ".3: 13 1/4 x 1 3/8\" (33.7 x 3.5 cm)",
-            ".4: 13 5/8 x 1 3/8\" (34.6 x 3.5 cm)": ".5: 10 3/8 x 1 3/8\" (26.4 x 3.5 cm)",
-            ".6: 9 7/8 x 1 3/8\" (25.1 x 3.5 cm)": ".7: 8 1/2 x 1 1/16\" (21.6 x 2.7 cm)",
-            ".8: 8 1/4 x 7/8\" (21 x 2.2 cm)": ".9: 5 7/8 x 5/8\" (15 x 1.6 cm)",
+            "Dimensions": ".1: 14 5/16 x 1 3/8\" (36.4 x 3.5 cm)\r\n.2: 13 7/8 x 1 3/8\" (35.2 x 3.5 cm)\r\n.3: 13 1/4 x 1 3/8\" (33.7 x 3.5 cm)\r\n.4: 13 5/8 x 1 3/8\" (34.6 x 3.5 cm)\r\n.5: 10 3/8 x 1 3/8\" (26.4 x 3.5 cm)\r\n.6: 9 7/8 x 1 3/8\" (25.1 x 3.5 cm)\r\n.7: 8 1/2 x 1 1/16\" (21.6 x 2.7 cm)\r\n.8: 8 1/4 x 7/8\" (21 x 2.2 cm)\r\n.9: 5 7/8 x 5/8\" (15 x 1.6 cm)",
             "Credit": "Gift of the manufacturer",
             "Object number": "733.1983.1-9",
             "Department": "Architecture and Design"

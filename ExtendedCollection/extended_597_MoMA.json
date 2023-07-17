@@ -151,12 +151,12 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2ODA0NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=444b9e26995e1bf4",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "irreg composition  22 x 30 1/16\" (55.9 x 76.4 cm)",
-            "sheet  22 7/16 x 30 1/16\" (57 x 76.4 cm)": "Printer",
-            "Shorewood Atelier, Inc., New York": "Edition",
-            "Unknown. This is one of five artist's proofs": "Credit",
-            "Gift of Dr. Samuel Mandel": "Object number",
-            "519.1984": "Department"
+            "Dimensions": "irreg composition  22 x 30 1/16\" (55.9 x 76.4 cm)\r\nsheet  22 7/16 x 30 1/16\" (57 x 76.4 cm)",
+            "Printer": "Shorewood Atelier, Inc., New York",
+            "Edition": "Unknown. This is one of five artist's proofs",
+            "Credit": "Gift of Dr. Samuel Mandel",
+            "Object number": "519.1984",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/1972"
     },
@@ -169,12 +169,12 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2ODA0NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=43f4a2cd12fd1069",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "composition  22 9/16 x 30 1/8\" (57.4 x 76.6 cm)",
-            "sheet  22 9/16 x 30 1/8\" (57.4 x 76.6 cm)": "Printer",
-            "Shorewood Atelier, Inc., New York": "Edition",
-            "Unknown": "Credit",
-            "Gift of Dr. Samuel Mandel": "Object number",
-            "520.1984": "Department"
+            "Dimensions": "composition  22 9/16 x 30 1/8\" (57.4 x 76.6 cm)\r\nsheet  22 9/16 x 30 1/8\" (57.4 x 76.6 cm)",
+            "Printer": "Shorewood Atelier, Inc., New York",
+            "Edition": "Unknown",
+            "Credit": "Gift of Dr. Samuel Mandel",
+            "Object number": "520.1984",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/1972"
     },
@@ -238,14 +238,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNDA5MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=55aefb0affe63467",
         "Details": {
             "Medium": "Portfolio of 19 screenprints",
-            "Dimensions": "page  16 3/16 x 23 11/16\" (41 x 60.1 cm)",
-            "Prints:  various dimensions.": "Publisher",
-            "Peter Freudenthal, Stockholm": "Printer",
-            "Screen Print Production AB, Johanneshov, Sweden": "Edition",
-            "68 (numbered 1/68-68/68)": "Credit",
-            "Gift of Robley Gallery": "Object number",
-            "404.1978.1-19": "Copyright",
-            "\u00a9 2023 Peter Freudenthal / Artists Rights Society (ARS), New York / BUS, Sweden": "Department"
+            "Dimensions": "page  16 3/16 x 23 11/16\" (41 x 60.1 cm)\r\nPrints:  various dimensions.",
+            "Publisher": "Peter Freudenthal, Stockholm",
+            "Printer": "Screen Print Production AB, Johanneshov, Sweden",
+            "Edition": "68 (numbered 1/68-68/68)",
+            "Credit": "Gift of Robley Gallery",
+            "Object number": "404.1978.1-19",
+            "Copyright": "\u00a9 2023 Peter Freudenthal / Artists Rights Society (ARS), New York / BUS, Sweden",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/1995"
     },

@@ -381,11 +381,11 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4NTQ1NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=428fd9d849ccf800",
         "Details": {
             "Medium": "C-print from Illustrator, Acrobat, and Processing software",
-            "Dimensions": ".1: 24 x 24\" (61 x 61 cm)",
-            ".2: 24 x 24\" (61 x 61 cm)": "Credit",
-            "Gift of Pentagram": "Object number",
-            "SC534.2008.1-2": "Copyright",
-            "\u00a9 2023 Lisa Strausfeld, James Nick Sears, and Pentagram": "Department"
+            "Dimensions": ".1: 24 x 24\" (61 x 61 cm)\r\n.2: 24 x 24\" (61 x 61 cm)",
+            "Credit": "Gift of Pentagram",
+            "Object number": "SC534.2008.1-2",
+            "Copyright": "\u00a9 2023 Lisa Strausfeld, James Nick Sears, and Pentagram",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/33143"
     },

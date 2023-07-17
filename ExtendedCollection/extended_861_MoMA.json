@@ -244,12 +244,12 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNjEzNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e2739a4a0e186cef",
         "Details": {
             "Medium": "Aquatint",
-            "Dimensions": "plate  13 13/16 x 13 11/16\" (35.1 x 34.8 cm)",
-            "sheet  24 1/16 x 19 15/16\" (61.1 x 50.7 cm)": "Publisher",
-            "New York Graphic Workshop, New York": "Printer",
-            "Wojciech Fangor": "Credit",
-            "John S. Newberry Fund": "Object number",
-            "1354.1968": "Department"
+            "Dimensions": "plate  13 13/16 x 13 11/16\" (35.1 x 34.8 cm)\r\nsheet  24 1/16 x 19 15/16\" (61.1 x 50.7 cm)",
+            "Publisher": "New York Graphic Workshop, New York",
+            "Printer": "Wojciech Fangor",
+            "Credit": "John S. Newberry Fund",
+            "Object number": "1354.1968",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/1799"
     },
@@ -712,13 +712,13 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwOTAwMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6f825aac6811fd1c",
         "Details": {
             "Author": "Frank O'Hara",
-            "Medium": ".a: Pencil on acetate",
-            ".b: Ink on acetate": "Dimensions",
-            "sheet (each): 14 x 11\" (35.5 x 27.9 cm)": "Credit",
-            "Gift of the artist": "Object number",
-            "2202.1967.15.a-b": "Copyright",
-            "\u00a9 2023 Helen Frankenthaler / Artists Rights Society (ARS), New York": "Portfolio",
-            "Preparatory drawings for In Memory of My Feelings": "Department"
+            "Medium": ".a: Pencil on acetate \r\n.b: Ink on acetate",
+            "Dimensions": "sheet (each): 14 x 11\" (35.5 x 27.9 cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "2202.1967.15.a-b",
+            "Copyright": "\u00a9 2023 Helen Frankenthaler / Artists Rights Society (ARS), New York",
+            "Portfolio": "Preparatory drawings for In Memory of My Feelings",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/1974"
     },
@@ -731,13 +731,13 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwOTAwNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=205089c71a3cc187",
         "Details": {
             "Author": "Frank O'Hara",
-            "Medium": ".a: Pencil on acetate",
-            ".b: Ink on acetate": "Dimensions",
-            "sheet (.a): 14 x 11\" (35.5 x 27.9 cm); sheet (.b): 13 15/16 x 11\" (35.4 x 27.9 cm)": "Credit",
-            "Gift of the artist": "Object number",
-            "2202.1967.16.a-b": "Copyright",
-            "\u00a9 2023 Helen Frankenthaler / Artists Rights Society (ARS), New York": "Portfolio",
-            "Preparatory drawings for In Memory of My Feelings": "Department"
+            "Medium": ".a: Pencil on acetate\r\n.b: Ink on acetate",
+            "Dimensions": "sheet (.a): 14 x 11\" (35.5 x 27.9 cm); sheet (.b): 13 15/16 x 11\" (35.4 x 27.9 cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "2202.1967.16.a-b",
+            "Copyright": "\u00a9 2023 Helen Frankenthaler / Artists Rights Society (ARS), New York",
+            "Portfolio": "Preparatory drawings for In Memory of My Feelings",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/1974"
     },

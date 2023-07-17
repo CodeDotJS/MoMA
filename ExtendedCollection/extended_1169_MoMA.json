@@ -59,10 +59,10 @@
         "Details": {
             "Manufacturer": "Chemex Corp., New York, NY",
             "Medium": "Cork and aluminum",
-            "Dimensions": "assembled: 15 x 14\" (38.1 x 35.6 cm)",
-            "each canister: 3 1/2 x 11\" (8.9 x 27.9 cm)": "Credit",
-            "Gift of the manufacturer": "Object number",
-            "551.1964.a-h": "Department"
+            "Dimensions": "assembled: 15 x 14\" (38.1 x 35.6 cm)\r\neach canister: 3 1/2 x 11\" (8.9 x 27.9 cm)",
+            "Credit": "Gift of the manufacturer",
+            "Object number": "551.1964.a-h",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/5225"
     },
@@ -347,8 +347,7 @@
         "Details": {
             "Manufacturer": "Manufactured by Sitterle Ceramics, Croton Falls, NY",
             "Medium": "Glazed porcelain and metal",
-            "Dimensions": ".1 (pepper mill): h. 4 3/4\" (12.1 cm), diam.  2\" (5.1 cm)",
-            ".2a (dish): h. 1 9/16\" (4 cm), diam. 2\"  (5.1 cm)": ".2.b (spoon): l. 2 5/8\" (6.7 cm)",
+            "Dimensions": ".1 (pepper mill): h. 4 3/4\" (12.1 cm), diam.  2\" (5.1 cm) \r\n.2a (dish): h. 1 9/16\" (4 cm), diam. 2\"  (5.1 cm)\r\n.2.b (spoon): l. 2 5/8\" (6.7 cm)",
             "Credit": "Gift of Sitterle Ceramics",
             "Object number": "SC8.1955.1-2",
             "Department": "Architecture and Design"
@@ -615,11 +614,11 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MjgxOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=250d5b59c6661424",
         "Details": {
             "Medium": "LIthograph",
-            "Dimensions": "(folded): 8 1/2 x 3 3/4\" (21.6 x 9.5 cm)",
-            "(unfolded): 11 3/4 x 14\" (29.8 x 35.6 cm)": "Publisher",
-            "Sweet's Catalog Service, USA": "Credit",
-            "Gift of Radoslav Sutnar": "Object number",
-            "401.2009.1": "Department"
+            "Dimensions": "(folded): 8 1/2 x 3 3/4\" (21.6 x 9.5 cm)\r\n(unfolded): 11 3/4 x 14\" (29.8 x 35.6 cm)",
+            "Publisher": "Sweet's Catalog Service, USA",
+            "Credit": "Gift of Radoslav Sutnar",
+            "Object number": "401.2009.1",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/5740"
     },

@@ -203,10 +203,10 @@
         "Details": {
             "Manufacturer": "Venini & Co., Murano, Italy",
             "Medium": "Glass",
-            "Dimensions": ".1: 1 x 3 5/8\" (2.6 x 9.2 cm)",
-            ".2: 1 1/8 x 3 5/8\" (2.9 x 9.2 cm)": "Credit",
-            "Gift of Lenart Import, Ltd.": "Object number",
-            "406.1938.1-2": "Department"
+            "Dimensions": ".1: 1 x 3 5/8\" (2.6 x 9.2 cm)\r\n.2: 1 1/8 x 3 5/8\" (2.9 x 9.2 cm)",
+            "Credit": "Gift of Lenart Import, Ltd.",
+            "Object number": "406.1938.1-2",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/6129"
     },
@@ -322,19 +322,11 @@
         "Details": {
             "Manufacturer": "Vereinigte Lausitzer Glaswerke A.G., Weisswasser, Germany",
             "Medium": "Molded glass",
-            "Dimensions": ".1: 3 1/4 x 7 1/4 x 7 1/4\" (8.3 x 18.4 x 18.4 cm)",
-            ".2a: 1 3/4 x 7 1/4 x 7 1/4\" (4.4 x 18.4 x 18.4 cm)": ".2b: 1/2 x 7 1/8 x 7 1/8\" (1.3 x 18.1 x 18.1 cm)",
-            ".3a: 3 1/4 x 3 5/8 x 7 1/8\" (8.3 x 9.2 x 18.1 cm)": ".3b: 1/2 x 7 1/8 x 3 1/2\" (1.3 x 18.1 x 8.9 cm)",
-            ".4a: 1 3/4 x 3 1/2 x 7 1/4\" (4.4 x 8.9 x 18.4 cm)": ".4b: 1/2 x 3 1/2 x 7\" (1.3 x 8.9 x 17.8 cm)",
-            ".5a: 3 1/4 x 3 5/8 x 3 5/8\" (8.3 x 9.2 x 9.2 cm)": ".5b: 1/2 x 3 5/8 x 3 5/8\" (1.3 x 9.2 x 9.2 cm)",
-            ".6a: 3 1/4 x 3 5/8 x 3 5/8\" (8.3 x 9.2 x 9.2 cm)": ".6b: 1/2 x 3 5/8 x 3 5/8\" (1.3 x 9.2 x 9.2 cm)",
-            ".7a: 1 7/8 x 3 5/8 x 3 5/8\" (4.8 x 9.2 x 9.2 cm)": ".7b: 1/2 x 3 1/2 x 3 5/8\" (1.3 x 8.9 x 9.2 cm)",
-            ".8a: 1 3/4 x 3 5/8 x 3 5/8\" (4.4 x 9.2 x 9.2 cm)": ".8b: 1/2 x 3 5/8 x 3 5/8\" (1.3 x 9.2 x 9.2 cm)",
-            ".9: 1 3/4 x 3 1/2 x 3 1/2\" (4.4 x 8.9 x 8.9 cm)": ".10: 1 3/4 x 3 5/8 x 3 5/8\" (4.4 x 9.2 x 9.2 cm)",
-            ".11: 6 x 3 1/2 x 3 1/2\" (15.2 x 8.9 x 8.9 cm)": "Credit",
-            "Mrs. Armand P. Bartos Fund": "Object number",
-            "72.1990.1-11": "Copyright",
-            "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn": "Department"
+            "Dimensions": ".1: 3 1/4 x 7 1/4 x 7 1/4\" (8.3 x 18.4 x 18.4 cm)\r\n.2a: 1 3/4 x 7 1/4 x 7 1/4\" (4.4 x 18.4 x 18.4 cm)\r\n.2b: 1/2 x 7 1/8 x 7 1/8\" (1.3 x 18.1 x 18.1 cm)\r\n.3a: 3 1/4 x 3 5/8 x 7 1/8\" (8.3 x 9.2 x 18.1 cm)\r\n.3b: 1/2 x 7 1/8 x 3 1/2\" (1.3 x 18.1 x 8.9 cm)\r\n.4a: 1 3/4 x 3 1/2 x 7 1/4\" (4.4 x 8.9 x 18.4 cm)\r\n.4b: 1/2 x 3 1/2 x 7\" (1.3 x 8.9 x 17.8 cm)\r\n.5a: 3 1/4 x 3 5/8 x 3 5/8\" (8.3 x 9.2 x 9.2 cm)\r\n.5b: 1/2 x 3 5/8 x 3 5/8\" (1.3 x 9.2 x 9.2 cm)\r\n.6a: 3 1/4 x 3 5/8 x 3 5/8\" (8.3 x 9.2 x 9.2 cm)\r\n.6b: 1/2 x 3 5/8 x 3 5/8\" (1.3 x 9.2 x 9.2 cm)\r\n.7a: 1 7/8 x 3 5/8 x 3 5/8\" (4.8 x 9.2 x 9.2 cm)\r\n.7b: 1/2 x 3 1/2 x 3 5/8\" (1.3 x 8.9 x 9.2 cm)\r\n.8a: 1 3/4 x 3 5/8 x 3 5/8\" (4.4 x 9.2 x 9.2 cm)\r\n.8b: 1/2 x 3 5/8 x 3 5/8\" (1.3 x 9.2 x 9.2 cm)\r\n.9: 1 3/4 x 3 1/2 x 3 1/2\" (4.4 x 8.9 x 8.9 cm)\r\n.10: 1 3/4 x 3 5/8 x 3 5/8\" (4.4 x 9.2 x 9.2 cm)\r\n.11: 6 x 3 1/2 x 3 1/2\" (15.2 x 8.9 x 8.9 cm)",
+            "Credit": "Mrs. Armand P. Bartos Fund",
+            "Object number": "72.1990.1-11",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/6208"
     },

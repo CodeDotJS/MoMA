@@ -362,8 +362,7 @@
         "Details": {
             "Manufacturer": "Venini & Co., Murano, Italy",
             "Medium": "Glass",
-            "Dimensions": ".1: 6 x 3 1/8\" (15.2 x 8 cm)",
-            ".2: 4 x 3 1/2\" (10.2 x 8.9 cm)": ".3: 2 1/2 x 2 1/4\" (6.4 x 5.7 cm)",
+            "Dimensions": ".1: 6 x 3 1/8\" (15.2 x 8 cm)\r\n.2: 4 x 3 1/2\" (10.2 x 8.9 cm)\r\n.3: 2 1/2 x 2 1/4\" (6.4 x 5.7 cm)",
             "Credit": "Gift of Altamira, Inc.",
             "Object number": "468.1956.1-3",
             "Department": "Architecture and Design"
@@ -478,12 +477,11 @@
         "Work": "https://www.moma.org/collection/works/3882",
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNzk5MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c2171bc3d196b1c4",
         "Details": {
-            "Medium": ".1: Glazed stoneware and bamboo",
-            ".2-.3: Glazed stoneware": "Dimensions",
-            ".1 (teapot): 7 x 4 3/4\" (17.8 x 12.1 cm)": ".2 (cream pitcher): 3 3/4 x 3 3/8\" (9.5 x 8.6 cm)",
-            ".3 (sugar bowl): 2 x 4 1/4\" (5.1 x 10.8 cm)": "Credit",
-            "Gift of Bonniers, Inc.": "Object number",
-            "461.1956.1-3": "Department"
+            "Medium": ".1: Glazed stoneware and bamboo \r\n.2-.3: Glazed stoneware",
+            "Dimensions": ".1 (teapot): 7 x 4 3/4\" (17.8 x 12.1 cm)\r\n.2 (cream pitcher): 3 3/4 x 3 3/8\" (9.5 x 8.6 cm)\r\n.3 (sugar bowl): 2 x 4 1/4\" (5.1 x 10.8 cm)",
+            "Credit": "Gift of Bonniers, Inc.",
+            "Object number": "461.1956.1-3",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/4915"
     },
@@ -716,12 +714,12 @@
         "Work": "https://www.moma.org/collection/works/7456",
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNzgxNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=48541dd1cc74e72b",
         "Details": {
-            "Medium": "Photolithograph",
-            "Paper/Support: Poster; exhibition poster": "Dimensions",
-            "39 1/4 \u00d7 27 1/4\" (99.7 \u00d7 69.2 cm)": "Printer",
-            "Stadsdrukkerij van Amsterdam": "Credit",
-            "Gift of the artist": "Object number",
-            "538.1954": "Department"
+            "Medium": "Photolithograph\r\nPaper/Support: Poster; exhibition poster",
+            "Dimensions": "39 1/4 \u00d7 27 1/4\" (99.7 \u00d7 69.2 cm)",
+            "Printer": "Stadsdrukkerij van Amsterdam",
+            "Credit": "Gift of the artist",
+            "Object number": "538.1954",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/5144"
     },
@@ -818,10 +816,10 @@
         "Details": {
             "Manufacturer": "Chemex Corp., New York, NY",
             "Medium": "Pyrex glass, wood, and metal",
-            "Dimensions": ".a (pitcher): 5 5/8 x 8 7/8\" (14.3 x 22.6 cm)",
-            ".b (tea infuser): 6 1/2 x 2 3/4\" (16.5 x 7 cm)": "Credit",
-            "Gift of Chemex Corp.": "Object number",
-            "SC33.1955.a-b": "Department"
+            "Dimensions": ".a (pitcher): 5 5/8 x 8 7/8\" (14.3 x 22.6 cm)\r\n.b (tea infuser): 6 1/2 x 2 3/4\" (16.5 x 7 cm)",
+            "Credit": "Gift of Chemex Corp.",
+            "Object number": "SC33.1955.a-b",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/5225"
     },

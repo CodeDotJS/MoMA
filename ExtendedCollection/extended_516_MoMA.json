@@ -197,12 +197,13 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3OTM0NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=309f97e206c01007",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "Composition (irreg.): 23 9/16 x 17 1/4\" (59.8 x 43.8 cm)",
-            "Sheet: 29 3/8 x 21 5/8\" (74.6 x 54.9 cm)": "Publisher",
-            "Universal Limited Art Editions, West Islip, New York": "Credit",
-            "Gift of Celeste Bartos": "Object number",
-            "238.1983": "Copyright",
-            "\u00a9 2023 Terry Winters": "Department"
+            "Dimensions": "Composition (irreg.): 23 9/16 x 17 1/4\" (59.8 x 43.8 cm)\r\nSheet: 29 3/8 x 21 5/8\" (74.6 x 54.9 cm)",
+            "Publisher": "Universal Limited Art Editions, West Islip, New York",
+            "Printer": "Universal Limited Art Editions, West Islip, New York",
+            "Credit": "Gift of Celeste Bartos",
+            "Object number": "238.1983",
+            "Copyright": "\u00a9 2023 Terry Winters",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/6408"
     },
@@ -716,10 +717,10 @@
         "Details": {
             "Manufacturer": "Edition One Off Ltd., London",
             "Medium": "Painted tubular steel and leather",
-            "Dimensions": ".1: 31 1/2 x 24 x 36\" (80 x 61 x 91.4 cm)",
-            ".2: 31 1/2 x 48 x 36\" (80 x 121.9 x 91.4 cm)": "Credit",
-            "Architecture & Design Purchase Fund": "Object number",
-            "79.2009.1-2": "Department"
+            "Dimensions": ".1: 31 1/2 x 24 x 36\" (80 x 61 x 91.4 cm)\r\n.2: 31 1/2 x 48 x 36\" (80 x 121.9 x 91.4 cm)",
+            "Credit": "Architecture & Design Purchase Fund",
+            "Object number": "79.2009.1-2",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/8428"
     },

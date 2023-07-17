@@ -278,12 +278,12 @@
         "Work": "https://www.moma.org/collection/works/95662",
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNDQzNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0811e470b95522db",
         "Details": {
-            "Medium": "a: Soot and spit on cardboard",
-            "b: Soot and spit on cardboard": "Dimensions",
-            "8 5/8 x 12 3/4\" (21.9 x 32.4 cm)": "Credit",
-            "The Judith Rothschild Foundation Contemporary Drawings Collection Gift": "Object number",
-            "1404.2005.a-b": "Copyright",
-            "\u00a9 2023 James Castle": "Department"
+            "Medium": "a: Soot and spit on cardboard\r\nb: Soot and spit on cardboard",
+            "Dimensions": "8 5/8 x 12 3/4\" (21.9 x 32.4 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "1404.2005.a-b",
+            "Copyright": "\u00a9 2023 James Castle",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/7963"
     },
@@ -738,10 +738,10 @@
         "Details": {
             "Manufacturer": "Corning Glass Works, Corning, NY",
             "Medium": "Borosilicate glass and chrome-plated steel",
-            "Dimensions": ".a (kettle): 6 1/4 x 8\" (15.9 x 20.3cm)",
-            ".b (lid): 1 3/4 x 4 1/2\" (4.5 x 11.4 cm)": "Credit",
-            "Gift of Lewis & Conger": "Object number",
-            "SC373.1942.a-b": "Department"
+            "Dimensions": ".a (kettle): 6 1/4 x 8\" (15.9 x 20.3cm)\r\n.b (lid): 1 3/4 x 4 1/2\" (4.5 x 11.4 cm)",
+            "Credit": "Gift of Lewis & Conger",
+            "Object number": "SC373.1942.a-b",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/1249"
     },
@@ -804,13 +804,13 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNDcyMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4b8176ef20a02175",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "Composition: 14 7/16 x 10 1/16\" (36.6 x 25.6 cm)",
-            "Sheet: 21 5/8 x 16 1/8\" (55 x 40.9 cm)": "Publisher",
-            "Associated American Artists, New York": "Printer",
-            "George C. Miller": "Edition",
-            "One of two proofs before an edition of 250": "Credit",
-            "Abby Aldrich Rockefeller Fund (by exchange)": "Object number",
-            "396.1990": "Department"
+            "Dimensions": "Composition: 14 7/16 x 10 1/16\" (36.6 x 25.6 cm)\r\nSheet: 21 5/8 x 16 1/8\" (55 x 40.9 cm)",
+            "Publisher": "Associated American Artists, New York",
+            "Printer": "George C. Miller",
+            "Edition": "One of two proofs before an edition of 250",
+            "Credit": "Abby Aldrich Rockefeller Fund (by exchange)",
+            "Object number": "396.1990",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/1339"
     }

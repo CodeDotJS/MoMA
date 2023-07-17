@@ -331,8 +331,7 @@
         "Details": {
             "Manufacturer": "Luceplan, S.p.A., Italy",
             "Medium": "Silkscreen polycarbonate and aluminum",
-            "Dimensions": "overall: 20 1/4 x 9 7/8\" (51.4 x 25.1 cm)",
-            ".a (base): 19 1/2 x 5 3/4 x 5 3/4\" (49.5 x 14.6 x 14.6 cm)": ".b (shade): 7 x 9 7/8\" (17.8 x 25.1 cm)",
+            "Dimensions": "overall: 20 1/4 x 9 7/8\" (51.4 x 25.1 cm)\r\n.a (base): 19 1/2 x 5 3/4 x 5 3/4\" (49.5 x 14.6 x 14.6 cm)\r\n.b (shade): 7 x 9 7/8\" (17.8 x 25.1 cm)",
             "Credit": "Gift of the manufacturer",
             "Object number": "30.1997.1-2",
             "Department": "Architecture and Design"
@@ -800,12 +799,13 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3NjU3OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3f93fafb1e6b5620",
         "Details": {
             "Medium": "Lithograph and photolithograph, with oil stick additions and collage",
-            "Dimensions": "composition  22 3/16 x 30\" (56.4 x 76.2 cm)",
-            "sheet  22 3/16 x 30\" (56 x 76.2 cm)": "Publisher",
-            "Tamarind Institute, Albuquerque, NM": "Edition",
-            "22": "Credit",
-            "The Ralph E. Shikes Fund": "Object number",
-            "690.1993": "Department"
+            "Dimensions": "composition  22 3/16 x 30\" (56.4 x 76.2 cm)\r\nsheet  22 3/16 x 30\" (56 x 76.2 cm)",
+            "Publisher": "Tamarind Institute, Albuquerque, NM",
+            "Printer": "Tamarind Institute, Albuquerque, NM",
+            "Edition": "22",
+            "Credit": "The Ralph E. Shikes Fund",
+            "Object number": "690.1993",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/7068"
     },
@@ -851,8 +851,7 @@
         "Details": {
             "Manufacturer": "San Lorenzo SRL",
             "Medium": "Glazed aluminum",
-            "Dimensions": ".1-.5: diam. 4\" (10.2 cm)",
-            ".6-.10: diam. 8 1/8\" (20.7 cm)": ".11-.15 diam. 11 3/4\" (29.8 cm)",
+            "Dimensions": ".1-.5: diam. 4\" (10.2 cm)\r\n.6-.10: diam. 8 1/8\" (20.7 cm)\r\n.11-.15 diam. 11 3/4\" (29.8 cm)",
             "Credit": "Gift of the manufacturer",
             "Object number": "31.1997.1-15",
             "Department": "Architecture and Design"

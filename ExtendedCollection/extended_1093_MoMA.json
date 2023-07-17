@@ -210,8 +210,7 @@
         "Details": {
             "Manufacturer": "Peill & Putzler, D\u00fcren, Germany",
             "Medium": "Crystal",
-            "Dimensions": ".1-.2 (wine glasses): 5 3/8 x 3 1/2\" (13.6 x 8.9 cm)",
-            ".3 (champagne): 4 5/8 x 4 5/8\" (11.7 x 11.7 cm)": ".4 (small wine glass): 5 5/8 x 2 1/4\" (14.3 x 5.7 cm)",
+            "Dimensions": ".1-.2 (wine glasses): 5 3/8 x 3 1/2\" (13.6 x 8.9 cm)\r\n.3 (champagne): 4 5/8 x 4 5/8\" (11.7 x 11.7 cm)\r\n.4 (small wine glass): 5 5/8 x 2 1/4\" (14.3 x 5.7 cm)",
             "Credit": "Given anonymously",
             "Object number": "1301.2001.1-4",
             "Department": "Architecture and Design"
@@ -261,14 +260,14 @@
         "Details": {
             "Author": "Jean Genet",
             "Medium": "Illustrated book with one lithograph",
-            "Dimensions": "irreg composition  6 1/2 x 10 1/4\" (16.5 x 26 cm)",
-            "irreg page  7 1/2 x 5 1/2\" (19 x 14 cm)": "Publisher",
-            "L'Arbal\u00e8te, D\u00e9cines (Is\u00e8re), France": "Printer",
-            "Mourlot, Paris": "Edition",
-            "3265 (3000 numbered 1-3000; 200 H.C. marked H.C.; 30 author's copies marked JG; 32 numbered I-XXXII on Japan; 3 H.C. marked H.C. on Japan)": "Credit",
-            "Mary Ellen Meehan Fund": "Object number",
-            "154.1992": "Copyright",
-            "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris": "Department"
+            "Dimensions": "irreg composition  6 1/2 x 10 1/4\" (16.5 x 26 cm)\r\nirreg page  7 1/2 x 5 1/2\" (19 x 14 cm)",
+            "Publisher": "L'Arbal\u00e8te, D\u00e9cines (Is\u00e8re), France",
+            "Printer": "Mourlot, Paris",
+            "Edition": "3265 (3000 numbered 1-3000; 200 H.C. marked H.C.; 30 author's copies marked JG; 32 numbered I-XXXII on Japan; 3 H.C. marked H.C. on Japan)",
+            "Credit": "Mary Ellen Meehan Fund",
+            "Object number": "154.1992",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/2141"
     },
@@ -576,10 +575,10 @@
         "Details": {
             "Manufacturer": "Dansk Aluminum Industri N/S, Copenhagen, Denmark",
             "Medium": "Anodized aluminum",
-            "Dimensions": ".1 (silver): 4 x 4 3/4\" (10.2 x 12.1 cm)",
-            ".2 (gold): 2 x 4 3/4\" (5.1 x 12.1 cm)": "Credit",
-            "Purchase Fund": "Object number",
-            "129.1957.1-2": "Department"
+            "Dimensions": ".1 (silver): 4 x 4 3/4\" (10.2 x 12.1 cm)\r\n.2 (gold): 2 x 4 3/4\" (5.1 x 12.1 cm)",
+            "Credit": "Purchase Fund",
+            "Object number": "129.1957.1-2",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/2609"
     },

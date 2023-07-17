@@ -42,12 +42,10 @@
         "Details": {
             "Manufacturer": "Cini & Nils, Milan",
             "Medium": "Stainless steel",
-            "Dimensions": ".1 (fork): h. 8 1/4\" (21 cm)",
-            ".2 (mixer): h. 8 1/4\" (21 cm)": ".3 (ice tongs): h. 8 1/4\" (21 cm)",
-            ".4 (knife): h. 8 1/4\" (21 cm)": ".5 (can perforator): h. 6 1/4\" (15.9 cm)",
-            ".6 (bottle opener): h. 6 1/4\" (15.9 cm)": "Credit",
-            "Gift of the manufacturer": "Object number",
-            "478.1970.1-6": "Department"
+            "Dimensions": ".1 (fork): h. 8 1/4\" (21 cm)\r\n.2 (mixer): h. 8 1/4\" (21 cm)\r\n.3 (ice tongs): h. 8 1/4\" (21 cm)\r\n.4 (knife): h. 8 1/4\" (21 cm)\r\n.5 (can perforator): h. 6 1/4\" (15.9 cm)\r\n.6 (bottle opener): h. 6 1/4\" (15.9 cm)",
+            "Credit": "Gift of the manufacturer",
+            "Object number": "478.1970.1-6",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/5707"
     },
@@ -257,14 +255,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0OTUwNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1d862cad88bdcc70",
         "Details": {
             "Medium": "Etching and aquatint",
-            "Dimensions": "Plate: 13 3/4 x 19 3/4\" (35 x 50.2 cm)",
-            "Sheet: 22 7/16 x 19 11/16\" (57 x 50 cm)": "Publisher",
-            "Maeght \u00c9diteur, Paris": "Printer",
-            "Imprimerie Arte Adrien Maeght, Paris": "Edition",
-            "75": "Credit",
-            "Anonymous gift": "Object number",
-            "460.1990": "Copyright",
-            "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris": "Department"
+            "Dimensions": "Plate: 13 3/4 x 19 3/4\" (35 x 50.2 cm)\r\nSheet: 22 7/16 x 19 11/16\" (57 x 50 cm)",
+            "Publisher": "Maeght \u00c9diteur, Paris",
+            "Printer": "Imprimerie Arte Adrien Maeght, Paris",
+            "Edition": "75",
+            "Credit": "Anonymous gift",
+            "Object number": "460.1990",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/5809"
     },

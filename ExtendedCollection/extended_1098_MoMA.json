@@ -289,10 +289,10 @@
         "Details": {
             "Manufacturer": "Chemex Corp., New York, NY",
             "Medium": "Glass and cork",
-            "Dimensions": ".a (flask): 10 1/8 x 4\" (25.7 x 10.2 cm)",
-            ".b (stopper): 1 1/2 x 2 1/2\" (3.8 x 6.4 cm)": "Credit",
-            "Gift of the manufacturer": "Object number",
-            "1326.2001.a-b": "Department"
+            "Dimensions": ".a (flask): 10 1/8 x 4\" (25.7 x 10.2 cm)\r\n.b (stopper): 1 1/2 x 2 1/2\" (3.8 x 6.4 cm)",
+            "Credit": "Gift of the manufacturer",
+            "Object number": "1326.2001.a-b",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/5225"
     },
@@ -589,10 +589,10 @@
         "Details": {
             "Manufacturer": "Richard S\u00fcssmuth Glash\u00fctte, Immenhausen, Germany",
             "Medium": "Glass",
-            "Dimensions": ".1 (champagne glass): 3 5/8 x 3 3/4\" (9.2 x 9.5 cm)",
-            ".2 (wine glass): 5 1/4 x 3\" (13.4 x 7.6 cm)": "Credit",
-            "Gift of the manufacturer": "Object number",
-            "1339.2001.1-2": "Department"
+            "Dimensions": ".1 (champagne glass): 3 5/8 x 3 3/4\" (9.2 x 9.5 cm)\r\n.2 (wine glass): 5 1/4 x 3\" (13.4 x 7.6 cm)",
+            "Credit": "Gift of the manufacturer",
+            "Object number": "1339.2001.1-2",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/5736"
     },
@@ -797,8 +797,7 @@
         "Details": {
             "Manufacturer": "Unidentified French Manufacturer",
             "Medium": "Cast aluminum",
-            "Dimensions": "Overall: h. 3 1/4 x l. 13\" (h. 8.2 x l. 33 cm)",
-            ".a (stand): h. 3 1/4\" (8.3 cm)": ".b (ladle): l. 13 x w. 4 1/2\" (33 x 11.4 cm)",
+            "Dimensions": "Overall: h. 3 1/4 x l. 13\" (h. 8.2 x l. 33 cm)\r\n.a (stand): h. 3 1/4\" (8.3 cm)\r\n.b (ladle): l. 13 x w. 4 1/2\" (33 x 11.4 cm)",
             "Credit": "Gift of H. A. Mack & Co. Inc.",
             "Object number": "508.1956.a-b",
             "Department": "Architecture and Design"

@@ -180,12 +180,12 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0MDU4OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8cc6fed4ec992828",
         "Details": {
             "Medium": "Chromogenic print in wooden frame",
-            "Dimensions": "framed composition  15 1/8 x 16 1/16\" (38.5 x 40.8 cm)",
-            "sheet  15 1/8 x 16 1/16\" (38 x 40.8 cm)": "Publisher",
-            "Parkett Publishers, Z\u00fcrich and New York": "Credit",
-            "Riva Castleman Endowment Fund, Lily Auchincloss Fund, and Gift of Parkett": "Object number",
-            "138.1998": "Copyright",
-            "\u00a9 2023 Jeff Wall": "Department"
+            "Dimensions": "framed composition  15 1/8 x 16 1/16\" (38.5 x 40.8 cm)\r\nsheet  15 1/8 x 16 1/16\" (38 x 40.8 cm)",
+            "Publisher": "Parkett Publishers, Z\u00fcrich and New York",
+            "Credit": "Riva Castleman Endowment Fund, Lily Auchincloss Fund, and Gift of Parkett",
+            "Object number": "138.1998",
+            "Copyright": "\u00a9 2023 Jeff Wall",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/7826"
     },
@@ -798,8 +798,7 @@
         "Details": {
             "Manufacturer": "Amefa Alpeldoornse, Apeldoorne, The Netherlands",
             "Medium": "ABS polymer and stainless steel",
-            "Dimensions": ".1 (fork): 7 1/8 x 1 1/2 x 5/8\" (18.1 x 3.8 x 1.6 cm)",
-            ".2 (spoon): 7 1/4 x 1 3/4 x 3/4\" (18.4 x 4.5 x 1.9 cm)": ".3 (knife): 5 1/4 x 4 x 5/8\" (13.3 x 10.2 x 1.6 cm)",
+            "Dimensions": ".1 (fork): 7 1/8 x 1 1/2 x 5/8\" (18.1 x 3.8 x 1.6 cm) \r\n.2 (spoon): 7 1/4 x 1 3/4 x 3/4\" (18.4 x 4.5 x 1.9 cm) \r\n.3 (knife): 5 1/4 x 4 x 5/8\" (13.3 x 10.2 x 1.6 cm)",
             "Credit": "Gift of the manufacturer",
             "Object number": "133.1988.1-3",
             "Department": "Architecture and Design"

@@ -58,8 +58,7 @@
         "Details": {
             "Manufacturer": "Art\u011bl, Prague",
             "Medium": "Glazed earthenware",
-            "Dimensions": "Overall: 2 1/4 x 2 1/2 x 2 1/2\" (5.7 x 6.4 x 6.4 cm)",
-            ".a (base): 1 1/2 x 2 1/2 x 2 1/2\" (3.8 x 6.4 x 6.4 cm)": ".b (lid): 3/4 x 2 x 2\" (1.9 x 5.1 x 5.1 cm)",
+            "Dimensions": "Overall: 2 1/4 x 2 1/2 x 2 1/2\" (5.7 x 6.4 x 6.4 cm)\r\n.a (base): 1 1/2 x 2 1/2 x 2 1/2\" (3.8 x 6.4 x 6.4 cm)\r\n.b (lid): 3/4 x 2 x 2\" (1.9 x 5.1 x 5.1 cm)",
             "Credit": "Gift of Jo Carole Lauder",
             "Object number": "1167.2013.a-b",
             "Department": "Architecture and Design"
@@ -413,8 +412,7 @@
         "Details": {
             "Author": "Erich Heckel",
             "Medium": "Woodcut",
-            "Dimensions": "Composition: 2 3/8 x 3\" (6 x 7.6 cm)",
-            "Sheet: 6 1/8 x 9 9/16\" (15.5 x 24.3 cm)": "Page: 6 1/8 x 4 3/4\" (15.6 x 12.1 cm)",
+            "Dimensions": "Composition: 2 3/8 x 3\" (6 x 7.6 cm)\r\nSheet: 6 1/8 x 9 9/16\" (15.5 x 24.3 cm)\r\nPage: 6 1/8 x 4 3/4\" (15.6 x 12.1 cm)",
             "Publisher": "K\u00fcnstlergruppe Br\u00fccke, Dresden",
             "Printer": "Unidentified",
             "Edition": "unknown (approx. 76)",
@@ -770,11 +768,11 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNDM1NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6d7290671b687c0b",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "Composition (irreg.): 7 5/16 x 3 7/8\" (18.6 x 9.9 cm)",
-            "Page: 9 1/16 x 6 3/4\" (23 x 17.2 cm)": "Publisher",
-            "Khudozhestvennyi Artel Vitovomas, Vitebsk, Belarus": "Credit",
-            "Gift of The Riklis Collection of McCrory Corporation": "Object number",
-            "981.1983.2": "Department"
+            "Dimensions": "Composition (irreg.): 7 5/16 x 3 7/8\" (18.6 x 9.9 cm)\r\nPage: 9 1/16 x 6 3/4\" (23 x 17.2 cm)",
+            "Publisher": "Khudozhestvennyi Artel Vitovomas, Vitebsk, Belarus",
+            "Credit": "Gift of The Riklis Collection of McCrory Corporation",
+            "Object number": "981.1983.2",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/3710"
     },

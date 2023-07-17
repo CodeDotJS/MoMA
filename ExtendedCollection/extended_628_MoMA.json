@@ -283,13 +283,13 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMDA5MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c0d982dd7f8452a1",
         "Details": {
             "Medium": "Photoetching and aquatint, with hand additions",
-            "Dimensions": "plate  8 7/8 x 8 7/8\" (22.5 x 22.5 cm)",
-            "irreg sheet  25 x 18 1/8\" (63.6 x 46.1 cm)": "Printer",
-            "Studio Camnitzer-Porter, Locust Valley, NY": "Edition",
-            "35 announced; with 5 A.P.": "Credit",
-            "Latin American Fund": "Object number",
-            "46.1977": "Copyright",
-            "\u00a9 2023 Liliana Porter": "Department"
+            "Dimensions": "plate  8 7/8 x 8 7/8\" (22.5 x 22.5 cm)\r\nirreg sheet  25 x 18 1/8\" (63.6 x 46.1 cm)",
+            "Printer": "Studio Camnitzer-Porter, Locust Valley, NY",
+            "Edition": "35 announced; with 5 A.P.",
+            "Credit": "Latin American Fund",
+            "Object number": "46.1977",
+            "Copyright": "\u00a9 2023 Liliana Porter",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/4703"
     },
@@ -302,14 +302,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMDM2MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=227ab2a2b3878ccb",
         "Details": {
             "Medium": "Photoetching and aquatint, with hand additions",
-            "Dimensions": "plate  12 3/4 x 8 7/8\" (32.4 x 22.5 cm)",
-            "sheet  23 5/8 x 18 1/2\" (60 x 47 cm)": "Publisher",
-            "Liliana Porter, Locust Valley, New York": "Printer",
-            "Studio Camnitzer-Porter, Locust Valley, NY": "Edition",
-            "35 announced; with 5 A.P.": "Credit",
-            "Purchase": "Object number",
-            "47.1977": "Copyright",
-            "\u00a9 2023 Liliana Porter": "Department"
+            "Dimensions": "plate  12 3/4 x 8 7/8\" (32.4 x 22.5 cm)\r\nsheet  23 5/8 x 18 1/2\" (60 x 47 cm)",
+            "Publisher": "Liliana Porter, Locust Valley, New York",
+            "Printer": "Studio Camnitzer-Porter, Locust Valley, NY",
+            "Edition": "35 announced; with 5 A.P.",
+            "Credit": "Purchase",
+            "Object number": "47.1977",
+            "Copyright": "\u00a9 2023 Liliana Porter",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/4703"
     },
@@ -574,14 +574,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEwMDgxNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d06baa41045f39ee",
         "Details": {
             "Medium": "Photogravure and drypoint",
-            "Dimensions": "plate  15 3/4 x 11 7/8\" (40 x 30.2 cm)",
-            "sheet  21 1/4 x 14 7/8\" (53 x 37.8 cm)": "Publisher",
-            "Arnulf Rainer": "Printer",
-            "Maly, Vienna": "Edition",
-            "34": "Credit",
-            "The Philip and Lynn Straus Foundation Fund": "Object number",
-            "13.1988": "Copyright",
-            "\u00a9 2023 Arnulf Rainer": "Department"
+            "Dimensions": "plate  15 3/4 x 11 7/8\" (40 x 30.2 cm)\r\nsheet  21 1/4 x 14 7/8\" (53 x 37.8 cm)",
+            "Publisher": "Arnulf Rainer",
+            "Printer": "Maly, Vienna",
+            "Edition": "34",
+            "Credit": "The Philip and Lynn Straus Foundation Fund",
+            "Object number": "13.1988",
+            "Copyright": "\u00a9 2023 Arnulf Rainer",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/4792"
     },
@@ -841,14 +841,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MDQ2NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3689418a1f4f565a",
         "Details": {
             "Medium": "Portfolio of five etchings (three with aquatint), one aquatint, one drypoint with aquatint, and one engraving",
-            "Dimensions": "each plate  7 1/8 x 7 1/8\" (18.1 x 18.1 cm)",
-            "each sheet  8 7/8 x 8 7/8\" (22.5 x 22.5 cm)": "Publisher",
-            "Parasol Press, Ltd., New York": "Printer",
-            "Crown Point Press, San Francisco": "Edition",
-            "25": "Credit",
-            "John B. Turner Fund": "Object number",
-            "561.1976.1-8": "Copyright",
-            "\u00a9 2023 Edda Renouf": "Department"
+            "Dimensions": "each plate  7 1/8 x 7 1/8\" (18.1 x 18.1 cm)\r\neach sheet  8 7/8 x 8 7/8\" (22.5 x 22.5 cm)",
+            "Publisher": "Parasol Press, Ltd., New York",
+            "Printer": "Crown Point Press, San Francisco",
+            "Edition": "25",
+            "Credit": "John B. Turner Fund",
+            "Object number": "561.1976.1-8",
+            "Copyright": "\u00a9 2023 Edda Renouf",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/4870"
     },

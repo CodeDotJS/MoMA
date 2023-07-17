@@ -114,13 +114,13 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMxMzEwNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ad1498f8c1dffefc",
         "Details": {
             "Medium": "Book, offset printed",
-            "Dimensions": ".1: 9 7/8 \u00d7 7 1/2 \u00d7 3/8\" (25.1 \u00d7 19.1 \u00d7 1 cm)",
-            ".2: 9 7/8 \u00d7 7 1/2 \u00d7 5/8\" (25.1 \u00d7 19.1 \u00d7 1.6 cm)": "Publisher",
-            "Staatsbedrijf der PTT": "Printer",
-            "Staatsbedrukkerij": "Credit",
-            "Gift of the designer": "Object number",
-            "892.2007.1-2": "Copyright",
-            "\u00a9 2023 Irma Boom": "Department"
+            "Dimensions": ".1: 9 7/8 \u00d7 7 1/2 \u00d7 3/8\" (25.1 \u00d7 19.1 \u00d7 1 cm)\r\n.2: 9 7/8 \u00d7 7 1/2 \u00d7 5/8\" (25.1 \u00d7 19.1 \u00d7 1.6 cm)",
+            "Publisher": "Staatsbedrijf der PTT",
+            "Printer": "Staatsbedrukkerij",
+            "Credit": "Gift of the designer",
+            "Object number": "892.2007.1-2",
+            "Copyright": "\u00a9 2023 Irma Boom",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/33693"
     },
@@ -284,13 +284,13 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNzY2MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=aee6883e143cb5a5",
         "Details": {
             "Medium": "Etching",
-            "Dimensions": "plate  17 15/16 x 9 13/16\" (45.6 x 25 cm)",
-            "sheet  19 x 12 3/8\" (48 x 31.4 cm)": "Publisher",
-            "Sue Coe": "Printer",
-            "Steven Murray": "Edition",
-            "87": "Credit",
-            "John B. Turner Fund": "Object number",
-            "168.1988": "Department"
+            "Dimensions": "plate  17 15/16 x 9 13/16\" (45.6 x 25 cm)\r\nsheet  19 x 12 3/8\" (48 x 31.4 cm)",
+            "Publisher": "Sue Coe",
+            "Printer": "Steven Murray",
+            "Edition": "87",
+            "Credit": "John B. Turner Fund",
+            "Object number": "168.1988",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/1170"
     },
@@ -583,12 +583,12 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxOTg1OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c98500fcd2142a37",
         "Details": {
             "Medium": "Etching and aquatint",
-            "Dimensions": "plate  13 7/8 x 16 3/4\" (35.2 x 42.6 cm)",
-            "sheet  22 5/8 x 24 7/16\" (57 x 62.1 cm)": "Publisher",
-            "The Spring Street Workshop, New York": "Printer",
-            "Catherine Mosley": "Credit",
-            "John B. Turner Fund": "Object number",
-            "126.1989": "Department"
+            "Dimensions": "plate  13 7/8 x 16 3/4\" (35.2 x 42.6 cm)\r\nsheet  22 5/8 x 24 7/16\" (57 x 62.1 cm)",
+            "Publisher": "The Spring Street Workshop, New York",
+            "Printer": "Catherine Mosley",
+            "Credit": "John B. Turner Fund",
+            "Object number": "126.1989",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/1528"
     },
@@ -657,12 +657,12 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNzQ4NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d2516a7c88c3e5d5",
         "Details": {
             "Medium": "Soft ground etching and aquatint",
-            "Dimensions": "plate  11 7/8 x 18\" (30.1 x 45.8 cm)",
-            "sheet  19 x 24 1/16\" (48 x 61.1 cm)": "Publisher",
-            "Crown Point Press, San Francisco": "Printer",
-            "Jeryl Parker Editions, New Paltz, NY": "Credit",
-            "Gift of Crown Point Press in celebration of its 25th anniversary": "Object number",
-            "346.1987": "Department"
+            "Dimensions": "plate  11 7/8 x 18\" (30.1 x 45.8 cm)\r\nsheet  19 x 24 1/16\" (48 x 61.1 cm)",
+            "Publisher": "Crown Point Press, San Francisco",
+            "Printer": "Jeryl Parker Editions, New Paltz, NY",
+            "Credit": "Gift of Crown Point Press in celebration of its 25th anniversary",
+            "Object number": "346.1987",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/1605"
     },

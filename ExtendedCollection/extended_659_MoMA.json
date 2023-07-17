@@ -494,8 +494,7 @@
         "Details": {
             "Manufacturer": "Stelton A/S, Copenhagen, Denmark",
             "Medium": "Stainless steel and beechwood",
-            "Dimensions": "Overall: 1 1/8 x 22 7/8 x 10\" (2.9 x 58.1 x 25.4 cm)",
-            ".a (serving dish): 1 1/8 x 22 7/8 x 10\" (2.9 x 58.1 x 25.4 cm)": ".b (carving board): 1 1/8 x 18 3/4 x 9 3/8\" (2.9 x 47.6 x 23.8 cm)",
+            "Dimensions": "Overall: 1 1/8 x 22 7/8 x 10\" (2.9 x 58.1 x 25.4 cm)\r\n.a (serving dish): 1 1/8 x 22 7/8 x 10\" (2.9 x 58.1 x 25.4 cm)\r\n.b (carving board): 1 1/8 x 18 3/4 x 9 3/8\" (2.9 x 47.6 x 23.8 cm)",
             "Credit": "Gift of the manufacturer",
             "Object number": "484.1978.a-b",
             "Department": "Architecture and Design"
@@ -512,10 +511,10 @@
         "Details": {
             "Manufacturer": "Bang & Olufsen, Struer, Denmark",
             "Medium": "Steel, aluminum, rosewood, and plastic",
-            "Dimensions": ".a (tuner): 3 1/8 x 25 3/8 x 12 1/2\" (8 x 64.5 x  31.7 cm)",
-            ".b (remote): 1 1/8 x 4 x 6 7/16\" (2.9 x 10.2  x 16.3 cm)": "Credit",
-            "Gift of the manufacturer": "Object number",
-            "110.1976.a-b": "Department"
+            "Dimensions": ".a (tuner): 3 1/8 x 25 3/8 x 12 1/2\" (8 x 64.5 x  31.7 cm)\r\n.b (remote): 1 1/8 x 4 x 6 7/16\" (2.9 x 10.2  x 16.3 cm)",
+            "Credit": "Gift of the manufacturer",
+            "Object number": "110.1976.a-b",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/2909"
     },
@@ -598,13 +597,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwMzMwNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7faafdcedda7cab5",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "irreg. composition  42 11/16 x 25 15/16\" (108.4 x 65.9 cm)",
-            "irreg. sheet  43 3/16 x 29 3/16\" (109 x 74.2 cm)": "Publisher",
-            "Gemini G.E.L., Los Angeles": "Edition",
-            "50; plus 10 AP, 1 pp, 3 GEL, 1 RTP, 12 EB, and 1 CP": "Credit",
-            "Jeanne C. Thayer Fund": "Object number",
-            "373.1987": "Copyright",
-            "\u00a9 2023 Jasper Johns / Licensed by VAGA at Artists Rights Society (ARS), NY": "Department"
+            "Dimensions": "irreg. composition  42 11/16 x 25 15/16\" (108.4 x 65.9 cm)\r\nirreg. sheet  43 3/16 x 29 3/16\" (109 x 74.2 cm)",
+            "Publisher": "Gemini G.E.L., Los Angeles",
+            "Printer": "Gemini G.E.L., Los Angeles",
+            "Edition": "50; plus 10 AP, 1 pp, 3 GEL, 1 RTP, 12 EB, and 1 CP",
+            "Credit": "Jeanne C. Thayer Fund",
+            "Object number": "373.1987",
+            "Copyright": "\u00a9 2023 Jasper Johns / Licensed by VAGA at Artists Rights Society (ARS), NY",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/2923"
     },
@@ -617,13 +617,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2ODAxNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=19d8cdd673852646",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "irreg. composition  14 13/16 x 19 5/8\" (37.6 x 49.9 cm)",
-            "sheet  31 1/16 x 23\" (78 x 58.5 cm)": "Publisher",
-            "Gemini G.E.L., Los Angeles": "Edition",
-            "48; 3 GEL JJ73-626": "Credit",
-            "Jeanne C. Thayer Fund": "Object number",
-            "374.1987": "Copyright",
-            "\u00a9 2023 Jasper Johns / Licensed by VAGA at Artists Rights Society (ARS), NY": "Department"
+            "Dimensions": "irreg. composition  14 13/16 x 19 5/8\" (37.6 x 49.9 cm)\r\nsheet  31 1/16 x 23\" (78 x 58.5 cm)",
+            "Publisher": "Gemini G.E.L., Los Angeles",
+            "Printer": "Gemini G.E.L., Los Angeles",
+            "Edition": "48; 3 GEL JJ73-626",
+            "Credit": "Jeanne C. Thayer Fund",
+            "Object number": "374.1987",
+            "Copyright": "\u00a9 2023 Jasper Johns / Licensed by VAGA at Artists Rights Society (ARS), NY",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/2923"
     },

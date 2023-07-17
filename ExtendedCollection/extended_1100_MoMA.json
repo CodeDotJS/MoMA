@@ -383,12 +383,12 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MTgwNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2520fdad91136963",
         "Details": {
             "Medium": "Engraving",
-            "Dimensions": "plate  7 1/4 x 3 3/16\" (18.4 x 8.1 cm)",
-            "sheet  14 13/16 x 9 3/4\" (37 x 24.5 cm)": "Publisher",
-            "\u00c9ditions Georges Visat, Paris": "Credit",
-            "Gift of Alicia Legg": "Object number",
-            "336.1987": "Copyright",
-            "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris": "Department"
+            "Dimensions": "plate  7 1/4 x 3 3/16\" (18.4 x 8.1 cm)\r\nsheet  14 13/16 x 9 3/4\" (37 x 24.5 cm)",
+            "Publisher": "\u00c9ditions Georges Visat, Paris",
+            "Credit": "Gift of Alicia Legg",
+            "Object number": "336.1987",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/452"
     },
@@ -522,10 +522,10 @@
         "Details": {
             "Manufacturer": "Tecno S.p.A., Milan",
             "Medium": "Wool, polyurethane foam, and steel",
-            "Dimensions": "min: 24 1/8 x 26 3/8 x 28 1/4\" (61.3 x 67 x 71.8 cm)",
-            "max: 41 3/8 x 26 3/8 x 70\" (105.1 x 67 x 177.8 cm)": "Credit",
-            "Gift of the manufacturer": "Object number",
-            "518.1998": "Department"
+            "Dimensions": "min: 24 1/8 x 26 3/8 x 28 1/4\" (61.3 x 67 x 71.8 cm)\r\nmax: 41 3/8 x 26 3/8 x 70\" (105.1 x 67 x 177.8 cm)",
+            "Credit": "Gift of the manufacturer",
+            "Object number": "518.1998",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/8061"
     },

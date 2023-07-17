@@ -665,11 +665,11 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwMjEyNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1f1fd8814a7d6aeb",
         "Details": {
             "Medium": "Drypoint",
-            "Dimensions": "plate  10 5/8 x 10 7/16\" (27 x 26.5 cm)",
-            "sheet  19 3/4 x 15 5/8\" (50 x 39.7 cm)": "Edition",
-            "100": "Credit",
-            "Gift of Abby Aldrich Rockefeller": "Object number",
-            "466.1940": "Department"
+            "Dimensions": "plate  10 5/8 x 10 7/16\" (27 x 26.5 cm)\r\nsheet  19 3/4 x 15 5/8\" (50 x 39.7 cm)",
+            "Edition": "100",
+            "Credit": "Gift of Abby Aldrich Rockefeller",
+            "Object number": "466.1940",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/4514"
     },

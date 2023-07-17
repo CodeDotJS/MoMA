@@ -695,12 +695,12 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMzY2NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a74365efa341cbdf",
         "Details": {
             "Medium": "Woodcut",
-            "Dimensions": "Composition (irreg.): 22 3/4 x 19 3/4\" (57.8 x 50.2 cm)",
-            "Sheet: 24 1/8 x 19 15/16\" (61.3 x 50.6 cm)": "Publisher",
-            "Perma Press, New York": "Printer",
-            "Chip Elwell, Ted Warner": "Credit",
-            "Gift of Perma Press": "Object number",
-            "619.1983": "Department"
+            "Dimensions": "Composition (irreg.): 22 3/4 x 19 3/4\" (57.8 x 50.2 cm)\r\nSheet: 24 1/8 x 19 15/16\" (61.3 x 50.6 cm)",
+            "Publisher": "Perma Press, New York",
+            "Printer": "Chip Elwell, Ted Warner",
+            "Credit": "Gift of Perma Press",
+            "Object number": "619.1983",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/3000"
     },

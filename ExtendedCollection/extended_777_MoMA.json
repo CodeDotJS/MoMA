@@ -280,12 +280,11 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ5OTIxMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=afeb8689a18becd2",
         "Details": {
             "Medium": "Photo offset prints",
-            "Dimensions": "(.1): 5 5/8 \u00d7 7 1/2\" (14.3 \u00d7 19.1 cm)",
-            "(.2): 6 \u00d7 7 1/4\" (15.3 \u00d7 18.4 cm)": "(.3): 5 5/8 \u00d7 7 1/2\" (14.3 \u00d7 19 cm)",
-            "(.4): 5 3/16 \u00d7 7 1/16\" (13.2 \u00d7 17.9 cm)": "Credit",
-            "Gift of Richard Benson": "Object number",
-            "SC2008.1.285.1-5": "Copyright",
-            "\u00a9 2023 Scott Hyde": "Department"
+            "Dimensions": "(.1): 5 5/8 \u00d7 7 1/2\" (14.3 \u00d7 19.1 cm)\r\n(.2): 6 \u00d7 7 1/4\" (15.3 \u00d7 18.4 cm)\r\n(.3): 5 5/8 \u00d7 7 1/2\" (14.3 \u00d7 19 cm)\r\n(.4): 5 3/16 \u00d7 7 1/16\" (13.2 \u00d7 17.9 cm)",
+            "Credit": "Gift of Richard Benson",
+            "Object number": "SC2008.1.285.1-5",
+            "Copyright": "\u00a9 2023 Scott Hyde",
+            "Department": "Photography"
         },
         "Profile": "https://www.moma.org/artists/2789"
     },
@@ -379,11 +378,11 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ0MjcxMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e2fdc4ae4609e6fd",
         "Details": {
             "Medium": "Two screenprints",
-            "Dimensions": "composition: 22 13/16 \u00d7 60 9/16\" (58 \u00d7 153.8 cm)",
-            "sheet (each): 25 1/8 \u00d7 62 3/16\" (63.8 \u00d7 158 cm)": "Edition",
-            "Unknown": "Credit",
-            "San Juan Racing Association Fund": "Object number",
-            "176.1970.1-2": "Department"
+            "Dimensions": "composition: 22 13/16 \u00d7 60 9/16\" (58 \u00d7 153.8 cm)\r\nsheet (each): 25 1/8 \u00d7 62 3/16\" (63.8 \u00d7 158 cm)",
+            "Edition": "Unknown",
+            "Credit": "San Juan Racing Association Fund",
+            "Object number": "176.1970.1-2",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/2825"
     },
@@ -588,11 +587,11 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNTE5NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=435f8c10330da65c",
         "Details": {
             "Medium": "Etching and aquatint",
-            "Dimensions": "plate  12 15/16 x 17 3/4\" (32.9 x 45 cm)",
-            "sheet  19 9/16 x 22 5/16\" (49.7 x 56.7 cm)": "Edition",
-            "Unknown": "Credit",
-            "Walter Bareiss Fund": "Object number",
-            "330.1971": "Department"
+            "Dimensions": "plate  12 15/16 x 17 3/4\" (32.9 x 45 cm)\r\nsheet  19 9/16 x 22 5/16\" (49.7 x 56.7 cm)",
+            "Edition": "Unknown",
+            "Credit": "Walter Bareiss Fund",
+            "Object number": "330.1971",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/2885"
     },
@@ -704,8 +703,7 @@
             "Object number": "167.1999",
             "Copyright": "\u00a9 2023 Jasper Johns / Licensed by VAGA at Artists Rights Society (ARS), NY",
             "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/2923"
+        }
     },
     {
         "Artist": "Jasper Johns",

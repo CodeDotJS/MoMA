@@ -313,8 +313,7 @@
         "Details": {
             "Manufacturer": "Oy Huonekalu-ja Rakennusty\u00f6tehdas Ab, Turku, Finland",
             "Medium": "Laminated birch and lacquered plywood",
-            "Dimensions": ".1: h. 17 1/4\" (43.8 cm), diam. 14\" (35.5 cm);",
-            ".2: h. 17 3/8\" (44.1 cm), diam. 13 5/8\" (34.6 cm);": ".3: h. 16 3/4\" (42.5 cm), diam. 13 7/8\" (35.3 cm)",
+            "Dimensions": ".1: h. 17 1/4\" (43.8 cm), diam. 14\" (35.5 cm); \r\n.2: h. 17 3/8\" (44.1 cm), diam. 13 5/8\" (34.6 cm); \r\n.3: h. 16 3/4\" (42.5 cm), diam. 13 7/8\" (35.3 cm)",
             "Credit": "Gift of Artek-Pascoe, Inc.",
             "Object number": "56.1946.1-3",
             "Department": "Architecture and Design"
@@ -516,8 +515,7 @@
         "Work": "https://www.moma.org/collection/works/3659",
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMTM4MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b65c6519c3e2bd9d",
         "Details": {
-            "Medium": ".14-.15: Saran",
-            ".16: Nylon": ".17: Taslan",
+            "Medium": ".14-.15: Saran \r\n.16: Nylon \r\n.17: Taslan",
             "Dimensions": "Each: 1 1/2 x 3 3/4\" (3.8 x 9.5 cm)",
             "Credit": "Gift of Josef Albers",
             "Object number": "450.1970.14-17",
@@ -552,14 +550,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5NTk1MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4e1ab973ed97f844",
         "Details": {
             "Medium": "Woodcut",
-            "Dimensions": "(irreg.) composition  9 5/8 x 13 5/8\" (24.4 x 34.6 cm)",
-            "sheet  12 11/16 x 19 13/16\" (32 x 50.3 cm)": "Publisher",
-            "Josef Albers": "Printer",
-            "Ullstein Co., Berlin": "Edition",
-            "25": "Credit",
-            "Gift of The Josef and Anni Albers Foundation in honor of Riva Castleman": "Object number",
-            "93.1995": "Copyright",
-            "\u00a9 2023 The Josef and Anni Albers Foundation / Artists Rights Society (ARS), New York": "Department"
+            "Dimensions": "(irreg.) composition  9 5/8 x 13 5/8\" (24.4 x 34.6 cm)\r\nsheet  12 11/16 x 19 13/16\" (32 x 50.3 cm)",
+            "Publisher": "Josef Albers",
+            "Printer": "Ullstein Co., Berlin",
+            "Edition": "25",
+            "Credit": "Gift of The Josef and Anni Albers Foundation in honor of Riva Castleman",
+            "Object number": "93.1995",
+            "Copyright": "\u00a9 2023 The Josef and Anni Albers Foundation / Artists Rights Society (ARS), New York",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/97"
     },

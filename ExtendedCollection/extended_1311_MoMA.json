@@ -712,11 +712,11 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MTgxNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5e6e3bb1628032e6",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "Sheet 11 7/8 x 15 7/8\" (29.9 x 40.2 cm)",
-            "Comp.  10 3/16 x 13 1/8\" (25.9 x 33.4 cm)": "Credit",
-            "Purchase": "Object number",
-            "34.1953": "Copyright",
-            "\u00a9 2023 Thomas Hart Benton Trust/Licensed by VAGA, New York, NY": "Department"
+            "Dimensions": "Sheet 11 7/8 x 15 7/8\" (29.9 x 40.2 cm) \r\nComp.  10 3/16 x 13 1/8\" (25.9 x 33.4 cm)",
+            "Credit": "Purchase",
+            "Object number": "34.1953",
+            "Copyright": "\u00a9 2023 Thomas Hart Benton Trust/Licensed by VAGA, New York, NY",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/483"
     },

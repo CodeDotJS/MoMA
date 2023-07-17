@@ -125,13 +125,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNjM5OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8c2abbfe293f66fd",
         "Details": {
             "Medium": "Etching and aquatint",
-            "Dimensions": "plate  20 15/16 x 14 3/8\" (53.3 x 36.5 cm)",
-            "sheet  29 9/16 x 20 3/4\" (75.1 x 52.8 cm)": "Publisher",
-            "Pyramid Arts, Ltd., Tampa": "Edition",
-            "39": "Credit",
-            "John B. Turner Fund": "Object number",
-            "453.1977": "Copyright",
-            "\u00a9 2023 James Rosenquist/Licensed by VAGA, New York, NY": "Department"
+            "Dimensions": "plate  20 15/16 x 14 3/8\" (53.3 x 36.5 cm)\r\nsheet  29 9/16 x 20 3/4\" (75.1 x 52.8 cm)",
+            "Publisher": "Pyramid Arts, Ltd., Tampa",
+            "Printer": "Pyramid Arts, Ltd., Tampa",
+            "Edition": "39",
+            "Credit": "John B. Turner Fund",
+            "Object number": "453.1977",
+            "Copyright": "\u00a9 2023 James Rosenquist/Licensed by VAGA, New York, NY",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/5021"
     },
@@ -506,10 +507,10 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwODk0NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8f3fbc6d8aa78296",
         "Details": {
             "Medium": "Monotype with gouache additions",
-            "Dimensions": "composition  18 13/16 x 24 15/16\" (47.8 x 63.3 cm)",
-            "sheet  20 15/16 x 28\" (53.3 x 71.2 cm)": "Credit",
-            "John B. Turner Fund": "Object number",
-            "437.1980": "Department"
+            "Dimensions": "composition  18 13/16 x 24 15/16\" (47.8 x 63.3 cm)\r\nsheet  20 15/16 x 28\" (53.3 x 71.2 cm)",
+            "Credit": "John B. Turner Fund",
+            "Object number": "437.1980",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/5268"
     },

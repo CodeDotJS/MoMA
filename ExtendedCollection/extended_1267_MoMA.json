@@ -782,10 +782,10 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM3NTI4NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d9f48bc2d47c9c26",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "Sheet (Closed): 9 \u00d7 8 3/4\" (22.9 \u00d7 22.2 cm)",
-            "Sheet (Open): 9 \u00d7 17 1/2\" (22.9 \u00d7 44.5 cm)": "Credit",
-            "Committee on Architecture and Design Funds": "Object number",
-            "130.2015": "Department"
+            "Dimensions": "Sheet (Closed): 9 \u00d7 8 3/4\" (22.9 \u00d7 22.2 cm)\r\nSheet (Open): 9 \u00d7 17 1/2\" (22.9 \u00d7 44.5 cm)",
+            "Credit": "Committee on Architecture and Design Funds",
+            "Object number": "130.2015",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/6011"
     }

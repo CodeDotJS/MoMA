@@ -112,13 +112,13 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1Mzk4MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=59b47b271ce2302d",
         "Details": {
             "Medium": "Photoetching and etching",
-            "Dimensions": "Plate: 20 x 15 13/16\" (50.8 x 40.2 cm)",
-            "Sheet: 26 15/16 x 22 3/8\" (68.5 x 56.9 cm)": "Publisher",
-            "Multiples, Inc., New York": "Printer",
-            "Aeropress, New York": "Credit",
-            "Gift of Frances Beatty": "Object number",
-            "640.1983": "Copyright",
-            "\u00a9 2023 Robert Wilson": "Department"
+            "Dimensions": "Plate: 20 x 15 13/16\" (50.8 x 40.2 cm)\r\nSheet: 26 15/16 x 22 3/8\" (68.5 x 56.9 cm)",
+            "Publisher": "Multiples, Inc., New York",
+            "Printer": "Aeropress, New York",
+            "Credit": "Gift of Frances Beatty",
+            "Object number": "640.1983",
+            "Copyright": "\u00a9 2023 Robert Wilson",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/6390"
     },
@@ -216,12 +216,12 @@
         "Details": {
             "Author": "Pierre Martory",
             "Medium": "Illustrated book with twenty etchings with drypoint, aquatint, and roulette",
-            "Dimensions": "page: 22 1/16 x 14 15/16\" (56 x 38 cm)",
-            "Prints:  various dimensions.": "Printer",
-            "Lacouri\u00e8re-Fr\u00e9laut, Paris": "Edition",
-            "90 (75 numbered 1-75; 15 H.C. numbered I-XV reserved for collaborators)": "Credit",
-            "Joanne M. Stern Fund": "Object number",
-            "1098.1979.1-20": "Department"
+            "Dimensions": "page: 22 1/16 x 14 15/16\" (56 x 38 cm)\r\nPrints:  various dimensions.",
+            "Printer": "Lacouri\u00e8re-Fr\u00e9laut, Paris",
+            "Edition": "90 (75 numbered 1-75; 15 H.C. numbered I-XV reserved for collaborators)",
+            "Credit": "Joanne M. Stern Fund",
+            "Object number": "1098.1979.1-20",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/6412"
     },

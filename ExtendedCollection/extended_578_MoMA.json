@@ -112,10 +112,10 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxODMwMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d276cf060414c837",
         "Details": {
             "Medium": "Collotype",
-            "Dimensions": "composition  10 1/2 x 13 3/8\" (26.7 x 34 cm)",
-            "sheet  22 5/16 x 30 1/8\" (56.7 x 76.5 cm)": "Credit",
-            "Larry Aldrich Fund": "Object number",
-            "13.1979": "Department"
+            "Dimensions": "composition  10 1/2 x 13 3/8\" (26.7 x 34 cm)\r\nsheet  22 5/16 x 30 1/8\" (56.7 x 76.5 cm)",
+            "Credit": "Larry Aldrich Fund",
+            "Object number": "13.1979",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/1258"
     },
@@ -344,13 +344,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MjcxMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=bcabb7d5a0bd87d0",
         "Details": {
             "Medium": "Five aquatints with drypoint, printed in black",
-            "Dimensions": "ea. approx. plate  10 15/16 x 7 7/8\" (27.8 x 20 cm)",
-            "ea. approx. sheet  18 15/16 x 13\" (48.1 x 33 cm)": "Publisher",
-            "Crown Point Press, San Francisco": "Edition",
-            "35": "Credit",
-            "John B. Turner Fund": "Object number",
-            "137.1979.1-5": "Copyright",
-            "\u00a9 2023 Richard Diebenkorn": "Department"
+            "Dimensions": "ea. approx. plate  10 15/16 x 7 7/8\" (27.8 x 20 cm)\r\nea. approx. sheet  18 15/16 x 13\" (48.1 x 33 cm)",
+            "Publisher": "Crown Point Press, San Francisco",
+            "Printer": "Crown Point Press, San Francisco",
+            "Edition": "35",
+            "Credit": "John B. Turner Fund",
+            "Object number": "137.1979.1-5",
+            "Copyright": "\u00a9 2023 Richard Diebenkorn",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/1539"
     },

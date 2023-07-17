@@ -387,14 +387,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5NDQwNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=456c30656b34c7f1",
         "Details": {
             "Medium": "Artist's book, offset printed, 2 volumes",
-            "Dimensions": "Vol. 1: page (each): 11 x 8 7/16\" (28 x 21.5 cm); overall (closed): 11 5/16 x 9 9/16 x 2 9/16\" (28.7 x 24.3 x 6.5 cm)",
-            "Vol. 2: page (each): 11 x 8 7/16\" (28 x 21.5 cm); overall (closed): 11 5/16 x 9 1/4 x 1 5/8\" (28.7 x 23.5 x 4.2 cm)": "Publisher",
-            "mfc-mich\u00e8le didier, Brussels": "Printer",
-            "Arte Print, Brussels": "Edition",
-            "70": "Credit",
-            "The Sue and Edgar Wachenheim III Endowment": "Object number",
-            "58.2014.A-B": "Copyright",
-            "\u00a9 2023 Allan McCollum": "Department"
+            "Dimensions": "Vol. 1: page (each): 11 x 8 7/16\" (28 x 21.5 cm); overall (closed): 11 5/16 x 9 9/16 x 2 9/16\" (28.7 x 24.3 x 6.5 cm)\r\nVol. 2: page (each): 11 x 8 7/16\" (28 x 21.5 cm); overall (closed): 11 5/16 x 9 1/4 x 1 5/8\" (28.7 x 23.5 x 4.2 cm)",
+            "Publisher": "mfc-mich\u00e8le didier, Brussels",
+            "Printer": "Arte Print, Brussels",
+            "Edition": "70",
+            "Credit": "The Sue and Edgar Wachenheim III Endowment",
+            "Object number": "58.2014.A-B",
+            "Copyright": "\u00a9 2023 Allan McCollum",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/3872"
     },
@@ -598,8 +598,8 @@
             "Edition": "125",
             "Credit": "General Print Fund",
             "Object number": "298.2011",
-            "Copyright": "\u00a9 2023 Matt Mullican",
-            "Artist signed an addition NEL on August 26, 2010.": "Department"
+            "Copyright": "\u00a9 2023 Matt Mullican\r\n\r\nArtist signed an addition NEL on August 26, 2010.",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/4160"
     },

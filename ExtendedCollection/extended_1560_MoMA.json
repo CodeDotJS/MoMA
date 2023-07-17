@@ -8,13 +8,13 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ0ODM4MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=430c9cf206def2a1",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "47 5/8 \u00d7 31 9/16\" (121 \u00d7 80.2 cm)",
-            "Mount: 51 \u00d7 34 7/8\" (129.5 \u00d7 88.6 cm)": "Printer",
-            "H. Chachoin Imp., Paris": "Credit",
-            "The Merrill C. Berman Collection. Lee Simonsen Bequest (by exchange)": "Object number",
-            "709.2018": "Copyright",
-            "\u00a9 2023 Christophe Tzara": "Associated work",
-            "The Merrill C. Berman Collection at MoMA": "Department"
+            "Dimensions": "47 5/8 \u00d7 31 9/16\" (121 \u00d7 80.2 cm)\r\nMount: 51 \u00d7 34 7/8\" (129.5 \u00d7 88.6 cm)",
+            "Printer": "H. Chachoin Imp., Paris",
+            "Credit": "The Merrill C. Berman Collection. Lee Simonsen Bequest (by exchange)",
+            "Object number": "709.2018",
+            "Copyright": "\u00a9 2023 Christophe Tzara",
+            "Associated work": "The Merrill C. Berman Collection at MoMA",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/13398"
     },
@@ -244,9 +244,9 @@
             "Edition": "approx. 200",
             "Credit": "Given anonymously",
             "Object number": "392.1956.1-41",
-            "Copyright": "\u00a9 2023 Karl Schmidt-Rottluff / Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "\u00a9 2023 Franz Radziwill / Artists Rights Society (ARS), New York / VG Bild-Kunst, Germany": "Type",
-            "Periodical": "Department"
+            "Copyright": "\u00a9 2023 Karl Schmidt-Rottluff / Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn\r\n\u00a9 2023 Franz Radziwill / Artists Rights Society (ARS), New York / VG Bild-Kunst, Germany",
+            "Type": "Periodical",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/24409"
     },

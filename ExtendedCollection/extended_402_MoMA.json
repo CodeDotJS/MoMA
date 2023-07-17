@@ -693,12 +693,13 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNDcwNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=dfc5106a22ba2963",
         "Details": {
             "Medium": "Etching, drypoint and aquatint",
-            "Dimensions": "plate  21 13/16 x 18 1/2\" (55.4 x 47 cm)",
-            "sheet  29 15/16 x 24 1/16\" (76 x 61.1 cm)": "Publisher",
-            "Tyler Graphics Ltd., Bedford, New York": "Edition",
-            "35, 10 AP, 4 TP": "Credit",
-            "Gift of Tyler Graphics Ltd.": "Object number",
-            "642.1990": "Department"
+            "Dimensions": "plate  21 13/16 x 18 1/2\" (55.4 x 47 cm)\r\nsheet  29 15/16 x 24 1/16\" (76 x 61.1 cm)",
+            "Publisher": "Tyler Graphics Ltd., Bedford, New York",
+            "Printer": "Tyler Graphics Ltd., Bedford, New York",
+            "Edition": "35, 10 AP, 4 TP",
+            "Credit": "Gift of Tyler Graphics Ltd.",
+            "Object number": "642.1990",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/4286"
     },

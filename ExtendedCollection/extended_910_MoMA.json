@@ -288,14 +288,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNDI3MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=af0baa092e33a817",
         "Details": {
             "Medium": "Lift ground aquatint and etching",
-            "Dimensions": "plate  9 5/16 x 7 1/16\" (23.6 x 18 cm)",
-            "sheet  22 1/4 x 14 15/16\" (56 x 38 cm)": "Publisher",
-            "Lazare Vernet": "Printer",
-            "Lacouri\u00e8re, Paris": "Edition",
-            "260": "Credit",
-            "Gift of the artist": "Object number",
-            "544.1978": "Copyright",
-            "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris": "Department"
+            "Dimensions": "plate  9 5/16 x 7 1/16\" (23.6 x 18 cm)\r\nsheet  22 1/4 x 14 15/16\" (56 x 38 cm)",
+            "Publisher": "Lazare Vernet",
+            "Printer": "Lacouri\u00e8re, Paris",
+            "Edition": "260",
+            "Credit": "Gift of the artist",
+            "Object number": "544.1978",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/107"
     },
@@ -308,13 +308,13 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNDI3NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=872a21c02370078d",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "irreg composition  17 7/8 x 23\" (45.4 x 58.4 cm)",
-            "sheet  19 15/16 x 26 1/8\" (50 x 66.3 cm)": "Printer",
-            "Imprimerie Clot, Bramsen et Georges, Paris": "Edition",
-            "35": "Credit",
-            "Gift of the artist": "Object number",
-            "545.1978": "Copyright",
-            "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris": "Department"
+            "Dimensions": "irreg composition  17 7/8 x 23\" (45.4 x 58.4 cm)\r\nsheet  19 15/16 x 26 1/8\" (50 x 66.3 cm)",
+            "Printer": "Imprimerie Clot, Bramsen et Georges, Paris",
+            "Edition": "35",
+            "Credit": "Gift of the artist",
+            "Object number": "545.1978",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/107"
     },

@@ -752,12 +752,12 @@
         "Work": "https://www.moma.org/collection/works/8488",
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyOTkwNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cbbbf7744e546d55",
         "Details": {
-            "Medium": "Letterpress",
-            "Paper/Support:": "Dimensions",
-            "11 11/16 x 8 1/4\" (29.6 x 21 cm)": "Printer",
-            "H. Berthold AG, Berlin": "Credit",
-            "Jan Tschichold Collection, Gift of Philip Johnson": "Object number",
-            "1014.1999": "Department"
+            "Medium": "Letterpress\r\nPaper/Support:",
+            "Dimensions": "11 11/16 x 8 1/4\" (29.6 x 21 cm)",
+            "Printer": "H. Berthold AG, Berlin",
+            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
+            "Object number": "1014.1999",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/5947"
     },

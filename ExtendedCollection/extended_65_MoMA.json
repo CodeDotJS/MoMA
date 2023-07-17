@@ -341,10 +341,10 @@
         "Details": {
             "Manufacturer": "Royal Ahrend, Amsterdam",
             "Medium": "Polyamide plastic",
-            "Dimensions": "closed: 38 x 30 x 16\" (96.5 x 76.2 x 40.6 cm)",
-            "open: 29 1/2 x 73 x 39 1/2\" (74.9 x 185.4 x 100.3 cm)": "Credit",
-            "Gift of the manufacturer": "Object number",
-            "168.2012": "Department"
+            "Dimensions": "closed: 38 x 30 x 16\" (96.5 x 76.2 x 40.6 cm)\r\nopen: 29 1/2 x 73 x 39 1/2\" (74.9 x 185.4 x 100.3 cm)",
+            "Credit": "Gift of the manufacturer",
+            "Object number": "168.2012",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/41033"
     },

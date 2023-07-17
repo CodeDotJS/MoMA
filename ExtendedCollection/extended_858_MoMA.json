@@ -8,11 +8,11 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNDA2NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c25845f078c961f5",
         "Details": {
             "Medium": "Intaglio from automatic firing mechanism circuit",
-            "Dimensions": "plate  15 9/16 x 15 9/16\" (39.6 x 39.6 cm)",
-            "sheet  26 1/8 x 20 1/16\" (66.4 x 50.9 cm)": "Edition",
-            "Unknown": "Credit",
-            "John B. Turner Fund": "Object number",
-            "1348.1968": "Department"
+            "Dimensions": "plate  15 9/16 x 15 9/16\" (39.6 x 39.6 cm)\r\nsheet  26 1/8 x 20 1/16\" (66.4 x 50.9 cm)",
+            "Edition": "Unknown",
+            "Credit": "John B. Turner Fund",
+            "Object number": "1348.1968",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/794"
     },
@@ -73,8 +73,7 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNTMwNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4ba114ae333549aa",
         "Details": {
             "Medium": "Lithographs",
-            "Dimensions": ".1 (letterhead): 11 5/8 x 8 1/4\" (29.5 x 21 cm)",
-            ".2 (label): 3 1/2 x 6 1/2\" (8.9 x 16.5 cm)": ".3 (business card): 1 15/16 x 3 5/8\" (4.9 x 9.2 cm)",
+            "Dimensions": ".1 (letterhead): 11 5/8 x 8 1/4\" (29.5 x 21 cm)\r\n.2 (label): 3 1/2 x 6 1/2\" (8.9 x 16.5 cm)\r\n.3 (business card): 1 15/16 x 3 5/8\" (4.9 x 9.2 cm)",
             "Credit": "Gift of Don Goeman",
             "Object number": "1102.2011.1-3",
             "Copyright": "\u00a9 2023 Eliza Brownjohn",

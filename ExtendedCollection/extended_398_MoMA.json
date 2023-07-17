@@ -311,10 +311,10 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNTA2NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ec4616bdce416581",
         "Details": {
             "Medium": "Etching with hand additions",
-            "Dimensions": "plate  16 x 22 1/16\" (40.7 x 56 cm)",
-            "sheet  16 x 22 1/16\" (40 x 56 cm)": "Credit",
-            "Gift of John Loring": "Object number",
-            "102.1991": "Department"
+            "Dimensions": "plate  16 x 22 1/16\" (40.7 x 56 cm)\r\nsheet  16 x 22 1/16\" (40 x 56 cm)",
+            "Credit": "Gift of John Loring",
+            "Object number": "102.1991",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/6597"
     },
@@ -646,11 +646,11 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNjAxMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ecdd8499e5f6ab4c",
         "Details": {
             "Medium": "Candies, individually wrapped in red, silver, and blue cellophane (endless supply)",
-            "Dimensions": "Dimensions vary with installation",
-            "Ideal weight: 300 lbs (136 kg)": "Credit",
-            "Gift of the Dannheisser Foundation": "Object number",
-            "176.1996": "Copyright",
-            "\u00a9 2023 The Felix Gonzalez-Torres Foundation, Courtesy Andrea Rosen Gallery, New York": "Department"
+            "Dimensions": "Dimensions vary with installation\r\nIdeal weight: 300 lbs (136 kg)",
+            "Credit": "Gift of the Dannheisser Foundation",
+            "Object number": "176.1996",
+            "Copyright": "\u00a9 2023 The Felix Gonzalez-Torres Foundation, Courtesy Andrea Rosen Gallery, New York",
+            "Department": "Painting and Sculpture"
         },
         "Profile": "https://www.moma.org/artists/2233"
     },
@@ -663,12 +663,7 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzODk0MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c4f566a4e347bd46",
         "Details": {
             "Medium": "Ten sketchbooks and backpack",
-            "Dimensions": "(a): 8 1/2 x 5 3/4 x 3/4\" (21.6 x 14.6 x 1.9 cm)",
-            "(b): 11 3/8 x 8 1/2 x 3/4\" (28.9 x 21.6 x 1.9 cm)": "(c): 8 1/2 x 6 x 3/8\" (21.6 x 15.2 x 1 cm)",
-            "(d): 9 x 7 1/4 x 3/4\" (22.9 x 18.4 x 1.9 cm)": "(e): 4 1/2 x 7 x 1/2\" (11.4 x 17.8 x 1.3 cm)",
-            "(f): 5 3/4 x 8 1/8 x 1/4\" (14.6 x 20.6 x 0.6 cm)": "(g): 8 1/2 x 6 x 1/2\" (21.6 x 15.2 x 1.3 cm)",
-            "(h): 12 1/4 x 9 1/2 x 1 1/8\" (31.1 x 24.1 x 2.9 cm)": "(i): 11 3/8 x 8 1/4 x 7/8\" (28.9 x 21 x 2.2 cm)",
-            "(j): 9 x 7 x 1/4\" (22.9 x 17.8 x 0.6 cm)": "(k): 19 3/4 x 16 x 2 1/2\" (50.2 x 40.6 x 6.4 cm)",
+            "Dimensions": "(a): 8 1/2 x 5 3/4 x 3/4\" (21.6 x 14.6 x 1.9 cm)\r\n(b): 11 3/8 x 8 1/2 x 3/4\" (28.9 x 21.6 x 1.9 cm)\r\n(c): 8 1/2 x 6 x 3/8\" (21.6 x 15.2 x 1 cm)\r\n(d): 9 x 7 1/4 x 3/4\" (22.9 x 18.4 x 1.9 cm)\r\n(e): 4 1/2 x 7 x 1/2\" (11.4 x 17.8 x 1.3 cm)\r\n(f): 5 3/4 x 8 1/8 x 1/4\" (14.6 x 20.6 x 0.6 cm)\r\n(g): 8 1/2 x 6 x 1/2\" (21.6 x 15.2 x 1.3 cm)\r\n(h): 12 1/4 x 9 1/2 x 1 1/8\" (31.1 x 24.1 x 2.9 cm)\r\n(i): 11 3/8 x 8 1/4 x 7/8\" (28.9 x 21 x 2.2 cm)\r\n(j): 9 x 7 x 1/4\" (22.9 x 17.8 x 0.6 cm)\r\n(k): 19 3/4 x 16 x 2 1/2\" (50.2 x 40.6 x 6.4 cm)",
             "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
             "Object number": "1769.2005.a-k",
             "Copyright": "\u00a9 2023 Douglas Gordon",
@@ -821,14 +816,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMDcyMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=06cc18d8cfe701e4",
         "Details": {
             "Medium": "Aquatint, engraving, drypoint, etching, roulette, mezzotint, and photogravure",
-            "Dimensions": "Composition: 20 7/8 x 15 11/16\" (53 x 39.8 cm)",
-            "Sheet: 29 15/16 x 22 1/16\" (76 x 56 cm)": "Publisher",
-            "Waddington Graphics, London": "Printer",
-            "Atelier Crommelynck, Paris": "Edition",
-            "120": "Credit",
-            "Abby Aldrich Rockefeller Fund": "Object number",
-            "413.1990": "Copyright",
-            "\u00a9 2023 Artists Rights Society (ARS), New York / DACS, London": "Department"
+            "Dimensions": "Composition: 20 7/8 x 15 11/16\" (53 x 39.8 cm)\r\nSheet: 29 15/16 x 22 1/16\" (76 x 56 cm)",
+            "Publisher": "Waddington Graphics, London",
+            "Printer": "Atelier Crommelynck, Paris",
+            "Edition": "120",
+            "Credit": "Abby Aldrich Rockefeller Fund",
+            "Object number": "413.1990",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / DACS, London",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/2481"
     }

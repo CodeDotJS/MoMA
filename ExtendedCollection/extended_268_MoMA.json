@@ -460,12 +460,12 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1MzYyMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5a380e7ff1d63213",
         "Details": {
             "Medium": "Screenprint",
-            "Dimensions": "composition  39 3/8 x 28 3/4\" (100 x 73 cm)",
-            "sheet  39 3/8 x 28 3/4\" (100 x 73 cm)": "Publisher",
-            "Edition Schellmann, Munich": "Credit",
-            "Walter Bareiss Fund": "Object number",
-            "142.2000": "Copyright",
-            "\u00a9 2023 Imi Knoebel": "Department"
+            "Dimensions": "composition  39 3/8 x 28 3/4\" (100 x 73 cm)\r\nsheet  39 3/8 x 28 3/4\" (100 x 73 cm)",
+            "Publisher": "Edition Schellmann, Munich",
+            "Credit": "Walter Bareiss Fund",
+            "Object number": "142.2000",
+            "Copyright": "\u00a9 2023 Imi Knoebel",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/7808"
     },
@@ -549,10 +549,10 @@
         "Details": {
             "Manufacturer": "Design House Stockholm AB, Stockholm",
             "Medium": "Hand-cast glass, cord, and electrical switch",
-            "Dimensions": "3 3/4 \u00d7 6 1/2 \u00d7 4\" (9.5 \u00d7 16.5 \u00d7 10.2 cm)",
-            "Storage Box: 8 1/2 \u00d7 10 \u00d7 12 1/4\" (21.6 \u00d7 25.4 \u00d7 31.1 cm)": "Credit",
-            "Gift of the manufacturer": "Object number",
-            "30.2000": "Department"
+            "Dimensions": "3 3/4 \u00d7 6 1/2 \u00d7 4\" (9.5 \u00d7 16.5 \u00d7 10.2 cm)\r\nStorage Box: 8 1/2 \u00d7 10 \u00d7 12 1/4\" (21.6 \u00d7 25.4 \u00d7 31.1 cm)",
+            "Credit": "Gift of the manufacturer",
+            "Object number": "30.2000",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/8417"
     },

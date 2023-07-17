@@ -941,11 +941,11 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMzIwOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c16e24fe4d3dd802",
         "Details": {
             "Medium": "Etching",
-            "Dimensions": "plate  15 7/8 x 15 15/16\" (40.3 x 40.6 cm)",
-            "sheet  22 3/8 x 30\" (56.8 x 76.2 cm)": "Edition",
-            "25": "Credit",
-            "Carol O. Selle Fund": "Object number",
-            "219.1976": "Department"
+            "Dimensions": "plate  15 7/8 x 15 15/16\" (40.3 x 40.6 cm)\r\nsheet  22 3/8 x 30\" (56.8 x 76.2 cm)",
+            "Edition": "25",
+            "Credit": "Carol O. Selle Fund",
+            "Object number": "219.1976",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/3096"
     },
@@ -975,10 +975,10 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNTkyMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=dfbe7e429ecbb6d5",
         "Details": {
             "Medium": "Engraving, woodcut and embossing with silver leaf additions",
-            "Dimensions": "irreg composition  4 15/16 x 6\" (12.5 x 15.3 cm)",
-            "sheet  18 1/4 x 22\" (46.4 x 55.9 cm)": "Credit",
-            "Janet K. Ruttenberg Fund": "Object number",
-            "537.1976": "Department"
+            "Dimensions": "irreg composition  4 15/16 x 6\" (12.5 x 15.3 cm)\r\nsheet  18 1/4 x 22\" (46.4 x 55.9 cm)",
+            "Credit": "Janet K. Ruttenberg Fund",
+            "Object number": "537.1976",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/3193"
     }

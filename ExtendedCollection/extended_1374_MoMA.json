@@ -239,10 +239,10 @@
         "Details": {
             "Manufacturer": "Unidentified German Manufacturer",
             "Medium": "Glass",
-            "Dimensions": ".a (flask): 6 3/4\" (17.1 cm)",
-            ".b (stopper): 1\" (2.5 cm)": "Credit",
-            "Gift of Eimer & Amend": "Object number",
-            "223.1934.1-2": "Department"
+            "Dimensions": ".a (flask): 6 3/4\" (17.1 cm)\r\n.b (stopper): 1\" (2.5 cm)",
+            "Credit": "Gift of Eimer & Amend",
+            "Object number": "223.1934.1-2",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/6011"
     },
@@ -306,12 +306,7 @@
         "Details": {
             "Manufacturer": "Unidentified German Manufacturer",
             "Medium": "Glass",
-            "Dimensions": ".1 (overall): 3 1/4 x 9 7/8\" (8.3 x 25.1 cm)",
-            ".1a: 3 1/8 x 9 1/4\" (7.9 x 23.5 cm)": ".1b: 2 1/8 x 9 7/8\" (5.4 x 25.1 cm)",
-            ".2 (overall): 3 x 8\" (7.6 x 20.3 cm)": ".2a: 2 3/4 x 7 3/8\" (7 x 18.7 cm)",
-            ".2b: 2 x 8\" (5.1 x 20.3 cm)": ".3 (overall): 2 3/8 x 6\" (6 x 15.2 cm)",
-            ".3a: 2 1/4 x 5 5/8\" (5.7 x 14.3 cm)": ".3b: 1 1/2 x 6\" (3.8 x 15.2 cm)",
-            ".4: 3 x 9 1/4\" (7.6 x 23.5 cm)": ".5: 2 3/4 x 7 3/8\" (7 x 18.7 cm)",
+            "Dimensions": ".1 (overall): 3 1/4 x 9 7/8\" (8.3 x 25.1 cm)\r\n.1a: 3 1/8 x 9 1/4\" (7.9 x 23.5 cm)\r\n.1b: 2 1/8 x 9 7/8\" (5.4 x 25.1 cm)\r\n.2 (overall): 3 x 8\" (7.6 x 20.3 cm)\r\n.2a: 2 3/4 x 7 3/8\" (7 x 18.7 cm)\r\n.2b: 2 x 8\" (5.1 x 20.3 cm)\r\n.3 (overall): 2 3/8 x 6\" (6 x 15.2 cm)\r\n.3a: 2 1/4 x 5 5/8\" (5.7 x 14.3 cm)\r\n.3b: 1 1/2 x 6\" (3.8 x 15.2 cm)\r\n.4: 3 x 9 1/4\" (7.6 x 23.5 cm)\r\n.5: 2 3/4 x 7 3/8\" (7 x 18.7 cm)",
             "Credit": "Gift of Eimer & Amend",
             "Object number": "237.1934.1-5",
             "Department": "Architecture and Design"
@@ -328,9 +323,7 @@
         "Details": {
             "Manufacturer": "Unidentified German Manufacturer",
             "Medium": "Glass",
-            "Dimensions": "Part: 2 3/4 x 1\" (7 x 2.5 cm)",
-            ".1a: 2 x 1\" (5.1 x 2.5 cm)": ".1b: 1 1/8 x 7/8\" (2.8 x 2.2 cm)",
-            ".2a: 4\" (10.2 cm)": ".2b: 1 3/8\" (3.5 cm)",
+            "Dimensions": "Part: 2 3/4 x 1\" (7 x 2.5 cm)\r\n.1a: 2 x 1\" (5.1 x 2.5 cm)\r\n.1b: 1 1/8 x 7/8\" (2.8 x 2.2 cm)\r\n.2a: 4\" (10.2 cm)\r\n.2b: 1 3/8\" (3.5 cm)",
             "Credit": "Gift of Eimer & Amend",
             "Object number": "231.1934.1a-b",
             "Department": "Architecture and Design"

@@ -377,11 +377,10 @@
         "Details": {
             "Manufacturer": "Robinson, Lewis and Rubin, Inc., Brooklyn, NY",
             "Medium": "Acrylic with aluminum handle",
-            "Dimensions": "Overall: 9 x 9 1/2 x 9 1/2\" (22.8 x 24.1 x 24.1 cm)",
-            ".a (outer bowl): 4 x 9 1/2 x 9 1/2\" (10.2 x 24.1 x 24.1 cm)": ".b (inner bowl): 4 x 9 1/2 x 9 1/2\" (10.2 x 24.1 x 24.1 cm)",
-            ".c (lid): 4 3/4 x 7 3/4\" (12.1 x 19.7 cm)": "Credit",
-            "Gift of the designer": "Object number",
-            "2225.1967.a-c": "Department"
+            "Dimensions": "Overall: 9 x 9 1/2 x 9 1/2\" (22.8 x 24.1 x 24.1 cm)\r\n.a (outer bowl): 4 x 9 1/2 x 9 1/2\" (10.2 x 24.1 x 24.1 cm)\r\n.b (inner bowl): 4 x 9 1/2 x 9 1/2\" (10.2 x 24.1 x 24.1 cm)\r\n.c (lid): 4 3/4 x 7 3/4\" (12.1 x 19.7 cm)",
+            "Credit": "Gift of the designer",
+            "Object number": "2225.1967.a-c",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/817"
     },
@@ -443,12 +442,12 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1MDU1NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=30716a67bb022082",
         "Details": {
             "Medium": "Sixteen gelatin silver prints in boxed portfolio",
-            "Dimensions": "Image (each): 15 7/16 x 15 7/16\" (39.2 x 39.2 cm)",
-            "Mat (each): 23 5/8 x 19 11/16\" (60 x 50 cm)": "Publisher",
-            "Galerie Heike Curtze, Galerie Krinzinger, Vienna": "Credit",
-            "Committee on Media and Performance Art Funds": "Object number",
-            "794.2012.a-p": "Copyright",
-            "\u00a9 2023 G\u00fcnter Brus. Courtesy Heike Curtze Galerie, Vienna": "Department"
+            "Dimensions": "Image (each): 15 7/16 x 15 7/16\" (39.2 x 39.2 cm)\r\nMat (each): 23 5/8 x 19 11/16\" (60 x 50 cm)",
+            "Publisher": "Galerie Heike Curtze, Galerie Krinzinger, Vienna",
+            "Credit": "Committee on Media and Performance Art Funds",
+            "Object number": "794.2012.a-p",
+            "Copyright": "\u00a9 2023 G\u00fcnter Brus. Courtesy Heike Curtze Galerie, Vienna",
+            "Department": "Media and Performance"
         },
         "Profile": "https://www.moma.org/artists/833"
     },

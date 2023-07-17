@@ -75,14 +75,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyNzUxNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c5de36993fea8492",
         "Details": {
             "Medium": "Woodcut",
-            "Dimensions": "irreg. composition  28 1/8 x 19 1/2\" (71.5 x 49.6 cm)",
-            "sheet  30 5/8 x 20 3/8\" (77 x 51.7 cm)": "Publisher",
-            "The New York Kunsthalle, New York": "Printer",
-            "Felix Droese": "Edition",
-            "50": "Credit",
-            "The Philip and Lynn Straus Foundation Fund": "Object number",
-            "292.1994": "Copyright",
-            "\u00a9 2023 Felix Droese / Artists Rights Society (ARS), New York / VG Bild-Kunst, Germany": "Department"
+            "Dimensions": "irreg. composition  28 1/8 x 19 1/2\" (71.5 x 49.6 cm)\r\nsheet  30 5/8 x 20 3/8\" (77 x 51.7 cm)",
+            "Publisher": "The New York Kunsthalle, New York",
+            "Printer": "Felix Droese",
+            "Edition": "50",
+            "Credit": "The Philip and Lynn Straus Foundation Fund",
+            "Object number": "292.1994",
+            "Copyright": "\u00a9 2023 Felix Droese / Artists Rights Society (ARS), New York / VG Bild-Kunst, Germany",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/1620"
     },
@@ -765,10 +765,10 @@
         "Details": {
             "Manufacturer": "Freitag, Zurich, Switzerland",
             "Medium": "Used truck tarpaulins, seatbelts, and innertubes",
-            "Dimensions": "(maximum) 25 5/8 x 16 7/8 x 5 7/8\" (65 x 42.9 x 15 cm)",
-            "(minimum) 13 3/8 x 16 7/8 x 13 3/8\" (34 x 42.9 x 34 cm)": "Credit",
-            "Gift of Lars M\u00fcller": "Object number",
-            "112.2003": "Department"
+            "Dimensions": "(maximum) 25 5/8 x 16 7/8 x 5 7/8\" (65 x 42.9 x 15 cm)\r\n(minimum) 13 3/8 x 16 7/8 x 13 3/8\" (34 x 42.9 x 34 cm)",
+            "Credit": "Gift of Lars M\u00fcller",
+            "Object number": "112.2003",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/26099"
     },

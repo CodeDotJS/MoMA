@@ -163,12 +163,13 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNzY0MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e2a99c2c26c894a6",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "composition  22 13/16 x 17 1/4\" (57.9 x 43.9 cm)",
-            "sheet  22 13/16 x 17 1/4\" (57 x 43.9 cm)": "Publisher",
-            "Universal Limited Art Editions, West Islip, New York": "Edition",
-            "49, 9 AP, 2 PP": "Credit",
-            "Gift of Emily Fisher Landau": "Object number",
-            "110.1991": "Department"
+            "Dimensions": "composition  22 13/16 x 17 1/4\" (57.9 x 43.9 cm)\r\nsheet  22 13/16 x 17 1/4\" (57 x 43.9 cm)",
+            "Publisher": "Universal Limited Art Editions, West Islip, New York",
+            "Printer": "Universal Limited Art Editions, West Islip, New York",
+            "Edition": "49, 9 AP, 2 PP",
+            "Credit": "Gift of Emily Fisher Landau",
+            "Object number": "110.1991",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/3500"
     },
@@ -391,14 +392,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMDI5NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f1a9a8081e73ea2c",
         "Details": {
             "Medium": "Woodcut",
-            "Dimensions": "irreg. composition  24 x 15 15/16\" (61 x 40.6 cm)",
-            "sheet  28 15/16 x 21 7/16\" (73 x 54.5 cm)": "Publisher",
-            "Skowhegan School of Painting and Sculpture": "Printer",
-            "Oberon Press Inc., New York": "Edition",
-            "80, X; plus 1 B.A.T., 3 P.P., 12 A.P., 10 H.C., and 1 archival proof": "Credit",
-            "John B. Turner Fund": "Object number",
-            "111.1993": "Copyright",
-            "\u00a9 2023 Robert Mangold / Artists Rights Society (ARS), New York": "Department"
+            "Dimensions": "irreg. composition  24 x 15 15/16\" (61 x 40.6 cm)\r\nsheet  28 15/16 x 21 7/16\" (73 x 54.5 cm)",
+            "Publisher": "Skowhegan School of Painting and Sculpture",
+            "Printer": "Oberon Press Inc., New York",
+            "Edition": "80, X; plus 1 B.A.T., 3 P.P., 12 A.P., 10 H.C., and 1 archival proof",
+            "Credit": "John B. Turner Fund",
+            "Object number": "111.1993",
+            "Copyright": "\u00a9 2023 Robert Mangold / Artists Rights Society (ARS), New York",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/3723"
     },

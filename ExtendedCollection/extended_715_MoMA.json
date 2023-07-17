@@ -171,12 +171,12 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0NzMyOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4eb49a359a91b9c6",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "composition  18 1/8 x 24 1/16\" (46 x 61.1 cm)",
-            "sheet  18 1/8 x 24 1/16\" (46 x 61.1 cm)": "Printer",
-            "Tamarind Institute, Albuquerque, NM": "Credit",
-            "John B. Turner Fund": "Object number",
-            "302.1972": "Copyright",
-            "\u00a9 2023 Joyce Kozloff": "Department"
+            "Dimensions": "composition  18 1/8 x 24 1/16\" (46 x 61.1 cm)\r\nsheet  18 1/8 x 24 1/16\" (46 x 61.1 cm)",
+            "Printer": "Tamarind Institute, Albuquerque, NM",
+            "Credit": "John B. Turner Fund",
+            "Object number": "302.1972",
+            "Copyright": "\u00a9 2023 Joyce Kozloff",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/3235"
     },
@@ -454,8 +454,7 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQzOTk2MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e56455d218ec3fa2",
         "Details": {
             "Medium": "Ten gelatin silver prints and typewritten text on paper",
-            "Dimensions": "Frame: 25 1/8 \u00d7 36 3/8 \u00d7 1 1/8\" (63.8 \u00d7 92.4 \u00d7 2.9 cm)",
-            "Sheet (Photographs each): 4 1/8 \u00d7 5 13/16\" (10.5 \u00d7 14.8 cm)": "Sheet (Score): 11 11/16 \u00d7 8 1/4\" (29.7 \u00d7 21 cm)",
+            "Dimensions": "Frame: 25 1/8 \u00d7 36 3/8 \u00d7 1 1/8\" (63.8 \u00d7 92.4 \u00d7 2.9 cm)\r\nSheet (Photographs each): 4 1/8 \u00d7 5 13/16\" (10.5 \u00d7 14.8 cm)\r\nSheet (Score): 11 11/16 \u00d7 8 1/4\" (29.7 \u00d7 21 cm)",
             "Performer": "Janez Kocijan\u010di\u0107, Tribina Mladih, Novi Sad",
             "Credit": "Modern Women\u2019s Fund",
             "Object number": "1221.2018",

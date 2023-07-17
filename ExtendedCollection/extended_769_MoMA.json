@@ -537,10 +537,10 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNDk0MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b47d5aa693d27f6a",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "composition  21 15/16 x 29 3/4\" (55.7 x 75.6 cm)",
-            "sheet  21 15/16 x 29 3/4\" (55.7 x 75.6 cm)": "Credit",
-            "John B. Turner Fund": "Object number",
-            "603.1970": "Department"
+            "Dimensions": "composition  21 15/16 x 29 3/4\" (55.7 x 75.6 cm)\r\nsheet  21 15/16 x 29 3/4\" (55.7 x 75.6 cm)",
+            "Credit": "John B. Turner Fund",
+            "Object number": "603.1970",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/1134"
     },
@@ -553,10 +553,10 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNDk0MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2f49451878dddbd1",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "composition  22 x 29 13/16\" (55.9 x 75.7 cm)",
-            "sheet  22 5/8 x 29 13/16\" (57.5 x 75.7 cm)": "Credit",
-            "John B. Turner Fund": "Object number",
-            "604.1970": "Department"
+            "Dimensions": "composition  22 x 29 13/16\" (55.9 x 75.7 cm)\r\nsheet  22 5/8 x 29 13/16\" (57.5 x 75.7 cm)",
+            "Credit": "John B. Turner Fund",
+            "Object number": "604.1970",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/1134"
     },
@@ -669,10 +669,10 @@
         "Details": {
             "Manufacturer": "Flexform, Italy",
             "Medium": "PVC plastic, polyurethane foam, and fabric",
-            "Dimensions": "25 1/4 x 24 x 44\" (64.1 x 61 x 111.8 cm)",
-            "(nested): w. 24 x diam. 19 3/8\" (61 x 49.2 cm)": "Credit",
-            "Gift of the manufacturer": "Object number",
-            "SC8.1972": "Department"
+            "Dimensions": "25 1/4 x 24 x 44\" (64.1 x 61 x 111.8 cm)\r\n(nested): w. 24 x diam. 19 3/8\" (61 x 49.2 cm)",
+            "Credit": "Gift of the manufacturer",
+            "Object number": "SC8.1972",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/1196"
     },

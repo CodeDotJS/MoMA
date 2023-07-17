@@ -42,12 +42,12 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0OTQ4NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5359fa12ba656713",
         "Details": {
             "Medium": "Drypoint and aquatint",
-            "Dimensions": "plate  16 7/16 x 23 15/16\" (41.7 x 60.8 cm)",
-            "sheet  23 1/4 x 29 3/4\" (59.1 x 75.6 cm)": "Publisher",
-            "Parasol Press, Ltd., New York": "Printer",
-            "Crown Point Press, San Francisco": "Credit",
-            "John B. Turner Fund": "Object number",
-            "351.1980": "Department"
+            "Dimensions": "plate  16 7/16 x 23 15/16\" (41.7 x 60.8 cm)\r\nsheet  23 1/4 x 29 3/4\" (59.1 x 75.6 cm)",
+            "Publisher": "Parasol Press, Ltd., New York",
+            "Printer": "Crown Point Press, San Francisco",
+            "Credit": "John B. Turner Fund",
+            "Object number": "351.1980",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/5849"
     },
@@ -355,9 +355,7 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1MTU2NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=abd75978ba0f9315",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": ".1: 27 x 19\" (68.6 x 48.3 cm)",
-            ".2: 26 3/4 x 19\" (67.9 x 48.3 cm)": ".3: 26 5/8 x 19\" (67.6 x 48.3 cm)",
-            ".4: 26 3/4 x 19\" (67.9 x 48.3 cm)": ".5: 26 5/8 x 19\" (67.6 x 48.3 cm)",
+            "Dimensions": ".1: 27 x 19\" (68.6 x 48.3 cm)\r\n.2: 26 3/4 x 19\" (67.9 x 48.3 cm)\r\n.3: 26 5/8 x 19\" (67.6 x 48.3 cm)\r\n.4: 26 3/4 x 19\" (67.9 x 48.3 cm)\r\n.5: 26 5/8 x 19\" (67.6 x 48.3 cm)",
             "Credit": "Gift of Lawrence Benenson",
             "Object number": "285.2012.1-5",
             "Department": "Architecture and Design"
@@ -600,11 +598,11 @@
         "Work": "https://www.moma.org/collection/works/199283",
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MjIyNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=521ab6a3dfb107ea",
         "Details": {
-            "Medium": ".1-.19: Lithograph",
-            ".20: Lithograph, screenprint, gelatin silver print, printed fabric samples": "Dimensions",
-            "11 3/4 x 8 1/4\" (29.8 x 21 cm)": "Credit",
-            "Gift of the designer": "Object number",
-            "377.2004.20": "Department"
+            "Medium": ".1-.19: Lithograph\r\n.20: Lithograph, screenprint, gelatin silver print, printed fabric samples",
+            "Dimensions": "11 3/4 x 8 1/4\" (29.8 x 21 cm)",
+            "Credit": "Gift of the designer",
+            "Object number": "377.2004.20",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/6155"
     },
@@ -688,10 +686,10 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1Mzc2OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ca59a2949fea26c1",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "irreg composition  12 7/8 x 25 1/4\" (32.7 x 64.1 cm)",
-            "sheet  19 1/8 x 25 1/4\" (48.6 x 64.1 cm)": "Credit",
-            "Gift of Mrs. Constantine Sidamon-Eristoff": "Object number",
-            "352.1980": "Department"
+            "Dimensions": "irreg composition  12 7/8 x 25 1/4\" (32.7 x 64.1 cm)\r\nsheet  19 1/8 x 25 1/4\" (48.6 x 64.1 cm)",
+            "Credit": "Gift of Mrs. Constantine Sidamon-Eristoff",
+            "Object number": "352.1980",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/6221"
     },

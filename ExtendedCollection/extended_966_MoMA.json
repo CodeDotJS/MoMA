@@ -92,11 +92,11 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNDc1NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2a771a6319945768",
         "Details": {
             "Medium": "Etching",
-            "Dimensions": "plate  14 13/16 x 14 13/16\" (37.7 x 37.7 cm)",
-            "sheet  22 11/16 x 17 5/8\" (57 x 44.8 cm)": "Printer",
-            "Gordon Cook": "Credit",
-            "Gift of Liadain O'Donovan-Cook": "Object number",
-            "708.1995": "Department"
+            "Dimensions": "plate  14 13/16 x 14 13/16\" (37.7 x 37.7 cm)\r\nsheet  22 11/16 x 17 5/8\" (57 x 44.8 cm)",
+            "Printer": "Gordon Cook",
+            "Credit": "Gift of Liadain O'Donovan-Cook",
+            "Object number": "708.1995",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/7472"
     },
@@ -579,14 +579,14 @@
         "Details": {
             "Author": "Jean Dubuffet",
             "Medium": "Illustrated book with eleven lithographs",
-            "Dimensions": "page: 17 1/16 x 14 15/16\" (43 x 38 cm)",
-            "Prints: various dimensions": "Publisher",
-            "PAB (Pierre Andr\u00e9 Benoit), Al\u00e8s and Paris": "Printer",
-            "Serge Lozingot, Jean Dubuffet, Paris": "Edition",
-            "50": "Credit",
-            "Gift of Mr. and Mrs. Ralph F. Colin": "Object number",
-            "824.1965.1-11": "Copyright",
-            "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris": "Department"
+            "Dimensions": "page: 17 1/16 x 14 15/16\" (43 x 38 cm)\r\nPrints: various dimensions",
+            "Publisher": "PAB (Pierre Andr\u00e9 Benoit), Al\u00e8s and Paris",
+            "Printer": "Serge Lozingot, Jean Dubuffet, Paris",
+            "Edition": "50",
+            "Credit": "Gift of Mr. and Mrs. Ralph F. Colin",
+            "Object number": "824.1965.1-11",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/1633"
     },

@@ -548,13 +548,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3NjM5OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b8c22a343c387510",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "composition  22 9/16 x 21 1/16\" (57.3 x 53.5 cm)",
-            "sheet  22 9/16 x 21 1/16\" (57.3 x 53.5 cm)": "Publisher",
-            "Collector's Press, San Francisco": "Edition",
-            "50": "Credit",
-            "John B. Turner Fund": "Object number",
-            "31.1972": "Copyright",
-            "\u00a9 2023 Peter Saul": "Department"
+            "Dimensions": "composition  22 9/16 x 21 1/16\" (57.3 x 53.5 cm)\r\nsheet  22 9/16 x 21 1/16\" (57.3 x 53.5 cm)",
+            "Publisher": "Collector's Press, San Francisco",
+            "Printer": "Collector's Press, San Francisco",
+            "Edition": "50",
+            "Credit": "John B. Turner Fund",
+            "Object number": "31.1972",
+            "Copyright": "\u00a9 2023 Peter Saul",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/5178"
     },

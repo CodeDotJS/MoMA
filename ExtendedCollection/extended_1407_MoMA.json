@@ -696,11 +696,11 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ2NTA2MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e82ebfe23d80b77d",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": ".a: 28 x 40\" (71.1 x 101.6 cm)",
-            ".b: 28 7/8 x 40\" (73.3 x 101.6 cm)": "Credit",
-            "Special Purchase Fund": "Object number",
-            "364.1937.a-b": "Copyright",
-            "\u00a9 2023 / Artists Rights Society (ARS), New York": "Department"
+            "Dimensions": ".a: 28 x 40\" (71.1 x 101.6 cm)\r\n.b: 28 7/8 x 40\" (73.3 x 101.6 cm)",
+            "Credit": "Special Purchase Fund",
+            "Object number": "364.1937.a-b",
+            "Copyright": "\u00a9 2023 / Artists Rights Society (ARS), New York",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/12501"
     },

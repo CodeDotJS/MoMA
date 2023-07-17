@@ -170,11 +170,7 @@
         "Details": {
             "Manufacturer": "Georg Jensen S\u00f8lvsmedie, Copenhagen, Denmark",
             "Medium": "Plastic and steel",
-            "Dimensions": ".1 (overall): 11 3/8 x 11 1/8 x 11 1/8\" (28.9 x 28.3 x 28.3 cm)",
-            ".1a (frame): 11 1/8 x 11 1/8 x 11 1/8\" (28.3 x 28.3 x 28.3 cm)": ".1b (top): 1/4 x 11 1/8 x 11 1/8\" (0.6 x 28.3 x 28.3 cm)",
-            ".2 (overall): 10 3/4 x 10 1/2 x 10 1/2\" (27.3 x 26.7 x 26.7 cm)": ".2a (frame): 10 1/2 x 10 1/2 x 10 1/2\" (26.7 x 26.7 x 26.7 cm)",
-            ".2b (top): 1/4 x 10 1/2 x 10 1/2\" (0.6 x 26.7 x 26.7 cm)": ".3 (overall): 10 1/4 x 10 x 10\" (26 x 25.4 x 25.4 cm)",
-            ".3a (frame): 10 x 10 x 10\" (25.4 x 25.4 x 25.4 cm)": ".3b (top): 1/4 x 10 x 10\" (0.6 x 25.4 x 25.4 cm)",
+            "Dimensions": ".1 (overall): 11 3/8 x 11 1/8 x 11 1/8\" (28.9 x 28.3 x 28.3 cm)\r\n.1a (frame): 11 1/8 x 11 1/8 x 11 1/8\" (28.3 x 28.3 x 28.3 cm)\r\n.1b (top): 1/4 x 11 1/8 x 11 1/8\" (0.6 x 28.3 x 28.3 cm)\r\n.2 (overall): 10 3/4 x 10 1/2 x 10 1/2\" (27.3 x 26.7 x 26.7 cm)\r\n.2a (frame): 10 1/2 x 10 1/2 x 10 1/2\" (26.7 x 26.7 x 26.7 cm)\r\n.2b (top): 1/4 x 10 1/2 x 10 1/2\" (0.6 x 26.7 x 26.7 cm)\r\n.3 (overall): 10 1/4 x 10 x 10\" (26 x 25.4 x 25.4 cm)\r\n.3a (frame): 10 x 10 x 10\" (25.4 x 25.4 x 25.4 cm)\r\n.3b (top): 1/4 x 10 x 10\" (0.6 x 25.4 x 25.4 cm)",
             "Credit": "Estate of Patricia Bonfield",
             "Object number": "297.1999.1-3",
             "Department": "Architecture and Design"
@@ -378,10 +374,10 @@
         "Details": {
             "Manufacturer": "Koch Creations, Lynbrook, NY",
             "Medium": "Plastic and metal",
-            "Dimensions": "expanded: 16 x 3 1/4\" (40.6 x 8.3 cm)",
-            "compact: 6 x 3 1/4\" (15.2 x 8.3 cm)": "Credit",
-            "Purchase": "Object number",
-            "585.1963": "Department"
+            "Dimensions": "expanded: 16 x 3 1/4\" (40.6 x 8.3 cm)\r\ncompact: 6 x 3 1/4\" (15.2 x 8.3 cm)",
+            "Credit": "Purchase",
+            "Object number": "585.1963",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/10901"
     },
@@ -581,10 +577,10 @@
         "Details": {
             "Manufacturer": "Avard Inc., New York, NY",
             "Medium": "Metal and wire mesh",
-            "Dimensions": ".1 - 29 1/2 x 23 x 28 1/2\" (74.9 x 58.4 x 72.4 cm)",
-            ".2 - (unknown - TBD)": "Credit",
-            "Gift of the manufacturer": "Object number",
-            "573.1963.1-2": "Department"
+            "Dimensions": ".1 - 29 1/2 x 23 x 28 1/2\" (74.9 x 58.4 x 72.4 cm)\r\n.2 - (unknown - TBD)",
+            "Credit": "Gift of the manufacturer",
+            "Object number": "573.1963.1-2",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/3365"
     },

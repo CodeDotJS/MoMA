@@ -156,14 +156,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMzg1NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=87b3c36db6b26648",
         "Details": {
             "Medium": "Photogravure",
-            "Dimensions": "plate  21 1/16 x 13 7/8\" (53.5 x 35.3 cm)",
-            "sheet  30 x 22 1/2\" (76 x 57.2 cm)": "Publisher",
-            "Gisela Capitain, Cologne": "Printer",
-            "Till Verclas, Hamburg": "Edition",
-            "25": "Credit",
-            "Purchase": "Object number",
-            "8.1991": "Copyright",
-            "\u00a9 2023 Georg Herold / Artists Rights Society (ARS), New York / VG Bild-Kunst, Germany": "Department"
+            "Dimensions": "plate  21 1/16 x 13 7/8\" (53.5 x 35.3 cm)\r\nsheet  30 x 22 1/2\" (76 x 57.2 cm)",
+            "Publisher": "Gisela Capitain, Cologne",
+            "Printer": "Till Verclas, Hamburg",
+            "Edition": "25",
+            "Credit": "Purchase",
+            "Object number": "8.1991",
+            "Copyright": "\u00a9 2023 Georg Herold / Artists Rights Society (ARS), New York / VG Bild-Kunst, Germany",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/2615"
     },
@@ -490,8 +490,7 @@
         "Details": {
             "Author": "Ilya Kabakov",
             "Medium": "Illustrated book with thirty-nine linoleum cuts, thirty-eight with pencil additions, and two ink and pencil drawings",
-            "Dimensions": "each sheet  8 5/8 x 6 1/4\" (21.9 x 15.8 cm)",
-            "page  20 1/4 x 13 3/4\" (51 x 35 cm)": "Prints: various dimensions.",
+            "Dimensions": "each sheet  8 5/8 x 6 1/4\" (21.9 x 15.8 cm)\r\npage  20 1/4 x 13 3/4\" (51 x 35 cm)\r\nPrints: various dimensions.",
             "Edition": "3",
             "Credit": "Gift of Emilia Kanevsky and the artist",
             "Object number": "289.1991.1-41",

@@ -110,13 +110,13 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3NjM2MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4409b6ac247715af",
         "Details": {
             "Medium": "Mezzotint",
-            "Dimensions": "plate  19 7/16 x 19 1/2\" (49.4 x 49.6 cm)",
-            "sheet  31 1/8 x 22 1/4\" (79 x 56.5 cm)": "Publisher",
-            "Universal Limited Art Editions, West Islip, New York": "Edition",
-            "49": "Credit",
-            "Gift of Emily Fisher Landau": "Object number",
-            "214.1990": "Copyright",
-            "\u00a9 2023 Susan Rothenberg / Artists Rights Society (ARS), New York": "Department"
+            "Dimensions": "plate  19 7/16 x 19 1/2\" (49.4 x 49.6 cm)\r\nsheet  31 1/8 x 22 1/4\" (79 x 56.5 cm)",
+            "Publisher": "Universal Limited Art Editions, West Islip, New York",
+            "Edition": "49",
+            "Credit": "Gift of Emily Fisher Landau",
+            "Object number": "214.1990",
+            "Copyright": "\u00a9 2023 Susan Rothenberg / Artists Rights Society (ARS), New York",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/5044"
     },
@@ -514,11 +514,11 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2OTUwOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=deed63c971295af7",
         "Details": {
             "Medium": "Eighty 35mm color slides",
-            "Dimensions": "Dimensions variable. Continous projection.",
-            "Slide (each): 2 x 2\"": "Credit",
-            "Acquired through the generosity of Marie-Jos\u00e9e Kravis": "Object number",
-            "221.2013": "Copyright",
-            "\u00a9 2023 Allan Sekula": "Department"
+            "Dimensions": "Dimensions variable. Continous projection.\r\nSlide (each): 2 x 2\"",
+            "Credit": "Acquired through the generosity of Marie-Jos\u00e9e Kravis",
+            "Object number": "221.2013",
+            "Copyright": "\u00a9 2023 Allan Sekula",
+            "Department": "Media and Performance"
         },
         "Profile": "https://www.moma.org/artists/31040"
     },

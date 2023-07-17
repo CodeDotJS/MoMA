@@ -8,13 +8,13 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxODYyMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=33229e2d21e650f6",
         "Details": {
             "Medium": "Lithograph with embossing",
-            "Dimensions": "plate  9 13/16 x 10 1/2\" (24.9 x 26.7 cm)",
-            "sheet  21 5/8 x 22 1/4\" (55 x 56.5 cm)": "Publisher",
-            "Sonja Heine - Neils Onstad Foundation, Oslo, Norway": "Printer",
-            "Derriere L'Etoile Studios, New York": "Edition",
-            "Ed. 50; 20 ap's; 2 hc": "Credit",
-            "Gift of James Wilder Green": "Object number",
-            "474.1986": "Department"
+            "Dimensions": "plate  9 13/16 x 10 1/2\" (24.9 x 26.7 cm)\r\nsheet  21 5/8 x 22 1/4\" (55 x 56.5 cm)",
+            "Publisher": "Sonja Heine - Neils Onstad Foundation, Oslo, Norway",
+            "Printer": "Derriere L'Etoile Studios, New York",
+            "Edition": "Ed. 50; 20 ap's; 2 hc",
+            "Credit": "Gift of James Wilder Green",
+            "Object number": "474.1986",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/4126"
     },
@@ -450,10 +450,10 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NjYyMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b573389fa26eaff3",
         "Details": {
             "Medium": "Twenty-five gelatin silver prints",
-            "Dimensions": "overall 32 \u00d7 32\" (81.3 \u00d7 81.3 cm)",
-            "each 6 \u00d7 6\" (15.3 \u00d7 15.3 cm)": "Credit",
-            "Purchase": "Object number",
-            "188.1992": "Department"
+            "Dimensions": "overall 32 \u00d7 32\" (81.3 \u00d7 81.3 cm)\r\neach 6 \u00d7 6\" (15.3 \u00d7 15.3 cm)",
+            "Credit": "Purchase",
+            "Object number": "188.1992",
+            "Department": "Photography"
         },
         "Profile": "https://www.moma.org/artists/7012"
     },
@@ -864,14 +864,11 @@
         "Work": "https://www.moma.org/collection/works/857",
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDE2MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=09f6fbe2fcbaa39b",
         "Details": {
-            "Medium": "All media on heavy weight paper",
-            ".a: ink and graphite": ".b: ink and color ink, and graphite",
-            ".c: ink and color ink": ".d-.e: ink",
-            ".f-.g: ink and color ink and graphite": ".h: ink and color ink",
-            ".i: ink": "Dimensions",
-            "Each: 4 7/8 x 3\" (12.4 x 7.6 cm)": "Credit",
-            "Gift of The Howard Gilman Foundation": "Object number",
-            "1246.2000.a-i": "Department"
+            "Medium": "All media on heavy weight paper\r\n.a: ink and graphite\r\n.b: ink and color ink, and graphite\r\n.c: ink and color ink\r\n.d-.e: ink\r\n.f-.g: ink and color ink and graphite\r\n.h: ink and color ink\r\n.i: ink",
+            "Dimensions": "Each: 4 7/8 x 3\" (12.4 x 7.6 cm)",
+            "Credit": "Gift of The Howard Gilman Foundation",
+            "Object number": "1246.2000.a-i",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/7986"
     }

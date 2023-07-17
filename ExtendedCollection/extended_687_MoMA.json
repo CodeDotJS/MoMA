@@ -656,13 +656,13 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ4MjI4NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e3bf680fc5a653cb",
         "Details": {
             "Medium": "One from a series of eight letterpress and lithograph cards with eight envelopes",
-            "Dimensions": "Other (card): 8 x 5\" (20.3 x 12.7 cm)",
-            "Other (envelope): 5 1/4 x 8 3/16\" (13.3 x 20.8 cm)": "Publisher",
-            "Art for All, London": "Printer",
-            "Unidentified": "Edition",
-            "unknown": "Credit",
-            "The Museum of Modern Art Library, New York. Franklin Furnace Collection": "Object number",
-            "300163871": "Department"
+            "Dimensions": "Other (card): 8 x 5\" (20.3 x 12.7 cm)\r\nOther (envelope): 5 1/4 x 8 3/16\" (13.3 x 20.8 cm)",
+            "Publisher": "Art for All, London",
+            "Printer": "Unidentified",
+            "Edition": "unknown",
+            "Credit": "The Museum of Modern Art Library, New York. Franklin Furnace Collection",
+            "Object number": "300163871",
+            "Department": "Library"
         },
         "Profile": "https://www.moma.org/artists/7496"
     },

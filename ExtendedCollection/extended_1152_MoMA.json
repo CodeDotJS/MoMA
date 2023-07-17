@@ -244,12 +244,13 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NzUyMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a6b5d1e026d6bfb7",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "irreg. composition  8 7/8 x 6 1/4\" (22.5 x 15.8 cm)",
-            "sheet  10 1/4 x 8 1/4\" (26 x 21 cm)": "Publisher",
-            "Unidentified": "Edition",
-            "20": "Credit",
-            "William K. Simpson Fund in memory of Abby Aldrich Rockefeller": "Object number",
-            "278.1992": "Department"
+            "Dimensions": "irreg. composition  8 7/8 x 6 1/4\" (22.5 x 15.8 cm)\r\nsheet  10 1/4 x 8 1/4\" (26 x 21 cm)",
+            "Publisher": "Unidentified",
+            "Printer": "Unidentified",
+            "Edition": "20",
+            "Credit": "William K. Simpson Fund in memory of Abby Aldrich Rockefeller",
+            "Object number": "278.1992",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/4441"
     },
@@ -431,10 +432,10 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyODM2NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5547ca65fae1e84b",
         "Details": {
             "Medium": "Brass",
-            "Dimensions": ".1 (dish): 1 1/8 x 9 1/4\" (2.8 x 23.5 cm)",
-            ".2 (bowl): 3 5/8 x 10 5/16\" (9.2 x 26.2 cm)": "Credit",
-            "Gift of Bonniers, Inc.": "Object number",
-            "142.1955.1-2": "Department"
+            "Dimensions": ".1 (dish): 1 1/8 x 9 1/4\" (2.8 x 23.5 cm)\r\n.2 (bowl): 3 5/8 x 10 5/16\" (9.2 x 26.2 cm)",
+            "Credit": "Gift of Bonniers, Inc.",
+            "Object number": "142.1955.1-2",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/4532"
     },

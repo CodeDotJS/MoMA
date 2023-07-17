@@ -399,11 +399,11 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3NTE5MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7f6db3c544a9f604",
         "Details": {
             "Medium": "Drypoint",
-            "Dimensions": "plate  5 15/16 x 5 9/16\" (15.1 x 14.1 cm)",
-            "sheet  8 1/4 x 6 7/8\" (21 x 17.5 cm)": "Edition",
-            "Unknown": "Credit",
-            "The Philip and Lynn Straus Foundation Fund": "Object number",
-            "13.1985": "Department"
+            "Dimensions": "plate  5 15/16 x 5 9/16\" (15.1 x 14.1 cm)\r\nsheet  8 1/4 x 6 7/8\" (21 x 17.5 cm)",
+            "Edition": "Unknown",
+            "Credit": "The Philip and Lynn Straus Foundation Fund",
+            "Object number": "13.1985",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/2543"
     },
@@ -724,10 +724,10 @@
         "Details": {
             "Manufacturer": "Sturm, Vienna",
             "Medium": "Silver",
-            "Dimensions": ".1 (fork): 7 7/16 x 7/8\" (18.9 x 2.2 cm)",
-            ".2 (knife): 8 1/16 x 7/8\" (20.5 x 2.2 cm)": "Credit",
-            "Gift of Manfred Ludewig": "Object number",
-            "734.1983.1-2": "Department"
+            "Dimensions": ".1 (fork): 7 7/16 x 7/8\" (18.9 x 2.2 cm)\r\n.2 (knife): 8 1/16 x 7/8\" (20.5 x 2.2 cm)",
+            "Credit": "Gift of Manfred Ludewig",
+            "Object number": "734.1983.1-2",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/2694"
     },

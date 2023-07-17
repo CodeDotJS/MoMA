@@ -744,14 +744,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQwMDA2NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8505e2a6cce9979d",
         "Details": {
             "Medium": "Illustrated book with nine screenprints",
-            "Dimensions": "page  11 3/4 x 27 1/4\" (29 x 69.3 cm)",
-            "Prints:  various dimensions.": "Publisher",
-            "Edition Domberger, Filderstadt, West Germany, Parasol Press, Ltd., New York": "Printer",
-            "Edition Domberger, Stuttgart": "Edition",
-            "First edition (1977): 300 (numbered 1-300 with last print signed). Second edition (1989): 300 (with one print signed). Third edition (1992): 300 (with all prints signed)": "Credit",
-            "Carol O. Selle Fund": "Object number",
-            "466.1977.1-9": "Copyright",
-            "\u00a9 2023 Robert Mangold/Artists Rights Society (ARS), New York": "Department"
+            "Dimensions": "page  11 3/4 x 27 1/4\" (29 x 69.3 cm)\r\nPrints:  various dimensions.",
+            "Publisher": "Edition Domberger, Filderstadt, West Germany, Parasol Press, Ltd., New York",
+            "Printer": "Edition Domberger, Stuttgart",
+            "Edition": "First edition (1977): 300 (numbered 1-300 with last print signed). Second edition (1989): 300 (with one print signed). Third edition (1992): 300 (with all prints signed)",
+            "Credit": "Carol O. Selle Fund",
+            "Object number": "466.1977.1-9",
+            "Copyright": "\u00a9 2023 Robert Mangold/Artists Rights Society (ARS), New York",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/3723"
     },

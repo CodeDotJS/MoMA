@@ -299,14 +299,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMzcxMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a6a83e09079b619d",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "composition  21 9/16 x 29 7/16\" (54.8 x 74.8 cm)",
-            "sheet  22 3/16 x 30\" (56 x 76.2 cm)": "Publisher",
-            "Olivetti, Milan (Giorgio Soavi)": "Printer",
-            "Imprimerie Clot, Bramsen et Georges, Paris": "Edition",
-            "300, 35 artist's proofs": "Credit",
-            "Gift of the artist": "Object number",
-            "568.1978": "Copyright",
-            "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris": "Department"
+            "Dimensions": "composition  21 9/16 x 29 7/16\" (54.8 x 74.8 cm)\r\nsheet  22 3/16 x 30\" (56 x 76.2 cm)",
+            "Publisher": "Olivetti, Milan (Giorgio Soavi)",
+            "Printer": "Imprimerie Clot, Bramsen et Georges, Paris",
+            "Edition": "300, 35 artist's proofs",
+            "Credit": "Gift of the artist",
+            "Object number": "568.1978",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/107"
     },
@@ -336,14 +336,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjY3MTI5Il0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNTEyeDUxMlx1MDAzZSJdXQ.jpg?sha=0c2b605def87c42a",
         "Details": {
             "Medium": "Aquatint and lithograph",
-            "Dimensions": "irreg. composition  21 1/2 x 29 3/4\" (54.6 x 75.5 cm)",
-            "sheet  24 11/16 x 35 3/8\" (62 x 89.8 cm)": "Publisher",
-            "\u00c9ditions Georges Visat, Paris": "Printer",
-            "Georges Visat, Imprimerie Clot, Bramsen et Georges, Paris": "Edition",
-            "This print exists in four versions of colors; each version (A-D) consists of 50 impressions. This impression is from version A": "Credit",
-            "Gift of the artist": "Object number",
-            "570.1978": "Copyright",
-            "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris": "Department"
+            "Dimensions": "irreg. composition  21 1/2 x 29 3/4\" (54.6 x 75.5 cm)\r\nsheet  24 11/16 x 35 3/8\" (62 x 89.8 cm)",
+            "Publisher": "\u00c9ditions Georges Visat, Paris",
+            "Printer": "Georges Visat, Imprimerie Clot, Bramsen et Georges, Paris",
+            "Edition": "This print exists in four versions of colors; each version (A-D) consists of 50 impressions. This impression is from version A",
+            "Credit": "Gift of the artist",
+            "Object number": "570.1978",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/107"
     },
@@ -533,11 +533,11 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNDE2NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d80d208bb5e8edbd",
         "Details": {
             "Medium": "Etching",
-            "Dimensions": "plate  13 3/4 x 8 15/16\" (34.9 x 22.7 cm)",
-            "sheet  22 3/8 x 14 7/8\" (56.7 x 37.7 cm)": "Edition",
-            "Unknown": "Credit",
-            "Larry Aldrich Fund": "Object number",
-            "285.1972": "Department"
+            "Dimensions": "plate  13 3/4 x 8 15/16\" (34.9 x 22.7 cm)\r\nsheet  22 3/8 x 14 7/8\" (56.7 x 37.7 cm)",
+            "Edition": "Unknown",
+            "Credit": "Larry Aldrich Fund",
+            "Object number": "285.1972",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/180"
     },

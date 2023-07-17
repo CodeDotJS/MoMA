@@ -114,8 +114,7 @@
         "Details": {
             "Manufacturer": "Takefu Knife Village",
             "Medium": "Stainless steel",
-            "Dimensions": "1/2 x 1/2 x 7 1/4\" (1.2 x 1.2 x 18.5 cm);",
-            "X open: 1/4 x 1 3/8 x 5 3/8\" (0.8 x 3.5 x 13.7 cm)": "X closed: 3/8 x 3/8 x 5 3/8\" (0.8 x 1 x 13.7 cm)",
+            "Dimensions": "1/2 x 1/2 x 7 1/4\" (1.2 x 1.2 x 18.5 cm); \r\nX open: 1/4 x 1 3/8 x 5 3/8\" (0.8 x 3.5 x 13.7 cm)\r\nX closed: 3/8 x 3/8 x 5 3/8\" (0.8 x 1 x 13.7 cm)",
             "Credit": "Gift of Ouzak Design Formation",
             "Object number": "118.2006.1-2",
             "Copyright": "Photo by Ouzak Design Formation",
@@ -166,14 +165,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMzkzOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0da92147c8cb6247",
         "Details": {
             "Medium": "Illustrated book with twenty-one woodcuts",
-            "Dimensions": "page: 23 1/4 x 16 1/2\" (59 x 42 cm)",
-            "Prints: various dimensions": "Publisher",
-            "Anselm Kiefer, Hornbach": "Printer",
-            "Anselm Kiefer": "Edition",
-            "10": "Credit",
-            "Purchase": "Object number",
-            "203.1984.1-21": "Copyright",
-            "\u00a9 2023 Anselm Kiefer": "Department"
+            "Dimensions": "page: 23 1/4 x 16 1/2\" (59 x 42 cm)\r\nPrints: various dimensions",
+            "Publisher": "Anselm Kiefer, Hornbach",
+            "Printer": "Anselm Kiefer",
+            "Edition": "10",
+            "Credit": "Purchase",
+            "Object number": "203.1984.1-21",
+            "Copyright": "\u00a9 2023 Anselm Kiefer",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/3086"
     },

@@ -277,12 +277,13 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2Mjc5MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cc35a9972e531724",
         "Details": {
             "Medium": "Drypoint",
-            "Dimensions": "plate  6 15/16 x 3\" (17.7 x 7.7 cm)",
-            "sheet  13 5/16 x 9 1/16\" (33 x 23 cm)": "Publisher",
-            "Gemini G.E.L., Los Angeles": "Edition",
-            "3 proofs outside an edition of 25": "Credit",
-            "Purchase": "Object number",
-            "341.1987": "Department"
+            "Dimensions": "plate  6 15/16 x 3\" (17.7 x 7.7 cm)\r\nsheet  13 5/16 x 9 1/16\" (33 x 23 cm)",
+            "Publisher": "Gemini G.E.L., Los Angeles",
+            "Printer": "Gemini G.E.L., Los Angeles",
+            "Edition": "3 proofs outside an edition of 25",
+            "Credit": "Purchase",
+            "Object number": "341.1987",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/1411"
     },

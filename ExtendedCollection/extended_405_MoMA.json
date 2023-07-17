@@ -200,12 +200,13 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMzIxNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4cc599001655ace3",
         "Details": {
             "Medium": "Woodcut",
-            "Dimensions": "composition  16 7/8 x 13 9/16\" (42.8 x 34.4 cm)",
-            "sheet  25 15/16 x 20 1/16\" (66 x 51 cm)": "Publisher",
-            "The Spring Street Workshop, New York": "Edition",
-            "50, 14 AP, 4 PP, 1 HC": "Credit",
-            "John B. Turner Fund": "Object number",
-            "222.1990": "Department"
+            "Dimensions": "composition  16 7/8 x 13 9/16\" (42.8 x 34.4 cm)\r\nsheet  25 15/16 x 20 1/16\" (66 x 51 cm)",
+            "Publisher": "The Spring Street Workshop, New York",
+            "Printer": "The Spring Street Workshop, New York",
+            "Edition": "50, 14 AP, 4 PP, 1 HC",
+            "Credit": "John B. Turner Fund",
+            "Object number": "222.1990",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/5560"
     },

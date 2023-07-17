@@ -26,10 +26,10 @@
         "Details": {
             "Manufacturer": "AB Gustavsberg Fabriker, Sweden",
             "Medium": "Glazed ceramic",
-            "Dimensions": ".1: 10 5/8 x 3 3/8\" (27 x 8.6 cm)",
-            ".2: 8 x 3 3/8\" (20.3 x 8.6 cm)": "Credit",
-            "Gift of the manufacturer": "Object number",
-            "220.1958.1-2": "Department"
+            "Dimensions": ".1: 10 5/8 x 3 3/8\" (27 x 8.6 cm)\r\n.2: 8 x 3 3/8\" (20.3 x 8.6 cm)",
+            "Credit": "Gift of the manufacturer",
+            "Object number": "220.1958.1-2",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/3555"
     },
@@ -96,7 +96,8 @@
             "Dimensions": "10 5/8 \u00d7 13 1/2\" (27.0 \u00d7 34.3 cm)",
             "Credit": "Purchase",
             "Object number": "272.1976",
-            "Copyright": "Department"
+            "Copyright": "",
+            "Department": "Photography"
         },
         "Profile": "https://www.moma.org/artists/3561"
     },

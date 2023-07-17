@@ -214,11 +214,11 @@
         "Work": "https://www.moma.org/collection/works/6018",
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNzQ4MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8b71cee6c8ac0f6f",
         "Details": {
-            "Medium": "Lithograph",
-            "Paper/Support: Meynell": "Dimensions",
-            "28 3/4 x 35 7/8\" (73 x 91.1 cm)": "Credit",
-            "Gift of Mrs. John Carter": "Object number",
-            "277.1943": "Department"
+            "Medium": "Lithograph\r\nPaper/Support: Meynell",
+            "Dimensions": "28 3/4 x 35 7/8\" (73 x 91.1 cm)",
+            "Credit": "Gift of Mrs. John Carter",
+            "Object number": "277.1943",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/8384"
     },
@@ -431,11 +431,10 @@
         "Details": {
             "Manufacturer": "Cristalleria Nason e Moretti, Venezia-Murano, Italy",
             "Medium": "Steel-colored crystal",
-            "Dimensions": ".1 (wine tumbler): 3 x 2 3/4\" (7.6 x 7 cm)",
-            ".2 (liqueur tumbler): 2 x 2\" (5.1 x 5.1 cm)": ".3 (sherry tumbler): 2 3/4 x 2 1/2\" (7 x 6.4 cm)",
-            ".4 (highball tumbler): 4 3/8 x 2 5/8\" (11.1 x 6.7 cm)": "Credit",
-            "Gift of Fraser's": "Object number",
-            "224.1953.1-4": "Department"
+            "Dimensions": ".1 (wine tumbler): 3 x 2 3/4\" (7.6 x 7 cm)\r\n.2 (liqueur tumbler): 2 x 2\" (5.1 x 5.1 cm)\r\n.3 (sherry tumbler): 2 3/4 x 2 1/2\" (7 x 6.4 cm)\r\n.4 (highball tumbler): 4 3/8 x 2 5/8\" (11.1 x 6.7 cm)",
+            "Credit": "Gift of Fraser's",
+            "Object number": "224.1953.1-4",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/4232"
     },

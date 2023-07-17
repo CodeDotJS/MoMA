@@ -805,11 +805,11 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NzYwMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4d9ee02db2ac8c5f",
         "Details": {
             "Medium": "Drypoint",
-            "Dimensions": "plate  9 1/4 x 6 7/8\" (23.5 x 17.5 cm)",
-            "irreg sheet  18 x 11 3/8\" (45 x 28.9 cm)": "Edition",
-            "Probably no more than 75": "Credit",
-            "Joanne M. Stern Fund": "Object number",
-            "449.1977": "Department"
+            "Dimensions": "plate  9 1/4 x 6 7/8\" (23.5 x 17.5 cm)\r\nirreg sheet  18 x 11 3/8\" (45 x 28.9 cm)",
+            "Edition": "Probably no more than 75",
+            "Credit": "Joanne M. Stern Fund",
+            "Object number": "449.1977",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/4279"
     },

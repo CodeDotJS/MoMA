@@ -672,11 +672,10 @@
         "Details": {
             "Manufacturer": "Braun AG, Frankfurt, Germany, est. 1921",
             "Medium": "Plastic and steel",
-            "Dimensions": ".a-.b (assembled): 10 1/2 x 14 1/2 x 7 1/2\" (26.7 x 36.8 x 19 cm)",
-            ".c (bowl): 6 5/8 x 9 1/2\" (16.8 x 24.1 cm)": ".d (dough hook): 6 11/16\" (17 cm)",
-            ".e (whisk): 6 5/8\" (16.8 cm)": "Credit",
-            "Gift of the manufacturer": "Object number",
-            "561.1964.a-e": "Department"
+            "Dimensions": ".a-.b (assembled): 10 1/2 x 14 1/2 x 7 1/2\" (26.7 x 36.8 x 19 cm)\r\n.c (bowl): 6 5/8 x 9 1/2\" (16.8 x 24.1 cm)\r\n.d (dough hook): 6 11/16\" (17 cm)\r\n.e (whisk): 6 5/8\" (16.8 cm)",
+            "Credit": "Gift of the manufacturer",
+            "Object number": "561.1964.a-e",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/4158"
     },
@@ -690,10 +689,10 @@
         "Details": {
             "Manufacturer": "Danese S.r.l., Italy",
             "Medium": "Anodized aluminum and melamine resin",
-            "Dimensions": ".1: 3 1/4 x 3 1/4 x 3 1/4\" (8.3 x 8.3 x 8.3 cm)",
-            ".2: 2 3/8 x 2 3/8 x 2 3/8\" (6 x 6 x 6 cm)": "Credit",
-            "Gift of the manufacturer": "Object number",
-            "2271.2001.1-2": "Department"
+            "Dimensions": ".1: 3 1/4 x 3 1/4 x 3 1/4\" (8.3 x 8.3 x 8.3 cm)\r\n.2: 2 3/8 x 2 3/8 x 2 3/8\" (6 x 6 x 6 cm)",
+            "Credit": "Gift of the manufacturer",
+            "Object number": "2271.2001.1-2",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/4163"
     },
@@ -757,11 +756,10 @@
         "Details": {
             "Manufacturer": "Cristalleria Nason e Moretti, Venezia-Murano, Italy",
             "Medium": "Glass",
-            "Dimensions": ".1: 6 3/16 x 3 3/8\" (15.7 x 8.5 cm)",
-            ".2: 2 3/4 x 3 1/8\" (7 x 8 cm)": ".3: 2 1/4 x 2 5/8\" (5.7 x 6.6 cm)",
-            ".4: 2 x 2 1/8\" (5.1 x 5.4 cm)": "Credit",
-            "Given anonymously": "Object number",
-            "2307.2001.1-4": "Department"
+            "Dimensions": ".1: 6 3/16 x 3 3/8\" (15.7 x 8.5 cm)\r\n.2: 2 3/4 x 3 1/8\" (7 x 8 cm)\r\n.3: 2 1/4 x 2 5/8\" (5.7 x 6.6 cm)\r\n.4: 2 x 2 1/8\" (5.1 x 5.4 cm)",
+            "Credit": "Given anonymously",
+            "Object number": "2307.2001.1-4",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/22959"
     },

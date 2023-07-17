@@ -374,12 +374,12 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MTQyNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0d58a7f556ec181c",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": ".a-.c: 11 x 8 3/8 x 1/8\" (27.9 x 21.3 x 0.3 cm)",
-            ".d,.e: 11 x 8 1/2\" (27.9 x 21.6 cm)": "Printer",
-            "Philatelic Marketing, Ottawa, Ashton-Potter Limited, Toronto": "Credit",
-            "Gift of the designer": "Object number",
-            "415.2007.1-5": "Copyright",
-            "\u00a9 2023 Rolf Harder": "Department"
+            "Dimensions": ".a-.c: 11 x 8 3/8 x 1/8\" (27.9 x 21.3 x 0.3 cm)\r\n.d,.e: 11 x 8 1/2\" (27.9 x 21.6 cm)",
+            "Printer": "Philatelic Marketing, Ottawa, Ashton-Potter Limited, Toronto",
+            "Credit": "Gift of the designer",
+            "Object number": "415.2007.1-5",
+            "Copyright": "\u00a9 2023 Rolf Harder",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/32655"
     },

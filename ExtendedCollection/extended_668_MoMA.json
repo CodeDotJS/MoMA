@@ -504,11 +504,12 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMzM4MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=93e09a48ed9cd8cc",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "composition  8 15/16 x 22 7/16\" (22.8 x 57 cm)",
-            "sheet  15 7/16 x 22 11/16\" (39.2 x 57.6 cm)": "Publisher",
-            "Universal Limited Art Editions, West Islip, New York": "Credit",
-            "Gift of Celeste Bartos": "Object number",
-            "384.1974": "Department"
+            "Dimensions": "composition  8 15/16 x 22 7/16\" (22.8 x 57 cm)\r\nsheet  15 7/16 x 22 11/16\" (39.2 x 57.6 cm)",
+            "Publisher": "Universal Limited Art Editions, West Islip, New York",
+            "Printer": "Universal Limited Art Editions, West Islip, New York",
+            "Credit": "Gift of Celeste Bartos",
+            "Object number": "384.1974",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/5223"
     },

@@ -267,13 +267,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NjYxMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9fc6caa2e5ba237d",
         "Details": {
             "Medium": "Drypoint",
-            "Dimensions": "irreg. plate  20 1/4 x 26 1/2\" (51.4 x 67.4 cm)",
-            "sheet  20 3/8 x 26 1/2\" (51 x 67.4 cm)": "Publisher",
-            "Universal Limited Art Editions, West Islip, New York": "Edition",
-            "52, 7 AP, 2 PP": "Credit",
-            "Gift of Emily Fisher Landau": "Object number",
-            "180.1990": "Copyright",
-            "\u00a9 2023 Carroll Dunham": "Department"
+            "Dimensions": "irreg. plate  20 1/4 x 26 1/2\" (51.4 x 67.4 cm)\r\nsheet  20 3/8 x 26 1/2\" (51 x 67.4 cm)",
+            "Publisher": "Universal Limited Art Editions, West Islip, New York",
+            "Printer": "Universal Limited Art Editions, West Islip, New York",
+            "Edition": "52, 7 AP, 2 PP",
+            "Credit": "Gift of Emily Fisher Landau",
+            "Object number": "180.1990",
+            "Copyright": "\u00a9 2023 Carroll Dunham",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/1652"
     },
@@ -349,11 +350,11 @@
             "Dimensions": "plate: 13 7/8 x 18 3/4\" (35.3 x 47.6 cm); sheet: 18 1/8 x 23 1/4\" (46 x 59 cm)",
             "Publisher": "Universal Limited Art Editions, West Islip, New York",
             "Printer": "Universal Limited Art Editions, West Islip, New York",
-            "Edition": "38",
-            "plus 10 AP, 2 PP": "Credit",
-            "Gift of Emily Fisher Landau": "Object number",
-            "636.1990": "Copyright",
-            "\u00a9 2023 Carroll Dunham": "Department"
+            "Edition": "38\r\nplus 10 AP, 2 PP",
+            "Credit": "Gift of Emily Fisher Landau",
+            "Object number": "636.1990",
+            "Copyright": "\u00a9 2023 Carroll Dunham",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/1652"
     },
@@ -467,8 +468,7 @@
         "Details": {
             "Manufacturer": "RFSU Rehab, Stockholm, Sweden",
             "Medium": "Polycarbonate and ABS polymer",
-            "Dimensions": ".1 (fork): 8 3/8 x 1\" (21.3 x 2.5 cm)",
-            ".2 (spoon): 8 3/8 x 1 1/4\" (21.3 x 3.2 cm)": ".3 (smaller spoon): 8 x 1 1/8\" (20.3 x 2.9 cm)",
+            "Dimensions": ".1 (fork): 8 3/8 x 1\" (21.3 x 2.5 cm)\r\n.2 (spoon): 8 3/8 x 1 1/4\" (21.3 x 3.2 cm)\r\n.3 (smaller spoon): 8 x 1 1/8\" (20.3 x 2.9 cm)",
             "Credit": "Gift of the manufacturer",
             "Object number": "160.1991.1-3",
             "Department": "Architecture and Design"

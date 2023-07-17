@@ -383,12 +383,12 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MjI4NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9d19fcf2ca11f43e",
         "Details": {
             "Medium": "Lithograph on self-adhesive paper",
-            "Dimensions": ".a: 7/8 x 1 1/2\" (2.2 x 3.8 cm)",
-            ".b: 1 7/8 x 2 3/4\" (4.8 x 7 cm)": "Printer",
-            "Canadian Bank Note Company, Ottawa": "Credit",
-            "Gift of the designer": "Object number",
-            "420.2007.1-2": "Copyright",
-            "\u00a9 2023 Rolf Harder": "Department"
+            "Dimensions": ".a: 7/8 x 1 1/2\" (2.2 x 3.8 cm)\r\n.b: 1 7/8 x 2 3/4\" (4.8 x 7 cm)",
+            "Printer": "Canadian Bank Note Company, Ottawa",
+            "Credit": "Gift of the designer",
+            "Object number": "420.2007.1-2",
+            "Copyright": "\u00a9 2023 Rolf Harder",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/32655"
     },

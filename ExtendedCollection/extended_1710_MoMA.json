@@ -192,14 +192,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyMTk3NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e1b8ddce9e871a59",
         "Details": {
             "Medium": "Etching",
-            "Dimensions": "Plate: 7 13/16 x 6 5/16\" (19.8 x 16 cm)",
-            "Sheet: 16 15/16 x 14\" (43 x 35.5 cm)": "Publisher",
-            "Edvard Munch": "Printer",
-            "Otto Felsing, Berlin": "Edition",
-            "approximately 50 impressions": "Credit",
-            "Gift of Mrs. Melville Wakeman Hall": "Object number",
-            "226.1983": "Copyright",
-            "\u00a9 2023 The Munch Museum / The Munch-Ellingsen Group / Artists Rights Society (ARS), New York": "Department"
+            "Dimensions": "Plate: 7 13/16 x 6 5/16\" (19.8 x 16 cm)\r\nSheet: 16 15/16 x 14\" (43 x 35.5 cm)",
+            "Publisher": "Edvard Munch",
+            "Printer": "Otto Felsing, Berlin",
+            "Edition": "approximately 50 impressions",
+            "Credit": "Gift of Mrs. Melville Wakeman Hall",
+            "Object number": "226.1983",
+            "Copyright": "\u00a9 2023 The Munch Museum / The Munch-Ellingsen Group / Artists Rights Society (ARS), New York",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/4164"
     },
@@ -392,8 +392,7 @@
         "Details": {
             "Manufacturer": "Reinhold Merkelbach, Grenzhausen, Germany",
             "Medium": "Glazed stoneware",
-            "Dimensions": ".1: h. 8 x w. 4 1/2\" (h. 20.3 x w. 11.4 cm), diam. 5 1/2\" (14 cm)",
-            ".2a: h. 3 1/2\" (h. 8.9 cm), diam. 3 3/4\" (9.5 cm)": ".2b: h. 3 5/8\" (h. 9.2 cm), diam. 3 1/4\" (8.3 cm)",
+            "Dimensions": ".1: h. 8 x w. 4 1/2\" (h. 20.3 x w. 11.4 cm), diam. 5 1/2\" (14 cm) \r\n.2a: h. 3 1/2\" (h. 8.9 cm), diam. 3 3/4\" (9.5 cm) \r\n.2b: h. 3 5/8\" (h. 9.2 cm), diam. 3 1/4\" (8.3 cm)",
             "Credit": "Phyllis B. Lambert Fund",
             "Object number": "SC20.1958.1-2",
             "Department": "Architecture and Design"
@@ -410,10 +409,10 @@
         "Details": {
             "Manufacturer": "Reinhold Merkelbach, Grenzhausen, Germany",
             "Medium": "Glazed stoneware",
-            "Dimensions": ".a (body): h. 7 5/16\" (18.6 cm)",
-            ".b (lid): h. 1 5/8\" (4.1 cm)": "Credit",
-            "Phyllis B. Lambert Fund": "Object number",
-            "SC21.1958.1.a-b": "Department"
+            "Dimensions": ".a (body): h. 7 5/16\" (18.6 cm)\r\n.b (lid): h. 1 5/8\" (4.1 cm)",
+            "Credit": "Phyllis B. Lambert Fund",
+            "Object number": "SC21.1958.1.a-b",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/4918"
     },

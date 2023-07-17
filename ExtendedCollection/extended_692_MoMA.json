@@ -546,14 +546,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM1MTAwNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=68971cf5f748f341",
         "Details": {
             "Medium": "Etching and aquatint",
-            "Dimensions": "plate  23 3/4 x 14 3/16\" (60.4 x 36 cm)",
-            "sheet  32 7/16 x 22 3/16\" (82.4 x 56.3 cm)": "Publisher",
-            "Parasol Press, Ltd., New York": "Printer",
-            "Crown Point Press, San Francisco": "Edition",
-            "40, 12 APs": "Credit",
-            "Gift of Edgar B. Howard": "Object number",
-            "393.1981": "Copyright",
-            "\u00a9 2023 Brice Marden  / Artists Rights Society (ARS), New York": "Department"
+            "Dimensions": "plate  23 3/4 x 14 3/16\" (60.4 x 36 cm)\r\nsheet  32 7/16 x 22 3/16\" (82.4 x 56.3 cm)",
+            "Publisher": "Parasol Press, Ltd., New York",
+            "Printer": "Crown Point Press, San Francisco",
+            "Edition": "40, 12 APs",
+            "Credit": "Gift of Edgar B. Howard",
+            "Object number": "393.1981",
+            "Copyright": "\u00a9 2023 Brice Marden  / Artists Rights Society (ARS), New York",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/3758"
     },
@@ -566,13 +566,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM1MTA4NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c5be4dc024e7c244",
         "Details": {
             "Medium": "Screenprint",
-            "Dimensions": "irreg. composition  19 1/4 x 16 3/16\" (48.9 x 41.1 cm)",
-            "sheet  41 9/16 x 29 15/16\" (105 x 76.1 cm)": "Publisher",
-            "Simca Print Artists Inc., New York": "Edition",
-            "50, 6 APs": "Credit",
-            "John B. Turner Fund": "Object number",
-            "677.1993": "Copyright",
-            "\u00a9 2023 Brice Marden  / Artists Rights Society (ARS), New York": "Department"
+            "Dimensions": "irreg. composition  19 1/4 x 16 3/16\" (48.9 x 41.1 cm)\r\nsheet  41 9/16 x 29 15/16\" (105 x 76.1 cm)",
+            "Publisher": "Simca Print Artists Inc., New York",
+            "Printer": "Simca Print Artists Inc., New York",
+            "Edition": "50, 6 APs",
+            "Credit": "John B. Turner Fund",
+            "Object number": "677.1993",
+            "Copyright": "\u00a9 2023 Brice Marden  / Artists Rights Society (ARS), New York",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/3758"
     },

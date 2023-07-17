@@ -319,12 +319,12 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNDY3NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=174ca4721cfdd229",
         "Details": {
             "Medium": "Woodcut",
-            "Dimensions": "sl.irreg composition  27 1/2 x 22 9/16\" (69.8 x 57.3 cm)",
-            "sl.irreg. sheet  27 1/2 x 22 9/16\" (69 x 57.3 cm)": "Sheet 27 1/2 x 22 9/16\" (69.8 x 57.3  cm) Comp. 20 9/16 x 22 9/16\" (52.2 x 57.3  cm)(irreg.)",
-            "Edition": "Credit",
-            "Abby Aldrich Rockefeller Fund": "Object number",
-            "209.1976": "Copyright",
-            "\u00a9 2023 Pol Bury / Artists Rights Society (ARS), New York / ADAGP, Paris": "Department"
+            "Dimensions": "sl.irreg composition  27 1/2 x 22 9/16\" (69.8 x 57.3 cm)\r\nsl.irreg. sheet  27 1/2 x 22 9/16\" (69 x 57.3 cm)\r\nSheet 27 1/2 x 22 9/16\" (69.8 x 57.3  cm) Comp. 20 9/16 x 22 9/16\" (52.2 x 57.3  cm)(irreg.)",
+            "Edition": "",
+            "Credit": "Abby Aldrich Rockefeller Fund",
+            "Object number": "209.1976",
+            "Copyright": "\u00a9 2023 Pol Bury / Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/890"
     },
@@ -782,8 +782,7 @@
         "Details": {
             "Manufacturer": "Peter Danko Design & Woodwork, Alexandria, VA",
             "Medium": "Plywood",
-            "Dimensions": ".1 (mold): 8 3/4 x 10 x 5 1/2\" (22.2 x 25.4 x 14 cm)",
-            ".2 (model chair): 7 x 4 x 5 1/8\" (17.8 x 10.2 x 13 cm)": ".3 (box): 1 x 14 5/16 x 6 1/4\" (2.5 x 36.4 x 16 cm)",
+            "Dimensions": ".1 (mold): 8 3/4 x 10 x 5 1/2\" (22.2 x 25.4 x 14 cm)\r\n.2 (model chair): 7 x 4 x 5 1/8\" (17.8 x 10.2 x 13 cm)\r\n.3 (box): 1 x 14 5/16 x 6 1/4\" (2.5 x 36.4 x 16 cm)",
             "Credit": "Given anonymously",
             "Object number": "SC1345.2001.1-3",
             "Department": "Architecture and Design"

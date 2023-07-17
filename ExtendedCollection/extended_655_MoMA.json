@@ -62,14 +62,14 @@
         "Work": "https://www.moma.org/collection/works/173650",
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4NzA4OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=92817c175ade2374",
         "Details": {
-            "Medium": "Artist's book. Offset lithograph, thirty-eight pages",
-            "16mm film (color, silent, 4:15 min.) and canister": "Dimensions",
-            "page (each): 6 x 7 1/16\" (15.2 x 18 cm); overall (closed): 6 x 7 3/16 x 3/16\" (15.2 x 18.2 x 0.5 cm)": "Publisher",
-            "Petersburg Press, London": "Edition",
-            "1,100 (including 100 with film)": "Credit",
-            "General Print Fund": "Object number",
-            "764.2013.a-c": "Copyright",
-            "\u00a9  2013 Artists Rights Society (ARS), New York / SABAM, Brussels": "Department"
+            "Medium": "Artist's book. Offset lithograph, thirty-eight pages\r\n16mm film (color, silent, 4:15 min.) and canister",
+            "Dimensions": "page (each): 6 x 7 1/16\" (15.2 x 18 cm); overall (closed): 6 x 7 3/16 x 3/16\" (15.2 x 18.2 x 0.5 cm)",
+            "Publisher": "Petersburg Press, London",
+            "Edition": "1,100 (including 100 with film)",
+            "Credit": "General Print Fund",
+            "Object number": "764.2013.a-c",
+            "Copyright": "\u00a9  2013 Artists Rights Society (ARS), New York / SABAM, Brussels",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/795"
     },
@@ -119,13 +119,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNDA2MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5f38ce365273c40d",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "irreg composition  16 x 12 15/16\" (40.6 x 32.9 cm)",
-            "sheet  20 1/16 x 16 1/16\" (51 x 40.8 cm)": "Publisher",
-            "Cirrus Editions, Ltd., Los Angeles": "Edition",
-            "50": "Credit",
-            "John R. Jakobson Foundation Fund": "Object number",
-            "124.1975": "Copyright",
-            "\u00a9 2023 Chris Burden": "Department"
+            "Dimensions": "irreg composition  16 x 12 15/16\" (40.6 x 32.9 cm)\r\nsheet  20 1/16 x 16 1/16\" (51 x 40.8 cm)",
+            "Publisher": "Cirrus Editions, Ltd., Los Angeles",
+            "Printer": "Cirrus Editions, Ltd., Los Angeles",
+            "Edition": "50",
+            "Credit": "John R. Jakobson Foundation Fund",
+            "Object number": "124.1975",
+            "Copyright": "\u00a9 2023 Chris Burden",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/871"
     },
@@ -226,13 +227,14 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzNzIyMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8c8a2665fd56f122",
         "Details": {
             "Medium": "Etching and aquatint",
-            "Dimensions": "Plate: 34 7/16 x 22 1/8\" (87.4 x 56.2 cm)",
-            "Sheet: 38 9/16 x 27 5/8\" (98 x 70.2 cm)": "Publisher",
-            "2RC Editrice, Rome": "Edition",
-            "77, 10 AP": "Credit",
-            "Gift of Linda Barth Goldstein": "Object number",
-            "395.1990": "Copyright",
-            "\u00a9 2023 Pol Bury / Artists Rights Society (ARS), New York / ADAGP, Paris": "Department"
+            "Dimensions": "Plate: 34 7/16 x 22 1/8\" (87.4 x 56.2 cm)\r\nSheet: 38 9/16 x 27 5/8\" (98 x 70.2 cm)",
+            "Publisher": "2RC Editrice, Rome",
+            "Printer": "2RC Editrice, Rome",
+            "Edition": "77, 10 AP",
+            "Credit": "Gift of Linda Barth Goldstein",
+            "Object number": "395.1990",
+            "Copyright": "\u00a9 2023 Pol Bury / Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/890"
     },

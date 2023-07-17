@@ -576,10 +576,10 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDc2NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=35c48b6d0c2dbde1",
         "Details": {
             "Medium": "Letterpress",
-            "Dimensions": ".1: 2 1/8 x 9 5/8\" (5.4 x 24.4 cm)",
-            ".2: 1 3/4 x 7 7/8\" (4.4 x 20 cm)": "Credit",
-            "Jan Tschichold Collection, Gift of Philip Johnson": "Object number",
-            "633.1999.1-2": "Department"
+            "Dimensions": ".1: 2 1/8 x 9 5/8\" (5.4 x 24.4 cm)\r\n.2: 1 3/4 x 7 7/8\" (4.4 x 20 cm)",
+            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
+            "Object number": "633.1999.1-2",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/8231"
     },

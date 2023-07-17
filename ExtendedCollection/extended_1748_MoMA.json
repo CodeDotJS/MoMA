@@ -508,13 +508,13 @@
         "Details": {
             "Author": "Gustave Geffroy",
             "Medium": "Illustrated book with sixteen lithographs",
-            "Dimensions": "irreg. page  15 1/8 x 15 1/8\" (38 x 38.5 cm)",
-            "Prints: various dimensions.": "Publisher",
-            "L'Estampe Originale, Paris": "Printer",
-            "Edward Ancourt, Paris": "Edition",
-            "Unpublished proofs": "Credit",
-            "Vincent D'Aquila and Harry Soviak Bequest": "Object number",
-            "490.1992.1-16": "Department"
+            "Dimensions": "irreg. page  15 1/8 x 15 1/8\" (38 x 38.5 cm)\r\nPrints: various dimensions.",
+            "Publisher": "L'Estampe Originale, Paris",
+            "Printer": "Edward Ancourt, Paris",
+            "Edition": "Unpublished proofs",
+            "Credit": "Vincent D'Aquila and Harry Soviak Bequest",
+            "Object number": "490.1992.1-16",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/5910"
     },
@@ -789,10 +789,10 @@
             "Medium": "Lithograph",
             "Dimensions": "composition: 9 13/16 x 12 5/8\" (24.9 x 32 cm); sheet: 10 1/2 x 14 9/16\" (26.7 x 37 cm)",
             "Publisher": "Th\u00e9\u00e2tre de l'Oeuvre, Paris",
-            "Edition": "unknown",
-            "Impression:": "Credit",
-            "Gift of Fran\u00e7ois Lachenal": "Object number",
-            "301.1948": "Department"
+            "Edition": "unknown\r\nImpression:",
+            "Credit": "Gift of Fran\u00e7ois Lachenal",
+            "Object number": "301.1948",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/6064"
     },

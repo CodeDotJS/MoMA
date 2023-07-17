@@ -227,8 +227,7 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMTM2OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4259ed6bbadad4d4",
         "Details": {
             "Medium": "Lithograph, printed on two sides",
-            "Dimensions": "side 1 composition  20 15/16 x 27 1/2\" (53.3 x 69.9 cm)",
-            "side 2 composition  20 x 27 15/16\" (50.8 x 71.1 cm)": "sheet  22 1/4 x 30 1/4\" (56 x 76.8 cm)",
+            "Dimensions": "side 1 composition  20 15/16 x 27 1/2\" (53.3 x 69.9 cm)\r\nside 2 composition  20 x 27 15/16\" (50.8 x 71.1 cm)\r\nsheet  22 1/4 x 30 1/4\" (56 x 76.8 cm)",
             "Publisher": "The Print Club, New York",
             "Printer": "Corridor Press, Philadelphia",
             "Edition": "100",
@@ -248,10 +247,10 @@
         "Details": {
             "Manufacturer": "France Fluocaril",
             "Medium": "Thermoplastic resin and ABS polymer",
-            "Dimensions": ".a (holder): 2 3/16 x 2 3/16\" (5.5 x 5.5 cm)",
-            ".b (toothbrush): 7 3/4 x 3/4 x 1\" (19.7 x 1.9 x 2.5 cm)": "Credit",
-            "David Whitney Collection, Gift of David Whitney": "Object number",
-            "70.2000.1": "Department"
+            "Dimensions": ".a (holder): 2 3/16 x 2 3/16\" (5.5 x 5.5 cm)\r\n.b (toothbrush): 7 3/4 x 3/4 x 1\" (19.7 x 1.9 x 2.5 cm)",
+            "Credit": "David Whitney Collection, Gift of David Whitney",
+            "Object number": "70.2000.1",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/8418"
     },

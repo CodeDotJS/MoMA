@@ -204,12 +204,13 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEwODYzMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e8075ae833da1110",
         "Details": {
             "Medium": "Lithograph, offset printed",
-            "Dimensions": "Composition (irreg.): 24 13/16 x 34 1/4\" (63 x 87 cm)",
-            "Sheet: 24 13/16 x 35 13/16\" (63 x 91 cm)": "Publisher",
-            "Universal Limited Art Editions, West Islip, New York": "Credit",
-            "Gift of Emily Fisher Landau": "Object number",
-            "696.1993": "Copyright",
-            "\u00a9 2023 Terry Winters": "Department"
+            "Dimensions": "Composition (irreg.): 24 13/16 x 34 1/4\" (63 x 87 cm)\r\nSheet: 24 13/16 x 35 13/16\" (63 x 91 cm)",
+            "Publisher": "Universal Limited Art Editions, West Islip, New York",
+            "Printer": "Universal Limited Art Editions, West Islip, New York",
+            "Credit": "Gift of Emily Fisher Landau",
+            "Object number": "696.1993",
+            "Copyright": "\u00a9 2023 Terry Winters",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/6408"
     },
@@ -513,10 +514,10 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4MjA2NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8f33291a361e0a03",
         "Details": {
             "Medium": "ABS plastic and other materials",
-            "Dimensions": "open: 9 x 11 x 10\" (22.9 x 27.9 x 25.4 cm)",
-            "closed: 1 1/2 x 11 x 8 1/2\" (3.8 x 27.9 x 21.6 cm)": "Credit",
-            "Gift of the Peter Norton Family Foundation": "Object number",
-            "967.2010": "Department"
+            "Dimensions": "open: 9 x 11 x 10\" (22.9 x 27.9 x 25.4 cm)\r\nclosed: 1 1/2 x 11 x 8 1/2\" (3.8 x 27.9 x 21.6 cm)",
+            "Credit": "Gift of the Peter Norton Family Foundation",
+            "Object number": "967.2010",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/10295"
     },

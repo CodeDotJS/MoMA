@@ -698,13 +698,13 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNzUyMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=622fd02fd8050f85",
         "Details": {
             "Medium": "Portfolio of 6 aquatints (3 with soft ground etching and 1 with drypoint) and 1 soft ground etching",
-            "Dimensions": "each plate  13 7/8 x 11 1/8\" (35.2 x 28.2 cm)",
-            "ea. appox. sheet  18 3/16 x 15\" (46 x 38.2 cm)": "Publisher",
-            "Mark Baron": "Printer",
-            "Downstairs Editions": "Edition",
-            "19": "Credit",
-            "Walter Bareiss Fund": "Object number",
-            "328.1986.1-7": "Department"
+            "Dimensions": "each plate  13 7/8 x 11 1/8\" (35.2 x 28.2 cm)\r\nea. appox. sheet  18 3/16 x 15\" (46 x 38.2 cm)",
+            "Publisher": "Mark Baron",
+            "Printer": "Downstairs Editions",
+            "Edition": "19",
+            "Credit": "Walter Bareiss Fund",
+            "Object number": "328.1986.1-7",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/7917"
     },

@@ -165,10 +165,10 @@
         "Details": {
             "Manufacturer": "The Aluminum Cooking Utensil Co., New York, NY",
             "Medium": "Aluminum, steel, and wood",
-            "Dimensions": ".a (pestle): l. 10 3/4\" (27.3 cm), diam. 1 3/4\" (4.4 cm)",
-            ".b (sieve)-.c (frame): assembled h. 9\" (22.9 cm), diam. 11 3/8\" (28.9 cm)": "Credit",
-            "Gift of Lewis & Conger": "Object number",
-            "154.1947.a-c": "Department"
+            "Dimensions": ".a (pestle): l. 10 3/4\" (27.3 cm), diam. 1 3/4\" (4.4 cm)\r\n.b (sieve)-.c (frame): assembled h. 9\" (22.9 cm), diam. 11 3/8\" (28.9 cm)",
+            "Credit": "Gift of Lewis & Conger",
+            "Object number": "154.1947.a-c",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/10027"
     },
@@ -684,13 +684,13 @@
         "Details": {
             "Author": "Hesiod",
             "Medium": "16 etchings (some with drypoint); and etching (not included in published book), printed in black on cream, smooth, laid paper",
-            "Dimensions": "irreg. sheet  21 x 14 13/16\" (53 x 37.7 cm)",
-            "Prints:  various dimensions.": "Printer",
-            "Galanis": "Edition",
-            "50": "Credit",
-            "The Louis E. Stern Collection": "Object number",
-            "713.1964.1-17": "Copyright",
-            "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris": "Department"
+            "Dimensions": "irreg. sheet  21 x 14 13/16\" (53 x 37.7 cm)\r\nPrints:  various dimensions.",
+            "Printer": "Galanis",
+            "Edition": "50",
+            "Credit": "The Louis E. Stern Collection",
+            "Object number": "713.1964.1-17",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/744"
     },

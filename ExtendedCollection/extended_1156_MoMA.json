@@ -93,12 +93,10 @@
         "Details": {
             "Manufacturer": "John Hull Cutlers Corporation, New York, NY",
             "Medium": "Stainless steel",
-            "Dimensions": ".1 (dinner fork): l. 7\" (17.8 cm)",
-            ".2 (salad fork): l. 6 3/4\" (17 cm)": ".3 (tablespoon): l. 6 7/8\" (17.4 cm)",
-            ".4 (teaspoon): l. 6 1/4\" (15.9 cm)": ".5 (dinner knife): l. 8 3/4\" (22.3 cm)",
-            ".6 (butter knife): l. 6 3/8\" (16.2 cm)": "Credit",
-            "Given anonymously": "Object number",
-            "2324.2001.1-6": "Department"
+            "Dimensions": ".1 (dinner fork): l. 7\" (17.8 cm)\r\n.2 (salad fork): l. 6 3/4\" (17 cm)\r\n.3 (tablespoon): l. 6 7/8\" (17.4 cm)\r\n.4 (teaspoon): l. 6 1/4\" (15.9 cm)\r\n.5 (dinner knife): l. 8 3/4\" (22.3 cm)\r\n.6 (butter knife): l. 6 3/8\" (16.2 cm)",
+            "Credit": "Given anonymously",
+            "Object number": "2324.2001.1-6",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/6460"
     },
@@ -574,11 +572,10 @@
         "Details": {
             "Manufacturer": "Arabia, W\u00e4rtsil\u00e4 Ab, Helsinki, Finland",
             "Medium": "Porcelain",
-            "Dimensions": ".1: 4 1/4 x 6 1/8\" (10.8 x 15.6 cm)",
-            ".2: 3 1/2 x 5\" (8.9 x 12.7 cm)": ".3: 2 7/8 x 4 1/8\" (7.3 x 10.5 cm)",
-            ".4: 2 1/4 x 3 1/4\" (5.7 x 8.3 cm)": "Credit",
-            "Gift of Finland Ceramics and Glass": "Object number",
-            "460.1951.1-4": "Department"
+            "Dimensions": ".1: 4 1/4 x 6 1/8\" (10.8 x 15.6 cm)\r\n.2: 3 1/2 x 5\" (8.9 x 12.7 cm)\r\n.3: 2 7/8 x 4 1/8\" (7.3 x 10.5 cm)\r\n.4: 2 1/4 x 3 1/4\" (5.7 x 8.3 cm)",
+            "Credit": "Gift of Finland Ceramics and Glass",
+            "Object number": "460.1951.1-4",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/9331"
     },

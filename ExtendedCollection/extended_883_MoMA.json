@@ -607,11 +607,11 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzOTI3OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=15b63b24436c0e5a",
         "Details": {
             "Medium": "Screenprint, fiberboard",
-            "Dimensions": "box: 15 \u00d7 17 1/2 \u00d7 5\" (38.1 \u00d7 44.5 \u00d7 12.7 cm)",
-            "poster: 123 7/16 \u00d7 434\" (313.6 \u00d7 1102.3 cm)": "Printer",
-            "The Benline Process Color Company, Pacific Display": "Credit",
-            "Gift of the designer": "Object number",
-            "183.1968": "Department"
+            "Dimensions": "box: 15 \u00d7 17 1/2 \u00d7 5\" (38.1 \u00d7 44.5 \u00d7 12.7 cm)\r\nposter: 123 7/16 \u00d7 434\" (313.6 \u00d7 1102.3 cm)",
+            "Printer": "The Benline Process Color Company, Pacific Display",
+            "Credit": "Gift of the designer",
+            "Object number": "183.1968",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/6381"
     },

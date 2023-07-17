@@ -858,8 +858,7 @@
         "Details": {
             "Author": "Kenneth Koch",
             "Medium": "Three-dimensional lithograph",
-            "Dimensions": "composition  16 3/4 x 19 3/16\" (42.6 x 48.8 cm)",
-            "mat sheet  20 1/2 x 26 3/4 x 2 3/8\" (52.1 x 67.9 x 6.1 cm)": "text page  17 3/8 x 19 3/4\" (44 x 50.2 cm)",
+            "Dimensions": "composition  16 3/4 x 19 3/16\" (42.6 x 48.8 cm)\r\nmat sheet  20 1/2 x 26 3/4 x 2 3/8\" (52.1 x 67.9 x 6.1 cm)\r\ntext page  17 3/8 x 19 3/4\" (44 x 50.2 cm)",
             "Publisher": "Universal Limited Art Editions, West Islip, New York",
             "Printer": "Universal Limited Art Editions, West Islip, New York",
             "Edition": "27 (19 numbered 1/19-19/19; 7 A.P; 1 H.C.)",
@@ -900,12 +899,12 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NzQ4NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cb2b9373e6d0d03d",
         "Details": {
             "Medium": "Etching and screenprint, with varnish additions",
-            "Dimensions": "plate  10 15/16 x 13 15/16\" (27.9 x 35.4 cm)",
-            "sheet  14 5/16 x 17 1/2\" (36.3 x 44.4 cm)": "Edition",
-            "25": "Credit",
-            "Gift of the artist": "Object number",
-            "146.1975": "Copyright",
-            "\u00a9 2023 Estate of Larry Rivers/Licensed by VAGA, New York, NY": "Department"
+            "Dimensions": "plate  10 15/16 x 13 15/16\" (27.9 x 35.4 cm)\r\nsheet  14 5/16 x 17 1/2\" (36.3 x 44.4 cm)",
+            "Edition": "25",
+            "Credit": "Gift of the artist",
+            "Object number": "146.1975",
+            "Copyright": "\u00a9 2023 Estate of Larry Rivers/Licensed by VAGA, New York, NY",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/4945"
     }

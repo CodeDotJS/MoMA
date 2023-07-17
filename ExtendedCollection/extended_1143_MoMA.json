@@ -572,10 +572,10 @@
         "Details": {
             "Manufacturer": "AB R\u00f6rstrands Porslinsfabriker, Lidk\u00f6ping, Sweden",
             "Medium": "Glazed stoneware",
-            "Dimensions": ".1: 13 3/4 x 3 11/16\" (34.9 x 9.4 cm)",
-            ".2: 12 1/8 x 3 3/8\" (30.8 x 8.6 cm)": "Credit",
-            "Gift of the manufacturer": "Object number",
-            "239.1953.1-2": "Department"
+            "Dimensions": ".1: 13 3/4 x 3 11/16\" (34.9 x 9.4 cm)\r\n.2: 12 1/8 x 3 3/8\" (30.8 x 8.6 cm)",
+            "Credit": "Gift of the manufacturer",
+            "Object number": "239.1953.1-2",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/5593"
     },
@@ -622,10 +622,7 @@
         "Details": {
             "Manufacturer": "Georg Jensen S\u00f8lvsmedie, Copenhagen, Denmark",
             "Medium": "Stainless steel",
-            "Dimensions": ".1 (overall): 1 15/16\" (4.9 cm)",
-            ".1a (top): 13/16 x 1 7/8\" (2 x 4.7 cm)": ".1b (bowl): 1 7/8 x 1 3/4\" (4.7 x 4.5 cm)",
-            ".2a (shaker): 1 1/2 x 1 7/8\" (3.8 x 4.7 cm)": ".2b (plug): 7/8\" (2.3 cm)",
-            ".3a (salt dish): 1 x 1 7/8\" (2.5 x 4.7 cm)": ".3b (spoon): 2 5/8\" (6.6 cm)",
+            "Dimensions": ".1 (overall): 1 15/16\" (4.9 cm)\r\n.1a (top): 13/16 x 1 7/8\" (2 x 4.7 cm)\r\n.1b (bowl): 1 7/8 x 1 3/4\" (4.7 x 4.5 cm)\r\n.2a (shaker): 1 1/2 x 1 7/8\" (3.8 x 4.7 cm)\r\n.2b (plug): 7/8\" (2.3 cm)\r\n.3a (salt dish): 1 x 1 7/8\" (2.5 x 4.7 cm)\r\n.3b (spoon): 2 5/8\" (6.6 cm)",
             "Credit": "Phyllis B. Lambert Fund",
             "Object number": "237.1958.1-3",
             "Department": "Architecture and Design"
@@ -811,13 +808,13 @@
         "Details": {
             "Author": "Benjamin P\u00e9ret",
             "Medium": "4 lithographs, printed in color; and 29 linoleum cuts (2 designs repeated), printed in color; and added woodcut (New Year's card), printed in black with watercolor additions",
-            "Dimensions": "irreg. page  9 11/16 x 7 1/2\" (24 x 19 cm)",
-            "Prints: various dimensions.": "Publisher",
-            "Librairie Arcanes": "Printer",
-            "Desjobert, Paris": "Edition",
-            "274 (1 numbered 1 on Van Gelder with 2 supplementary suites and proofs of cancelled plates; 20 numbered 2-21 on Renage with supplementary suite; 229 numbered 22-250 on Rives BFK; 20 H.C. marked A-T; 4 named copies on Renage with supplementary suite)": "Credit",
-            "The Louis E. Stern Collection": "Object number",
-            "1064.1964.1-34": "Department"
+            "Dimensions": "irreg. page  9 11/16 x 7 1/2\" (24 x 19 cm)\r\nPrints: various dimensions.",
+            "Publisher": "Librairie Arcanes",
+            "Printer": "Desjobert, Paris",
+            "Edition": "274 (1 numbered 1 on Van Gelder with 2 supplementary suites and proofs of cancelled plates; 20 numbered 2-21 on Renage with supplementary suite; 229 numbered 22-250 on Rives BFK; 20 H.C. marked A-T; 4 named copies on Renage with supplementary suite)",
+            "Credit": "The Louis E. Stern Collection",
+            "Object number": "1064.1964.1-34",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/5795"
     }

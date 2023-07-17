@@ -456,12 +456,12 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1MzcwMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1495cebf267e68e0",
         "Details": {
             "Medium": "Woodcut",
-            "Dimensions": "Composition: 17 1/16 x 17 1/16\" (43.3 x 43.3 cm)",
-            "Sheet: 25 7/8 x 18 11/16\" (65.7 x 47.4 cm)": "Publisher",
-            "Alfredo Volpi": "Edition",
-            "3": "Credit",
-            "Joanne M. Stern Fund": "Object number",
-            "221.2005": "Department"
+            "Dimensions": "Composition: 17 1/16 x 17 1/16\" (43.3 x 43.3 cm)\r\nSheet: 25 7/8 x 18 11/16\" (65.7 x 47.4 cm)",
+            "Publisher": "Alfredo Volpi",
+            "Edition": "3",
+            "Credit": "Joanne M. Stern Fund",
+            "Object number": "221.2005",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/27989"
     },
@@ -580,9 +580,8 @@
         "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMxODI0MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c755d38e0c0d7e06",
         "Details": {
             "Medium": "Acrylic with metallic enamel paint on canvas, 32 panels",
-            "Dimensions": "Each canvas 20 x 16\" (50.8 x 40.6 cm).",
-            "Overall installation with 3\" between each panel is 97\" high x 163\" wide": "Credit",
-            "Partial gift of Irving Blum": "Additional funding provided by Nelson A. Rockefeller Bequest, gift of Mr. and Mrs. William A. M. Burden, Abby Aldrich Rockefeller Fund, gift of Nina and Gordon Bunshaft, acquired through the Lillie P. Bliss Bequest, Philip Johnson Fund, Frances R. Keech Bequest, gift of Mrs. Bliss Parkinson, and Florence B. Wesley Bequest (all by exchange)",
+            "Dimensions": "Each canvas 20 x 16\" (50.8 x 40.6 cm).\r\nOverall installation with 3\" between each panel is 97\" high x 163\" wide",
+            "Credit": "Partial gift of Irving Blum\r\n\r\nAdditional funding provided by Nelson A. Rockefeller Bequest, gift of Mr. and Mrs. William A. M. Burden, Abby Aldrich Rockefeller Fund, gift of Nina and Gordon Bunshaft, acquired through the Lillie P. Bliss Bequest, Philip Johnson Fund, Frances R. Keech Bequest, gift of Mrs. Bliss Parkinson, and Florence B. Wesley Bequest (all by exchange)",
             "Object number": "476.1996.1-32",
             "Copyright": "\u00a9 2023 Andy Warhol Foundation / ARS, NY / TM Licensed by Campbell's Soup Co. All rights reserved.",
             "Department": "Painting and Sculpture"

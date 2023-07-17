@@ -674,10 +674,10 @@
         "Details": {
             "Manufacturer": "Corning Glass Works, Corning, NY",
             "Medium": "Glass",
-            "Dimensions": ".1: 3 x 2 1/4\" (7.6 x 5.7 cm)",
-            ".2: 3 3/8 x 3\" (8.6 x 7.6 cm)": "Credit",
-            "Gift of the manufacturer": "Object number",
-            "266.1934.1-2": "Department"
+            "Dimensions": ".1: 3 x 2 1/4\" (7.6 x 5.7 cm)\r\n.2: 3 3/8 x 3\" (8.6 x 7.6 cm)",
+            "Credit": "Gift of the manufacturer",
+            "Object number": "266.1934.1-2",
+            "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/5824"
     },
