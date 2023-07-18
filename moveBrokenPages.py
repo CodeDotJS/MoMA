@@ -2,8 +2,8 @@ import os
 import json
 import shutil
 
-folder_path = "ExtendedCollection/"
-broken_folder_path = "PagesBroken/"
+folder_path = "Files/ExtendedCollection/"
+broken_folder_path = "Files/PagesBroken/"
 
 if not os.path.exists(broken_folder_path):
     os.makedirs(broken_folder_path)
@@ -18,10 +18,13 @@ for json_file in json_files:
 
     if isinstance(json_data, list):
         for index, obj in enumerate(json_data):
-            if "Details" not in obj:
-                print(f"{json_file}: Object at index {index} does not contain 'Details'")
+            if "Details" not in obj or "Profile" not in obj:
+                print(f"{json_file}: Object at index {index} does not contain both 'Details' and 'Profile'")
                 shutil.move(file_path, os.path.join(broken_folder_path, json_file))
                 break
-    elif "Details" not in json_data:
-        print(f"{json_file}: Object does not contain 'Details'")
-        shutil.move(file_path, os.path.join(broken_folder_path, json_file))
+        else:
+            continue
+    else:
+        if "Details" not in json_data or "Profile" not in json_data:
+            print(f"{json_file}: Object does not contain both 'Details' and 'Profile'")
+            shutil.move(file_path, os.path.join(broken_folder_path, json_file))

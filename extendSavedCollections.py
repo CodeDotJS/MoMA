@@ -73,8 +73,8 @@ def process_json_file(file_path, output_directory):
     with open(output_path, "w") as json_file:
         json.dump(data, json_file, indent=4)
 
-directory = "Collection_Pages/"
-output_directory = "ExtendedCollection/"
+directory = "Files/Collection_Pages/"
+output_directory = "Files/ExtendedCollection/"
 
 os.makedirs(output_directory, exist_ok=True)
 

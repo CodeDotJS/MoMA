@@ -4,7 +4,7 @@ import os
 
 combined_data = []
 
-directory = "ExtendedCollection"
+directory = "Files/ExtendedCollection/"
 json_files = glob.glob(os.path.join(directory, "extended_*_MoMA.json"))
 
 for file in json_files:
