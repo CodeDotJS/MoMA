@@ -1,13 +1,16 @@
 import os
 import json
 
-with open("collection.json", "r") as file:
+input_file = "Files/data/collection.json"
+save_in = "Files/Collection_Pages"
+
+with open(input_file, "r") as file:
     data = json.load(file)
 
-if not os.path.exists("separateCollection"):
-    os.makedirs("separateCollection")
+if not os.path.exists(save_in):
+    os.makedirs(save_in)
 
 for key, value in data.items():
-    filename = f"Collection_Pages/{key}_MoMA.json"
+    filename = f"{save_in}/{key}_MoMA.json"
     with open(filename, "w") as file:
         json.dump(value, file, indent=4)
