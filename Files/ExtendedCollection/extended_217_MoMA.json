@@ -1,852 +1,997 @@
 [
     {
-        "Artist": "Darren Almond",
-        "Title": "[email protected]",
-        "Year": "2001",
-        "ObjectID": "165743",
-        "Work": "https://www.moma.org/collection/works/165743",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NzI1NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9afdd294caa7f711",
+        "Artist": "Cosima von Bonin",
+        "Title": "Echt Hangengeblieben & Aussteigen durch Drinbleiben",
+        "Year": "2002",
+        "ObjectID": "95576",
+        "Work": "https://www.moma.org/collection/works/95576",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzOTU3NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4357dd8f442049bb",
         "Details": {
-            "Medium": "Inkjet print",
-            "Dimensions": "15 11/16 \u00d7 15 11/16\" (39.8 \u00d7 39.8 cm)",
-            "Credit": "Gift of Heather and Tony Podesta",
-            "Object number": "257.2013",
-            "Copyright": "\u00a9 2023 Darren Almond",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/22936"
-    },
-    {
-        "Artist": "Darren Almond",
-        "Title": "[email protected]",
-        "Year": "2001",
-        "ObjectID": "165759",
-        "Work": "https://www.moma.org/collection/works/165759",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NzI1NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d38039ee4bf2a0d8",
-        "Details": {
-            "Medium": "Inkjet print",
-            "Dimensions": "15 11/16 \u00d7 15 11/16\" (39.8 \u00d7 39.8 cm)",
-            "Credit": "Gift of Heather and Tony Podesta",
-            "Object number": "258.2013",
-            "Copyright": "\u00a9 2023 Darren Almond",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/22936"
-    },
-    {
-        "Artist": "Darren Almond",
-        "Title": "[email protected]",
-        "Year": "2001",
-        "ObjectID": "165760",
-        "Work": "https://www.moma.org/collection/works/165760",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NzI1NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d0e520e1cd95a8dc",
-        "Details": {
-            "Medium": "Inkjet print",
-            "Dimensions": "15 11/16 \u00d7 15 11/16\" (39.8 \u00d7 39.8 cm)",
-            "Credit": "Gift of Heather and Tony Podesta",
-            "Object number": "259.2013",
-            "Copyright": "\u00a9 2023 Darren Almond",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/22936"
-    },
-    {
-        "Artist": "Darren Almond",
-        "Title": "[email protected] de Plate",
-        "Year": "2001",
-        "ObjectID": "165761",
-        "Work": "https://www.moma.org/collection/works/165761",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NzI1OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=66d63b0097cb28fd",
-        "Details": {
-            "Medium": "Inkjet print",
-            "Dimensions": "15 11/16 \u00d7 15 11/16\" (39.8 \u00d7 39.8 cm)",
-            "Credit": "Gift of Heather and Tony Podesta",
-            "Object number": "260.2013",
-            "Copyright": "\u00a9 2023 Darren Almond",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/22936"
-    },
-    {
-        "Artist": "Darren Almond",
-        "Title": "[email protected]",
-        "Year": "2001",
-        "ObjectID": "165762",
-        "Work": "https://www.moma.org/collection/works/165762",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NzI1OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d778d8a2e90f3494",
-        "Details": {
-            "Medium": "Inkjet print",
-            "Dimensions": "15 11/16 \u00d7 15 11/16\" (39.8 \u00d7 39.8 cm)",
-            "Credit": "Gift of Heather and Tony Podesta",
-            "Object number": "261.2013",
-            "Copyright": "\u00a9 2023 Darren Almond",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/22936"
-    },
-    {
-        "Artist": "Darren Almond",
-        "Title": "[email protected] des Bossons",
-        "Year": "2001",
-        "ObjectID": "165763",
-        "Work": "https://www.moma.org/collection/works/165763",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NzI2MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=143c8f896c5b72df",
-        "Details": {
-            "Medium": "Inkjet print",
-            "Dimensions": "15 11/16 \u00d7 15 11/16\" (39.8 \u00d7 39.8 cm)",
-            "Credit": "Gift of Heather and Tony Podesta",
-            "Object number": "262.2013",
-            "Copyright": "\u00a9 2023 Darren Almond",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/22936"
-    },
-    {
-        "Artist": "Darren Almond",
-        "Title": "[email protected]'Etale",
-        "Year": "2001",
-        "ObjectID": "165764",
-        "Work": "https://www.moma.org/collection/works/165764",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NzI2MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8d449455495cc510",
-        "Details": {
-            "Medium": "Inkjet print",
-            "Dimensions": "15 11/16 \u00d7 15 11/16\" (39.8 \u00d7 39.8 cm)",
-            "Credit": "Gift of Heather and Tony Podesta",
-            "Object number": "263.2013",
-            "Copyright": "\u00a9 2023 Darren Almond",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/22936"
-    },
-    {
-        "Artist": "Darren Almond",
-        "Title": "[email protected]",
-        "Year": "2001",
-        "ObjectID": "165765",
-        "Work": "https://www.moma.org/collection/works/165765",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NzI2MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4862e47397a64e4e",
-        "Details": {
-            "Medium": "Inkjet print",
-            "Dimensions": "15 11/16 \u00d7 15 11/16\" (39.8 \u00d7 39.8 cm)",
-            "Credit": "Gift of Heather and Tony Podesta",
-            "Object number": "264.2013",
-            "Copyright": "\u00a9 2023 Darren Almond",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/22936"
-    },
-    {
-        "Artist": "Darren Almond",
-        "Title": "[email protected]",
-        "Year": "2001",
-        "ObjectID": "165766",
-        "Work": "https://www.moma.org/collection/works/165766",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NzI2MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7f6c97d92f0471c7",
-        "Details": {
-            "Medium": "Inkjet print",
-            "Dimensions": "15 11/16 \u00d7 15 11/16\" (39.8 \u00d7 39.8 cm)",
-            "Credit": "Gift of Heather and Tony Podesta",
-            "Object number": "265.2013",
-            "Copyright": "\u00a9 2023 Darren Almond",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/22936"
-    },
-    {
-        "Artist": "Darren Almond",
-        "Title": "[email protected]",
-        "Year": "2001",
-        "ObjectID": "165767",
-        "Work": "https://www.moma.org/collection/works/165767",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NzI2NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=776273bfe5a9b3f7",
-        "Details": {
-            "Medium": "Inkjet print",
-            "Dimensions": "15 11/16 \u00d7 15 11/16\" (39.8 \u00d7 39.8 cm)",
-            "Credit": "Gift of Heather and Tony Podesta",
-            "Object number": "266.2013",
-            "Copyright": "\u00a9 2023 Darren Almond",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/22936"
-    },
-    {
-        "Artist": "Darren Almond",
-        "Title": "[email protected]. Martin",
-        "Year": "2001",
-        "ObjectID": "165768",
-        "Work": "https://www.moma.org/collection/works/165768",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NzI2NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1105b8932fcdb8dd",
-        "Details": {
-            "Medium": "Inkjet print",
-            "Dimensions": "15 11/16 \u00d7 15 11/16\" (39.8 \u00d7 39.8 cm)",
-            "Credit": "Gift of Heather and Tony Podesta",
-            "Object number": "267.2013",
-            "Copyright": "\u00a9 2023 Darren Almond",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/22936"
-    },
-    {
-        "Artist": "Darren Almond",
-        "Title": "[email protected]ery",
-        "Year": "2001",
-        "ObjectID": "165769",
-        "Work": "https://www.moma.org/collection/works/165769",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NzI2NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=68b3ace096bbec92",
-        "Details": {
-            "Medium": "Inkjet print",
-            "Dimensions": "15 11/16 \u00d7 15 11/16\" (39.8 \u00d7 39.8 cm)",
-            "Credit": "Gift of Heather and Tony Podesta",
-            "Object number": "268.2013",
-            "Copyright": "\u00a9 2023 Darren Almond",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/22936"
-    },
-    {
-        "Artist": "Kai Althoff",
-        "Title": "Untitled",
-        "Year": "2001",
-        "ObjectID": "88180",
-        "Work": "https://www.moma.org/collection/works/88180",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjY4ODA4Il0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNTEyeDUxMlx1MDAzZSJdXQ.jpg?sha=f3ce896c30897dd0",
-        "Details": {
-            "Medium": "Lacquer, watercolor, and varnish on two sheets of paper on canvas",
-            "Dimensions": "27 5/8 x 23 3/4\" (70.1 x 60.3 cm)",
-            "Credit": "Fractional and promised gift of Martin and Rebecca Eisenberg",
-            "Object number": "138.2003",
-            "Copyright": "\u00a9 2023 Kai Althoff",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/26178"
-    },
-    {
-        "Artist": "Kai Althoff",
-        "Title": "Untitled",
-        "Year": "(2001)",
-        "ObjectID": "95352",
-        "Work": "https://www.moma.org/collection/works/95352",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNTY3NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e25a49902f6e5a2e",
-        "Details": {
-            "Medium": "Cut-and-pasted colored paper on printed paper",
-            "Dimensions": "11 3/4 x 8 1/2\" (29.8 x 21.6 cm)",
+            "Medium": "Chromogenic print (by G\u00fcls\u00fcm G\u00fcler); felt-tip pen, pencil, and bird excrement on paper",
+            "Dimensions": "Installation: 107 x 171 3/4\" (271.8 x 436.2 cm)",
             "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
-            "Object number": "1124.2005",
-            "Copyright": "\u00a9 2023 Kai Althoff",
+            "Object number": "1335.2005.a-b",
+            "Copyright": "\u00a9 2023 Cosima von Bonin",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/26178"
+        "Profile": "https://www.moma.org/artists/28567"
     },
     {
-        "Artist": "Francis Alys",
-        "Title": "Rehearsal I (Ensayo I)",
-        "Year": "1999-2001",
-        "ObjectID": "109921",
-        "Work": "https://www.moma.org/collection/works/109921",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2Mzc1NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2424ea6159186a23",
+        "Artist": "Monica Bonvicini",
+        "Title": "Untitled (Duchamp)",
+        "Year": "(2002)",
+        "ObjectID": "95595",
+        "Work": "https://www.moma.org/collection/works/95595",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzODczMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2bccc8b9d0960151",
         "Details": {
-            "Medium": "Four videos (color and black and white, sound), one painting, 44 drawings, 15 photographs and 3 prints",
-            "Dimensions": "Dimensions variable",
-            "Credit": "Gift of The Speyer Family Foundation, Kathy and Richard S. Fuld, Jr., Marie-Jos\u00e9e and Henry R. Kravis, Patricia Phelps de Cisneros, Anna Marie and Robert F. Shapiro, The Julia Stoschek Foundation, D\u00fcsseldorf , and Committee on Media Funds",
-            "Object number": "207.2007.1-67",
-            "Copyright": "\u00a9 2023 Francis Al\u00ffs",
-            "Type": "Installation",
-            "Department": "Media and Performance"
+            "Medium": "Cut-and-pasted painted paper, cut-and-pasted printed paper, and pencil on cut-and-pasted paper",
+            "Dimensions": "21 x 23 3/8\" (53.3 x 59.4 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "1354.2005",
+            "Copyright": "\u00a9 2023 Monica Bonvicini / Artists Rights Society (ARS), New York / VG Bild-Kunst, Germany",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/8383"
+        "Profile": "https://www.moma.org/artists/28568"
     },
     {
-        "Artist": "Francis Alys",
-        "Title": "Re-enactments",
-        "Year": "2001",
-        "ObjectID": "109923",
-        "Work": "https://www.moma.org/collection/works/109923",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNjk3MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b80f6cc5f92c3941",
+        "Artist": "Irma Boom",
+        "Title": "Tutti i Motori Ferrari",
+        "Year": "2002",
+        "ObjectID": "110960",
+        "Work": "https://www.moma.org/collection/works/110960",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MzM2NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e6c9735c05384e54",
         "Details": {
-            "Medium": "Two-channel video (color, sound), 19 drawings, two photographs, one hand-colored photograph, 16 newspaper clippings, one print",
-            "Dimensions": "Dimensions variable",
-            "Credit": "Gift of The Speyer Family Foundation, Kathy and Richard S. Fuld, Jr., Marie-Jos\u00e9e and Henry R. Kravis, Patricia Phelps de Cisneros, Anna Marie and Robert F. Shapiro, The Julia Stoschek Foundation, D\u00fcsseldorf, and Committee on Media Funds",
-            "Object number": "209.2007.1-40",
-            "Copyright": "\u00a9 2023 Francis Al\u00ffs",
-            "Type": "Installation",
-            "Department": "Media and Performance"
+            "Medium": "Book, offset printed",
+            "Dimensions": "9 11/16 x 7 3/4 x 3/8\" (24.6 x 19.7 x 1 cm)",
+            "Publisher": "Ferrari S.p.A., Maranello, Italy",
+            "Printer": "Nava Milano SPA",
+            "Credit": "Gift of the designer",
+            "Object number": "909.2007",
+            "Copyright": "\u00a9 2023 Irma Boom",
+            "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/8383"
+        "Profile": "https://www.moma.org/artists/33693"
     },
     {
-        "Artist": "Francis Alys",
+        "Artist": "Irma Boom",
+        "Title": "Gutenberg Galaxie/ Irma Boom",
+        "Year": "2002",
+        "ObjectID": "111011",
+        "Work": "https://www.moma.org/collection/works/111011",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMxMjc1MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8a31cad1661a74c1",
+        "Details": {
+            "Medium": "Book, offset printed",
+            "Dimensions": "11 7/16 x 7 1/2 x 7/8\" (29 x 19 x 2.2 cm)",
+            "Publisher": "Institut f\u00fcr Buchkunst",
+            "Printer": "J\u00fctte-Messedruck Leipzig Gmbh",
+            "Credit": "Gift of the designer",
+            "Object number": "908.2007",
+            "Copyright": "\u00a9 2023 Irma Boom",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/33693"
+    },
+    {
+        "Artist": "Tord Boontje",
+        "Title": "Garland Light",
+        "Year": "2002",
+        "ObjectID": "112519",
+        "Work": "https://www.moma.org/collection/works/112519",
+        "Thumbnail": null,
+        "Details": {
+            "Manufacturer": "Artecnica",
+            "Medium": "Silver-plated brass",
+            "Dimensions": "10 x 10 x 10\" (25.4 x 25.4 x 25.4 cm) (irreg)",
+            "Credit": "Gift of the manufacturer",
+            "Object number": "137.2005.1",
+            "Copyright": "\u00a9 2023 Artecnica",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/27464"
+    },
+    {
+        "Artist": "Tord Boontje",
+        "Title": "Garland Light",
+        "Year": "2002",
+        "ObjectID": "112520",
+        "Work": "https://www.moma.org/collection/works/112520",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzMTUyOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1861dc7e293218dc",
+        "Details": {
+            "Manufacturer": "Artecnica",
+            "Medium": "Silver-plated brass",
+            "Dimensions": "10 x 10 x 10\" (25.4 x 25.4 x 25.4 cm) (irreg)",
+            "Credit": "Gift of the manufacturer",
+            "Object number": "137.2005.2",
+            "Copyright": "\u00a9 2023 Artecnica",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/27464"
+    },
+    {
+        "Artist": "Tord Boontje",
+        "Title": "Garland Light",
+        "Year": "2002",
+        "ObjectID": "112521",
+        "Work": "https://www.moma.org/collection/works/112521",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzMTUzMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=586cc7ebbe74b5ff",
+        "Details": {
+            "Manufacturer": "Artecnica",
+            "Medium": "Silver-plated brass",
+            "Dimensions": "10 x 10 x 10\" (25.4 x 25.4 x 25.4 cm) (irreg)",
+            "Credit": "Gift of the manufacturer",
+            "Object number": "137.2005.3",
+            "Copyright": "\u00a9 2023 Artecnica",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/27464"
+    },
+    {
+        "Artist": "Tord Boontje",
+        "Title": "Garland Light",
+        "Year": "2002",
+        "ObjectID": "112522",
+        "Work": "https://www.moma.org/collection/works/112522",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzMTUzMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e5634119e1c727ac",
+        "Details": {
+            "Manufacturer": "Artecnica",
+            "Medium": "Brass",
+            "Dimensions": "10 x 10 x 10\" (25.4 x 25.4 x 25.4 cm) (irreg)",
+            "Credit": "Gift of the manufacturer",
+            "Object number": "138.2005.1",
+            "Copyright": "\u00a9 2023 Artecnica",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/27464"
+    },
+    {
+        "Artist": "Tord Boontje",
+        "Title": "Garland Light",
+        "Year": "2002",
+        "ObjectID": "112523",
+        "Work": "https://www.moma.org/collection/works/112523",
+        "Thumbnail": null,
+        "Details": {
+            "Manufacturer": "Artecnica",
+            "Medium": "Brass",
+            "Dimensions": "10 x 10 x 10\" (25.4 x 25.4 x 25.4 cm) (irreg)",
+            "Credit": "Gift of the manufacturer",
+            "Object number": "138.2005.2",
+            "Copyright": "\u00a9 2023 Artecnica",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/27464"
+    },
+    {
+        "Artist": "Ralph Borland",
+        "Title": "Suited for Subversion (Prototype)",
+        "Year": "2002",
+        "ObjectID": "94361",
+        "Work": "https://www.moma.org/collection/works/94361",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4MjczMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=23f763c26da6fb37",
+        "Details": {
+            "Medium": "Nylon-reinforced PVC, padding, speaker, and pulse reader",
+            "Dimensions": "47 1/4 x 31 1/2 x 23 5/8\" (120 x 80 x 60 cm)",
+            "Credit": "Fund for the Twenty-First Century",
+            "Object number": "88.2006",
+            "Copyright": "\u00a9 2023 Ralph Borland",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/27888"
+    },
+    {
+        "Artist": "Michael Borremans",
+        "Title": "The German (Part Two)",
+        "Year": "2002",
+        "ObjectID": "95597",
+        "Work": "https://www.moma.org/collection/works/95597",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNzM4MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a18fd4ae285e7753",
+        "Details": {
+            "Medium": "Oil, watercolor, and pencil with synthetic polymer sheet overlay on book cover",
+            "Dimensions": "9 3/4 x 12 1/4\" (24.8 x 31.1 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "1356.2005",
+            "Copyright": "\u00a9 2023 Micha\u00ebl Borremans",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/25181"
+    },
+    {
+        "Artist": "Louise Bourgeois",
+        "Title": "Ex Libris (for Paulo Herkenhoff)",
+        "Year": "2002",
+        "ObjectID": "86836",
+        "Work": "https://www.moma.org/collection/works/86836",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1ODMxNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=995b312af9ec2ace",
+        "Details": {
+            "State/variant": "State III of III",
+            "Medium": "Drypoint and engraving",
+            "Dimensions": "plate: 5 1/8 x 4 1/8\" (13 x 10.4 cm); sheet: 6 1/8 x 5 1/8\" (15.5 x 13 cm)",
+            "Publisher": "Harlan & Weaver, New York",
+            "Printer": "Harlan & Weaver, New York",
+            "Edition": "105; plus 1 B.A.T. and 1 for MoMA",
+            "Impresssion": "Not numbered",
+            "Credit": "Gift of the artist",
+            "Object number": "324.2002",
+            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/710"
+    },
+    {
+        "Artist": "Louise Bourgeois",
+        "Title": "Spider",
+        "Year": "(2002)",
+        "ObjectID": "95600",
+        "Work": "https://www.moma.org/collection/works/95600",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNDQxNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1335794b13ef512b",
+        "Details": {
+            "Medium": "Felt-tip pen, pencil, crayon, and correction fluid on paper",
+            "Dimensions": "11 5/8 x 5 7/8\" (29.5 x 14.9 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "1359.2005",
+            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/710"
+    },
+    {
+        "Artist": "Louise Bourgeois",
         "Title": "Untitled",
-        "Year": "1999-2001",
-        "ObjectID": "127859",
-        "Work": "https://www.moma.org/collection/works/127859",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MzIyNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=87f444f956f786ac",
+        "Year": "2002",
+        "ObjectID": "95601",
+        "Work": "https://www.moma.org/collection/works/95601",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MTk0NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=264914dddd162249",
         "Details": {
-            "Medium": "Graphite, paint, and tape on vellum",
-            "Dimensions": "Sheet: 9 3/4 x 12\" (24.8 x 30.5 cm)",
-            "Credit": "Gift of The Speyer Family Foundation, Kathy and Richard S. Fuld, Jr., Marie-Jos\u00e9e and Henry R. Kravis, Patricia Phelps de Cisneros, Anna Marie and Robert F. Shapiro, The Julia Stoschek Foundation, D\u00fcsseldorf, and Committee on Media Funds",
-            "Object number": "207.2007.6",
-            "Copyright": "\u00a9 2023 Francis Al\u00ffs",
-            "Installation": "Rehearsal I (Ensayo I)",
-            "Department": "Media and Performance"
+            "Medium": "Scratched cut-and-pasted painted paperboard with thread",
+            "Dimensions": "25 1/2 x 59\" (64.8 x 149.9 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "1360.2005",
+            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/8383"
+        "Profile": "https://www.moma.org/artists/710"
     },
     {
-        "Artist": "Francis Alys",
+        "Artist": "Louise Bourgeois",
+        "Title": "Ode a l'Oubli",
+        "Year": "2002",
+        "ObjectID": "98440",
+        "Work": "https://www.moma.org/collection/works/98440",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE0ODk2OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=429a65e1bef07d5b",
+        "Details": {
+            "Medium": "Fabric illustrated book with 35 compositions: 32 fabric collages, 2 with hand additions, and 3 lithographs (including cover)",
+            "Dimensions": "page (each approx.): 10 3/4 \u00d7 12 1/16\" (27.3 \u00d7 30.7 cm); overall: 11 7/16 \u00d7 12 13/16 \u00d7 1 15/16\" (29 \u00d7 32.5 \u00d7 5 cm)",
+            "Publisher": "unpublished",
+            "Printer": "SOLO Impression, New York",
+            "Edition": "Unique",
+            "Impresssion": "Not numbered",
+            "Credit": "Gift of the artist",
+            "Object number": "540.2005.1-35",
+            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
+            "Type": "Illustrated Book",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/710"
+    },
+    {
+        "Artist": "Louise Bourgeois",
+        "Title": "Hold My Bones",
+        "Year": "2002",
+        "ObjectID": "116441",
+        "Work": "https://www.moma.org/collection/works/116441",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NzQ4MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4bade7535bf6d013",
+        "Details": {
+            "State/variant": "Version 1 of 2, state III of III",
+            "Medium": "Drypoint, with hand additions",
+            "Dimensions": "plate: 4 15/16 x 8 3/8\" (12.5 x 21.3 cm); sheet: 8 1/4 x 11 3/4\" (21 x 29.8 cm)",
+            "Publisher": "unpublished",
+            "Printer": "Harlan & Weaver, New York",
+            "Edition": "1 known impression of version 1, state III",
+            "Impresssion": "Not numbered",
+            "Credit": "Gift of the artist",
+            "Object number": "855.2008",
+            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/710"
+    },
+    {
+        "Artist": "Louise Bourgeois",
         "Title": "Untitled",
-        "Year": "1999-2001",
-        "ObjectID": "127860",
-        "Work": "https://www.moma.org/collection/works/127860",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4NDAzOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3798013fd89f97e1",
+        "Year": "1997",
+        "ObjectID": "116478",
+        "Work": "https://www.moma.org/collection/works/116478",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NDM1MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=375d178ba4164fa2",
         "Details": {
-            "Medium": "Color photograph",
-            "Dimensions": "12 x 8 1/4\" (30.5 x 21 cm)",
-            "Credit": "Gift of The Speyer Family Foundation, Kathy and Richard S. Fuld, Jr., Marie-Jos\u00e9e and Henry R. Kravis, Patricia Phelps de Cisneros, Anna Marie and Robert F. Shapiro, The Julia Stoschek Foundation, D\u00fcsseldorf, and Committee on Media Funds",
-            "Object number": "207.2007.50",
-            "Copyright": "\u00a9 2023 Francis Al\u00ffs",
-            "Installation": "Rehearsal I (Ensayo I)",
-            "Department": "Media and Performance"
+            "Medium": "Watercolor and pencil on paper",
+            "Dimensions": "sheet: 20 3/16 x 27 1/16\" (51.3 x 68.7 cm)",
+            "Publisher": "unpublished",
+            "Credit": "Gift of the artist",
+            "Object number": "478.2010",
+            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/8383"
+        "Profile": "https://www.moma.org/artists/710"
     },
     {
-        "Artist": "Francis Alys",
-        "Title": "Re-enactments",
-        "Year": "2001",
-        "ObjectID": "130829",
-        "Work": "https://www.moma.org/collection/works/130829",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3ODk4MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e347ada1249443bb",
+        "Artist": "Louise Bourgeois",
+        "Title": "Plate 2 of 11, from the illustrated book, He Disappeared into Complete Silence, second edition",
+        "Year": "1995",
+        "ObjectID": "119376",
+        "Work": "https://www.moma.org/collection/works/119376",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1NjI2MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6ea2deb46faf8ace",
         "Details": {
-            "Medium": "Two-channel synchronized video installation composed of two projected videos (color, sound)",
-            "Duration": "5:20 min.",
-            "Credit": "Gift of The Speyer Family Foundation, Kathy and Richard S. Fuld, Jr., Marie-Jos\u00e9e and Henry R. Kravis, Patricia Phelps de Cisneros, Anna Marie and Robert F. Shapiro, Julia Stoschek Foundation, D\u00fcsseldorf, and Committee on Media Funds",
-            "Object number": "209.2007.1a-b",
-            "Copyright": "\u00a9 2023 Francis Al\u00ffs",
-            "Installation": "Re-enactments",
-            "Department": "Media and Performance"
+            "State/variant": "Version 3 of 3, state I of IV",
+            "Medium": "Photogravure",
+            "Dimensions": "sheet: 7 7/8 \u00d7 6 7/8\" (20 \u00d7 17.5 cm)",
+            "Publisher": "unpublished",
+            "Printer": "Harlan & Weaver, New York for printing, Renaissance Press, Ashuelot, NH for platemaking (see Curatorial Remarks)",
+            "Edition": "4 known impressions of version 3, state I",
+            "Impresssion": "Not numbered",
+            "Credit": "Gift of the artist",
+            "Object number": "1290.2008",
+            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/8383"
+        "Profile": "https://www.moma.org/artists/710"
     },
     {
-        "Artist": "Francis Alys",
+        "Artist": "Louise Bourgeois",
+        "Title": "Plate 2 of 11, from the illustrated book, He Disappeared into Complete Silence, second edition",
+        "Year": "1995",
+        "ObjectID": "119377",
+        "Work": "https://www.moma.org/collection/works/119377",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1NjI2NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=10f6de2259513de7",
+        "Details": {
+            "State/variant": "Version 3 of 3, state I of IV, variant",
+            "Medium": "Photogravure, with hand additions",
+            "Dimensions": "plate: 7 1/16 x 5 11/16\" (18 x 14.4 cm); sheet: 11 x 8 1/16\" (28 x 20.5 cm)",
+            "Publisher": "unpublished",
+            "Printer": "Harlan & Weaver, New York for printing, Renaissance Press, Ashuelot, NH for platemaking (see Curatorial Remarks)",
+            "Edition": "4 known impressions of version 3, state I",
+            "Impresssion": "Not numbered",
+            "Credit": "Gift of the artist",
+            "Object number": "1291.2008",
+            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/710"
+    },
+    {
+        "Artist": "Louise Bourgeois",
+        "Title": "Plate 3 of 11, from the illustrated book, He Disappeared into Complete Silence, second edition",
+        "Year": "1995",
+        "ObjectID": "119384",
+        "Work": "https://www.moma.org/collection/works/119384",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1NjU3MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=bbac21012eaf4ecc",
+        "Details": {
+            "State/variant": "Version 5 of 5, state I of VII, variant",
+            "Medium": "Photogravure, with hand additions",
+            "Dimensions": "plate: 7 1/8 x 5 13/16\" (18.1 x 14.7 cm); sheet: 11 x 8 1/16\" (28 x 20.5 cm)",
+            "Publisher": "unpublished",
+            "Printer": "Harlan & Weaver, New York for printing, Renaissance Press, Ashuelot, NH for platemaking (see Curatorial Remarks)",
+            "Edition": "5 known impressions of version 5, state I",
+            "Impresssion": "Not numbered",
+            "Credit": "Gift of the artist",
+            "Object number": "1301.2008",
+            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/710"
+    },
+    {
+        "Artist": "Louise Bourgeois",
+        "Title": "Spider, plate 11 of 11, from the illustrated book, He Disappeared into Complete Silence, second edition",
+        "Year": "2001-2002",
+        "ObjectID": "119474",
+        "Work": "https://www.moma.org/collection/works/119474",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1NjMyMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6ecad778921b40ff",
+        "Details": {
+            "State/variant": "Version 3 of 3, state I of IV, variant",
+            "Medium": "Engraving and drypoint, with hand additions",
+            "Dimensions": "plate: 6 15/16 x 5 1/2\" (17.7 x 14 cm); sheet: 16 1/8 x 13 11/16\" (41 x 34.8 cm)",
+            "Publisher": "unpublished",
+            "Printer": "Harlan & Weaver, New York",
+            "Edition": "2 known variant impressions of version 3, state I",
+            "Impresssion": "Not numbered",
+            "Credit": "Gift of the artist",
+            "Object number": "1488.2008",
+            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/710"
+    },
+    {
+        "Artist": "Louise Bourgeois",
+        "Title": "Spider, plate 11 of 11, from the illustrated book, He Disappeared into Complete Silence, second edition",
+        "Year": "2001-2002",
+        "ObjectID": "119517",
+        "Work": "https://www.moma.org/collection/works/119517",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1NjMyNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=76bd57f08fadb1a4",
+        "Details": {
+            "State/variant": "Version 3 of 3, state IV of IV, variant",
+            "Medium": "Engraving and drypoint",
+            "Dimensions": "plate: 7 x 5 1/2\" (17.8 x 13.9 cm); sheet: 10 1/16 x 6 3/4\" (25.5 x 17.2 cm)",
+            "Publisher": "unpublished",
+            "Printer": "Harlan & Weaver, New York",
+            "Edition": "1 known variant impression of version 3, state IV, outside the edition",
+            "Impresssion": "Not numbered",
+            "Credit": "Gift of the artist",
+            "Object number": "1491.2008",
+            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/710"
+    },
+    {
+        "Artist": "Louise Bourgeois",
+        "Title": "Spiraling Arrows",
+        "Year": "2002",
+        "ObjectID": "119526",
+        "Work": "https://www.moma.org/collection/works/119526",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MTY0OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=909e30ab564893ab",
+        "Details": {
+            "State/variant": "State I of II, variant",
+            "Medium": "Engraving, with hand additions",
+            "Dimensions": "plate: 11 15/16 x 18\" (30.3 x 45.7 cm); sheet: 14 9/16 x 19 15/16\" (37 x 50.7 cm)",
+            "Publisher": "unpublished",
+            "Printer": "Harlan & Weaver, New York",
+            "Edition": "2 known variant impressions of state I",
+            "Impresssion": "Not numbered",
+            "Credit": "Gift of the artist",
+            "Object number": "1538.2008",
+            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/710"
+    },
+    {
+        "Artist": "Louise Bourgeois",
+        "Title": "Spiral Woman, plate 2 of 7, from the portfolio, La Reparation",
+        "Year": "2002",
+        "ObjectID": "119531",
+        "Work": "https://www.moma.org/collection/works/119531",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MTYwOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5da9f535e61c5315",
+        "Details": {
+            "State/variant": "State VIII of X, variant",
+            "Medium": "Drypoint and engraving, with hand additions",
+            "Dimensions": "plate: 11 7/16 x 8 7/8\" (29 x 22.6 cm); sheet: 15 3/16 x 12 1/2\" (38.5 x 31.8 cm)",
+            "Publisher": "unpublished",
+            "Printer": "Harlan & Weaver, New York",
+            "Edition": "2 known variant impressions of state VIII",
+            "Impresssion": "Not numbered",
+            "Credit": "Gift of the artist",
+            "Object number": "1505.2008",
+            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/710"
+    },
+    {
+        "Artist": "Louise Bourgeois",
+        "Title": "Spiral Woman, plate 2 of 7, from the portfolio, La Reparation",
+        "Year": "2002",
+        "ObjectID": "119533",
+        "Work": "https://www.moma.org/collection/works/119533",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MTYxMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=93d1c958317dc3d8",
+        "Details": {
+            "State/variant": "State IX of X, variant",
+            "Medium": "Drypoint and engraving, with hand additions",
+            "Dimensions": "plate: 11 7/16 x 9\" (29 x 22.8 cm); sheet: 14 7/16 x 10 9/16\" (36.7 x 26.8 cm)",
+            "Publisher": "unpublished",
+            "Printer": "Harlan & Weaver, New York",
+            "Edition": "2 known variant impressions of state IX",
+            "Impresssion": "Not numbered",
+            "Credit": "Gift of the artist",
+            "Object number": "1506.2008",
+            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/710"
+    },
+    {
+        "Artist": "Louise Bourgeois",
+        "Title": "The Happy House, plate 7 of 7, from the portfolio, La Reparation",
+        "Year": "2002",
+        "ObjectID": "119544",
+        "Work": "https://www.moma.org/collection/works/119544",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MTY1OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=68344b798b6a2777",
+        "Details": {
+            "State/variant": "State VIII of XX",
+            "Medium": "Drypoint and engraving, with hand additions",
+            "Dimensions": "plate: 8 7/16 x 10 13/16\" (21.5 x 27.5 cm); sheet: 11 1/2 x 14\" (29.2 x 35.5 cm)",
+            "Publisher": "unpublished",
+            "Printer": "Harlan & Weaver, New York",
+            "Edition": "1 known impression of state VIII",
+            "Impresssion": "Not numbered",
+            "Credit": "Gift of the artist",
+            "Object number": "1602.2008",
+            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/710"
+    },
+    {
+        "Artist": "Louise Bourgeois",
+        "Title": "The Happy House, plate 7 of 7, from the portfolio, La Reparation",
+        "Year": "2002",
+        "ObjectID": "119545",
+        "Work": "https://www.moma.org/collection/works/119545",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MTY1NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=aa4cc3ae28968004",
+        "Details": {
+            "State/variant": "State VII of XX, variant",
+            "Medium": "Drypoint, with hand additions",
+            "Dimensions": "plate: 8 7/16 x 10 13/16\" (21.4 x 27.5 cm); sheet: 10 3/8 x 13 1/4\" (26.4 x 33.7 cm)",
+            "Publisher": "unpublished",
+            "Printer": "Harlan & Weaver, New York",
+            "Edition": "3 known variant impressions of state VII",
+            "Impresssion": "Not numbered",
+            "Credit": "Gift of the artist",
+            "Object number": "1600.2008",
+            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/710"
+    },
+    {
+        "Artist": "Louise Bourgeois",
+        "Title": "The Happy House, plate 7 of 7, from the portfolio, La Reparation",
+        "Year": "2002",
+        "ObjectID": "119546",
+        "Work": "https://www.moma.org/collection/works/119546",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MTY1OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=77e4e67c40fb800b",
+        "Details": {
+            "State/variant": "State IX of XX",
+            "Medium": "Drypoint and engraving, with hand additions",
+            "Dimensions": "plate: 8 7/16 x 10 7/8\" (21.5 x 27.6 cm); sheet: 10 5/8 x 13 7/16\" (27 x 34.2 cm)",
+            "Publisher": "unpublished",
+            "Printer": "Harlan & Weaver, New York",
+            "Edition": "1 known impression of state IX",
+            "Impresssion": "Not numbered",
+            "Credit": "Gift of the artist",
+            "Object number": "1601.2008",
+            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/710"
+    },
+    {
+        "Artist": "Louise Bourgeois",
+        "Title": "The Happy House, plate 7 of 7, from the portfolio, La Reparation",
+        "Year": "2002",
+        "ObjectID": "119547",
+        "Work": "https://www.moma.org/collection/works/119547",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MTY2MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=062e42c0e6ac5081",
+        "Details": {
+            "State/variant": "State X of XX",
+            "Medium": "Drypoint and engraving, with hand additions",
+            "Dimensions": "plate: 8 7/16 x 10 13/16\" (21.5 x 27.5 cm); sheet: 10 13/16 x 13 1/2\" (27.4 x 34.3 cm)",
+            "Publisher": "unpublished",
+            "Printer": "Harlan & Weaver, New York",
+            "Edition": "1 known impression of state X",
+            "Impresssion": "Not numbered",
+            "Credit": "Gift of the artist",
+            "Object number": "1603.2008",
+            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/710"
+    },
+    {
+        "Artist": "Louise Bourgeois",
+        "Title": "Hold My Bones",
+        "Year": "2002",
+        "ObjectID": "119556",
+        "Work": "https://www.moma.org/collection/works/119556",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1NTUyMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e96ad8bc35fdcdf5",
+        "Details": {
+            "State/variant": "Version 1 of 2, state II of III, variant",
+            "Medium": "Drypoint, with hand additions",
+            "Dimensions": "plate: 4 15/16 x 8 7/16\" (12.5 x 21.5 cm); sheet: 6 1/8 x 9 5/8\" (15.5 x 24.4 cm)",
+            "Publisher": "unpublished",
+            "Printer": "Harlan & Weaver, New York",
+            "Edition": "35 known impressions of version 1, state II",
+            "Impresssion": "Not numbered",
+            "Credit": "Gift of the artist",
+            "Object number": "1447.2008",
+            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/710"
+    },
+    {
+        "Artist": "Louise Bourgeois",
+        "Title": "Hold My Bones",
+        "Year": "2001-2002",
+        "ObjectID": "119559",
+        "Work": "https://www.moma.org/collection/works/119559",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1NzA3NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fbb386275a677563",
+        "Details": {
+            "State/variant": "Version 2 of 2, state II of V",
+            "Medium": "Drypoint, with hand additions",
+            "Dimensions": "plate: 3 9/16 x 4 1/2\" (9 x 11.5 cm); sheet: 7 1/2 x 7 1/16\" (19 x 18 cm)",
+            "Publisher": "unpublished",
+            "Printer": "Harlan & Weaver, New York",
+            "Edition": "1 known impression of version 2, state II",
+            "Impresssion": "Not numbered",
+            "Credit": "Gift of the artist",
+            "Object number": "1493.2008",
+            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/710"
+    },
+    {
+        "Artist": "Louise Bourgeois",
+        "Title": "Hold My Bones",
+        "Year": "2001-2002",
+        "ObjectID": "119560",
+        "Work": "https://www.moma.org/collection/works/119560",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1NzA3OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d6cc152ceeb97e98",
+        "Details": {
+            "State/variant": "Version 2 of 2, state III of V",
+            "Medium": "Drypoint, with hand additions",
+            "Dimensions": "plate: 3 9/16 x 4 1/2\" (9 x 11.5 cm); sheet: 7 1/16 x 7 1/16\" (18 x 18 cm)",
+            "Publisher": "unpublished",
+            "Printer": "Harlan & Weaver, New York",
+            "Edition": "1 known impression of version 2, state III",
+            "Impresssion": "Not numbered",
+            "Credit": "Gift of the artist",
+            "Object number": "1494.2008",
+            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/710"
+    },
+    {
+        "Artist": "Louise Bourgeois",
+        "Title": "Hold My Bones",
+        "Year": "2002",
+        "ObjectID": "119561",
+        "Work": "https://www.moma.org/collection/works/119561",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NjQ1NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4580d66ace374c8a",
+        "Details": {
+            "State/variant": "Version 2 of 2, state V of V",
+            "Medium": "Drypoint, with hand additions",
+            "Dimensions": "plate: 3 9/16 x 4 1/2\" (9 x 11.5 cm); sheet: 6 11/16 x 6 9/16\" (17 x 16.7 cm)",
+            "Publisher": "unpublished",
+            "Printer": "Harlan & Weaver, New York",
+            "Impresssion": "Not numbered",
+            "Credit": "Gift of the artist",
+            "Object number": "1497.2008",
+            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/710"
+    },
+    {
+        "Artist": "Louise Bourgeois",
+        "Title": "Hold My Bones",
+        "Year": "2001-2002",
+        "ObjectID": "119562",
+        "Work": "https://www.moma.org/collection/works/119562",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1NzA4MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=34956e030a7ad700",
+        "Details": {
+            "State/variant": "Version 2 of 2, state IV of V",
+            "Medium": "Drypoint",
+            "Dimensions": "plate: 3 9/16 x 4 1/2\" (9 x 11.5 cm); sheet: 8 1/16 x 11 1/4\" (20.5 x 28.5 cm)",
+            "Publisher": "unpublished",
+            "Printer": "Harlan & Weaver, New York",
+            "Edition": "2 known impressions of version 2, state IV",
+            "Impresssion": "Not numbered",
+            "Credit": "Gift of the artist",
+            "Object number": "1496.2008",
+            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/710"
+    },
+    {
+        "Artist": "Louise Bourgeois",
+        "Title": "Hold My Bones",
+        "Year": "2001-2002",
+        "ObjectID": "119563",
+        "Work": "https://www.moma.org/collection/works/119563",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1NzA3OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b7647060166656ae",
+        "Details": {
+            "State/variant": "Version 2 of 2, state IV of V, variant",
+            "Medium": "Drypoint",
+            "Dimensions": "plate: 3 9/16 x 4 1/2\" (9 x 11.5 cm); sheet: 8 1/16 x 11\" (20.5 x 28 cm)",
+            "Publisher": "unpublished",
+            "Printer": "Harlan & Weaver, New York",
+            "Edition": "2 known impressions of version 2, state IV",
+            "Impresssion": "Not numbered",
+            "Credit": "Gift of the artist",
+            "Object number": "1495.2008",
+            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/710"
+    },
+    {
+        "Artist": "Louise Bourgeois",
+        "Title": "Noah's Ark",
+        "Year": "2002",
+        "ObjectID": "119566",
+        "Work": "https://www.moma.org/collection/works/119566",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NjQ5NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3464ce1bb7a28779",
+        "Details": {
+            "State/variant": "State II of II, variant",
+            "Medium": "Drypoint, with hand additions",
+            "Dimensions": "plate: 6 15/16 x 10 13/16\" (17.7 x 27.5 cm); sheet: 7/8 x 13 1/2\" (2.3 x 34.3 cm)",
+            "Publisher": "unpublished",
+            "Printer": "Harlan & Weaver, New York",
+            "Edition": "3 known variant impressions of state II",
+            "Impresssion": "Not numbered",
+            "Credit": "Gift of the artist",
+            "Object number": "1654.2008",
+            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/710"
+    },
+    {
+        "Artist": "Louise Bourgeois",
+        "Title": "Noah's Ark",
+        "Year": "c. 2002",
+        "ObjectID": "119567",
+        "Work": "https://www.moma.org/collection/works/119567",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NjQ5NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5d346828c61df258",
+        "Details": {
+            "State/variant": "State I of II",
+            "Medium": "Drypoint, with hand additions",
+            "Dimensions": "plate: 8 3/8 x 10 7/8\" (21.3 x 27.7 cm); sheet: 10 1/8 x 13 3/16\" (25.7 x 33.5 cm)",
+            "Publisher": "unpublished",
+            "Printer": "Harlan & Weaver, New York",
+            "Edition": "1 known impression of state I",
+            "Impresssion": "Not numbered",
+            "Credit": "Gift of the artist",
+            "Object number": "1653.2008",
+            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/710"
+    },
+    {
+        "Artist": "Louise Bourgeois",
+        "Title": "Rain Falling on Water",
+        "Year": "2002",
+        "ObjectID": "119568",
+        "Work": "https://www.moma.org/collection/works/119568",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NjQ4OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=777d2957edc75b4c",
+        "Details": {
+            "State/variant": "State I of XI",
+            "Medium": "Drypoint, with hand additions",
+            "Dimensions": "plate: 7 7/8 \u00d7 9 13/16\" (20 \u00d7 25 cm); sheet: 11 x 12\" (28 x 30.5 cm)",
+            "Publisher": "unpublished",
+            "Printer": "Harlan & Weaver, New York",
+            "Edition": "1 known impression of state I",
+            "Impresssion": "Not numbered",
+            "Credit": "Gift of the artist",
+            "Object number": "1645.2008",
+            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/710"
+    },
+    {
+        "Artist": "Louise Bourgeois",
+        "Title": "Rain Falling on Water",
+        "Year": "2002",
+        "ObjectID": "119569",
+        "Work": "https://www.moma.org/collection/works/119569",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NjQ4OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c09d274afd71c5a5",
+        "Details": {
+            "State/variant": "State II of XI, variant",
+            "Medium": "Drypoint and engraving, with hand additions",
+            "Dimensions": "plate: 7 7/8 \u00d7 9 13/16\" (20 \u00d7 25 cm); sheet: 10 7/16 x 12 11/16\" (26.5 x 32.3 cm)",
+            "Publisher": "unpublished",
+            "Printer": "Harlan & Weaver, New York",
+            "Edition": "3 known impressions of state II",
+            "Impresssion": "Not numbered",
+            "Credit": "Gift of the artist",
+            "Object number": "1646.2008",
+            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/710"
+    },
+    {
+        "Artist": "Louise Bourgeois",
+        "Title": "Rain Falling on Water",
+        "Year": "2002",
+        "ObjectID": "119570",
+        "Work": "https://www.moma.org/collection/works/119570",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NjQ5MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9452ab3dee278f74",
+        "Details": {
+            "State/variant": "State VI of XI",
+            "Medium": "Drypoint and engraving, with hand additions",
+            "Dimensions": "plate: 7 7/8 \u00d7 9 13/16\" (20 \u00d7 25 cm); sheet: 10 11/16 x 12 5/16\" (27.2 x 31.2 cm)",
+            "Publisher": "unpublished",
+            "Printer": "Harlan & Weaver, New York",
+            "Edition": "1 known impression of state VI",
+            "Impresssion": "Not numbered",
+            "Credit": "Gift of the artist",
+            "Object number": "1649.2008",
+            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/710"
+    },
+    {
+        "Artist": "Louise Bourgeois",
+        "Title": "Rain Falling on Water",
+        "Year": "2002",
+        "ObjectID": "119571",
+        "Work": "https://www.moma.org/collection/works/119571",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NjQ5MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=308817f1b6f0394c",
+        "Details": {
+            "State/variant": "State VII of XI",
+            "Medium": "Drypoint and engraving, with hand additions",
+            "Dimensions": "plate: 7 7/8 \u00d7 9 13/16\" (20 \u00d7 25 cm); sheet: 10 5/8 x 13 1/4\" (27 x 33.7 cm)",
+            "Publisher": "unpublished",
+            "Printer": "Harlan & Weaver, New York",
+            "Edition": "1 known impression of state VII",
+            "Impresssion": "Not numbered",
+            "Credit": "Gift of the artist",
+            "Object number": "1650.2008",
+            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/710"
+    },
+    {
+        "Artist": "Louise Bourgeois",
+        "Title": "Rain Falling on Water",
+        "Year": "2002",
+        "ObjectID": "119572",
+        "Work": "https://www.moma.org/collection/works/119572",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NjQ5MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=edc846f2945adf36",
+        "Details": {
+            "State/variant": "State V of XI",
+            "Medium": "Drypoint and engraving, with hand additions",
+            "Dimensions": "plate: 7 7/8 \u00d7 9 13/16\" (20 \u00d7 25 cm); sheet: 10 5/8 x 12\" (27 x 30.5 cm)",
+            "Publisher": "unpublished",
+            "Printer": "Harlan & Weaver, New York",
+            "Edition": "1 known impression of state V",
+            "Impresssion": "Not numbered",
+            "Credit": "Gift of the artist",
+            "Object number": "1648.2008",
+            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/710"
+    },
+    {
+        "Artist": "Louise Bourgeois",
+        "Title": "Rain Falling on Water",
+        "Year": "2002",
+        "ObjectID": "119573",
+        "Work": "https://www.moma.org/collection/works/119573",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NjQ5MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a367bb4b94f533ac",
+        "Details": {
+            "State/variant": "State III of XI",
+            "Medium": "Drypoint and engraving, with hand additions",
+            "Dimensions": "plate: 7 7/8 \u00d7 9 13/16\" (20 \u00d7 25 cm); sheet: 12 5/8 x 14 3/16\" (32 x 36 cm)",
+            "Publisher": "unpublished",
+            "Printer": "Harlan & Weaver, New York",
+            "Edition": "1 known impression of state III",
+            "Impresssion": "Not numbered",
+            "Credit": "Gift of the artist",
+            "Object number": "1647.2008",
+            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/710"
+    },
+    {
+        "Artist": "Louise Bourgeois",
+        "Title": "Maison",
+        "Year": "2002",
+        "ObjectID": "119574",
+        "Work": "https://www.moma.org/collection/works/119574",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NjQ2NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=33f22d7d058bfcc8",
+        "Details": {
+            "State/variant": "State I of III",
+            "Medium": "Drypoint, with hand additions",
+            "Dimensions": "plate: 5 7/16 x 7\" (13.8 x 17.8 cm); sheet: 9 1/8 x 10 1/16\" (23.2 x 25.5 cm)",
+            "Publisher": "unpublished",
+            "Printer": "Harlan & Weaver, New York",
+            "Edition": "1 known impression of state I",
+            "Impresssion": "Not numbered",
+            "Credit": "Gift of the artist",
+            "Object number": "1583.2008",
+            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/710"
+    },
+    {
+        "Artist": "Louise Bourgeois",
+        "Title": "Laisse Tomber",
+        "Year": "2001-2002",
+        "ObjectID": "119578",
+        "Work": "https://www.moma.org/collection/works/119578",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MTY1MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e3255e405dcf2a09",
+        "Details": {
+            "State/variant": "State III of V, variant",
+            "Medium": "Drypoint and engraving, with hand additions",
+            "Dimensions": "plate: 8 7/16 x 10 13/16\" (21.5 x 27.5 cm); sheet: 12 11/16 x 14 15/16\" (32.3 x 38 cm)",
+            "Publisher": "unpublished",
+            "Printer": "Harlan & Weaver, New York",
+            "Edition": "2 known variant impressions of state III",
+            "Impresssion": "Not numbered",
+            "Credit": "Gift of the artist",
+            "Object number": "1551.2008",
+            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/710"
+    },
+    {
+        "Artist": "Louise Bourgeois",
+        "Title": "Laisse Tomber",
+        "Year": "2002",
+        "ObjectID": "119579",
+        "Work": "https://www.moma.org/collection/works/119579",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MTY1NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ba0ec78f0fcf2726",
+        "Details": {
+            "State/variant": "State III of V, variant",
+            "Medium": "Drypoint and engraving, with hand additions",
+            "Dimensions": "plate: 8 7/16 x 10 13/16\" (21.5 x 27.5 cm); sheet: 10 1/2 x 13 1/16\" (26.7 x 33.2 cm)",
+            "Publisher": "unpublished",
+            "Printer": "Harlan & Weaver, New York",
+            "Edition": "2 known variant impressions of state III",
+            "Impresssion": "Not numbered",
+            "Credit": "Gift of the artist",
+            "Object number": "1552.2008",
+            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/710"
+    },
+    {
+        "Artist": "Louise Bourgeois",
+        "Title": "Cocoon, plate 6 of 7, from the portfolio, La Reparation",
+        "Year": "2002",
+        "ObjectID": "119591",
+        "Work": "https://www.moma.org/collection/works/119591",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NjQ1OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f241cf963a8ea4f9",
+        "Details": {
+            "State/variant": "Only state, variant",
+            "Medium": "Drypoint, with hand additions",
+            "Dimensions": "plate: 11 13/16 x 5 7/8\" (30 x 15 cm); sheet: 15 15/16 x 10 1/16\" (40.5 x 25.5 cm)",
+            "Publisher": "unpublished",
+            "Printer": "Harlan & Weaver, New York",
+            "Edition": "1 known variant impression of the only state, outside the edition",
+            "Impresssion": "Not numbered",
+            "Credit": "Gift of the artist",
+            "Object number": "1498.2008",
+            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/710"
+    },
+    {
+        "Artist": "Louise Bourgeois",
         "Title": "Untitled",
-        "Year": "1999-2001",
-        "ObjectID": "134812",
-        "Work": "https://www.moma.org/collection/works/134812",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MzIzMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f805938fd555c289",
+        "Year": "2002",
+        "ObjectID": "119592",
+        "Work": "https://www.moma.org/collection/works/119592",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MTY1MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b5afdfbf11e5555c",
         "Details": {
-            "Medium": "Graphite and tape on vellum",
-            "Dimensions": "Sheet: 9 1/8 x 15 1/4\" (23.2 x 38.7 cm)",
-            "Credit": "Gift  of The Speyer Family Foundation, Kathy and Richard S. Fuld, Jr., Marie-Jos\u00e9e and Henry R. Kravis, Patricia Phelps de Cisneros, Anna Marie and Robert F. Shapiro, The Julia Stoschek Foundation, D\u00fcsseldorf, and Committee on Media Funds",
-            "Object number": "207.2007.7",
-            "Copyright": "\u00a9 2023 Francis Al\u00ffs",
-            "Installation": "Rehearsal I (Ensayo I)",
-            "Department": "Media and Performance"
+            "State/variant": "State I of II",
+            "Medium": "Drypoint, with hand additions",
+            "Dimensions": "plate: 12 x 12\" (30.5 x 30.5 cm); sheet: 13 1/2 x 14\" (34.3 x 35.5 cm)",
+            "Publisher": "unpublished",
+            "Printer": "Harlan & Weaver, New York",
+            "Edition": "1 known impression of state I",
+            "Impresssion": "Not numbered",
+            "Credit": "Gift of the artist",
+            "Object number": "1541.2008",
+            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/8383"
-    },
-    {
-        "Artist": "Francis Alys",
-        "Title": "Untitled",
-        "Year": "1999-2001",
-        "ObjectID": "134813",
-        "Work": "https://www.moma.org/collection/works/134813",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MzIzMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0d7bdf1149697ce4",
-        "Details": {
-            "Medium": "Graphite and tape on vellum",
-            "Dimensions": "Sheet: 13 5/8 x 9 3/4\" (34.6 x 24.8 cm)",
-            "Credit": "Gift  of The Speyer Family Foundation, Kathy and Richard S. Fuld, Jr., Marie-Jos\u00e9e and Henry R. Kravis, Patricia Phelps de Cisneros, Anna Marie and Robert F. Shapiro, The Julia Stoschek Foundation, D\u00fcsseldorf, and Committee on Media Funds",
-            "Object number": "207.2007.8",
-            "Copyright": "\u00a9 2023 Francis Al\u00ffs",
-            "Installation": "Rehearsal I (Ensayo I)",
-            "Department": "Media and Performance"
-        },
-        "Profile": "https://www.moma.org/artists/8383"
-    },
-    {
-        "Artist": "Francis Alys",
-        "Title": "Untitled",
-        "Year": "1999-2001",
-        "ObjectID": "134814",
-        "Work": "https://www.moma.org/collection/works/134814",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5NTIxMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c77871d5db26228e",
-        "Details": {
-            "Medium": "Graphite and colored pencil on paper",
-            "Dimensions": "Sheet: 6 3/4 x 5 3/8\" (17.1 x 13.7 cm)",
-            "Credit": "Gift  of The Speyer Family Foundation, Kathy and Richard S. Fuld, Jr., Marie-Jos\u00e9e and Henry R. Kravis, Patricia Phelps de Cisneros, Anna Marie and Robert F. Shapiro, The Julia Stoschek Foundation, D\u00fcsseldorf, and Committee on Media Funds",
-            "Object number": "207.2007.9",
-            "Copyright": "\u00a9 2023 Francis Al\u00ffs",
-            "Installation": "Rehearsal I (Ensayo I)",
-            "Department": "Media and Performance"
-        },
-        "Profile": "https://www.moma.org/artists/8383"
-    },
-    {
-        "Artist": "Francis Alys",
-        "Title": "Untitled",
-        "Year": "1999-2001",
-        "ObjectID": "134815",
-        "Work": "https://www.moma.org/collection/works/134815",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MzE5OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c9ba0198d094c974",
-        "Details": {
-            "Medium": "Graphite on vellum",
-            "Dimensions": "Sheet: 5 5/8 x 8 1/4\" (14.3 x 21 cm)",
-            "Credit": "Gift  of The Speyer Family Foundation, Kathy and Richard S. Fuld, Jr., Marie-Jos\u00e9e and Henry R. Kravis, Patricia Phelps de Cisneros, Anna Marie and Robert F. Shapiro, The Julia Stoschek Foundation, D\u00fcsseldorf, and Committee on Media Funds",
-            "Object number": "207.2007.10",
-            "Copyright": "\u00a9 2023 Francis Al\u00ffs",
-            "Installation": "Rehearsal I (Ensayo I)",
-            "Department": "Media and Performance"
-        },
-        "Profile": "https://www.moma.org/artists/8383"
-    },
-    {
-        "Artist": "Francis Alys",
-        "Title": "Untitled",
-        "Year": "1999-2001",
-        "ObjectID": "134816",
-        "Work": "https://www.moma.org/collection/works/134816",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MzE5OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cafc9c4e70bf77b3",
-        "Details": {
-            "Medium": "Ink and graphite on vellum",
-            "Dimensions": "Sheet: 6 1/8 x 8 3/8\" (15.6 x 21.3 cm)",
-            "Credit": "Gift  of The Speyer Family Foundation, Kathy and Richard S. Fuld, Jr., Marie-Jos\u00e9e and Henry R. Kravis, Patricia Phelps de Cisneros, Anna Marie and Robert F. Shapiro, The Julia Stoschek Foundation, D\u00fcsseldorf, and Committee on Media Funds",
-            "Object number": "207.2007.11",
-            "Copyright": "\u00a9 2023 Francis Al\u00ffs",
-            "Installation": "Rehearsal I (Ensayo I)",
-            "Department": "Media and Performance"
-        },
-        "Profile": "https://www.moma.org/artists/8383"
-    },
-    {
-        "Artist": "Francis Alys",
-        "Title": "Untitled",
-        "Year": "1999-2001",
-        "ObjectID": "134817",
-        "Work": "https://www.moma.org/collection/works/134817",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MzIwMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8bf112b693befc7b",
-        "Details": {
-            "Medium": "Graphite, paint, and tape on vellum",
-            "Dimensions": "Sheet: 9 3/8 x 12 3/4\" (23.8 x 32.4 cm)",
-            "Credit": "Gift  of The Speyer Family Foundation, Kathy and Richard S. Fuld, Jr., Marie-Jos\u00e9e and Henry R. Kravis, Patricia Phelps de Cisneros, Anna Marie and Robert F. Shapiro, The Julia Stoschek Foundation, D\u00fcsseldorf, and Committee on Media Funds",
-            "Object number": "207.2007.12",
-            "Copyright": "\u00a9 2023 Francis Al\u00ffs",
-            "Installation": "Rehearsal I (Ensayo I)",
-            "Department": "Media and Performance"
-        },
-        "Profile": "https://www.moma.org/artists/8383"
-    },
-    {
-        "Artist": "Francis Alys",
-        "Title": "Untitled",
-        "Year": "1999-2001",
-        "ObjectID": "134818",
-        "Work": "https://www.moma.org/collection/works/134818",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MzIwMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=909a0483c0d5b463",
-        "Details": {
-            "Medium": "Graphite, paint, and tape on vellum",
-            "Dimensions": "Sheet: 13 3/8 x 15 1/4\" (34 x 38.7 cm)",
-            "Credit": "Gift  of The Speyer Family Foundation, Kathy and Richard S. Fuld, Jr., Marie-Jos\u00e9e and Henry R. Kravis, Patricia Phelps de Cisneros, Anna Marie and Robert F. Shapiro, The Julia Stoschek Foundation, D\u00fcsseldorf, and Committee on Media Funds",
-            "Object number": "207.2007.13",
-            "Copyright": "\u00a9 2023 Francis Al\u00ffs",
-            "Installation": "Rehearsal I (Ensayo I)",
-            "Department": "Media and Performance"
-        },
-        "Profile": "https://www.moma.org/artists/8383"
-    },
-    {
-        "Artist": "Francis Alys",
-        "Title": "Untitled",
-        "Year": "1999-2001",
-        "ObjectID": "134819",
-        "Work": "https://www.moma.org/collection/works/134819",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MzIwMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=590dabbcaaa00bbe",
-        "Details": {
-            "Medium": "Graphite, marker, and ink on paper",
-            "Dimensions": "Sheet: 8 1/2 x 11\" (21.6 x 27.9 cm)",
-            "Credit": "Gift  of The Speyer Family Foundation, Kathy and Richard S. Fuld, Jr., Marie-Jos\u00e9e and Henry R. Kravis, Patricia Phelps de Cisneros, Anna Marie and Robert F. Shapiro, The Julia Stoschek Foundation, D\u00fcsseldorf, and Committee on Media Funds",
-            "Object number": "207.2007.14",
-            "Copyright": "\u00a9 2023 Francis Al\u00ffs",
-            "Installation": "Rehearsal I (Ensayo I)",
-            "Department": "Media and Performance"
-        },
-        "Profile": "https://www.moma.org/artists/8383"
-    },
-    {
-        "Artist": "Francis Alys",
-        "Title": "Untitled",
-        "Year": "1999-2001",
-        "ObjectID": "134820",
-        "Work": "https://www.moma.org/collection/works/134820",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MzIwMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=15e1a5555b74d42a",
-        "Details": {
-            "Medium": "Graphite and marker on paper",
-            "Dimensions": "Sheet: 8 1/2 x 11\" (21.6 x 27.9 cm)",
-            "Credit": "Gift  of The Speyer Family Foundation, Kathy and Richard S. Fuld, Jr., Marie-Jos\u00e9e and Henry R. Kravis, Patricia Phelps de Cisneros, Anna Marie and Robert F. Shapiro, The Julia Stoschek Foundation, D\u00fcsseldorf, and Committee on Media Funds",
-            "Object number": "207.2007.15",
-            "Copyright": "\u00a9 2023 Francis Al\u00ffs",
-            "Installation": "Rehearsal I (Ensayo I)",
-            "Department": "Media and Performance"
-        },
-        "Profile": "https://www.moma.org/artists/8383"
-    },
-    {
-        "Artist": "Francis Alys",
-        "Title": "Untitled",
-        "Year": "1999-2001",
-        "ObjectID": "134821",
-        "Work": "https://www.moma.org/collection/works/134821",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MzIwNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7fda7699ca32a43a",
-        "Details": {
-            "Medium": "Graphite and marker on paper",
-            "Dimensions": "Sheet: 8 1/2 x 11\" (21.6 x 27.9 cm)",
-            "Credit": "Gift  of The Speyer Family Foundation, Kathy and Richard S. Fuld, Jr., Marie-Jos\u00e9e and Henry R. Kravis, Patricia Phelps de Cisneros, Anna Marie and Robert F. Shapiro, The Julia Stoschek Foundation, D\u00fcsseldorf, and Committee on Media Funds",
-            "Object number": "207.2007.16",
-            "Copyright": "\u00a9 2023 Francis Al\u00ffs",
-            "Installation": "Rehearsal I (Ensayo I)",
-            "Department": "Media and Performance"
-        },
-        "Profile": "https://www.moma.org/artists/8383"
-    },
-    {
-        "Artist": "Francis Alys",
-        "Title": "Untitled",
-        "Year": "1999-2001",
-        "ObjectID": "134822",
-        "Work": "https://www.moma.org/collection/works/134822",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MzIwNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d7feb7d7bbc28e3b",
-        "Details": {
-            "Medium": "Graphite and marker on paper",
-            "Dimensions": "Sheet: 8 1/2 x 11\" (21.6 x 27.9 cm)",
-            "Credit": "Gift  of The Speyer Family Foundation, Kathy and Richard S. Fuld, Jr., Marie-Jos\u00e9e and Henry R. Kravis, Patricia Phelps de Cisneros, Anna Marie and Robert F. Shapiro, The Julia Stoschek Foundation, D\u00fcsseldorf, and Committee on Media Funds",
-            "Object number": "207.2007.17",
-            "Copyright": "\u00a9 2023 Francis Al\u00ffs",
-            "Installation": "Rehearsal I (Ensayo I)",
-            "Department": "Media and Performance"
-        },
-        "Profile": "https://www.moma.org/artists/8383"
-    },
-    {
-        "Artist": "Francis Alys",
-        "Title": "Untitled",
-        "Year": "1999-2001",
-        "ObjectID": "134823",
-        "Work": "https://www.moma.org/collection/works/134823",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5NTIxMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f6e85ac10572c7aa",
-        "Details": {
-            "Medium": "Graphite, colored pencil and tape on graph paper",
-            "Dimensions": "Sheet: 16 3/4 x 21 3/4\" (42.5 x 55.2 cm)",
-            "Credit": "Gift  of The Speyer Family Foundation, Kathy and Richard S. Fuld, Jr., Marie-Jos\u00e9e and Henry R. Kravis, Patricia Phelps de Cisneros, Anna Marie and Robert F. Shapiro, The Julia Stoschek Foundation, D\u00fcsseldorf, and Committee on Media Funds",
-            "Object number": "207.2007.18",
-            "Copyright": "\u00a9 2023 Francis Al\u00ffs",
-            "Installation": "Rehearsal I (Ensayo I)",
-            "Department": "Media and Performance"
-        },
-        "Profile": "https://www.moma.org/artists/8383"
-    },
-    {
-        "Artist": "Francis Alys",
-        "Title": "Untitled",
-        "Year": "1999-2001",
-        "ObjectID": "134824",
-        "Work": "https://www.moma.org/collection/works/134824",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MzIwNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cfd78adf94020fb6",
-        "Details": {
-            "Medium": "Color photo, ink, graphite, colored pencil, tape, and stapled parking ticket on paper",
-            "Dimensions": "Sheet: 8 1/2 x 11\" (21.6 x 27.9 cm)",
-            "Credit": "Gift  of The Speyer Family Foundation, Kathy and Richard S. Fuld, Jr., Marie-Jos\u00e9e and Henry R. Kravis, Patricia Phelps de Cisneros, Anna Marie and Robert F. Shapiro, The Julia Stoschek Foundation, D\u00fcsseldorf, and Committee on Media Funds",
-            "Object number": "207.2007.19",
-            "Copyright": "\u00a9 2023 Francis Al\u00ffs",
-            "Installation": "Rehearsal I (Ensayo I)",
-            "Department": "Media and Performance"
-        },
-        "Profile": "https://www.moma.org/artists/8383"
-    },
-    {
-        "Artist": "Francis Alys",
-        "Title": "Untitled",
-        "Year": "1999-2001",
-        "ObjectID": "134825",
-        "Work": "https://www.moma.org/collection/works/134825",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MzIwNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b232a2b9778dcdd1",
-        "Details": {
-            "Medium": "Ink and graphite on graph paper",
-            "Dimensions": "Sheet: 11 x 8 1/2\" (27.9 x 21.6 cm)",
-            "Credit": "Gift  of The Speyer Family Foundation, Kathy and Richard S. Fuld, Jr., Marie-Jos\u00e9e and Henry R. Kravis, Patricia Phelps de Cisneros, Anna Marie and Robert F. Shapiro, The Julia Stoschek Foundation, D\u00fcsseldorf, and Committee on Media Funds",
-            "Object number": "207.2007.20",
-            "Copyright": "\u00a9 2023 Francis Al\u00ffs",
-            "Installation": "Rehearsal I (Ensayo I)",
-            "Department": "Media and Performance"
-        },
-        "Profile": "https://www.moma.org/artists/8383"
-    },
-    {
-        "Artist": "Francis Alys",
-        "Title": "Untitled",
-        "Year": "1999-2001",
-        "ObjectID": "134826",
-        "Work": "https://www.moma.org/collection/works/134826",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4NDAyNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=39c127073a637502",
-        "Details": {
-            "Medium": "Graphite, colored pencil, and ink on paper",
-            "Dimensions": "Sheet: 11 x 8 1/2\" (27.9 x 21.6 cm)",
-            "Credit": "Gift  of The Speyer Family Foundation, Kathy and Richard S. Fuld, Jr., Marie-Jos\u00e9e and Henry R. Kravis, Patricia Phelps de Cisneros, Anna Marie and Robert F. Shapiro, The Julia Stoschek Foundation, D\u00fcsseldorf, and Committee on Media Funds",
-            "Object number": "207.2007.21",
-            "Copyright": "\u00a9 2023 Francis Al\u00ffs",
-            "Installation": "Rehearsal I (Ensayo I)",
-            "Department": "Media and Performance"
-        },
-        "Profile": "https://www.moma.org/artists/8383"
-    },
-    {
-        "Artist": "Francis Alys",
-        "Title": "Untitled",
-        "Year": "1999-2001",
-        "ObjectID": "134827",
-        "Work": "https://www.moma.org/collection/works/134827",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4NDAyOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8d49d82048d42eb9",
-        "Details": {
-            "Medium": "Graphite and ink on type-written page",
-            "Dimensions": "Sheet: 11 x 8 1/2\" (27.9 x 21.6 cm)",
-            "Credit": "Gift  of The Speyer Family Foundation, Kathy and Richard S. Fuld, Jr., Marie-Jos\u00e9e and Henry R. Kravis, Patricia Phelps de Cisneros, Anna Marie and Robert F. Shapiro, The Julia Stoschek Foundation, D\u00fcsseldorf, and Committee on Media Funds",
-            "Object number": "207.2007.22",
-            "Copyright": "\u00a9 2023 Francis Al\u00ffs",
-            "Installation": "Rehearsal I (Ensayo I)",
-            "Department": "Media and Performance"
-        },
-        "Profile": "https://www.moma.org/artists/8383"
-    },
-    {
-        "Artist": "Francis Alys",
-        "Title": "Untitled",
-        "Year": "1999-2001",
-        "ObjectID": "134828",
-        "Work": "https://www.moma.org/collection/works/134828",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MzIwOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ee156d108da4c2ba",
-        "Details": {
-            "Medium": "Ink and graphite on paper",
-            "Dimensions": "Sheet: 11 x 8 1/2\" (27.9 x 21.6 cm)",
-            "Credit": "Gift  of The Speyer Family Foundation, Kathy and Richard S. Fuld, Jr., Marie-Jos\u00e9e and Henry R. Kravis, Patricia Phelps de Cisneros, Anna Marie and Robert F. Shapiro, The Julia Stoschek Foundation, D\u00fcsseldorf, and Committee on Media Funds",
-            "Object number": "207.2007.23",
-            "Copyright": "\u00a9 2023 Francis Al\u00ffs",
-            "Installation": "Rehearsal I (Ensayo I)",
-            "Department": "Media and Performance"
-        },
-        "Profile": "https://www.moma.org/artists/8383"
-    },
-    {
-        "Artist": "Francis Alys",
-        "Title": "Untitled",
-        "Year": "1999-2001",
-        "ObjectID": "134829",
-        "Work": "https://www.moma.org/collection/works/134829",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MzIwOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b8684badab2a5e0a",
-        "Details": {
-            "Medium": "Ink and graphite on type-written page",
-            "Dimensions": "Sheet: 11 x 8 1/2\" (27.9 x 21.6 cm)",
-            "Credit": "Gift  of The Speyer Family Foundation, Kathy and Richard S. Fuld, Jr., Marie-Jos\u00e9e and Henry R. Kravis, Patricia Phelps de Cisneros, Anna Marie and Robert F. Shapiro, The Julia Stoschek Foundation, D\u00fcsseldorf, and Committee on Media Funds",
-            "Object number": "207.2007.24",
-            "Copyright": "\u00a9 2023 Francis Al\u00ffs",
-            "Installation": "Rehearsal I (Ensayo I)",
-            "Department": "Media and Performance"
-        },
-        "Profile": "https://www.moma.org/artists/8383"
-    },
-    {
-        "Artist": "Francis Alys",
-        "Title": "Untitled",
-        "Year": "1999-2001",
-        "ObjectID": "134830",
-        "Work": "https://www.moma.org/collection/works/134830",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MzIxMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6eefa722b3c98cd5",
-        "Details": {
-            "Medium": "Graphite and ink on paper",
-            "Dimensions": "Sheet: 11 x 8 1/2\" (27.9 x 21.6 cm)",
-            "Credit": "Gift  of The Speyer Family Foundation, Kathy and Richard S. Fuld, Jr., Marie-Jos\u00e9e and Henry R. Kravis, Patricia Phelps de Cisneros, Anna Marie and Robert F. Shapiro, The Julia Stoschek Foundation, D\u00fcsseldorf, and Committee on Media Funds",
-            "Object number": "207.2007.25",
-            "Copyright": "\u00a9 2023 Francis Al\u00ffs",
-            "Installation": "Rehearsal I (Ensayo I)",
-            "Department": "Media and Performance"
-        },
-        "Profile": "https://www.moma.org/artists/8383"
-    },
-    {
-        "Artist": "Francis Alys",
-        "Title": "Untitled",
-        "Year": "1999-2001",
-        "ObjectID": "134831",
-        "Work": "https://www.moma.org/collection/works/134831",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MzIxMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9bac89f674f04075",
-        "Details": {
-            "Medium": "Graphite and ink on paper",
-            "Dimensions": "Sheet: 11 x 8 1/2\" (27.9 x 21.6 cm)",
-            "Credit": "Gift  of The Speyer Family Foundation, Kathy and Richard S. Fuld, Jr., Marie-Jos\u00e9e and Henry R. Kravis, Patricia Phelps de Cisneros, Anna Marie and Robert F. Shapiro, The Julia Stoschek Foundation, D\u00fcsseldorf, and Committee on Media Funds",
-            "Object number": "207.2007.26",
-            "Copyright": "\u00a9 2023 Francis Al\u00ffs",
-            "Installation": "Rehearsal I (Ensayo I)",
-            "Department": "Media and Performance"
-        },
-        "Profile": "https://www.moma.org/artists/8383"
-    },
-    {
-        "Artist": "Francis Alys",
-        "Title": "Untitled",
-        "Year": "1999-2001",
-        "ObjectID": "134832",
-        "Work": "https://www.moma.org/collection/works/134832",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MzIxMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3f2cde81924cb257",
-        "Details": {
-            "Medium": "Ink and graphite on type-written page, correction fluid on verso",
-            "Dimensions": "Sheet: 11 x 8 1/2\" (27.9 x 21.6 cm)",
-            "Credit": "Gift  of The Speyer Family Foundation, Kathy and Richard S. Fuld, Jr., Marie-Jos\u00e9e and Henry R. Kravis, Patricia Phelps de Cisneros, Anna Marie and Robert F. Shapiro, The Julia Stoschek Foundation, D\u00fcsseldorf, and Committee on Media Funds",
-            "Object number": "207.2007.27",
-            "Copyright": "\u00a9 2023 Francis Al\u00ffs",
-            "Installation": "Rehearsal I (Ensayo I)",
-            "Department": "Media and Performance"
-        },
-        "Profile": "https://www.moma.org/artists/8383"
-    },
-    {
-        "Artist": "Francis Alys",
-        "Title": "Untitled",
-        "Year": "1999-2001",
-        "ObjectID": "134833",
-        "Work": "https://www.moma.org/collection/works/134833",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MzIxMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c703ea3832d68292",
-        "Details": {
-            "Medium": "Graphite on paper",
-            "Dimensions": "Sheet: 11 x 8 1/2\" (27.9 x 21.6 cm)",
-            "Credit": "Gift  of The Speyer Family Foundation, Kathy and Richard S. Fuld, Jr., Marie-Jos\u00e9e and Henry R. Kravis, Patricia Phelps de Cisneros, Anna Marie and Robert F. Shapiro, The Julia Stoschek Foundation, D\u00fcsseldorf, and Committee on Media Funds",
-            "Object number": "207.2007.28",
-            "Copyright": "\u00a9 2023 Francis Al\u00ffs",
-            "Installation": "Rehearsal I (Ensayo I)",
-            "Department": "Media and Performance"
-        },
-        "Profile": "https://www.moma.org/artists/8383"
-    },
-    {
-        "Artist": "Francis Alys",
-        "Title": "Untitled",
-        "Year": "1999-2001",
-        "ObjectID": "134834",
-        "Work": "https://www.moma.org/collection/works/134834",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4NDAyOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=31df34a34323e3ed",
-        "Details": {
-            "Medium": "Graphite, ink, and color photo, taped and stapled on paper",
-            "Dimensions": "Sheet: 11 x 8 1/2\" (27.9 x 21.6 cm)",
-            "Credit": "Gift  of The Speyer Family Foundation, Kathy and Richard S. Fuld, Jr., Marie-Jos\u00e9e and Henry R. Kravis, Patricia Phelps de Cisneros, Anna Marie and Robert F. Shapiro, The Julia Stoschek Foundation, D\u00fcsseldorf, and Committee on Media Funds",
-            "Object number": "207.2007.29",
-            "Copyright": "\u00a9 2023 Francis Al\u00ffs",
-            "Installation": "Rehearsal I (Ensayo I)",
-            "Department": "Media and Performance"
-        },
-        "Profile": "https://www.moma.org/artists/8383"
-    },
-    {
-        "Artist": "Francis Alys",
-        "Title": "Untitled",
-        "Year": "1999-2001",
-        "ObjectID": "134835",
-        "Work": "https://www.moma.org/collection/works/134835",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3ODQ4NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1f9d7b2b75989205",
-        "Details": {
-            "Medium": "Ink, colored pencil, graphite, and correction fluid on type-written page",
-            "Dimensions": "Sheet: 11 x 8 1/2\" (27.9 x 21.6 cm)",
-            "Credit": "Gift  of The Speyer Family Foundation, Kathy and Richard S. Fuld, Jr., Marie-Jos\u00e9e and Henry R. Kravis, Patricia Phelps de Cisneros, Anna Marie and Robert F. Shapiro, The Julia Stoschek Foundation, D\u00fcsseldorf, and Committee on Media Funds",
-            "Object number": "207.2007.30",
-            "Copyright": "\u00a9 2023 Francis Al\u00ffs",
-            "Installation": "Rehearsal I (Ensayo I)",
-            "Department": "Media and Performance"
-        },
-        "Profile": "https://www.moma.org/artists/8383"
-    },
-    {
-        "Artist": "Francis Alys",
-        "Title": "Untitled",
-        "Year": "1999-2001",
-        "ObjectID": "134836",
-        "Work": "https://www.moma.org/collection/works/134836",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4NDAzMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=75da385a4cfc0315",
-        "Details": {
-            "Medium": "Ink, graphite, and tape on photocopied page",
-            "Dimensions": "Sheet: 11 x 8 1/2\" (27.9 x 21.6 cm)",
-            "Credit": "Gift  of The Speyer Family Foundation, Kathy and Richard S. Fuld, Jr., Marie-Jos\u00e9e and Henry R. Kravis, Patricia Phelps de Cisneros, Anna Marie and Robert F. Shapiro, The Julia Stoschek Foundation, D\u00fcsseldorf, and Committee on Media Funds",
-            "Object number": "207.2007.31",
-            "Copyright": "\u00a9 2023 Francis Al\u00ffs",
-            "Installation": "Rehearsal I (Ensayo I)",
-            "Department": "Media and Performance"
-        },
-        "Profile": "https://www.moma.org/artists/8383"
-    },
-    {
-        "Artist": "Francis Alys",
-        "Title": "Untitled",
-        "Year": "1999-2001",
-        "ObjectID": "134837",
-        "Work": "https://www.moma.org/collection/works/134837",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4NDAzMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ef2ce998ebdc83c2",
-        "Details": {
-            "Medium": "Graphite on paper",
-            "Dimensions": "Sheet: 11 x 8 1/2\" (27.9 x 21.6 cm)",
-            "Credit": "Gift  of The Speyer Family Foundation, Kathy and Richard S. Fuld, Jr., Marie-Jos\u00e9e and Henry R. Kravis, Patricia Phelps de Cisneros, Anna Marie and Robert F. Shapiro, The Julia Stoschek Foundation, D\u00fcsseldorf, and Committee on Media Funds",
-            "Object number": "207.2007.32",
-            "Copyright": "\u00a9 2023 Francis Al\u00ffs",
-            "Installation": "Rehearsal I (Ensayo I)",
-            "Department": "Media and Performance"
-        },
-        "Profile": "https://www.moma.org/artists/8383"
-    },
-    {
-        "Artist": "Francis Alys",
-        "Title": "Untitled",
-        "Year": "1999-2001",
-        "ObjectID": "134838",
-        "Work": "https://www.moma.org/collection/works/134838",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3ODQ5MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=380edef8ee166742",
-        "Details": {
-            "Medium": "Three photocopied, type-written pages, stapled",
-            "Dimensions": "Sheet: 10 7/8 x 8 1/4\" (27.6 x 21 cm)",
-            "Credit": "Gift  of The Speyer Family Foundation, Kathy and Richard S. Fuld, Jr., Marie-Jos\u00e9e and Henry R. Kravis, Patricia Phelps de Cisneros, Anna Marie and Robert F. Shapiro, The Julia Stoschek Foundation, D\u00fcsseldorf, and Committee on Media Funds",
-            "Object number": "207.2007.33",
-            "Copyright": "\u00a9 2023 Francis Al\u00ffs",
-            "Installation": "Rehearsal I (Ensayo I)",
-            "Department": "Media and Performance"
-        },
-        "Profile": "https://www.moma.org/artists/8383"
-    },
-    {
-        "Artist": "Francis Alys",
-        "Title": "Untitled",
-        "Year": "1999-2001",
-        "ObjectID": "134839",
-        "Work": "https://www.moma.org/collection/works/134839",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4NDAzMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f3c726e3436b9952",
-        "Details": {
-            "Medium": "Graphite, pen, and correction fluid on type-written page",
-            "Dimensions": "Sheet: 11 x 8 1/2\" (27.9 x 21.6 cm)",
-            "Credit": "Gift  of The Speyer Family Foundation, Kathy and Richard S. Fuld, Jr., Marie-Jos\u00e9e and Henry R. Kravis, Patricia Phelps de Cisneros, Anna Marie and Robert F. Shapiro, The Julia Stoschek Foundation, D\u00fcsseldorf, and Committee on Media Funds",
-            "Object number": "207.2007.34",
-            "Copyright": "\u00a9 2023 Francis Al\u00ffs",
-            "Installation": "Rehearsal I (Ensayo I)",
-            "Department": "Media and Performance"
-        },
-        "Profile": "https://www.moma.org/artists/8383"
-    },
-    {
-        "Artist": "Francis Alys",
-        "Title": "Untitled",
-        "Year": "1999-2001",
-        "ObjectID": "134840",
-        "Work": "https://www.moma.org/collection/works/134840",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4NDAzMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7d000bab13d5a87a",
-        "Details": {
-            "Medium": "Ink and colored pencil on photocopied page",
-            "Dimensions": "Sheet: 11 x 8 1/2\" (27.9 x 21.6 cm)",
-            "Credit": "Gift  of The Speyer Family Foundation, Kathy and Richard S. Fuld, Jr., Marie-Jos\u00e9e and Henry R. Kravis, Patricia Phelps de Cisneros, Anna Marie and Robert F. Shapiro, The Julia Stoschek Foundation, D\u00fcsseldorf, and Committee on Media Funds",
-            "Object number": "207.2007.35",
-            "Copyright": "\u00a9 2023 Francis Al\u00ffs",
-            "Installation": "Rehearsal I (Ensayo I)",
-            "Department": "Media and Performance"
-        },
-        "Profile": "https://www.moma.org/artists/8383"
+        "Profile": "https://www.moma.org/artists/710"
     }
 ]

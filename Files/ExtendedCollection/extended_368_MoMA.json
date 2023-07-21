@@ -1,903 +1,881 @@
 [
     {
-        "Artist": "John Szarkowski",
-        "Title": "Mr. Bristol's Barn 28",
-        "Year": "c. 1990",
-        "ObjectID": "52313",
-        "Work": "https://www.moma.org/collection/works/52313",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MDIwOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=497fbefa17521bd8",
+        "Artist": "Paul McCarthy",
+        "Title": "Propo",
+        "Year": "1994",
+        "ObjectID": "13954",
+        "Work": "https://www.moma.org/collection/works/13954",
+        "Thumbnail": null,
         "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "13 5/16 \u00d7 10 1/2\" (33.8 \u00d7 26.6 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "386.1998",
-            "Copyright": "\u00a9 2023 Estate of John Szarkowski",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/8084"
-    },
-    {
-        "Artist": "John Szarkowski",
-        "Title": "Sonoran Landscape #5",
-        "Year": "1992",
-        "ObjectID": "108167",
-        "Work": "https://www.moma.org/collection/works/108167",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4NTA1MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2bf9daf276d1052d",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "15 3/8 \u00d7 19 3/8\" (39.1 \u00d7 49.2 cm)",
-            "Credit": "Gift of Susan and Peter MacGill",
-            "Object number": "1045.2013",
-            "Copyright": "\u00a9 2023 Estate of John Szarkowski",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/8084"
-    },
-    {
-        "Artist": "Yoshito Takahashi",
-        "Title": "Nara Convention Hall Project, Nara, Japan, Perspective",
-        "Year": "1992",
-        "ObjectID": "472",
-        "Work": "https://www.moma.org/collection/works/472",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyNzYzMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a05d4d3053d34ee8",
-        "Details": {
-            "Medium": "Computer-generated print with airbrush on paper",
-            "Dimensions": "14 1/4 x 30\" (36.2 x 76.2 cm)",
-            "Credit": "Gift of the architect in honor of Lily Auchincloss",
-            "Object number": "385.1994",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/7420"
-    },
-    {
-        "Artist": "Nahum Tevet",
-        "Title": "Painting Lesson",
-        "Year": "1992",
-        "ObjectID": "196010",
-        "Work": "https://www.moma.org/collection/works/196010",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0MzUwMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b7c67459413f1132",
-        "Details": {
-            "Medium": "Portfolio of eight photogravures",
-            "Dimensions": "plate (see child records): various dimensions; sheet (each): 10 15/16 \u00d7 9 13/16\" (27.8 \u00d7 24.9 cm)",
-            "Publisher": "Jacob Samuel",
-            "Printer": "Jacob Samuel",
-            "Edition": "10",
-            "Credit": "Gift of Jacob and Yael Samuel",
-            "Object number": "1723.2015.1-8",
-            "Type": "Portfolio",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5839"
-    },
-    {
-        "Artist": "Nahum Tevet",
-        "Title": "Untitled from Painting Lesson",
-        "Year": "1992",
-        "ObjectID": "200197",
-        "Work": "https://www.moma.org/collection/works/200197",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0MzUwMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=95b6ee6552c29ebe",
-        "Details": {
-            "Medium": "One from a portfolio of eight photogravures",
-            "Dimensions": "plate: 3 1/2 \u00d7 3 7/16\" (8.9 \u00d7 8.8 cm); sheet: 10 15/16 \u00d7 9 13/16\" (27.8 \u00d7 24.9 cm)",
-            "Publisher": "Jacob Samuel",
-            "Printer": "Jacob Samuel",
-            "Edition": "10",
-            "Credit": "Gift of Jacob and Yael Samuel",
-            "Object number": "1723.2015.1",
-            "Portfolio": "Painting Lesson",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5839"
-    },
-    {
-        "Artist": "Nahum Tevet",
-        "Title": "Untitled from Painting Lesson",
-        "Year": "1992",
-        "ObjectID": "200198",
-        "Work": "https://www.moma.org/collection/works/200198",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0MzUwMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=64d96552c7b67253",
-        "Details": {
-            "Medium": "One from a portfolio of eight photogravures",
-            "Dimensions": "plate: 3 7/8 \u00d7 3 7/8\" (9.9 \u00d7 9.9 cm); sheet: 10 15/16 \u00d7 9 13/16\" (27.8 \u00d7 24.9 cm)",
-            "Publisher": "Jacob Samuel",
-            "Printer": "Jacob Samuel",
-            "Edition": "10",
-            "Credit": "Gift of Jacob and Yael Samuel",
-            "Object number": "1723.2015.2",
-            "Portfolio": "Painting Lesson",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5839"
-    },
-    {
-        "Artist": "Nahum Tevet",
-        "Title": "Untitled from Painting Lesson",
-        "Year": "1992",
-        "ObjectID": "200199",
-        "Work": "https://www.moma.org/collection/works/200199",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0MzUwNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3541e28c74b10604",
-        "Details": {
-            "Medium": "One from a portfolio of eight photogravures",
-            "Dimensions": "plate: 3 7/8 \u00d7 3 7/8\" (9.8 \u00d7 9.9 cm); sheet: 10 15/16 \u00d7 9 13/16\" (27.8 \u00d7 24.9 cm)",
-            "Publisher": "Jacob Samuel",
-            "Printer": "Jacob Samuel",
-            "Edition": "10",
-            "Credit": "Gift of Jacob and Yael Samuel",
-            "Object number": "1723.2015.3",
-            "Portfolio": "Painting Lesson",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5839"
-    },
-    {
-        "Artist": "Nahum Tevet",
-        "Title": "Untitled from Painting Lesson",
-        "Year": "1992",
-        "ObjectID": "200200",
-        "Work": "https://www.moma.org/collection/works/200200",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0MzUwNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e229ad3693d34d2a",
-        "Details": {
-            "Medium": "One from a portfolio of eight photogravures",
-            "Dimensions": "plate: 3 7/8 \u00d7 3 7/8\" (9.9 \u00d7 9.9 cm); sheet: 10 15/16 \u00d7 9 13/16\" (27.8 \u00d7 24.9 cm)",
-            "Publisher": "Jacob Samuel",
-            "Printer": "Jacob Samuel",
-            "Edition": "10",
-            "Credit": "Gift of Jacob and Yael Samuel",
-            "Object number": "1723.2015.4",
-            "Portfolio": "Painting Lesson",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5839"
-    },
-    {
-        "Artist": "Nahum Tevet",
-        "Title": "Untitled from Painting Lesson",
-        "Year": "1992",
-        "ObjectID": "200201",
-        "Work": "https://www.moma.org/collection/works/200201",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0MzUwNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9d89d2a1cf5071c9",
-        "Details": {
-            "Medium": "One from a portfolio of eight photogravures",
-            "Dimensions": "plate: 3 7/8 \u00d7 3 7/8\" (9.9 \u00d7 9.9 cm); sheet: 10 15/16 \u00d7 9 13/16\" (27.8 \u00d7 24.9 cm)",
-            "Publisher": "Jacob Samuel",
-            "Printer": "Jacob Samuel",
-            "Edition": "10",
-            "Credit": "Gift of Jacob and Yael Samuel",
-            "Object number": "1723.2015.5",
-            "Portfolio": "Painting Lesson",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5839"
-    },
-    {
-        "Artist": "Nahum Tevet",
-        "Title": "Untitled from Painting Lesson",
-        "Year": "1992",
-        "ObjectID": "200202",
-        "Work": "https://www.moma.org/collection/works/200202",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0MzUwNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3c3a4e3b0a3ccaef",
-        "Details": {
-            "Medium": "One from a portfolio of eight photogravures",
-            "Dimensions": "plate: 3 7/8 \u00d7 5 13/16\" (9.8 \u00d7 14.8 cm); sheet: 10 15/16 \u00d7 9 13/16\" (27.8 \u00d7 24.9 cm)",
-            "Publisher": "Jacob Samuel",
-            "Printer": "Jacob Samuel",
-            "Edition": "10",
-            "Credit": "Gift of Jacob and Yael Samuel",
-            "Object number": "1723.2015.6",
-            "Portfolio": "Painting Lesson",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5839"
-    },
-    {
-        "Artist": "Nahum Tevet",
-        "Title": "Untitled from Painting Lesson",
-        "Year": "1992",
-        "ObjectID": "200203",
-        "Work": "https://www.moma.org/collection/works/200203",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0Mzc2NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2fa421f91a5a704a",
-        "Details": {
-            "Medium": "One from a portfolio of eight photogravures",
-            "Dimensions": "plate: 4 7/8 \u00d7 6 1/8\" (12.4 \u00d7 15.6 cm); sheet: 10 15/16 \u00d7 9 13/16\" (27.8 \u00d7 24.9 cm)",
-            "Publisher": "Jacob Samuel",
-            "Printer": "Jacob Samuel",
-            "Edition": "10",
-            "Credit": "Gift of Jacob and Yael Samuel",
-            "Object number": "1723.2015.7",
-            "Portfolio": "Painting Lesson",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5839"
-    },
-    {
-        "Artist": "Nahum Tevet",
-        "Title": "Untitled from Painting Lesson",
-        "Year": "1992",
-        "ObjectID": "200204",
-        "Work": "https://www.moma.org/collection/works/200204",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0MzUwOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4a4e113928dc4333",
-        "Details": {
-            "Medium": "One from a portfolio of eight photogravures",
-            "Dimensions": "plate: 3 7/8 \u00d7 3 11/16\" (9.9 \u00d7 9.3 cm); sheet: 10 15/16 \u00d7 9 13/16\" (27.8 \u00d7 24.9 cm)",
-            "Publisher": "Jacob Samuel",
-            "Printer": "Jacob Samuel",
-            "Edition": "10",
-            "Credit": "Gift of Jacob and Yael Samuel",
-            "Object number": "1723.2015.8",
-            "Portfolio": "Painting Lesson",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5839"
-    },
-    {
-        "Artist": "Robert Therrien",
-        "Title": "Mesa Verde",
-        "Year": "1992",
-        "ObjectID": "21973",
-        "Work": "https://www.moma.org/collection/works/21973",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM4Nzk2MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4e0196d2aacf8b8b",
-        "Details": {
-            "Medium": "Illustrated Book with 1 etching and 1 watercolor",
-            "Publisher": "Library Fellows of the Whitney Museum of American Art, New York",
-            "Credit": "Gift of Linda Barth Goldstein",
-            "Object number": "706.1993.1-2",
-            "Copyright": "\u00a9 2023 Robert Therrien / Artists Rights Society (ARS), New York",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/7080"
-    },
-    {
-        "Artist": "Wolfgang Tillmans",
-        "Title": "Bono",
-        "Year": "1992",
-        "ObjectID": "164446",
-        "Work": "https://www.moma.org/collection/works/164446",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1ODY2OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f60c9e7220a7ce41",
-        "Details": {
-            "Medium": "Chromogenic print, printed 2012",
-            "Dimensions": "11 15/16 \u00d7 8 1/16\" (30.4 \u00d7 20.5 cm)",
-            "Credit": "The Family of Man Fund, Carol and David Appel Family Fund, and Committee on Photography Fund",
-            "Object number": "1254.2012.6.x1-x2",
-            "Copyright": "\u00a9 2023 Wolfgang Tillmans",
-            "Series": "MoMA installation (1986-1998)",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/8044"
-    },
-    {
-        "Artist": "Wolfgang Tillmans",
-        "Title": "armpit",
-        "Year": "1992",
-        "ObjectID": "164447",
-        "Work": "https://www.moma.org/collection/works/164447",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1ODY3MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=57bc3b66749f1d60",
-        "Details": {
-            "Medium": "Chromogenic print, printed 2012",
-            "Dimensions": "5 9/16 \u00d7 5 9/16\" (14.2 \u00d7 14.2 cm)",
-            "Credit": "The Family of Man Fund, Carol and David Appel Family Fund, and Committee on Photography Fund",
-            "Object number": "1254.2012.7.x1-x2",
-            "Copyright": "\u00a9 2023 Wolfgang Tillmans",
-            "Series": "MoMA installation (1986-1998)",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/8044"
-    },
-    {
-        "Artist": "Wolfgang Tillmans",
-        "Title": "Chemistry square, back of head",
-        "Year": "1992",
-        "ObjectID": "164448",
-        "Work": "https://www.moma.org/collection/works/164448",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1ODY3MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=48b68ac368bc8d50",
-        "Details": {
-            "Medium": "Chromogenic print, printed 2012",
-            "Dimensions": "5 9/16 \u00d7 5 9/16\" (14.2 \u00d7 14.2 cm)",
-            "Credit": "The Family of Man Fund, Carol and David Appel Family Fund, and Committee on Photography Fund",
-            "Object number": "1254.2012.8.x1-x2",
-            "Copyright": "\u00a9 2023 Wolfgang Tillmans",
-            "Series": "MoMA installation (1986-1998)",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/8044"
-    },
-    {
-        "Artist": "Wolfgang Tillmans",
-        "Title": "Chemistry square, ear",
-        "Year": "1992",
-        "ObjectID": "164449",
-        "Work": "https://www.moma.org/collection/works/164449",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1ODY3MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=98aaf6f252374e76",
-        "Details": {
-            "Medium": "Chromogenic print, printed 2012",
-            "Dimensions": "5 9/16 \u00d7 5 9/16\" (14.2 \u00d7 14.2 cm)",
-            "Credit": "The Family of Man Fund, Carol and David Appel Family Fund, and Committee on Photography Fund",
-            "Object number": "1254.2012.9.x1-x2",
-            "Copyright": "\u00a9 2023 Wolfgang Tillmans",
-            "Series": "MoMA installation (1986-1998)",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/8044"
-    },
-    {
-        "Artist": "Wolfgang Tillmans",
-        "Title": "Chemistry square, smoker",
-        "Year": "1992",
-        "ObjectID": "164450",
-        "Work": "https://www.moma.org/collection/works/164450",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1ODY1MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6ef9275cc758ab00",
-        "Details": {
-            "Medium": "Chromogenic print, printed 2012",
-            "Dimensions": "5 9/16 \u00d7 5 9/16\" (14.2 \u00d7 14.2 cm)",
-            "Credit": "The Family of Man Fund, Carol and David Appel Family Fund, and Committee on Photography Fund",
-            "Object number": "1254.2012.10.x1-x2",
-            "Copyright": "\u00a9 2023 Wolfgang Tillmans",
-            "Series": "MoMA installation (1986-1998)",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/8044"
-    },
-    {
-        "Artist": "Wolfgang Tillmans",
-        "Title": "Lutz & Alex sitting in the trees",
-        "Year": "1992",
-        "ObjectID": "164451",
-        "Work": "https://www.moma.org/collection/works/164451",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NzE3NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ff681f88aa87728c",
-        "Details": {
-            "Medium": "Chromogenic print, printed 2012",
-            "Dimensions": "24 \u00d7 20\" (61 \u00d7 50.8 cm)",
-            "Credit": "The Family of Man Fund, Carol and David Appel Family Fund, and Committee on Photography Fund",
-            "Object number": "1254.2012.11.x1-x2",
-            "Copyright": "\u00a9 2023 Wolfgang Tillmans",
-            "Series": "MoMA installation (1986-1998)",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/8044"
-    },
-    {
-        "Artist": "Wolfgang Tillmans",
-        "Title": "outside Planet, view",
-        "Year": "1992",
-        "ObjectID": "164452",
-        "Work": "https://www.moma.org/collection/works/164452",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1ODY1MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c334988bc0649465",
-        "Details": {
-            "Medium": "Chromogenic print, printed 2012",
-            "Dimensions": "12 \u00d7 16\" (30.5 \u00d7 40.6 cm)",
-            "Credit": "The Family of Man Fund, Carol and David Appel Family Fund, and Committee on Photography Fund",
-            "Object number": "1254.2012.12.x1-x2",
-            "Copyright": "\u00a9 2023 Wolfgang Tillmans",
-            "Series": "MoMA installation (1986-1998)",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/8044"
-    },
-    {
-        "Artist": "Wolfgang Tillmans",
-        "Title": "four boots",
-        "Year": "1992",
-        "ObjectID": "164453",
-        "Work": "https://www.moma.org/collection/works/164453",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1ODY1MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=05482049958a8c13",
-        "Details": {
-            "Medium": "Chromogenic print, printed 2012",
-            "Dimensions": "16 \u00d7 12\" (40.6 \u00d7 30.5 cm)",
-            "Credit": "The Family of Man Fund, Carol and David Appel Family Fund, and Committee on Photography Fund",
-            "Object number": "1254.2012.13.x1-x2",
-            "Copyright": "\u00a9 2023 Wolfgang Tillmans",
-            "Series": "MoMA installation (1986-1998)",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/8044"
-    },
-    {
-        "Artist": "Wolfgang Tillmans",
-        "Title": "Lutz & Alex, back",
-        "Year": "1992",
-        "ObjectID": "164454",
-        "Work": "https://www.moma.org/collection/works/164454",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1ODY1NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=50b620c6bd819683",
-        "Details": {
-            "Medium": "Chromogenic print, printed 2012",
-            "Dimensions": "16 \u00d7 12\" (40.6 \u00d7 30.5 cm)",
-            "Credit": "The Family of Man Fund, Carol and David Appel Family Fund, and Committee on Photography Fund",
-            "Object number": "1254.2012.14.x1-x2",
-            "Copyright": "\u00a9 2023 Wolfgang Tillmans",
-            "Series": "MoMA installation (1986-1998)",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/8044"
-    },
-    {
-        "Artist": "Wolfgang Tillmans",
-        "Title": "Milkspritz",
-        "Year": "1992",
-        "ObjectID": "164455",
-        "Work": "https://www.moma.org/collection/works/164455",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1ODY1NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=40ffba17df85afea",
-        "Details": {
-            "Medium": "Chromogenic print, printed 2012",
-            "Dimensions": "4 1/4 \u00d7 6 1/4\" (10.8 \u00d7 15.8 cm)",
-            "Credit": "The Family of Man Fund, Carol and David Appel Family Fund, and Committee on Photography Fund",
-            "Object number": "1254.2012.15.x1-x2",
-            "Copyright": "\u00a9 2023 Wolfgang Tillmans",
-            "Series": "MoMA installation (1986-1998)",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/8044"
-    },
-    {
-        "Artist": "Wolfgang Tillmans",
-        "Title": "Chemistry square, armpit",
-        "Year": "1992",
-        "ObjectID": "216979",
-        "Work": "https://www.moma.org/collection/works/216979",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5MjI0NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b6ce22737d0dc64d",
-        "Details": {
-            "Medium": "Chromogenic print",
-            "Dimensions": "5 1/8 \u00d7 5 1/8\" (13 \u00d7 13 cm)",
-            "Credit": "Gift of Andrea Rosen",
-            "Object number": "1397.2016",
-            "Copyright": "\u00a9 2023 Wolfgang Tillmans",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/8044"
-    },
-    {
-        "Artist": "Wolfgang Tillmans",
-        "Title": "ragga dancer, Kingston",
-        "Year": "1992",
-        "ObjectID": "216980",
-        "Work": "https://www.moma.org/collection/works/216980",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5MjI0NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e9f1e072fe908fa1",
-        "Details": {
-            "Medium": "Chromogenic print",
-            "Dimensions": "15 7/8 \u00d7 10 7/8\" (40.3 \u00d7 27.6 cm)",
-            "Credit": "Gift of Andrea Rosen",
-            "Object number": "1398.2016",
-            "Copyright": "\u00a9 2023 Wolfgang Tillmans",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/8044"
-    },
-    {
-        "Artist": "Rirkrit Tiravanija",
-        "Title": "untitled (free/still)",
-        "Year": "1992/1995/2007/2011-",
-        "ObjectID": "147206",
-        "Work": "https://www.moma.org/collection/works/147206",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNDk1MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d3e69faab50b46d2",
-        "Details": {
-            "Medium": "Refrigerator, table, chairs, wood, drywall, food and other materials",
-            "Dimensions": "Dimensions variable",
-            "Credit": "Gift of Mr. and Mrs. Eli Wallach (by exchange)",
-            "Object number": "225.2011",
-            "Copyright": "\u00a9 2023 Rirkrit Tiravanija",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/7479"
-    },
-    {
-        "Artist": "Leonid Tishkov",
-        "Title": "Natiur Morty (Still Lifes)",
-        "Year": "1992",
-        "ObjectID": "101861",
-        "Work": "https://www.moma.org/collection/works/101861",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwNjMwMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f1a6ad4d2e73bd3b",
-        "Details": {
-            "Medium": "A portfolio of sixteen lithographs with lithograph cover",
-            "Dimensions": "overall: 24 1/2 x 17 1/2\" (62.2 x 44.5 cm)",
-            "Publisher": "Dablus Press, Moscow, Moscow Palette Gallery, Moscow",
-            "Printer": "Valery Bezkrovny, Moscow",
-            "Edition": "10",
-            "Credit": "The Associates Fund",
-            "Object number": "299.2006.1-17",
-            "Copyright": "\u00a9 2023 Leonid Tishkov",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/29431"
-    },
-    {
-        "Artist": "Niele Toroni",
-        "Title": "Carta giapponese con giallo",
-        "Year": "1992",
-        "ObjectID": "97582",
-        "Work": "https://www.moma.org/collection/works/97582",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyNDA3NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2d087809f47e9e3a",
-        "Details": {
-            "Medium": "Imprints of No. 50 brush, repeated at regular intervals of 30 cm, and synthetic polymer paint and pencil on Japanese paper",
-            "Dimensions": "78 5/8 x 31 1/2\" (199.7 x 80 cm)",
-            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
-            "Object number": "3271.2005",
-            "Copyright": "\u00a9 2023 Niele Toroni",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/12101"
-    },
-    {
-        "Artist": "Rosemarie Trockel",
-        "Title": "Untitled",
-        "Year": "1992",
-        "ObjectID": "38124",
-        "Work": "https://www.moma.org/collection/works/38124",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNjYzNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1f2dc9e2dbef3ba8",
-        "Details": {
-            "Medium": "Ink on paper",
-            "Dimensions": "13 3/4 x 13 3/4\" (35 x 35 cm)",
-            "Credit": "Purchased with funds given by Agnes Gund",
-            "Object number": "814.1996",
-            "Copyright": "\u00a9 2023 Rosemarie Trockel",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5933"
-    },
-    {
-        "Artist": "Rosemarie Trockel",
-        "Title": "Ich bin Dan Graham (I am Dan Graham) from Book Drafts",
-        "Year": "1992",
-        "ObjectID": "196349",
-        "Work": "https://www.moma.org/collection/works/196349",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzNjI1NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=efca0473f6589d62",
-        "Details": {
-            "Medium": "Book with printed cover and tape binding, with photograph and mylar inserted",
-            "Dimensions": "5 3/4 \u00d7 4 1/8 \u00d7 1/2\" (14.6 \u00d7 10.5 \u00d7 1.3 cm)",
-            "Credit": "Anonymous gift",
-            "Object number": "699.2015.32",
-            "Copyright": "\u00a9 2023 Rosemarie Trockel / Artists Rights Society (ARS), New York / VG Bild-Kunst, Germany",
-            "Series": "Book Drafts",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5933"
-    },
-    {
-        "Artist": "Rosemarie Trockel, Christopher Wool, Adrian Schiess, Sam Samore, Various Artists",
-        "Title": "Parkett no. 33",
-        "Year": "1992",
-        "ObjectID": "196436",
-        "Work": "https://www.moma.org/collection/works/196436",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQyOTMwMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b7377b4613abf800",
-        "Details": {
-            "Collaborating artist": "Rosemarie Trockel, Christopher Wool, Adrian Schiess, Sam Samore",
-            "Medium": "Journal",
-            "Publisher": "Parkett Publishers, Z\u00fcrich and New York",
-            "Credit": "Riva Castleman Endowment Fund, Lily Auchincloss Fund, and Gift of Parkett",
-            "Object number": "146.1998.2x1-x2",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/24409"
-    },
-    {
-        "Artist": "Niklaus Troxler",
-        "Title": "Dead Trees",
-        "Year": "1992",
-        "ObjectID": "5546",
-        "Work": "https://www.moma.org/collection/works/5546",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMDU3OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9584598b87d5d564",
-        "Details": {
-            "Medium": "Offset lithograph",
-            "Dimensions": "50 3/8 x 35 5/8\" (128 x 90.5 cm)",
-            "Printer": "B\u00f6sch AG Lucerne, Switzerland",
-            "Credit": "Gift of the designer",
-            "Object number": "179.1993",
-            "Copyright": "\u00a9 2023 Niklaus Troxler",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/5940"
-    },
-    {
-        "Artist": "Niklaus Troxler",
-        "Title": "The Modern Jazz Quartet",
-        "Year": "1992",
-        "ObjectID": "116803",
-        "Work": "https://www.moma.org/collection/works/116803",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1OTAzOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=159aef0afec1930b",
-        "Details": {
-            "Medium": "Silkscreen",
-            "Dimensions": "50 3/8 \u00d7 35 5/8\" (128 \u00d7 90.5 cm)",
-            "Credit": "Gift of the designer",
-            "Object number": "479.2008",
-            "Copyright": "\u00a9 2023 Niklaus Troxler",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/5940"
-    },
-    {
-        "Artist": "Niklaus Troxler",
-        "Title": "Jazz in Willisau:, The Melody Four",
-        "Year": "1992",
-        "ObjectID": "116809",
-        "Work": "https://www.moma.org/collection/works/116809",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1OTA0MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c7eb1486b04ea7c3",
-        "Details": {
-            "Medium": "Silkscreen",
-            "Dimensions": "50 3/8 \u00d7 35 3/8\" (128 \u00d7 89.9 cm)",
-            "Printer": "Siebdruck B\u00f6sch AG, Luzern",
-            "Credit": "Gift of the designer",
-            "Object number": "478.2008",
-            "Copyright": "\u00a9 2023 Niklaus Troxler",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/5940"
-    },
-    {
-        "Artist": "James Turrell",
-        "Title": "Pale Reshaped Bowl",
-        "Year": "1992",
-        "ObjectID": "105065",
-        "Work": "https://www.moma.org/collection/works/105065",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NDkwMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2bb635d25288b6d6",
-        "Details": {
-            "Medium": "Synthetic polymer paint on photographic emulsion with beeswax on synthetic polymer sheet",
-            "Dimensions": "39 5/8 x 39\" (100.6 x 99.1 cm)",
-            "Credit": "Gift of Sarah-Ann and Werner H. Kramarsky",
-            "Object number": "599.2006",
-            "Copyright": "\u00a9 2023 James Turrell",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5981"
-    },
-    {
-        "Artist": "Cy Twombly",
-        "Title": "Untitled",
-        "Year": "Jupiter Island 1992",
-        "ObjectID": "143332",
-        "Work": "https://www.moma.org/collection/works/143332",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwNDk0MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=27104c6923d4c047",
-        "Details": {
-            "Medium": "Wood, plaster, plastic leaves, wire, cloth, sand, and paint",
-            "Dimensions": "57 1/8 x 7 1/8 x 8\" (145 x 18 x 20.3 cm)",
-            "Credit": "Purchase, with major support for this acquisition provided by The Mimi and Peter Haas Fund, Marlene Hess and James D. Zirin, Glenstone, Joan Tisch, Richard S. Zeisler bequest (by exchange), gift of Philip Johnson (by exchange), and gift of James Thrall Soby (by exchange)",
-            "Object number": "1058.2010",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/5988"
-    },
-    {
-        "Artist": "Micha Ullman",
-        "Title": "Letters",
-        "Year": "1992",
-        "ObjectID": "199386",
-        "Work": "https://www.moma.org/collection/works/199386",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0MzUzMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9ba3bf5f7739ceb0",
-        "Details": {
-            "Medium": "Bound album of ten etchings",
-            "Dimensions": "plate (each): 6 1/8 \u00d7 7 11/16\" (15.6 \u00d7 19.6 cm); page (each): 10 13/16 \u00d7 10 5/8\" (27.4 \u00d7 27 cm)",
-            "Publisher": "Jacob Samuel",
-            "Printer": "Jacob Samuel",
-            "Edition": "18",
-            "Credit": "Gift of Jacob and Yael Samuel",
-            "Object number": "1735.2015.1-10",
-            "Copyright": "\u00a9  2017 Robert Therrien / Artists Rights Society (ARS), New York",
-            "Type": "Portfolio",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/49125"
-    },
-    {
-        "Artist": "Micha Ullman",
-        "Title": "Untitled from Letters",
-        "Year": "1992",
-        "ObjectID": "200205",
-        "Work": "https://www.moma.org/collection/works/200205",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0MzUzMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=706bf7c55e3469e7",
-        "Details": {
-            "Medium": "One from a bound album of ten etchings",
-            "Dimensions": "plate: 6 1/8 \u00d7 7 11/16\" (15.6 \u00d7 19.6 cm); page: 10 13/16 \u00d7 10 5/8\" (27.4 \u00d7 27 cm)",
-            "Publisher": "Jacob Samuel",
-            "Printer": "Jacob Samuel",
-            "Edition": "18",
-            "Credit": "Gift of Jacob and Yael Samuel",
-            "Object number": "1735.2015.1",
-            "Copyright": "\u00a9  2017 Robert Therrien / Artists Rights Society (ARS), New York",
-            "Portfolio": "Letters",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/49125"
-    },
-    {
-        "Artist": "Micha Ullman",
-        "Title": "Untitled from Letters",
-        "Year": "1992",
-        "ObjectID": "200206",
-        "Work": "https://www.moma.org/collection/works/200206",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0MzUzNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d9e93a07cac20449",
-        "Details": {
-            "Medium": "One from a bound album of ten etchings",
-            "Dimensions": "plate: 6 1/8 \u00d7 7 11/16\" (15.6 \u00d7 19.6 cm); page: 10 13/16 \u00d7 10 5/8\" (27.4 \u00d7 27 cm)",
-            "Publisher": "Jacob Samuel",
-            "Printer": "Jacob Samuel",
-            "Edition": "18",
-            "Credit": "Gift of Jacob and Yael Samuel",
-            "Object number": "1735.2015.2",
-            "Copyright": "\u00a9  2017 Robert Therrien / Artists Rights Society (ARS), New York",
-            "Portfolio": "Letters",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/49125"
-    },
-    {
-        "Artist": "Micha Ullman",
-        "Title": "Untitled from Letters",
-        "Year": "1992",
-        "ObjectID": "200207",
-        "Work": "https://www.moma.org/collection/works/200207",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0MzUzNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=53996558cdd044ac",
-        "Details": {
-            "Medium": "One from a bound album of ten etchings",
-            "Dimensions": "plate: 6 1/8 \u00d7 7 11/16\" (15.6 \u00d7 19.6 cm); page: 10 13/16 \u00d7 10 5/8\" (27.4 \u00d7 27 cm)",
-            "Publisher": "Jacob Samuel",
-            "Printer": "Jacob Samuel",
-            "Edition": "18",
-            "Credit": "Gift of Jacob and Yael Samuel",
-            "Object number": "1735.2015.3",
-            "Copyright": "\u00a9  2017 Robert Therrien / Artists Rights Society (ARS), New York",
-            "Portfolio": "Letters",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/49125"
-    },
-    {
-        "Artist": "Micha Ullman",
-        "Title": "Untitled from Letters",
-        "Year": "1992",
-        "ObjectID": "200208",
-        "Work": "https://www.moma.org/collection/works/200208",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0MzUzNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a0fbe874f35c68e9",
-        "Details": {
-            "Medium": "One from a bound album of ten etchings",
-            "Dimensions": "plate: 6 1/8 \u00d7 7 11/16\" (15.6 \u00d7 19.6 cm); page: 10 13/16 \u00d7 10 5/8\" (27.4 \u00d7 27 cm)",
-            "Publisher": "Jacob Samuel",
-            "Printer": "Jacob Samuel",
-            "Edition": "18",
-            "Credit": "Gift of Jacob and Yael Samuel",
-            "Object number": "1735.2015.4",
-            "Copyright": "\u00a9  2017 Robert Therrien / Artists Rights Society (ARS), New York",
-            "Portfolio": "Letters",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/49125"
-    },
-    {
-        "Artist": "Micha Ullman",
-        "Title": "Untitled from Letters",
-        "Year": "1992",
-        "ObjectID": "200209",
-        "Work": "https://www.moma.org/collection/works/200209",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0MzUzNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b5cab5b6e4d36df2",
-        "Details": {
-            "Medium": "One from a bound album of ten etchings",
-            "Dimensions": "plate: 6 1/8 \u00d7 7 11/16\" (15.6 \u00d7 19.6 cm); page: 10 13/16 \u00d7 10 5/8\" (27.4 \u00d7 27 cm)",
-            "Publisher": "Jacob Samuel",
-            "Printer": "Jacob Samuel",
-            "Edition": "18",
-            "Credit": "Gift of Jacob and Yael Samuel",
-            "Object number": "1735.2015.5",
-            "Copyright": "\u00a9  2017 Robert Therrien / Artists Rights Society (ARS), New York",
-            "Portfolio": "Letters",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/49125"
-    },
-    {
-        "Artist": "Micha Ullman",
-        "Title": "Untitled from Letters",
-        "Year": "1992",
-        "ObjectID": "200210",
-        "Work": "https://www.moma.org/collection/works/200210",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0MzUzOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9eb95ab74e1d901c",
-        "Details": {
-            "Medium": "One from a bound album of ten etchings",
-            "Dimensions": "plate: 6 1/8 \u00d7 7 11/16\" (15.6 \u00d7 19.6 cm); page: 10 13/16 \u00d7 10 5/8\" (27.4 \u00d7 27 cm)",
-            "Publisher": "Jacob Samuel",
-            "Printer": "Jacob Samuel",
-            "Edition": "18",
-            "Credit": "Gift of Jacob and Yael Samuel",
-            "Object number": "1735.2015.6",
-            "Copyright": "\u00a9  2017 Robert Therrien / Artists Rights Society (ARS), New York",
-            "Portfolio": "Letters",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/49125"
-    },
-    {
-        "Artist": "Micha Ullman",
-        "Title": "Untitled from Letters",
-        "Year": "1992",
-        "ObjectID": "200211",
-        "Work": "https://www.moma.org/collection/works/200211",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0MzUzOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e6b532b9ad3e5122",
-        "Details": {
-            "Medium": "One from a bound album of ten etchings",
-            "Dimensions": "plate: 6 1/8 \u00d7 7 11/16\" (15.6 \u00d7 19.6 cm); page: 10 13/16 \u00d7 10 5/8\" (27.4 \u00d7 27 cm)",
-            "Publisher": "Jacob Samuel",
-            "Printer": "Jacob Samuel",
-            "Edition": "18",
-            "Credit": "Gift of Jacob and Yael Samuel",
-            "Object number": "1735.2015.7",
-            "Copyright": "\u00a9  2017 Robert Therrien / Artists Rights Society (ARS), New York",
-            "Portfolio": "Letters",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/49125"
-    },
-    {
-        "Artist": "Micha Ullman",
-        "Title": "Untitled from Letters",
-        "Year": "1992",
-        "ObjectID": "200212",
-        "Work": "https://www.moma.org/collection/works/200212",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0MzU0MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b1b6ace88b5e56b2",
-        "Details": {
-            "Medium": "One from a bound album of ten etchings",
-            "Dimensions": "plate: 6 1/8 \u00d7 7 11/16\" (15.6 \u00d7 19.6 cm); page: 10 13/16 \u00d7 10 5/8\" (27.4 \u00d7 27 cm)",
-            "Publisher": "Jacob Samuel",
-            "Printer": "Jacob Samuel",
-            "Edition": "18",
-            "Credit": "Gift of Jacob and Yael Samuel",
-            "Object number": "1735.2015.8",
-            "Copyright": "\u00a9  2017 Robert Therrien / Artists Rights Society (ARS), New York",
-            "Portfolio": "Letters",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/49125"
-    },
-    {
-        "Artist": "Micha Ullman",
-        "Title": "Untitled from Letters",
-        "Year": "1992",
-        "ObjectID": "200213",
-        "Work": "https://www.moma.org/collection/works/200213",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0MzU0MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c78ff94e4c27292a",
-        "Details": {
-            "Medium": "One from a bound album of ten etchings",
-            "Dimensions": "plate: 6 1/8 \u00d7 7 11/16\" (15.6 \u00d7 19.6 cm); page: 10 13/16 \u00d7 10 5/8\" (27.4 \u00d7 27 cm)",
-            "Publisher": "Jacob Samuel",
-            "Printer": "Jacob Samuel",
-            "Edition": "18",
-            "Credit": "Gift of Jacob and Yael Samuel",
-            "Object number": "1735.2015.9",
-            "Copyright": "\u00a9  2017 Robert Therrien / Artists Rights Society (ARS), New York",
-            "Portfolio": "Letters",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/49125"
-    },
-    {
-        "Artist": "Micha Ullman",
-        "Title": "Untitled from Letters",
-        "Year": "1992",
-        "ObjectID": "200214",
-        "Work": "https://www.moma.org/collection/works/200214",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0MzUzMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3f2e4ea7379b5ed9",
-        "Details": {
-            "Medium": "One from a bound album of ten etchings",
-            "Dimensions": "plate: 6 1/8 \u00d7 7 11/16\" (15.6 \u00d7 19.6 cm); page: 10 13/16 \u00d7 10 5/8\" (27.4 \u00d7 27 cm)",
-            "Publisher": "Jacob Samuel",
-            "Printer": "Jacob Samuel",
-            "Edition": "18",
-            "Credit": "Gift of Jacob and Yael Samuel",
-            "Object number": "1735.2015.10",
-            "Copyright": "\u00a9  2017 Robert Therrien / Artists Rights Society (ARS), New York",
-            "Portfolio": "Letters",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/49125"
-    },
-    {
-        "Artist": "Penelope Umbrico",
-        "Title": "Variants",
-        "Year": "1989",
-        "ObjectID": "48294",
-        "Work": "https://www.moma.org/collection/works/48294",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NjMwNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ad78a26281da8ce2",
-        "Details": {
-            "Medium": "Sixteen chromogenic color prints",
-            "Dimensions": "each pair 12 \u00d7 4 1/8\" (30.5 \u00d7 10.5 cm)",
+            "Medium": "Artist's book",
+            "Publisher": "Editions Jannink, Paris, Studio Guenzani, Milan",
             "Credit": "Purchase",
-            "Object number": "198.1992.1-8.x1-x2",
-            "Copyright": "\u00a9 2023 Penelope Umbrico",
+            "Object number": "226.1997",
+            "Copyright": "\u00a9 2023 Paul McCarthy",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/7637"
+    },
+    {
+        "Artist": "Aleksandra Mir",
+        "Title": "Announcement card for Anthropology of a Self; Aleksandra Mir, The New School for Social Research, New York, April 28\u2013May 29, 1994",
+        "Year": "1994",
+        "ObjectID": "156691",
+        "Work": "https://www.moma.org/collection/works/156691",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ1NTkzMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c19173e77aba6732",
+        "Details": {
+            "Medium": "Invitation card",
+            "Dimensions": "sheet: 6 9/16 x 4 5/8\" (16.6 x 11.7 cm)",
+            "Edition": "1000",
+            "Credit": "Acquired through the generosity of Richard Gerrig and Timothy Peterson",
+            "Object number": "125.2012.2",
+            "Copyright": "\u00a9 2023 Aleksandra Mir",
+            "Associated work": "Untitled (complete ephemera)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/33825"
+    },
+    {
+        "Artist": "Meredith Monk",
+        "Title": "Faces from Volcano Songs",
+        "Year": "1994",
+        "ObjectID": "118576",
+        "Work": "https://www.moma.org/collection/works/118576",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1MDczOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e175da677416e1c5",
+        "Details": {
+            "Medium": "Video (color, silent)",
+            "Dimensions": "Continuous loop",
+            "Credit": "Acquired through the generosity of Frederieke Taylor",
+            "Object number": "1685.2000",
+            "Copyright": "\u00a9 2023 Meredith Monk",
+            "Department": "Media and Performance"
+        },
+        "Profile": "https://www.moma.org/artists/28725"
+    },
+    {
+        "Artist": "Abelardo Morell",
+        "Title": "Camera Obscura Image of the Empire State Building in Bedroom",
+        "Year": "1994",
+        "ObjectID": "51598",
+        "Work": "https://www.moma.org/collection/works/51598",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzMDA4MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b6765818bcb1c7d4",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "17 15/16 \u00d7 22 1/2\" (45.6 \u00d7 57.2 cm)",
+            "Credit": "Gift of the artist in memory of Bill Beckler",
+            "Object number": "354.1994",
+            "Copyright": "\u00a9 2023 Abelardo Morell",
             "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/7016"
+        "Profile": "https://www.moma.org/artists/6917"
+    },
+    {
+        "Artist": "David Moreno",
+        "Title": "Untitled",
+        "Year": "1994",
+        "ObjectID": "35032",
+        "Work": "https://www.moma.org/collection/works/35032",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEwMjU2NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4ac5f929b2f1eb09",
+        "Details": {
+            "Medium": "Ballpoint pen, synthetic polymer glue, and pigment on paper",
+            "Dimensions": "10 1/2 x 7 1/2\" (26.7 x 19 cm)",
+            "Credit": "Purchased with funds given by Susan G. Jacoby in honor of her mother Marjorie L. Goldberger",
+            "Object number": "172.1997",
+            "Copyright": "\u00a9 2023 David Moreno",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/7595"
+    },
+    {
+        "Artist": "Oscar Munoz",
+        "Title": "Narcisos in Progress",
+        "Year": "1994-ongoing",
+        "ObjectID": "160258",
+        "Work": "https://www.moma.org/collection/works/160258",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Installation of paper, water, and charcoal dust in nine trays",
+            "Dimensions": "each: 19 11/16 x 19 11/16\" (50 x 50 cm)",
+            "Edition": "unique",
+            "Credit": "Latin American and Caribbean Fund through gift of Marie-Jos\u00e9e and Henry R. Kravis in honor of Patricia Phelps de Cisneros",
+            "Object number": "735.2012.a-p",
+            "Copyright": "\u00a9 2023 Oscar Mu\u00f1oz",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/41797"
+    },
+    {
+        "Artist": "Elizabeth Murray",
+        "Title": "Bed, Shoe and Cup",
+        "Year": "1994",
+        "ObjectID": "33770",
+        "Work": "https://www.moma.org/collection/works/33770",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0NzA4NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0a32ef4b53d2e901",
+        "Details": {
+            "Medium": "Collage on paper",
+            "Dimensions": "15 1/2 x 9 7/8\" (39.4 x 25.1 cm)",
+            "Credit": "Purchased with funds given by Richard E. Salomon",
+            "Object number": "86.1996",
+            "Copyright": "\u00a9 2023 Estate of Elizabeth Murray / Artists Rights Society (ARS), New York",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4185"
+    },
+    {
+        "Artist": "Elizabeth Murray",
+        "Title": "Shack",
+        "Year": "1994",
+        "ObjectID": "60914",
+        "Work": "https://www.moma.org/collection/works/60914",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjkzMTA1Il0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNTEyeDUxMlx1MDAzZSJdXQ.jpg?sha=63e9d1d6818ec786",
+        "Details": {
+            "Medium": "Lithograph on cut and raised paper",
+            "Dimensions": "composition (irreg) and sheet (irreg.): 62 1/16 x 50 3/8\" (157.6 x 127.9 x 4 cm)",
+            "Publisher": "Universal Limited Art Editions, West Islip, New York",
+            "Printer": "Universal Limited Art Editions, West Islip, New York",
+            "Edition": "60",
+            "Credit": "Gift of Emily Fisher Landau",
+            "Object number": "49.1995",
+            "Copyright": "\u00a9 2023 Estate of Elizabeth Murray / Artists Rights Society (ARS), New York",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4185"
+    },
+    {
+        "Artist": "Elizabeth Murray",
+        "Title": "Notebook I\u2013IV",
+        "Year": "1994",
+        "ObjectID": "66450",
+        "Work": "https://www.moma.org/collection/works/66450",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Series of four etchings with aquatint and roulette",
+            "Dimensions": "plate (each approx.): 7 7/16 \u00d7 4 11/16\" (18.9 \u00d7 11.9 cm); sheet (each approx.): 15 1/16 \u00d7 11 5/16\" (38.2 \u00d7 28.8 cm)",
+            "Publisher": "Universal Limited Art Editions, West Islip, New York",
+            "Printer": "Universal Limited Art Editions, West Islip, New York",
+            "Edition": "16",
+            "Credit": "Gift of Emily Fisher Landau",
+            "Object number": "301.1994.1-4",
+            "Copyright": "\u00a9 2023 Estate of Elizabeth Murray / Artists Rights Society (ARS), New York",
+            "Type": "Series",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4185"
+    },
+    {
+        "Artist": "Elizabeth Murray",
+        "Title": "In Wit",
+        "Year": "1994",
+        "ObjectID": "98713",
+        "Work": "https://www.moma.org/collection/works/98713",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMzU5MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e012841726e989fb",
+        "Details": {
+            "Medium": "Etching and screenprint with crayon and watercolor additions",
+            "Dimensions": "plate: 8 7/16 x 7 3/8\" (21.4 x 18.7 cm); sheet: 16 7/8 x 15 3/8\" (42.8 x 39 cm)",
+            "Publisher": "Gemini G.E.L., Los Angeles",
+            "Printer": "Gemini G.E.L., Los Angeles",
+            "Edition": "unique",
+            "Credit": "Acquired through the generosity of Susan Jacoby in honor of her mother, Marjorie L. Goldberger",
+            "Object number": "567.2005",
+            "Copyright": "\u00a9 2023 Estate of Elizabeth Murray / Artists Rights Society (ARS), New York",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4185"
+    },
+    {
+        "Artist": "Elizabeth Murray",
+        "Title": "Notebook I",
+        "Year": "1994",
+        "ObjectID": "149927",
+        "Work": "https://www.moma.org/collection/works/149927",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMzMxMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ee8e9244921fa73f",
+        "Details": {
+            "Medium": "One from a series of four etchings with aquatint and roulette",
+            "Dimensions": "plate: 7 7/16 \u00d7 4 5/8\" (18.9 \u00d7 11.8 cm); sheet: 15 1/16 \u00d7 11 5/16\" (38.2 \u00d7 28.8 cm)",
+            "Publisher": "Universal Limited Art Editions, West Islip, New York",
+            "Printer": "Universal Limited Art Editions, West Islip, New York",
+            "Edition": "16",
+            "Credit": "Gift of Emily Fisher Landau",
+            "Object number": "301.1994.1",
+            "Copyright": "\u00a9 2023 Estate of Elizabeth Murray / Artists Rights Society (ARS), New York",
+            "Series": "Notebook I\u2013IV",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4185"
+    },
+    {
+        "Artist": "Elizabeth Murray",
+        "Title": "Notebook II",
+        "Year": "1994",
+        "ObjectID": "149928",
+        "Work": "https://www.moma.org/collection/works/149928",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMzMxNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fe64f58e2259395c",
+        "Details": {
+            "Medium": "One from a series of four etchings with aquatint and roulette",
+            "Dimensions": "plate: 7 3/8 \u00d7 4 11/16\" (18.8 \u00d7 11.9 cm); sheet: 15 1/16 \u00d7 11 5/16\" (38.2 \u00d7 28.8 cm)",
+            "Publisher": "Universal Limited Art Editions, West Islip, New York",
+            "Printer": "Universal Limited Art Editions, West Islip, New York",
+            "Edition": "16",
+            "Credit": "Gift of Emily Fisher Landau",
+            "Object number": "301.1994.2",
+            "Copyright": "\u00a9 2023 Estate of Elizabeth Murray / Artists Rights Society (ARS), New York",
+            "Series": "Notebook I\u2013IV",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4185"
+    },
+    {
+        "Artist": "Elizabeth Murray",
+        "Title": "Notebook III",
+        "Year": "1994",
+        "ObjectID": "149929",
+        "Work": "https://www.moma.org/collection/works/149929",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMzMxNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4d4676a55a5a4be5",
+        "Details": {
+            "Medium": "One from a series of four etchings with aquatint and roulette",
+            "Dimensions": "plate: 7 7/16 \u00d7 4 5/8\" (18.9 \u00d7 11.8 cm); sheet: 15 1/16 \u00d7 11 5/16\" (38.2 \u00d7 28.8 cm)",
+            "Publisher": "Universal Limited Art Editions, West Islip, New York",
+            "Printer": "Universal Limited Art Editions, West Islip, New York",
+            "Edition": "16",
+            "Credit": "Gift of Emily Fisher Landau",
+            "Object number": "301.1994.3",
+            "Copyright": "\u00a9 2023 Estate of Elizabeth Murray / Artists Rights Society (ARS), New York",
+            "Series": "Notebook I\u2013IV",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4185"
+    },
+    {
+        "Artist": "Elizabeth Murray",
+        "Title": "Notebook IV",
+        "Year": "1994",
+        "ObjectID": "149930",
+        "Work": "https://www.moma.org/collection/works/149930",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMzMxNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8896d32879595a94",
+        "Details": {
+            "Medium": "One from a series of four etchings with aquatint and roulette",
+            "Dimensions": "plate: 7 7/16 \u00d7 4 11/16\" (18.9 \u00d7 11.9 cm); sheet: 15 1/16 \u00d7 11 5/16\" (38.3 \u00d7 28.8 cm)",
+            "Publisher": "Universal Limited Art Editions, West Islip, New York",
+            "Printer": "Universal Limited Art Editions, West Islip, New York",
+            "Edition": "16",
+            "Credit": "Gift of Emily Fisher Landau",
+            "Object number": "301.1994.4",
+            "Copyright": "\u00a9 2023 Estate of Elizabeth Murray / Artists Rights Society (ARS), New York",
+            "Series": "Notebook I\u2013IV",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4185"
+    },
+    {
+        "Artist": "Elizabeth Murray",
+        "Title": "Study for \"Dis Pair\"",
+        "Year": "c.1989",
+        "ObjectID": "282533",
+        "Work": "https://www.moma.org/collection/works/282533",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQyODc3OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=950da6bc4edd11d5",
+        "Details": {
+            "Medium": "Colored pencil on lined notebook paper",
+            "Dimensions": "8 1/4 \u00d7 5 7/8\" (21 \u00d7 14.9 cm)",
+            "Credit": "Gift of The Murray Holman Family Trust",
+            "Object number": "185.2018",
+            "Copyright": "\u00a9 2023 Estate of Elizabeth Murray / Artists Rights Society (ARS), New York",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4185"
+    },
+    {
+        "Artist": "Tadeusz Myslowski",
+        "Title": "Towards Organic Geometry: 163 Selected Photographic Images, 1972-1994",
+        "Year": "1994",
+        "ObjectID": "71415",
+        "Work": "https://www.moma.org/collection/works/71415",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNzM0NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4dd2f5b6205f806c",
+        "Details": {
+            "Medium": "Portfolio of 163 offset photolithographs",
+            "Edition": "25",
+            "Credit": "Gift of the artist and Irena Hochman Fine Art, Ltd.",
+            "Object number": "578.1994.1-173",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/7406"
+    },
+    {
+        "Artist": "Bruce Nauman",
+        "Title": "Untitled",
+        "Year": "1994",
+        "ObjectID": "62050",
+        "Work": "https://www.moma.org/collection/works/62050",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzNzE5MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7dd662ab4f2b6e0b",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition (irreg.): 29 15/16 \u00d7 39 15/16\" (76.1 \u00d7 101.4 cm); sheet: 29 15/16 \u00d7 39 15/16\" (76 \u00d7 101.4 cm)",
+            "Publisher": "Gemini G.E.L., Los Angeles",
+            "Printer": "Gemini G.E.L., Los Angeles",
+            "Edition": "50",
+            "Credit": "Gift of The Contemporary Arts Council of The Museum of Modern Art in honor of Riva Castleman",
+            "Object number": "114.1995",
+            "Copyright": "\u00a9 2023 Bruce Nauman / Artists Rights Society (ARS), New York",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4243"
+    },
+    {
+        "Artist": "Bruce Nauman",
+        "Title": "Untitled",
+        "Year": "1994",
+        "ObjectID": "62088",
+        "Work": "https://www.moma.org/collection/works/62088",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMzkwNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=66edcd814276c6ee",
+        "Details": {
+            "Medium": "Etching",
+            "Dimensions": "plate: 15 11/16 x 17 13/16\" (39.9 x 45.3 cm); sheet: 19 11/16 x 21 15/16\" (50 x 55.7 cm)",
+            "Publisher": "Gemini G.E.L., Los Angeles",
+            "Printer": "Gemini G.E.L., Los Angeles",
+            "Edition": "50",
+            "Credit": "Gift of The Contemporary Arts Council of The Museum of Modern Art in honor of Riva Castleman",
+            "Object number": "115.1995",
+            "Copyright": "\u00a9 2023 Bruce Nauman / Artists Rights Society (ARS), New York",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4243"
+    },
+    {
+        "Artist": "Bruce Nauman",
+        "Title": "Untitled",
+        "Year": "1994",
+        "ObjectID": "96805",
+        "Work": "https://www.moma.org/collection/works/96805",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzNTkwNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9f5d2cbb9cbf128a",
+        "Details": {
+            "Medium": "Pencil on cut-and-pasted printed paper",
+            "Dimensions": "32 5/8 x 32 1/2\" (82.9 x 82.6 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "2525.2005",
+            "Copyright": "\u00a9 2023 Bruce Nauman / Artists Rights Society (ARS), New York",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4243"
+    },
+    {
+        "Artist": "Jerome Neuner",
+        "Title": "Sump",
+        "Year": "1994",
+        "ObjectID": "102900",
+        "Work": "https://www.moma.org/collection/works/102900",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5Nzc2NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d6c6656baad5df37",
+        "Details": {
+            "Medium": "Artist book with chromogenic prints and text",
+            "Dimensions": "12 1/2 \u00d7 10 1/2 \u00d7 7 5/8\" (31.8 \u00d7 26.7 \u00d7 19.3 cm)",
+            "Credit": "E.T. Harmax Foundation Fund",
+            "Object number": "415.2006.1-125",
+            "Copyright": "\u00a9 2023 Jerry Neuner",
+            "Type": "Illustrated Book",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/25520"
+    },
+    {
+        "Artist": "Jerome Neuner",
+        "Title": "Untitled (page from Sump)",
+        "Year": "1994",
+        "ObjectID": "103310",
+        "Work": "https://www.moma.org/collection/works/103310",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5NzgxOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2bc7d4d9466726ab",
+        "Details": {
+            "Medium": "Page with chromogenic print and text",
+            "Dimensions": "12 \u00d7 9 1/2\" (30.5 \u00d7 24.1 cm)",
+            "Credit": "E.T. Harmax Foundation Fund",
+            "Object number": "415.2006.1",
+            "Copyright": "\u00a9 2023 Jerry Neuner",
+            "Illustrated book": "Sump",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/25520"
+    },
+    {
+        "Artist": "Jerome Neuner",
+        "Title": "Untitled (page from Sump)",
+        "Year": "1994",
+        "ObjectID": "103311",
+        "Work": "https://www.moma.org/collection/works/103311",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5Nzg1NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=17e288f7c993422a",
+        "Details": {
+            "Medium": "Page with chromogenic print and text",
+            "Dimensions": "12 \u00d7 9 1/2\" (30.5 \u00d7 24.1 cm)",
+            "Credit": "E.T. Harmax Foundation Fund",
+            "Object number": "415.2006.2",
+            "Copyright": "\u00a9 2023 Jerry Neuner",
+            "Illustrated book": "Sump",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/25520"
+    },
+    {
+        "Artist": "Jerome Neuner",
+        "Title": "Untitled (page from Sump)",
+        "Year": "1994",
+        "ObjectID": "103312",
+        "Work": "https://www.moma.org/collection/works/103312",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5Nzg2NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2dc1259097732aaa",
+        "Details": {
+            "Medium": "Page with chromogenic print and text",
+            "Dimensions": "12 \u00d7 9 1/2\" (30.5 \u00d7 24.1 cm)",
+            "Credit": "E.T. Harmax Foundation Fund",
+            "Object number": "415.2006.3",
+            "Copyright": "\u00a9 2023 Jerry Neuner",
+            "Illustrated book": "Sump",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/25520"
+    },
+    {
+        "Artist": "Jerome Neuner",
+        "Title": "Untitled (page from Sump)",
+        "Year": "1994",
+        "ObjectID": "103313",
+        "Work": "https://www.moma.org/collection/works/103313",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5Nzg3NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f5439494216cc54b",
+        "Details": {
+            "Medium": "Page with chromogenic print and text",
+            "Dimensions": "12 \u00d7 9 1/2\" (30.5 \u00d7 24.1 cm)",
+            "Credit": "E.T. Harmax Foundation Fund",
+            "Object number": "415.2006.4",
+            "Copyright": "\u00a9 2023 Jerry Neuner",
+            "Illustrated book": "Sump",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/25520"
+    },
+    {
+        "Artist": "Jerome Neuner",
+        "Title": "Untitled (page from Sump)",
+        "Year": "1994",
+        "ObjectID": "103314",
+        "Work": "https://www.moma.org/collection/works/103314",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5Nzg4OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0447c19c6766eea8",
+        "Details": {
+            "Medium": "Page with chromogenic print and text",
+            "Dimensions": "12 \u00d7 9 1/2\" (30.5 \u00d7 24.1 cm)",
+            "Credit": "E.T. Harmax Foundation Fund",
+            "Object number": "415.2006.5",
+            "Copyright": "\u00a9 2023 Jerry Neuner",
+            "Illustrated book": "Sump",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/25520"
+    },
+    {
+        "Artist": "Jerome Neuner",
+        "Title": "Untitled (page from Sump)",
+        "Year": "1994",
+        "ObjectID": "103315",
+        "Work": "https://www.moma.org/collection/works/103315",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5Nzg5OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=09798042259f91ad",
+        "Details": {
+            "Medium": "Page with chromogenic print and text",
+            "Dimensions": "12 \u00d7 9 1/2\" (30.5 \u00d7 24.1 cm)",
+            "Credit": "E.T. Harmax Foundation Fund",
+            "Object number": "415.2006.6",
+            "Copyright": "\u00a9 2023 Jerry Neuner",
+            "Illustrated book": "Sump",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/25520"
+    },
+    {
+        "Artist": "Jerome Neuner",
+        "Title": "Untitled (page from Sump)",
+        "Year": "1994",
+        "ObjectID": "103316",
+        "Work": "https://www.moma.org/collection/works/103316",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5NzkxMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2bbb3789ea0c831d",
+        "Details": {
+            "Medium": "Page with chromogenic print and text",
+            "Dimensions": "12 \u00d7 9 1/2\" (30.5 \u00d7 24.1 cm)",
+            "Credit": "E.T. Harmax Foundation Fund",
+            "Object number": "415.2006.7",
+            "Copyright": "\u00a9 2023 Jerry Neuner",
+            "Illustrated book": "Sump",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/25520"
+    },
+    {
+        "Artist": "Jerome Neuner",
+        "Title": "Untitled (page from Sump)",
+        "Year": "1994",
+        "ObjectID": "103317",
+        "Work": "https://www.moma.org/collection/works/103317",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5NzkyMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c125de80d5a74a56",
+        "Details": {
+            "Medium": "Page with chromogenic print and text",
+            "Dimensions": "12 \u00d7 9 1/2\" (30.5 \u00d7 24.1 cm)",
+            "Credit": "E.T. Harmax Foundation Fund",
+            "Object number": "415.2006.8",
+            "Copyright": "\u00a9 2023 Jerry Neuner",
+            "Illustrated book": "Sump",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/25520"
+    },
+    {
+        "Artist": "Jerome Neuner",
+        "Title": "Untitled (page from Sump)",
+        "Year": "1994",
+        "ObjectID": "103318",
+        "Work": "https://www.moma.org/collection/works/103318",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5NzkzMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=619dcde98fd9a500",
+        "Details": {
+            "Medium": "Page with chromogenic print and text",
+            "Dimensions": "12 \u00d7 9 1/2\" (30.5 \u00d7 24.1 cm)",
+            "Credit": "E.T. Harmax Foundation Fund",
+            "Object number": "415.2006.9",
+            "Copyright": "\u00a9 2023 Jerry Neuner",
+            "Illustrated book": "Sump",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/25520"
+    },
+    {
+        "Artist": "Jerome Neuner",
+        "Title": "Untitled (page from Sump)",
+        "Year": "1994",
+        "ObjectID": "103319",
+        "Work": "https://www.moma.org/collection/works/103319",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5NzgyMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=27e3176d5c64861f",
+        "Details": {
+            "Medium": "Page with chromogenic print and text",
+            "Dimensions": "12 \u00d7 9 1/2\" (30.5 \u00d7 24.1 cm)",
+            "Credit": "E.T. Harmax Foundation Fund",
+            "Object number": "415.2006.10",
+            "Copyright": "\u00a9 2023 Jerry Neuner",
+            "Illustrated book": "Sump",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/25520"
+    },
+    {
+        "Artist": "Jerome Neuner",
+        "Title": "Untitled (page from Sump)",
+        "Year": "1994",
+        "ObjectID": "103320",
+        "Work": "https://www.moma.org/collection/works/103320",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5NzgzMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=80de2a391fe5f742",
+        "Details": {
+            "Medium": "Page with chromogenic print and text",
+            "Dimensions": "12 \u00d7 9 1/2\" (30.5 \u00d7 24.1 cm)",
+            "Credit": "E.T. Harmax Foundation Fund",
+            "Object number": "415.2006.11",
+            "Copyright": "\u00a9 2023 Jerry Neuner",
+            "Illustrated book": "Sump",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/25520"
+    },
+    {
+        "Artist": "Jerome Neuner",
+        "Title": "Untitled (page from Sump)",
+        "Year": "1994",
+        "ObjectID": "103321",
+        "Work": "https://www.moma.org/collection/works/103321",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5Nzg0MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c243687388acc87b",
+        "Details": {
+            "Medium": "Page with chromogenic print and text",
+            "Dimensions": "12 \u00d7 9 1/2\" (30.5 \u00d7 24.1 cm)",
+            "Credit": "E.T. Harmax Foundation Fund",
+            "Object number": "415.2006.12",
+            "Copyright": "\u00a9 2023 Jerry Neuner",
+            "Illustrated book": "Sump",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/25520"
+    },
+    {
+        "Artist": "Jerome Neuner",
+        "Title": "Untitled (page from Sump)",
+        "Year": "1994",
+        "ObjectID": "103322",
+        "Work": "https://www.moma.org/collection/works/103322",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5Nzg0OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e09880131c82325f",
+        "Details": {
+            "Medium": "Page with chromogenic print and text",
+            "Dimensions": "12 \u00d7 9 1/2\" (30.5 \u00d7 24.1 cm)",
+            "Credit": "E.T. Harmax Foundation Fund",
+            "Object number": "415.2006.13",
+            "Copyright": "\u00a9 2023 Jerry Neuner",
+            "Illustrated book": "Sump",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/25520"
+    },
+    {
+        "Artist": "Jerome Neuner",
+        "Title": "Untitled (page from Sump)",
+        "Year": "1994",
+        "ObjectID": "103323",
+        "Work": "https://www.moma.org/collection/works/103323",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5Nzg0OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=907f9590ce183736",
+        "Details": {
+            "Medium": "Page with chromogenic print and text",
+            "Dimensions": "12 \u00d7 9 1/2\" (30.5 \u00d7 24.1 cm)",
+            "Credit": "E.T. Harmax Foundation Fund",
+            "Object number": "415.2006.14",
+            "Copyright": "\u00a9 2023 Jerry Neuner",
+            "Illustrated book": "Sump",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/25520"
+    },
+    {
+        "Artist": "Jerome Neuner",
+        "Title": "Untitled (page from Sump)",
+        "Year": "1994",
+        "ObjectID": "103324",
+        "Work": "https://www.moma.org/collection/works/103324",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5Nzg1MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=31860d506dd3915a",
+        "Details": {
+            "Medium": "Page with chromogenic print and text",
+            "Dimensions": "12 \u00d7 9 1/2\" (30.5 \u00d7 24.1 cm)",
+            "Credit": "E.T. Harmax Foundation Fund",
+            "Object number": "415.2006.15",
+            "Copyright": "\u00a9 2023 Jerry Neuner",
+            "Illustrated book": "Sump",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/25520"
+    },
+    {
+        "Artist": "Jerome Neuner",
+        "Title": "Untitled (page from Sump)",
+        "Year": "1994",
+        "ObjectID": "103325",
+        "Work": "https://www.moma.org/collection/works/103325",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5Nzg1MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=56640dd8b049a1e0",
+        "Details": {
+            "Medium": "Page with chromogenic print and text",
+            "Dimensions": "12 \u00d7 9 1/2\" (30.5 \u00d7 24.1 cm)",
+            "Credit": "E.T. Harmax Foundation Fund",
+            "Object number": "415.2006.16",
+            "Copyright": "\u00a9 2023 Jerry Neuner",
+            "Illustrated book": "Sump",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/25520"
+    },
+    {
+        "Artist": "Jerome Neuner",
+        "Title": "Untitled (page from Sump)",
+        "Year": "1994",
+        "ObjectID": "103326",
+        "Work": "https://www.moma.org/collection/works/103326",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5Nzg1MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b34615b56bda770f",
+        "Details": {
+            "Medium": "Page with chromogenic print and text",
+            "Dimensions": "12 \u00d7 9 1/2\" (30.5 \u00d7 24.1 cm)",
+            "Credit": "E.T. Harmax Foundation Fund",
+            "Object number": "415.2006.17",
+            "Copyright": "\u00a9 2023 Jerry Neuner",
+            "Illustrated book": "Sump",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/25520"
+    },
+    {
+        "Artist": "Jerome Neuner",
+        "Title": "Untitled (page from Sump)",
+        "Year": "1994",
+        "ObjectID": "103327",
+        "Work": "https://www.moma.org/collection/works/103327",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5Nzg1MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5f5052b1fc6be927",
+        "Details": {
+            "Medium": "Page with chromogenic print and text",
+            "Dimensions": "12 \u00d7 9 1/2\" (30.5 \u00d7 24.1 cm)",
+            "Credit": "E.T. Harmax Foundation Fund",
+            "Object number": "415.2006.18",
+            "Copyright": "\u00a9 2023 Jerry Neuner",
+            "Illustrated book": "Sump",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/25520"
+    },
+    {
+        "Artist": "Jerome Neuner",
+        "Title": "Untitled (page from Sump)",
+        "Year": "1994",
+        "ObjectID": "103328",
+        "Work": "https://www.moma.org/collection/works/103328",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5Nzg1NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3413679763efc77c",
+        "Details": {
+            "Medium": "Page with chromogenic print and text",
+            "Dimensions": "12 \u00d7 9 1/2\" (30.5 \u00d7 24.1 cm)",
+            "Credit": "E.T. Harmax Foundation Fund",
+            "Object number": "415.2006.19",
+            "Copyright": "\u00a9 2023 Jerry Neuner",
+            "Illustrated book": "Sump",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/25520"
+    },
+    {
+        "Artist": "Jerome Neuner",
+        "Title": "Untitled (page from Sump)",
+        "Year": "1994",
+        "ObjectID": "103329",
+        "Work": "https://www.moma.org/collection/works/103329",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5Nzg1NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=acd46e1b06e9c00b",
+        "Details": {
+            "Medium": "Page with chromogenic print and text",
+            "Dimensions": "12 \u00d7 9 1/2\" (30.5 \u00d7 24.1 cm)",
+            "Credit": "E.T. Harmax Foundation Fund",
+            "Object number": "415.2006.20",
+            "Copyright": "\u00a9 2023 Jerry Neuner",
+            "Illustrated book": "Sump",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/25520"
+    },
+    {
+        "Artist": "Jerome Neuner",
+        "Title": "Untitled (page from Sump)",
+        "Year": "1994",
+        "ObjectID": "103330",
+        "Work": "https://www.moma.org/collection/works/103330",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5Nzg1NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7997399b0e277faf",
+        "Details": {
+            "Medium": "Page with chromogenic print and text",
+            "Dimensions": "12 \u00d7 9 1/2\" (30.5 \u00d7 24.1 cm)",
+            "Credit": "E.T. Harmax Foundation Fund",
+            "Object number": "415.2006.21",
+            "Copyright": "\u00a9 2023 Jerry Neuner",
+            "Illustrated book": "Sump",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/25520"
+    },
+    {
+        "Artist": "Jerome Neuner",
+        "Title": "Untitled (page from Sump)",
+        "Year": "1994",
+        "ObjectID": "103331",
+        "Work": "https://www.moma.org/collection/works/103331",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5Nzg1OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6afac95a88190276",
+        "Details": {
+            "Medium": "Page with chromogenic print and text",
+            "Dimensions": "12 \u00d7 9 1/2\" (30.5 \u00d7 24.1 cm)",
+            "Credit": "E.T. Harmax Foundation Fund",
+            "Object number": "415.2006.22",
+            "Copyright": "\u00a9 2023 Jerry Neuner",
+            "Illustrated book": "Sump",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/25520"
+    },
+    {
+        "Artist": "Jerome Neuner",
+        "Title": "Untitled (page from Sump)",
+        "Year": "1994",
+        "ObjectID": "103332",
+        "Work": "https://www.moma.org/collection/works/103332",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5Nzg1OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0c77bc9e9027c0e9",
+        "Details": {
+            "Medium": "Page with chromogenic print and text",
+            "Dimensions": "12 \u00d7 9 1/2\" (30.5 \u00d7 24.1 cm)",
+            "Credit": "E.T. Harmax Foundation Fund",
+            "Object number": "415.2006.23",
+            "Copyright": "\u00a9 2023 Jerry Neuner",
+            "Illustrated book": "Sump",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/25520"
+    },
+    {
+        "Artist": "Jerome Neuner",
+        "Title": "Untitled (page from Sump)",
+        "Year": "1994",
+        "ObjectID": "103333",
+        "Work": "https://www.moma.org/collection/works/103333",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5Nzg2MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=932e72881dc20eb3",
+        "Details": {
+            "Medium": "Page with chromogenic print and text",
+            "Dimensions": "12 \u00d7 9 1/2\" (30.5 \u00d7 24.1 cm)",
+            "Credit": "E.T. Harmax Foundation Fund",
+            "Object number": "415.2006.24",
+            "Copyright": "\u00a9 2023 Jerry Neuner",
+            "Illustrated book": "Sump",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/25520"
+    },
+    {
+        "Artist": "Jerome Neuner",
+        "Title": "Untitled (page from Sump)",
+        "Year": "1994",
+        "ObjectID": "103334",
+        "Work": "https://www.moma.org/collection/works/103334",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5Nzg2MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6297f55813e4a377",
+        "Details": {
+            "Medium": "Page with chromogenic print and text",
+            "Dimensions": "12 \u00d7 9 1/2\" (30.5 \u00d7 24.1 cm)",
+            "Credit": "E.T. Harmax Foundation Fund",
+            "Object number": "415.2006.25",
+            "Copyright": "\u00a9 2023 Jerry Neuner",
+            "Illustrated book": "Sump",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/25520"
+    },
+    {
+        "Artist": "Jerome Neuner",
+        "Title": "Untitled (page from Sump)",
+        "Year": "1994",
+        "ObjectID": "103335",
+        "Work": "https://www.moma.org/collection/works/103335",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5Nzg2MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5c107c9adb9645b1",
+        "Details": {
+            "Medium": "Page with chromogenic print and text",
+            "Dimensions": "12 \u00d7 9 1/2\" (30.5 \u00d7 24.1 cm)",
+            "Credit": "E.T. Harmax Foundation Fund",
+            "Object number": "415.2006.26",
+            "Copyright": "\u00a9 2023 Jerry Neuner",
+            "Illustrated book": "Sump",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/25520"
+    },
+    {
+        "Artist": "Jerome Neuner",
+        "Title": "Untitled (page from Sump)",
+        "Year": "1994",
+        "ObjectID": "103336",
+        "Work": "https://www.moma.org/collection/works/103336",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5Nzg2MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fc0d269d1f4167a8",
+        "Details": {
+            "Medium": "Page with chromogenic print and text",
+            "Dimensions": "12 \u00d7 9 1/2\" (30.5 \u00d7 24.1 cm)",
+            "Credit": "E.T. Harmax Foundation Fund",
+            "Object number": "415.2006.27",
+            "Copyright": "\u00a9 2023 Jerry Neuner",
+            "Illustrated book": "Sump",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/25520"
+    },
+    {
+        "Artist": "Jerome Neuner",
+        "Title": "Untitled (page from Sump)",
+        "Year": "1994",
+        "ObjectID": "103337",
+        "Work": "https://www.moma.org/collection/works/103337",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5Nzg2NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=130fede1efbefba3",
+        "Details": {
+            "Medium": "Page with chromogenic print and text",
+            "Dimensions": "12 \u00d7 9 1/2\" (30.5 \u00d7 24.1 cm)",
+            "Credit": "E.T. Harmax Foundation Fund",
+            "Object number": "415.2006.28",
+            "Copyright": "\u00a9 2023 Jerry Neuner",
+            "Illustrated book": "Sump",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/25520"
     }
 ]

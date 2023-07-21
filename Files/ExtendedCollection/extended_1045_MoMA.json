@@ -1,817 +1,848 @@
 [
     {
-        "Artist": "Robert Brownjohn",
-        "Title": "Pete Berla Christmas Card",
-        "Year": "late 1950s",
-        "ObjectID": "152836",
-        "Work": "https://www.moma.org/collection/works/152836",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNjczOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=580ab8a792d0be75",
+        "Artist": "Andy Warhol",
+        "Title": "Campbell's Soup Can (Tomato)",
+        "Year": "1966",
+        "ObjectID": "72249",
+        "Work": "https://www.moma.org/collection/works/72249",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Screenprint on paper shopping bag with handles",
+            "Dimensions": "composition: 16 5/8 x 9 5/8\" (42.2 x 24.4 cm); sheet (irreg.): 19 5/8 x 16 7/8\" (49.8 x 42.9 cm); overall (with handles): 24 3/8 x 17\" (61.9 x 43.2 cm)",
+            "Publisher": "The Institute of Contemporary Art, Boston",
+            "Printer": "Unidentified",
+            "Edition": "unknown",
+            "Credit": "Gift of Ubu Gallery",
+            "Object number": "634.1998",
+            "Copyright": "\u00a9 2023 Andy Warhol Foundation / ARS, NY / TM Licensed by Campbell's Soup Co. All rights reserved.",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6246"
+    },
+    {
+        "Artist": "Andy Warhol",
+        "Title": "Self-Portrait",
+        "Year": "1966",
+        "ObjectID": "79889",
+        "Work": "https://www.moma.org/collection/works/79889",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0MjYyMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1049701f516b5591",
+        "Details": {
+            "Medium": "Silkscreen ink on synthetic polymer paint on nine canvases",
+            "Dimensions": "Each canvas 22 1/2 x 22 1/2\" (57.2 x 57.2 cm), overall 67 5/8 x 67 5/8\" (171.7 x 171.7 cm)",
+            "Credit": "Gift of Philip Johnson",
+            "Object number": "513.1998.a-i",
+            "Copyright": "\u00a9 2023 Andy Warhol Foundation for the Visual Arts / Artists Rights Society (ARS), New York",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/6246"
+    },
+    {
+        "Artist": "Andy Warhol",
+        "Title": "Campbell's Soup",
+        "Year": "1966",
+        "ObjectID": "79920",
+        "Work": "https://www.moma.org/collection/works/79920",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Felt",
+            "Dimensions": "90 1/2 x 56 1/4\" (229.7 x 142.9 cm)",
+            "Credit": "Gift of Philip Johnson",
+            "Object number": "527.1970",
+            "Copyright": "\u00a9 2023 Andy Warhol Foundation / ARS, NY / TM Licensed by Campbell's Soup Co. All rights reserved.",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/6246"
+    },
+    {
+        "Artist": "Andy Warhol",
+        "Title": "The Chelsea Girls",
+        "Year": "1966",
+        "ObjectID": "303027",
+        "Work": "https://www.moma.org/collection/works/303027",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyNzE4NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=98418d00591c41be",
+        "Details": {
+            "Producer": "Andy Warhol",
+            "Object number": "W6693",
+            "Copyright": "\u00a9 2023 Andy Warhol Foundation for the Visual Arts / Artists Rights Society (ARS), New York",
+            "Department": "Film"
+        },
+        "Profile": "https://www.moma.org/artists/6246"
+    },
+    {
+        "Artist": "Andy Warhol",
+        "Title": "Outer and Inner Space",
+        "Year": "1966",
+        "ObjectID": "321332",
+        "Work": "https://www.moma.org/collection/works/321332",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwNTIyNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fe827ba412756677",
+        "Details": {
+            "Producer": "Andy Warhol",
+            "Object number": "W18422",
+            "Department": "Film"
+        },
+        "Profile": "https://www.moma.org/artists/6246"
+    },
+    {
+        "Artist": "Robert Watts",
+        "Title": "Ashanti",
+        "Year": "1966",
+        "ObjectID": "81979",
+        "Work": "https://www.moma.org/collection/works/81979",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMTk4NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=63a1557e3d3cb0e2",
+        "Details": {
+            "Medium": "Chrome plate on brass",
+            "Dimensions": "9 5/8 x 3 x 2 3/4\" (23.9 x 7.9 x 7 cm)",
+            "Credit": "Patricia Phelps de Cisneros, Emily Rauh Pulitzer and Richard S. Zeisler Funds",
+            "Object number": "1150.2001",
+            "Copyright": "\u00a9 2023 Estate of Robert Watts",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/6269"
+    },
+    {
+        "Artist": "Robert Watts",
+        "Title": "Flux Lux Soap",
+        "Year": "1966",
+        "ObjectID": "128152",
+        "Work": "https://www.moma.org/collection/works/128152",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwMTM5NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fc2fa6f388cd291f",
+        "Details": {
+            "Medium": "Chrome case containing engraved wood block",
+            "Dimensions": "case (irreg.): 2 9/16 x 3 9/16 x 1 9/16\" (6.5 x 9.1 x 3.9 cm); block: 1 7/8 x 3 1/16 x 7/8\" (4.8 x 7.8 x 2.2 cm)",
+            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
+            "Object number": "2811.2008",
+            "Copyright": "\u00a9 2023 Estate of Robert Watts",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6269"
+    },
+    {
+        "Artist": "Robert Watts",
+        "Title": "Picasso Signature",
+        "Year": "1966",
+        "ObjectID": "128655",
+        "Work": "https://www.moma.org/collection/works/128655",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNTg0MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fd971dee4067e906",
+        "Details": {
+            "Medium": "Neon and plastic",
+            "Dimensions": "15 7/8 x 33 3/16\" (40.3 x 84.2 cm)",
+            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
+            "Object number": "2886.2008",
+            "Copyright": "\u00a9 2023 Estate of Robert Watts",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6269"
+    },
+    {
+        "Artist": "Robert Watts",
+        "Title": "Trace (Fluxfilm no. 11)",
+        "Year": "1966",
+        "ObjectID": "150235",
+        "Work": "https://www.moma.org/collection/works/150235",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NTAwNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f9c72aec761d9280",
+        "Details": {
+            "Medium": "16mm film (black and white, silent)",
+            "Duration": "1:21 min.",
+            "Producer": "George Maciunas",
+            "Publisher": "Fluxus",
+            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
+            "Object number": "2452.2008.18",
+            "Copyright": "\u00a9 2023 Estate of Robert Watts",
+            "Associated work": "Fluxfilms",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6269"
+    },
+    {
+        "Artist": "Robert Watts",
+        "Title": "Trace (Fluxfilm no. 13)",
+        "Year": "1966",
+        "ObjectID": "150236",
+        "Work": "https://www.moma.org/collection/works/150236",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NTAwNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=15662f431cca5015",
+        "Details": {
+            "Medium": "16mm film (black and white, silent)",
+            "Duration": "3:06 min.",
+            "Producer": "George Maciunas",
+            "Publisher": "Fluxus",
+            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
+            "Object number": "2452.2008.19",
+            "Copyright": "\u00a9 2023 Estate of Robert Watts",
+            "Associated work": "Fluxfilms",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6269"
+    },
+    {
+        "Artist": "Robert Watts",
+        "Title": "Trace (Fluxfilm no. 12)",
+        "Year": "1966",
+        "ObjectID": "150237",
+        "Work": "https://www.moma.org/collection/works/150237",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NTAwOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3192737c834bbac6",
+        "Details": {
+            "Medium": "16mm film (black and white, silent)",
+            "Duration": "3:01 min.",
+            "Producer": "George Maciunas",
+            "Publisher": "Fluxus",
+            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
+            "Object number": "2452.2008.20",
+            "Copyright": "\u00a9 2023 Estate of Robert Watts",
+            "Associated work": "Fluxfilms",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6269"
+    },
+    {
+        "Artist": "Lawrence Weiner",
+        "Title": "Untitled",
+        "Year": "1966",
+        "ObjectID": "137424",
+        "Work": "https://www.moma.org/collection/works/137424",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NzUyNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9177b56285ccac0b",
+        "Details": {
+            "Medium": "Gouache, synthetic polymer paint, and felt-tip pen on graph paper",
+            "Dimensions": "9 5/8 x 13 3/8\" (24.4 x 34 cm)",
+            "Credit": "The Seth Siegelaub Collection. Gift of Richard S. Zeisler (by exchange)",
+            "Object number": "340.2010",
+            "Copyright": "\u00a9 2023 Lawrence Weiner / Artists Rights Society (ARS), New York",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6288"
+    },
+    {
+        "Artist": "Lawrence Weiner",
+        "Title": "Untitled",
+        "Year": "1966",
+        "ObjectID": "137425",
+        "Work": "https://www.moma.org/collection/works/137425",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NzUyNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0787edc602798735",
+        "Details": {
+            "Medium": "Gouache, synthetic polymer paint, metallic paint, and felt-tip pen on graph paper",
+            "Dimensions": "11 7/8 x 15 7/8\" (30.2 x 40.3 cm)",
+            "Credit": "The Seth Siegelaub Collection. Gift of Richard S. Zeisler (by exchange)",
+            "Object number": "339.2010",
+            "Copyright": "\u00a9 2023 Lawrence Weiner / Artists Rights Society (ARS), New York",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6288"
+    },
+    {
+        "Artist": "John Wesley",
+        "Title": "Dream of Unicorns from 11 Pop Artists, Volume III",
+        "Year": "1965, published 1966",
+        "ObjectID": "65802",
+        "Work": "https://www.moma.org/collection/works/65802",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ0MTgyNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=41a43243ad0c0887",
+        "Details": {
+            "Medium": "Screenprint from a portfolio of ten screenprints and one lithograph",
+            "Dimensions": "composition: 28 x 38 1/8\" (71.1 x 96.8cm); sheet: 28 9/16 x 38 7/16\" (72.5 x 97.7cm)",
+            "Publisher": "Original Editions",
+            "Printer": "Knickerbocker Machine & Foundry Inc., New York",
+            "Edition": "200",
+            "Credit": "Gift of Original Editions",
+            "Object number": "274.1966.3k",
+            "Copyright": "\u00a9 2023 John Wesley",
+            "Portfolio": "11 Pop Artists",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6316"
+    },
+    {
+        "Artist": "John Wesley",
+        "Title": "Untitled (Dog)",
+        "Year": "1965-66",
+        "ObjectID": "97705",
+        "Work": "https://www.moma.org/collection/works/97705",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEwNzY2NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d093a9aa008a0a1e",
+        "Details": {
+            "Medium": "Pencil on transparentized paper with masking tape on paper",
+            "Dimensions": "20 1/2 x 14 1/4\" (52.1 x 36.2 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "3389.2005",
+            "Copyright": "\u00a9 2023 John Wesley",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6316"
+    },
+    {
+        "Artist": "Tom Wesselmann",
+        "Title": "Study for Mouth, 8",
+        "Year": "1966",
+        "ObjectID": "33317",
+        "Work": "https://www.moma.org/collection/works/33317",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQwMDU2NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1906806b2f50f763",
+        "Details": {
+            "Medium": "Acrylic and pencil on paper",
+            "Dimensions": "10 3/8 x 13 7/8\" (26.2 x 35.2 cm)",
+            "Credit": "John B. Turner Fund",
+            "Object number": "23.1969",
+            "Copyright": "\u00a9 Tom Wesselmann/Licensed by VAGA, New York, NY",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6318"
+    },
+    {
+        "Artist": "Tom Wesselmann",
+        "Title": "Little Nude from 7 Objects in a Box",
+        "Year": "1966",
+        "ObjectID": "60445",
+        "Work": "https://www.moma.org/collection/works/60445",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Multiple of spray-painted vacuum-formed plexiglass with foam backing",
+            "Dimensions": "overall (irreg.): 7 3/4 \u00d7 7 1/2 \u00d7 1\" (19.7 \u00d7 19.1 \u00d7 2.5 cm)",
+            "Publisher": "Tanglewood Press, Inc., New York",
+            "Fabricator": "Knickerbocker Machine & Foundry Inc., New York",
+            "Edition": "75",
+            "Credit": "Gift of Mr. and Mrs. Lester Francis Avnet",
+            "Object number": "29.1967.7",
+            "Copyright": "\u00a9 Tom Wesselmann/Licensed by VAGA, New York, NY",
+            "Portfolio": "7 Objects in a Box",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6318"
+    },
+    {
+        "Artist": "Tom Wesselmann",
+        "Title": "Cut Out Nude from 11 Pop Artists, Volume I",
+        "Year": "1965, published 1966",
+        "ObjectID": "65770",
+        "Work": "https://www.moma.org/collection/works/65770",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwNjI4MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=57dd7ad87be98ac4",
+        "Details": {
+            "Medium": "Screenprint from a portfolio of ten screenprints (one with collage additions), and one lithograph",
+            "Dimensions": "composition: 8 1/2 x 16 1/8\" (21.6 x 41cm); sheet: 19 15/16 x 23 7/8\" (50.7 x 60.7cm)",
+            "Publisher": "Original Editions",
+            "Printer": "Knickerbocker Machine & Foundry Inc., New York",
+            "Edition": "200",
+            "Credit": "Gift of Original Editions",
+            "Object number": "274.1966.1a",
+            "Copyright": "\u00a9 Tom Wesselmann/Licensed by VAGA, New York, NY",
+            "Portfolio": "11 Pop Artists",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6318"
+    },
+    {
+        "Artist": "Tom Wesselmann",
+        "Title": "Nude from 11 Pop Artists, Volume II",
+        "Year": "1965, published 1966",
+        "ObjectID": "65790",
+        "Work": "https://www.moma.org/collection/works/65790",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxOTQxNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=be61bc4d23bcc645",
+        "Details": {
+            "Medium": "Screenprint from a portfolio of eleven screenprints, one with collage additions",
+            "Dimensions": "composition and sheet: 23 7/8 x 29 5/8\" (60.7 x 75.3cm)",
+            "Publisher": "Original Editions",
+            "Printer": "Knickerbocker Machine & Foundry Inc., New York",
+            "Edition": "200",
+            "Credit": "Gift of Original Editions",
+            "Object number": "274.1966.2j",
+            "Copyright": "\u00a9 Tom Wesselmann/Licensed by VAGA, New York, NY",
+            "Portfolio": "11 Pop Artists",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6318"
+    },
+    {
+        "Artist": "Tom Wesselmann",
+        "Title": "TV Still Life from 11 Pop Artists, Volume III",
+        "Year": "1965, published 1966",
+        "ObjectID": "65798",
+        "Work": "https://www.moma.org/collection/works/65798",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNTA5MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3390b31c1dcaf7d1",
+        "Details": {
+            "Medium": "Screenprint from a portfolio of ten screenprints and one lithograph",
+            "Dimensions": "composition: 28 7/8 x 37 15/16\" (73.3 x 96.3cm); sheet: 28 7/8 x 37 15/16\" (73.3 x 96.3cm)",
+            "Publisher": "Original Editions",
+            "Printer": "Knickerbocker Machine & Foundry Inc., New York",
+            "Edition": "200",
+            "Credit": "Gift of Original Editions",
+            "Object number": "274.1966.3g",
+            "Copyright": "\u00a9 Tom Wesselmann/Licensed by VAGA, New York, NY",
+            "Portfolio": "11 Pop Artists",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6318"
+    },
+    {
+        "Artist": "Tom Wesselmann",
+        "Title": "Mouth, 7",
+        "Year": "1966",
+        "ObjectID": "80212",
+        "Work": "https://www.moma.org/collection/works/80212",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Oil on shaped canvas",
+            "Dimensions": "6' 8 1/4\" x 65\" (206.3 x 165.1 cm)",
+            "Credit": "The Sidney and Harriet Janis Collection",
+            "Object number": "663.1967",
+            "Copyright": "\u00a9 Tom Wesselmann/Licensed by VAGA, New York, NY",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/6318"
+    },
+    {
+        "Artist": "Terence Westmacott",
+        "Title": "Orchestra Hall",
+        "Year": "1966",
+        "ObjectID": "8238",
+        "Work": "https://www.moma.org/collection/works/8238",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMTc1NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=308cb237b3e1d21f",
+        "Details": {
+            "Medium": "Silkscreen",
+            "Dimensions": "50 x 35\" (127 x 88.9 cm)",
+            "Printer": "Chameleon Color Craft",
+            "Credit": "Gift of the Container Corporation of America",
+            "Object number": "835.1983",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/6326"
+    },
+    {
+        "Artist": "Timothy West",
+        "Title": "Untitled",
+        "Year": "(1966)",
+        "ObjectID": "35117",
+        "Work": "https://www.moma.org/collection/works/35117",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMDY5NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c36668e24badc6d6",
+        "Details": {
+            "Medium": "Ink and gouache on paper",
+            "Dimensions": "23 x 28 7/8\" (58.3 x 73.2 cm)",
+            "Credit": "John S. Newberry Fund",
+            "Object number": "183.1967",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6321"
+    },
+    {
+        "Artist": "Hannah Wilke",
+        "Title": "Untitled",
+        "Year": "1963-66",
+        "ObjectID": "97762",
+        "Work": "https://www.moma.org/collection/works/97762",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNDM5MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=dea59c74468f1eeb",
+        "Details": {
+            "Medium": "Pastel and charcoal on paper",
+            "Dimensions": "19 1/2 x 24\" (49.5 x 61 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "3429.2005",
+            "Copyright": "\u00a9 2023 Marsie, Emanuelle, Damon and Andrew Scharlatt - Hannah Wilke Collection and Archive, Los Angeles",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/18539"
+    },
+    {
+        "Artist": "Fred Williams",
+        "Title": "Forest of Gum Trees, State II/IV",
+        "Year": "1965-66",
+        "ObjectID": "68846",
+        "Work": "https://www.moma.org/collection/works/68846",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5MDAwOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=67ae12336b7033c4",
+        "Details": {
+            "Medium": "Etching and drypoint",
+            "Dimensions": "plate: 13 5/8 x 10 15/16\" (34.6 x 27.8 cm); sheet: 18 1/2 x 14 1/2\" (47 x 36.8 cm)",
+            "Publisher": "Fred Williams",
+            "Printer": "Fred Williams, Upwey, Victoria, Australia",
+            "Edition": "7",
+            "Credit": "Purchase",
+            "Object number": "422.1973",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6378"
+    },
+    {
+        "Artist": "Fred Williams",
+        "Title": "Hillside Landscape, Lysterfield, State II/III",
+        "Year": "1965-66",
+        "ObjectID": "68870",
+        "Work": "https://www.moma.org/collection/works/68870",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5MDAwOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f6ca0410bad1e696",
+        "Details": {
+            "Medium": "Etching and drypoint",
+            "Dimensions": "plate: 9 11/16 x 14 3/8\" (24.6 x 36.5 cm); sheet: 14 1/4 x 18 1/2\" (36.2 x 47 cm)",
+            "Publisher": "Fred Williams",
+            "Printer": "Fred Williams, Upwey, Victoria, Australia",
+            "Edition": "30",
+            "Credit": "Gift of James Mollison",
+            "Object number": "423.1973",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6378"
+    },
+    {
+        "Artist": "Fred Williams",
+        "Title": "Hillside No. 1, State II/III",
+        "Year": "1965-66",
+        "ObjectID": "68883",
+        "Work": "https://www.moma.org/collection/works/68883",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5MDAxMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d0415b65cc979c69",
+        "Details": {
+            "Medium": "Etching, aquatint, drypoint and mezzotint",
+            "Dimensions": "plate: 7 3/4 x 8 3/8\" (19.7 x 21.3 cm); sheet: 10 7/8 x 11 13/16\" (27.6 x 30 cm)",
+            "Publisher": "Fred Williams",
+            "Printer": "Fred Williams, Upwey, Victoria, Australia",
+            "Edition": "25",
+            "Credit": "Gift of James Mollison",
+            "Object number": "424.1973",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6378"
+    },
+    {
+        "Artist": "Fred Williams",
+        "Title": "Upway Landscape No. 1, State II/III",
+        "Year": "1965-66",
+        "ObjectID": "69049",
+        "Work": "https://www.moma.org/collection/works/69049",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5MDAxOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3649f1ebaed7fec0",
+        "Details": {
+            "Medium": "Etching, engraving and drypoint",
+            "Dimensions": "plate: 10 1/2 x 5 5/8\" (26.6 x 14.3 cm); sheet: 14 9/16 x 9 15/16\" (37 x 25.2 cm)",
+            "Publisher": "Fred Williams",
+            "Printer": "Fred Williams, Upwey, Victoria, Australia",
+            "Edition": "30",
+            "Credit": "Gift of James Mollison",
+            "Object number": "433.1973",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6378"
+    },
+    {
+        "Artist": "Wes Wilson",
+        "Title": "Grateful Dead, Junior Wells, Chicago Blues Band, and The Doors",
+        "Year": "1966",
+        "ObjectID": "5583",
+        "Work": "https://www.moma.org/collection/works/5583",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxOTYxOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=91e658eb92cbc841",
+        "Details": {
+            "Medium": "Offset lithograph",
+            "Dimensions": "22 3/4 x 14\" (57.8 x 35.5 cm)",
+            "Credit": "Gift of Joseph H. Heil",
+            "Object number": "184.1968",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/8265"
+    },
+    {
+        "Artist": "Wes Wilson",
+        "Title": "From England, The Mindbenders, The Chocoate Watch Band",
+        "Year": "1966",
+        "ObjectID": "5591",
+        "Work": "https://www.moma.org/collection/works/5591",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxOTYxOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d0fb6bf143931494",
+        "Details": {
+            "Medium": "Offset lithograph",
+            "Dimensions": "19 5/8 x 14 1/8\" (49.8 x 35.8 cm)",
+            "Credit": "Purchase",
+            "Object number": "185.1968",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/8265"
+    },
+    {
+        "Artist": "Wes Wilson",
+        "Title": "The Association, Along Comes Mary, Quicksilver Messenger Service",
+        "Year": "1966",
+        "ObjectID": "5598",
+        "Work": "https://www.moma.org/collection/works/5598",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxOTYyMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=106d53765f0f032b",
+        "Details": {
+            "Medium": "Offset lithograph",
+            "Dimensions": "19 11/16 x 13 3/4\" (50.0 x 43.9 cm)",
+            "Credit": "Purchase",
+            "Object number": "186.1968",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/8265"
+    },
+    {
+        "Artist": "Wes Wilson",
+        "Title": "Jefferson Airplane, Grateful Dead",
+        "Year": "1966",
+        "ObjectID": "8858",
+        "Work": "https://www.moma.org/collection/works/8858",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDQxNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=eedf6e1465844c2a",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "closed: 8 3/4 x 3 1/2\" (22.2 x 8.9 cm)\r\nopen: 8 3/4 x 7\" (22.2 x 17.8 cm)",
-            "Credit": "Gift of Don Goeman",
-            "Object number": "1073.2011",
-            "Copyright": "\u00a9 2023 Eliza Brownjohn",
+            "Dimensions": "20 x 14 1/4\" (50.8 x 36.2 cm)",
+            "Credit": "Gift of the designer",
+            "Object number": "1562.2000",
             "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/816"
+        "Profile": "https://www.moma.org/artists/8265"
     },
     {
-        "Artist": "Robert Brownjohn",
-        "Title": "Lane Display Christmas Card",
-        "Year": "late 1950s",
-        "ObjectID": "152837",
-        "Work": "https://www.moma.org/collection/works/152837",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNjczNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=bc79076bf5317f9b",
+        "Artist": "Wes Wilson",
+        "Title": "The Sound",
+        "Year": "1966",
+        "ObjectID": "8896",
+        "Work": "https://www.moma.org/collection/works/8896",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDQzNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6f9affd67ef87c06",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "4 x 9\" (10.2 x 22.9 cm)",
-            "Credit": "Gift of Don Goeman",
-            "Object number": "1071.2011",
-            "Copyright": "\u00a9 2023 Eliza Brownjohn",
+            "Dimensions": "24 1/2 x 13 1/2\" (62.2 x 34.3 cm)",
+            "Publisher": "Bill Graham Presents, San Francisco",
+            "Credit": "Gift of the designer",
+            "Object number": "1584.2000",
             "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/816"
+        "Profile": "https://www.moma.org/artists/8265"
     },
     {
-        "Artist": "Robert Brownjohn",
-        "Title": "Warren Weil Public Relations Christmas Card",
-        "Year": "late 1950s",
-        "ObjectID": "152838",
-        "Work": "https://www.moma.org/collection/works/152838",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNjc0MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=34f8f3f66f8943f2",
+        "Artist": "Wes Wilson",
+        "Title": "New Year Bash, 1966-67",
+        "Year": "1966",
+        "ObjectID": "8898",
+        "Work": "https://www.moma.org/collection/works/8898",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDQzNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=182ce489716c5a60",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "4 x 9\" (10.2 x 22.9 cm)",
-            "Credit": "Gift of Don Goeman",
-            "Object number": "1074.2011",
-            "Copyright": "\u00a9 2023 Eliza Brownjohn",
+            "Dimensions": "24 5/8 x 14 1/8\" (62.6 x 35.9 cm)",
+            "Publisher": "Bill Graham Presents, San Francisco",
+            "Printer": "West Coast Lithograph Co., San Francisco",
+            "Credit": "Gift of the designer",
+            "Object number": "1585.2000",
             "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/816"
+        "Profile": "https://www.moma.org/artists/8265"
     },
     {
-        "Artist": "Robert Brownjohn",
-        "Title": "Len Gittleman Christmas Card",
-        "Year": "1950s",
-        "ObjectID": "154508",
-        "Work": "https://www.moma.org/collection/works/154508",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNTI3MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a44b858e10bb08a6",
+        "Artist": "Wes Wilson",
+        "Title": "Bill Graham Presents The New Generation and The Jaywalkers with The Charlatans",
+        "Year": "1966",
+        "ObjectID": "8899",
+        "Work": "https://www.moma.org/collection/works/8899",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDQzOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=263d14eaf7940a73",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "8 1/2 x 3 7/8\" (21.6 x 9.8 cm)",
-            "Credit": "Gift of Don Goeman",
-            "Object number": "1056.2011",
-            "Copyright": "\u00a9 2023 Eliza Brownjohn",
+            "Dimensions": "20 x 13 7/8\" (50.8 x 35.3 cm)",
+            "Credit": "Gift of the designer",
+            "Object number": "1586.2000",
             "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/816"
+        "Profile": "https://www.moma.org/artists/8265"
     },
     {
-        "Artist": "Robert Brownjohn",
-        "Title": "Lillian Cohen Christmas Card",
-        "Year": "1950s",
-        "ObjectID": "154509",
-        "Work": "https://www.moma.org/collection/works/154509",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNjcyMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0f25625e24c00dab",
+        "Artist": "Wes Wilson",
+        "Title": "Love, Moby Grape, Lee Michaels",
+        "Year": "1966",
+        "ObjectID": "8901",
+        "Work": "https://www.moma.org/collection/works/8901",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDQzOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3dad563a9305ec1a",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "9 x 4\" (22.9 x 10.2 cm)",
-            "Credit": "Gift of Don Goeman",
-            "Object number": "1057.2011",
-            "Copyright": "\u00a9 2023 Eliza Brownjohn",
+            "Dimensions": "23 5/8 x 14\" (60 x 35.6 cm)",
+            "Printer": "West Coast Lithograph Co., San Francisco",
+            "Credit": "Gift of the designer",
+            "Object number": "1587.2000",
             "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/816"
+        "Profile": "https://www.moma.org/artists/8265"
     },
     {
-        "Artist": "Robert Brownjohn",
-        "Title": "News Alliance Christmas Card",
-        "Year": "1950s",
-        "ObjectID": "154510",
-        "Work": "https://www.moma.org/collection/works/154510",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNjcyMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1744413ba282f1c1",
+        "Artist": "Garry Winogrand",
+        "Title": "Cape Cod from Women are Beautiful",
+        "Year": "1966",
+        "ObjectID": "111115",
+        "Work": "https://www.moma.org/collection/works/111115",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5Mjk1NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3fb46a5386feb3b2",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "8 11/16 \u00d7 13\" (22.1 \u00d7 33 cm)",
+            "Credit": "Purchase and gift of Barbara Schwartz in memory of Eugene M. Schwartz",
+            "Object number": "833.2007",
+            "Copyright": "\u00a9 The Estate of Garry Winogrand, courtesy Fraenkel Gallery",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/6399"
+    },
+    {
+        "Artist": "Garry Winogrand",
+        "Title": "Untitled from Women are Beautiful",
+        "Year": "1966",
+        "ObjectID": "111118",
+        "Work": "https://www.moma.org/collection/works/111118",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5Mjk2NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6979d0d8223f76ca",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "8 7/8 \u00d7 13 1/16\" (22.5 \u00d7 33.1 cm)",
+            "Credit": "Purchase and gift of Barbara Schwartz in memory of Eugene M. Schwartz",
+            "Object number": "837.2007",
+            "Copyright": "\u00a9 The Estate of Garry Winogrand, courtesy Fraenkel Gallery",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/6399"
+    },
+    {
+        "Artist": "Garry Winogrand",
+        "Title": "Central Park, New York City",
+        "Year": "1966",
+        "ObjectID": "111174",
+        "Work": "https://www.moma.org/collection/works/111174",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNDA5NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2197b1eabb7ee873",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "9 1/8 \u00d7 13 3/8\" (23.1 \u00d7 33.9 cm)",
+            "Credit": "Purchase",
+            "Object number": "743.2007",
+            "Copyright": "\u00a9 The Estate of Garry Winogrand, courtesy Fraenkel Gallery",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/6399"
+    },
+    {
+        "Artist": "Robert Wittmann",
+        "Title": "Z Prostredi Tiskarny",
+        "Year": "1964-66",
+        "ObjectID": "193176",
+        "Work": "https://www.moma.org/collection/works/193176",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMyMzc0NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1c3870edc3a4db6c",
+        "Details": {
+            "Medium": "Artist's book",
+            "Dimensions": "12 1/16 \u00d7 8 11/16\" (30.7 \u00d7 22 cm)",
+            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
+            "Object number": "3560.2008",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/48124"
+    },
+    {
+        "Artist": "Robert Wittmann",
+        "Title": "NB",
+        "Year": "1966",
+        "ObjectID": "193177",
+        "Work": "https://www.moma.org/collection/works/193177",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMyMzgwOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b9eb8141661578cf",
+        "Details": {
+            "Medium": "Artist's book",
+            "Dimensions": "10 1/4 \u00d7 7 1/2\" (26 \u00d7 19 cm)",
+            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
+            "Object number": "3561.2008",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/48124"
+    },
+    {
+        "Artist": "Emerson Woelffer",
+        "Title": "Untitled",
+        "Year": "1966",
+        "ObjectID": "77689",
+        "Work": "https://www.moma.org/collection/works/77689",
+        "Thumbnail": null,
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "4 x 9\" (10.2 x 22.9 cm)",
-            "Credit": "Gift of Don Goeman",
-            "Object number": "1058.2011",
-            "Copyright": "\u00a9 2023 Eliza Brownjohn",
-            "Department": "Architecture and Design"
+            "Dimensions": "composition and sheet: 30 7/16 \u00d7 22 3/8\" (77.3 \u00d7 56.9 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1869.1967",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/816"
+        "Profile": "https://www.moma.org/artists/6422"
     },
     {
-        "Artist": "Robert Brownjohn",
-        "Title": "Barbara Allison Ruth Norman Steven Emiel Christmas Card",
-        "Year": "1950s",
-        "ObjectID": "154511",
-        "Work": "https://www.moma.org/collection/works/154511",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNjcyMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e150936ff0e47873",
+        "Artist": "Helena (Mie Yuan Wong) Wong",
+        "Title": "Matinal",
+        "Year": "1966",
+        "ObjectID": "38753",
+        "Work": "https://www.moma.org/collection/works/38753",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Pencil and colored inks on cardboard",
+            "Dimensions": "18 7/8 x 27 1/4\" (48.0 x 68.9 cm)",
+            "Credit": "Given anonymously",
+            "Object number": "2119.1967.a-b",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6434"
+    },
+    {
+        "Artist": "Tadanori Yokoo",
+        "Title": "Asahi Beer",
+        "Year": "1966",
+        "ObjectID": "6221",
+        "Work": "https://www.moma.org/collection/works/6221",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxOTQxNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7e4ce1d3f3594512",
+        "Details": {
+            "Medium": "Poster; product advertisement",
+            "Dimensions": "40 1/2 x 28 5/8\" (102.1 x 72.8 cm)",
+            "Credit": "Gift of Porter McCray",
+            "Object number": "317.1966",
+            "Copyright": "\u00a9 2023 Tadanori Yokoo",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/6502"
+    },
+    {
+        "Artist": "Tadanori Yokoo",
+        "Title": "The Rose-Colored Dance, A La Maison De M. Civecawa (Poster for a performance by Tatsumi Hijikata's butoh dance company)",
+        "Year": "1966",
+        "ObjectID": "6226",
+        "Work": "https://www.moma.org/collection/works/6226",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxOTQxNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a7a65ad734b6965e",
+        "Details": {
+            "Medium": "Silkscreen",
+            "Dimensions": "41 x 29\" (103.8 x 72.8 cm)",
+            "Credit": "Gift of Porter McCray",
+            "Object number": "318.1966",
+            "Copyright": "\u00a9 2023 Tadanori Yokoo",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/6502"
+    },
+    {
+        "Artist": "Tadanori Yokoo",
+        "Title": "Poetry By Mutsuo Takahashi",
+        "Year": "1966",
+        "ObjectID": "6231",
+        "Work": "https://www.moma.org/collection/works/6231",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxOTQxNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2ee88160b8eb63b5",
+        "Details": {
+            "Medium": "Silkscreen",
+            "Dimensions": "43 x 30 7/8\" (109.1 x 78.3 cm)",
+            "Credit": "Gift of Porter McCray",
+            "Object number": "319.1966",
+            "Copyright": "\u00a9 2023 Tadanori Yokoo",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/6502"
+    },
+    {
+        "Artist": "Tadanori Yokoo",
+        "Title": "16th Exhibition Of Japan Advertising Artists Club",
+        "Year": "c. 1956-66",
+        "ObjectID": "7942",
+        "Work": "https://www.moma.org/collection/works/7942",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxOTQ3OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e3afc2812e734df6",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "4 x 9\" (10.2 x 22.9 cm)",
-            "Credit": "Gift of Don Goeman",
-            "Object number": "1059.2011",
-            "Copyright": "\u00a9 2023 Eliza Brownjohn",
+            "Dimensions": "29 1/8 x 20 5/8\" (72 x 50.8 cm)",
+            "Credit": "Gift of the designer",
+            "Object number": "691.1966",
+            "Copyright": "\u00a9 2023 Tadanori Yokoo",
             "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/816"
+        "Profile": "https://www.moma.org/artists/6502"
     },
     {
-        "Artist": "Robert Brownjohn",
-        "Title": "Season's Greetings",
-        "Year": "1950s",
-        "ObjectID": "154512",
-        "Work": "https://www.moma.org/collection/works/154512",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNjcyMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=61f29008999057bf",
+        "Artist": "Tadanori Yokoo",
+        "Title": "16th Exhibition of Japan Advertising Artists Club",
+        "Year": "c. 1956-66",
+        "ObjectID": "7944",
+        "Work": "https://www.moma.org/collection/works/7944",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxOTQ4MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=baba111f7e42e798",
         "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "5 3/4 x 8\" (14.6 x 20.3 cm)",
-            "Credit": "Gift of Don Goeman",
-            "Object number": "1060.2011",
-            "Copyright": "\u00a9 2023 Eliza Brownjohn",
+            "Medium": "Photolithograph",
+            "Dimensions": "28 x 20 1/4\" (71.1 x 51.4 cm)",
+            "Credit": "Gift of the designer",
+            "Object number": "692.1966",
+            "Copyright": "\u00a9 2023 Tadanori Yokoo",
             "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/816"
-    },
-    {
-        "Artist": "Robert Brownjohn",
-        "Title": "Pepsi-Cola Christmas Lobby Sculpture",
-        "Year": "1958-1959",
-        "ObjectID": "155254",
-        "Work": "https://www.moma.org/collection/works/155254",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1MDgwOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=aa992516bccfa416",
-        "Details": {
-            "Medium": "Silver-gelatin print",
-            "Dimensions": "10 x 8\" (25.4 x 20.3 cm)",
-            "Credit": "Gift of Don Goeman",
-            "Object number": "SC1107.2011.1",
-            "Copyright": "\u00a9 2023 Eliza Brownjohn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/816"
-    },
-    {
-        "Artist": "Robert Brownjohn",
-        "Title": "Pepsi-Cola Christmas Lobby Sculpture",
-        "Year": "1958-1959",
-        "ObjectID": "155255",
-        "Work": "https://www.moma.org/collection/works/155255",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1MDgwOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c5f61c21d9503d96",
-        "Details": {
-            "Medium": "Silver-gelatin print",
-            "Dimensions": "8 x 10\" (20.3 x 25.4 cm)",
-            "Credit": "Gift of Don Goeman",
-            "Object number": "SC1107.2011.2",
-            "Copyright": "\u00a9 2023 Eliza Brownjohn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/816"
-    },
-    {
-        "Artist": "Robert Brownjohn",
-        "Title": "Pepsi-Cola Christmas Lobby Sculpture",
-        "Year": "1958-1959",
-        "ObjectID": "155256",
-        "Work": "https://www.moma.org/collection/works/155256",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1MDgxMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=765ab3f375673858",
-        "Details": {
-            "Medium": "Silver-gelatin print",
-            "Dimensions": "8 x 10\" (20.3 x 25.4 cm)",
-            "Credit": "Gift of Don Goeman",
-            "Object number": "SC1107.2011.3",
-            "Copyright": "\u00a9 2023 Eliza Brownjohn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/816"
-    },
-    {
-        "Artist": "Robert Brownjohn",
-        "Title": "Pepsi-Cola Christmas Lobby Sculpture",
-        "Year": "1958-1959",
-        "ObjectID": "155257",
-        "Work": "https://www.moma.org/collection/works/155257",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1MDgxMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ff66cc6ab6ad086a",
-        "Details": {
-            "Medium": "Silver-gelatin print",
-            "Dimensions": "8 x 10\" (20.3 x 25.4 cm)",
-            "Credit": "Gift of Don Goeman",
-            "Object number": "SC1107.2011.4",
-            "Copyright": "\u00a9 2023 Eliza Brownjohn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/816"
-    },
-    {
-        "Artist": "Robert Brownjohn",
-        "Title": "Pepsi-Cola Christmas Lobby Sculpture",
-        "Year": "1958-1959",
-        "ObjectID": "155258",
-        "Work": "https://www.moma.org/collection/works/155258",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1MDgxMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9c965547a7a1d34f",
-        "Details": {
-            "Medium": "Silver-gelatin print",
-            "Dimensions": "8 x 10\" (20.3 x 25.4 cm)",
-            "Credit": "Gift of Don Goeman",
-            "Object number": "SC1107.2011.5",
-            "Copyright": "\u00a9 2023 Eliza Brownjohn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/816"
-    },
-    {
-        "Artist": "Robert Brownjohn",
-        "Title": "Pepsi-Cola Christmas Lobby Sculpture",
-        "Year": "1958-1959",
-        "ObjectID": "155259",
-        "Work": "https://www.moma.org/collection/works/155259",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1MDgxMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a91f8d5d56369f2a",
-        "Details": {
-            "Medium": "Silver-gelatin print",
-            "Dimensions": "8 x 10\" (20.3 x 25.4 cm)",
-            "Credit": "Gift of Don Goeman",
-            "Object number": "SC1107.2011.6",
-            "Copyright": "\u00a9 2023 Eliza Brownjohn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/816"
-    },
-    {
-        "Artist": "Robert Brownjohn",
-        "Title": "Pepsi-Cola Christmas Lobby Sculpture",
-        "Year": "1958-1959",
-        "ObjectID": "155260",
-        "Work": "https://www.moma.org/collection/works/155260",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1MDgxNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=02d3f00d004c9d4c",
-        "Details": {
-            "Medium": "Silver-gelatin print",
-            "Dimensions": "8 x 10\" (20.3 x 25.4 cm)",
-            "Credit": "Gift of Don Goeman",
-            "Object number": "SC1107.2011.7",
-            "Copyright": "\u00a9 2023 Eliza Brownjohn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/816"
-    },
-    {
-        "Artist": "Robert Brownjohn",
-        "Title": "Pepsi-Cola Christmas Lobby Sculpture",
-        "Year": "1958-1959",
-        "ObjectID": "155261",
-        "Work": "https://www.moma.org/collection/works/155261",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1MDgxNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=bc8825164582a542",
-        "Details": {
-            "Medium": "Color transparency",
-            "Dimensions": "4 x 5\" (10.2 x 12.7 cm)",
-            "Credit": "Gift of Don Goeman",
-            "Object number": "SC1107.2011.8",
-            "Copyright": "\u00a9 2023 Eliza Brownjohn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/816"
-    },
-    {
-        "Artist": "Robert Brownjohn",
-        "Title": "Pepsi-Cola Christmas Lobby Sculpture",
-        "Year": "1958-1959",
-        "ObjectID": "155262",
-        "Work": "https://www.moma.org/collection/works/155262",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1MDgxNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c4a01c636c4f7e5c",
-        "Details": {
-            "Medium": "Color transparency",
-            "Dimensions": "4 x 5\" (10.2 x 12.7 cm)",
-            "Credit": "Gift of Don Goeman",
-            "Object number": "SC1107.2011.9",
-            "Copyright": "\u00a9 2023 Eliza Brownjohn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/816"
-    },
-    {
-        "Artist": "Robert Brownjohn",
-        "Title": "Pepsi-Cola Christmas Lobby Sculpture",
-        "Year": "1958-1959",
-        "ObjectID": "155263",
-        "Work": "https://www.moma.org/collection/works/155263",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1MDgwMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7d3fcde5fc0ddbf1",
-        "Details": {
-            "Medium": "Color transparency",
-            "Dimensions": "4 x 5\" (10.2 x 12.7 cm)",
-            "Credit": "Gift of Don Goeman",
-            "Object number": "SC1107.2011.10",
-            "Copyright": "\u00a9 2023 Eliza Brownjohn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/816"
-    },
-    {
-        "Artist": "Robert Brownjohn",
-        "Title": "Pepsi-Cola Christmas Lobby Sculpture",
-        "Year": "1958-1959",
-        "ObjectID": "155264",
-        "Work": "https://www.moma.org/collection/works/155264",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1MDgwMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=23acc1eb6fde1dbf",
-        "Details": {
-            "Medium": "Color transparency",
-            "Dimensions": "4 x 5\" (10.2 x 12.7 cm)",
-            "Credit": "Gift of Don Goeman",
-            "Object number": "SC1107.2011.11",
-            "Copyright": "\u00a9 2023 Eliza Brownjohn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/816"
-    },
-    {
-        "Artist": "Robert Brownjohn",
-        "Title": "Pepsi-Cola Christmas Lobby Sculpture",
-        "Year": "1958-1959",
-        "ObjectID": "155265",
-        "Work": "https://www.moma.org/collection/works/155265",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1MDgwMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f6fde12105225af6",
-        "Details": {
-            "Medium": "Color transparency",
-            "Dimensions": "4 x 5\" (10.2 x 12.7 cm)",
-            "Credit": "Gift of Don Goeman",
-            "Object number": "SC1107.2011.12",
-            "Copyright": "\u00a9 2023 Eliza Brownjohn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/816"
-    },
-    {
-        "Artist": "Robert Brownjohn",
-        "Title": "Pepsi-Cola Christmas Lobby Sculpture",
-        "Year": "1958-1959",
-        "ObjectID": "155266",
-        "Work": "https://www.moma.org/collection/works/155266",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1MDgwNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=57e8e9a037cdec66",
-        "Details": {
-            "Medium": "Color negative",
-            "Dimensions": "8 x 10\" (20.3 x 25.4 cm)",
-            "Credit": "Gift of Don Goeman",
-            "Object number": "SC1107.2011.13",
-            "Copyright": "\u00a9 2023 Eliza Brownjohn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/816"
-    },
-    {
-        "Artist": "Robert Brownjohn",
-        "Title": "Pepsi-Cola Christmas Lobby Sculpture",
-        "Year": "1958-1959",
-        "ObjectID": "155267",
-        "Work": "https://www.moma.org/collection/works/155267",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1MDgwNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a4e8b0e6e0256008",
-        "Details": {
-            "Medium": "35mm color slide",
-            "Credit": "Gift of Don Goeman",
-            "Object number": "SC1107.2011.14",
-            "Copyright": "\u00a9 2023 Eliza Brownjohn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/816"
-    },
-    {
-        "Artist": "Robert Brownjohn",
-        "Title": "Pepsi-Cola Christmas Lobby Sculpture",
-        "Year": "1958-1959",
-        "ObjectID": "155268",
-        "Work": "https://www.moma.org/collection/works/155268",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1MDk5MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cc4011a92ad3677b",
-        "Details": {
-            "Medium": "35mm color slide",
-            "Credit": "Gift of Don Goeman",
-            "Object number": "SC1107.2011.15",
-            "Copyright": "\u00a9 2023 Eliza Brownjohn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/816"
-    },
-    {
-        "Artist": "Robert Brownjohn",
-        "Title": "Pepsi-Cola Christmas Lobby Sculpture",
-        "Year": "1958-1959",
-        "ObjectID": "155269",
-        "Work": "https://www.moma.org/collection/works/155269",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1MDk5MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=570698fccfbd7a97",
-        "Details": {
-            "Medium": "35mm color slide",
-            "Credit": "Gift of Don Goeman",
-            "Object number": "SC1107.2011.16",
-            "Copyright": "\u00a9 2023 Eliza Brownjohn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/816"
-    },
-    {
-        "Artist": "Robert Brownjohn",
-        "Title": "Pepsi-Cola Christmas Lobby Sculpture",
-        "Year": "1958-1959",
-        "ObjectID": "155270",
-        "Work": "https://www.moma.org/collection/works/155270",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1MDk5NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a6d436bd3b0b07eb",
-        "Details": {
-            "Medium": "35mm color slide",
-            "Credit": "Gift of Don Goeman",
-            "Object number": "SC1107.2011.17",
-            "Copyright": "\u00a9 2023 Eliza Brownjohn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/816"
-    },
-    {
-        "Artist": "Robert Brownjohn",
-        "Title": "Pepsi-Cola Christmas Lobby Sculpture",
-        "Year": "1958-1959",
-        "ObjectID": "155271",
-        "Work": "https://www.moma.org/collection/works/155271",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1MDgwNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0feb594525a235df",
-        "Details": {
-            "Medium": "35mm color slide",
-            "Credit": "Gift of Don Goeman",
-            "Object number": "SC1107.2011.18",
-            "Copyright": "\u00a9 2023 Eliza Brownjohn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/816"
-    },
-    {
-        "Artist": "Robert Brownjohn",
-        "Title": "Stendig, Inc.",
-        "Year": "1950s",
-        "ObjectID": "155339",
-        "Work": "https://www.moma.org/collection/works/155339",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNTI2NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=70e209a2bf42b4f7",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "10 7/8 x 8 3/8\" (27.6 x 21.3 cm)",
-            "Credit": "Gift of Don Goeman",
-            "Object number": "1054.2011.1",
-            "Copyright": "\u00a9 2023 Eliza Brownjohn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/816"
-    },
-    {
-        "Artist": "Robert Brownjohn",
-        "Title": "Stendig, Inc.",
-        "Year": "1950s",
-        "ObjectID": "155340",
-        "Work": "https://www.moma.org/collection/works/155340",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNTI2NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=95ae3adab9771468",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "10 7/8 x 8 3/8\" (27.6 x 21.3 cm)",
-            "Credit": "Gift of Don Goeman",
-            "Object number": "1054.2011.2",
-            "Copyright": "\u00a9 2023 Eliza Brownjohn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/816"
-    },
-    {
-        "Artist": "Robert Brownjohn",
-        "Title": "Stendig, Inc.",
-        "Year": "1950s",
-        "ObjectID": "155341",
-        "Work": "https://www.moma.org/collection/works/155341",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNTI2OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7ff474c1d1158841",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "10 7/8 x 8 3/8\" (27.6 x 21.3 cm)",
-            "Credit": "Gift of Don Goeman",
-            "Object number": "1054.2011.3",
-            "Copyright": "\u00a9 2023 Eliza Brownjohn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/816"
-    },
-    {
-        "Artist": "Robert Brownjohn",
-        "Title": "Stendig, Inc.",
-        "Year": "1950s",
-        "ObjectID": "155342",
-        "Work": "https://www.moma.org/collection/works/155342",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNTI2OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=55739cac728b3196",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "4 3/16 x 9 1/2\" (10.6 x 24.1 cm)",
-            "Credit": "Gift of Don Goeman",
-            "Object number": "1054.2011.4",
-            "Copyright": "\u00a9 2023 Eliza Brownjohn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/816"
-    },
-    {
-        "Artist": "Robert Brownjohn",
-        "Title": "Drama Festival, Tour to San Juan",
-        "Year": "1959",
-        "ObjectID": "155375",
-        "Work": "https://www.moma.org/collection/works/155375",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNTI5MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2e1b66bdc5290669",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "9 x 3 3/4\" (22.9 x 9.5 cm)",
-            "Credit": "Gift of Don Goeman",
-            "Object number": "1082.2011.1",
-            "Copyright": "\u00a9 2023 Eliza Brownjohn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/816"
-    },
-    {
-        "Artist": "Robert Brownjohn",
-        "Title": "San Juan Drama Festival, Teatro Tapia",
-        "Year": "1959",
-        "ObjectID": "155376",
-        "Work": "https://www.moma.org/collection/works/155376",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNTI5MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=676de03a15747a2b",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "5 1/2 x 1 7/8\" (14 x 4.8 cm)",
-            "Credit": "Gift of Don Goeman",
-            "Object number": "1082.2011.2",
-            "Copyright": "\u00a9 2023 Eliza Brownjohn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/816"
-    },
-    {
-        "Artist": "Robert Brownjohn",
-        "Title": "San Juan Drama Festival, Teatro Tapia",
-        "Year": "1959",
-        "ObjectID": "155377",
-        "Work": "https://www.moma.org/collection/works/155377",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNTI5MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=84178373b3807e24",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "11 x 8 1/2\" (27.9 x 21.6 cm)",
-            "Credit": "Gift of Don Goeman",
-            "Object number": "1082.2011.3",
-            "Copyright": "\u00a9 2023 Eliza Brownjohn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/816"
-    },
-    {
-        "Artist": "Robert Brownjohn",
-        "Title": "San Juan Drama Festival, Teatro Tapia",
-        "Year": "1959",
-        "ObjectID": "155378",
-        "Work": "https://www.moma.org/collection/works/155378",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNTI5NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8cdbe96b15111ac4",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "4 1/8 x 9 1/2\" (10.5 x 24.1 cm)",
-            "Credit": "Gift of Don Goeman",
-            "Object number": "1082.2011.4",
-            "Copyright": "\u00a9 2023 Eliza Brownjohn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/816"
-    },
-    {
-        "Artist": "Robert Brownjohn, Ivan Chermayeff, Thomas Geismar",
-        "Title": "Cover of Harpers Magazine, April 1959",
-        "Year": "1959",
-        "ObjectID": "152861",
-        "Work": "https://www.moma.org/collection/works/152861",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNTI5NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d198286b8f61b658",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "11 x 8 1/4\" (27.9 x 21 cm)",
-            "Credit": "Gift of Don Goeman",
-            "Object number": "1084.2011",
-            "Copyright": "\u00a9 2023 Eliza Brownjohn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/816"
-    },
-    {
-        "Artist": "Robert Brownjohn, Ivan Chermayeff, Thomas Geismar",
-        "Title": "Cover of Pepsi-Cola World, February, 1959",
-        "Year": "1959",
-        "ObjectID": "155353",
-        "Work": "https://www.moma.org/collection/works/155353",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNTI3NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=14bf13988936d8ed",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "11 x 8 1/2\" (27.9 x 21.6 cm)",
-            "Credit": "Gift of Don Goeman",
-            "Object number": "1079.2011.10",
-            "Copyright": "\u00a9 2023 Eliza Brownjohn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/816"
-    },
-    {
-        "Artist": "Robert Brownjohn, Ivan Chermayeff, Thomas Geismar",
-        "Title": "Artist's Proof for the cover of Pepsi-Cola World, March, 1959",
-        "Year": "1959",
-        "ObjectID": "155354",
-        "Work": "https://www.moma.org/collection/works/155354",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNTI3NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0f420c450d1d35fe",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "13 x 9 1/4\" (33 x 23.5 cm)",
-            "Credit": "Gift of Don Goeman",
-            "Object number": "1079.2011.11",
-            "Copyright": "\u00a9 2023 Eliza Brownjohn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/816"
-    },
-    {
-        "Artist": "Robert Brownjohn, Ivan Chermayeff, Thomas Geismar",
-        "Title": "Artist's Proof for the cover of Pepsi-Cola World, April, 1959",
-        "Year": "1959",
-        "ObjectID": "155355",
-        "Work": "https://www.moma.org/collection/works/155355",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNTI3NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0079a1625925eabd",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "11 1/4 x 8 5/8\" (28.6 x 21.9 cm)",
-            "Credit": "Gift of Don Goeman",
-            "Object number": "1079.2011.12",
-            "Copyright": "\u00a9 2023 Eliza Brownjohn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/816"
-    },
-    {
-        "Artist": "Robert Brownjohn, Ivan Chermayeff, Thomas Geismar",
-        "Title": "Cover of Pepsi-Cola World, Summer 1959",
-        "Year": "1959",
-        "ObjectID": "155356",
-        "Work": "https://www.moma.org/collection/works/155356",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNTI3NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=46f07b3d9a03a8d9",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "11 1/8 x 8 1/2\" (28.3 x 21.6 cm)",
-            "Credit": "Gift of Don Goeman",
-            "Object number": "1079.2011.13",
-            "Copyright": "\u00a9 2023 Eliza Brownjohn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/816"
-    },
-    {
-        "Artist": "Robert Brownjohn, Ivan Chermayeff, Thomas Geismar",
-        "Title": "A Return Exhibition of Graphic Design by Brownjohn, Chermayeff & Geismar at Gallery 303, The Composing Room, Inc.",
-        "Year": "1959",
-        "ObjectID": "155372",
-        "Work": "https://www.moma.org/collection/works/155372",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5NjgxNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=94f5a2f088b6e81f",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "27 3/4 x 21 3/4\" (70.5 x 55.2 cm)",
-            "Credit": "Gift of Don Goeman",
-            "Object number": "1081.2011.1",
-            "Copyright": "\u00a9 2023 Eliza Brownjohn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/816"
-    },
-    {
-        "Artist": "Robert Brownjohn, Ivan Chermayeff, Thomas Geismar",
-        "Title": "A Return Exhibition of Graphic Design by Brownjohn, Chermayeff & Geismar at Gallery 303, The Composing Room, Inc.",
-        "Year": "1959",
-        "ObjectID": "155373",
-        "Work": "https://www.moma.org/collection/works/155373",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNjc0NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=88f08eee3515205d",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "4 1/4 x 11\" (10.8 x 27.9 cm)",
-            "Credit": "Gift of Don Goeman",
-            "Object number": "1081.2011.2",
-            "Copyright": "\u00a9 2023 Eliza Brownjohn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/816"
-    },
-    {
-        "Artist": "Robert Brownjohn, Ivan Chermayeff, Thomas Geismar",
-        "Title": "A Return Exhibition of Graphic Design by Brownjohn, Chermayeff & Geismar at Gallery 303, The Composing Room, Inc.",
-        "Year": "1959",
-        "ObjectID": "155374",
-        "Work": "https://www.moma.org/collection/works/155374",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNjc0NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=15720113933c3461",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "8 1/2 x 11\" (21.6 x 27.9 cm)",
-            "Credit": "Gift of Don Goeman",
-            "Object number": "1081.2011.3",
-            "Copyright": "\u00a9 2023 Eliza Brownjohn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/816"
-    },
-    {
-        "Artist": "Robert Brownjohn, Ivan Chermayeff, Thomas Geismar",
-        "Title": "Artist's Proof for the cover of Pepsi-Cola Annual Report, 1959",
-        "Year": "1959",
-        "ObjectID": "155379",
-        "Work": "https://www.moma.org/collection/works/155379",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNTI5NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=faa129213014b9d9",
-        "Details": {
-            "Medium": "Lithographs",
-            "Dimensions": "Each: 11 x 8 1/2\" (27.9 x 21.6 cm)",
-            "Credit": "Gift of Don Goeman",
-            "Object number": "1083.2011.1a-b",
-            "Copyright": "\u00a9 2023 Eliza Brownjohn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/816"
-    },
-    {
-        "Artist": "Robert Brownjohn, Ivan Chermayeff, Thomas Geismar",
-        "Title": "Preparatory Study for the cover of Pepsi-Cola Annual Report, 1959",
-        "Year": "1959",
-        "ObjectID": "155380",
-        "Work": "https://www.moma.org/collection/works/155380",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1MDc2MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=aad0bbb40e9909bc",
-        "Details": {
-            "Medium": "Color film transparency",
-            "Dimensions": "4 x 5\" (10.2 x 12.7 cm)",
-            "Credit": "Gift of Don Goeman",
-            "Object number": "1083.2011.2",
-            "Copyright": "\u00a9 2023 Eliza Brownjohn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/816"
-    },
-    {
-        "Artist": "Robert Brownjohn, Ivan Chermayeff, Thomas Geismar, Raymond Jacobs",
-        "Title": "Raymond Jacobs Photographer",
-        "Year": "1950s",
-        "ObjectID": "155331",
-        "Work": "https://www.moma.org/collection/works/155331",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNTI1NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=80a9427a06644dc8",
-        "Details": {
-            "Collaborating artist": "Raymond Jacobs",
-            "Medium": "Lithograph",
-            "Dimensions": "11 x 8 1/2\" (27.9 x 21.6 cm)",
-            "Credit": "Gift of Don Goeman",
-            "Object number": "1051.2011.1",
-            "Copyright": "\u00a9 2023 Eliza Brownjohn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/816"
-    },
-    {
-        "Artist": "Robert Brownjohn, Ivan Chermayeff, Thomas Geismar, Raymond Jacobs",
-        "Title": "Raymond Jacobs Photographer",
-        "Year": "1950s",
-        "ObjectID": "155332",
-        "Work": "https://www.moma.org/collection/works/155332",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNTI1NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f37df2b90ffed462",
-        "Details": {
-            "Collaborating artist": "Raymond Jacobs",
-            "Medium": "Lithograph",
-            "Dimensions": "4 1/8 x 9 1/2\" (10.5 x 24.1 cm)",
-            "Credit": "Gift of Don Goeman",
-            "Object number": "1051.2011.2",
-            "Copyright": "\u00a9 2023 Eliza Brownjohn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/816"
-    },
-    {
-        "Artist": "Robert Brownjohn, Ivan Chermayeff, Thomas Geismar, Raymond Jacobs",
-        "Title": "Raymond Jacobs Photographer",
-        "Year": "1950s",
-        "ObjectID": "155333",
-        "Work": "https://www.moma.org/collection/works/155333",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNTI1OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=983a1a2c08ef2f5f",
-        "Details": {
-            "Collaborating artist": "Raymond Jacobs",
-            "Medium": "Lithograph",
-            "Dimensions": "3 3/8 x 5\" (8.6 x 12.7 cm)",
-            "Credit": "Gift of Don Goeman",
-            "Object number": "1051.2011.3",
-            "Copyright": "\u00a9 2023 Eliza Brownjohn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/816"
-    },
-    {
-        "Artist": "Robert Brownjohn, Ivan Chermayeff, Thomas Geismar, Raymond Jacobs",
-        "Title": "Raymond Jacobs Photographer",
-        "Year": "1950s",
-        "ObjectID": "155334",
-        "Work": "https://www.moma.org/collection/works/155334",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNTI1OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e430a2fa449e1cb4",
-        "Details": {
-            "Collaborating artist": "Raymond Jacobs",
-            "Medium": "Lithograph",
-            "Dimensions": "9 1/2 x 7\" (24.1 x 17.8 cm)",
-            "Credit": "Gift of Don Goeman",
-            "Object number": "1051.2011.4",
-            "Copyright": "\u00a9 2023 Eliza Brownjohn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/816"
+        "Profile": "https://www.moma.org/artists/6502"
     }
 ]

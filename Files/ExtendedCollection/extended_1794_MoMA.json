@@ -1,771 +1,895 @@
 [
     {
-        "Artist": "Francis Frith",
-        "Title": "Approach to Philae, Egypt",
-        "Year": "1856",
-        "ObjectID": "47354",
-        "Work": "https://www.moma.org/collection/works/47354",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMDY4NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9b9c5dfd2b84626d",
+        "Artist": "Edward Gordon Craig",
+        "Title": "The Storm Scene",
+        "Year": "1920",
+        "ObjectID": "68810",
+        "Work": "https://www.moma.org/collection/works/68810",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MDY0MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9c4a0cc121a1b497",
         "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "7 1/8 \u00d7 10\" (18.1 \u00d7 25.4 cm)",
+            "Medium": "Woodcut",
+            "Dimensions": "composition (irreg.): 6 1/2 x 6 3/16\" (16.5 x 15.7 cm); sheet (irreg.): 9 1/8 x 6 13/16\" (23.2 x 17.3 cm)",
+            "Credit": "Joanne M. Stern Fund",
+            "Object number": "421.1977",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1287"
+    },
+    {
+        "Artist": "Jean Crotti",
+        "Title": "The Infinite Staircase",
+        "Year": "1920",
+        "ObjectID": "38193",
+        "Work": "https://www.moma.org/collection/works/38193",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Gouache, ink, pencil, and metallic paint on paper",
+            "Dimensions": "23 3/4 x 19 3/4\" (60.3 x 50.2 cm)",
+            "Credit": "The Riklis Collection of McCrory Corporation",
+            "Object number": "867.1983",
+            "Copyright": "\u00a9 2023 Jean Crotti / Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/8301"
+    },
+    {
+        "Artist": "Imogen Cunningham",
+        "Title": "Agave Design I",
+        "Year": "1920",
+        "ObjectID": "420832",
+        "Work": "https://www.moma.org/collection/works/420832",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ5NTAzOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ea0121eb128f38c2",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "12 7/8 \u00d7 9 13/16\" (32.7 \u00d7 24.9 cm)",
+            "Credit": "Gift of Helen Kornblum in honor of Roxana Marcoci",
+            "Object number": "14.2021",
+            "Copyright": "\u00a9 2023 Estate of Imogen Cunningham",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/1332"
+    },
+    {
+        "Artist": "Carl Otto Czeschka",
+        "Title": "Die Nibelungen (The Nibelungs)",
+        "Year": "(1920)",
+        "ObjectID": "9561",
+        "Work": "https://www.moma.org/collection/works/9561",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyOTY0OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9b9d561ce0808e7b",
+        "Details": {
+            "Author": "Franz Keim",
+            "Medium": "Illustrated book with eight double-page line block reproductions",
+            "Dimensions": "page (each): 5 1/2 x 5 5/16\" (14 x 13.5 cm); overall: 5 7/8 x 5 3/8 x 9/16\" (15 x 13.6 x 1.4 cm)",
+            "Publisher": "Gerlach & Wiedling, Vienna and Leipzig",
+            "Printer": "Christoph Reisser's S\u00f6hne, Vienna",
+            "Edition": "unknown",
+            "Credit": "Gift of Walter Bareiss",
+            "Object number": "22.1981.1-8",
+            "Type": "Illustrated Book",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1348"
+    },
+    {
+        "Artist": "Carl Otto Czeschka",
+        "Title": "Untitled from Die Nibelungen (The Nibelungs)",
+        "Year": "(1920)",
+        "ObjectID": "144781",
+        "Work": "https://www.moma.org/collection/works/144781",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzOTA5MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=82b7c841d1be70ac",
+        "Details": {
+            "Author": "Franz Keim",
+            "Medium": "Double-page line block reproduction from an illustrated book with eight double-page line block reproductions",
+            "Dimensions": "page (each): 5 1/2 x 5 5/16\" (14 x 13.5 cm); overall: 5 7/8 x 5 3/8 x 9/16\" (15 x 13.6 x 1.4 cm)",
+            "Publisher": "Gerlach & Wiedling, Vienna and Leipzig",
+            "Printer": "Christoph Reisser's S\u00f6hne, Vienna",
+            "Edition": "unknown",
+            "Credit": "Gift of Walter Bareiss",
+            "Object number": "22.1981.1",
+            "Illustrated book": "Die Nibelungen (The Nibelungs)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1348"
+    },
+    {
+        "Artist": "Carl Otto Czeschka",
+        "Title": "Untitled from Die Nibelungen (The Nibelungs)",
+        "Year": "(1920)",
+        "ObjectID": "144782",
+        "Work": "https://www.moma.org/collection/works/144782",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzOTA5MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2976f733ae7514ba",
+        "Details": {
+            "Author": "Franz Keim",
+            "Medium": "Double-page line block reproduction",
+            "Dimensions": "page (each): 5 1/2 x 5 5/16\" (14 x 13.5 cm); overall: 5 7/8 x 5 3/8 x 9/16\" (15 x 13.6 x 1.4 cm)",
+            "Publisher": "Gerlach & Wiedling, Vienna and Leipzig",
+            "Printer": "Christoph Reisser's S\u00f6hne, Vienna",
+            "Edition": "unknown",
+            "Credit": "Gift of Walter Bareiss",
+            "Object number": "22.1981.2",
+            "Illustrated book": "Die Nibelungen (The Nibelungs)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1348"
+    },
+    {
+        "Artist": "Carl Otto Czeschka",
+        "Title": "Untitled from Die Nibelungen (The Nibelungs)",
+        "Year": "(1920)",
+        "ObjectID": "144783",
+        "Work": "https://www.moma.org/collection/works/144783",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzOTA5NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b42f5997d02dc285",
+        "Details": {
+            "Author": "Franz Keim",
+            "Medium": "Double-page line block reproduction from an illustrated book with eight double-page line block reproductions",
+            "Dimensions": "page (each): 5 1/2 x 5 5/16\" (14 x 13.5 cm); overall: 5 7/8 x 5 3/8 x 9/16\" (15 x 13.6 x 1.4 cm)",
+            "Publisher": "Gerlach & Wiedling, Vienna and Leipzig",
+            "Printer": "Christoph Reisser's S\u00f6hne, Vienna",
+            "Edition": "unknown",
+            "Credit": "Gift of Walter Bareiss",
+            "Object number": "22.1981.3",
+            "Illustrated book": "Die Nibelungen (The Nibelungs)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1348"
+    },
+    {
+        "Artist": "Carl Otto Czeschka",
+        "Title": "Untitled from Die Nibelungen (The Nibelungs)",
+        "Year": "(1920)",
+        "ObjectID": "144784",
+        "Work": "https://www.moma.org/collection/works/144784",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzOTA5OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=72d6b9f793b0fbfb",
+        "Details": {
+            "Author": "Franz Keim",
+            "Medium": "Double-page line block reproduction from an illustrated book with eight double-page line block reproductions",
+            "Dimensions": "page (each): 5 1/2 x 5 5/16\" (14 x 13.5 cm); overall: 5 7/8 x 5 3/8 x 9/16\" (15 x 13.6 x 1.4 cm)",
+            "Publisher": "Gerlach & Wiedling, Vienna and Leipzig",
+            "Printer": "Christoph Reisser's S\u00f6hne, Vienna",
+            "Edition": "unknown",
+            "Credit": "Gift of Walter Bareiss",
+            "Object number": "22.1981.4",
+            "Illustrated book": "Die Nibelungen (The Nibelungs)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1348"
+    },
+    {
+        "Artist": "Carl Otto Czeschka",
+        "Title": "Untitled from Die Nibelungen (The Nibelungs)",
+        "Year": "(1920)",
+        "ObjectID": "144785",
+        "Work": "https://www.moma.org/collection/works/144785",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzOTEwMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ba3dba96e173adb2",
+        "Details": {
+            "Author": "Franz Keim",
+            "Medium": "Double-page line block reproduction from an illustrated book with eight double-page line block reproductions",
+            "Dimensions": "page (each): 5 1/2 x 5 5/16\" (14 x 13.5 cm); overall: 5 7/8 x 5 3/8 x 9/16\" (15 x 13.6 x 1.4 cm)",
+            "Publisher": "Gerlach & Wiedling, Vienna and Leipzig",
+            "Printer": "Christoph Reisser's S\u00f6hne, Vienna",
+            "Edition": "unknown",
+            "Credit": "Gift of Walter Bareiss",
+            "Object number": "22.1981.5",
+            "Illustrated book": "Die Nibelungen (The Nibelungs)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1348"
+    },
+    {
+        "Artist": "Carl Otto Czeschka",
+        "Title": "Untitled from Die Nibelungen (The Nibelungs)",
+        "Year": "(1920)",
+        "ObjectID": "144786",
+        "Work": "https://www.moma.org/collection/works/144786",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzOTM2NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8670ef6db2cf77ea",
+        "Details": {
+            "Author": "Franz Keim",
+            "Medium": "Double-page line block reproduction from an illustrated book with eight double-page line block reproductions",
+            "Dimensions": "page (each): 5 1/2 x 5 5/16\" (14 x 13.5 cm); overall: 5 7/8 x 5 3/8 x 9/16\" (15 x 13.6 x 1.4 cm)",
+            "Publisher": "Gerlach & Wiedling, Vienna and Leipzig",
+            "Printer": "Christoph Reisser's S\u00f6hne, Vienna",
+            "Edition": "unknown",
+            "Credit": "Gift of Walter Bareiss",
+            "Object number": "22.1981.6",
+            "Illustrated book": "Die Nibelungen (The Nibelungs)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1348"
+    },
+    {
+        "Artist": "Carl Otto Czeschka",
+        "Title": "Untitled from Die Nibelungen (The Nibelungs)",
+        "Year": "(1920)",
+        "ObjectID": "144787",
+        "Work": "https://www.moma.org/collection/works/144787",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzOTM2OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e166a9f0dac9419d",
+        "Details": {
+            "Author": "Franz Keim",
+            "Medium": "Double-page line block reproduction from an illustrated book with eight double-page line block reproductions",
+            "Dimensions": "page (each): 5 1/2 x 5 5/16\" (14 x 13.5 cm); overall: 5 7/8 x 5 3/8 x 9/16\" (15 x 13.6 x 1.4 cm)",
+            "Publisher": "Gerlach & Wiedling, Vienna and Leipzig",
+            "Printer": "Christoph Reisser's S\u00f6hne, Vienna",
+            "Edition": "unknown",
+            "Credit": "Gift of Walter Bareiss",
+            "Object number": "22.1981.7",
+            "Illustrated book": "Die Nibelungen (The Nibelungs)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1348"
+    },
+    {
+        "Artist": "Carl Otto Czeschka",
+        "Title": "Untitled from Die Nibelungen (The Nibelungs)",
+        "Year": "(1920)",
+        "ObjectID": "144788",
+        "Work": "https://www.moma.org/collection/works/144788",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzOTM3MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=04dbda58f4f4d5ec",
+        "Details": {
+            "Author": "Franz Keim",
+            "Medium": "Double-page line block reproduction from an illustrated book with eight double-page line block reproductions",
+            "Dimensions": "page (each): 5 1/2 x 5 5/16\" (14 x 13.5 cm); overall: 5 7/8 x 5 3/8 x 9/16\" (15 x 13.6 x 1.4 cm)",
+            "Publisher": "Gerlach & Wiedling, Vienna and Leipzig",
+            "Printer": "Christoph Reisser's S\u00f6hne, Vienna",
+            "Edition": "unknown",
+            "Credit": "Gift of Walter Bareiss",
+            "Object number": "22.1981.8",
+            "Illustrated book": "Die Nibelungen (The Nibelungs)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1348"
+    },
+    {
+        "Artist": "Arthur B. Davies",
+        "Title": "Nude",
+        "Year": "(c. 1920)",
+        "ObjectID": "33373",
+        "Work": "https://www.moma.org/collection/works/33373",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Crayon and gouache on colored paper",
+            "Dimensions": "14 3/4 x 10 7/8\" (37.4 x 27.6 cm)",
+            "Credit": "The Joan and Lester Avnet Collection",
+            "Object number": "28.1978",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1402"
+    },
+    {
+        "Artist": "Arthur B. Davies",
+        "Title": "Afternoon",
+        "Year": "1920",
+        "ObjectID": "72375",
+        "Work": "https://www.moma.org/collection/works/72375",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2Mjk5OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8b586bba13230980",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition: 5 9/16 x 5 3/16\" (14.1 x 13.2cm)",
+            "Printer": "George C. Miller",
+            "Edition": "325 (25 signed)",
+            "Credit": "Given anonymously",
+            "Object number": "641.1943",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1402"
+    },
+    {
+        "Artist": "Arthur B. Davies",
+        "Title": "Dominion",
+        "Year": "1919-20",
+        "ObjectID": "73971",
+        "Work": "https://www.moma.org/collection/works/73971",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MjkxOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=35e9d9be5b0188c5",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition: 12 13/16 x 9 5/8\" (32.6 x 24.5 cm); sheet: 14 1/16 x 11 1/8\" (35.7 x 28.2 cm)",
+            "Publisher": "Weyhe Gallery, New York",
+            "Printer": "Bolton Brown",
+            "Edition": "approx. 33",
+            "Credit": "Gift of Abby Aldrich Rockefeller",
+            "Object number": "771.1940",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1402"
+    },
+    {
+        "Artist": "Arthur B. Davies",
+        "Title": "Summer Interval",
+        "Year": "1919-20",
+        "ObjectID": "74024",
+        "Work": "https://www.moma.org/collection/works/74024",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MzAwMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b7c6b3c80085e2c7",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition: 4 3/16 x 15 7/8\" (10.7 x 40.4cm); plate: 10 3/4 x 15 7/8\" (27.3 x 40.4cm)",
+            "Publisher": "Weyhe Gallery, New York",
+            "Printer": "George C. Miller",
+            "Credit": "Gift of Abby Aldrich Rockefeller",
+            "Object number": "781.1940",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1402"
+    },
+    {
+        "Artist": "Arthur B. Davies",
+        "Title": "Free of Clouds",
+        "Year": "1919-20",
+        "ObjectID": "74107",
+        "Work": "https://www.moma.org/collection/works/74107",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MzAwOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=32ea032155ae325f",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition: 15 1/4 x 11\" (38.8 x 27.9cm); plate: 15 13/16 x 11\" (40.2 x 27.9cm)",
+            "Publisher": "Weyhe Gallery, New York",
+            "Printer": "George C. Miller",
+            "Edition": "approx. 25",
+            "Credit": "Gift of Abby Aldrich Rockefeller",
+            "Object number": "793.1940",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1402"
+    },
+    {
+        "Artist": "Arthur B. Davies",
+        "Title": "Moonlight on the Grassy Bank",
+        "Year": "1920",
+        "ObjectID": "74112",
+        "Work": "https://www.moma.org/collection/works/74112",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MjQ5NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=aad3fea097dccbb7",
+        "Details": {
+            "Medium": "Etching, aquatint, and drypoint with roulette",
+            "Dimensions": "plate: 11 7/8 x 7 7/8\" (30.3 x 19.9 cm)",
+            "Printer": "Ernest Haskell, Frank A. Nankivell",
+            "Edition": "unknown",
+            "Credit": "Gift of Abby Aldrich Rockefeller",
+            "Object number": "794.1940",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1402"
+    },
+    {
+        "Artist": "Arthur B. Davies",
+        "Title": "Orchard of Bounties",
+        "Year": "1919-20",
+        "ObjectID": "74128",
+        "Work": "https://www.moma.org/collection/works/74128",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MzAxMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=46add986fbb99275",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition: 15 1/4 x 10 3/8\" (38.7 x 26.4cm)",
+            "Publisher": "Weyhe Gallery, New York",
+            "Printer": "George C. Miller",
+            "Edition": "approx. 25",
+            "Credit": "Gift of Abby Aldrich Rockefeller",
+            "Object number": "795.1940",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1402"
+    },
+    {
+        "Artist": "Arthur B. Davies",
+        "Title": "Potentia",
+        "Year": "1919-20",
+        "ObjectID": "74158",
+        "Work": "https://www.moma.org/collection/works/74158",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MzAxMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=047a43eaeb8291d5",
+        "Details": {
+            "Medium": "Etching with aquatint",
+            "Dimensions": "plate: 4 1/4 x 10 3/16\" (10.8 x 25.8cm)",
+            "Publisher": "Weyhe Gallery, New York",
+            "Printer": "Ernest Haskell",
+            "Edition": "approx. 20",
+            "Credit": "Gift of Abby Aldrich Rockefeller",
+            "Object number": "798.1940",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1402"
+    },
+    {
+        "Artist": "Arthur B. Davies",
+        "Title": "Queen of Dusk",
+        "Year": "1919-20",
+        "ObjectID": "74169",
+        "Work": "https://www.moma.org/collection/works/74169",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MjQ5NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1d148eb866eee4d8",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition: 8 7/16 x 6 3/16\" (21.4 x 15.7cm); plate: 8 13/16 x 6 3/16\" (22.4 x 15.7cm)",
+            "Publisher": "Weyhe Gallery, New York",
+            "Printer": "Bolton Brown",
+            "Edition": "32",
+            "Credit": "Gift of Abby Aldrich Rockefeller",
+            "Object number": "800.1940",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1402"
+    },
+    {
+        "Artist": "Arthur B. Davies",
+        "Title": "Stir of Shadowed Melodies",
+        "Year": "1919-20",
+        "ObjectID": "74174",
+        "Work": "https://www.moma.org/collection/works/74174",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MjQ5OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=60f35032d1f1a207",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition: 15 1/16 x 9 1/4\" (38.2 x 23.5cm)",
+            "Printer": "George C. Miller",
+            "Credit": "Gift of Abby Aldrich Rockefeller",
+            "Object number": "801.1940",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1402"
+    },
+    {
+        "Artist": "Arthur B. Davies",
+        "Title": "Three Acrobats",
+        "Year": "1919-20",
+        "ObjectID": "74179",
+        "Work": "https://www.moma.org/collection/works/74179",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MjQ5OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6316e4fe3b2f02b0",
+        "Details": {
+            "Medium": "Lithograph",
+            "Publisher": "Weyhe Gallery, New York",
+            "Printer": "George C. Miller",
+            "Edition": "approx. 25",
+            "Credit": "Gift of Abby Aldrich Rockefeller",
+            "Object number": "802.1940",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1402"
+    },
+    {
+        "Artist": "Arthur B. Davies",
+        "Title": "Tragic Figure",
+        "Year": "1919-20",
+        "ObjectID": "74185",
+        "Work": "https://www.moma.org/collection/works/74185",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MjUwMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3b32f1149f294466",
+        "Details": {
+            "Medium": "Etching with aquatint",
+            "Dimensions": "plate: 5 7/8 x 8 7/8\" (15 x 22.5cm)",
+            "Printer": "Ernest Haskell, Frank A. Nankivell",
+            "Edition": "unknown",
+            "Credit": "Gift of Abby Aldrich Rockefeller",
+            "Object number": "803.1940",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1402"
+    },
+    {
+        "Artist": "Arthur B. Davies",
+        "Title": "Bird Men",
+        "Year": "1919-20",
+        "ObjectID": "74212",
+        "Work": "https://www.moma.org/collection/works/74212",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MjUwMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6fc48b9245ebe1b2",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition: 15 7/8 x 11\" (40.3 x 28cm)",
+            "Publisher": "Weyhe Gallery, New York",
+            "Printer": "George C. Miller",
+            "Edition": "approx. 25",
+            "Credit": "Gift of Abby Aldrich Rockefeller",
+            "Object number": "806.1940",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1402"
+    },
+    {
+        "Artist": "Arthur B. Davies",
+        "Title": "Flowers",
+        "Year": "1919-20",
+        "ObjectID": "74238",
+        "Work": "https://www.moma.org/collection/works/74238",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MjUwNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b3cd85f089abd92f",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition: 8 7/8 x 15 7/8\" (22.5 x 40.4cm); plate: 10 5/8 x 15 7/8\" (27 x 40.4cm)",
+            "Publisher": "Weyhe Gallery, New York",
+            "Printer": "George C. Miller",
+            "Edition": "approx. 25",
+            "Credit": "Gift of Abby Aldrich Rockefeller",
+            "Object number": "808.1940",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1402"
+    },
+    {
+        "Artist": "Arthur B. Davies",
+        "Title": "Harvest Festival",
+        "Year": "1919-20",
+        "ObjectID": "74244",
+        "Work": "https://www.moma.org/collection/works/74244",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MjUwNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e3ea62715645eed2",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "plate: 15 7/8 x 10 7/8\" (40.3 x 27.7cm)",
+            "Publisher": "Weyhe Gallery, New York",
+            "Printer": "George C. Miller",
+            "Edition": "approx. 25",
+            "Credit": "Gift of Abby Aldrich Rockefeller",
+            "Object number": "809.1940",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1402"
+    },
+    {
+        "Artist": "Arthur B. Davies",
+        "Title": "Poppy",
+        "Year": "1919-20",
+        "ObjectID": "74267",
+        "Work": "https://www.moma.org/collection/works/74267",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MjUxMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=467f2aad1b834f81",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition: 10 13/16 x 15 3/4\" (27.5 x 40cm); plate: 10 13/16 x 15 15/16\" (27.5 x 40.5cm)",
+            "Publisher": "Weyhe Gallery, New York",
+            "Printer": "George C. Miller",
+            "Edition": "approx. 25",
+            "Credit": "Gift of Abby Aldrich Rockefeller",
+            "Object number": "813.1940",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1402"
+    },
+    {
+        "Artist": "Arthur B. Davies",
+        "Title": "Ships",
+        "Year": "1919-20",
+        "ObjectID": "74273",
+        "Work": "https://www.moma.org/collection/works/74273",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MjUxMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0834b18b5b9cf6ba",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition: 15 11/16 x 10 3/8\" (39.8 x 26.3cm); plate: 15 15/16 x 10 13/16\" (40.5 x 27.4cm)",
+            "Publisher": "Weyhe Gallery, New York",
+            "Printer": "George C. Miller",
+            "Edition": "approx. 25",
+            "Credit": "Gift of Abby Aldrich Rockefeller",
+            "Object number": "814.1940",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1402"
+    },
+    {
+        "Artist": "Arthur B. Davies",
+        "Title": "Toil of Three",
+        "Year": "1919-20",
+        "ObjectID": "74279",
+        "Work": "https://www.moma.org/collection/works/74279",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MjUxMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=52c120d634f27d3e",
+        "Details": {
+            "Medium": "Etching and aquatint with roulette",
+            "Dimensions": "plate: 6 11/16 x 3 3/8\" (17 x 8.6cm)",
+            "Printer": "Ernest Haskell, Frank A. Nankivell",
+            "Edition": "unknown",
+            "Credit": "Gift of Abby Aldrich Rockefeller",
+            "Object number": "815.1940",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1402"
+    },
+    {
+        "Artist": "Arthur B. Davies",
+        "Title": "The Urn",
+        "Year": "1919-20",
+        "ObjectID": "74285",
+        "Work": "https://www.moma.org/collection/works/74285",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MjUxMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5c634d645f85b164",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition: 10 1/16 x 12 1/16\" (25.6 x 30.6cm); plate: 10 15/16 x 15 7/8\" (27.8 x 40.4cm)",
+            "Publisher": "Weyhe Gallery, New York",
+            "Printer": "George C. Miller",
+            "Edition": "approx. 25",
+            "Credit": "Gift of Abby Aldrich Rockefeller",
+            "Object number": "816.1940",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1402"
+    },
+    {
+        "Artist": "Arthur B. Davies",
+        "Title": "Trinket",
+        "Year": "1919-20",
+        "ObjectID": "74314",
+        "Work": "https://www.moma.org/collection/works/74314",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MjUxNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c7333596049f806f",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition: 15 7/8 x 10 15/16\" (40.4 x 27.8cm)",
+            "Publisher": "Weyhe Gallery, New York",
+            "Printer": "George C. Miller",
+            "Edition": "approx. 25",
+            "Credit": "Gift of Abby Aldrich Rockefeller",
+            "Object number": "821.1940",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1402"
+    },
+    {
+        "Artist": "Charles Demuth",
+        "Title": "Stairs, Provincetown",
+        "Year": "1920",
+        "ObjectID": "33563",
+        "Work": "https://www.moma.org/collection/works/33563",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2ODcxMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=586b6eb2ff052496",
+        "Details": {
+            "Medium": "Watercolor and pencil on board",
+            "Dimensions": "23 1/2 x 19 1/2\" (59.7 x 49.5 cm)",
+            "Credit": "Gift of Abby Aldrich Rockefeller",
+            "Object number": "59.1935",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1490"
+    },
+    {
+        "Artist": "Andre Derain",
+        "Title": "Le Calumet",
+        "Year": "1920",
+        "ObjectID": "24251",
+        "Work": "https://www.moma.org/collection/works/24251",
+        "Thumbnail": null,
+        "Details": {
+            "Author": "Andr\u00e9 Salmon",
+            "Medium": "Illustrated book with 61 woodcuts",
+            "Dimensions": "composition (see child records): dimensions vary; page (each): 6 5/16 x 4 15/16\" (16 x 12.5 cm)",
+            "Publisher": "NRF (Nouvelle Revue Fran\u00e7aise), Paris",
+            "Printer": "Coulouma, France",
+            "Edition": "760",
+            "Credit": "The Louis E. Stern Collection",
+            "Object number": "790.1964.1-61",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1500"
+    },
+    {
+        "Artist": "Andre Derain",
+        "Title": "Seated Nude",
+        "Year": "(c. 1920)",
+        "ObjectID": "34602",
+        "Work": "https://www.moma.org/collection/works/34602",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMDM5NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ce7104223555e798",
+        "Details": {
+            "Medium": "Red crayon on paper",
+            "Dimensions": "24 3/8 x 18 1/8\" (61.9 x 46 cm)",
+            "Credit": "Gift of Mrs. Meredith Hare",
+            "Object number": "136.1934",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1500"
+    },
+    {
+        "Artist": "Andre Derain",
+        "Title": "Woman's Head",
+        "Year": "(1920)",
+        "ObjectID": "68499",
+        "Work": "https://www.moma.org/collection/works/68499",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MjgwNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4ff2a5c7f03b7555",
+        "Details": {
+            "Medium": "Drypoint",
+            "Dimensions": "composition: 7 x 5 1/8\" (17.8 x 13 cm); sheet: 12 11/16 x 9 13/16\" (32.2 x 25 cm)",
+            "Publisher": "Kahnweiler, Paris",
+            "Printer": "Galerie Percier",
+            "Credit": "Gift of Peter H. Deitsch",
+            "Object number": "403.1961",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1500"
+    },
+    {
+        "Artist": "Otto Dix",
+        "Title": "Beautiful Mally (Die schone Mally)",
+        "Year": "1920",
+        "ObjectID": "37043",
+        "Work": "https://www.moma.org/collection/works/37043",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExMzQzNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=dc71a6286487ceb1",
+        "Details": {
+            "Medium": "Pencil on paper",
+            "Dimensions": "16 5/8 x 11 7/8\" (42.2 x 30.2 cm)",
+            "Credit": "John S. Newberry Fund",
+            "Object number": "464.1967",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1559"
+    },
+    {
+        "Artist": "Otto Dix",
+        "Title": "Portrait of Violinist Carlo von Rust (Bildnis des Geigers Carlo von Rust)",
+        "Year": "(1920)",
+        "ObjectID": "38377",
+        "Work": "https://www.moma.org/collection/works/38377",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExMzQxNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ce946cd60d7141c6",
+        "Details": {
+            "Medium": "Pencil and watercolor on paper",
+            "Dimensions": "24 1/2 x 19 3/8\" (62.2 x 49.2 cm)",
             "Credit": "Purchase",
-            "Object number": "173.1964",
-            "Department": "Photography"
+            "Object number": "1013.1969",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/2015"
+        "Profile": "https://www.moma.org/artists/1559"
     },
     {
-        "Artist": "John B. Greene",
-        "Title": "El-Kantara Bridge, Constantine",
-        "Year": "1855-1856",
-        "ObjectID": "43997",
-        "Work": "https://www.moma.org/collection/works/43997",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMDE5NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1bbec0d8d163e6bc",
+        "Artist": "Otto Dix",
+        "Title": "Syphilitic (Syphilitiker)",
+        "Year": "1920",
+        "ObjectID": "59608",
+        "Work": "https://www.moma.org/collection/works/59608",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNjQ2MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cbbb90e485e52377",
         "Details": {
-            "Medium": "Salted paper print from a paper negative",
-            "Dimensions": "9 5/16 \u00d7 11 7/8\" (23.7 \u00d7 30.1 cm)",
-            "Credit": "Gift of Jerome Powell",
-            "Object number": "15.1992",
-            "Department": "Photography"
+            "Medium": "Etching",
+            "Dimensions": "plate: 9 3/4 x 8 15/16\" (24.8 x 22.7 cm); sheet: 19 15/16 x 13 3/4\" (50.6 x 34.9 cm)",
+            "Publisher": "Heinar Schilling, Dresdner Verlag, Dresden",
+            "Printer": "Unidentified",
+            "Edition": "proof before the editions of approx. 10 and 20 in the portfolio 5 Etchings (published in 1921)",
+            "Credit": "Blanchette Hooker Rockefeller Fund",
+            "Object number": "3.1974",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/2323"
+        "Profile": "https://www.moma.org/artists/1559"
     },
     {
-        "Artist": "John B. Greene",
-        "Title": "First Cataract of the Nile near Philas",
-        "Year": "1855-1856",
-        "ObjectID": "44021",
-        "Work": "https://www.moma.org/collection/works/44021",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5NzcwMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=597ec71c397bb27f",
+        "Artist": "Otto Dix",
+        "Title": "War Cripples (Kriegskruppel)",
+        "Year": "1920",
+        "ObjectID": "69799",
+        "Work": "https://www.moma.org/collection/works/69799",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzMzMwMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=81c86a04ac1d6d30",
         "Details": {
-            "Medium": "Salted paper print from a paper negative",
-            "Dimensions": "9 3/16 \u00d7 11 3/4\" (23.4 \u00d7 29.9 cm)",
-            "Credit": "Gift of Jerome Powell",
-            "Object number": "17.1992",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/2323"
-    },
-    {
-        "Artist": "John B. Greene",
-        "Title": "Ruins from the Tomb of the Christian, near Cherchell, Algeria",
-        "Year": "1855-56",
-        "ObjectID": "44094",
-        "Work": "https://www.moma.org/collection/works/44094",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5NzcxMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d8a5683276725e11",
-        "Details": {
-            "Medium": "Salted paper print from a paper negative",
-            "Dimensions": "9 3/16 \u00d7 11 11/16\" (23.4 \u00d7 29.7 cm)",
-            "Credit": "Gift of Jerome Powell",
-            "Object number": "22.1984",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/2323"
-    },
-    {
-        "Artist": "John B. Greene",
-        "Title": "Constantine, Algeria",
-        "Year": "1855-56",
-        "ObjectID": "44682",
-        "Work": "https://www.moma.org/collection/works/44682",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMDQxMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1b430766ac6f804e",
-        "Details": {
-            "Medium": "Salted paper print from a waxed-paper negative",
-            "Dimensions": "9 1/8 \u00d7 11 13/16\" (23.2 \u00d7 30 cm)",
-            "Credit": "Gift of Jerome Powell",
-            "Object number": "45.1987",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/2323"
-    },
-    {
-        "Artist": "John B. Greene",
-        "Title": "Cascade d'El-Ourit, Tlemcen, Algeria",
-        "Year": "1855-56",
-        "ObjectID": "44709",
-        "Work": "https://www.moma.org/collection/works/44709",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5Nzc3NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=aa308322033b5b71",
-        "Details": {
-            "Medium": "Salted paper print from a waxed-paper negative",
-            "Dimensions": "9 3/8 \u00d7 12 1/16\" (23.8 \u00d7 30.5 cm)",
-            "Credit": "Gift of Jerome Powell",
-            "Object number": "46.1987",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/2323"
-    },
-    {
-        "Artist": "John B. Greene",
-        "Title": "Encampment by the Tomb of the Christian",
-        "Year": "1855-56",
-        "ObjectID": "47733",
-        "Work": "https://www.moma.org/collection/works/47733",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMDIxOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=275c82ad61d189cf",
-        "Details": {
-            "Medium": "Salted paper print from a waxed-paper negative",
-            "Dimensions": "9 1/4 \u00d7 11 7/8\" (23.1 \u00d7 30.2 cm)",
-            "Credit": "Gift of Jerome Powell",
-            "Object number": "180.1983",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/2323"
-    },
-    {
-        "Artist": "John B. Greene",
-        "Title": "Untitled",
-        "Year": "1855-56",
-        "ObjectID": "48865",
-        "Work": "https://www.moma.org/collection/works/48865",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQwMTE1NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7f017ba245958863",
-        "Details": {
-            "Medium": "Salted paper print from a waxed-paper negative",
-            "Dimensions": "9 1/4 \u00d7 11 5/8\" (23.6 \u00d7 29.6 cm)",
-            "Credit": "Gift of Jerome Powell",
-            "Object number": "219.1986",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/2323"
-    },
-    {
-        "Artist": "John B. Greene",
-        "Title": "Constantine, Algeria",
-        "Year": "1855-56",
-        "ObjectID": "48902",
-        "Work": "https://www.moma.org/collection/works/48902",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5NzcxMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=dbb88bebc5caab2b",
-        "Details": {
-            "Medium": "Salted paper print from a waxed-paper negative",
-            "Dimensions": "9 1/8 \u00d7 11 7/8\" (23.3 \u00d7 30.4 cm)",
-            "Credit": "Gift of Jerome Powell",
-            "Object number": "221.1986",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/2323"
-    },
-    {
-        "Artist": "John B. Greene",
-        "Title": "Statue Fragments, Museum of Cherchell",
-        "Year": "1855-1856",
-        "ObjectID": "51154",
-        "Work": "https://www.moma.org/collection/works/51154",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1Nzk5NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=164a6d9d268524e2",
-        "Details": {
-            "Medium": "Salted paper print from a paper negative",
-            "Dimensions": "11 1/8 \u00d7 9 1/4\" (28.3 \u00d7 23.5 cm)",
-            "Credit": "Gift of Jerome Powell",
-            "Object number": "337.1992",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/2323"
-    },
-    {
-        "Artist": "John B. Greene",
-        "Title": "Untitled",
-        "Year": "1855-56",
-        "ObjectID": "52097",
-        "Work": "https://www.moma.org/collection/works/52097",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMDM3MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a84a178bce3dc45e",
-        "Details": {
-            "Medium": "Salted paper print from a waxed-paper negative",
-            "Dimensions": "9 \u00d7 11 1/2\" (23 \u00d7 29.3 cm)",
-            "Credit": "Gift of Daniel K. Mayers",
-            "Object number": "376.1986",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/2323"
-    },
-    {
-        "Artist": "John B. Greene",
-        "Title": "Untitled",
-        "Year": "1855-56",
-        "ObjectID": "52117",
-        "Work": "https://www.moma.org/collection/works/52117",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMDM3MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=77f81c6bc952378d",
-        "Details": {
-            "Medium": "Salted paper print from a waxed-paper negative",
-            "Dimensions": "9 1/4 \u00d7 11 7/8\" (23.6 \u00d7 30.1 cm)",
-            "Credit": "Gift of Daniel K. Mayers",
-            "Object number": "377.1986",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/2323"
-    },
-    {
-        "Artist": "John B. Greene",
-        "Title": "Untitled",
-        "Year": "1855-56",
-        "ObjectID": "52137",
-        "Work": "https://www.moma.org/collection/works/52137",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMDM3MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=56b22051a7f58fe1",
-        "Details": {
-            "Medium": "Salted paper print from a waxed-paper negative",
-            "Dimensions": "9 1/8 \u00d7 12\" (23.3 \u00d7 30.7 cm)",
-            "Credit": "Gift of Daniel K. Mayers",
-            "Object number": "378.1986",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/2323"
-    },
-    {
-        "Artist": "John B. Greene",
-        "Title": "Untitled",
-        "Year": "1855-56",
-        "ObjectID": "52157",
-        "Work": "https://www.moma.org/collection/works/52157",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMDM3NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1e26f2a1e9dc30ff",
-        "Details": {
-            "Medium": "Salted paper print from a waxed-paper negative",
-            "Dimensions": "9 1/8 \u00d7 11 7/8\" (23.4 \u00d7 30.2 cm)",
-            "Credit": "Gift of Daniel K. Mayers",
-            "Object number": "379.1986",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/2323"
-    },
-    {
-        "Artist": "John B. Greene",
-        "Title": "Aqueduct of Cherchell",
-        "Year": "1855-1856",
-        "ObjectID": "56070",
-        "Work": "https://www.moma.org/collection/works/56070",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMDU0NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e4c192ddcb89cf79",
-        "Details": {
-            "Medium": "Salted paper print from a waxed-paper negative",
-            "Dimensions": "8 11/16 \u00d7 11 13/16\" (22 \u00d7 29.9 cm)",
-            "Credit": "Gift of Daniel K. Mayers",
-            "Object number": "688.1983",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/2323"
-    },
-    {
-        "Artist": "Gustave Le Gray",
-        "Title": "The Great Wave, Sete",
-        "Year": "1856",
-        "ObjectID": "51486",
-        "Work": "https://www.moma.org/collection/works/51486",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5MTcwNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=31b494a0d97b6f94",
-        "Details": {
-            "Medium": "Albumen silver print from glass-plate negatives",
-            "Dimensions": "13 1/4 \u00d7 16 1/4\" (33.6 \u00d7 41.3 cm)",
-            "Credit": "Gift of Paul F. Walter",
-            "Object number": "350.1989",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/3429"
-    },
-    {
-        "Artist": "Henri Le Secq",
-        "Title": "The Red Door, Northern Facade of the Church of Notre Dame",
-        "Year": "c. 1851",
-        "ObjectID": "48396",
-        "Work": "https://www.moma.org/collection/works/48396",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMzM2NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2dba8a5ed9848749",
-        "Details": {
-            "Medium": "Salted paper print from a paper negative",
-            "Dimensions": "12 5/8 \u00d7 9\" (32.3 \u00d7 23.1 cm)",
-            "Credit": "Robert and Joyce Menschel Fund",
-            "Object number": "202.1985",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/3434"
-    },
-    {
-        "Artist": "Nadar (Gaspard-Felix Tournachon)",
-        "Title": "Rossini",
-        "Year": "1856",
-        "ObjectID": "44687",
-        "Work": "https://www.moma.org/collection/works/44687",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNzg0NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9dd8281f53ca5c3d",
-        "Details": {
-            "Medium": "Salted paper print from a glass negative",
-            "Dimensions": "9 1/16 \u00d7 7 3/8\" (23.1 \u00d7 18.7 cm)",
-            "Credit": "Gift of Paul F. Walter",
-            "Object number": "45.1994",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/4196"
-    },
-    {
-        "Artist": "James Robertson",
-        "Title": "La tour des Vents",
-        "Year": "c. 1853-56",
-        "ObjectID": "45978",
-        "Work": "https://www.moma.org/collection/works/45978",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwNzcwOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0edb6ffbfc7199e9",
-        "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "12 1/8 \u00d7 9 15/16\" (30.8 \u00d7 25.2 cm)",
-            "Credit": "Acquired through the generosity of Shirley C. Burden",
-            "Object number": "87.1982",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/4959"
-    },
-    {
-        "Artist": "Louis Rousseau",
-        "Title": "Man and Young Men from the Region of Godthaab (Greenland)",
-        "Year": "1856",
-        "ObjectID": "50937",
-        "Work": "https://www.moma.org/collection/works/50937",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5MzQ2NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=afe93d3ab8c3116c",
-        "Details": {
-            "Medium": "Albumen silver print from a paper negative",
-            "Dimensions": "5 1/2 \u00d7 4 3/16\" (14 \u00d7 10.6 cm)",
-            "Credit": "John Parkinson III Fund",
-            "Object number": "329.1987",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/5057"
-    },
-    {
-        "Artist": "Unidentified",
-        "Title": "Two Men Playing Checkers / Untitled (bug)",
-        "Year": "c. 1851",
-        "ObjectID": "124987",
-        "Work": "https://www.moma.org/collection/works/124987",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUwNzY5OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=112c8cf22c810c45",
-        "Details": {
-            "Medium": "Two Ektachromes",
-            "Dimensions": "(.1): 6 7/8 \u00d7 8 7/8\" (17.5 \u00d7 22.6 cm)\r\n(.2): 7 7/8 \u00d7 9 15/16\" (20 \u00d7 25.3 cm)",
-            "Credit": "Gift of Richard Benson",
-            "Object number": "SC2008.1.270.1-2",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/31589"
-    },
-    {
-        "Artist": "Anna Wharton",
-        "Title": "Phebe A. Hough",
-        "Year": "1856",
-        "ObjectID": "124796",
-        "Work": "https://www.moma.org/collection/works/124796",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUwMjA3OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e33fb8dcb9e8cf0f",
-        "Details": {
-            "Medium": "Silhouette",
-            "Dimensions": "12 1/2 \u00d7 12 5/16\" (31.8 \u00d7 31.3 cm)",
-            "Credit": "Gift of Richard Benson",
-            "Object number": "SC2008.1.79",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/36210"
-    },
-    {
-        "Artist": "John Adams Whipple",
-        "Title": "The Moon",
-        "Year": "1853-54",
-        "ObjectID": "57853",
-        "Work": "https://www.moma.org/collection/works/57853",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MjA5MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2809a84a808e6434",
-        "Details": {
-            "Medium": "Salted paper print",
-            "Dimensions": "7 1/4 \u00d7 6\" (18.4 \u00d7 15.2 cm)",
-            "Credit": "Gift of Warner Communications, Inc.",
-            "Object number": "1195.1979",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/6335"
-    },
-    {
-        "Artist": "Edouard-Denis Baldus",
-        "Title": "Roman Cemetery (Alyscamps Necropolis and Church of St. Honorat, Arles)",
-        "Year": "1853-1855",
-        "ObjectID": "49674",
-        "Work": "https://www.moma.org/collection/works/49674",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwODYzNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=958365bfed74e20d",
-        "Details": {
-            "Medium": "Salted paper print from a paper negative",
-            "Dimensions": "13 1/4 \u00d7 17 1/2\" (33.6 \u00d7 44.5 cm)",
-            "Credit": "Gift of Harriette and Noel Levine and Horace W. Goldsmith Fund through Robert B. Menschel",
-            "Object number": "259.1988",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/308"
-    },
-    {
-        "Artist": "Camille Bernabe",
-        "Title": "Untitled",
-        "Year": "1855?",
-        "ObjectID": "55987",
-        "Work": "https://www.moma.org/collection/works/55987",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMzc3MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=aa618654e70d3e7d",
-        "Details": {
-            "Medium": "Salted paper print from a glass negative",
-            "Dimensions": "10 1/8 \u00d7 7 7/8\" (25.7 \u00d7 20 cm)",
-            "Credit": "Purchased as a gift of Shirley C. Burden",
-            "Object number": "675.1983",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/510"
-    },
-    {
-        "Artist": "Auguste-Rosalie Bisson, Louis-Auguste Bisson",
-        "Title": "Pier, Lintel and Strap Hinge of Vierge Portal, Notre Dame of Paris",
-        "Year": "1850-55",
-        "ObjectID": "43961",
-        "Work": "https://www.moma.org/collection/works/43961",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4Mzg4NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=12faf9d714aa3de5",
-        "Details": {
-            "Collaborating artist": "Louis-Auguste Bisson",
-            "Medium": "Albumen silver print",
-            "Dimensions": "14 5/8 \u00d7 9 13/16\" (37.2 \u00d7 25 cm)",
-            "Credit": "Gift of Mariana Cook and Hans P. Kraus, Jr.",
-            "Object number": "11.1994",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/576"
-    },
-    {
-        "Artist": "Eugene Constant",
-        "Title": "Roman Forum",
-        "Year": "1847-55",
-        "ObjectID": "127197",
-        "Work": "https://www.moma.org/collection/works/127197",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4ODYxOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=df70665264c5220f",
-        "Details": {
-            "Medium": "Salted paper print",
-            "Dimensions": "6 9/16 \u00d7 8 5/8\" (16.6 \u00d7 21.9 cm)",
-            "Credit": "Suzanne Winsberg Collection. Gift of Suzanne Winsberg",
-            "Object number": "519.2009",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/36925"
-    },
-    {
-        "Artist": "Hugh W. Diamond",
-        "Title": "Untitled from the series depicting types of insanity, taken at the Female Department, Surrey County Lunatic Asylum",
-        "Year": "c. 1852-55",
-        "ObjectID": "49346",
-        "Work": "https://www.moma.org/collection/works/49346",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxOTU0MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8d059e2c3862777c",
-        "Details": {
-            "Medium": "Albumen silver print from a glass negative",
-            "Dimensions": "6 1/2 \u00d7 5 5/16\" (16.6 \u00d7 13.5 cm)",
-            "Credit": "Horace W. Goldsmith Fund through Robert B. Menschel",
-            "Object number": "237.1988",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/1524"
-    },
-    {
-        "Artist": "Roger Fenton",
-        "Title": "The Valley of the Shadow of Death",
-        "Year": "April 23, 1855",
-        "ObjectID": "44216",
-        "Work": "https://www.moma.org/collection/works/44216",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4NzM2NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f4b76e08fd75bc4a",
-        "Details": {
-            "Medium": "Salted paper print from a paper negative",
-            "Dimensions": "10 7/16 \u00d7 13 15/16\" (26.5 \u00d7 35.5 cm)",
-            "Credit": "Gift of CameraWorks, Inc.",
-            "Object number": "28.1994",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/1847"
-    },
-    {
-        "Artist": "Roger Fenton",
-        "Title": "General Bosquet and Staff",
-        "Year": "1855",
-        "ObjectID": "45696",
-        "Work": "https://www.moma.org/collection/works/45696",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MTMzOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e5f598b008774e4c",
-        "Details": {
-            "Medium": "Salted paper print from a wet-collodion glass negative",
-            "Dimensions": "6 3/4 \u00d7 6 3/8\" (17.1 \u00d7 16.2 cm)",
-            "Credit": "Gift of John C. Waddell",
-            "Object number": "74.1986",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/1847"
-    },
-    {
-        "Artist": "Roger Fenton",
-        "Title": "A Quiet Day in the Mortar Battery",
-        "Year": "1855",
-        "ObjectID": "45719",
-        "Work": "https://www.moma.org/collection/works/45719",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MTM0MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=db0912c2d2a6c231",
-        "Details": {
-            "Medium": "Salted paper print from a wet-collodion glass negative",
-            "Dimensions": "9 11/16 \u00d7 13 1/4\" (24.6 \u00d7 33.7 cm)",
-            "Credit": "Gift of John C. Waddell",
-            "Object number": "75.1986",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/1847"
-    },
-    {
-        "Artist": "Roger Fenton",
-        "Title": "Elephantine Moa (Dinornis Elephantopus)",
-        "Year": "1854-55",
-        "ObjectID": "45894",
-        "Work": "https://www.moma.org/collection/works/45894",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MTM0OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=bbf0a92747d23b52",
-        "Details": {
-            "Medium": "Salted paper print from a glass negative",
-            "Dimensions": "14 15/16 \u00d7 11 15/16\" (38 \u00d7 30.3 cm)",
-            "Credit": "Gift of Paul F. Walter",
-            "Object number": "83.1988",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/1847"
-    },
-    {
-        "Artist": "Roger Fenton",
-        "Title": "Brigadier General Van Straubenzee and Officers of the Buffs",
-        "Year": "1855",
-        "ObjectID": "51696",
-        "Work": "https://www.moma.org/collection/works/51696",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MTMwMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=54f40b2be7c212c0",
-        "Details": {
-            "Medium": "Salted paper print",
-            "Dimensions": "6 3/4 \u00d7 6 7/8\" (17.2 \u00d7 17.5 cm)",
+            "Medium": "Drypoint",
+            "Dimensions": "plate: 10 3/8 x 15 1/2\" (25.9 x 39.4 cm); sheet: 12 3/4 x 19 9/16\" (32.5 x 49.8 cm)",
+            "Publisher": "Heinar Schilling, Dresdner Verlag, Dresden",
+            "Printer": "Unidentified",
+            "Edition": "15",
             "Credit": "Purchase",
-            "Object number": "358.1977",
-            "Department": "Photography"
+            "Object number": "480.1949",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/1847"
+        "Profile": "https://www.moma.org/artists/1559"
     },
     {
-        "Artist": "Roger Fenton",
-        "Title": "Officers on the Lookout at Cathcart's Hill",
-        "Year": "1855",
-        "ObjectID": "52078",
-        "Work": "https://www.moma.org/collection/works/52078",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MTMxOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5dd623e906eabb57",
+        "Artist": "Otto Dix",
+        "Title": "The Celebrities (Constellation) [Die Prominenten (Konstellation)] from the portfolio Nine Woodcuts (Neun Holzschnitte)",
+        "Year": "1920 (published 1922)",
+        "ObjectID": "70431",
+        "Work": "https://www.moma.org/collection/works/70431",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NzY0MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c41d0309156bd813",
         "Details": {
-            "Medium": "Salted paper print from a glass-plate negative",
-            "Dimensions": "9 \u00d7 13 9/16\" (22.8 \u00d7 34.5 cm)",
-            "Credit": "Joel and Anne Ehrenkranz Fund, The Family of Man Fund, and Purchase",
-            "Object number": "375.1990",
-            "Department": "Photography"
+            "Medium": "Woodcut",
+            "Dimensions": "composition: 9 7/8 x 7 13/16\" (25.1 x 19.9 cm); sheet: 16 5/8 x 13 5/8\" (42.2 x 34.6 cm)",
+            "Publisher": "Heinar Schilling, Dresdner Verlag, Dresden",
+            "Printer": "Unidentified",
+            "Edition": "30; plus few proofs printed by the artist",
+            "Credit": "Given anonymously",
+            "Object number": "520.1951",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Portfolio": "Nine Woodcuts (Neun Holzschnitte)",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/1847"
+        "Profile": "https://www.moma.org/artists/1559"
     },
     {
-        "Artist": "John B. Greene",
-        "Title": "Feet of Ramses III, Medinet Habu",
-        "Year": "1854-55",
-        "ObjectID": "127206",
-        "Work": "https://www.moma.org/collection/works/127206",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MzkxNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cee35f962d937138",
+        "Artist": "Otto Dix",
+        "Title": "Lovers (Liebespaar) from the portfolio Nine Woodcuts (Neun Holzschnitte)",
+        "Year": "(1920), dated 1921, published 1922",
+        "ObjectID": "70446",
+        "Work": "https://www.moma.org/collection/works/70446",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NzY0MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=dabac17fcfa0783f",
         "Details": {
-            "Medium": "Salted paper print",
-            "Dimensions": "7 13/16 \u00d7 11 5/8\" (19.9 \u00d7 29.6 cm)",
-            "Credit": "Suzanne Winsberg Collection. Gift of Suzanne Winsberg",
-            "Object number": "529.2009",
-            "Department": "Photography"
+            "Medium": "Woodcut",
+            "Dimensions": "composition: 9 13/16 x 7 13/16\" (25 x 19.9 cm); sheet (irreg.): 16 9/16 x 13 3/4\" (42 x 35 cm)",
+            "Publisher": "Heinar Schilling, Dresdner Verlag, Dresden",
+            "Printer": "Unidentified",
+            "Edition": "30; plus a few proofs printed by the artist; and an unknown number (approx. 100) in the periodical Das Ey, no. 3 (Fall 1920)",
+            "Credit": "Given anonymously",
+            "Object number": "521.1951",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Portfolio": "Nine Woodcuts (Neun Holzschnitte)",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/2323"
+        "Profile": "https://www.moma.org/artists/1559"
     },
     {
-        "Artist": "Fallon Horne",
-        "Title": "Youth and Age",
-        "Year": "1855",
-        "ObjectID": "50421",
-        "Work": "https://www.moma.org/collection/works/50421",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMzQ1NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e71f811df4b7fa9c",
+        "Artist": "Otto Dix",
+        "Title": "Street (Strasse)",
+        "Year": "1920",
+        "ObjectID": "165894",
+        "Work": "https://www.moma.org/collection/works/165894",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2Mjk3OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=18013877f61abfcb",
         "Details": {
-            "Medium": "Salted paper print from a glass-plate negative",
-            "Dimensions": "6 3/4 \u00d7 5 1/4\" (17.1 \u00d7 13.4 cm)",
-            "Credit": "Gift of Robert Hershkowitz in memory of Samuel J. Wagstaff, Jr.",
-            "Object number": "308.1990",
-            "Department": "Photography"
+            "Medium": "Drypoint",
+            "Dimensions": "plate: 9 3/4 x 8 3/4\" (24.8 x 22.3 cm); sheet (irreg.): 13 9/16 x 12\" (34.4 x 30.5 cm)",
+            "Publisher": "Heinar Schilling, Dresdner Verlag, Dresden",
+            "Printer": "Unidentified",
+            "Edition": "proof before the edition of 20",
+            "Credit": "Deborah Wye Endowment Fund and The Print Associates Fund",
+            "Object number": "67.2013",
+            "Copyright": "\u00a9  2013 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/6978"
+        "Profile": "https://www.moma.org/artists/1559"
     },
     {
-        "Artist": "Jean-Charles Langlois",
-        "Title": "Malakoff Tower, Crimea",
-        "Year": "1855",
-        "ObjectID": "127211",
-        "Work": "https://www.moma.org/collection/works/127211",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MzMyNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=07c2553eafc74599",
+        "Artist": "B. F. Dolbin",
+        "Title": "Diaghileff",
+        "Year": "(1920s)",
+        "ObjectID": "34587",
+        "Work": "https://www.moma.org/collection/works/34587",
+        "Thumbnail": null,
         "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "9 13/16 \u00d7 12 7/16\" (25 \u00d7 31.6 cm)",
-            "Credit": "Suzanne Winsberg Collection. Gift of Suzanne Winsberg",
-            "Object number": "531.2009",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/36932"
-    },
-    {
-        "Artist": "Nadar (Gaspard-Felix Tournachon)",
-        "Title": "Theophile Gautier",
-        "Year": "1855",
-        "ObjectID": "127280",
-        "Work": "https://www.moma.org/collection/works/127280",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MzMyOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=df7d05a7f7bc638f",
-        "Details": {
-            "Medium": "Salted paper print",
-            "Dimensions": "10 1/16 \u00d7 8 3/4\" (25.6 \u00d7 22.2 cm)",
-            "Credit": "Suzanne Winsberg Collection. Gift of Suzanne Winsberg",
-            "Object number": "542.2009",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/4196"
-    },
-    {
-        "Artist": "Nadar (Gaspard-Felix Tournachon), Adrien Tournachon",
-        "Title": "Pierrot Surprised",
-        "Year": "1854-55",
-        "ObjectID": "127287",
-        "Work": "https://www.moma.org/collection/works/127287",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MzMzMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=58c2879764277659",
-        "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "11 1/4 \u00d7 8 3/16\" (28.6 \u00d7 20.8 cm)",
-            "Credit": "Suzanne Winsberg Collection. Gift of Suzanne Winsberg",
-            "Object number": "549.2009",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/4196"
-    },
-    {
-        "Artist": "Charles Negre",
-        "Title": "Horloge Pavilion, Louvre",
-        "Year": "1855",
-        "ObjectID": "52246",
-        "Work": "https://www.moma.org/collection/works/52246",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5ODYzNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3a3e64b41b3def9e",
-        "Details": {
-            "Medium": "Photogravure, printed 1982",
-            "Dimensions": "7 11/16 \u00d7 6 1/8\" (19.6 \u00d7 15.6 cm)",
+            "Medium": "Pencil on paper",
+            "Dimensions": "9 1/4 x 7 1/4\" (23.5 x 18.4 cm)",
             "Credit": "Purchase",
-            "Object number": "383.1983.4",
-            "Department": "Photography"
+            "Object number": "SC135.1944",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/4254"
+        "Profile": "https://www.moma.org/artists/1574"
     },
     {
-        "Artist": "Charles Negre",
-        "Title": "Standing Bag Piper and Seated Italiam Peasant Woman, at the Corner of 21 Quai Bourbon",
-        "Year": "1855",
-        "ObjectID": "52250",
-        "Work": "https://www.moma.org/collection/works/52250",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5ODY0MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cd9302a227f752bb",
+        "Artist": "Arthur Dove",
+        "Title": "Abstraction Untitled",
+        "Year": "c. 1917-20",
+        "ObjectID": "33430",
+        "Work": "https://www.moma.org/collection/works/33430",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjkxMjc5Il0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNTEyeDUxMlx1MDAzZSJdXQ.jpg?sha=fbaf3abff211cadb",
         "Details": {
-            "Medium": "Photogravure, printed 1982",
-            "Dimensions": "6 1/4 \u00d7 4 13/16\" (16.0 \u00d7 12.3 cm)",
-            "Credit": "Purchase",
-            "Object number": "383.1983.8",
-            "Department": "Photography"
+            "Medium": "Charcoal on paper",
+            "Dimensions": "20 1/2 x 17 1/2\" (52 x 43.2 cm)",
+            "Credit": "Gift of The Edward John Noble Foundation",
+            "Object number": "35.1988",
+            "Copyright": "\u00a9 The Estate of Arthur G. Dove, courtesy Terry Dintenfass, lnc.",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/4254"
+        "Profile": "https://www.moma.org/artists/1602"
     },
     {
-        "Artist": "Lord William Parsons, 3rd Earl of Rosse",
-        "Title": "Untitled",
-        "Year": "c. 1850",
-        "ObjectID": "125094",
-        "Work": "https://www.moma.org/collection/works/125094",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ5OTQ2NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=dfa0d745c792d2a1",
+        "Artist": "Carl Theodor Dreyer",
+        "Title": "Praesidenten",
+        "Year": "1920",
+        "ObjectID": "310416",
+        "Work": "https://www.moma.org/collection/works/310416",
+        "Thumbnail": null,
         "Details": {
-            "Medium": "Web press photo offset print [of a drawing]",
-            "Dimensions": "2 15/16 \u00d7 2 13/16\" (7.5 \u00d7 7.2 cm)",
-            "Credit": "Gift of Richard Benson",
-            "Object number": "SC2008.1.266.3",
-            "Department": "Photography"
+            "Object number": "W5817",
+            "Department": "Film"
         },
-        "Profile": "https://www.moma.org/artists/36316"
+        "Profile": "https://www.moma.org/artists/32231"
     },
     {
-        "Artist": "Anton Schranz II",
-        "Title": "Mosque",
-        "Year": "c. 1850",
-        "ObjectID": "48304",
-        "Work": "https://www.moma.org/collection/works/48304",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMzM2NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=64879d8144d269e6",
+        "Artist": "Carl Theodor Dreyer",
+        "Title": "Prastankan (The Parson's Widow)",
+        "Year": "1920",
+        "ObjectID": "310417",
+        "Work": "https://www.moma.org/collection/works/310417",
+        "Thumbnail": null,
         "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "7 3/4 \u00d7 9 3/8\" (19.7 \u00d7 23.8 cm)",
-            "Credit": "Purchase",
-            "Object number": "199.1972",
-            "Department": "Photography"
+            "Object number": "W5818",
+            "Department": "Film"
         },
-        "Profile": "https://www.moma.org/artists/5269"
+        "Profile": "https://www.moma.org/artists/32231"
     },
     {
-        "Artist": "William J. Shew",
-        "Title": "Untitled (Mother and Daughter)",
-        "Year": "c. 1850",
-        "ObjectID": "55417",
-        "Work": "https://www.moma.org/collection/works/55417",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMDM3OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a18dc18e040146fd",
+        "Artist": "Marcel Duchamp",
+        "Title": "Designs for Chessmen",
+        "Year": "c. 1920",
+        "ObjectID": "35308",
+        "Work": "https://www.moma.org/collection/works/35308",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjk3NjY0Il0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNTEyeDUxMlx1MDAzZSJdXQ.jpg?sha=f5c3a00d91411d83",
         "Details": {
-            "Medium": "Daguerreotype",
-            "Dimensions": "2 3/4 \u00d7 2 1/4\" (7 \u00d7 5.7 cm)",
-            "Credit": "Gift of Ludwig Glaeser",
-            "Object number": "589.1971",
-            "Department": "Photography"
+            "Medium": "Ink, pencil, and relief printing on paper",
+            "Dimensions": "8 5/8 x 9\" (21.9 x 22.9 cm) each",
+            "Credit": "Katherine S. Dreier Bequest",
+            "Object number": "215.1953.a-d",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris / Estate of Marcel Duchamp",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/5395"
-    },
-    {
-        "Artist": "Unidentified",
-        "Title": "Propositions de la Russie",
-        "Year": "c. 1850s",
-        "ObjectID": "124733",
-        "Work": "https://www.moma.org/collection/works/124733",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUwMDMwNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c4a47a16866477a1",
-        "Details": {
-            "Medium": "Stone lithograph",
-            "Dimensions": "9 7/16 \u00d7 10 7/8\" (24 \u00d7 27.6 cm)",
-            "Credit": "Gift of Richard Benson",
-            "Object number": "SC2008.1.16",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/31589"
-    },
-    {
-        "Artist": "Unidentified photographer",
-        "Title": "Untitled",
-        "Year": "c. 1850-55",
-        "ObjectID": "45360",
-        "Work": "https://www.moma.org/collection/works/45360",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ2Nzk0OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ebf11b6f143247c7",
-        "Details": {
-            "Medium": "Daguerreotype",
-            "Dimensions": "3 7/16 \u00d7 4 3/4\" (8.7 \u00d7 12.1 cm)",
-            "Credit": "Gift of Celeste Bartos",
-            "Object number": "64.1974",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/8595"
-    },
-    {
-        "Artist": "Unidentified photographer",
-        "Title": "Still Life of Dead Bird",
-        "Year": "early 1850s",
-        "ObjectID": "45408",
-        "Work": "https://www.moma.org/collection/works/45408",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NjI5MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c12444a2e485863f",
-        "Details": {
-            "Medium": "Salted paper print from a paper negative",
-            "Dimensions": "7 1/2 \u00d7 8 3/16\" (19 \u00d7 20.8 cm)",
-            "Credit": "The Family of Man Fund",
-            "Object number": "65.1989",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/8595"
-    },
-    {
-        "Artist": "Unidentified photographer",
-        "Title": "Death Portrait of a Woman Lying On a Bed of Patterned Material",
-        "Year": "c. 1850",
-        "ObjectID": "45540",
-        "Work": "https://www.moma.org/collection/works/45540",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ2Nzk1MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4bd58737e8d2fc7c",
-        "Details": {
-            "Medium": "Daguerreotype",
-            "Dimensions": "2 3/4 \u00d7 2 1/4\" (7.0 \u00d7 5.7 cm)",
-            "Credit": "Gift of Celeste Bartos",
-            "Object number": "69.1974",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/8595"
+        "Profile": "https://www.moma.org/artists/1634"
     }
 ]

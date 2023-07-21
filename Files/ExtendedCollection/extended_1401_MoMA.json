@@ -1,824 +1,956 @@
 [
     {
-        "Artist": "Lucien Aigner",
-        "Title": "Paris Stock Exchange",
-        "Year": "1931",
-        "ObjectID": "53693",
-        "Work": "https://www.moma.org/collection/works/53693",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxOTYwNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=78c8cb948b77a352",
+        "Artist": "Frederic Karoly",
+        "Title": "Rhythm printed textile",
+        "Year": "1947",
+        "ObjectID": "205103",
+        "Work": "https://www.moma.org/collection/works/205103",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUwNzk1NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1070123e46224f0c",
         "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "10 9/16 \u00d7 13 9/16\" (26.8 \u00d7 34.5 cm)",
+            "Manufacturer": "Brunschwig & Fils, New York, NY",
+            "Medium": "Printed linen",
+            "Dimensions": "8 1/4 \u00d7 48\" (21 \u00d7 121.9 cm)",
+            "Credit": "Anonymous gift",
+            "Object number": "999.2016.2",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/62944"
+    },
+    {
+        "Artist": "Frederic Karoly",
+        "Title": "Rhythm printed textile",
+        "Year": "1947",
+        "ObjectID": "205105",
+        "Work": "https://www.moma.org/collection/works/205105",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxMDc2MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a910bc9b6996ece1",
+        "Details": {
+            "Manufacturer": "Brunschwig & Fils, New York, NY",
+            "Medium": "Printed linen",
+            "Dimensions": "72 \u00d7 48 3/4\" (182.9 \u00d7 123.8 cm)",
+            "Credit": "Anonymous gift",
+            "Object number": "999.2016.3",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/62944"
+    },
+    {
+        "Artist": "Kawanishi Hide",
+        "Title": "Interior with Narcissus",
+        "Year": "1947",
+        "ObjectID": "63762",
+        "Work": "https://www.moma.org/collection/works/63762",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNjE3NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7dc39ee7d38cf6a4",
+        "Details": {
+            "Medium": "Woodcut",
+            "Dimensions": "composition: 17 11/16 x 23 9/16\" (44.9 x 59.8cm); sheet: 20 13/16 x 26 7/8\" (52.9 x 68.3cm)",
+            "Edition": "25",
+            "Credit": "Mrs. Bertram Smith Fund",
+            "Object number": "178.1957",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3029"
+    },
+    {
+        "Artist": "Frederick Kiesler",
+        "Title": "Architectural Plan for the Room of Superstitions",
+        "Year": "1947",
+        "ObjectID": "33558",
+        "Work": "https://www.moma.org/collection/works/33558",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3OTM5OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=07586a640ba67421",
+        "Details": {
+            "Medium": "Gouache and ink on paper",
+            "Dimensions": "14 3/4 x 19 3/4\" (37.6 x 50.4 cm)",
+            "Credit": "Kay Sage Tanguy Bequest",
+            "Object number": "57.1965",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3091"
+    },
+    {
+        "Artist": "Frederick Kiesler",
+        "Title": "The Moon-Eye",
+        "Year": "1947",
+        "ObjectID": "33561",
+        "Work": "https://www.moma.org/collection/works/33561",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3OTQwMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=55f49c01ea3b40ba",
+        "Details": {
+            "Medium": "Gouache and ink on paper",
+            "Dimensions": "9 7/8 x 13 1/4\" (25.2 x 33.8 cm)",
+            "Credit": "Kay Sage Tanguy Bequest",
+            "Object number": "58.1965",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3091"
+    },
+    {
+        "Artist": "Frederick Kiesler",
+        "Title": "Marcel Duchamp",
+        "Year": "1947",
+        "ObjectID": "33989",
+        "Work": "https://www.moma.org/collection/works/33989",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyODU5NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=42c6e268839731a9",
+        "Details": {
+            "Medium": "Pencil on eight pieces of paper in wood frame",
+            "Dimensions": "Frame dims: 89 5/8\" x 39 1/8\" x 12 7/8\"",
+            "Credit": "Gift of the D.S. and R.H. Gottesman Foundation",
+            "Object number": "106.1963.a-i",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3091"
+    },
+    {
+        "Artist": "Frederick Kiesler",
+        "Title": "Jean Arp",
+        "Year": "(1947)",
+        "ObjectID": "34002",
+        "Work": "https://www.moma.org/collection/works/34002",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4NjM2OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=191677d85c8065ab",
+        "Details": {
+            "Medium": "Pencil on paper",
+            "Dimensions": "25 5/8 x 19 3/4\" (65.2 x 50.1 cm)",
+            "Credit": "Gift of the D. S. and R. H. Gottesman Foundation",
+            "Object number": "107.1963",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3091"
+    },
+    {
+        "Artist": "Frederick Kiesler",
+        "Title": "Totem for All Religions",
+        "Year": "1947",
+        "ObjectID": "80877",
+        "Work": "https://www.moma.org/collection/works/80877",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxOTkxNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=32942669c7b59e31",
+        "Details": {
+            "Medium": "Wood and rope",
+            "Dimensions": "9' 4 1/4\" x 34 1/8\" x 30 7/8\" (285.1 x 86.6 x 78.4 cm)",
+            "Credit": "Gift of Mr. and Mrs. Armand P. Bartos",
+            "Object number": "45.1971.a-b",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/3091"
+    },
+    {
+        "Artist": "Alfred Kubin",
+        "Title": "Ein neuer Totentanz (A New Dance of Death)",
+        "Year": "1947 (reproduced drawings executed 1938)",
+        "ObjectID": "26788",
+        "Work": "https://www.moma.org/collection/works/26788",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyOTczOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2d49e115178aa270",
+        "Details": {
+            "Author": "with introduction by Werner Wachsmuth",
+            "Medium": "Illustrated book with twenty-four photolithographic reproductions after pen and ink drawings",
+            "Dimensions": "Page: 16 9/16 x 11 5/8\" (42 x 29.5 cm); overall: 16 5/8 x 11 15/16 x 11/16\" (42.3 x 30.3 x 1.7 cm)",
+            "Publisher": "Wiener Verlag, Vienna",
+            "Printer": "Leopold Hoffmann, Vienna",
+            "Edition": "5000 (including a deluxe edition of 150, signed and numbered; and a regular edition of 4850 [this ex.])",
+            "Credit": "The Louis E. Stern Collection",
+            "Object number": "867.1964.1-24",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Type": "Illustrated Book",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3276"
+    },
+    {
+        "Artist": "Alfred Kubin",
+        "Title": "The Comet (Der Komet) from Ein neuer Totentanz (A New Dance of Death)",
+        "Year": "1947 (reproduced drawing executed 1938)",
+        "ObjectID": "144725",
+        "Work": "https://www.moma.org/collection/works/144725",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyOTc0MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b2119cebdbefb63c",
+        "Details": {
+            "Author": "with introduction by Werner Wachsmuth",
+            "Medium": "Photolithographic reproduction after pen and ink drawing",
+            "Dimensions": "Page: 16 9/16 x 11 5/8\" (42 x 29.5 cm); overall: 16 5/8 x 11 15/16 x 11/16\" (42.3 x 30.3 x 1.7 cm)",
+            "Publisher": "Wiener Verlag, Vienna",
+            "Printer": "Leopold Hoffmann, Vienna",
+            "Edition": "5000 (including a deluxe edition of 150, signed and numbered; and a regular edition of 4850 [this ex.])",
+            "Credit": "The Louis E. Stern Collection",
+            "Object number": "867.1964.1",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Illustrated book": "Ein neuer Totentanz (A New Dance of Death)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3276"
+    },
+    {
+        "Artist": "Alfred Kubin",
+        "Title": "Athlete (Athlet) from Ein neuer Totentanz (A New Dance of Death)",
+        "Year": "1947 (reproduced drawing executed 1938)",
+        "ObjectID": "144726",
+        "Work": "https://www.moma.org/collection/works/144726",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyOTc0MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6046540dd8ffdba5",
+        "Details": {
+            "Author": "with introduction by Werner Wachsmuth",
+            "Medium": "Photolithographic reproduction after pen and ink drawing",
+            "Dimensions": "Page: 16 9/16 x 11 5/8\" (42 x 29.5 cm); overall: 16 5/8 x 11 15/16 x 11/16\" (42.3 x 30.3 x 1.7 cm)",
+            "Publisher": "Wiener Verlag, Vienna",
+            "Printer": "Leopold Hoffmann, Vienna",
+            "Edition": "5000 (including a deluxe edition of 150, signed and numbered; and a regular edition of 4850 [this ex.])",
+            "Credit": "The Louis E. Stern Collection",
+            "Object number": "867.1964.2",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Illustrated book": "Ein neuer Totentanz (A New Dance of Death)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3276"
+    },
+    {
+        "Artist": "Alfred Kubin",
+        "Title": "Violinist (Geiger) from Ein neuer Totentanz (A New Dance of Death)",
+        "Year": "1947 (reproduced drawing executed 1938)",
+        "ObjectID": "144727",
+        "Work": "https://www.moma.org/collection/works/144727",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyOTc0MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=613934eb580c2f84",
+        "Details": {
+            "Author": "with introduction by Werner Wachsmuth",
+            "Medium": "Photolithographic reproduction after pen and ink drawing",
+            "Dimensions": "Page: 16 9/16 x 11 5/8\" (42 x 29.5 cm); overall: 16 5/8 x 11 15/16 x 11/16\" (42.3 x 30.3 x 1.7 cm)",
+            "Publisher": "Wiener Verlag, Vienna",
+            "Printer": "Leopold Hoffmann, Vienna",
+            "Edition": "5000 (including a deluxe edition of 150, signed and numbered; and a regular edition of 4850 [this ex.])",
+            "Credit": "The Louis E. Stern Collection",
+            "Object number": "867.1964.3",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Illustrated book": "Ein neuer Totentanz (A New Dance of Death)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3276"
+    },
+    {
+        "Artist": "Alfred Kubin",
+        "Title": "Bankrupt (Bankrott) from Ein neuer Totentanz (A New Dance of Death)",
+        "Year": "1947 (reproduced drawing executed 1938)",
+        "ObjectID": "144728",
+        "Work": "https://www.moma.org/collection/works/144728",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyOTc0MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3300cefe44b36274",
+        "Details": {
+            "Author": "with introduction by Werner Wachsmuth",
+            "Medium": "Photolithographic reproduction after pen and ink drawing",
+            "Dimensions": "Page: 16 9/16 x 11 5/8\" (42 x 29.5 cm); overall: 16 5/8 x 11 15/16 x 11/16\" (42.3 x 30.3 x 1.7 cm)",
+            "Publisher": "Wiener Verlag, Vienna",
+            "Printer": "Leopold Hoffmann, Vienna",
+            "Edition": "5000 (including a deluxe edition of 150, signed and numbered; and a regular edition of 4850 [this ex.])",
+            "Credit": "The Louis E. Stern Collection",
+            "Object number": "867.1964.4",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Illustrated book": "Ein neuer Totentanz (A New Dance of Death)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3276"
+    },
+    {
+        "Artist": "Alfred Kubin",
+        "Title": "Der Tod von Otting (The Death of Otting) from Ein neuer Totentanz (A New Dance of Death)",
+        "Year": "1947 (reproduced drawing executed 1938)",
+        "ObjectID": "144729",
+        "Work": "https://www.moma.org/collection/works/144729",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyOTc1OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0457dd6048467b63",
+        "Details": {
+            "Author": "with introduction by Werner Wachsmuth",
+            "Medium": "Photolithographic reproduction after pen and ink drawing",
+            "Dimensions": "Page: 16 9/16 x 11 5/8\" (42 x 29.5 cm); overall: 16 5/8 x 11 15/16 x 11/16\" (42.3 x 30.3 x 1.7 cm)",
+            "Publisher": "Wiener Verlag, Vienna",
+            "Printer": "Leopold Hoffmann, Vienna",
+            "Edition": "5000 (including a deluxe edition of 150, signed and numbered; and a regular edition of 4850 [this ex.])",
+            "Credit": "The Louis E. Stern Collection",
+            "Object number": "867.1964.5",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Illustrated book": "Ein neuer Totentanz (A New Dance of Death)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3276"
+    },
+    {
+        "Artist": "Alfred Kubin",
+        "Title": "Forbitten Path (Verbotener Weg) from Ein neuer Totentanz (A New Dance of Death)",
+        "Year": "1947 (reproduced drawing executed 1938)",
+        "ObjectID": "144730",
+        "Work": "https://www.moma.org/collection/works/144730",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyOTc1OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ed872d6705a02a6c",
+        "Details": {
+            "Author": "with introduction by Werner Wachsmuth",
+            "Medium": "Photolithographic reproduction after pen and ink drawing",
+            "Dimensions": "Page: 16 9/16 x 11 5/8\" (42 x 29.5 cm); overall: 16 5/8 x 11 15/16 x 11/16\" (42.3 x 30.3 x 1.7 cm)",
+            "Publisher": "Wiener Verlag, Vienna",
+            "Printer": "Leopold Hoffmann, Vienna",
+            "Edition": "5000 (including a deluxe edition of 150, signed and numbered; and a regular edition of 4850 [this ex.])",
+            "Credit": "The Louis E. Stern Collection",
+            "Object number": "867.1964.6",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Illustrated book": "Ein neuer Totentanz (A New Dance of Death)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3276"
+    },
+    {
+        "Artist": "Alfred Kubin",
+        "Title": "Death and the Poor Man (Der Tod und der Arme) from Ein neuer Totentanz (A New Dance of Death)",
+        "Year": "1947 (reproduced drawing executed 1938)",
+        "ObjectID": "144731",
+        "Work": "https://www.moma.org/collection/works/144731",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyOTc2MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f6fabd5042654cea",
+        "Details": {
+            "Author": "with introduction by Werner Wachsmuth",
+            "Medium": "Photolithographic reproduction after pen and ink drawing",
+            "Dimensions": "Page: 16 9/16 x 11 5/8\" (42 x 29.5 cm); overall: 16 5/8 x 11 15/16 x 11/16\" (42.3 x 30.3 x 1.7 cm)",
+            "Publisher": "Wiener Verlag, Vienna",
+            "Printer": "Leopold Hoffmann, Vienna",
+            "Edition": "5000 (including a deluxe edition of 150, signed and numbered; and a regular edition of 4850 [this ex.])",
+            "Credit": "The Louis E. Stern Collection",
+            "Object number": "867.1964.7",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Illustrated book": "Ein neuer Totentanz (A New Dance of Death)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3276"
+    },
+    {
+        "Artist": "Alfred Kubin",
+        "Title": "Brushwood Gatherer (Reisigsammler) from Ein neuer Totentanz (A New Dance of Death)",
+        "Year": "1947 (reproduced drawing executed 1938)",
+        "ObjectID": "144732",
+        "Work": "https://www.moma.org/collection/works/144732",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyOTc2MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=70f26947c1c7297e",
+        "Details": {
+            "Author": "with introduction by Werner Wachsmuth",
+            "Medium": "Photolithographic reproduction after pen and ink drawing",
+            "Dimensions": "Page: 16 9/16 x 11 5/8\" (42 x 29.5 cm); overall: 16 5/8 x 11 15/16 x 11/16\" (42.3 x 30.3 x 1.7 cm)",
+            "Publisher": "Wiener Verlag, Vienna",
+            "Printer": "Leopold Hoffmann, Vienna",
+            "Edition": "5000 (including a deluxe edition of 150, signed and numbered; and a regular edition of 4850 [this ex.])",
+            "Credit": "The Louis E. Stern Collection",
+            "Object number": "867.1964.8",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Illustrated book": "Ein neuer Totentanz (A New Dance of Death)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3276"
+    },
+    {
+        "Artist": "Alfred Kubin",
+        "Title": "Unfall (Accident) from Ein neuer Totentanz (A New Dance of Death)",
+        "Year": "1947 (reproduced drawing executed 1938)",
+        "ObjectID": "144733",
+        "Work": "https://www.moma.org/collection/works/144733",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyOTc2MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=709e4d76f889e185",
+        "Details": {
+            "Author": "with introduction by Werner Wachsmuth",
+            "Medium": "Photolithographic reproduction after pen and ink drawing",
+            "Dimensions": "Page: 16 9/16 x 11 5/8\" (42 x 29.5 cm); overall: 16 5/8 x 11 15/16 x 11/16\" (42.3 x 30.3 x 1.7 cm)",
+            "Publisher": "Wiener Verlag, Vienna",
+            "Printer": "Leopold Hoffmann, Vienna",
+            "Edition": "5000 (including a deluxe edition of 150, signed and numbered; and a regular edition of 4850 [this ex.])",
+            "Credit": "The Louis E. Stern Collection",
+            "Object number": "867.1964.9",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Illustrated book": "Ein neuer Totentanz (A New Dance of Death)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3276"
+    },
+    {
+        "Artist": "Alfred Kubin",
+        "Title": "Butterfly (Schmetterling) from Ein neuer Totentanz (A New Dance of Death)",
+        "Year": "1947 (reproduced drawing executed 1938)",
+        "ObjectID": "144734",
+        "Work": "https://www.moma.org/collection/works/144734",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyOTc2MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6cccd26b13c07198",
+        "Details": {
+            "Author": "with introduction by Werner Wachsmuth",
+            "Medium": "Photolithographic reproduction after pen and ink drawing",
+            "Dimensions": "Page: 16 9/16 x 11 5/8\" (42 x 29.5 cm); overall: 16 5/8 x 11 15/16 x 11/16\" (42.3 x 30.3 x 1.7 cm)",
+            "Publisher": "Wiener Verlag, Vienna",
+            "Printer": "Leopold Hoffmann, Vienna",
+            "Edition": "5000 (including a deluxe edition of 150, signed and numbered; and a regular edition of 4850 [this ex.])",
+            "Credit": "The Louis E. Stern Collection",
+            "Object number": "867.1964.10",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Illustrated book": "Ein neuer Totentanz (A New Dance of Death)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3276"
+    },
+    {
+        "Artist": "Alfred Kubin",
+        "Title": "Ice Skating Rink (Eislaufplatz) from Ein neuer Totentanz (A New Dance of Death)",
+        "Year": "1947 (reproduced drawing executed 1938)",
+        "ObjectID": "144735",
+        "Work": "https://www.moma.org/collection/works/144735",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyOTc2NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ab73edd9c983e375",
+        "Details": {
+            "Author": "with introduction by Werner Wachsmuth",
+            "Medium": "Photolithographic reproduction after pen and ink drawing",
+            "Dimensions": "Page: 16 9/16 x 11 5/8\" (42 x 29.5 cm); overall: 16 5/8 x 11 15/16 x 11/16\" (42.3 x 30.3 x 1.7 cm)",
+            "Publisher": "Wiener Verlag, Vienna",
+            "Printer": "Leopold Hoffmann, Vienna",
+            "Edition": "5000 (including a deluxe edition of 150, signed and numbered; and a regular edition of 4850 [this ex.])",
+            "Credit": "The Louis E. Stern Collection",
+            "Object number": "867.1964.11",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Illustrated book": "Ein neuer Totentanz (A New Dance of Death)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3276"
+    },
+    {
+        "Artist": "Alfred Kubin",
+        "Title": "Acrobats (Akrobaten) from Ein neuer Totentanz (A New Dance of Death)",
+        "Year": "1947 (reproduced drawing executed 1938)",
+        "ObjectID": "144736",
+        "Work": "https://www.moma.org/collection/works/144736",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyOTc2NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=def6159f0c68be7f",
+        "Details": {
+            "Author": "with introduction by Werner Wachsmuth",
+            "Medium": "Photolithographic reproduction after pen and ink drawing",
+            "Dimensions": "Page: 16 9/16 x 11 5/8\" (42 x 29.5 cm); overall: 16 5/8 x 11 15/16 x 11/16\" (42.3 x 30.3 x 1.7 cm)",
+            "Publisher": "Wiener Verlag, Vienna",
+            "Printer": "Leopold Hoffmann, Vienna",
+            "Edition": "5000 (including a deluxe edition of 150, signed and numbered; and a regular edition of 4850 [this ex.])",
+            "Credit": "The Louis E. Stern Collection",
+            "Object number": "867.1964.12",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Illustrated book": "Ein neuer Totentanz (A New Dance of Death)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3276"
+    },
+    {
+        "Artist": "Alfred Kubin",
+        "Title": "Gardener (Gartner) from Ein neuer Totentanz (A New Dance of Death)",
+        "Year": "1947 (reproduced drawing executed 1938)",
+        "ObjectID": "144737",
+        "Work": "https://www.moma.org/collection/works/144737",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyOTc2NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2309f312c9786aa8",
+        "Details": {
+            "Author": "with introduction by Werner Wachsmuth",
+            "Medium": "Photolithographic reproduction after pen and ink drawing",
+            "Dimensions": "Page: 16 9/16 x 11 5/8\" (42 x 29.5 cm); overall: 16 5/8 x 11 15/16 x 11/16\" (42.3 x 30.3 x 1.7 cm)",
+            "Publisher": "Wiener Verlag, Vienna",
+            "Printer": "Leopold Hoffmann, Vienna",
+            "Edition": "5000 (including a deluxe edition of 150, signed and numbered; and a regular edition of 4850 [this ex.])",
+            "Credit": "The Louis E. Stern Collection",
+            "Object number": "867.1964.13",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Illustrated book": "Ein neuer Totentanz (A New Dance of Death)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3276"
+    },
+    {
+        "Artist": "Alfred Kubin",
+        "Title": "Dirne (Prostitute) from Ein neuer Totentanz (A New Dance of Death)",
+        "Year": "1947 (reproduced drawing executed 1938)",
+        "ObjectID": "144738",
+        "Work": "https://www.moma.org/collection/works/144738",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyOTc2NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f4a6f0750852187b",
+        "Details": {
+            "Author": "introduction by Werner Wachsmuth",
+            "Medium": "Photolithographic reproduction after pen and ink drawing",
+            "Dimensions": "Page: 16 9/16 x 11 5/8\" (42 x 29.5 cm); overall: 16 5/8 x 11 15/16 x 11/16\" (42.3 x 30.3 x 1.7 cm)",
+            "Publisher": "Wiener Verlag, Vienna",
+            "Printer": "Leopold Hoffmann, Vienna",
+            "Edition": "5000 (including a deluxe edition of 150, signed and numbered; and a regular edition of 4850 [this ex.])",
+            "Credit": "The Louis E. Stern Collection",
+            "Object number": "867.1964.14",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Illustrated book": "Ein neuer Totentanz (A New Dance of Death)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3276"
+    },
+    {
+        "Artist": "Alfred Kubin",
+        "Title": "Tavern (Kaschemme) from Ein neuer Totentanz (A New Dance of Death)",
+        "Year": "1947 (reproduced drawing executed 1938)",
+        "ObjectID": "144739",
+        "Work": "https://www.moma.org/collection/works/144739",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyOTc2OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=759e5af8076a7c34",
+        "Details": {
+            "Author": "with introduction by Werner Wachsmuth",
+            "Medium": "Photolithographic reproduction after pen and ink drawing",
+            "Dimensions": "Page: 16 9/16 x 11 5/8\" (42 x 29.5 cm); overall: 16 5/8 x 11 15/16 x 11/16\" (42.3 x 30.3 x 1.7 cm)",
+            "Publisher": "Wiener Verlag, Vienna",
+            "Printer": "Leopold Hoffmann, Vienna",
+            "Edition": "5000 (including a deluxe edition of 150, signed and numbered; and a regular edition of 4850 [this ex.])",
+            "Credit": "The Louis E. Stern Collection",
+            "Object number": "867.1964.15",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Illustrated book": "Ein neuer Totentanz (A New Dance of Death)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3276"
+    },
+    {
+        "Artist": "Alfred Kubin",
+        "Title": "Blue Beard's Room (Blaubarts Zimmer) from Ein neuer Totentanz (A New Dance of Death)",
+        "Year": "1947 (reproduced drawing executed 1938)",
+        "ObjectID": "144740",
+        "Work": "https://www.moma.org/collection/works/144740",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyOTc2OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7940d359d7025778",
+        "Details": {
+            "Author": "with introduction by Werner Wachsmuth",
+            "Medium": "Photolithographic reproduction after pen and ink drawing",
+            "Dimensions": "Page: 16 9/16 x 11 5/8\" (42 x 29.5 cm); overall: 16 5/8 x 11 15/16 x 11/16\" (42.3 x 30.3 x 1.7 cm)",
+            "Publisher": "Wiener Verlag, Vienna",
+            "Printer": "Leopold Hoffmann, Vienna",
+            "Edition": "5000 (including a deluxe edition of 150, signed and numbered; and a regular edition of 4850 [this ex.])",
+            "Credit": "The Louis E. Stern Collection",
+            "Object number": "867.1964.16",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Illustrated book": "Ein neuer Totentanz (A New Dance of Death)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3276"
+    },
+    {
+        "Artist": "Alfred Kubin",
+        "Title": "Frozen to Death (Die Erfrorene) from Ein neuer Totentanz (A New Dance of Death)",
+        "Year": "1947 (reproduced drawing executed 1938)",
+        "ObjectID": "144741",
+        "Work": "https://www.moma.org/collection/works/144741",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyOTc3MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b8c73adacab61a39",
+        "Details": {
+            "Author": "with introduction by Werner Wachsmuth",
+            "Medium": "Photolithographic reproduction after pen and ink drawing",
+            "Dimensions": "Page: 16 9/16 x 11 5/8\" (42 x 29.5 cm); overall: 16 5/8 x 11 15/16 x 11/16\" (42.3 x 30.3 x 1.7 cm)",
+            "Publisher": "Wiener Verlag, Vienna",
+            "Printer": "Leopold Hoffmann, Vienna",
+            "Edition": "5000 (including a deluxe edition of 150, signed and numbered; and a regular edition of 4850 [this ex.])",
+            "Credit": "The Louis E. Stern Collection",
+            "Object number": "867.1964.17",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Illustrated book": "Ein neuer Totentanz (A New Dance of Death)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3276"
+    },
+    {
+        "Artist": "Alfred Kubin",
+        "Title": "At the Fishing Pond (Am Fischteich) from Ein neuer Totentanz (A New Dance of Death)",
+        "Year": "1947 (reproduced drawing executed 1938)",
+        "ObjectID": "144742",
+        "Work": "https://www.moma.org/collection/works/144742",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyOTc3MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e80e674215dbb62b",
+        "Details": {
+            "Author": "with introduction by Werner Wachsmuth",
+            "Medium": "Photolithographic reproduction after pen and ink drawing",
+            "Dimensions": "Page: 16 9/16 x 11 5/8\" (42 x 29.5 cm); overall: 16 5/8 x 11 15/16 x 11/16\" (42.3 x 30.3 x 1.7 cm)",
+            "Publisher": "Wiener Verlag, Vienna",
+            "Printer": "Leopold Hoffmann, Vienna",
+            "Edition": "5000 (including a deluxe edition of 150, signed and numbered; and a regular edition of 4850 [this ex.])",
+            "Credit": "The Louis E. Stern Collection",
+            "Object number": "867.1964.18",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Illustrated book": "Ein neuer Totentanz (A New Dance of Death)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3276"
+    },
+    {
+        "Artist": "Alfred Kubin",
+        "Title": "In the Bohemian Forest (Im Bohmerwald) from Ein neuer Totentanz (A New Dance of Death)",
+        "Year": "1947 (reproduced drawing executed 1938)",
+        "ObjectID": "144743",
+        "Work": "https://www.moma.org/collection/works/144743",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyOTc3MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=034cee4055e50b4f",
+        "Details": {
+            "Author": "with introduction by Werner Wachsmuth",
+            "Medium": "Photolithographic reproduction after pen and ink drawing",
+            "Dimensions": "Page: 16 9/16 x 11 5/8\" (42 x 29.5 cm); overall: 16 5/8 x 11 15/16 x 11/16\" (42.3 x 30.3 x 1.7 cm)",
+            "Publisher": "Wiener Verlag, Vienna",
+            "Printer": "Leopold Hoffmann, Vienna",
+            "Edition": "5000 (including a deluxe edition of 150, signed and numbered; and a regular edition of 4850 [this ex.])",
+            "Credit": "The Louis E. Stern Collection",
+            "Object number": "867.1964.19",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Illustrated book": "Ein neuer Totentanz (A New Dance of Death)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3276"
+    },
+    {
+        "Artist": "Alfred Kubin",
+        "Title": "The Photographer (Der Photograph) from Ein neuer Totentanz (A New Dance of Death)",
+        "Year": "1947 (reproduced drawing executed 1938)",
+        "ObjectID": "144744",
+        "Work": "https://www.moma.org/collection/works/144744",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyOTc3MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b61986cd058096d7",
+        "Details": {
+            "Author": "with introduction by Werner Wachsmuth",
+            "Medium": "Photolithographic reproduction after pen and ink drawing",
+            "Dimensions": "Page: 16 9/16 x 11 5/8\" (42 x 29.5 cm); overall: 16 5/8 x 11 15/16 x 11/16\" (42.3 x 30.3 x 1.7 cm)",
+            "Publisher": "Wiener Verlag, Vienna",
+            "Printer": "Leopold Hoffmann, Vienna",
+            "Edition": "5000 (including a deluxe edition of 150, signed and numbered; and a regular edition of 4850 [this ex.])",
+            "Credit": "The Louis E. Stern Collection",
+            "Object number": "867.1964.20",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Illustrated book": "Ein neuer Totentanz (A New Dance of Death)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3276"
+    },
+    {
+        "Artist": "Alfred Kubin",
+        "Title": "Caesar (Casar) from Ein neuer Totentanz (A New Dance of Death)",
+        "Year": "1947 (reproduced drawing executed 1938)",
+        "ObjectID": "144745",
+        "Work": "https://www.moma.org/collection/works/144745",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyOTc4NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=62a317fc12a782d1",
+        "Details": {
+            "Author": "with introduction by Werner Wachsmuth",
+            "Medium": "Photolithographic reproduction after pen and ink drawing",
+            "Dimensions": "Page: 16 9/16 x 11 5/8\" (42 x 29.5 cm); overall: 16 5/8 x 11 15/16 x 11/16\" (42.3 x 30.3 x 1.7 cm)",
+            "Publisher": "Wiener Verlag, Vienna",
+            "Printer": "Leopold Hoffmann, Vienna",
+            "Edition": "5000 (including a deluxe edition of 150, signed and numbered; and a regular edition of 4850 [this ex.])",
+            "Credit": "The Louis E. Stern Collection",
+            "Object number": "867.1964.21",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Illustrated book": "Ein neuer Totentanz (A New Dance of Death)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3276"
+    },
+    {
+        "Artist": "Alfred Kubin",
+        "Title": "Death Coming for the Draftsman (Der Tod holt den Zeichner) from Ein neuer Totentanz (A New Dance of Death)",
+        "Year": "1947 (reproduced drawing executed 1938)",
+        "ObjectID": "144746",
+        "Work": "https://www.moma.org/collection/works/144746",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyOTc4NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e73736b5e7c1902c",
+        "Details": {
+            "Author": "with introduction by Werner Wachsmuth",
+            "Medium": "Photolithographic reproduction after pen and ink drawing",
+            "Dimensions": "Page: 16 9/16 x 11 5/8\" (42 x 29.5 cm); overall: 16 5/8 x 11 15/16 x 11/16\" (42.3 x 30.3 x 1.7 cm)",
+            "Publisher": "Wiener Verlag, Vienna",
+            "Printer": "Leopold Hoffmann, Vienna",
+            "Edition": "5000 (including a deluxe edition of 150, signed and numbered; and a regular edition of 4850 [this ex.])",
+            "Credit": "The Louis E. Stern Collection",
+            "Object number": "867.1964.22",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Illustrated book": "Ein neuer Totentanz (A New Dance of Death)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3276"
+    },
+    {
+        "Artist": "Alfred Kubin",
+        "Title": "The Quick Funeral (Das schnelle Begrabnis) from Ein neuer Totentanz (A New Dance of Death)",
+        "Year": "1947 (reproduced drawing executed 1938)",
+        "ObjectID": "144747",
+        "Work": "https://www.moma.org/collection/works/144747",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyOTc4OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b53641f68c458376",
+        "Details": {
+            "Author": "with introduction by Werner Wachsmuth",
+            "Medium": "Photolithographic reproduction after pen and ink drawing",
+            "Dimensions": "Page: 16 9/16 x 11 5/8\" (42 x 29.5 cm); overall: 16 5/8 x 11 15/16 x 11/16\" (42.3 x 30.3 x 1.7 cm)",
+            "Publisher": "Wiener Verlag, Vienna",
+            "Printer": "Leopold Hoffmann, Vienna",
+            "Edition": "5000 (including a deluxe edition of 150, signed and numbered; and a regular edition of 4850 [this ex.])",
+            "Credit": "The Louis E. Stern Collection",
+            "Object number": "867.1964.23",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Illustrated book": "Ein neuer Totentanz (A New Dance of Death)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3276"
+    },
+    {
+        "Artist": "Alfred Kubin",
+        "Title": "Charon (Charon) from Ein neuer Totentanz (A New Dance of Death)",
+        "Year": "1947 (reproduced drawing executed 1938)",
+        "ObjectID": "144748",
+        "Work": "https://www.moma.org/collection/works/144748",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyOTc4OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=abe61d6b7d7814a2",
+        "Details": {
+            "Author": "with introduction by Werner Wachsmuth",
+            "Medium": "Photolithographic reproduction after pen and ink drawing",
+            "Dimensions": "Page: 16 9/16 x 11 5/8\" (42 x 29.5 cm); overall: 16 5/8 x 11 15/16 x 11/16\" (42.3 x 30.3 x 1.7 cm)",
+            "Publisher": "Wiener Verlag, Vienna",
+            "Printer": "Leopold Hoffmann, Vienna",
+            "Edition": "5000 (including a deluxe edition of 150, signed and numbered; and a regular edition of 4850 [this ex.])",
+            "Credit": "The Louis E. Stern Collection",
+            "Object number": "867.1964.24",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Illustrated book": "Ein neuer Totentanz (A New Dance of Death)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3276"
+    },
+    {
+        "Artist": "Lawrence Kupferman",
+        "Title": "Low Tide Seascape",
+        "Year": "(1947)",
+        "ObjectID": "36177",
+        "Work": "https://www.moma.org/collection/works/36177",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Watercolor, gouache, and ink on paper",
+            "Dimensions": "23 1/4 x 28 7/8\" (59 x 73.6 cm)",
+            "Credit": "Purchase",
+            "Object number": "308.1947",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3300"
+    },
+    {
+        "Artist": "Arnold Lafontant",
+        "Title": "Untitled from 10 Original Woodcuts Signed by the Popular Painters of Haiti (10 Gravures Originales signees par les peintres populaires d'Haiti)",
+        "Year": "1947",
+        "ObjectID": "67332",
+        "Work": "https://www.moma.org/collection/works/67332",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMTQwMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=474d589836a79cb1",
+        "Details": {
+            "Medium": "Woodcut",
+            "Dimensions": "composition: 6 x 6\" (15.2 x 15.2 cm); sheet: 9 15/16 x 7 13/16\" (25.2 x 19.8 cm)",
+            "Publisher": "Editions du Centre d'Art, Port-au-Prince, Haiti",
+            "Printer": "Unidentified, Haiti",
+            "Edition": "150",
+            "Credit": "Inter-American Fund",
+            "Object number": "344.1947.7",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/7736"
+    },
+    {
+        "Artist": "Jacqueline Lamba",
+        "Title": "Plate from Le Surrealisme en 1947",
+        "Year": "1947",
+        "ObjectID": "16025",
+        "Work": "https://www.moma.org/collection/works/16025",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQwMTc3MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a1de20c9cfcec2ce",
+        "Details": {
+            "Author": "edited by Andr\u00e9 Breton, texts by Various Authors",
+            "Medium": "Lithograph from an illustrated book with eighteen lithographs, four etchings (two with aquatint), two woodcuts, one photogravure, and one ready-made object",
+            "Dimensions": "composition (irreg.) and page: 9 7/16 \u00d7 8 1/16\" (23.9 \u00d7 20.5 cm)",
+            "Publisher": "Pierre \u00e0 Feu (Maeght \u00c9diteur), Paris",
+            "Printer": "Mourlot, Paris",
+            "Edition": "950",
+            "Credit": "Henry Church Fund",
+            "Object number": "343.1947.14",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Illustrated book": "Le Surr\u00e9alisme en 1947",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3351"
+    },
+    {
+        "Artist": "Wifredo Lam",
+        "Title": "Plate from Le Surrealisme en 1947",
+        "Year": "1947",
+        "ObjectID": "16042",
+        "Work": "https://www.moma.org/collection/works/16042",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQwMTcyOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=434f908d8e34826c",
+        "Details": {
+            "Author": "edited by Andr\u00e9 Breton, texts by Various Authors",
+            "Medium": "Lithograph from an illustrated book with eighteen lithographs, four etchings (two with aquatint), two woodcuts, one photogravure, and one ready-made object",
+            "Dimensions": "composition (irreg.): 9 5/16 \u00d7 6 7/16\" (23.6 \u00d7 16.3 cm); page: 9 7/16 \u00d7 8\" (24 \u00d7 20.3 cm)",
+            "Publisher": "Pierre \u00e0 Feu (Maeght \u00c9diteur), Paris",
+            "Printer": "Mourlot, Paris",
+            "Edition": "950",
+            "Credit": "Henry Church Fund",
+            "Object number": "343.1947.6",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Illustrated book": "Le Surr\u00e9alisme en 1947",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3349"
+    },
+    {
+        "Artist": "Wifredo Lam",
+        "Title": "Quetzal from Brunidor Portfolio, No. 1",
+        "Year": "1947",
+        "ObjectID": "67275",
+        "Work": "https://www.moma.org/collection/works/67275",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwODc4NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=912abadb1512eb52",
+        "Details": {
+            "Medium": "Lithograph from a portfolio of five etchings (one with engraving) and two lithographs",
+            "Dimensions": "composition: 16 9/16 x 13 1/16\" (42 x 33.1 cm); sheet: 16 9/16 x 13 1/16\" (42 x 33.1 cm)",
+            "Publisher": "Brunidor Editions, New York",
+            "Printer": "Alfred Jones, New York",
+            "Edition": "70",
+            "Credit": "Purchase Fund",
+            "Object number": "342.1947.3",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Portfolio": "Brunidor Portfolio, No. 1",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3349"
+    },
+    {
+        "Artist": "Ed E. Langbein",
+        "Title": "Bowl",
+        "Year": "1936-1947",
+        "ObjectID": "2230",
+        "Work": "https://www.moma.org/collection/works/2230",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNzY4NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=29a0a9677d46b585",
+        "Details": {
+            "Manufacturer": "Langbein, Giftwares Div., Brooklyn, NY",
+            "Medium": "Plastic",
+            "Dimensions": "4 1/4 x 11\" (10.8 x 27.9 cm)",
+            "Credit": "Gift of the manufacturer",
+            "Object number": "126.1948",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/3372"
+    },
+    {
+        "Artist": "Ed E. Langbein",
+        "Title": "Bowl",
+        "Year": "1936-1947",
+        "ObjectID": "2237",
+        "Work": "https://www.moma.org/collection/works/2237",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMDM1NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ae1cc042af714ea3",
+        "Details": {
+            "Manufacturer": "Langbein, Giftwares Div., Brooklyn, NY",
+            "Medium": "Plastic",
+            "Dimensions": "2 1/4 x 5\" (5.7 x 12.7 cm)",
+            "Credit": "Gift of the manufacturer",
+            "Object number": "127.1948",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/3372"
+    },
+    {
+        "Artist": "Clarence John Laughlin",
+        "Title": "The House of the Past",
+        "Year": "1947",
+        "ObjectID": "50779",
+        "Work": "https://www.moma.org/collection/works/50779",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1MTE4MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a9c7d64d39576bda",
+        "Details": {
+            "Medium": "Composite printing",
+            "Dimensions": "13 3/4 \u00d7 10 3/4\" (35.0 \u00d7 27.2 cm)",
+            "Credit": "Purchase",
+            "Object number": "324.1975",
+            "Copyright": "\u00a9 2023 Clarence John Laughlin",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/3406"
+    },
+    {
+        "Artist": "Henri Laurens",
+        "Title": "\u0152uvre Graphique de Henri Laurens",
+        "Year": "1947",
+        "ObjectID": "7276",
+        "Work": "https://www.moma.org/collection/works/7276",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "16 3/4 x 24 1/4\" (42.5 x 61.6cm)",
+            "Printer": "Mourlot, Paris",
+            "Credit": "Gift of Curt Valentin",
+            "Object number": "499.1951",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/3409"
+    },
+    {
+        "Artist": "Gabriel Leveque",
+        "Title": "Untitled from 10 Original Woodcuts Signed by the Popular Painters of Haiti (10 Gravures Originales signees par les peintres populaires d'Haiti)",
+        "Year": "1947",
+        "ObjectID": "67333",
+        "Work": "https://www.moma.org/collection/works/67333",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMzk5MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=472a3d1a407c230c",
+        "Details": {
+            "Medium": "Woodcut",
+            "Dimensions": "composition: 6 x 6\" (15.2 x 15.3 cm); sheet: 9 15/16 x 8 3/16\" (25.2 x 20.8 cm)",
+            "Publisher": "Editions du Centre d'Art, Port-au-Prince, Haiti",
+            "Printer": "Unidentified, Haiti",
+            "Edition": "150",
+            "Credit": "Inter-American Fund",
+            "Object number": "344.1947.8",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/7737"
+    },
+    {
+        "Artist": "Jerome Liebling",
+        "Title": "Union Square, New York City",
+        "Year": "1947",
+        "ObjectID": "54399",
+        "Work": "https://www.moma.org/collection/works/54399",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4ODM3NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=718b27492039194d",
+        "Details": {
+            "Medium": "Gelatin silver print, printed c. 1970",
+            "Dimensions": "10 \u00d7 10 11/16\" (25.4 \u00d7 27.2 cm)",
             "Credit": "The Family of Man Fund",
-            "Object number": "461.1981",
-            "Copyright": "\u00a9 2023 Lucien Aigner",
+            "Object number": "497.1994",
+            "Copyright": "\u00a9 2023 Jerome Liebling",
             "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/87"
+        "Profile": "https://www.moma.org/artists/3549"
     },
     {
-        "Artist": "Laure Albin-Guillot",
-        "Title": "Decorative Photo-Micrographs",
-        "Year": "1931",
-        "ObjectID": "82459",
-        "Work": "https://www.moma.org/collection/works/82459",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjg1NzIyIl0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNTEyeDUxMlx1MDAzZSJdXQ.jpg?sha=c8fb2928de480560",
+        "Artist": "Richard Lippold",
+        "Title": "Five Variations within a Sphere",
+        "Year": "1947",
+        "ObjectID": "81785",
+        "Work": "https://www.moma.org/collection/works/81785",
+        "Thumbnail": null,
         "Details": {
-            "Medium": "20 photogravures, 8 on metallic paper",
-            "Dimensions": "Overall (Book): 16 3/4 \u00d7 14 3/8\" (42.5 \u00d7 36.5 cm)",
-            "Credit": "Gift of Alan Siegel",
-            "Object number": "1580.2001.1-20",
-            "Type": "Portfolio",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/22870"
-    },
-    {
-        "Artist": "Laure Albin-Guillot",
-        "Title": "Segment of Rhinoceros Horn",
-        "Year": "1931",
-        "ObjectID": "82460",
-        "Work": "https://www.moma.org/collection/works/82460",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5NTcyNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=45f49c500fa2c47e",
-        "Details": {
-            "Medium": "Photogravure",
-            "Dimensions": "10 13/16 \u00d7 8 7/16\" (27.5 \u00d7 21.5 cm)",
-            "Credit": "Gift of Alan Siegel",
-            "Object number": "1580.2001.1",
-            "Portfolio": "Decorative Photo-Micrographs",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/22870"
-    },
-    {
-        "Artist": "Laure Albin-Guillot",
-        "Title": "Brazilwood I",
-        "Year": "1931",
-        "ObjectID": "82461",
-        "Work": "https://www.moma.org/collection/works/82461",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5NTczMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5166fe6b7425f630",
-        "Details": {
-            "Medium": "Photogravure on metallic paper",
-            "Dimensions": "10 13/16 \u00d7 8 7/16\" (27.5 \u00d7 21.5 cm)",
-            "Credit": "Gift of Alan Siegel",
-            "Object number": "1580.2001.2",
-            "Portfolio": "Decorative Photo-Micrographs",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/22870"
-    },
-    {
-        "Artist": "Laure Albin-Guillot",
-        "Title": "Star-shaped Bristles of Pentzia",
-        "Year": "1931",
-        "ObjectID": "82462",
-        "Work": "https://www.moma.org/collection/works/82462",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5NTczMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4cc8d4fba0225172",
-        "Details": {
-            "Medium": "Photogravure",
-            "Dimensions": "10 13/16 \u00d7 8 7/16\" (27.5 \u00d7 21.5 cm)",
-            "Credit": "Gift of Alan Siegel",
-            "Object number": "1580.2001.3",
-            "Portfolio": "Decorative Photo-Micrographs",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/22870"
-    },
-    {
-        "Artist": "Laure Albin-Guillot",
-        "Title": "Horse Hoof",
-        "Year": "1931",
-        "ObjectID": "82463",
-        "Work": "https://www.moma.org/collection/works/82463",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5NTczNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6b5249c96fd34c54",
-        "Details": {
-            "Medium": "Photogravure on metallic paper",
-            "Dimensions": "10 13/16 \u00d7 8 7/16\" (27.5 \u00d7 21.5 cm)",
-            "Credit": "Gift of Alan Siegel",
-            "Object number": "1580.2001.4",
-            "Portfolio": "Decorative Photo-Micrographs",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/22870"
-    },
-    {
-        "Artist": "Laure Albin-Guillot",
-        "Title": "Citric Acid",
-        "Year": "1931",
-        "ObjectID": "82464",
-        "Work": "https://www.moma.org/collection/works/82464",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5NTczNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e5331d5d057df653",
-        "Details": {
-            "Medium": "Photogravure",
-            "Dimensions": "10 13/16 \u00d7 8 7/16\" (27.5 \u00d7 21.5 cm)",
-            "Credit": "Gift of Alan Siegel",
-            "Object number": "1580.2001.5",
-            "Portfolio": "Decorative Photo-Micrographs",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/22870"
-    },
-    {
-        "Artist": "Laure Albin-Guillot",
-        "Title": "Whale Cartilage",
-        "Year": "1931",
-        "ObjectID": "82465",
-        "Work": "https://www.moma.org/collection/works/82465",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5NTczNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1cc9518a94f828e4",
-        "Details": {
-            "Medium": "Photogravure",
-            "Dimensions": "10 13/16 \u00d7 8 7/16\" (27.5 \u00d7 21.5 cm)",
-            "Credit": "Gift of Alan Siegel",
-            "Object number": "1580.2001.6",
-            "Portfolio": "Decorative Photo-Micrographs",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/22870"
-    },
-    {
-        "Artist": "Laure Albin-Guillot",
-        "Title": "Brazilwood II",
-        "Year": "1931",
-        "ObjectID": "82466",
-        "Work": "https://www.moma.org/collection/works/82466",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5NTczNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=deb1f842895d18de",
-        "Details": {
-            "Medium": "Photogravure on metallic paper",
-            "Dimensions": "10 13/16 \u00d7 8 7/16\" (27.5 \u00d7 21.5 cm)",
-            "Credit": "Gift of Alan Siegel",
-            "Object number": "1580.2001.7",
-            "Portfolio": "Decorative Photo-Micrographs",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/22870"
-    },
-    {
-        "Artist": "Laure Albin-Guillot",
-        "Title": "Bud from an Ashtree",
-        "Year": "1931",
-        "ObjectID": "82467",
-        "Work": "https://www.moma.org/collection/works/82467",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4MjA0OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=07ffe748a4c8a892",
-        "Details": {
-            "Medium": "Photogravure",
-            "Dimensions": "10 13/16 \u00d7 8 7/16\" (27.5 \u00d7 21.5 cm)",
-            "Credit": "Gift of Alan Siegel",
-            "Object number": "1580.2001.8",
-            "Portfolio": "Decorative Photo-Micrographs",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/22870"
-    },
-    {
-        "Artist": "Laure Albin-Guillot",
-        "Title": "Diatomic Molecule",
-        "Year": "1931",
-        "ObjectID": "82468",
-        "Work": "https://www.moma.org/collection/works/82468",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5NTczOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d04eb290956c9199",
-        "Details": {
-            "Medium": "Photogravure",
-            "Dimensions": "10 13/16 \u00d7 8 7/16\" (27.5 \u00d7 21.5 cm)",
-            "Credit": "Gift of Alan Siegel",
-            "Object number": "1580.2001.9",
-            "Portfolio": "Decorative Photo-Micrographs",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/22870"
-    },
-    {
-        "Artist": "Laure Albin-Guillot",
-        "Title": "Seed",
-        "Year": "1931",
-        "ObjectID": "82469",
-        "Work": "https://www.moma.org/collection/works/82469",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4MjA0NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=06000dd8ec1e4a40",
-        "Details": {
-            "Medium": "Photogravure on metallic paper",
-            "Dimensions": "10 13/16 \u00d7 8 7/16\" (27.5 \u00d7 21.5 cm)",
-            "Credit": "Gift of Alan Siegel",
-            "Object number": "1580.2001.10",
-            "Portfolio": "Decorative Photo-Micrographs",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/22870"
-    },
-    {
-        "Artist": "Laure Albin-Guillot",
-        "Title": "Glossy Buckthorn",
-        "Year": "1931",
-        "ObjectID": "82470",
-        "Work": "https://www.moma.org/collection/works/82470",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5NTcyNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f5ea9b8b8c7c17f0",
-        "Details": {
-            "Medium": "Photogravure",
-            "Dimensions": "10 13/16 \u00d7 8 7/16\" (27.5 \u00d7 21.5 cm)",
-            "Credit": "Gift of Alan Siegel",
-            "Object number": "1580.2001.11",
-            "Portfolio": "Decorative Photo-Micrographs",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/22870"
-    },
-    {
-        "Artist": "Laure Albin-Guillot",
-        "Title": "Margaritic Acid",
-        "Year": "1931",
-        "ObjectID": "82471",
-        "Work": "https://www.moma.org/collection/works/82471",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5NTcyNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7a7a6ee3ccf4b798",
-        "Details": {
-            "Medium": "Photogravure on metallic paper",
-            "Dimensions": "10 13/16 \u00d7 8 7/16\" (27.5 \u00d7 21.5 cm)",
-            "Credit": "Gift of Alan Siegel",
-            "Object number": "1580.2001.12",
-            "Portfolio": "Decorative Photo-Micrographs",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/22870"
-    },
-    {
-        "Artist": "Laure Albin-Guillot",
-        "Title": "Irional",
-        "Year": "1931",
-        "ObjectID": "82472",
-        "Work": "https://www.moma.org/collection/works/82472",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5NTcyNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=37b39708815e5d14",
-        "Details": {
-            "Medium": "Photogravure",
-            "Dimensions": "10 13/16 \u00d7 8 7/16\" (27.5 \u00d7 21.5 cm)",
-            "Credit": "Gift of Alan Siegel",
-            "Object number": "1580.2001.13",
-            "Portfolio": "Decorative Photo-Micrographs",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/22870"
-    },
-    {
-        "Artist": "Laure Albin-Guillot",
-        "Title": "Saligenin",
-        "Year": "1931",
-        "ObjectID": "82473",
-        "Work": "https://www.moma.org/collection/works/82473",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5NTcyOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d367031f62a32b28",
-        "Details": {
-            "Medium": "Photogravure on metallic paper",
-            "Dimensions": "10 13/16 \u00d7 8 7/16\" (27.5 \u00d7 21.5 cm)",
-            "Credit": "Gift of Alan Siegel",
-            "Object number": "1580.2001.14",
-            "Portfolio": "Decorative Photo-Micrographs",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/22870"
-    },
-    {
-        "Artist": "Laure Albin-Guillot",
-        "Title": "Germinated Pampas Grass",
-        "Year": "1931",
-        "ObjectID": "82474",
-        "Work": "https://www.moma.org/collection/works/82474",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4MjA0NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=33253cefa83761c2",
-        "Details": {
-            "Medium": "Photogravure",
-            "Dimensions": "10 13/16 \u00d7 8 7/16\" (27.5 \u00d7 21.5 cm)",
-            "Credit": "Gift of Alan Siegel",
-            "Object number": "1580.2001.15",
-            "Portfolio": "Decorative Photo-Micrographs",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/22870"
-    },
-    {
-        "Artist": "Laure Albin-Guillot",
-        "Title": "Diatomic Molecule",
-        "Year": "1931",
-        "ObjectID": "82475",
-        "Work": "https://www.moma.org/collection/works/82475",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5NTcyOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=19117dbd9a0b40c5",
-        "Details": {
-            "Medium": "Photogravure on metallic paper",
-            "Dimensions": "10 13/16 \u00d7 8 7/16\" (27.5 \u00d7 21.5 cm)",
-            "Credit": "Gift of Alan Siegel",
-            "Object number": "1580.2001.16",
-            "Portfolio": "Decorative Photo-Micrographs",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/22870"
-    },
-    {
-        "Artist": "Laure Albin-Guillot",
-        "Title": "Lily",
-        "Year": "1931",
-        "ObjectID": "82476",
-        "Work": "https://www.moma.org/collection/works/82476",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5NTczMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0c2cc58e48806fab",
-        "Details": {
-            "Medium": "Photogravure",
-            "Dimensions": "10 13/16 \u00d7 8 7/16\" (27.5 \u00d7 21.5 cm)",
-            "Credit": "Gift of Alan Siegel",
-            "Object number": "1580.2001.17",
-            "Portfolio": "Decorative Photo-Micrographs",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/22870"
-    },
-    {
-        "Artist": "Laure Albin-Guillot",
-        "Title": "Diatomic Molecule",
-        "Year": "1931",
-        "ObjectID": "82477",
-        "Work": "https://www.moma.org/collection/works/82477",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4MjA0NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8e1bcc13542b7415",
-        "Details": {
-            "Medium": "Photogravure",
-            "Dimensions": "10 13/16 \u00d7 8 7/16\" (27.5 \u00d7 21.5 cm)",
-            "Credit": "Gift of Alan Siegel",
-            "Object number": "1580.2001.18",
-            "Portfolio": "Decorative Photo-Micrographs",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/22870"
-    },
-    {
-        "Artist": "Laure Albin-Guillot",
-        "Title": "Barley Root",
-        "Year": "1931",
-        "ObjectID": "82478",
-        "Work": "https://www.moma.org/collection/works/82478",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5NTczMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1e10a1d11575bd9e",
-        "Details": {
-            "Medium": "Photogravure",
-            "Dimensions": "10 13/16 \u00d7 8 7/16\" (27.5 \u00d7 21.5 cm)",
-            "Credit": "Gift of Alan Siegel",
-            "Object number": "1580.2001.19",
-            "Portfolio": "Decorative Photo-Micrographs",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/22870"
-    },
-    {
-        "Artist": "Laure Albin-Guillot",
-        "Title": "Uric Acid from a Ruminant",
-        "Year": "1931",
-        "ObjectID": "82479",
-        "Work": "https://www.moma.org/collection/works/82479",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4MjA0OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=266fea7e936d2aaf",
-        "Details": {
-            "Medium": "Photogravure on metallic paper",
-            "Dimensions": "10 13/16 \u00d7 8 7/16\" (27.5 \u00d7 21.5 cm)",
-            "Credit": "Gift of Alan Siegel",
-            "Object number": "1580.2001.20",
-            "Portfolio": "Decorative Photo-Micrographs",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/22870"
-    },
-    {
-        "Artist": "Manuel Alvarez Bravo",
-        "Title": "The Daydream",
-        "Year": "1931",
-        "ObjectID": "52789",
-        "Work": "https://www.moma.org/collection/works/52789",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4NjUwOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c048b90cac2405cf",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "9 1/16 \u00d7 5 11/16\" (23 \u00d7 14.4 cm)",
-            "Credit": "Anonymous gift",
-            "Object number": "409.1942",
-            "Copyright": "\u00a9 2023 Estate of Manuel Alvarez Bravo / Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/135"
-    },
-    {
-        "Artist": "Manuel Alvarez Bravo",
-        "Title": "Optical Parable",
-        "Year": "1931",
-        "ObjectID": "56319",
-        "Work": "https://www.moma.org/collection/works/56319",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4NjU4NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7c3f85d34d8cca81",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "9 1/2 \u00d7 7 3/16\" (24.1 \u00d7 18.2 cm)",
-            "Credit": "The Photography Council Fund",
-            "Object number": "749.1998",
-            "Copyright": "\u00a9 2023 Estate of Manuel Alvarez Bravo / Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/135"
-    },
-    {
-        "Artist": "Manuel Alvarez Bravo",
-        "Title": "The Daydream",
-        "Year": "1931",
-        "ObjectID": "56935",
-        "Work": "https://www.moma.org/collection/works/56935",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4NjYwMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5b0b2a225f569b57",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "9 3/8 \u00d7 7 1/16\" (23.8 \u00d7 17.9 cm)",
-            "Credit": "Gift of N. Carol Lipis",
-            "Object number": "848.1978.2",
-            "Copyright": "\u00a9 2023 Estate of Manuel Alvarez Bravo / Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/135"
-    },
-    {
-        "Artist": "Manuel Alvarez Bravo",
-        "Title": "Optical Parable",
-        "Year": "1931",
-        "ObjectID": "56941",
-        "Work": "https://www.moma.org/collection/works/56941",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4NjYwNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c96bde7138b0aa37",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "9 5/16 \u00d7 7 1/16\" (23.6 \u00d7 18 cm)",
-            "Credit": "Gift of N. Carol Lipis",
-            "Object number": "848.1978.8",
-            "Copyright": "\u00a9 2023 Estate of Manuel Alvarez Bravo / Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/135"
-    },
-    {
-        "Artist": "Manuel Alvarez Bravo",
-        "Title": "Ladder of Ladders",
-        "Year": "1931",
-        "ObjectID": "83529",
-        "Work": "https://www.moma.org/collection/works/83529",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4NjQ2MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=48afabf901eee69c",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "9 3/8 \u00d7 7 5/16\" (23.8 \u00d7 18.5 cm)",
-            "Credit": "Thomas Walther Collection. Grace M. Mayer Fund",
-            "Object number": "1602.2001",
-            "Copyright": "\u00a9 2023 Estate of Manuel Alvarez Bravo / Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/135"
-    },
-    {
-        "Artist": "Sybil Andrews",
-        "Title": "Giant Cable",
-        "Year": "1931",
-        "ObjectID": "105741",
-        "Work": "https://www.moma.org/collection/works/105741",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyNjU2MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a83d50823ae339eb",
-        "Details": {
-            "Medium": "Linoleum cut",
-            "Dimensions": "composition (irreg.): 14 3/8 x 18 7/16\" (36.5 x 46.9 cm); sheet: 15 1/16 x 18 7/8\" (38.2 x 48 cm)",
-            "Publisher": "Sybil Andrews, London",
-            "Printer": "Sybil Andrews, London",
-            "Edition": "50",
-            "Credit": "Riva Castleman Endowment Fund and Donald B. Marron Fund",
-            "Object number": "699.2006",
-            "Copyright": "\u00a9 2023 Estate of Sybil Andrews",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/30316"
-    },
-    {
-        "Artist": "Jean (Hans) Arp",
-        "Title": "Bell and Navels",
-        "Year": "1931",
-        "ObjectID": "81163",
-        "Work": "https://www.moma.org/collection/works/81163",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxOTY0NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5ff0aa0be99964bf",
-        "Details": {
-            "Medium": "Painted wood",
-            "Dimensions": "Overall 11 5/8\" (25.4 cm) high x 19 3/8\" (49.3 cm) diameter, including wood base",
-            "Credit": "Kay Sage Tanguy Fund",
-            "Object number": "219.1968",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Medium": "Brass, silver, stainless steel, and copper wire",
+            "Dimensions": "6 1/2\" (16.5 cm) x 6\" (15.2 cm), 8\" (20.3 cm) x 9\" (22.9 cm) diameter,  3\" (7.6 cm) x 3\" (7.6 cm) diameter, 12\" (30.5 cm) x 10.5\" (26.7 cm) diameter, and 6\" (15.2 cm) x 5\" (12.7 cm) diameter",
+            "Credit": "Mary Sisler Bequest",
+            "Object number": "682.1990.1-5",
+            "Copyright": "\u00a9 2023 Estate of Richard Lippold / Artists Rights Society (ARS), New York",
             "Department": "Painting and Sculpture"
         },
-        "Profile": "https://www.moma.org/artists/11"
+        "Profile": "https://www.moma.org/artists/3566"
     },
     {
-        "Artist": "Dmitrij Naumovich Babichenko, Vladimir Vladimirovich Kudryashev",
-        "Title": "Be Ready for the Defense of U.S.S.R.",
-        "Year": "1931",
-        "ObjectID": "6182",
-        "Work": "https://www.moma.org/collection/works/6182",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNzQ5OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=55d593a485fd19da",
+        "Artist": "Vera Liskova",
+        "Title": "Bowl",
+        "Year": "1947",
+        "ObjectID": "2853",
+        "Work": "https://www.moma.org/collection/works/2853",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMDc4NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a577843183f59563",
         "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "28 3/8 x 20 1/2\" (72.1 x 52 cm)",
-            "Publisher": "IZOGIZ (State Publishing House of the Fine Arts)",
-            "Printer": "OGIZ (Association of State Book and Magazine Publishing Houses), \"Obraztsovaya\" Printing House, Moscow",
-            "Credit": "Gift of Miss Jessie Rosenfeld",
-            "Object number": "309.1943",
+            "Manufacturer": "Lobmeyr, Kamenick\u00fd \u0160enov, Czechoslovakia",
+            "Medium": "Crystal",
+            "Dimensions": "3 3/4 x 10\" (9.5 x 25.4 cm)",
+            "Credit": "Gift of A. J. Van Dugteren & Sons, Inc.",
+            "Object number": "229.1953",
             "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/37857"
+        "Profile": "https://www.moma.org/artists/3568"
     },
     {
-        "Artist": "Peggy Bacon",
-        "Title": "Satyr",
-        "Year": "1931",
-        "ObjectID": "72013",
-        "Work": "https://www.moma.org/collection/works/72013",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MjQxNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=db894ec17e98cdb1",
+        "Artist": "Vera Liskova",
+        "Title": "Bowl",
+        "Year": "1947",
+        "ObjectID": "2861",
+        "Work": "https://www.moma.org/collection/works/2861",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMDc5MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=dbabb77a4d5a46be",
         "Details": {
-            "Medium": "Drypoint",
-            "Dimensions": "plate: 5 15/16 x 4 1/2\" (15.1 x 11.5cm); sheet: 12 3/16 \u00d7 9 7/16\" (31 \u00d7 23.9 cm)",
-            "Credit": "Gift of Abby Aldrich Rockefeller",
-            "Object number": "624.1940",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/273"
-    },
-    {
-        "Artist": "Peggy Bacon",
-        "Title": "Nymph",
-        "Year": "1931",
-        "ObjectID": "72029",
-        "Work": "https://www.moma.org/collection/works/72029",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MjQxOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3f9a85c3b11e06fc",
-        "Details": {
-            "Medium": "Drypoint",
-            "Dimensions": "plate: 6 x 4 1/2\" (15.2 x 11.5cm); sheet: 12 1/8 \u00d7 9 3/4\" (30.8 \u00d7 24.7 cm)",
-            "Credit": "Gift of Abby Aldrich Rockefeller",
-            "Object number": "625.1940",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/273"
-    },
-    {
-        "Artist": "Ernst Barlach",
-        "Title": "Despair and Hope II (Hoffnung und Verzweiflung II)",
-        "Year": "(c. 1931)",
-        "ObjectID": "64858",
-        "Work": "https://www.moma.org/collection/works/64858",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzMzc1MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=babc802befcd3b0a",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "composition: 12 1/4 x 17 15/16\" (31.1 x 45.5 cm); sheet: 19 x 25 3/16\" (48.3 x 63.9 cm)",
-            "Publisher": "Kestner-Gesellschaft, Hannover",
-            "Printer": "Otto Felsing, Pan-Presse, Berlin",
-            "Edition": "unknown",
-            "Credit": "Abby Aldrich Rockefeller Fund",
-            "Object number": "232.1935",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/335"
-    },
-    {
-        "Artist": "Herbert Bayer",
-        "Title": "Der neue Adler (The New Adler) (Brochure for a car designed by Walter Gropius for the German car company Adler)",
-        "Year": "1931",
-        "ObjectID": "7479",
-        "Work": "https://www.moma.org/collection/works/7479",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQzNjg0NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0da0fcc59e87b892",
-        "Details": {
-            "Medium": "Letterpress",
-            "Dimensions": "Folded: 8 1/4 x 6 5/8\" (21 x 16.8 cm)\r\nunfolded: 8 1/4 x 15 5/8\" (21 x 39.7 cm)",
-            "Printer": "Dorland, Berlin",
-            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
-            "Object number": "542.1999",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Manufacturer": "Lobmeyr, Kamenick\u00fd \u0160enov, Czechoslovakia",
+            "Medium": "Crystal",
+            "Dimensions": "3 7/16 x 8 1/4\" (8.7 x 20.9 cm)",
+            "Credit": "Gift of A. J. Van Dugteren & Sons, Inc.",
+            "Object number": "230.1953",
             "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/399"
+        "Profile": "https://www.moma.org/artists/3568"
     },
     {
-        "Artist": "Herbert Bayer",
-        "Title": "Westfalen",
-        "Year": "1931",
-        "ObjectID": "7482",
-        "Work": "https://www.moma.org/collection/works/7482",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyODU4MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=81927dbae06c17ed",
+        "Artist": "Vera Liskova",
+        "Title": "Tumbler",
+        "Year": "1947",
+        "ObjectID": "2871",
+        "Work": "https://www.moma.org/collection/works/2871",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMDc5OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d617802ba3e9076a",
         "Details": {
-            "Medium": "Letterpress",
-            "Dimensions": "Opened: 8 1/4 x 29\" (21 x 73.7 cm); unopened: 8 1/4 x 4 3/16\" (21 x 10.6 cm)",
-            "Printer": "Westf\u00e4lischen-Verkehrsverband e.V.",
-            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
-            "Object number": "543.1999",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Manufacturer": "Lobmeyr, Kamenick\u00fd \u0160enov, Czechoslovakia",
+            "Medium": "Crystal",
+            "Dimensions": "2 7/8 x 3 5/8\" (7.3 x 9.2 cm)",
+            "Credit": "Gift of A. J. Van Dugteren & Sons, Inc.",
+            "Object number": "231.1953",
             "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/399"
-    },
-    {
-        "Artist": "Herbert Bayer",
-        "Title": "H. Berthold A.G., Berlin, Normande und Normande-Cursiv, Probe 270",
-        "Year": "1931",
-        "ObjectID": "7488",
-        "Work": "https://www.moma.org/collection/works/7488",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyODU4NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=dc2181a4872383fe",
-        "Details": {
-            "Medium": "Letterpress",
-            "Dimensions": "11 11/16 x 8 1/4\" (29.7 X 21 cm)",
-            "Printer": "H. Berthold AG, Berlin",
-            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
-            "Object number": "545.1999",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/399"
-    },
-    {
-        "Artist": "Herbert Bayer",
-        "Title": "Lange Radio Sein Konstrukteur Heisst Grundlichkeit (Lange Radio - its manufacturer is called thoroughness) (Poster for Johannes Lange GmbH, radio manufacturers 1927-1933)",
-        "Year": "1931",
-        "ObjectID": "8274",
-        "Work": "https://www.moma.org/collection/works/8274",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMDUwMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=15b2d271903b35c7",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "32 9/16 x 23 1/16\" (82.6 x 58.6 cm)",
-            "Printer": "Dorland, Berlin",
-            "Credit": "Anonymous gift",
-            "Object number": "859.1979",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/399"
-    },
-    {
-        "Artist": "Antoli Pawlowitsch Belski",
-        "Title": "Ovod",
-        "Year": "c. 1931",
-        "ObjectID": "5779",
-        "Work": "https://www.moma.org/collection/works/5779",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyNjcxNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0ebb0c11c34fbaac",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "55 1/2 x 42 1/4\" (141 x 107.3 cm)",
-            "Credit": "Gift of The Lauder Foundation, Leonard and Evelyn Lauder Fund",
-            "Object number": "233.1987",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/459"
-    },
-    {
-        "Artist": "Alexandre Benois",
-        "Title": "Costume design for the opera Sadko",
-        "Year": "1931",
-        "ObjectID": "38436",
-        "Work": "https://www.moma.org/collection/works/38436",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ3MjA2NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=903520cd074c8469",
-        "Details": {
-            "Medium": "Gouache and pencil on paper",
-            "Dimensions": "11 3/4 x 8 5/8\" (29.8 x 21.9 cm)",
-            "Credit": "Eugene and Clare Thaw Fund",
-            "Object number": "1135.1964",
-            "Copyright": "\u00a9 2023 Alexander Benois / Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/84063"
-    },
-    {
-        "Artist": "Eugene Berman",
-        "Title": "Memory of Ischia",
-        "Year": "1931",
-        "ObjectID": "80584",
-        "Work": "https://www.moma.org/collection/works/80584",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwOTU3MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6e00b7b2831862ec",
-        "Details": {
-            "Medium": "Oil on canvas",
-            "Dimensions": "40 x 31 3/4\" (101.4 x 80.5 cm)",
-            "Credit": "James Thrall Soby Bequest",
-            "Object number": "1202.1979",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/502"
-    },
-    {
-        "Artist": "Aenne Biermann",
-        "Title": "Nude",
-        "Year": "1931",
-        "ObjectID": "83712",
-        "Work": "https://www.moma.org/collection/works/83712",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMDY2OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c2920b65af0baf31",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "9 3/8 \u00d7 6 7/8\" (23.8 \u00d7 17.5 cm)",
-            "Credit": "Thomas Walther Collection. Gift of Hermine M. Turner, by exchange",
-            "Object number": "1622.2001",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/556"
-    },
-    {
-        "Artist": "Max Bill",
-        "Title": "Negerkunst, Prahistorische Felsbilder Sudafrikas",
-        "Year": "1931",
-        "ObjectID": "5121",
-        "Work": "https://www.moma.org/collection/works/5121",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMDMwOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b21a77eff0f38663",
-        "Details": {
-            "Medium": "Linocut and letterpress",
-            "Dimensions": "49 7/8 x 34 3/4\" (126.6 x 88.2 cm)",
-            "Printer": "Berichthaus, Z\u00fcrich",
-            "Credit": "Gift of the designer",
-            "Object number": "114.1968",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/559"
-    },
-    {
-        "Artist": "Max Bill",
-        "Title": "Negerkunst, prahistorische Felsbilder Sudafrikas",
-        "Year": "1931",
-        "ObjectID": "7648",
-        "Work": "https://www.moma.org/collection/works/7648",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDcyMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f603bee04b52adc3",
-        "Details": {
-            "Medium": "Letterpress",
-            "Dimensions": "8 5/16 x 5 7/8\" (21.1 x 14.9 cm)",
-            "Printer": "Berichthaus, Z\u00fcrich",
-            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
-            "Object number": "590.1999",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/559"
-    },
-    {
-        "Artist": "Max Bill",
-        "Title": "Poster for an exhibition on the Neubuhl housing project (Wohnausstellung Neubuhl), Zurich",
-        "Year": "1931",
-        "ObjectID": "218733",
-        "Work": "https://www.moma.org/collection/works/218733",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ0NzIyOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6dc4a768592f6beb",
-        "Details": {
-            "Medium": "Letterpress",
-            "Dimensions": "50 5/8 \u00d7 36\" (128.6 \u00d7 91.4 cm)",
-            "Printer": "Berichthaus, Z\u00fcrich",
-            "Credit": "The Merrill C. Berman Collection. Gift of Mr. and Mrs. Marion Joseph Lebworth (by exchange)",
-            "Object number": "528.2018",
-            "Associated work": "The Merrill C. Berman Collection at MoMA",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/559"
-    },
-    {
-        "Artist": "Ilse Bing",
-        "Title": "French Cancan, Moulin Rouge, Paris",
-        "Year": "1931",
-        "ObjectID": "44440",
-        "Work": "https://www.moma.org/collection/works/44440",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNzgxNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e7e505b46bd644db",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "6 5/8 \u00d7 8 3/4\" (16.9 \u00d7 22.3 cm)",
-            "Credit": "Gift of Paul F. Walter",
-            "Object number": "37.1991",
-            "Copyright": "\u00a9 2023 The Ilse Bing Estate / Courtesy Edwynn Houk Gallery",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/561"
-    },
-    {
-        "Artist": "Ilse Bing",
-        "Title": "Self-Portrait in Mirrors",
-        "Year": "1931",
-        "ObjectID": "44571",
-        "Work": "https://www.moma.org/collection/works/44571",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwNTc3NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ac64df22b747dc64",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "10 1/2 \u00d7 12\" (26.8 \u00d7 30.8 cm)",
-            "Credit": "Joseph G. Mayer Fund",
-            "Object number": "41.1976",
-            "Copyright": "\u00a9 2023 The Ilse Bing Estate / Courtesy Edwynn Houk Gallery",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/561"
-    },
-    {
-        "Artist": "Ilse Bing",
-        "Title": "French Cancan, Moulin Rouge, Paris",
-        "Year": "1931",
-        "ObjectID": "49181",
-        "Work": "https://www.moma.org/collection/works/49181",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNzcyNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=afc6cdc486527e6c",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "11 1/8 \u00d7 8 3/4\" (28.2 \u00d7 22.2 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "229.1985",
-            "Copyright": "\u00a9 2023 The Ilse Bing Estate / Courtesy Edwynn Houk Gallery",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/561"
-    },
-    {
-        "Artist": "Ilse Bing",
-        "Title": "Moulin Rouge",
-        "Year": "1931",
-        "ObjectID": "172349",
-        "Work": "https://www.moma.org/collection/works/172349",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4NDc2OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=27e57839d3988707",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "11 7/16 \u00d7 13 9/16\" (29 \u00d7 34.5 cm)",
-            "Credit": "Bequest of Ilse Bing Wolff",
-            "Object number": "885.2013",
-            "Copyright": "\u00a9 2023 The Ilse Bing Estate / Courtesy Edwynn Houk Gallery",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/561"
+        "Profile": "https://www.moma.org/artists/3568"
     }
 ]

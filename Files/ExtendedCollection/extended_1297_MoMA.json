@@ -1,816 +1,838 @@
 [
     {
-        "Artist": "Ansel Adams",
-        "Title": "Autumn, Yosemite Valley",
-        "Year": "1939",
-        "ObjectID": "44420",
-        "Work": "https://www.moma.org/collection/works/44420",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwODA2MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e01653ecdc3c882d",
+        "Artist": "Umberto Nason",
+        "Title": "Tumbler",
+        "Year": "1954",
+        "ObjectID": "3965",
+        "Work": "https://www.moma.org/collection/works/3965",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMTQ5MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=52549055bea766fd",
         "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "7 1/4 \u00d7 9 1/2\" (18.4 \u00d7 24.1 cm)",
-            "Credit": "Gift of Albert M. Bender",
-            "Object number": "37.1940",
-            "Copyright": "\u00a9 2023 The Ansel Adams Publishing Rights Trust",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/60"
-    },
-    {
-        "Artist": "Ansel Adams",
-        "Title": "Barn Fence, Cape Cod",
-        "Year": "1939",
-        "ObjectID": "44469",
-        "Work": "https://www.moma.org/collection/works/44469",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5ODEzMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=afb51284a0d43ae3",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "8 5/8 \u00d7 12 3/8\" (21.9 \u00d7 31.4 cm)",
-            "Credit": "Gift of Albert M. Bender",
-            "Object number": "39.1940",
-            "Copyright": "\u00a9 2023 The Ansel Adams Publishing Rights Trust",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/60"
-    },
-    {
-        "Artist": "Ansel Adams",
-        "Title": "Church at Bodie, California",
-        "Year": "1939",
-        "ObjectID": "44494",
-        "Work": "https://www.moma.org/collection/works/44494",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2OTE3NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=df40732fb455e48f",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "9 5/8 \u00d7 12 3/8\" (24.4 \u00d7 31.4 cm)",
-            "Credit": "Gift of Albert M. Bender",
-            "Object number": "40.1940",
-            "Copyright": "\u00a9 2023 The Ansel Adams Publishing Rights Trust",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/60"
-    },
-    {
-        "Artist": "Ansel Adams",
-        "Title": "Leaves",
-        "Year": "1939",
-        "ObjectID": "44520",
-        "Work": "https://www.moma.org/collection/works/44520",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2OTE3OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=40fbe3731c3d9bfa",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "8 7/8 \u00d7 11\" (22.5 \u00d7 27.9 cm)",
-            "Credit": "Gift of Albert M. Bender",
-            "Object number": "41.1940",
-            "Copyright": "\u00a9 2023 The Ansel Adams Publishing Rights Trust",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/60"
-    },
-    {
-        "Artist": "Ansel Adams",
-        "Title": "Barnacles, Cape Cod",
-        "Year": "1939",
-        "ObjectID": "44584",
-        "Work": "https://www.moma.org/collection/works/44584",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5NTgzNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0acb5c1197d91489",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "12 1/8 \u00d7 8 5/8\" (30.8 \u00d7 21.9 cm)",
-            "Credit": "Gift of Albert M. Bender",
-            "Object number": "42.1940",
-            "Copyright": "\u00a9 2023 The Ansel Adams Publishing Rights Trust",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/60"
-    },
-    {
-        "Artist": "Ansel Adams",
-        "Title": "Evening, Provincetown, Massachusetts",
-        "Year": "1939",
-        "ObjectID": "44636",
-        "Work": "https://www.moma.org/collection/works/44636",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5NTg0MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9b77ec52cea5a140",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "8 3/8 \u00d7 11\" (21.3 \u00d7 27.9 cm)",
-            "Credit": "Gift of Albert M. Bender",
-            "Object number": "44.1940",
-            "Copyright": "\u00a9 2023 The Ansel Adams Publishing Rights Trust",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/60"
-    },
-    {
-        "Artist": "Ansel Adams",
-        "Title": "Barnstable, Massachusetts",
-        "Year": "1939",
-        "ObjectID": "44717",
-        "Work": "https://www.moma.org/collection/works/44717",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2OTE4NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=286d54bf69df438a",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "8 5/8 \u00d7 11 3/8\" (21.9 \u00d7 28.9 cm)",
-            "Credit": "Gift of Albert M. Bender",
-            "Object number": "47.1940",
-            "Copyright": "\u00a9 2023 The Ansel Adams Publishing Rights Trust",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/60"
-    },
-    {
-        "Artist": "Ansel Adams",
-        "Title": "New York",
-        "Year": "1939",
-        "ObjectID": "44747",
-        "Work": "https://www.moma.org/collection/works/44747",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2OTE5NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3f2fefa9fc03a551",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "12 1/4 \u00d7 9 3/8\" (31.1 \u00d7 23.8 cm)",
-            "Credit": "Gift of Albert M. Bender",
-            "Object number": "48.1940",
-            "Copyright": "\u00a9 2023 The Ansel Adams Publishing Rights Trust",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/60"
-    },
-    {
-        "Artist": "Ansel Adams",
-        "Title": "Old Mill at Chatham, Cape Cod, Massachusetts",
-        "Year": "1939",
-        "ObjectID": "44802",
-        "Work": "https://www.moma.org/collection/works/44802",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2OTE5OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2b529ad165d1f19a",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "12 1/4 \u00d7 8 1/4\" (31.1 \u00d7 20.9 cm)",
-            "Credit": "Gift of Albert M. Bender",
-            "Object number": "49.1940",
-            "Copyright": "\u00a9 2023 The Ansel Adams Publishing Rights Trust",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/60"
-    },
-    {
-        "Artist": "Ansel Adams",
-        "Title": "Dead Cottonwood Trees, Meadow, Yosemite Valley, California",
-        "Year": "c. 1934",
-        "ObjectID": "50535",
-        "Work": "https://www.moma.org/collection/works/50535",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5NDg1OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=bf3d7d6ade69e701",
-        "Details": {
-            "Medium": "Gelatin silver print, printed 1979",
-            "Dimensions": "10 3/16 \u00d7 12 1/2\" (25.9 \u00d7 31.8 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "313.1981",
-            "Copyright": "\u00a9 2023 The Ansel Adams Publishing Rights Trust",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/60"
-    },
-    {
-        "Artist": "Ansel Adams",
-        "Title": "Alfred Stieglitz, An American Place, New York",
-        "Year": "1939",
-        "ObjectID": "58322",
-        "Work": "https://www.moma.org/collection/works/58322",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2OTAwNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=45069b63d68bbcc0",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "6 3/16 \u00d7 8 3/16\" (15.7 \u00d7 20.8 cm)",
-            "Credit": "Gift of David H. McAlpin",
-            "Object number": "1739.1968",
-            "Copyright": "\u00a9 2023 The Ansel Adams Publishing Rights Trust",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/60"
-    },
-    {
-        "Artist": "Josef Albers",
-        "Title": "Gamma",
-        "Year": "1939",
-        "ObjectID": "60385",
-        "Work": "https://www.moma.org/collection/works/60385",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNDE2MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=20d4bc7c908c9f7a",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "composition (irreg.): 12 3/8 x 14 3/16\" (31.5 x 36 cm); sheet: 19 5/8 x 25 1/2\" (49.8 x 64.7 cm)",
-            "Edition": "25",
-            "Credit": "John B. Turner Fund",
-            "Object number": "27.1967",
-            "Copyright": "\u00a9 2023 The Josef and Anni Albers Foundation / Artists Rights Society (ARS), New York",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/97"
-    },
-    {
-        "Artist": "Manuel Alvarez Bravo",
-        "Title": "The Good Reputation Sleeping",
-        "Year": "1938-39",
-        "ObjectID": "46296",
-        "Work": "https://www.moma.org/collection/works/46296",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5NDg4NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=87321323861c0d0a",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "7 1/4 \u00d7 9 5/16\" (18.4 \u00d7 23.7 cm)",
-            "Credit": "Purchase",
-            "Object number": "103.1967",
-            "Copyright": "\u00a9 2023 Estate of Manuel Alvarez Bravo / Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/135"
-    },
-    {
-        "Artist": "Manuel Alvarez Bravo",
-        "Title": "Pilgrim among Worldly Things. (Peregrino en las cosas desta vida)",
-        "Year": "1939",
-        "ObjectID": "50042",
-        "Work": "https://www.moma.org/collection/works/50042",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEwMDQxOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9993b1049a5dd54e",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "7 1/2 \u00d7 9 3/8\" (19 \u00d7 23.9 cm)",
-            "Credit": "Gift of Simon Lowinsky",
-            "Object number": "290.1993",
-            "Copyright": "\u00a9 2023 Estate of Manuel Alvarez Bravo / Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/135"
-    },
-    {
-        "Artist": "Manuel Alvarez Bravo",
-        "Title": "Rene d'Harnoncourt",
-        "Year": "1930s",
-        "ObjectID": "50473",
-        "Work": "https://www.moma.org/collection/works/50473",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEwMDQxNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2fe4e2c0313f3f59",
-        "Details": {
-            "Sitter": "Ren\u00e9 d'Harnoncourt",
-            "Medium": "Gelatin silver print",
-            "Dimensions": "9 3/4 \u00d7 7 11/16\" (24.8 \u00d7 19.5 cm)",
-            "Credit": "Anonymous gift",
-            "Object number": "310.1975",
-            "Copyright": "\u00a9 2023 Estate of Manuel Alvarez Bravo / Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/135"
-    },
-    {
-        "Artist": "Manuel Alvarez Bravo",
-        "Title": "Rene d'Harnoncourt",
-        "Year": "1930s",
-        "ObjectID": "52191",
-        "Work": "https://www.moma.org/collection/works/52191",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4NjUwMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2e69d20434029169",
-        "Details": {
-            "Sitter": "Ren\u00e9 d'Harnoncourt",
-            "Medium": "Gelatin silver print",
-            "Dimensions": "9 3/4 \u00d7 7 9/16\" (24.7 \u00d7 19.3 cm)",
-            "Credit": "Gift of Ren\u00e9 d'Harnoncourt",
-            "Object number": "381.1971",
-            "Copyright": "\u00a9 2023 Estate of Manuel Alvarez Bravo / Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/135"
-    },
-    {
-        "Artist": "Manuel Alvarez Bravo",
-        "Title": "Set Trap",
-        "Year": "1930s",
-        "ObjectID": "52896",
-        "Work": "https://www.moma.org/collection/works/52896",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4NjUwOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fc3f910e82694840",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "6 1/2 \u00d7 9 9/16\" (16.6 \u00d7 24.3 cm)",
-            "Credit": "Purchase",
-            "Object number": "412.1942",
-            "Copyright": "\u00a9 2023 Estate of Manuel Alvarez Bravo / Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/135"
-    },
-    {
-        "Artist": "Manuel Alvarez Bravo",
-        "Title": "The Good Reputation Sleeping. (La buena fama durmiendo)",
-        "Year": "1938-39",
-        "ObjectID": "56927",
-        "Work": "https://www.moma.org/collection/works/56927",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4NjYwMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=41b32baa94f04687",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "7 3/8 \u00d7 9 5/8\" (18.7 \u00d7 24.5 cm)",
-            "Credit": "Gift of N. Carol Lipis",
-            "Object number": "848.1978.1",
-            "Copyright": "\u00a9 2023 Estate of Manuel Alvarez Bravo / Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/135"
-    },
-    {
-        "Artist": "Manuel Alvarez Bravo",
-        "Title": "Set Trap",
-        "Year": "1930s",
-        "ObjectID": "56938",
-        "Work": "https://www.moma.org/collection/works/56938",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4NjYwNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=adba0b993f2ca534",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "6 3/4 \u00d7 9 7/16\" (17.2 \u00d7 24 cm)",
-            "Credit": "Gift of N. Carol Lipis",
-            "Object number": "848.1978.5",
-            "Copyright": "\u00a9 2023 Estate of Manuel Alvarez Bravo / Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/135"
-    },
-    {
-        "Artist": "Manuel Alvarez Bravo",
-        "Title": "The Earth Itself",
-        "Year": "1930s",
-        "ObjectID": "83699",
-        "Work": "https://www.moma.org/collection/works/83699",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5ODQzNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c86196e6ee661121",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "9 9/16 \u00d7 7 5/8\" (24.3 \u00d7 19.3 cm)",
-            "Credit": "Thomas Walther Collection. Grace M. Mayer Fund",
-            "Object number": "1603.2001",
-            "Copyright": "\u00a9 2023 Estate of Manuel Alvarez Bravo / Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/135"
-    },
-    {
-        "Artist": "Paul L. Anderson",
-        "Title": "Sunday Morning",
-        "Year": "1939",
-        "ObjectID": "44332",
-        "Work": "https://www.moma.org/collection/works/44332",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0MDc5NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f626658e971bd631",
-        "Details": {
-            "Medium": "Palladium print",
-            "Dimensions": "9 1/8 \u00d7 6 1/2\" (23.1 \u00d7 16.4 cm)",
-            "Credit": "Gift of Ruth Anderson Collins",
-            "Object number": "33.1976",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/169"
-    },
-    {
-        "Artist": "Raul Anguiano",
-        "Title": "Mad Woman (La loca)",
-        "Year": "1939",
-        "ObjectID": "72014",
-        "Work": "https://www.moma.org/collection/works/72014",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNDI5MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2e497e9a0041ff57",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "composition: 14 3/16 x 10 7/16\" (36 x 26.5cm); sheet: 25 1/2 x 19 5/8\" (64.7 x 49.8cm)",
-            "Publisher": "Taller de Gr\u00e1fica Popular, Mexico City",
-            "Printer": "Taller de Gr\u00e1fica Popular, Mexico City",
-            "Edition": "20",
-            "Credit": "Inter-American Fund",
-            "Object number": "624.1942",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/186"
-    },
-    {
-        "Artist": "Luis Arenal, Raul Anguiano",
-        "Title": "Fascism, 3rd Lecture: German Fascism (El fascismo, 3a conferencia: El Fascismo Aleman)",
-        "Year": "1939",
-        "ObjectID": "72103",
-        "Work": "https://www.moma.org/collection/works/72103",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNDI5MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d3bde3144db3539a",
-        "Details": {
-            "Medium": "Lithograph and letterpress",
-            "Dimensions": "Sheet: 18 1/4 x 26 5/8\" (46.4 x 67.6 cm)",
-            "Publisher": "Taller de Gr\u00e1fica Popular, Mexico City",
-            "Printer": "Taller de Gr\u00e1fica Popular, Mexico City",
-            "Credit": "Inter-American Fund",
-            "Object number": "627.1942",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/212"
-    },
-    {
-        "Artist": "\"a.r.\" group",
-        "Title": "Zaklad graficzny Stanis\u0142awa Kolodziejczaka (Graphics firm of Stanis\u0142aw Kolodziejczak) letterhead",
-        "Year": "1930s",
-        "ObjectID": "198538",
-        "Work": "https://www.moma.org/collection/works/198538",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM2MDI1NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7c5b7afe7e9c525e",
-        "Details": {
-            "Medium": "Letterpress",
-            "Dimensions": "11 3/8 \u00d7 8 1/4\" (28.9 \u00d7 21 cm)",
-            "Credit": "Elaine Lustig Cohen Collection, gift of Lawrence Benenson and the Committee on Architecture and Design Funds",
-            "Object number": "1114.2015",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/48911"
-    },
-    {
-        "Artist": "\"a.r.\" group",
-        "Title": "Fabryka maszyn i odlewnia zelaza (Machine factory and iron foundry) letterhead",
-        "Year": "1930s",
-        "ObjectID": "198539",
-        "Work": "https://www.moma.org/collection/works/198539",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM2MDI1NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5249598c2cac29b5",
-        "Details": {
-            "Medium": "Letterpress",
-            "Dimensions": "11 3/8 \u00d7 8 1/4\" (28.9 \u00d7 21 cm)",
-            "Credit": "Elaine Lustig Cohen Collection, gift of Lawrence Benenson and the Committee on Architecture and Design Funds",
-            "Object number": "1116.2015",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/48911"
-    },
-    {
-        "Artist": "\"a.r.\" group",
-        "Title": "Sekcja sportowa towarzystwa rzemieslniczego (Sports League Crafts Society) letterhead",
-        "Year": "1930s",
-        "ObjectID": "198540",
-        "Work": "https://www.moma.org/collection/works/198540",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM2MDI1NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b865b85f7f9c5e49",
-        "Details": {
-            "Medium": "Letterpress",
-            "Dimensions": "11 3/8 \u00d7 8 1/4\" (28.9 \u00d7 21 cm)",
-            "Credit": "Elaine Lustig Cohen Collection, gift of Lawrence Benenson and the Committee on Architecture and Design Funds",
-            "Object number": "1115.2015",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/48911"
-    },
-    {
-        "Artist": "Milton Avery",
-        "Title": "Sally with Beret",
-        "Year": "1939",
-        "ObjectID": "63388",
-        "Work": "https://www.moma.org/collection/works/63388",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MTY5MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7ca96bdd400219fd",
-        "Details": {
-            "Medium": "Drypoint",
-            "Dimensions": "plate  8 x 6 1/2\" (20.4 x 16.5 cm)\r\nsheet  14 7/8 x 12 15/16\" (37 x 32.9 cm)",
-            "Edition": "100",
-            "Credit": "Lily Auchincloss Fund in honor of Joanne Stern",
-            "Object number": "164.1988",
-            "Copyright": "\u00a9 2023 Milton Avery Trust / Artists Rights Society (ARS), New York",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/250"
-    },
-    {
-        "Artist": "Milton Avery",
-        "Title": "The Dessert",
-        "Year": "1939",
-        "ObjectID": "78926",
-        "Work": "https://www.moma.org/collection/works/78926",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzOTAwNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=847f89fa331dcf90",
-        "Details": {
-            "Medium": "Oil on canvas",
-            "Dimensions": "28 1/8 x 36 1/8\" (71.4 x 91.8 cm)",
-            "Credit": "Gift of Mr. and Mrs. Roy R. Neuberger",
-            "Object number": "130.1951",
-            "Copyright": "\u00a9 2023 Milton Avery Trust / Artists Rights Society (ARS), New York",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/250"
-    },
-    {
-        "Artist": "Martin Baer",
-        "Title": "Parrot Tulips",
-        "Year": "1939",
-        "ObjectID": "79787",
-        "Work": "https://www.moma.org/collection/works/79787",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1OTg4MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f11a699da82f6699",
-        "Details": {
-            "Medium": "Oil and tempera on canvas",
-            "Dimensions": "16 x 13\" (40.7 x 33 cm)",
-            "Credit": "Gift of Mrs. Simon Guggenheim",
-            "Object number": "467.1941",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/282"
-    },
-    {
-        "Artist": "Christian Barman",
-        "Title": "Electric Fan Heater",
-        "Year": "c.1934",
-        "ObjectID": "173628",
-        "Work": "https://www.moma.org/collection/works/173628",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5NTIxNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c494aaccf96d4048",
-        "Details": {
-            "Medium": "Chrome-plated metal",
-            "Dimensions": "12 x 16 5/16 x 12 3/16\" (30.5 x 41.5 x 31 cm)",
-            "Credit": "Gift of George R. Kravis II, in honor of Wendy Evans Joseph",
-            "Object number": "1164.2013",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/44442"
-    },
-    {
-        "Artist": "Andre Bauchant",
-        "Title": "Cleopatra's Barge",
-        "Year": "1939",
-        "ObjectID": "80181",
-        "Work": "https://www.moma.org/collection/works/80181",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMTc0OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=53d45eb68be553a3",
-        "Details": {
-            "Medium": "Oil on canvas",
-            "Dimensions": "32 x 39 3/8\" (81.3 x 100 cm)",
-            "Credit": "Abby Aldrich Rockefeller Fund",
-            "Object number": "649.1939",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/383"
-    },
-    {
-        "Artist": "Benjamin Bauer, Wesley Sharer",
-        "Title": "Unidyne Microphone (model 55)",
-        "Year": "1939",
-        "ObjectID": "188569",
-        "Work": "https://www.moma.org/collection/works/188569",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMxODU2MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=545a7358c32b536b",
-        "Details": {
-            "Manufacturer": "Shure Incorporated",
-            "Medium": "microphone",
-            "Dimensions": "6 x 4 x 3\" (15.2 x 10.2 x 7.6 cm)",
-            "Credit": "Gift of the manufacturer",
-            "Object number": "93.2015",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/47090"
-    },
-    {
-        "Artist": "Herbert Bayer",
-        "Title": "The Human Eye-A Living Camera",
-        "Year": "1939",
-        "ObjectID": "7530",
-        "Work": "https://www.moma.org/collection/works/7530",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyODU5NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=12029116d4c06e0b",
-        "Details": {
-            "Medium": "Letterpress",
-            "Dimensions": "14 1/16 x 10 1/2\" (35.7 x 26.7 cm)",
-            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
-            "Object number": "559.1999",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/399"
-    },
-    {
-        "Artist": "Herbert Bayer",
-        "Title": "Consciousness, Sensation, Perception, Voluntary Action",
-        "Year": "1939",
-        "ObjectID": "7533",
-        "Work": "https://www.moma.org/collection/works/7533",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyODU5NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=256dd35b16f299a1",
-        "Details": {
-            "Medium": "Letterpress",
-            "Dimensions": "14 x 10 1/2\" (35.6 x 26.7 cm)",
-            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
-            "Object number": "560.1999",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/399"
-    },
-    {
-        "Artist": "Herbert Bayer",
-        "Title": "Hotel Edelweiss & Gurgl letterhead",
-        "Year": "1930s",
-        "ObjectID": "198487",
-        "Work": "https://www.moma.org/collection/works/198487",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0MzAxNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=45b19f64d5eff1b1",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "11 3/4 \u00d7 8 1/4\" (29.8 \u00d7 21 cm)",
-            "Credit": "Elaine Lustig Cohen Collection, gift of Lawrence Benenson and the Committee on Architecture and Design Funds",
-            "Object number": "1143.2015",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/399"
-    },
-    {
-        "Artist": "Herbert Bayer",
-        "Title": "Standard Mobel letterhead",
-        "Year": "1930s",
-        "ObjectID": "198492",
-        "Work": "https://www.moma.org/collection/works/198492",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0Mjk4MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=53d996284266d7c1",
-        "Details": {
-            "Medium": "Letterpress",
-            "Dimensions": "11 5/8 \u00d7 8 1/4\" (29.5 \u00d7 21 cm)",
-            "Credit": "Elaine Lustig Cohen Collection, gift of Lawrence Benenson and the Committee on Architecture and Design Funds",
-            "Object number": "1144.2015",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/399"
-    },
-    {
-        "Artist": "Lester Beall",
-        "Title": "When I Think Back..REA",
-        "Year": "1939",
-        "ObjectID": "8280",
-        "Work": "https://www.moma.org/collection/works/8280",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMDU5MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c4c23b89ffb5c527",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "38 1/8 x 29 3/4\" (97.1 x 75.7 cm)",
-            "Credit": "Anonymous gift",
-            "Object number": "862.1979",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/409"
-    },
-    {
-        "Artist": "Fred Becker",
-        "Title": "Cafeteria Still Life",
-        "Year": "c 1939",
-        "ObjectID": "181564",
-        "Work": "https://www.moma.org/collection/works/181564",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ2ODU2NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a2feb82797e92b4c",
-        "Details": {
-            "Medium": "Engraving",
-            "Dimensions": "composition: 9 15/16 \u00d7 7 7/8\" (25.2 \u00d7 20 cm); sheet: 15 7/8 \u00d7 10 1/8\" (40.4 \u00d7 25.7 cm)",
-            "Publisher": "Works Progress Administration (WPA), Federal Art Project, New York",
-            "Printer": "Works Progress Administration (WPA), Federal Art Project, New York",
-            "Edition": "probably fewer than 25",
-            "Credit": "Extended loan from the United States WPA Art Program. Fine Arts Collection, Public Buildings Service, General Services Administration",
-            "Object number": "EL1957.1110",
-            "Associated work": "Works Progress Administration (WPA), Federal Art Project, Graphic Arts Division, New York",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/427"
-    },
-    {
-        "Artist": "Thomas Hart Benton",
-        "Title": "Frisky Day",
-        "Year": "(1939)",
-        "ObjectID": "75375",
-        "Work": "https://www.moma.org/collection/works/75375",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MTQ2MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=093e0aeec282f7fd",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "Composition: 7 13/16 x 12 1/16\" (19.9 x 30.7 cm)\r\nSheet: 12 x 16 1/8\" (30.5 x 41 cm)",
-            "Credit": "Gift of Kathleen L. Westin",
-            "Object number": "1052.1979",
-            "Copyright": "\u00a9 2023 Thomas Hart Benton Trust/Licensed by VAGA, New York, NY",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/483"
-    },
-    {
-        "Artist": "Eugene Berman",
-        "Title": "Le Carnaval de Venise (Carnival of Venice). Set design for Scene IV of the ballet Le Diable s'amuse (Devil's Holiday)",
-        "Year": "(1939)",
-        "ObjectID": "84974",
-        "Work": "https://www.moma.org/collection/works/84974",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2ODcxMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a189a5d26dfe0542",
-        "Details": {
-            "Medium": "Watercolor, ink, and gouache on paper",
-            "Dimensions": "10 x 14 1/8\" (25.4 x 35.9 cm)",
-            "Credit": "Gift of Paul Magriel",
-            "Object number": "59.1942.7",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/502"
-    },
-    {
-        "Artist": "Ruth Bernhard",
-        "Title": "Puddle",
-        "Year": "1939",
-        "ObjectID": "44099",
-        "Work": "https://www.moma.org/collection/works/44099",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMzQxMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6b2b09682a695cec",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "10 3/4 \u00d7 8 3/8\" (27.3 \u00d7 21.3 cm)",
-            "Credit": "Anonymous gift",
-            "Object number": "23.1941",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/516"
-    },
-    {
-        "Artist": "Palme Berthold",
-        "Title": "Lotion Bottle",
-        "Year": "Before 1938",
-        "ObjectID": "1840",
-        "Work": "https://www.moma.org/collection/works/1840",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMDEyNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9a00b92eb267a26a",
-        "Details": {
-            "Manufacturer": "Berthold Palme, Czech Republic",
+            "Manufacturer": "Cristalleria Nason e Moretti, Venezia-Murano, Italy",
             "Medium": "Glass",
-            "Dimensions": "5 x 3 1/8\" (12.7 x 8 cm)",
-            "Credit": "Gift of Lenart Imports, Ltd.",
-            "Object number": "50.1943.a-b",
+            "Dimensions": "2 3/8 x 2 3/8\" (6 x 6 cm)",
+            "Credit": "Gift of Philip Johnson",
+            "Object number": "473.1956.15",
             "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/525"
+        "Profile": "https://www.moma.org/artists/4233"
     },
     {
-        "Artist": "Bettmann/United Press International",
-        "Title": "\"Leaving a Fire in Drenched Raincoat and Helmet\"",
-        "Year": "1939",
-        "ObjectID": "58547",
-        "Work": "https://www.moma.org/collection/works/58547",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5NTc2OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4c19697da6264ab8",
+        "Artist": "Umberto Nason",
+        "Title": "Cocktail Pitcher",
+        "Year": "1954",
+        "ObjectID": "3966",
+        "Work": "https://www.moma.org/collection/works/3966",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMTQ5MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d9bdd9683834aebf",
         "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "9 9/16 \u00d7 7 11/16\" (24.3 \u00d7 19.6 cm)",
-            "Credit": "The New York Times Collection",
-            "Object number": "1954.2001",
-            "Copyright": "\u00a9 2023 Bettmann/United Press International",
-            "Department": "Photography"
+            "Manufacturer": "Cristalleria Nason e Moretti, Venezia-Murano, Italy",
+            "Medium": "Glass",
+            "Dimensions": "7 3/4 x 4 3/8\" (19.7 x 11.1 cm)",
+            "Credit": "Gift of Philip Johnson",
+            "Object number": "473.1956.16",
+            "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/8511"
+        "Profile": "https://www.moma.org/artists/4233"
     },
     {
-        "Artist": "Pierre Betz",
-        "Title": "Mooring Rope",
-        "Year": "c. 1930",
-        "ObjectID": "44134",
-        "Work": "https://www.moma.org/collection/works/44134",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMzQyNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3f44ceb3b662688e",
+        "Artist": "Umberto Nason",
+        "Title": "Cocktail Pitcher",
+        "Year": "1954",
+        "ObjectID": "3967",
+        "Work": "https://www.moma.org/collection/works/3967",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMTQ4MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=21aaf28ce1c9e76b",
         "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "8 3/4 \u00d7 9\" (22.2 \u00d7 22.9 cm)",
+            "Manufacturer": "Cristalleria Nason e Moretti, Venezia-Murano, Italy",
+            "Medium": "Glass",
+            "Dimensions": "7 3/4 x 4 3/8\" (19.7 x 11.1 cm)",
+            "Credit": "Gift of Philip Johnson",
+            "Object number": "473.1956.2",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/4233"
+    },
+    {
+        "Artist": "Umberto Nason",
+        "Title": "Vase",
+        "Year": "1954",
+        "ObjectID": "3968",
+        "Work": "https://www.moma.org/collection/works/3968",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMTQ4MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=785751d170aa159a",
+        "Details": {
+            "Manufacturer": "Cristalleria Nason e Moretti, Venezia-Murano, Italy",
+            "Medium": "Glass",
+            "Dimensions": "2 3/4 x 2 1/8\" (7 x 5.4 cm)",
+            "Credit": "Gift of Philip Johnson",
+            "Object number": "473.1956.3",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/4233"
+    },
+    {
+        "Artist": "Umberto Nason",
+        "Title": "Vase",
+        "Year": "1954",
+        "ObjectID": "3969",
+        "Work": "https://www.moma.org/collection/works/3969",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNzk5NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=24d011a58700877e",
+        "Details": {
+            "Manufacturer": "Cristalleria Nason e Moretti, Venezia-Murano, Italy",
+            "Medium": "Glass",
+            "Dimensions": "5 x 2\" (12.7 x 5.1 cm)",
+            "Credit": "Gift of Philip Johnson",
+            "Object number": "473.1956.4",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/4233"
+    },
+    {
+        "Artist": "Umberto Nason",
+        "Title": "Bowl",
+        "Year": "1954",
+        "ObjectID": "3970",
+        "Work": "https://www.moma.org/collection/works/3970",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyOTgwMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a825a297a80aea48",
+        "Details": {
+            "Manufacturer": "Cristalleria Nason e Moretti, Venezia-Murano, Italy",
+            "Medium": "Glass",
+            "Dimensions": "2 3/4 x 4 5/8\" (7 x 11.7 cm)",
+            "Credit": "Gift of Philip Johnson",
+            "Object number": "473.1956.5",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/4233"
+    },
+    {
+        "Artist": "Umberto Nason",
+        "Title": "Tumbler",
+        "Year": "1954",
+        "ObjectID": "3971",
+        "Work": "https://www.moma.org/collection/works/3971",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMTQ4NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f67517b995fbca72",
+        "Details": {
+            "Manufacturer": "Cristalleria Nason e Moretti, Venezia-Murano, Italy",
+            "Medium": "Glass",
+            "Dimensions": "2 5/8 x 2 5/8\" (6.7 x 6.7 cm)",
+            "Credit": "Gift of Philip Johnson",
+            "Object number": "473.1956.6",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/4233"
+    },
+    {
+        "Artist": "Umberto Nason",
+        "Title": "Vase",
+        "Year": "1954",
+        "ObjectID": "3972",
+        "Work": "https://www.moma.org/collection/works/3972",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMTQ4NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e32991b0b2735538",
+        "Details": {
+            "Manufacturer": "Cristalleria Nason e Moretti, Venezia-Murano, Italy",
+            "Medium": "Glass",
+            "Dimensions": "2 1/4 x 1 7/8\" (5.7 x 4.8 cm)",
+            "Credit": "Gift of Philip Johnson",
+            "Object number": "473.1956.7",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/4233"
+    },
+    {
+        "Artist": "Umberto Nason",
+        "Title": "Bowl",
+        "Year": "1954",
+        "ObjectID": "3973",
+        "Work": "https://www.moma.org/collection/works/3973",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMTQ4NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c6bfdbd13e63be90",
+        "Details": {
+            "Manufacturer": "Cristalleria Nason e Moretti, Venezia-Murano, Italy",
+            "Medium": "Glass",
+            "Dimensions": "2 1/4 x 5\" (5.7 x 12.7 cm)",
+            "Credit": "Gift of Philip Johnson",
+            "Object number": "473.1956.8",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/4233"
+    },
+    {
+        "Artist": "Umberto Nason",
+        "Title": "Tumbler",
+        "Year": "1954",
+        "ObjectID": "3974",
+        "Work": "https://www.moma.org/collection/works/3974",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMTQ4NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=968150e6dabc54b9",
+        "Details": {
+            "Manufacturer": "Cristalleria Nason e Moretti, Venezia-Murano, Italy",
+            "Medium": "Glass",
+            "Dimensions": "2 3/8 x 2 3/8\" (6 x 6 cm)",
+            "Credit": "Gift of Philip Johnson",
+            "Object number": "473.1956.9",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/4233"
+    },
+    {
+        "Artist": "Umberto Nason",
+        "Title": "Container",
+        "Year": "1954",
+        "ObjectID": "87442",
+        "Work": "https://www.moma.org/collection/works/87442",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyOTA3MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=30cecf180cd09af1",
+        "Details": {
+            "Manufacturer": "Cristalleria Nason e Moretti, Venezia-Murano, Italy",
+            "Medium": "Glass",
+            "Dimensions": "4 7/8 x diam. 2\" (12.4 x 5.1 cm)",
+            "Credit": "Phyllis B. Lambert Fund",
+            "Object number": "256.1958.1",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/4233"
+    },
+    {
+        "Artist": "Umberto Nason",
+        "Title": "Container",
+        "Year": "1954",
+        "ObjectID": "448525",
+        "Work": "https://www.moma.org/collection/works/448525",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyOTA3NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c72903e038402416",
+        "Details": {
+            "Manufacturer": "Cristalleria Nason e Moretti, Venezia-Murano, Italy",
+            "Medium": "Glass",
+            "Dimensions": "3 1/2 \u00d7 diam. 3 3/8\" (8.9 \u00d7 8.6 cm)",
+            "Credit": "Phyllis B. Lambert Fund",
+            "Object number": "256.1958.2",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/4233"
+    },
+    {
+        "Artist": "Umberto Nason",
+        "Title": "Container",
+        "Year": "1954",
+        "ObjectID": "448526",
+        "Work": "https://www.moma.org/collection/works/448526",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyOTA3NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=04a0f41a4e3b0bed",
+        "Details": {
+            "Manufacturer": "Cristalleria Nason e Moretti, Venezia-Murano, Italy",
+            "Medium": "Glass",
+            "Dimensions": "8 1/4 \u00d7 diam. 2 7/8\" (21 \u00d7 7.3 cm)",
+            "Credit": "Phyllis B. Lambert Fund",
+            "Object number": "256.1958.3",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/4233"
+    },
+    {
+        "Artist": "Edgar Negret",
+        "Title": "Sign for an Aquarium (Model)",
+        "Year": "1954",
+        "ObjectID": "81579",
+        "Work": "https://www.moma.org/collection/works/81579",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzMzE3NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=18c90710fa787535",
+        "Details": {
+            "Medium": "Painted iron",
+            "Dimensions": "4 3/8 x 13 1/2 x 3 3/4\" (11.2 x 34 x 9.5 cm)",
+            "Credit": "Inter-American Fund",
+            "Object number": "551.1954",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/4255"
+    },
+    {
+        "Artist": "George Nelson Associates",
+        "Title": "\"Cone\" Table Clock",
+        "Year": "1954",
+        "ObjectID": "292708",
+        "Work": "https://www.moma.org/collection/works/292708",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzOTI5OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8ccaf91ca05d8cb3",
+        "Details": {
+            "Medium": "Lacquered wood, enamelled aluminum, enamelled steel, and plastic",
+            "Dimensions": "6 1/2 \u00d7 5 3/4 \u00d7 6\" (16.5 \u00d7 14.6 \u00d7 15.2 cm)",
+            "Credit": "Gift of the George R. Kravis II Collection",
+            "Object number": "1277.2018",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/49209"
+    },
+    {
+        "Artist": "Hiroshi Ohchi",
+        "Title": "Nissan Laundry (Sic) Soap",
+        "Year": "1954",
+        "ObjectID": "4859",
+        "Work": "https://www.moma.org/collection/works/4859",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjYwMTE2Il0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNTEyeDUxMlx1MDAzZSJdXQ.jpg?sha=0fa5c8976c86f6fc",
+        "Details": {
+            "Medium": "Silkscreen",
+            "Dimensions": "28 1/4 x 19 3/4\" (71.8 x 50.2 cm)",
+            "Credit": "Gift of Jack Banning",
+            "Object number": "SC51.1987.4",
+            "Copyright": "\u00a9 2023 Hiroshi Ohchi",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/4381"
+    },
+    {
+        "Artist": "Hiroshi Ohchi",
+        "Title": "Poster advertising children\u2019s shoes",
+        "Year": "1954",
+        "ObjectID": "5524",
+        "Work": "https://www.moma.org/collection/works/5524",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Silkscreen",
+            "Dimensions": "29 1/8 x 20 3/4\" (74 x 52.7 cm)",
             "Credit": "Gift of the artist",
-            "Object number": "25.1941",
-            "Copyright": "\u00a9 2023 Pierre Betz",
+            "Object number": "177.1955",
+            "Copyright": "\u00a9 2023 Hiroshi Ohchi",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/4381"
+    },
+    {
+        "Artist": "Hiroshi Ohchi",
+        "Title": "Radio",
+        "Year": "1954",
+        "ObjectID": "8819",
+        "Work": "https://www.moma.org/collection/works/8819",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDM2NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cc8aa22ef6b7afd3",
+        "Details": {
+            "Medium": "Silkscreen",
+            "Dimensions": "40 1/2 x 28 1/4\" (102.9 x 71.8 cm)",
+            "Credit": "Gift of the designer",
+            "Object number": "1522.2000",
+            "Copyright": "\u00a9 2023 Hiroshi Ohchi",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/4381"
+    },
+    {
+        "Artist": "Hiroshi Ohchi",
+        "Title": "Advertisement for Showa Era 30th Edition High School Textbooks",
+        "Year": "1954",
+        "ObjectID": "83500",
+        "Work": "https://www.moma.org/collection/works/83500",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Silkscreen",
+            "Dimensions": "28 3/8 x 20 1/8\" (72.1 x 51.1 cm)",
+            "Publisher": "Kogakusha Corporation, Tokyo",
+            "Credit": "Gift of Jack Banning",
+            "Object number": "SC51.1987.5",
+            "Copyright": "\u00a9 2023 Hiroshi Ohchi",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/4381"
+    },
+    {
+        "Artist": "Hiroshi Ohchi",
+        "Title": "Chicken Feed",
+        "Year": "1954",
+        "ObjectID": "83501",
+        "Work": "https://www.moma.org/collection/works/83501",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjYxNTQxIl0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNTEyeDUxMlx1MDAzZSJdXQ.jpg?sha=eb61a33fdb8b1277",
+        "Details": {
+            "Medium": "Silkscreen",
+            "Dimensions": "28 1/2 x 20\" (72.4 x 50.8 cm)",
+            "Printer": "Miyoshi Printing Co., Tokyo",
+            "Credit": "Gift of Jack Banning",
+            "Object number": "SC51.1987.6",
+            "Copyright": "\u00a9 2023 Hiroshi Ohchi",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/4381"
+    },
+    {
+        "Artist": "Hiroshi Ohchi",
+        "Title": "Poster for the Japan Anti-Tuberculosis Association",
+        "Year": "1954",
+        "ObjectID": "190174",
+        "Work": "https://www.moma.org/collection/works/190174",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzMjQ3NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9bb68ad94465b300",
+        "Details": {
+            "Medium": "Silkscreen",
+            "Dimensions": "28 3/4 \u00d7 20 3/8\" (73 \u00d7 51.8 cm)",
+            "Credit": "Gift of the designer",
+            "Object number": "877.2015",
+            "Copyright": "\u00a9 2023 Hiroshi Ohchi",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/4381"
+    },
+    {
+        "Artist": "Felipe Orlando",
+        "Title": "Untitled portfolio",
+        "Year": "c. 1949-50",
+        "ObjectID": "65358",
+        "Work": "https://www.moma.org/collection/works/65358",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMTUxOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c13ae4f07a38c273",
+        "Details": {
+            "Author": "Jean-Paul Bloch",
+            "Medium": "Portfolio of four woodcuts, six screenprints, and an essay",
+            "Dimensions": "plate (see child records): various dimensions; sheet (each): 13 5/8 x 11 3/4\" (34.7 x 29.9 cm)",
+            "Publisher": "Editorial Paloma y Saeta, Mexico",
+            "Edition": "100",
+            "Credit": "Gift of Mr. and Mrs. Felipe Orlando",
+            "Object number": "256.1950.1-10",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4426"
+    },
+    {
+        "Artist": "Felipe Orlando",
+        "Title": "Untitled from an untitled portfolio",
+        "Year": "c. 1949-50",
+        "ObjectID": "150864",
+        "Work": "https://www.moma.org/collection/works/150864",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMTUyMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2f64a599337b6084",
+        "Details": {
+            "Medium": "Woodcut from a portfolio of four woodcuts and six screenprints",
+            "Dimensions": "composition and sheet 13 5/8 x 11 3/4\" (34.7 x 29.9 cm)",
+            "Publisher": "Editorial Paloma y Saeta, Mexico",
+            "Edition": "100",
+            "Credit": "Gift of Mr. and Mrs. Felipe Orlando",
+            "Object number": "256.1950.1",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4426"
+    },
+    {
+        "Artist": "Felipe Orlando",
+        "Title": "Untitled from an untitled portfolio",
+        "Year": "c. 1949-50",
+        "ObjectID": "150865",
+        "Work": "https://www.moma.org/collection/works/150865",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMTUyMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=78d6c7de21d41f8d",
+        "Details": {
+            "Medium": "Woodcut from a portfolio of four woodcuts and six screenprints",
+            "Dimensions": "plate: 7 5/8 \u00d7 7 3/16\" (19.3 \u00d7 18.3 cm); sheet: 13 11/16 x 11 3/4\" (34.7 x 29.9cm)",
+            "Publisher": "Editorial Paloma y Saeta, Mexico",
+            "Edition": "100",
+            "Credit": "Gift of Mr. and Mrs. Felipe Orlando",
+            "Object number": "256.1950.2",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4426"
+    },
+    {
+        "Artist": "Felipe Orlando",
+        "Title": "Untitled from an untitled portfolio",
+        "Year": "c. 1949-50",
+        "ObjectID": "150866",
+        "Work": "https://www.moma.org/collection/works/150866",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMTUyMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a98af07c6b6ee796",
+        "Details": {
+            "Medium": "Woodcut from a portfolio of four woodcuts and six screenprints",
+            "Dimensions": "plate: 6 9/16 \u00d7 10 1/2\" (16.7 \u00d7 26.6 cm); sheet: 13 11/16 x 11 3/4\" (34.7 x 29.9cm)",
+            "Publisher": "Editorial Paloma y Saeta, Mexico",
+            "Edition": "100",
+            "Credit": "Gift of Mr. and Mrs. Felipe Orlando",
+            "Object number": "256.1950.3",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4426"
+    },
+    {
+        "Artist": "Felipe Orlando",
+        "Title": "Untitled from an untitled portfolio",
+        "Year": "c. 1949-50",
+        "ObjectID": "150867",
+        "Work": "https://www.moma.org/collection/works/150867",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMTUyMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4df97f5c9284692e",
+        "Details": {
+            "Medium": "Woodcut from a portfolio of four woodcuts and six screenprints",
+            "Dimensions": "plate: 10 1/2 \u00d7 5 11/16\" (26.6 \u00d7 14.5 cm); sheet: 13 11/16 x 11 3/4\" (34.7 x 29.9cm)",
+            "Publisher": "Editorial Paloma y Saeta, Mexico",
+            "Edition": "100",
+            "Credit": "Gift of Mr. and Mrs. Felipe Orlando",
+            "Object number": "256.1950.4",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4426"
+    },
+    {
+        "Artist": "Felipe Orlando",
+        "Title": "Untitled from an untitled portfolio",
+        "Year": "c. 1949-50",
+        "ObjectID": "150868",
+        "Work": "https://www.moma.org/collection/works/150868",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMTUyNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=eec2b3faf3038482",
+        "Details": {
+            "Medium": "Screenprint from a portfolio of four woodcuts and six screenprints",
+            "Dimensions": "plate: 10 7/16 \u00d7 8 11/16\" (26.5 \u00d7 22 cm); sheet: 13 11/16 x 11 3/4\" (34.7 x 29.9cm)",
+            "Publisher": "Editorial Paloma y Saeta, Mexico",
+            "Edition": "100",
+            "Credit": "Gift of Mr. and Mrs. Felipe Orlando",
+            "Object number": "256.1950.5",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4426"
+    },
+    {
+        "Artist": "Felipe Orlando",
+        "Title": "Untitled from an untitled portfolio",
+        "Year": "c. 1949-50",
+        "ObjectID": "150869",
+        "Work": "https://www.moma.org/collection/works/150869",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMTUyNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=70d0aa2e8dfe44f9",
+        "Details": {
+            "Medium": "Screenprint from a portfolio of four woodcuts and six screenprints",
+            "Dimensions": "sheet: 13 11/16 x 11 3/4\" (34.7 x 29.9cm); plate: 9 3/8 \u00d7 8 1/16\" (23.8 \u00d7 20.5 cm)",
+            "Publisher": "Editorial Paloma y Saeta, Mexico",
+            "Edition": "100",
+            "Credit": "Gift of Mr. and Mrs. Felipe Orlando",
+            "Object number": "256.1950.6",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4426"
+    },
+    {
+        "Artist": "Felipe Orlando",
+        "Title": "Untitled from an untitled portfolio",
+        "Year": "c. 1949-50",
+        "ObjectID": "150870",
+        "Work": "https://www.moma.org/collection/works/150870",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMTUyNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a1a5bf0548fbb463",
+        "Details": {
+            "Medium": "Screenprint from a portfolio of four woodcuts and six screenprints",
+            "Dimensions": "sheet: 13 11/16 x 11 3/4\" (34.7 x 29.9 cm); plate: 8 1/16 \u00d7 10\" (20.4 \u00d7 25.4 cm)",
+            "Publisher": "Editorial Paloma y Saeta, Mexico",
+            "Edition": "100",
+            "Credit": "Gift of Mr. and Mrs. Felipe Orlando",
+            "Object number": "256.1950.7",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4426"
+    },
+    {
+        "Artist": "Felipe Orlando",
+        "Title": "Untitled from an untitled portfolio",
+        "Year": "c. 1949-50",
+        "ObjectID": "150871",
+        "Work": "https://www.moma.org/collection/works/150871",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMTUyNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b6528d49c738bbfc",
+        "Details": {
+            "Medium": "Screenprint from a portfolio of four woodcuts and six screenprints",
+            "Dimensions": "plate: 7 15/16 \u00d7 9 9/16\" (20.2 \u00d7 24.3 cm); sheet: 13 11/16 x 11 3/4\" (34.7 x 29.9cm)",
+            "Publisher": "Editorial Paloma y Saeta, Mexico",
+            "Edition": "100",
+            "Credit": "Gift of Mr. and Mrs. Felipe Orlando",
+            "Object number": "256.1950.8",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4426"
+    },
+    {
+        "Artist": "Felipe Orlando",
+        "Title": "Untitled from an untitled portfolio",
+        "Year": "c. 1949-50",
+        "ObjectID": "150872",
+        "Work": "https://www.moma.org/collection/works/150872",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMTUyOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fe34cd4183593430",
+        "Details": {
+            "Medium": "Screenprint from a portfolio of four woodcuts and six screenprints",
+            "Dimensions": "plate: 4 15/16 \u00d7 7 9/16\" (12.5 \u00d7 19.2 cm); sheet: 13 11/16 x 11 3/4\" (34.7 x 29.9cm)",
+            "Publisher": "Editorial Paloma y Saeta, Mexico",
+            "Edition": "100",
+            "Credit": "Gift of Mr. and Mrs. Felipe Orlando",
+            "Object number": "256.1950.9",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4426"
+    },
+    {
+        "Artist": "Felipe Orlando",
+        "Title": "Untitled from an untitled portfolio",
+        "Year": "c. 1949-50",
+        "ObjectID": "150873",
+        "Work": "https://www.moma.org/collection/works/150873",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMTUxOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e7d889288e37d704",
+        "Details": {
+            "Medium": "Screenprint from a portfolio of four woodcuts and six screenprints",
+            "Dimensions": "plate: 6 1/16 \u00d7 4\" (15.4 \u00d7 10.2 cm); sheet: 13 11/16 x 11 3/4\" (34.7 x 29.9cm)",
+            "Publisher": "Editorial Paloma y Saeta, Mexico",
+            "Edition": "100",
+            "Credit": "Gift of Mr. and Mrs. Felipe Orlando",
+            "Object number": "256.1950.10",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4426"
+    },
+    {
+        "Artist": "Alejandro Otero",
+        "Title": "Pampatar Board",
+        "Year": "1954",
+        "ObjectID": "205976",
+        "Work": "https://www.moma.org/collection/works/205976",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ0ODc5MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=972592e7902ef6e5",
+        "Details": {
+            "Medium": "Lacquer on wood",
+            "Dimensions": "126 \u00d7 25 5/8 \u00d7 1 1/16\" (320 \u00d7 65.1 \u00d7 2.7 cm)",
+            "Credit": "Promised gift of Patricia Phelps de Cisneros through the Latin American and Caribbean Fund in honor of Adriana Cisneros de Griffin and Nicholas Griffin",
+            "Object number": "PG852.2016",
+            "Copyright": "\u00a9 2023 / Artists Rights Society (ARS), New York / AUTORARTE, Venezuela",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/4445"
+    },
+    {
+        "Artist": "Kiyoji Otsuji, Katsuhiro Yamaguchi",
+        "Title": "APN (Asahi Picture News)",
+        "Year": "1953-54",
+        "ObjectID": "159631",
+        "Work": "https://www.moma.org/collection/works/159631",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0NzQzMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=95b4879286c00090",
+        "Details": {
+            "Medium": "Gelatin silver prints, printed 2002",
+            "Dimensions": "21 1/16 \u00d7 17 1/8\" (53.5 \u00d7 43.5 cm)",
+            "Credit": "Committee on Photography Fund",
+            "Object number": "701.2012.1-10",
+            "Copyright": "\u00a9 2023 Seiko Otsuji",
+            "Type": "Portfolio",
             "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/538"
+        "Profile": "https://www.moma.org/artists/38961"
     },
     {
-        "Artist": "Max Bill",
-        "Title": "Ausstellung Fotos, Binia Bill",
-        "Year": "1930s",
-        "ObjectID": "7656",
-        "Work": "https://www.moma.org/collection/works/7656",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDcyNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0fe8d57c624ec65b",
+        "Artist": "Kiyoji Otsuji, Katsuhiro Yamaguchi",
+        "Title": "Untitled from the portfolio APN (Asahi Picture News)",
+        "Year": "1953-54",
+        "ObjectID": "161811",
+        "Work": "https://www.moma.org/collection/works/161811",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0NjQwNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8343a9de560f8cad",
         "Details": {
-            "Medium": "Letterpress",
-            "Dimensions": "4 1/8 x 5 7/8\" (10.5 x 14.9 cm)",
-            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
-            "Object number": "592.1999",
-            "Department": "Architecture and Design"
+            "Medium": "Gelatin silver print, printed 2002",
+            "Dimensions": "6 5/16 \u00d7 4 5/16\" (16 \u00d7 11 cm)",
+            "Credit": "Committee on Photography Fund",
+            "Object number": "701.2012.1",
+            "Copyright": "\u00a9 2023 Seiko Otsuji",
+            "Portfolio": "APN (Asahi Picture News)",
+            "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/559"
+        "Profile": "https://www.moma.org/artists/38961"
     },
     {
-        "Artist": "Max Bill",
-        "Title": "Wohnbedarf",
-        "Year": "1930s",
-        "ObjectID": "7660",
-        "Work": "https://www.moma.org/collection/works/7660",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDcyNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=feab8db437e416af",
+        "Artist": "Kiyoji Otsuji, Katsuhiro Yamaguchi",
+        "Title": "Untitled from the portfolio APN (Asahi Picture News)",
+        "Year": "1953-54",
+        "ObjectID": "161812",
+        "Work": "https://www.moma.org/collection/works/161812",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0NjQwOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d2210ee854732264",
         "Details": {
-            "Medium": "Letterpress",
-            "Dimensions": "9 7/16 x 6 1/2\" (24 x 16.5 cm)",
-            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
-            "Object number": "593.1999",
-            "Department": "Architecture and Design"
+            "Medium": "Gelatin silver print, printed 2002",
+            "Dimensions": "7 5/16 \u00d7 4 15/16\" (18.6 \u00d7 12.5 cm)",
+            "Credit": "Committee on Photography Fund",
+            "Object number": "701.2012.2",
+            "Copyright": "\u00a9 2023 Seiko Otsuji",
+            "Portfolio": "APN (Asahi Picture News)",
+            "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/559"
+        "Profile": "https://www.moma.org/artists/38961"
     },
     {
-        "Artist": "Max Bill",
-        "Title": "Wohnbedarf",
-        "Year": "1930s",
-        "ObjectID": "7669",
-        "Work": "https://www.moma.org/collection/works/7669",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDcyNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9ad3eb09919cc58f",
+        "Artist": "Kiyoji Otsuji, Katsuhiro Yamaguchi",
+        "Title": "Untitled from the portfolio APN (Asahi Picture News)",
+        "Year": "1953-54",
+        "ObjectID": "161813",
+        "Work": "https://www.moma.org/collection/works/161813",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0NjQxMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=05484129572133bc",
         "Details": {
-            "Medium": "Letterpress",
-            "Dimensions": "11 11/16 x 8 3/8\" (29.7 x 21.3 cm)",
-            "Printer": "Berichthaus, Z\u00fcrich",
-            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
-            "Object number": "595.1999",
-            "Department": "Architecture and Design"
+            "Medium": "Gelatin silver print, printed 2002",
+            "Dimensions": "9 9/16 \u00d7 6 7/16\" (24.3 \u00d7 16.3 cm)",
+            "Credit": "Committee on Photography Fund",
+            "Object number": "701.2012.3",
+            "Copyright": "\u00a9 2023 Seiko Otsuji",
+            "Portfolio": "APN (Asahi Picture News)",
+            "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/559"
+        "Profile": "https://www.moma.org/artists/38961"
     },
     {
-        "Artist": "Max Bill",
-        "Title": "Trudi Stossel Schule fur Gymnastik und Rhythmik",
-        "Year": "1930s",
-        "ObjectID": "7673",
-        "Work": "https://www.moma.org/collection/works/7673",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDcyOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e67594b9c309cb17",
+        "Artist": "Kiyoji Otsuji, Katsuhiro Yamaguchi",
+        "Title": "Untitled from the portfolio APN (Asahi Picture News)",
+        "Year": "1953-54",
+        "ObjectID": "161814",
+        "Work": "https://www.moma.org/collection/works/161814",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0NjQxMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c0ac5c0213c9e0a8",
         "Details": {
-            "Medium": "Letterpress",
-            "Dimensions": "8 5/16 x 4\" (21.1 x 10.2 cm)",
-            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
-            "Object number": "596.1999",
+            "Medium": "Gelatin silver print, printed 2002",
+            "Dimensions": "7 5/16 \u00d7 4 15/16\" (18.6 \u00d7 12.5 cm)",
+            "Credit": "Committee on Photography Fund",
+            "Object number": "701.2012.4",
+            "Copyright": "\u00a9 2023 Seiko Otsuji",
+            "Portfolio": "APN (Asahi Picture News)",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/38961"
+    },
+    {
+        "Artist": "Kiyoji Otsuji, Katsuhiro Yamaguchi",
+        "Title": "Untitled from the portfolio APN (Asahi Picture News), Untitled _from the portfolio_ APN (Asahi Picture News)",
+        "Year": "1953-54",
+        "ObjectID": "161815",
+        "Work": "https://www.moma.org/collection/works/161815",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0NjQxMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=902efb9a5645dc24",
+        "Details": {
+            "Medium": "Gelatin silver print, printed 2002",
+            "Dimensions": "4 9/16 \u00d7 7 1/2\" (11.6 \u00d7 19 cm)",
+            "Credit": "Committee on Photography Fund",
+            "Object number": "701.2012.5",
+            "Copyright": "\u00a9 2023 Seiko Otsuji",
+            "Portfolio": "APN (Asahi Picture News)",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/38961"
+    },
+    {
+        "Artist": "Kiyoji Otsuji, Katsuhiro Yamaguchi",
+        "Title": "Untitled from the portfolio APN (Asahi Picture News), Untitled _from the portfolio_ APN (Asahi Picture News)",
+        "Year": "1953-54",
+        "ObjectID": "161816",
+        "Work": "https://www.moma.org/collection/works/161816",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0NjQxMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8cee1176c821303d",
+        "Details": {
+            "Medium": "Gelatin silver print, printed 2002",
+            "Dimensions": "9 7/16 \u00d7 7\" (23.9 \u00d7 17.8 cm)",
+            "Credit": "Committee on Photography Fund",
+            "Object number": "701.2012.6",
+            "Copyright": "\u00a9 2023 Seiko Otsuji",
+            "Portfolio": "APN (Asahi Picture News)",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/38961"
+    },
+    {
+        "Artist": "Kiyoji Otsuji, Katsuhiro Yamaguchi",
+        "Title": "Untitled from the portfolio APN (Asahi Picture News), Untitled _from the portfolio_ APN (Asahi Picture News)",
+        "Year": "1953-54",
+        "ObjectID": "161817",
+        "Work": "https://www.moma.org/collection/works/161817",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0NjQxNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ae919bedc454cf00",
+        "Details": {
+            "Medium": "Gelatin silver print, printed 2002",
+            "Dimensions": "6 5/16 \u00d7 4 7/16\" (16 \u00d7 11.2 cm)",
+            "Credit": "Committee on Photography Fund",
+            "Object number": "701.2012.7",
+            "Copyright": "\u00a9 2023 Seiko Otsuji",
+            "Portfolio": "APN (Asahi Picture News)",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/38961"
+    },
+    {
+        "Artist": "Kiyoji Otsuji, Katsuhiro Yamaguchi",
+        "Title": "Untitled from the portfolio APN (Asahi Picture News), Untitled _from the portfolio_ APN (Asahi Picture News)",
+        "Year": "1953-54",
+        "ObjectID": "161818",
+        "Work": "https://www.moma.org/collection/works/161818",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0NjQxNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8f4caa2e42cb3f6f",
+        "Details": {
+            "Medium": "Gelatin silver print, printed 2002",
+            "Dimensions": "7 5/16 \u00d7 6 5/16\" (18.6 \u00d7 16 cm)",
+            "Credit": "Committee on Photography Fund",
+            "Object number": "701.2012.8",
+            "Copyright": "\u00a9 2023 Seiko Otsuji",
+            "Portfolio": "APN (Asahi Picture News)",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/38961"
+    },
+    {
+        "Artist": "Kiyoji Otsuji, Katsuhiro Yamaguchi",
+        "Title": "Untitled from the portfolio APN (Asahi Picture News), Untitled _from the portfolio_ APN (Asahi Picture News)",
+        "Year": "1953-54",
+        "ObjectID": "161819",
+        "Work": "https://www.moma.org/collection/works/161819",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0NjQxNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=888ac11facae0cfc",
+        "Details": {
+            "Medium": "Gelatin silver print, printed 2002",
+            "Dimensions": "6 5/16 \u00d7 4 5/16\" (16 \u00d7 11 cm)",
+            "Credit": "Committee on Photography Fund",
+            "Object number": "701.2012.9",
+            "Copyright": "\u00a9 2023 Seiko Otsuji",
+            "Portfolio": "APN (Asahi Picture News)",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/38961"
+    },
+    {
+        "Artist": "Kiyoji Otsuji, Katsuhiro Yamaguchi",
+        "Title": "Untitled from the portfolio APN (Asahi Picture News)",
+        "Year": "1953-54",
+        "ObjectID": "161820",
+        "Work": "https://www.moma.org/collection/works/161820",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0NjQxNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=986c4dc6fc34f047",
+        "Details": {
+            "Medium": "Gelatin silver print, printed 2002",
+            "Dimensions": "8 3/4 \u00d7 7 5/8\" (22.3 \u00d7 19.4 cm)",
+            "Credit": "Committee on Photography Fund",
+            "Object number": "701.2012.10",
+            "Copyright": "\u00a9 2023 Seiko Otsuji",
+            "Portfolio": "APN (Asahi Picture News)",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/38961"
+    },
+    {
+        "Artist": "Hans Heinrich Palitzsch",
+        "Title": "Mannheimer Kultur- und Dokumentarfilm-Woche",
+        "Year": "1954",
+        "ObjectID": "7410",
+        "Work": "https://www.moma.org/collection/works/7410",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "16 1/4 x 45 1/2\" (41.3 x 115.6cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "528.1954",
             "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/559"
+        "Profile": "https://www.moma.org/artists/4476"
+    },
+    {
+        "Artist": "Hans Heinrich Palitzsch",
+        "Title": "Der Bettelstudent",
+        "Year": "1954",
+        "ObjectID": "7415",
+        "Work": "https://www.moma.org/collection/works/7415",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "16 x 16\" (40.6 x 40.6cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "529.1954",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/4476"
+    },
+    {
+        "Artist": "Hans Heinrich Palitzsch",
+        "Title": "Das Schloss",
+        "Year": "1954",
+        "ObjectID": "7420",
+        "Work": "https://www.moma.org/collection/works/7420",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "16 x 15 1/2\" (40.6 x 39.4cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "530.1954",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/4476"
+    },
+    {
+        "Artist": "Sven Palmqvist",
+        "Title": "Vase",
+        "Year": "1954",
+        "ObjectID": "3081",
+        "Work": "https://www.moma.org/collection/works/3081",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMDg5NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2599d9f6fecfb840",
+        "Details": {
+            "Manufacturer": "Orrefors, Sweden",
+            "Medium": "Glass",
+            "Dimensions": "12 1/2 x 2 1/16\" (31.7 x 5.2 cm)",
+            "Credit": "Phyllis B. Lambert Fund",
+            "Object number": "254.1958",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/4478"
     }
 ]

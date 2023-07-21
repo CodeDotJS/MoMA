@@ -1,686 +1,460 @@
 [
     {
-        "Artist": "Massimo Vignelli, Bob Noorda, Unimark International Corporation, New York",
-        "Title": "New York City Transit Authority\n Graphics Standards Manual",
-        "Year": "1966-70",
-        "ObjectID": "89303",
-        "Work": "https://www.moma.org/collection/works/89303",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3NTEyNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7536325333ede3d2",
+        "Artist": "Anne Truitt",
+        "Title": "30 July 1973",
+        "Year": "1973",
+        "ObjectID": "88127",
+        "Work": "https://www.moma.org/collection/works/88127",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyODUzMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3d25097c795e43e2",
         "Details": {
-            "Medium": "Lithograph with screenprinted binder",
-            "Dimensions": "13 5/8 x 15 1/2 x 2 7/8\" (34.6 x 39.4 x 7.3 cm)",
-            "Credit": "Gift of the designer",
-            "Object number": "374.2004",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/6155"
-    },
-    {
-        "Artist": "Massimo Vignelli, Lella Vignelli",
-        "Title": "Knoll International Graphic Program: The Petitt Chairs",
-        "Year": "1970",
-        "ObjectID": "199274",
-        "Work": "https://www.moma.org/collection/works/199274",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MjIxNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3a456e9d8ee9e219",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "11 3/4 x 8 1/4\" (29.8 x 21 cm)",
-            "Credit": "Gift of the designer",
-            "Object number": "377.2004.11",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/6155"
-    },
-    {
-        "Artist": "Massimo Vignelli, Lella Vignelli",
-        "Title": "Knoll International Graphic Program: The Wegner Chairs",
-        "Year": "1970",
-        "ObjectID": "199275",
-        "Work": "https://www.moma.org/collection/works/199275",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MjIxNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8b99a00c6e2963ce",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "11 3/4 x 8 1/4\" (29.8 x 21 cm)",
-            "Credit": "Gift of the designer",
-            "Object number": "377.2004.12",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/6155"
-    },
-    {
-        "Artist": "Massimo Vignelli, Lella Vignelli",
-        "Title": "Knoll International Graphic Program: Mies van der Rohe Collection",
-        "Year": "1970",
-        "ObjectID": "199276",
-        "Work": "https://www.moma.org/collection/works/199276",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MjIxNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1dedb3d73393af6f",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "11 3/4 x 8 1/4\" (29.8 x 21 cm)",
-            "Credit": "Gift of the designer",
-            "Object number": "377.2004.13",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/6155"
-    },
-    {
-        "Artist": "Massimo Vignelli, Lella Vignelli",
-        "Title": "Knoll International Graphic Program: The Rasmussen Chair",
-        "Year": "1970",
-        "ObjectID": "199277",
-        "Work": "https://www.moma.org/collection/works/199277",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MjIxNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1e9cff28e4510d85",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "11 3/4 x 8 1/4\" (29.8 x 21 cm)",
-            "Credit": "Gift of the designer",
-            "Object number": "377.2004.14",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/6155"
-    },
-    {
-        "Artist": "Massimo Vignelli, Lella Vignelli",
-        "Title": "Knoll International Graphic Program: The Breuer Collection",
-        "Year": "1970",
-        "ObjectID": "199278",
-        "Work": "https://www.moma.org/collection/works/199278",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MjIxOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b664936118e4b5be",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "11 3/4 x 8 1/4\" (29.8 x 21 cm)",
-            "Credit": "Gift of the designer",
-            "Object number": "377.2004.15",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/6155"
-    },
-    {
-        "Artist": "Reinhard Voigt",
-        "Title": "Morphine",
-        "Year": "1970",
-        "ObjectID": "97648",
-        "Work": "https://www.moma.org/collection/works/97648",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzNTA3NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=41a7c326d46507a7",
-        "Details": {
-            "Medium": "Colored pencil, pencil, and ink on transparentized paper",
-            "Dimensions": "6 3/8 x 9 1/2\" (16.2 x 24.1 cm)",
-            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
-            "Object number": "3343.2005",
-            "Copyright": "\u00a9 2023 Reinhard Voigt",
+            "Medium": "Acrylic and pencil on paper",
+            "Dimensions": "21 3/4 x 29 3/4\" (55.2 x 75.6 cm)",
+            "Credit": "Purchase",
+            "Object number": "157.2003",
+            "Copyright": "\u00a9 2023 Anne Truitt",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/28845"
+        "Profile": "https://www.moma.org/artists/5945"
     },
     {
-        "Artist": "Theodore Waddell, Dante Bandini",
-        "Title": "Light Sticks Lamp (B 7 bowl model)",
-        "Year": "1970",
-        "ObjectID": "1904",
-        "Work": "https://www.moma.org/collection/works/1904",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxOTk4NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f6687971a86cbe02",
+        "Artist": "Anne Truitt",
+        "Title": "11 July '73",
+        "Year": "1973",
+        "ObjectID": "421548",
+        "Work": "https://www.moma.org/collection/works/421548",
+        "Thumbnail": null,
         "Details": {
-            "Manufacturer": "Toscano Manetti, Florence",
-            "Medium": "Glass, chrome, and injection-molded plastic",
-            "Dimensions": "7 1/2 x 8 1/4\" (19 x 21 cm)",
-            "Credit": "Gift of the designer",
-            "Object number": "59.1972",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/6203"
-    },
-    {
-        "Artist": "Theodore Waddell, Dante Bandini",
-        "Title": "Light Sticks Lamp Horizontal Model",
-        "Year": "1970",
-        "ObjectID": "4022",
-        "Work": "https://www.moma.org/collection/works/4022",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxOTk2NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a6b30ec5b068f749",
-        "Details": {
-            "Manufacturer": "Toscano Manetti, Florence",
-            "Medium": "Chrome-plated brass tubing, molded plastic, and light bulbs",
-            "Dimensions": "Base: 3 3/4 x 22 7/8 x 3 3/4\" (9.5 x 5.1 x 9.5 cm)\r\nLight sticks: l. 10 5/8\" (l. 27 cm)",
-            "Credit": "Gift of the designer",
-            "Object number": "479.1970",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/6203"
-    },
-    {
-        "Artist": "Aijiro Wakita",
-        "Title": "J-11",
-        "Year": "(1970)",
-        "ObjectID": "72831",
-        "Work": "https://www.moma.org/collection/works/72831",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMTUxMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=64b0a097d9a96e9c",
-        "Details": {
-            "Medium": "Screenprint",
-            "Dimensions": "composition: 15 11/16 x 14 15/16\" (39.9 x 37.9 cm); sheet: 19 1/4 x 18 9/16\" (48.9 x 47.2 cm)",
-            "Credit": "Gift of Mr. and Mrs. Wolfgang Schoenborn",
-            "Object number": "665.1971",
+            "Medium": "Acrylic and pencil on paper",
+            "Dimensions": "22 \u00d7 30\" (55.9 \u00d7 76.2 cm)",
+            "Credit": "June Noble Larkin Bequest",
+            "Object number": "806.2022",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/6215"
+        "Profile": "https://www.moma.org/artists/5945"
+    },
+    {
+        "Artist": "Anne Truitt",
+        "Title": "13 July '73",
+        "Year": "1973",
+        "ObjectID": "421549",
+        "Work": "https://www.moma.org/collection/works/421549",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Acrylic and pencil on paper",
+            "Dimensions": "22 \u00d7 30\" (55.9 \u00d7 76.2 cm)",
+            "Credit": "June Noble Larkin Bequest",
+            "Object number": "807.2022",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5945"
+    },
+    {
+        "Artist": "Ned Truss",
+        "Title": "The Consumer (La Consumidora) from AGPA 73: Pan American Graphic Arts (AGPA 73: Artes graficas panamericanas)",
+        "Year": "1973",
+        "ObjectID": "67870",
+        "Work": "https://www.moma.org/collection/works/67870",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQwNDczNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9bb72f96d82f409e",
+        "Details": {
+            "Medium": "Screenprint from a portfolio of 11 screenprints (one with embossing), seven etchings (three with aquatint, one with embossing), six lithographs (one with etching), five linoleum cuts (one with embossing), one engraving, and one intaglio with embossing",
+            "Dimensions": "composition (irreg.): 16 15/16 \u00d7 11 7/16\" (43.1 \u00d7 29 cm); sheet: 30 3/16 \u00d7 22 1/16\" (76.6 \u00d7 56.1 cm)",
+            "Publisher": "Cart\u00f3n y Papel de M\u00e9xico, S. A., Mexico City",
+            "Edition": "150",
+            "Credit": "Gift of Cart\u00f3n y Papel de M\u00e9xico, S. A.",
+            "Object number": "366.1974.9",
+            "Portfolio": "AGPA 73: Pan American Graphic Arts (AGPA 73: Artes gr\u00e1ficas panamericanas)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6797"
+    },
+    {
+        "Artist": "Richard Tuttle",
+        "Title": "In Praise of Economic Determinism",
+        "Year": "1973",
+        "ObjectID": "68552",
+        "Work": "https://www.moma.org/collection/works/68552",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3OTM2NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9412ef474ca91f3f",
+        "Details": {
+            "Medium": "Lithograph with pencil and punched hole additions",
+            "Dimensions": "composition (irreg.): 5 1/4 x 4 3/16\" (13.3 x 10.7 cm); sheet: 31 1/4 x 22 3/8\" (79.3 x 56.9 cm)",
+            "Publisher": "Brooke Alexander, Inc., New York",
+            "Printer": "George Miller and Son, New York",
+            "Edition": "22",
+            "Credit": "Carol O. Selle Fund",
+            "Object number": "406.1973",
+            "Copyright": "\u00a9 2023 Richard Tuttle",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5983"
+    },
+    {
+        "Artist": "Cy Twombly",
+        "Title": "Untitled from Homage to Picasso (Hommage a Picasso)",
+        "Year": "1973",
+        "ObjectID": "60214",
+        "Work": "https://www.moma.org/collection/works/60214",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMTQ0MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ecec4f6a45f3b5c7",
+        "Details": {
+            "Medium": "Lithograph and collotype from a portfolio of thirty-one lithographs (one with aquatint, one with collotype, one with screenprint), twenty-two screenprints (one with embossing, one with flocking, one with stencil), eleven etchings (five with aquatint, one with aquatint and drypoint, one with aquatint, drypoint, and engraving), three aquatints (one with etching), and two woodcuts",
+            "Dimensions": "composition: 30 x 21 15/16\" (76.2 x 55.8cm); sheet: 29 15/16 x 21 15/16\" (76 x 55.8cm)",
+            "Publisher": "Propyl\u00e4en-Verlag, Berlin",
+            "Printer": "Matthieu Studio, Z\u00fcrich/Dielsdorf",
+            "Edition": "30",
+            "Credit": "Gift of Dorothy Miller (by exchange)",
+            "Object number": "22.1987.21",
+            "Copyright": "\u00a9 2023 Cy Twombly Foundation",
+            "Portfolio": "Homage to Picasso (Hommage \u00e0 Picasso)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5988"
+    },
+    {
+        "Artist": "Cy Twombly",
+        "Title": "Untitled from The New York Collection for Stockholm",
+        "Year": "1973",
+        "ObjectID": "72071",
+        "Work": "https://www.moma.org/collection/works/72071",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMzY3OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4ca5f874e6a3104c",
+        "Details": {
+            "Medium": "Lithograph and screenprint from a portfolio of seventeen screenprints, nine lithographs, two lithographs with screenprint, one photocopy, and one photograph",
+            "Dimensions": "composition (irreg.): 11 1/2 x 8 3/4\" (29.2 x 22.2cm); sheet: 11 7/8 x 8 15/16\" (30.2 x 22.7 cm)",
+            "Publisher": "Experiments in Art and Technology, Inc., New York",
+            "Printer": "Styria Studio, Inc., New York",
+            "Edition": "300",
+            "Credit": "Gift of Steven M. Feinstein",
+            "Object number": "625.1973.28",
+            "Copyright": "\u00a9 2023 Cy Twombly Foundation",
+            "Portfolio": "The New York Collection for Stockholm",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5988"
+    },
+    {
+        "Artist": "Gunther Uecker",
+        "Title": "Vom Licht",
+        "Year": "1973",
+        "ObjectID": "14563",
+        "Work": "https://www.moma.org/collection/works/14563",
+        "Thumbnail": null,
+        "Details": {
+            "Author": "Various Authors",
+            "Medium": "Illustrated book with twelve inkless embossings",
+            "Dimensions": "page (each, unfolded): 20 1/16 x 40 1/16\" (51 x 101.8 cm); prints: various dimensions",
+            "Publisher": "Galerie Rothe, Heidelberg, Germany",
+            "Printer": "Hans Bichelmeier, Mannheim, Germany",
+            "Edition": "60",
+            "Credit": "Mrs. Stanley Resor Fund (by exchange)",
+            "Object number": "283.1974.1-12",
+            "Copyright": "\u00a9 2023 G\u00fcnther Uecker / Artists Rights Society (ARS), New York / VG Bild-Kunst, Germany",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5999"
+    },
+    {
+        "Artist": "Jerry Uelsmann",
+        "Title": "Untitled",
+        "Year": "1973",
+        "ObjectID": "52855",
+        "Work": "https://www.moma.org/collection/works/52855",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NzE1NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c514b8ef95db0b74",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "12 1/2 \u00d7 9 15/16\" (31.8 \u00d7 25.3 cm)",
+            "Credit": "John Parkinson III Fund",
+            "Object number": "409.1974",
+            "Copyright": "\u00a9 2023 Jerry Uelsmann",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/6001"
+    },
+    {
+        "Artist": "Unidentified photographer",
+        "Title": "Untitled",
+        "Year": "c. 1973",
+        "ObjectID": "111492",
+        "Work": "https://www.moma.org/collection/works/111492",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0MzYwOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e594ab84e9dab836",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "4 \u00d7 2 3/8\" (10.1 \u00d7 6 cm)",
+            "Credit": "Gift of Jeffrey Fraenkel",
+            "Object number": "673.2007",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/8595"
+    },
+    {
+        "Artist": "Nicolas Garcia Uriburu",
+        "Title": "Portfolio (Manifesto)",
+        "Year": "1973",
+        "ObjectID": "180161",
+        "Work": "https://www.moma.org/collection/works/180161",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwOTQyNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a80a3b23f177cc57",
+        "Details": {
+            "Medium": "Portfolio of six screenprints",
+            "Dimensions": "composition: varies (see child records); sheet (each): 30 x 22 1/4\" (76.2 x 56.5 cm)",
+            "Publisher": "Les Ateliers Laage Editeurs",
+            "Printer": "Les Ateliers Laage Editeurs",
+            "Edition": "111",
+            "Credit": "Gift of Mauro Herlitzka through the Latin American and Caribbean Fund",
+            "Object number": "642.2014.1-6",
+            "Copyright": "\u00a9 2023 Fundacion Nicolas G. Uriburu",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/45771"
+    },
+    {
+        "Artist": "Various Artists",
+        "Title": "Revue OU Cinquieme Saison, no. 42/43/44",
+        "Year": "1973",
+        "ObjectID": "178593",
+        "Work": "https://www.moma.org/collection/works/178593",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQwMDE0OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1aebbb6e52bd810c",
+        "Details": {
+            "Medium": "10-inch record in magazine",
+            "Dimensions": "dimensions vary",
+            "Publisher": "Henri Chopin, Paris",
+            "Edition": "500",
+            "Credit": "Committee on Prints and Illustrated Books Fund",
+            "Object number": "854.2013.305",
+            "Associated work": "Steven Leiber Audio Collection",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/24409"
+    },
+    {
+        "Artist": "Various Artists, George Brecht, Willem de Ridder, Albert M. Fine, Ken Friedman, Shigeko Kubota, Frederic Lieberman, George Maciunas, Claes Oldenburg, Benjamin Patterson, James Riddle, Paul Sharits, Bob Sheff, Ben Vautier, Robert Watts",
+        "Title": "Flux Year Box 2",
+        "Year": "c. 1968",
+        "ObjectID": "127903",
+        "Work": "https://www.moma.org/collection/works/127903",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMDcwNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e194d2dd66b2a890",
+        "Details": {
+            "Collaborating artist": "George Brecht, Willem de Ridder, Albert M. Fine, Ken Friedman, Shigeko Kubota, Frederic Lieberman, George Maciunas, Claes Oldenburg, Benjamin Patterson, James Riddle, Paul Sharits, Bob Sheff, Ben Vautier, Robert Watts",
+            "Medium": "Wood box with screenprint, metal clasp and hinges, containing objects in various media",
+            "Dimensions": "overall (box): 9 1/16 x 9 1/16 x 3 3/8\" (23 x 23 x 8.6 cm)",
+            "Designer": "George Maciunas",
+            "Publisher": "Fluxus",
+            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
+            "Object number": "2460.2008.1-26",
+            "Copyright": "\u00a9 Multiple artists",
+            "Type": "Associated Work",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/24409"
+    },
+    {
+        "Artist": "Various Artists, Wifredo Lam",
+        "Title": "Pour Jorn",
+        "Year": "(1973)",
+        "ObjectID": "68458",
+        "Work": "https://www.moma.org/collection/works/68458",
+        "Thumbnail": null,
+        "Details": {
+            "Collaborating artist": "Wifredo Lam",
+            "Medium": "Portfolio of fourteen lithographs",
+            "Credit": "Gift of The Asger Jorn Foundation",
+            "Object number": "400.1978.1-14",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6104"
+    },
+    {
+        "Artist": "Victor Vasarely",
+        "Title": "Untitled from Homage to Picasso (Hommage a Picasso)",
+        "Year": "1973",
+        "ObjectID": "60254",
+        "Work": "https://www.moma.org/collection/works/60254",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMTQ3OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7d615e853a327f6c",
+        "Details": {
+            "Medium": "Screenprint from a portfolio of thirty-one lithographs (one with aquatint, one with collotype, one with screenprint), twenty-two screenprints (one with embossing, one with flocking, one with stencil), eleven etchings (five with aquatint, one with aquatint and drypoint, one with aquatint, drypoint, and engraving), three aquatints (one with etching), and two woodcuts",
+            "Dimensions": "composition: 19 11/16 x 19 11/16\" (50 x 50cm); sheet: 29 1/2 x 22 1/16\" (75 x 56cm)",
+            "Publisher": "Propyl\u00e4en-Verlag, Berlin",
+            "Printer": "Michael Domberger, Bonlanden bei Stuttgart",
+            "Edition": "30",
+            "Credit": "Gift of Dorothy Miller (by exchange)",
+            "Object number": "22.1987.58",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Portfolio": "Homage to Picasso (Hommage \u00e0 Picasso)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6109"
+    },
+    {
+        "Artist": "Woody Vasulka",
+        "Title": "Vocabulary",
+        "Year": "1973",
+        "ObjectID": "118188",
+        "Work": "https://www.moma.org/collection/works/118188",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1MTYyOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8cfd409f38a85662",
+        "Details": {
+            "Medium": "Video (color, sound)",
+            "Duration": "4:17 min.",
+            "Producer": "Woody Vasulka, Steina",
+            "Credit": "Acquired through the generosity of Barbara Pine",
+            "Object number": "734.1976",
+            "Copyright": "\u00a9 2023 Steina and Woody Vasulka. Courtesy Electronic Arts Intermix (EAI), New York",
+            "Department": "Media and Performance"
+        },
+        "Profile": "https://www.moma.org/artists/32430"
+    },
+    {
+        "Artist": "Edgardo Antonio Vigo",
+        "Title": "Hexagano '71 ce",
+        "Year": "1973",
+        "ObjectID": "194797",
+        "Work": "https://www.moma.org/collection/works/194797",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ4NDgxMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d8e96d5ad11c6ae9",
+        "Details": {
+            "Dimensions": "envelope: 11 in x 10 in (28 cm x 24.5 cm)",
+            "Credit": "The Museum of Modern Art Library, New York",
+            "Object number": "300339219.CE",
+            "Department": "Library"
+        },
+        "Profile": "https://www.moma.org/artists/26622"
+    },
+    {
+        "Artist": "Jacques Villegle",
+        "Title": "Untitled from The New Realists (Les Nouveaux realistes)",
+        "Year": "1973",
+        "ObjectID": "66205",
+        "Work": "https://www.moma.org/collection/works/66205",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Photolithograph on two sheets with scotch tape and hand additions, pasted on printed paper",
+            "Dimensions": "composition and sheet: 19 11/16 \u00d7 19 11/16\" (50 \u00d7 50 cm)",
+            "Publisher": "Ars Viva Edition NR, by Attilio Codognato",
+            "Edition": "600",
+            "Credit": "Walter Thayer Bequest",
+            "Object number": "291.1989.12",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Portfolio": "The New Realists (Les Nouveaux r\u00e9alistes)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6163"
+    },
+    {
+        "Artist": "Jan Voss",
+        "Title": "Untitled from Homage to Picasso (Hommage a Picasso)",
+        "Year": "1972, published 1973",
+        "ObjectID": "60215",
+        "Work": "https://www.moma.org/collection/works/60215",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMTQ0NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=de883d1c60c99720",
+        "Details": {
+            "Medium": "Lithograph from a portfolio of thirty-one lithographs (one with aquatint, one with collotype, one with screenprint), twenty-two screenprints (one with embossing, one with flocking, one with stencil), eleven etchings (five with aquatint, one with aquatint and drypoint, one with aquatint, drypoint, and engraving), three aquatints (one with etching), and two woodcuts",
+            "Dimensions": "composition: 22 1/8 x 29 3/4\" (56.2 x 75.6cm); sheet: 22 1/16 x 29 3/4\" (56 x 75.6cm)",
+            "Publisher": "Propyl\u00e4en-Verlag, Berlin",
+            "Printer": "Michel Cass\u00e9, Paris",
+            "Edition": "30",
+            "Credit": "Gift of Dorothy Miller (by exchange)",
+            "Object number": "22.1987.22",
+            "Copyright": "\u00a9 2023 Jan Voss / Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Portfolio": "Homage to Picasso (Hommage \u00e0 Picasso)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6190"
     },
     {
         "Artist": "John Walker",
-        "Title": "Untitled",
-        "Year": "1970",
-        "ObjectID": "97664",
-        "Work": "https://www.moma.org/collection/works/97664",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE0MTczNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5ddf4ddaf02f462a",
+        "Title": "Blackboard Series",
+        "Year": "1973",
+        "ObjectID": "68215",
+        "Work": "https://www.moma.org/collection/works/68215",
+        "Thumbnail": null,
         "Details": {
-            "Medium": "Oil on paper",
-            "Dimensions": "35 x 46\" (88.9 x 116.8 cm)",
-            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
-            "Object number": "3344.2005",
+            "Medium": "Series of twelve lithographs",
+            "Dimensions": "Sheet and comp. 40 1/2 x 27 3/4\" (102.8 x 70.5  cm)",
+            "Credit": "Abby Aldrich Rockefeller Fund",
+            "Object number": "385.1974.1-12",
             "Copyright": "\u00a9 2023 John Walker",
             "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/6220"
     },
     {
-        "Artist": "Todd Walker",
+        "Artist": "Franz Erhard Walther",
         "Title": "Untitled",
-        "Year": "1970",
-        "ObjectID": "55207",
-        "Work": "https://www.moma.org/collection/works/55207",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwNzY1MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=91bcadb9f8752826",
-        "Details": {
-            "Medium": "Mono print",
-            "Dimensions": "6 11/16 \u00d7 9 11/16\" (17.0 \u00d7 24.7 cm)",
-            "Credit": "Purchase",
-            "Object number": "567.1970",
-            "Copyright": "\u00a9 2023 Todd Walker",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/6222"
-    },
-    {
-        "Artist": "Kay WalkingStick",
-        "Title": "All Good Things (Version I)",
-        "Year": "1969/1970",
-        "ObjectID": "431415",
-        "Work": "https://www.moma.org/collection/works/431415",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMTk3NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=578fc5666e84fa8a",
-        "Details": {
-            "Medium": "Acrylic on canvas",
-            "Dimensions": "43 \u00d7 47\" (109.2 \u00d7 119.4 cm)",
-            "Credit": "Committee on Painting and Sculpture Funds",
-            "Object number": "591.2022",
-            "Copyright": "\u00a9 Kay WalkingStick",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/134591"
-    },
-    {
-        "Artist": "Ian Wallace",
-        "Title": "Pan Am Scan",
-        "Year": "1970",
-        "ObjectID": "51870",
-        "Work": "https://www.moma.org/collection/works/51870",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwMTI4NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=dfc04c44d90d16ee",
-        "Details": {
-            "Medium": "Five gelatin silver prints, printed 1991",
-            "Dimensions": "each 15 3/4 \u00d7 23 5/8\" (40 \u00d7 60 cm)",
-            "Credit": "Gift of the Peter Norton Family Foundation",
-            "Object number": "366.1994.a-e",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/7914"
-    },
-    {
-        "Artist": "Franz Erhard Walther",
-        "Title": "Work Drawing: For Hills and Mountains",
-        "Year": "1965/1970",
-        "ObjectID": "144585",
-        "Work": "https://www.moma.org/collection/works/144585",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0NzcwMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5e80bfda0ce4d054",
+        "Year": "1969/73",
+        "ObjectID": "117289",
+        "Work": "https://www.moma.org/collection/works/117289",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4NjgwOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4164ed81ff37ccc0",
         "Details": {
             "Medium": "Watercolor, ink, and pencil on paper",
-            "Credit": "Richard S. Zeisler Bequest (by exchange)",
-            "Object number": "41.2011.9.a-b",
+            "Dimensions": "11 5/8 x 8 1/4\" (29.5 x 21 cm)",
+            "Credit": "Gift of Sarah-Ann and Werner H. Kramarsky",
+            "Object number": "350.2008.a-b",
             "Copyright": "\u00a9 2023 Franz Erhard Walther / Artists Rights Society (ARS), New York / VG Bild-Kunst, Germany",
-            "Associated work": "Group of 58 drawings each related to one piece of 1. Werksatz",
             "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/7662"
     },
     {
-        "Artist": "Franz Erhard Walther",
-        "Title": "Work Drawing: Collector, Mass and Distribution",
-        "Year": "1970",
-        "ObjectID": "144591",
-        "Work": "https://www.moma.org/collection/works/144591",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0NzcxNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=675d722e341c8d19",
+        "Artist": "Frederick Wardy",
+        "Title": "New York, No. 9",
+        "Year": "(1973)",
+        "ObjectID": "35080",
+        "Work": "https://www.moma.org/collection/works/35080",
+        "Thumbnail": null,
         "Details": {
-            "Medium": "Watercolor, ink, and pencil on paper",
-            "Credit": "Richard S. Zeisler Bequest (by exchange)",
-            "Object number": "41.2011.15.a-b",
-            "Copyright": "\u00a9 2023 Franz Erhard Walther / Artists Rights Society (ARS), New York / VG Bild-Kunst, Germany",
-            "Associated work": "Group of 58 drawings each related to one piece of 1. Werksatz",
+            "Medium": "Ink on paper",
+            "Dimensions": "31 1/4 x 22 3/4\" (79.4 x 57.9 cm)",
+            "Credit": "Gift of Constance B. Cartwright",
+            "Object number": "178.1977",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/7662"
-    },
-    {
-        "Artist": "Franz Erhard Walther",
-        "Title": "Work Drawing: With Direction (six)",
-        "Year": "1967/1970",
-        "ObjectID": "144592",
-        "Work": "https://www.moma.org/collection/works/144592",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0NzcxNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8e853a6d7328ca38",
-        "Details": {
-            "Medium": "Watercolor, ink, and pencil on paper",
-            "Credit": "Richard S. Zeisler Bequest (by exchange)",
-            "Object number": "41.2011.16.a-b",
-            "Copyright": "\u00a9 2023 Franz Erhard Walther / Artists Rights Society (ARS), New York / VG Bild-Kunst, Germany",
-            "Associated work": "Group of 58 drawings each related to one piece of 1. Werksatz",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/7662"
-    },
-    {
-        "Artist": "Franz Erhard Walther",
-        "Title": "Work Drawing:  Head to Head via Head",
-        "Year": "1967/1970",
-        "ObjectID": "144600",
-        "Work": "https://www.moma.org/collection/works/144600",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0NzczMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=26c3092638128ca0",
-        "Details": {
-            "Medium": "Watercolor, ink, and pencil on paper",
-            "Credit": "Richard S. Zeisler Bequest (by exchange)",
-            "Object number": "41.2011.24.a-b",
-            "Copyright": "\u00a9 2023 Franz Erhard Walther / Artists Rights Society (ARS), New York / VG Bild-Kunst, Germany",
-            "Associated work": "Group of 58 drawings each related to one piece of 1. Werksatz",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/7662"
-    },
-    {
-        "Artist": "Franz Erhard Walther",
-        "Title": "Work Drawing: Over Arm",
-        "Year": "1970",
-        "ObjectID": "144601",
-        "Work": "https://www.moma.org/collection/works/144601",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0ODg1NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ba9a1d44b041914c",
-        "Details": {
-            "Medium": "Watercolor, ink, and pencil on paper",
-            "Credit": "Richard S. Zeisler Bequest (by exchange)",
-            "Object number": "41.2011.25.a-b",
-            "Copyright": "\u00a9 2023 Franz Erhard Walther / Artists Rights Society (ARS), New York / VG Bild-Kunst, Germany",
-            "Associated work": "Group of 58 drawings each related to one piece of 1. Werksatz",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/7662"
-    },
-    {
-        "Artist": "Franz Erhard Walther",
-        "Title": "Work Drawing: Plastic - 5 Steps",
-        "Year": "1967/1970",
-        "ObjectID": "144609",
-        "Work": "https://www.moma.org/collection/works/144609",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0Nzc1MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=86a7fc11690930ea",
-        "Details": {
-            "Medium": "Watercolor, ink, and pencil on paper",
-            "Credit": "Richard S. Zeisler Bequest (by exchange)",
-            "Object number": "41.2011.33.a-b",
-            "Copyright": "\u00a9 2023 Franz Erhard Walther / Artists Rights Society (ARS), New York / VG Bild-Kunst, Germany",
-            "Associated work": "Group of 58 drawings each related to one piece of 1. Werksatz",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/7662"
-    },
-    {
-        "Artist": "Franz Erhard Walther",
-        "Title": "Work Drawing: Frame (Center) Ways",
-        "Year": "1966/1970",
-        "ObjectID": "144614",
-        "Work": "https://www.moma.org/collection/works/144614",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0Nzc2MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2239ee38e4ba423f",
-        "Details": {
-            "Medium": "Watercolor, ink, and pencil on paper",
-            "Credit": "Richard S. Zeisler Bequest (by exchange)",
-            "Object number": "41.2011.38.a-b",
-            "Copyright": "\u00a9 2023 Franz Erhard Walther / Artists Rights Society (ARS), New York / VG Bild-Kunst, Germany",
-            "Associated work": "Group of 58 drawings each related to one piece of 1. Werksatz",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/7662"
-    },
-    {
-        "Artist": "Franz Erhard Walther",
-        "Title": "Work Drawing: Filling Up the Shell",
-        "Year": "1969/1970",
-        "ObjectID": "144626",
-        "Work": "https://www.moma.org/collection/works/144626",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0Nzc4NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3ffb8b5e9996e23c",
-        "Details": {
-            "Medium": "Watercolor, ink, and pencil on paper",
-            "Credit": "Richard S. Zeisler Bequest (by exchange)",
-            "Object number": "41.2011.50.a-b",
-            "Copyright": "\u00a9 2023 Franz Erhard Walther / Artists Rights Society (ARS), New York / VG Bild-Kunst, Germany",
-            "Associated work": "Group of 58 drawings each related to one piece of 1. Werksatz",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/7662"
-    },
-    {
-        "Artist": "Franz Erhard Walther",
-        "Title": "Work Drawing: Positions",
-        "Year": "1970",
-        "ObjectID": "144630",
-        "Work": "https://www.moma.org/collection/works/144630",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0ODg5MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b153bfb7d04ca740",
-        "Details": {
-            "Medium": "Watercolor, ink, and pencil on paper",
-            "Credit": "Richard S. Zeisler Bequest (by exchange)",
-            "Object number": "41.2011.54.a-b",
-            "Copyright": "\u00a9 2023 Franz Erhard Walther / Artists Rights Society (ARS), New York / VG Bild-Kunst, Germany",
-            "Associated work": "Group of 58 drawings each related to one piece of 1. Werksatz",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/7662"
-    },
-    {
-        "Artist": "Franz Erhard Walther",
-        "Title": "Work Drawing: Lines (Arms/Feet)",
-        "Year": "1967/1970",
-        "ObjectID": "144632",
-        "Work": "https://www.moma.org/collection/works/144632",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0ODg5NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d48d03788935844a",
-        "Details": {
-            "Medium": "Watercolor, ink, and pencil on paper",
-            "Credit": "Richard S. Zeisler Bequest (by exchange)",
-            "Object number": "41.2011.56.a-b",
-            "Copyright": "\u00a9 2023 Franz Erhard Walther / Artists Rights Society (ARS), New York / VG Bild-Kunst, Germany",
-            "Associated work": "Group of 58 drawings each related to one piece of 1. Werksatz",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/7662"
+        "Profile": "https://www.moma.org/artists/6243"
     },
     {
         "Artist": "Andy Warhol",
-        "Title": "Holly Solomon",
-        "Year": "c. 1965",
-        "ObjectID": "52411",
-        "Work": "https://www.moma.org/collection/works/52411",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMTIzNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6e8ee4245bd6a6b5",
+        "Title": "Mao from The New York Collection for Stockholm",
+        "Year": "1973",
+        "ObjectID": "72072",
+        "Work": "https://www.moma.org/collection/works/72072",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMzY3OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f72660e8bc28da73",
         "Details": {
-            "Sitter": "Holly Solomon",
-            "Medium": "Gelatin silver print",
-            "Dimensions": "7 13/16 \u00d7 1 9/16\" (19.8 \u00d7 4 cm)",
-            "Credit": "Gift of Holly Solomon",
-            "Object number": "391.1998",
+            "Medium": "Photocopy from a portfolio of seventeen screenprints, nine lithographs, two lithographs with screenprint, one photocopy, and one photograph",
+            "Dimensions": "composition and sheet: 11 x 8 1/2\" (27.9 x 21.6cm)",
+            "Publisher": "Experiments in Art and Technology, Inc., New York",
+            "Printer": "Styria Studio, Inc., New York",
+            "Edition": "300 unique variants",
+            "Credit": "Gift of Steven M. Feinstein",
+            "Object number": "625.1973.29",
             "Copyright": "\u00a9 2023 Andy Warhol Foundation for the Visual Arts / Artists Rights Society (ARS), New York",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/6246"
-    },
-    {
-        "Artist": "Andy Warhol",
-        "Title": "Untitled from Flowers",
-        "Year": "1970",
-        "ObjectID": "64278",
-        "Work": "https://www.moma.org/collection/works/64278",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyOTM1NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3c516326d445b1f6",
-        "Details": {
-            "Medium": "One from a portfolio of ten screenprints",
-            "Dimensions": "composition and sheet:  36 1/8 x 36 1/16\" (91 x 91.6 cm)",
-            "Publisher": "Factory Additions, New York",
-            "Printer": "Aetna Silkscreen Products, Inc., New York and Du-Art Displays, New York",
-            "Edition": "250",
-            "Credit": "Gift of David Whitney",
-            "Object number": "199.1970.1",
-            "Copyright": "\u00a9 2023 Andy Warhol Foundation for the Visual Arts / Artists Rights Society (ARS), New York",
-            "Portfolio": "Flowers",
+            "Portfolio": "The New York Collection for Stockholm",
             "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/6246"
     },
     {
         "Artist": "Andy Warhol",
-        "Title": "Flowers",
-        "Year": "1970",
-        "ObjectID": "64279",
-        "Work": "https://www.moma.org/collection/works/64279",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyOTM1NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3c516326d445b1f6",
+        "Title": "Mao",
+        "Year": "1973",
+        "ObjectID": "84128",
+        "Work": "https://www.moma.org/collection/works/84128",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0NTAxNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=83bbe80954db11aa",
         "Details": {
-            "Medium": "Portfolio of ten screenprints",
-            "Dimensions": "composition and sheet (each approx.): 36 1/8 x 36 1/16\" (91.8 x 91.6cm)",
-            "Publisher": "Factory Additions, New York",
-            "Printer": "Aetna Silkscreen Products, Inc., New York and Du-Art Displays, New York",
-            "Edition": "250",
-            "Credit": "Gift of David Whitney",
-            "Object number": "199.1970.1-10",
+            "Medium": "Graphite on paper",
+            "Dimensions": "36 1/4 x 33 3/4\" (92.1 x 85.7 cm)",
+            "Credit": "Gift of UBS",
+            "Object number": "128.2002",
             "Copyright": "\u00a9 2023 Andy Warhol Foundation for the Visual Arts / Artists Rights Society (ARS), New York",
-            "Type": "Portfolio",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/6246"
-    },
-    {
-        "Artist": "Andy Warhol",
-        "Title": "Untitled from Flowers",
-        "Year": "1970",
-        "ObjectID": "64280",
-        "Work": "https://www.moma.org/collection/works/64280",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyOTM2MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=62d8fb1b99bedc8d",
-        "Details": {
-            "Medium": "One from a portfolio of ten screenprints",
-            "Dimensions": "composition and sheet: 36 1/8 x 36 1/16\" (91.8 x 91.6cm)",
-            "Publisher": "Factory Additions, New York",
-            "Printer": "Aetna Silkscreen Products, Inc., New York and Du-Art Displays, New York",
-            "Edition": "250",
-            "Credit": "Gift of David Whitney",
-            "Object number": "199.1970.10",
-            "Copyright": "\u00a9 2023 Andy Warhol Foundation for the Visual Arts / Artists Rights Society (ARS), New York",
-            "Portfolio": "Flowers",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/6246"
-    },
-    {
-        "Artist": "Andy Warhol",
-        "Title": "Untitled from Flowers",
-        "Year": "1970",
-        "ObjectID": "64281",
-        "Work": "https://www.moma.org/collection/works/64281",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyOTM1NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6c6065ce7ea22d57",
-        "Details": {
-            "Medium": "One from a portfolio of ten screenprints",
-            "Dimensions": "composition and sheet: 36 1/8 x 36 1/16\" (91.8 x 91.6cm)",
-            "Publisher": "Factory Additions, New York",
-            "Printer": "Aetna Silkscreen Products, Inc., New York and Du-Art Displays, New York",
-            "Edition": "250",
-            "Credit": "Gift of David Whitney",
-            "Object number": "199.1970.2",
-            "Copyright": "\u00a9 2023 Andy Warhol Foundation for the Visual Arts / Artists Rights Society (ARS), New York",
-            "Portfolio": "Flowers",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/6246"
-    },
-    {
-        "Artist": "Andy Warhol",
-        "Title": "Untitled from Flowers",
-        "Year": "1970",
-        "ObjectID": "64282",
-        "Work": "https://www.moma.org/collection/works/64282",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyOTM1NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1f287cf83959b344",
-        "Details": {
-            "Medium": "One from a portfolio of ten screenprints",
-            "Dimensions": "composition and sheet: 36 1/8 x 36 1/16\" (91.8 x 91.6cm)",
-            "Publisher": "Factory Additions, New York",
-            "Printer": "Aetna Silkscreen Products, Inc., New York and Du-Art Displays, New York",
-            "Edition": "250",
-            "Credit": "Gift of David Whitney",
-            "Object number": "199.1970.3",
-            "Copyright": "\u00a9 2023 Andy Warhol Foundation for the Visual Arts / Artists Rights Society (ARS), New York",
-            "Portfolio": "Flowers",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/6246"
-    },
-    {
-        "Artist": "Andy Warhol",
-        "Title": "Untitled from Flowers",
-        "Year": "1970",
-        "ObjectID": "64283",
-        "Work": "https://www.moma.org/collection/works/64283",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyOTM1NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c9990ad70aea8d28",
-        "Details": {
-            "Medium": "One from a portfolio of ten screenprints",
-            "Dimensions": "composition and sheet: 36 1/8 x 36 1/16\" (91.8 x 91.6cm)",
-            "Publisher": "Factory Additions, New York",
-            "Printer": "Aetna Silkscreen Products, Inc., New York and Du-Art Displays, New York",
-            "Edition": "250",
-            "Credit": "Gift of David Whitney",
-            "Object number": "199.1970.4",
-            "Copyright": "\u00a9 2023 Andy Warhol Foundation for the Visual Arts / Artists Rights Society (ARS), New York",
-            "Portfolio": "Flowers",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/6246"
-    },
-    {
-        "Artist": "Andy Warhol",
-        "Title": "Untitled from Flowers",
-        "Year": "1970",
-        "ObjectID": "64284",
-        "Work": "https://www.moma.org/collection/works/64284",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyOTM1OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=36a98d87cbb1fca1",
-        "Details": {
-            "Medium": "One from a portfolio of ten screenprints",
-            "Dimensions": "composition and sheet: 36 1/8 x 36 1/16\" (91.8 x 91.6cm)",
-            "Publisher": "Factory Additions, New York",
-            "Printer": "Aetna Silkscreen Products, Inc., New York and Du-Art Displays, New York",
-            "Edition": "250",
-            "Credit": "Gift of David Whitney",
-            "Object number": "199.1970.5",
-            "Copyright": "\u00a9 2023 Andy Warhol Foundation for the Visual Arts / Artists Rights Society (ARS), New York",
-            "Portfolio": "Flowers",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/6246"
-    },
-    {
-        "Artist": "Andy Warhol",
-        "Title": "Untitled from Flowers",
-        "Year": "1970",
-        "ObjectID": "64285",
-        "Work": "https://www.moma.org/collection/works/64285",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyOTM1OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=61c03831b6b6c910",
-        "Details": {
-            "Medium": "One from a portfolio of ten screenprints",
-            "Dimensions": "composition and sheet: 36 1/8 x 36 1/16\" (91.8 x 91.6cm)",
-            "Publisher": "Factory Additions, New York",
-            "Printer": "Aetna Silkscreen Products, Inc., New York and Du-Art Displays, New York",
-            "Edition": "250",
-            "Credit": "Gift of David Whitney",
-            "Object number": "199.1970.6",
-            "Copyright": "\u00a9 2023 Andy Warhol Foundation for the Visual Arts / Artists Rights Society (ARS), New York",
-            "Portfolio": "Flowers",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/6246"
-    },
-    {
-        "Artist": "Andy Warhol",
-        "Title": "Untitled from Flowers",
-        "Year": "1970",
-        "ObjectID": "64286",
-        "Work": "https://www.moma.org/collection/works/64286",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyOTM2MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=94af7cfeebc14ae0",
-        "Details": {
-            "Medium": "One from a portfolio of ten screenprints",
-            "Dimensions": "composition and sheet: 36 1/8 x 36 1/16\" (91.8 x 91.6cm)",
-            "Publisher": "Factory Additions, New York",
-            "Printer": "Aetna Silkscreen Products, Inc., New York and Du-Art Displays, New York",
-            "Edition": "250",
-            "Credit": "Gift of David Whitney",
-            "Object number": "199.1970.7",
-            "Copyright": "\u00a9 2023 Andy Warhol Foundation for the Visual Arts / Artists Rights Society (ARS), New York",
-            "Portfolio": "Flowers",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/6246"
-    },
-    {
-        "Artist": "Andy Warhol",
-        "Title": "Untitled from Flowers",
-        "Year": "1970",
-        "ObjectID": "64287",
-        "Work": "https://www.moma.org/collection/works/64287",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyOTM2MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e388090bf4288956",
-        "Details": {
-            "Medium": "One from a portfolio of ten screenprints",
-            "Dimensions": "composition and sheet: 36 1/8 x 36 1/16\" (91.8 x 91.6cm)",
-            "Publisher": "Factory Additions, New York",
-            "Printer": "Aetna Silkscreen Products, Inc., New York and Du-Art Displays, New York",
-            "Edition": "250",
-            "Credit": "Gift of David Whitney",
-            "Object number": "199.1970.8",
-            "Copyright": "\u00a9 2023 Andy Warhol Foundation for the Visual Arts / Artists Rights Society (ARS), New York",
-            "Portfolio": "Flowers",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/6246"
-    },
-    {
-        "Artist": "Andy Warhol",
-        "Title": "Untitled from Flowers",
-        "Year": "1970",
-        "ObjectID": "64288",
-        "Work": "https://www.moma.org/collection/works/64288",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyOTM2MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f727339f89859de0",
-        "Details": {
-            "Medium": "One from a portfolio of ten screenprints",
-            "Dimensions": "composition and sheet: 36 1/8 x 36 1/16\" (91.8 x 91.6cm)",
-            "Publisher": "Factory Additions, New York",
-            "Printer": "Aetna Silkscreen Products, Inc., New York and Du-Art Displays, New York",
-            "Edition": "250",
-            "Credit": "Gift of David Whitney",
-            "Object number": "199.1970.9",
-            "Copyright": "\u00a9 2023 Andy Warhol Foundation for the Visual Arts / Artists Rights Society (ARS), New York",
-            "Portfolio": "Flowers",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/6246"
-    },
-    {
-        "Artist": "Andy Warhol",
-        "Title": "Portraits from Artists & Photographs",
-        "Year": "1970",
-        "ObjectID": "65479",
-        "Work": "https://www.moma.org/collection/works/65479",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1OTIxMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ca35aae814d3e2d5",
-        "Details": {
-            "Medium": "Plastic folder, containing eight offset lithographs, from a portfolio of nineteen printed objects",
-            "Dimensions": "sheet (each): dimensions vary; overall (closed):  11 15/16 x 9  3/4\" (30.4 x 24.7 cm)",
-            "Publisher": "Multiples, Inc., New York, in association with Colorcraft, Inc., New York",
-            "Edition": "200",
-            "Credit": "Gift of Kynaston McShine",
-            "Object number": "261.1984.19.a-j",
-            "Copyright": "\u00a9 2023 Andy Warhol Foundation for the Visual Arts / Artists Rights Society (ARS), New York",
-            "Portfolio": "Artists & Photographs",
             "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/6246"
     },
     {
         "Artist": "Robert Watts",
-        "Title": "Fingerhole",
-        "Year": "c. 1965",
-        "ObjectID": "136911",
-        "Work": "https://www.moma.org/collection/works/136911",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQxNDg1OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e8d38fba1bc75b4b",
+        "Title": "A Flux Atlas",
+        "Year": "1973",
+        "ObjectID": "126779",
+        "Work": "https://www.moma.org/collection/works/126779",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwMTUyNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=57bd60260594af82",
         "Details": {
-            "Medium": "Ink and spray paint on wood box, containing unknown object",
-            "Dimensions": "overall: 5 \u00d7 16 1/8 \u00d7 3 7/16\" (12.7 \u00d7 41 \u00d7 8.8 cm)",
-            "Edition": "unique",
+            "Medium": "Plastic box with offset label, containing twenty-four offset cards and twenty-four rocks",
+            "Dimensions": "overall (closed): 8 7/8 x 13 1/8 x 2 3/16\" (22.5 x 33.3 x 5.6 cm)",
+            "Publisher": "Fluxus",
             "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
-            "Object number": "4074.2008",
+            "Object number": "2815.2008",
             "Copyright": "\u00a9 2023 Estate of Robert Watts",
             "Department": "Drawings and Prints"
         },
@@ -688,183 +462,395 @@
     },
     {
         "Artist": "Robert Watts",
-        "Title": "Bus ticket to Ginger Bread Castle, Hamburg, NJ",
-        "Year": "1970",
-        "ObjectID": "137694",
-        "Work": "https://www.moma.org/collection/works/137694",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQwNjE2MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a3e49092aab57f7d",
+        "Title": "Light Fluxkit",
+        "Year": "1973",
+        "ObjectID": "128154",
+        "Work": "https://www.moma.org/collection/works/128154",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwMTUyNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=49e1233fdca0ceb4",
         "Details": {
-            "Medium": "Letterpress with ballpoint pen additions",
-            "Dimensions": "sheet: 1 3/16 \u00d7 4 3/4\" (3 \u00d7 12 cm)",
+            "Medium": "Plastic box with offset label, containing objects in various media",
+            "Dimensions": "2 3/8 \u00d7 9 1/16 \u00d7 9 3/16\" (6.1 \u00d7 23 \u00d7 23.4 cm)",
+            "Publisher": "Fluxus",
             "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
-            "Object number": "4084.2008",
+            "Object number": "2816.2008",
             "Copyright": "\u00a9 2023 Estate of Robert Watts",
             "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/6269"
     },
     {
-        "Artist": "June Wayne",
-        "Title": "Tamarind Decade",
-        "Year": "1970",
-        "ObjectID": "67836",
-        "Work": "https://www.moma.org/collection/works/67836",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQzMDU5MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5235ffd81cdc5495",
+        "Artist": "Robert Watts",
+        "Title": "A Flux Atlas",
+        "Year": "1973",
+        "ObjectID": "131770",
+        "Work": "https://www.moma.org/collection/works/131770",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMyMDgyMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=53fe9b8f8e3e01da",
         "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "composition and sheet: 37 1/8 \u00d7 24 1/8\" (94.3 \u00d7 61.3 cm)",
-            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
-            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
-            "Edition": "proof before the edition of 20",
-            "Credit": "Gift of Kleiner, Bell & Co.",
-            "Object number": "366.1970",
-            "Copyright": "\u00a9 2023 June Wayne / Licensed by VAGA, New York",
-            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Medium": "Plastic box with offset label, containing eighteen offset cards and eighteen rocks",
+            "Dimensions": "overall (closed): 8 5/16 x 4 7/16 x 1 5/16\" (21.1 x 11.3 x 3.3 cm)",
+            "Publisher": "Fluxus",
+            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
+            "Object number": "3381.2008.a-kk",
+            "Copyright": "\u00a9 2023 Estate of Robert Watts",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/6271"
-    },
-    {
-        "Artist": "June Wayne",
-        "Title": "C'mona My House",
-        "Year": "1970",
-        "ObjectID": "67884",
-        "Work": "https://www.moma.org/collection/works/67884",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQzMDU5NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d4f3df4d2281f411",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "composition and sheet: 37 1/8 \u00d7 23 1/4\" (94.3 \u00d7 59 cm)",
-            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
-            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
-            "Edition": "proof before the edition of 20",
-            "Credit": "Gift of Kleiner, Bell & Co.",
-            "Object number": "367.1970",
-            "Copyright": "\u00a9 2023 June Wayne / Licensed by VAGA, New York",
-            "Associated work": "Tamarind Lithography Workshop Archive",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/6271"
-    },
-    {
-        "Artist": "Idelle Weber",
-        "Title": "Untitled",
-        "Year": "1968-1970",
-        "ObjectID": "284610",
-        "Work": "https://www.moma.org/collection/works/284610",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQzNzM4OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=09552a638f6d25b2",
-        "Details": {
-            "Medium": "Multiple of screenprint on acrylic cube",
-            "Dimensions": "overall (each): 4 \u00d7 4 \u00d7 4\" (10.2 \u00d7 10.2 \u00d7 10.2 cm)",
-            "Publisher": "unpublished",
-            "Fabricator": "Unidentified",
-            "Edition": "100 announced, approx. 28 produced",
-            "Credit": "John B. Turner Fund",
-            "Object number": "387.2018.x1-x3",
-            "Copyright": "\u00a9 Estate of Idelle Weber",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/74412"
+        "Profile": "https://www.moma.org/artists/6269"
     },
     {
         "Artist": "William Wegman",
-        "Title": "Crow/Duck",
-        "Year": "1970",
-        "ObjectID": "48868",
-        "Work": "https://www.moma.org/collection/works/48868",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MjIzOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c45bb4fa0d0b12d2",
+        "Title": "Ray-o-vac",
+        "Year": "1973",
+        "ObjectID": "79702",
+        "Work": "https://www.moma.org/collection/works/79702",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMDkyNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=183710b2d7a81b44",
         "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "10 3/8 \u00d7 10 3/8\" (26.4 \u00d7 26.4 cm)",
-            "Credit": "The Family of Man Fund",
-            "Object number": "219.1994",
+            "Medium": "Gelatin silver prints",
+            "Dimensions": "Overall 25 3/4 \u00d7 44 1/2\" (65.4 \u00d7 112.9 cm)",
+            "Credit": "Given anonymously",
+            "Object number": "434.1981",
             "Copyright": "\u00a9 2023 William Wegman",
             "Department": "Photography"
         },
         "Profile": "https://www.moma.org/artists/6281"
     },
     {
-        "Artist": "Lawrence Weiner",
-        "Title": "MOVED FROM UP FRONT",
-        "Year": "1970",
-        "ObjectID": "109668",
-        "Work": "https://www.moma.org/collection/works/109668",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5OTY1OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f7293e27236dec8b",
+        "Artist": "William Wegman",
+        "Title": "Broken Eye Glasses",
+        "Year": "1973",
+        "ObjectID": "97690",
+        "Work": "https://www.moma.org/collection/works/97690",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExMDQ1OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7a20d50c98882f45",
         "Details": {
-            "Medium": "LANGUAGE + THE MATERIALS REFERRED TO",
-            "Dimensions": "Dimensions variable",
-            "Credit": "Art & Project/Depot VBVR Gift",
-            "Object number": "464.2007",
-            "Copyright": "\u00a9 2023 Lawrence Weiner / Artists Rights Society (ARS), New York",
-            "Department": "Painting and Sculpture"
+            "Medium": "Pencil on paper",
+            "Dimensions": "8 1/2 x 11\" (21.6 x 27.9 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift (purchase, and gift, in part, of The Eileen and Michael Cohen Collection)",
+            "Object number": "3369.2005",
+            "Copyright": "\u00a9 2023 William Wegman",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/6288"
+        "Profile": "https://www.moma.org/artists/6281"
     },
     {
-        "Artist": "Lawrence Weiner",
-        "Title": "Beached",
-        "Year": "1970",
-        "ObjectID": "167226",
-        "Work": "https://www.moma.org/collection/works/167226",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MzMwMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0c6514161bc5c8fd",
+        "Artist": "William Wegman",
+        "Title": "Selected Works: Reel 3",
+        "Year": "1972-73",
+        "ObjectID": "99025",
+        "Work": "https://www.moma.org/collection/works/99025",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyNzE4NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=03e6b0fc76ad366a",
         "Details": {
-            "Medium": "Video (black and white, sound)",
-            "Duration": "3 min.",
-            "Credit": "Acquired through the generosity of the Fuhrman Family Foundation",
-            "Object number": "224.2013",
-            "Copyright": "\u00a9 2023 Lawrence Weiner. Courtesy Video Data Bank, School of the Art Institute of Chicago",
+            "Medium": "Nineteen videos (black and white, sound and silent)",
+            "Duration": "17:54 min.",
+            "Credit": "Acquired through the generosity of Barbara Pine",
+            "Object number": "449.1975.1-19",
+            "Copyright": "\u00a9 2023 William Wegman. Courtesy Electronic Arts Intermix (EAI), New York",
             "Department": "Media and Performance"
         },
-        "Profile": "https://www.moma.org/artists/6288"
+        "Profile": "https://www.moma.org/artists/6281"
     },
     {
-        "Artist": "Lawrence Weiner",
-        "Title": "Broken Off",
-        "Year": "1970",
-        "ObjectID": "167228",
-        "Work": "https://www.moma.org/collection/works/167228",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MzI5NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=055b852a50a8d482",
+        "Artist": "William Wegman",
+        "Title": "Stick and Tooth",
+        "Year": "1972-73",
+        "ObjectID": "117962",
+        "Work": "https://www.moma.org/collection/works/117962",
+        "Thumbnail": null,
         "Details": {
             "Medium": "Video (black and white, sound)",
-            "Duration": "2 min.",
-            "Credit": "Acquired through the generosity of the Fuhrman Family Foundation",
-            "Object number": "225.2013",
-            "Copyright": "\u00a9 2023 Lawrence Weiner. Courtesy Video Data Bank, School of the Art Institute of Chicago",
+            "Duration": "1:04 min.",
+            "Credit": "Acquired through the generosity of Barbara Pine",
+            "Object number": "449.1975.1",
+            "Copyright": "\u00a9 2023 William Wegman. Courtesy Electronic Arts Intermix (EAI), New York",
             "Department": "Media and Performance"
         },
-        "Profile": "https://www.moma.org/artists/6288"
+        "Profile": "https://www.moma.org/artists/6281"
     },
     {
-        "Artist": "Jack Welpott",
-        "Title": "Sharon Moore",
-        "Year": "1970",
-        "ObjectID": "47067",
-        "Work": "https://www.moma.org/collection/works/47067",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MDY4NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9eca80d7f1c311cc",
+        "Artist": "William Wegman",
+        "Title": "Emperor and Dish",
+        "Year": "1972-73",
+        "ObjectID": "117963",
+        "Work": "https://www.moma.org/collection/works/117963",
+        "Thumbnail": null,
         "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "9 5/8 \u00d7 7 1/2\" (24.4 \u00d7 19.0 cm)",
-            "Credit": "Purchase",
-            "Object number": "161.1972",
-            "Copyright": "\u00a9 2023 Jack Welpott",
-            "Department": "Photography"
+            "Medium": "Video (black and white, sound)",
+            "Duration": "1:09 min.",
+            "Credit": "Acquired through the generosity of Barbara Pine",
+            "Object number": "449.1975.2",
+            "Copyright": "\u00a9 2023 William Wegman. Courtesy Electronic Arts Intermix (EAI), New York",
+            "Department": "Media and Performance"
         },
-        "Profile": "https://www.moma.org/artists/6308"
+        "Profile": "https://www.moma.org/artists/6281"
     },
     {
-        "Artist": "Jack Welpott",
-        "Title": "Self-Portrait with my Son",
-        "Year": "1970",
-        "ObjectID": "55425",
-        "Work": "https://www.moma.org/collection/works/55425",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5Mjc1MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=25cb768ac975b48a",
+        "Artist": "William Wegman",
+        "Title": "Lucky T-Shirt",
+        "Year": "1972-73",
+        "ObjectID": "117964",
+        "Work": "https://www.moma.org/collection/works/117964",
+        "Thumbnail": null,
         "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "6 1/2 \u00d7 5 5/8\" (16.5 \u00d7 14.4 cm)",
-            "Credit": "Purchase",
-            "Object number": "590.1971",
-            "Copyright": "\u00a9 2023 Jack Welpott",
-            "Department": "Photography"
+            "Medium": "Video (black and white, sound)",
+            "Duration": "1:04 min.",
+            "Credit": "Acquired through the generosity of Barbara Pine",
+            "Object number": "449.1975.3",
+            "Copyright": "\u00a9 2023 William Wegman. Courtesy Electronic Arts Intermix (EAI), New York",
+            "Department": "Media and Performance"
         },
-        "Profile": "https://www.moma.org/artists/6308"
+        "Profile": "https://www.moma.org/artists/6281"
+    },
+    {
+        "Artist": "William Wegman",
+        "Title": "Rage and Depression",
+        "Year": "1972-73",
+        "ObjectID": "117965",
+        "Work": "https://www.moma.org/collection/works/117965",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Video (black and white, sound)",
+            "Duration": "1:03 min.",
+            "Credit": "Acquired through the generosity of Barbara Pine",
+            "Object number": "449.1975.4",
+            "Copyright": "\u00a9 2023 William Wegman. Courtesy Electronic Arts Intermix (EAI), New York",
+            "Department": "Media and Performance"
+        },
+        "Profile": "https://www.moma.org/artists/6281"
+    },
+    {
+        "Artist": "William Wegman",
+        "Title": "Speed Reading",
+        "Year": "1972-73",
+        "ObjectID": "117966",
+        "Work": "https://www.moma.org/collection/works/117966",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Video (black and white, sound)",
+            "Duration": "1:02 min.",
+            "Credit": "Acquired through the generosity of Barbara Pine",
+            "Object number": "449.1975.5",
+            "Copyright": "\u00a9 2023 William Wegman. Courtesy Electronic Arts Intermix (EAI), New York",
+            "Department": "Media and Performance"
+        },
+        "Profile": "https://www.moma.org/artists/6281"
+    },
+    {
+        "Artist": "William Wegman",
+        "Title": "Born with No Mouth",
+        "Year": "1972-73",
+        "ObjectID": "117967",
+        "Work": "https://www.moma.org/collection/works/117967",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Video (black and white, sound)",
+            "Duration": "1:00 min.",
+            "Credit": "Acquired through the generosity of Barbara Pine",
+            "Object number": "449.1975.6",
+            "Copyright": "\u00a9 2023 William Wegman. Courtesy Electronic Arts Intermix (EAI), New York",
+            "Department": "Media and Performance"
+        },
+        "Profile": "https://www.moma.org/artists/6281"
+    },
+    {
+        "Artist": "William Wegman",
+        "Title": "Dual Function",
+        "Year": "1972-73",
+        "ObjectID": "117968",
+        "Work": "https://www.moma.org/collection/works/117968",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Video (black and white, sound)",
+            "Duration": "1:33 min.",
+            "Credit": "Acquired through the generosity of Barbara Pine",
+            "Object number": "449.1975.7",
+            "Copyright": "\u00a9 2023 William Wegman. Courtesy Electronic Arts Intermix (EAI), New York",
+            "Department": "Media and Performance"
+        },
+        "Profile": "https://www.moma.org/artists/6281"
+    },
+    {
+        "Artist": "William Wegman",
+        "Title": "Massage Chair",
+        "Year": "1972-73",
+        "ObjectID": "117969",
+        "Work": "https://www.moma.org/collection/works/117969",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Video (black and white, sound)",
+            "Duration": "1:35 min.",
+            "Credit": "Acquired through the generosity of Barbara Pine",
+            "Object number": "449.1975.8",
+            "Copyright": "\u00a9 2023 William Wegman. Courtesy Electronic Arts Intermix (EAI), New York",
+            "Department": "Media and Performance"
+        },
+        "Profile": "https://www.moma.org/artists/6281"
+    },
+    {
+        "Artist": "William Wegman",
+        "Title": "Raise Treat",
+        "Year": "1972-73",
+        "ObjectID": "117970",
+        "Work": "https://www.moma.org/collection/works/117970",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Video (black and white, sound)",
+            "Duration": "0:25 min.",
+            "Credit": "Acquired through the generosity of Barbara Pine",
+            "Object number": "449.1975.9",
+            "Copyright": "\u00a9 2023 William Wegman. Courtesy Electronic Arts Intermix (EAI), New York",
+            "Department": "Media and Performance"
+        },
+        "Profile": "https://www.moma.org/artists/6281"
+    },
+    {
+        "Artist": "William Wegman",
+        "Title": "Man Ray, Do You Want To?",
+        "Year": "1972-73",
+        "ObjectID": "117971",
+        "Work": "https://www.moma.org/collection/works/117971",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Video (black and white, sound)",
+            "Duration": "1:54 min.",
+            "Credit": "Acquired through the generosity of Barbara Pine",
+            "Object number": "449.1975.10",
+            "Copyright": "\u00a9 2023 William Wegman. Courtesy Electronic Arts Intermix (EAI), New York",
+            "Department": "Media and Performance"
+        },
+        "Profile": "https://www.moma.org/artists/6281"
+    },
+    {
+        "Artist": "William Wegman",
+        "Title": "Crooked Finger, Crooked Stick",
+        "Year": "1972-73",
+        "ObjectID": "117972",
+        "Work": "https://www.moma.org/collection/works/117972",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Video (black and white, sound)",
+            "Duration": "0:39 min.",
+            "Credit": "Acquired through the generosity of Barbara Pine",
+            "Object number": "449.1975.11",
+            "Copyright": "\u00a9 2023 William Wegman. Courtesy Electronic Arts Intermix (EAI), New York",
+            "Department": "Media and Performance"
+        },
+        "Profile": "https://www.moma.org/artists/6281"
+    },
+    {
+        "Artist": "William Wegman",
+        "Title": "Deodorant",
+        "Year": "1972-73",
+        "ObjectID": "117973",
+        "Work": "https://www.moma.org/collection/works/117973",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Video (black and white, sound)",
+            "Duration": "0:49 min.",
+            "Credit": "Acquired through the generosity of Barbara Pine",
+            "Object number": "449.1975.12",
+            "Copyright": "\u00a9 2023 William Wegman. Courtesy Electronic Arts Intermix (EAI), New York",
+            "Department": "Media and Performance"
+        },
+        "Profile": "https://www.moma.org/artists/6281"
+    },
+    {
+        "Artist": "William Wegman",
+        "Title": "Bubble Up",
+        "Year": "1972-73",
+        "ObjectID": "117974",
+        "Work": "https://www.moma.org/collection/works/117974",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Video (black and white, sound)",
+            "Duration": "0:59 min.",
+            "Credit": "Acquired through the generosity of Barbara Pine",
+            "Object number": "449.1975.13",
+            "Copyright": "\u00a9 2023 William Wegman. Courtesy Electronic Arts Intermix (EAI), New York",
+            "Department": "Media and Performance"
+        },
+        "Profile": "https://www.moma.org/artists/6281"
+    },
+    {
+        "Artist": "William Wegman",
+        "Title": "Joke Paper",
+        "Year": "1972-73",
+        "ObjectID": "117975",
+        "Work": "https://www.moma.org/collection/works/117975",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Video (black and white, sound)",
+            "Duration": "0:54 min.",
+            "Credit": "Acquired through the generosity of Barbara Pine",
+            "Object number": "449.1975.14",
+            "Copyright": "\u00a9 2023 William Wegman. Courtesy Electronic Arts Intermix (EAI), New York",
+            "Department": "Media and Performance"
+        },
+        "Profile": "https://www.moma.org/artists/6281"
+    },
+    {
+        "Artist": "William Wegman",
+        "Title": "Model Child",
+        "Year": "1972-73",
+        "ObjectID": "117976",
+        "Work": "https://www.moma.org/collection/works/117976",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Video (black and white, sound)",
+            "Duration": "2:50 min.",
+            "Credit": "Acquired through the generosity of Barbara Pine",
+            "Object number": "449.1975.15",
+            "Copyright": "\u00a9 2023 William Wegman. Courtesy Electronic Arts Intermix (EAI), New York",
+            "Department": "Media and Performance"
+        },
+        "Profile": "https://www.moma.org/artists/6281"
+    },
+    {
+        "Artist": "William Wegman",
+        "Title": "What Do You Want?",
+        "Year": "1972-73",
+        "ObjectID": "117977",
+        "Work": "https://www.moma.org/collection/works/117977",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Video (black and white, sound)",
+            "Duration": "0:39 min.",
+            "Credit": "Acquired through the generosity of Barbara Pine",
+            "Object number": "449.1975.16",
+            "Copyright": "\u00a9 2023 William Wegman. Courtesy Electronic Arts Intermix (EAI), New York",
+            "Department": "Media and Performance"
+        },
+        "Profile": "https://www.moma.org/artists/6281"
+    },
+    {
+        "Artist": "William Wegman",
+        "Title": "Paper Meaning",
+        "Year": "1972-73",
+        "ObjectID": "117978",
+        "Work": "https://www.moma.org/collection/works/117978",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Video (black and white, sound)",
+            "Duration": "0:26 min.",
+            "Credit": "Acquired through the generosity of Barbara Pine",
+            "Object number": "449.1975.17",
+            "Copyright": "\u00a9 2023 William Wegman. Courtesy Electronic Arts Intermix (EAI), New York",
+            "Department": "Media and Performance"
+        },
+        "Profile": "https://www.moma.org/artists/6281"
+    },
+    {
+        "Artist": "William Wegman",
+        "Title": "Same Old Shirt",
+        "Year": "1972-73",
+        "ObjectID": "117979",
+        "Work": "https://www.moma.org/collection/works/117979",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Video (black and white, sound)",
+            "Duration": "0:54 min.",
+            "Credit": "Acquired through the generosity of Barbara Pine",
+            "Object number": "449.1975.18",
+            "Copyright": "\u00a9 2023 William Wegman. Courtesy Electronic Arts Intermix (EAI), New York",
+            "Department": "Media and Performance"
+        },
+        "Profile": "https://www.moma.org/artists/6281"
     }
 ]

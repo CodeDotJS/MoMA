@@ -1,838 +1,825 @@
 [
     {
-        "Artist": "Lee Friedlander",
-        "Title": "John Szarkowski",
-        "Year": "2001",
-        "ObjectID": "110034",
-        "Work": "https://www.moma.org/collection/works/110034",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzNTQzOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fc6a702ef26a875b",
+        "Artist": "Kerstin Kartscher",
+        "Title": "a: Surrounded by apologetic trees, b: Everybody was famous",
+        "Year": "2002",
+        "ObjectID": "96306",
+        "Work": "https://www.moma.org/collection/works/96306",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyMjY4OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=88df8e32c7ec53ef",
+        "Details": {
+            "Medium": "Cut-and-pasted printed paper with ink and felt-tip pen on two pieces of paper",
+            "Dimensions": "Each: 10 1/4 x 7\" (26 x 17.8 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "2027.2005.a-b",
+            "Copyright": "\u00a9 2023 Kerstin Kartscher",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/28674"
+    },
+    {
+        "Artist": "Joel Katz",
+        "Title": "Strange Fruit",
+        "Year": "2002",
+        "ObjectID": "315193",
+        "Work": "https://www.moma.org/collection/works/315193",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQzMTU0NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=23ceb95897743e65",
+        "Details": {
+            "Object number": "W22850",
+            "Department": "Film"
+        },
+        "Profile": "https://www.moma.org/artists/3017"
+    },
+    {
+        "Artist": "William Kentridge",
+        "Title": "Drawing from Zeno Writing",
+        "Year": "(2002)",
+        "ObjectID": "96324",
+        "Work": "https://www.moma.org/collection/works/96324",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEwODk2NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0896428ee7b16eb0",
+        "Details": {
+            "Medium": "Charcoal and colored pencil on paper",
+            "Dimensions": "22 3/8 x 30\" (56.8 x 76.2 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "2042.2005.1",
+            "Copyright": "\u00a9 2023 William Kentridge",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/7919"
+    },
+    {
+        "Artist": "William Kentridge",
+        "Title": "Drawing from Zeno Writing",
+        "Year": "(2002)",
+        "ObjectID": "96325",
+        "Work": "https://www.moma.org/collection/works/96325",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1MDUxMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1539245109f82c94",
+        "Details": {
+            "Medium": "Charcoal and colored pencil on paper",
+            "Dimensions": "22 3/8 x 30\" (56.8 x 76.2 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "2042.2005.3",
+            "Copyright": "\u00a9 2023 William Kentridge",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/7919"
+    },
+    {
+        "Artist": "William Kentridge",
+        "Title": "Drawing from Zeno Writing",
+        "Year": "(2002)",
+        "ObjectID": "96326",
+        "Work": "https://www.moma.org/collection/works/96326",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1MDUxMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f37ef50039f89a6a",
+        "Details": {
+            "Medium": "Charcoal, colored pencil, and pastel on paper",
+            "Dimensions": "22 3/8 x 30\" (56.8 x 76.2 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "2042.2005.2",
+            "Copyright": "\u00a9 2023 William Kentridge",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/7919"
+    },
+    {
+        "Artist": "William Kentridge",
+        "Title": "Drawing from Zeno Writing",
+        "Year": "(2002)",
+        "ObjectID": "96327",
+        "Work": "https://www.moma.org/collection/works/96327",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1MDUxNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cb80c8e99a563211",
+        "Details": {
+            "Medium": "Charcoal on paper",
+            "Dimensions": "22 3/8 x 30\" (56.8 x 76.2 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "2042.2005.6",
+            "Copyright": "\u00a9 2023 William Kentridge",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/7919"
+    },
+    {
+        "Artist": "William Kentridge",
+        "Title": "Drawing from Zeno Writing",
+        "Year": "2002",
+        "ObjectID": "96328",
+        "Work": "https://www.moma.org/collection/works/96328",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1ODAxOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8e7082a5dbf98e0b",
+        "Details": {
+            "Medium": "Charcoal and colored pencil on paper",
+            "Dimensions": "31 1/2 x 48\" (80 x 121.9 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "2042.2005.7",
+            "Copyright": "\u00a9 2023 William Kentridge",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/7919"
+    },
+    {
+        "Artist": "William Kentridge",
+        "Title": "Drawing from Zeno Writing",
+        "Year": "(2002)",
+        "ObjectID": "96329",
+        "Work": "https://www.moma.org/collection/works/96329",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1MDUxMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9d524ffac2e414f8",
+        "Details": {
+            "Medium": "Charcoal, colored pencil, and pastel on paper",
+            "Dimensions": "22 3/8 x 30\" (56.8 x 76.2 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "2042.2005.4",
+            "Copyright": "\u00a9 2023 William Kentridge",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/7919"
+    },
+    {
+        "Artist": "William Kentridge",
+        "Title": "Drawing from Zeno Writing",
+        "Year": "(2002)",
+        "ObjectID": "96330",
+        "Work": "https://www.moma.org/collection/works/96330",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1MDUxNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=45f19630836507d6",
+        "Details": {
+            "Medium": "Charcoal and colored pencil on paper",
+            "Dimensions": "22 3/8 x 30\" (56.8 x 76.2 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "2042.2005.5",
+            "Copyright": "\u00a9 2023 William Kentridge",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/7919"
+    },
+    {
+        "Artist": "William Kentridge",
+        "Title": "Drawing from Zeno Writing",
+        "Year": "2002",
+        "ObjectID": "96331",
+        "Work": "https://www.moma.org/collection/works/96331",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzNDk2MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b9ea4e191c50980e",
+        "Details": {
+            "Medium": "Charcoal and colored pencil on paper",
+            "Dimensions": "31 1/2 x 48\" (80 x 121.9 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "2042.2005.8",
+            "Copyright": "\u00a9 2023 William Kentridge",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/7919"
+    },
+    {
+        "Artist": "William Kentridge",
+        "Title": "Trieste Ledger Series",
+        "Year": "(2002)",
+        "ObjectID": "96332",
+        "Work": "https://www.moma.org/collection/works/96332",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1NjEzNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7387c97baf8a2d85",
+        "Details": {
+            "Medium": "Charcoal on ledger page",
+            "Dimensions": "10 x 15 1/2\" (25.4 x 39.4 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "2043.2005.6",
+            "Copyright": "\u00a9 2023 William Kentridge",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/7919"
+    },
+    {
+        "Artist": "William Kentridge",
+        "Title": "Trieste Ledger Series",
+        "Year": "(2002)",
+        "ObjectID": "96333",
+        "Work": "https://www.moma.org/collection/works/96333",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1NjEyOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6cfd7163302410ae",
+        "Details": {
+            "Medium": "Charcoal on ledger page",
+            "Dimensions": "10 x 15 1/2\" (25.4 x 39.4 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "2043.2005.2",
+            "Copyright": "\u00a9 2023 William Kentridge",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/7919"
+    },
+    {
+        "Artist": "William Kentridge",
+        "Title": "Trieste Ledger Series",
+        "Year": "(2002)",
+        "ObjectID": "96334",
+        "Work": "https://www.moma.org/collection/works/96334",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1NjEzMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=957d1fef2666d654",
+        "Details": {
+            "Medium": "Charcoal on ledger page",
+            "Dimensions": "10 x 15 1/2\" (25.4 x 39.4 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "2043.2005.4",
+            "Copyright": "\u00a9 2023 William Kentridge",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/7919"
+    },
+    {
+        "Artist": "William Kentridge",
+        "Title": "Trieste Ledger Series",
+        "Year": "(2002)",
+        "ObjectID": "96335",
+        "Work": "https://www.moma.org/collection/works/96335",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1NjEzNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=126f2dc4f5266adf",
+        "Details": {
+            "Medium": "Charcoal on ledger page",
+            "Dimensions": "10 x 15 1/2\" (25.4 x 39.4 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "2043.2005.5",
+            "Copyright": "\u00a9 2023 William Kentridge",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/7919"
+    },
+    {
+        "Artist": "William Kentridge",
+        "Title": "Trieste Ledger Series",
+        "Year": "(2002)",
+        "ObjectID": "96336",
+        "Work": "https://www.moma.org/collection/works/96336",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1NjEzMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e0d96b21306bb15a",
+        "Details": {
+            "Medium": "Charcoal on ledger page",
+            "Dimensions": "10 x 15 1/2\" (25.4 x 39.4 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "2043.2005.3",
+            "Copyright": "\u00a9 2023 William Kentridge",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/7919"
+    },
+    {
+        "Artist": "William Kentridge",
+        "Title": "Trieste Ledger Series",
+        "Year": "(2002)",
+        "ObjectID": "96337",
+        "Work": "https://www.moma.org/collection/works/96337",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1NjEyNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1842f31f132f5742",
+        "Details": {
+            "Medium": "Charcoal on ledger page",
+            "Dimensions": "10 x 15 1/2\" (25.4 x 39.4 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "2043.2005.1",
+            "Copyright": "\u00a9 2023 William Kentridge",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/7919"
+    },
+    {
+        "Artist": "Anselm Kiefer",
+        "Title": "Die Ungeborenen",
+        "Year": "2002",
+        "ObjectID": "94048",
+        "Work": "https://www.moma.org/collection/works/94048",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEwMzgzOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e722f8156930ab4d",
+        "Details": {
+            "Medium": "Illustrated book with eighteen digital prints with ash and lead collage",
+            "Dimensions": "Page: 11 15/16 x 9 1/8\" (30.4 x 23.2 cm)",
+            "Publisher": "Yvon Lambert, Paris",
+            "Printer": "Eric Seydoux, Paris (Colophon)",
+            "Fabricator": "Emmanuel Ardant, Paris, Christian Chopinaud (Fabricator of Metal Case)",
+            "Edition": "108",
+            "Credit": "Monroe Wheeler Fund",
+            "Object number": "425.2004.1-18",
+            "Copyright": "\u00a9 2023 Anselm Kiefer",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3086"
+    },
+    {
+        "Artist": "Ed Kilduff, Dean Chapman, Pollen Design, Paul Treible, Jon Leyfert, Computer Design, Inc., Manuel Saez, Marc Plawner, Erika Gerzsenyi, Humanscale",
+        "Title": "Personal SafetyPac",
+        "Year": "2002",
+        "ObjectID": "94037",
+        "Work": "https://www.moma.org/collection/works/94037",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNzY3NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cc9807885f5e322a",
+        "Details": {
+            "Manufacturer": "Humanscale",
+            "Medium": "PVC and polystyrene",
+            "Dimensions": "12 1/2 x 8 1/2 x 3\" (32 x 21.5 x 7.6 cm)",
+            "Credit": "Gift of Humanscale Safety Products",
+            "Object number": "119.2006.a-b",
+            "Copyright": "\u00a9 2023 Manuel Saez & Erika Gerzsenyi",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/28926"
+    },
+    {
+        "Artist": "Ben Kinmont",
+        "Title": "An Exhibition in Your Mouth from Antinomian Press Archive",
+        "Year": "2002",
+        "ObjectID": "169243",
+        "Work": "https://www.moma.org/collection/works/169243",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4MDI0OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c7001d16890569aa",
+        "Details": {
+            "Medium": "Letterpress broadside",
+            "Dimensions": "sheet: 18 5/16 x 9 1/4\" (46.5 x 23.5 cm)",
+            "Credit": "Fund for the Twenty-First Century",
+            "Object number": "72.2013.182",
+            "Copyright": "\u00a9 2023 Ben Kinmont",
+            "Associated work": "Antinomian Press Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/41829"
+    },
+    {
+        "Artist": "Ben Kinmont",
+        "Title": "Ben Kinmont, Bookseller. A List of fifty books from Antinomian Press Archive",
+        "Year": "2002",
+        "ObjectID": "169244",
+        "Work": "https://www.moma.org/collection/works/169244",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4MDI1MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a32145c7286a6ec6",
+        "Details": {
+            "Medium": "Letterpress broadside",
+            "Dimensions": "sheet: 20 3/4 x 15 1/2\" (52.7 x 39.4 cm)",
+            "Credit": "Fund for the Twenty-First Century",
+            "Object number": "72.2013.183",
+            "Copyright": "\u00a9 2023 Ben Kinmont",
+            "Associated work": "Antinomian Press Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/41829"
+    },
+    {
+        "Artist": "Mark Klett",
+        "Title": "Lena: 11, Mark: 50",
+        "Year": "September 9, 2002",
+        "ObjectID": "296496",
+        "Work": "https://www.moma.org/collection/works/296496",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ0OTAxMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=bac51bd34d0f7293",
         "Details": {
             "Medium": "Gelatin silver print",
-            "Dimensions": "14 7/8 \u00d7 14 3/4\" (37.8 \u00d7 37.5 cm)",
-            "Credit": "Gift of the artist in memory of John Szarkowski",
-            "Object number": "609.2007",
-            "Copyright": "\u00a9 2023 Lee Friedlander",
+            "Dimensions": "7 1/16 \u00d7 8 7/8\" (17.9 \u00d7 22.5 cm)",
+            "Credit": "Gift of Susan and Peter MacGill",
+            "Object number": "1325.2018",
+            "Copyright": "\u00a9 2023 Mark Klett",
             "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/2002"
+        "Profile": "https://www.moma.org/artists/3144"
     },
     {
-        "Artist": "Lee Friedlander",
-        "Title": "John Scott",
-        "Year": "2001",
-        "ObjectID": "110730",
-        "Work": "https://www.moma.org/collection/works/110730",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzNTQzOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=62851ce0268b1d7c",
-        "Details": {
-            "Medium": "Gelatin silver print, printed 2007",
-            "Dimensions": "15 1/16 \u00d7 14 13/16\" (38.3 \u00d7 37.6 cm)",
-            "Credit": "Gift of Lee Friedlander in memory of John Scott",
-            "Object number": "608.2007",
-            "Copyright": "\u00a9 2023 Lee Friedlander",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/2002"
-    },
-    {
-        "Artist": "A. G. Fronzoni",
-        "Title": "Mostra Personale: Progettare Voce del Verbo Amare",
-        "Year": "2001",
-        "ObjectID": "142291",
-        "Work": "https://www.moma.org/collection/works/142291",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNDYwNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d87141d9f2b4c8b8",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "39 3/8 x 27 9/16\" (100 x 70 cm)",
-            "Credit": "Gift of Clarissa Alcock Bronfman",
-            "Object number": "1019.2010",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/2017"
-    },
-    {
-        "Artist": "Ben Fry, Aesthetics + Computation Group, MIT Media Laboratory",
-        "Title": "Genomic Cartography: Chromosome 18",
-        "Year": "2001",
-        "ObjectID": "110123",
-        "Work": "https://www.moma.org/collection/works/110123",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyMjIwNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1116bb8751ee1063",
-        "Details": {
-            "Medium": "Processing software",
-            "Credit": "Gift of the designer",
-            "Object number": "464.2008",
-            "Copyright": "\u00a9 2023 Ben Fry",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/32964"
-    },
-    {
-        "Artist": "Ellen Gallagher",
-        "Title": "They Could Still Serve",
-        "Year": "2001",
-        "ObjectID": "80578",
-        "Work": "https://www.moma.org/collection/works/80578",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1MDk4NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b12409b09d12da71",
-        "Details": {
-            "Medium": "Dye, rubber cement, acrylic gel, oil paint, and pencil on paper mounted on canvas",
-            "Dimensions": "10 x 8' (304.8 x 243.8 cm)",
-            "Credit": "Emily and Jerry Spiegel and Anna Marie and Robert F. Shapiro Funds and gift of Agnes Gund",
-            "Object number": "1173.2001",
-            "Copyright": "\u00a9 2023 Ellen Gallagher",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/7639"
-    },
-    {
-        "Artist": "Ellen Gallagher",
-        "Title": "Watery Ecstatic",
-        "Year": "2001",
-        "ObjectID": "95981",
-        "Work": "https://www.moma.org/collection/works/95981",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNjc1OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=afa4ee9e5d1112f3",
-        "Details": {
-            "Medium": "Ink, oil, watercolor, pencil, and cut-and-pasted paper on paper",
-            "Dimensions": "22 x 29 1/2\" (55.9 x 74.9 cm)",
-            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
-            "Object number": "1715.2005",
-            "Copyright": "\u00a9 2023 Ellen Gallagher",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/7639"
-    },
-    {
-        "Artist": "GE Aircraft Engines",
-        "Title": "Jet Engine Fan Blade (model GE90-115B)",
-        "Year": "2001",
-        "ObjectID": "93637",
-        "Work": "https://www.moma.org/collection/works/93637",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4MTg3MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c8935bb55bf19e75",
-        "Details": {
-            "Manufacturer": "CFAN",
-            "Medium": "Composite fiber resin, polyurethane coating and titanium",
-            "Dimensions": "48 x 23 x 17\" (121.9 x 58.4 x 43.2 cm)",
-            "Credit": "Gift of the manufacturer",
-            "Object number": "496.2004",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/27641"
-    },
-    {
-        "Artist": "General Idea",
-        "Title": "PLA\u00a9EBO (Helium)",
-        "Year": "1992/2001",
-        "ObjectID": "121445",
-        "Work": "https://www.moma.org/collection/works/121445",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ3NzM1NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=20e7d40561898fd9",
-        "Details": {
-            "Medium": "Multiple of three custom-shaped mylar balloons",
-            "Dimensions": "other (each balloon deflated, approx.): 18 1/8 \u00d7 34 1/4\" (46 \u00d7 87 cm)",
-            "Publisher": "Museum of Contemporary Art, Chicago",
-            "Fabricator": "Unidentified",
-            "Edition": "250",
-            "Credit": "Mary Joy Thompson Legacy Fund",
-            "Object number": "1248.2008.a-c",
-            "Copyright": "\u00a9 2023 General Idea",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/7474"
-    },
-    {
-        "Artist": "Isa Genzken",
-        "Title": "Fischcollage (#7)",
-        "Year": "2001",
-        "ObjectID": "95991",
-        "Work": "https://www.moma.org/collection/works/95991",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNzQxNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cd14054d454f5867",
-        "Details": {
-            "Medium": "Cut-and-pasted printed paper on paper",
-            "Dimensions": "15 3/4 x 11 3/4\" (40 x 29.8 cm)",
-            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
-            "Object number": "1725.2005",
-            "Copyright": "\u00a9 2023 Isa Genzken",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/28632"
-    },
-    {
-        "Artist": "Liam Gillick",
-        "Title": "Literally No Place (for Parkett no. 61)",
-        "Year": "2001",
-        "ObjectID": "82635",
-        "Work": "https://www.moma.org/collection/works/82635",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEwNjkxNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a39dd4c629d45795",
-        "Details": {
-            "Medium": "Multiple of plexiglass and aluminum",
-            "Dimensions": "Overall (each): 9 15/16 x 8 1/4\" (25.3 x 20.9 cm)\r\nOverall (Eye on Europe config.): 22 7/16 x 10 x 10\" (57 x 25.4 x 25.4 cm)\r\nOverall (As Shown): 22 7/16 x 10 x 10\" (57 x 25.4 x 25.4 cm)",
-            "Publisher": "Parkett Publishers, Z\u00fcrich and New York",
-            "Fabricator": "Litex AG",
-            "Edition": "70",
-            "Credit": "Alexandra Herzan Fund",
-            "Object number": "2497.2001.a-h",
-            "Copyright": "\u00a9 2023 Liam Gillick",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/7547"
-    },
-    {
-        "Artist": "Liam Gillick, Sarah Morris, Bridget Riley, Matthew Ritchie, Various Artists",
-        "Title": "Parkett no. 61",
-        "Year": "2001",
-        "ObjectID": "82698",
-        "Work": "https://www.moma.org/collection/works/82698",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQyOTMxMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4002d3c8f1d3dc03",
-        "Details": {
-            "Collaborating artist": "Liam Gillick, Sarah Morris, Bridget Riley, Matthew Ritchie",
-            "Medium": "Journal with four special edition projects",
-            "Dimensions": "Page: 10 1/16 x 7 15/16\" (25.5 x 20.2 cm)",
-            "Publisher": "Parkett Publishers, Z\u00fcrich and New York",
-            "Edition": "Edition:",
-            "Credit": "Gift of Parkett",
-            "Object number": "2559.2001",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/24409"
-    },
-    {
-        "Artist": "Milton Glaser",
-        "Title": "I \u2665 NY More Than Ever",
-        "Year": "2001",
-        "ObjectID": "197055",
-        "Work": "https://www.moma.org/collection/works/197055",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM4MTUzNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=03159c268ccb4099",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "22 \u00d7 14\" (55.9 \u00d7 35.6 cm)",
-            "Credit": "Gift of Mirko Ili\u0107",
-            "Object number": "1568.2015",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/2188"
-    },
-    {
-        "Artist": "Robert Gober",
-        "Title": "Untitled",
-        "Year": "2000-01",
-        "ObjectID": "197018",
-        "Work": "https://www.moma.org/collection/works/197018",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0MDM4OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7fea8238df2b4251",
-        "Details": {
-            "Medium": "Intaglio print, hand-folded with hand-torn edges, in artist's frame",
-            "Dimensions": "sheet (irreg.): 4 1/8 \u00d7 5 3/16\" (10.5 \u00d7 13.1 cm)",
-            "Publisher": "Robert Gober",
-            "Printer": "Todd Norsten",
-            "Edition": "15",
-            "Credit": "Gift of Graciela and Neal Meltzer in honor of the artist",
-            "Object number": "1651.2015",
-            "Copyright": "\u00a9 2023 Robert Gober",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/2199"
-    },
-    {
-        "Artist": "Robert Gober",
-        "Title": "Untitled",
-        "Year": "2000-01",
-        "ObjectID": "197019",
-        "Work": "https://www.moma.org/collection/works/197019",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0MDM4OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3ad318209290a5eb",
-        "Details": {
-            "Medium": "Intaglio print in artist's frame",
-            "Dimensions": "sheet (irreg.): 2 5/8 \u00d7 3 3/8\" (6.6 \u00d7 8.6 cm)",
-            "Publisher": "Robert Gober",
-            "Printer": "Todd Norsten, Minneapolis",
-            "Edition": "15",
-            "Credit": "Gift of Graciela and Neal Meltzer in honor of the artist",
-            "Object number": "1652.2015",
-            "Copyright": "\u00a9 2023 Robert Gober",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/2199"
-    },
-    {
-        "Artist": "Robert Gober",
-        "Title": "Untitled",
-        "Year": "2000-01",
-        "ObjectID": "197020",
-        "Work": "https://www.moma.org/collection/works/197020",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0MDM5MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b6c8cfca33688366",
-        "Details": {
-            "Medium": "Intaglio print, hand-folded with hand-torn edges, in artist's frame",
-            "Dimensions": "sheet (irreg.): 1 7/8 \u00d7 3\" (4.8 \u00d7 7.6 cm)",
-            "Publisher": "Robert Gober",
-            "Printer": "Todd Norsten",
-            "Edition": "15",
-            "Credit": "Gift of Graciela and Neal Meltzer in honor of the artist",
-            "Object number": "1653.2015",
-            "Copyright": "\u00a9 2023 Robert Gober",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/2199"
-    },
-    {
-        "Artist": "Greg Goldberg",
-        "Title": "SB",
-        "Year": "2001",
-        "ObjectID": "96010",
-        "Work": "https://www.moma.org/collection/works/96010",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1NDg0NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3ff75be1c591730c",
-        "Details": {
-            "Medium": "Synthetic polymer paint and pencil on paper",
-            "Dimensions": "19 x 15\" (48.3 x 38.1 cm)",
-            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
-            "Object number": "1746.2005",
-            "Copyright": "\u00a9 2023 Gregory Goldberg",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/28640"
-    },
-    {
-        "Artist": "Greg Goldberg",
-        "Title": "RL",
-        "Year": "2001",
-        "ObjectID": "96011",
-        "Work": "https://www.moma.org/collection/works/96011",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1NDg0NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=959ec0b0a00c2fe3",
-        "Details": {
-            "Medium": "Synthetic polymer paint and pencil on paper",
-            "Dimensions": "19 x 15\" (48.3 x 38.1 cm)",
-            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
-            "Object number": "1747.2005",
-            "Copyright": "\u00a9 2023 Gregory Goldberg",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/28640"
-    },
-    {
-        "Artist": "Greg Goldberg",
-        "Title": "MC",
-        "Year": "2001",
-        "ObjectID": "96012",
-        "Work": "https://www.moma.org/collection/works/96012",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1NDg0OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6bb373b7b8c3ebee",
-        "Details": {
-            "Medium": "Synthetic polymer paint and pencil on paper",
-            "Dimensions": "19 x 15\" (48.3 x 38.1 cm)",
-            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
-            "Object number": "1748.2005",
-            "Copyright": "\u00a9 2023 Gregory Goldberg",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/28640"
-    },
-    {
-        "Artist": "Greg Goldberg",
-        "Title": "MN",
-        "Year": "2001",
-        "ObjectID": "96013",
-        "Work": "https://www.moma.org/collection/works/96013",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1NDg0OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6d039e6137cc3af0",
-        "Details": {
-            "Medium": "Synthetic polymer paint and pencil on paper",
-            "Dimensions": "19 x 15\" (48.3 x 38.1 cm)",
-            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
-            "Object number": "1749.2005",
-            "Copyright": "\u00a9 2023 Gregory Goldberg",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/28640"
-    },
-    {
-        "Artist": "Greg Goldberg",
-        "Title": "DH",
-        "Year": "2001",
-        "ObjectID": "96014",
-        "Work": "https://www.moma.org/collection/works/96014",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1NDg1MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=04abb613fbab046f",
-        "Details": {
-            "Medium": "Synthetic polymer paint and pencil on paper",
-            "Dimensions": "19 x 15\" (48.3 x 38.1 cm)",
-            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
-            "Object number": "1750.2005",
-            "Copyright": "\u00a9 2023 Gregory Goldberg",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/28640"
-    },
-    {
-        "Artist": "Greg Goldberg",
-        "Title": "JJ",
-        "Year": "2001",
-        "ObjectID": "96015",
-        "Work": "https://www.moma.org/collection/works/96015",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1NDg1MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8ee49760dcbcff5f",
-        "Details": {
-            "Medium": "Synthetic polymer paint and pencil on paper",
-            "Dimensions": "19 x 15\" (48.3 x 38.1 cm)",
-            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
-            "Object number": "1751.2005",
-            "Copyright": "\u00a9 2023 Gregory Goldberg",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/28640"
-    },
-    {
-        "Artist": "Greg Goldberg",
-        "Title": "Sunset",
-        "Year": "(2001)",
-        "ObjectID": "96016",
-        "Work": "https://www.moma.org/collection/works/96016",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE0MDU4MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1a736365109c3273",
-        "Details": {
-            "Medium": "Synthetic polymer paint and pencil on paper",
-            "Dimensions": "17 x 30\" (43.2 x 76.2 cm)",
-            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
-            "Object number": "1752.2005",
-            "Copyright": "\u00a9 2023 Gregory Goldberg",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/28640"
-    },
-    {
-        "Artist": "Greg Goldberg",
-        "Title": "TB",
-        "Year": "(2001)",
-        "ObjectID": "96017",
-        "Work": "https://www.moma.org/collection/works/96017",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE0MDY2NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=97e4e378c3bd8773",
-        "Details": {
-            "Medium": "Synthetic polymer paint and pencil on paper",
-            "Dimensions": "19 x 15\" (48.3 x 38.1 cm)",
-            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
-            "Object number": "1753.2005",
-            "Copyright": "\u00a9 2023 Gregory Goldberg",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/28640"
-    },
-    {
-        "Artist": "David Goldblatt",
-        "Title": "Montecasino Gambling, Entertainment , Shopping and Hotel Complex, Fourways, Johannesburg",
-        "Year": "September 26, 2001",
-        "ObjectID": "102069",
-        "Work": "https://www.moma.org/collection/works/102069",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NjA2MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=84fb60801415c188",
-        "Details": {
-            "Medium": "Five inkjet prints",
-            "Dimensions": "each 23 1/8 \u00d7 20 1/4\" (58.7 \u00d7 51.4 cm)",
-            "Credit": "John Parkinson III Fund",
-            "Object number": "23.2006.a-e",
-            "Copyright": "\u00a9 2023 David Goldblatt",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/2214"
-    },
-    {
-        "Artist": "David Goldblatt",
-        "Title": "Street Traders and Montecasino, Fourways, Johannesburg",
-        "Year": "June 8, 2001",
-        "ObjectID": "102122",
-        "Work": "https://www.moma.org/collection/works/102122",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NjI5NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9d3d8c1216e8fd33",
+        "Artist": "Mark Klett",
+        "Title": "Lena: 11, Mark: 50",
+        "Year": "September 9, 2002",
+        "ObjectID": "296497",
+        "Work": "https://www.moma.org/collection/works/296497",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ0OTAxMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2b46a80654bb57e6",
         "Details": {
             "Medium": "Inkjet print",
-            "Dimensions": "21 15/16 \u00d7 27 11/16\" (55.8 \u00d7 70.4 cm)",
-            "Credit": "Samuel J. Wagstaff, Jr. Fund",
-            "Object number": "24.2006",
-            "Copyright": "\u00a9 2023 David Goldblatt",
+            "Dimensions": "7 1/16 \u00d7 8 7/8\" (17.9 \u00d7 22.5 cm)",
+            "Credit": "Gift of Susan and Peter MacGill",
+            "Object number": "SC2018.12",
+            "Copyright": "\u00a9 2023 Mark Klett",
             "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/2214"
+        "Profile": "https://www.moma.org/artists/3144"
     },
     {
-        "Artist": "David Goldblatt",
-        "Title": "Street Trader Waiting to Sell Food to Construction Workers from 93 Grayston Office Park, Sandton",
-        "Year": "November 14, 2001",
-        "ObjectID": "102126",
-        "Work": "https://www.moma.org/collection/works/102126",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NDY5NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3fe1b5448448be83",
+        "Artist": "Tom Knechtel",
+        "Title": "Goat",
+        "Year": "(2002)",
+        "ObjectID": "96396",
+        "Work": "https://www.moma.org/collection/works/96396",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExMjc3NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=859de794551312a4",
         "Details": {
-            "Medium": "Inkjet print",
-            "Dimensions": "22 \u00d7 27 11/16\" (55.9 \u00d7 70.4 cm)",
-            "Credit": "Mr. and Mrs. Clark Winter Fund",
-            "Object number": "25.2006",
-            "Copyright": "\u00a9 2023 David Goldblatt",
-            "Department": "Photography"
+            "Medium": "Pastel on paper",
+            "Dimensions": "8 x 11 3/4\" (20.3 x 29.8 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "2101.2005",
+            "Copyright": "\u00a9 2023 Tom Knechtel",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/2214"
+        "Profile": "https://www.moma.org/artists/28681"
     },
     {
-        "Artist": "David Goldblatt",
-        "Title": "Women singing, Newton Squatter Camp, Johannesburg",
-        "Year": "November 1, 2001",
-        "ObjectID": "102127",
-        "Work": "https://www.moma.org/collection/works/102127",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NTM2NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ae2f95d4621dca60",
+        "Artist": "Philip Knoll",
+        "Title": "Ou est Marcel",
+        "Year": "2002",
+        "ObjectID": "96400",
+        "Work": "https://www.moma.org/collection/works/96400",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1NDUwNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=54f3584a3f09aed5",
         "Details": {
-            "Medium": "Inkjet print",
-            "Dimensions": "28 3/8 \u00d7 22 7/16\" (72 \u00d7 57 cm)",
-            "Credit": "David H. McAlpin Fund",
-            "Object number": "26.2006",
-            "Copyright": "\u00a9 2023 David Goldblatt",
-            "Department": "Photography"
+            "Medium": "Ink and pencil on paper",
+            "Dimensions": "10 x 8 1/2\" (25.4 x 21.6 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "2105.2005",
+            "Copyright": "\u00a9 2023 Philip Knoll",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/2214"
+        "Profile": "https://www.moma.org/artists/28682"
     },
     {
-        "Artist": "Jack Goldstein",
-        "Title": "Portfolio of Performance, 1976-1985",
-        "Year": "2001",
-        "ObjectID": "132419",
-        "Work": "https://www.moma.org/collection/works/132419",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MzE2OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=35101b122835b71f",
+        "Artist": "Philip Knoll",
+        "Title": "Pseudo Science",
+        "Year": "(2002)",
+        "ObjectID": "96401",
+        "Work": "https://www.moma.org/collection/works/96401",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzNjgyMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1f916f0973a785b3",
         "Details": {
-            "Medium": "Portfolio of nine silkscreened text and color photographs mounted on paper",
-            "Dimensions": "Each: 36 x 24\" (91.4 x 61 cm)",
-            "Credit": "Committee on Media and Performance Art Funds",
-            "Object number": "1646.2009.a-j",
-            "Copyright": "\u00a9 2023 Jack Goldstein and 1301PE, Los Angeles.",
+            "Medium": "Ink and pencil on paper",
+            "Dimensions": "9 x 8\" (22.9 x 20.3 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "2106.2005",
+            "Copyright": "\u00a9 2023 Philip Knoll",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/28682"
+    },
+    {
+        "Artist": "Uwe Kowski",
+        "Title": "Leise",
+        "Year": "2002",
+        "ObjectID": "96425",
+        "Work": "https://www.moma.org/collection/works/96425",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExMjI4MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cbc73538c24618e5",
+        "Details": {
+            "Medium": "Watercolor and pencil on paper",
+            "Dimensions": "8 1/4 x 11 3/4\" (21 x 29.8 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "2135.2005",
+            "Copyright": "\u00a9 2023 Uwe Kowski / Artists Rights Society (ARS), New York / VG Bild-Kunst, Germany",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/28686"
+    },
+    {
+        "Artist": "Uwe Kowski",
+        "Title": "Zeit",
+        "Year": "2002",
+        "ObjectID": "96426",
+        "Work": "https://www.moma.org/collection/works/96426",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExMjI4NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9fda7aec6976cb8c",
+        "Details": {
+            "Medium": "Watercolor and pencil on paper",
+            "Dimensions": "7 1/4 x 6 3/4\" (18.4 x 17.1 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "2136.2005",
+            "Copyright": "\u00a9 2023 Uwe Kowski / Artists Rights Society (ARS), New York / VG Bild-Kunst, Germany",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/28686"
+    },
+    {
+        "Artist": "Yui Kugimiya",
+        "Title": "System of Tears",
+        "Year": "2002",
+        "ObjectID": "119306",
+        "Work": "https://www.moma.org/collection/works/119306",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE0MDYzNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c19947e649a765b7",
+        "Details": {
+            "Medium": "Video (color, sound)",
+            "Duration": "1:47 min.",
+            "Credit": "Gift of Jerry I. Speyer and Katherine G. Farley",
+            "Object number": "575.2008",
+            "Copyright": "\u00a9 2023 Yui Kugimiya",
             "Department": "Media and Performance"
         },
-        "Profile": "https://www.moma.org/artists/37702"
+        "Profile": "https://www.moma.org/artists/35270"
     },
     {
-        "Artist": "April Gornik",
-        "Title": "Radiant Light",
-        "Year": "2001",
-        "ObjectID": "76901",
-        "Work": "https://www.moma.org/collection/works/76901",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQyNTU1MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1475a5883bffa7d8",
+        "Artist": "Guillermo Kuitca",
+        "Title": "Coat Check",
+        "Year": "2002",
+        "ObjectID": "86785",
+        "Work": "https://www.moma.org/collection/works/86785",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNTg2OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b2043b2d1f577acc",
+        "Details": {
+            "Medium": "Etching",
+            "Dimensions": "composition: 11 13/16 x 10 1/4\" (30 x 26 cm); sheet: 22 13/16 x 20 1/16\" (58 x 51 cm)",
+            "Publisher": "Edition Jacob Samuel, Santa Monica",
+            "Credit": "Gift of the artist and Sperone Westwater Gallery",
+            "Object number": "341.2002",
+            "Copyright": "\u00a9 2023 Guillermo Kuitca",
+            "Associated work": "Edition Jacob Samuel Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/7122"
+    },
+    {
+        "Artist": "Guillermo Kuitca",
+        "Title": "Lincoln Center Triptych",
+        "Year": "2002",
+        "ObjectID": "87810",
+        "Work": "https://www.moma.org/collection/works/87810",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjk3MDI5Il0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNTEyeDUxMlx1MDAzZSJdXQ.jpg?sha=375f69ad2e18b331",
+        "Details": {
+            "Medium": "Altered inkjet prints",
+            "Dimensions": "(each): 16 7/8 x 10 7/8\" (42.9 x 27.7 cm)",
+            "Credit": "Purchase",
+            "Object number": "7.2003.a-c",
+            "Copyright": "\u00a9 2023 Guillermo Kuitca",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/7122"
+    },
+    {
+        "Artist": "Guillermo Kuitca",
+        "Title": "Blue Bayreuth Festspielhaus",
+        "Year": "2002",
+        "ObjectID": "96430",
+        "Work": "https://www.moma.org/collection/works/96430",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExMzU5NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=577049e5e3b671b5",
+        "Details": {
+            "Medium": "Altered inkjet print",
+            "Dimensions": "11 x 8 1/2\" (27.9 x 21.6 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "2140.2005",
+            "Copyright": "\u00a9 2023 Guillermo Kuitca",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/7122"
+    },
+    {
+        "Artist": "Guillermo Kuitca",
+        "Title": "Lincoln Center",
+        "Year": "2002",
+        "ObjectID": "96431",
+        "Work": "https://www.moma.org/collection/works/96431",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExMjc3OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8e9769e5364d39dd",
+        "Details": {
+            "Medium": "Altered inkjet print",
+            "Dimensions": "11 x 17\" (27.9 x 43.2 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "2141.2005",
+            "Copyright": "\u00a9 2023 Guillermo Kuitca",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/7122"
+    },
+    {
+        "Artist": "Guillermo Kuitca",
+        "Title": "The Ring",
+        "Year": "2002",
+        "ObjectID": "96432",
+        "Work": "https://www.moma.org/collection/works/96432",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzMzk0OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a42133658ad4939e",
+        "Details": {
+            "Medium": "Four altered inkjet prints",
+            "Dimensions": "Each: 10 3/4 x 8 1/2\" (27.3 x 21.6 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "2142.2005.a-d",
+            "Copyright": "\u00a9 2023 Guillermo Kuitca",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/7122"
+    },
+    {
+        "Artist": "Guillermo Kuitca",
+        "Title": "Wien-Bratislava",
+        "Year": "2002",
+        "ObjectID": "96433",
+        "Work": "https://www.moma.org/collection/works/96433",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExMjc4MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d37be4009f31ffcc",
+        "Details": {
+            "Medium": "Altered inkjet print",
+            "Dimensions": "11 x 17\" (27.9 x 43.2 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "2143.2005",
+            "Copyright": "\u00a9 2023 Guillermo Kuitca",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/7122"
+    },
+    {
+        "Artist": "Willi Kunz",
+        "Title": "Columbia University, Graduate School of Architecture, Planning and Preservation Lecture Series Spring 2002",
+        "Year": "2002",
+        "ObjectID": "108325",
+        "Work": "https://www.moma.org/collection/works/108325",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3NzkwOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d01874723ecfb84f",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "composition: 27 15/16 \u00d7 30 7/8\" (70.9 \u00d7 78.5 cm); sheet: 30 11/16 \u00d7 36 15/16\" (78 \u00d7 93.9 cm)",
-            "Publisher": "Pegram Harrison Fine Art, Bloomington, Indiana, Derriere L'Etoile Studios, New York",
-            "Printer": "Derriere L'Etoile Studios, New York",
-            "Edition": "75",
-            "Credit": "Gift of April Gornik, Pegram Harrison, and Maurice Sanchez in memory of Karen McCready",
-            "Object number": "1469.2001",
-            "Department": "Drawings and Prints"
+            "Dimensions": "24 x 12\" (61 x 30.5 cm)",
+            "Credit": "Gift of the designer",
+            "Object number": "SC89.2007.35",
+            "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/2254"
+        "Profile": "https://www.moma.org/artists/7519"
     },
     {
-        "Artist": "Rodney Graham",
-        "Title": "Sunshine Superman Series",
-        "Year": "2001",
-        "ObjectID": "175754",
-        "Work": "https://www.moma.org/collection/works/175754",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0MzkzMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e814e9f9d0c05333",
+        "Artist": "Willi Kunz",
+        "Title": "Columbia University, Graduate School of Architecture, Planning and Preservation Lecture Series Fall 2002",
+        "Year": "2002",
+        "ObjectID": "108326",
+        "Work": "https://www.moma.org/collection/works/108326",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3NzkwOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ae72abfce3139527",
         "Details": {
-            "Medium": "Monotype",
-            "Dimensions": "composition: 11 5/8 x 11 3/4\" (29.6 x 29.9 cm); sheet: 21 7/8 x 23\" (55.5 x 58.4 cm)",
-            "Edition": "16",
-            "Credit": "Gift of Christine Burgin",
-            "Object number": "800.2013",
-            "Copyright": "\u00a9 2023 Rodney Graham",
-            "Department": "Drawings and Prints"
+            "Medium": "Lithograph",
+            "Dimensions": "24 x 12\" (61 x 30.5 cm)",
+            "Credit": "Gift of the designer",
+            "Object number": "SC89.2007.36",
+            "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/25983"
+        "Profile": "https://www.moma.org/artists/7519"
     },
     {
-        "Artist": "Rodney Graham",
-        "Title": "Poster for The Phonokinetoscope",
-        "Year": "2001",
-        "ObjectID": "175755",
-        "Work": "https://www.moma.org/collection/works/175755",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4NTY3OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8809a392eae5827c",
+        "Artist": "Steve Lacy",
+        "Title": "Because Comes the Night",
+        "Year": "2002",
+        "ObjectID": "184018",
+        "Work": "https://www.moma.org/collection/works/184018",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQwMDcyNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=27717de9336a7413",
         "Details": {
-            "Medium": "Offset poster",
-            "Dimensions": "sheet: 12 1/16 x 15 1/2\" (30.7 x 39.3 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "801.2013",
-            "Copyright": "\u00a9 2023 Rodney Graham",
+            "Medium": "7-inch vinyl record",
+            "Dimensions": "cover: 7 1/4 \u00d7 7 1/4\" (18.4 \u00d7 18.4 cm)",
+            "Edition": "1,000",
+            "Credit": "Committee on Prints and Illustrated Books Fund",
+            "Object number": "854.2013.150",
+            "Associated work": "Steven Leiber Audio Collection",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/25983"
+        "Profile": "https://www.moma.org/artists/67195"
     },
     {
-        "Artist": "Alex Grey",
-        "Title": "Study for Reading",
-        "Year": "2001",
-        "ObjectID": "96061",
-        "Work": "https://www.moma.org/collection/works/96061",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNDU5MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5b2090dd421c2b97",
+        "Artist": "Wolfgang Laib",
+        "Title": "Untitled",
+        "Year": "2002",
+        "ObjectID": "96443",
+        "Work": "https://www.moma.org/collection/works/96443",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExODU2MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4d4db8f59a71c5a9",
         "Details": {
-            "Medium": "Pencil on paper",
-            "Dimensions": "14 x 11\" (35.6 x 27.9 cm)",
+            "Medium": "Oil crayon and pencil on paper",
+            "Dimensions": "19 1/2 x 16 1/4\" (49.5 x 41.3 cm)",
             "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
-            "Object number": "1780.2005",
-            "Copyright": "\u00a9 2023 Alex Grey",
+            "Object number": "2154.2005",
+            "Copyright": "\u00a9 2023 Wolfgang Laib",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/28647"
+        "Profile": "https://www.moma.org/artists/3342"
     },
     {
-        "Artist": "Mark Grotjahn",
-        "Title": "Untitled (Blue and Cream)",
-        "Year": "2000-01",
-        "ObjectID": "96064",
-        "Work": "https://www.moma.org/collection/works/96064",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzMzk0MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7fbaa69862d50708",
+        "Artist": "James Lamb, Alloy Ltd. Total Product Design",
+        "Title": "Argus3 Thermal Imaging Camera",
+        "Year": "2002",
+        "ObjectID": "94585",
+        "Work": "https://www.moma.org/collection/works/94585",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEwOTUyOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=90e02a69ff3065a2",
+        "Details": {
+            "Manufacturer": "e2v Technologies, Ltd., licensed by Argus Industries, Inc.",
+            "Medium": "Radel 5100 thermoplastic and Santoprene elastomer",
+            "Dimensions": "11 3/4 x 7 1/8 x 10 5/8\" (30 x 18 x 27 cm)",
+            "Credit": "Gift of Alloy Ltd. | Total Product Design",
+            "Object number": "122.2006",
+            "Copyright": "Photo by Louise Broom",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/29005"
+    },
+    {
+        "Artist": "Wes Lang",
+        "Title": "Untitled (You Really Are a Son of a Bitch!)",
+        "Year": "2002",
+        "ObjectID": "96466",
+        "Work": "https://www.moma.org/collection/works/96466",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1ODY5OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=bc5872cc3f9e2369",
+        "Details": {
+            "Medium": "Typewriting, gouache, ink, and pencil on paper",
+            "Dimensions": "12 x 9\" (30.5 x 22.9 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "2184.2005",
+            "Copyright": "\u00a9 2023 Wes Lang",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/28689"
+    },
+    {
+        "Artist": "Jonathan Lasker",
+        "Title": "Untitled (D-95)",
+        "Year": "2002",
+        "ObjectID": "96470",
+        "Work": "https://www.moma.org/collection/works/96470",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE0Mjc2MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3acad7ac67a2f3ea",
+        "Details": {
+            "Medium": "Colored pencil and ink on paper",
+            "Dimensions": "22 1/4 x 30 1/8\" (56.5 x 76.5 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "2186.2005",
+            "Copyright": "\u00a9 2023 Jonathan Lasker",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3399"
+    },
+    {
+        "Artist": "Jonathan Lasker",
+        "Title": "Untitled (D-96)",
+        "Year": "2002",
+        "ObjectID": "96471",
+        "Work": "https://www.moma.org/collection/works/96471",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1OTE1MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=190105d4be956dfc",
         "Details": {
             "Medium": "Colored pencil on paper",
-            "Dimensions": "30 x 22\" (76.2 x 55.9 cm)",
+            "Dimensions": "Sheet: 22 1/4 x 30\" (56.5 x 76.2 cm)",
             "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
-            "Object number": "1783.2005",
-            "Copyright": "\u00a9 2023 Mark Grotjahn",
+            "Object number": "2187.2005",
+            "Copyright": "\u00a9 2023 Jonathan Lasker",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/28098"
+        "Profile": "https://www.moma.org/artists/3399"
     },
     {
-        "Artist": "Einar Hareide, Anders Hansen, \u00d8ivind Resch, Hareide Designmill",
-        "Title": "Startloop car battery starting device",
-        "Year": "2001",
-        "ObjectID": "93962",
-        "Work": "https://www.moma.org/collection/works/93962",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNzY3OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=781073a982be086c",
+        "Artist": "Ghariokwu Lemi",
+        "Title": "Anoda Sistem",
+        "Year": "2002",
+        "ObjectID": "96486",
+        "Work": "https://www.moma.org/collection/works/96486",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExMjI5OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=eda10701d9e6bf49",
         "Details": {
-            "Manufacturer": "Startloop AS",
-            "Medium": "ABS plastic",
-            "Dimensions": "13 x 3 x 1 5/8\" (33 x 7.4 x 4 cm)",
-            "Credit": "Gift of Hareide Designmill",
-            "Object number": "111.2006",
-            "Copyright": "\u00a9 2023 Einar Hareide & Anders Hansen",
+            "Medium": "Gouache, ink, and pastel on printed paper",
+            "Dimensions": "11 1/8 x 11\" (28.3 x 27.9 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "2202.2005",
+            "Copyright": "\u00a9 2023 Ghariokwu Lemi / Artists Rights Society (ARS), New York",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/28692"
+    },
+    {
+        "Artist": "Robert James Leonetti",
+        "Title": "Doublewide Chair",
+        "Year": "2002",
+        "ObjectID": "88162",
+        "Work": "https://www.moma.org/collection/works/88162",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MDk3MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=759ff6edada0f28b",
+        "Details": {
+            "Manufacturer": "Robert James Leonetti",
+            "Medium": "Steel, plastic components, paint",
+            "Dimensions": "Each: 29 1/2 x 40 x 19\" (74.9 x 101.6 x 48.3 cm)",
+            "Credit": "Craig Robins Purchase Fund",
+            "Object number": "115.2003.1-2",
+            "Copyright": "\u00a9 2023 Robert Leonetti",
             "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/28478"
+        "Profile": "https://www.moma.org/artists/26145"
     },
     {
-        "Artist": "Rachel Harrison",
-        "Title": "Untitled (Fire Hydrant)",
-        "Year": "2001",
-        "ObjectID": "96104",
-        "Work": "https://www.moma.org/collection/works/96104",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNTc3MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=027134d473766e99",
+        "Artist": "Sze Tsung Leong",
+        "Title": "Yihaoqiao, Yuzhong District, Chongqing",
+        "Year": "2002",
+        "ObjectID": "102044",
+        "Work": "https://www.moma.org/collection/works/102044",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NTY3NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=60df80f56bda8e19",
         "Details": {
-            "Medium": "Felt-tip pen and cut-and-pasted chromogenic print on paper",
-            "Dimensions": "14 x 17\" (35.6 x 43.2 cm)",
-            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
-            "Object number": "1830.2005",
-            "Copyright": "\u00a9 2023 Rachel Harrison",
+            "Medium": "Chromogenic print",
+            "Dimensions": "31 7/8 \u00d7 40 1/16\" (81 \u00d7 101.8 cm)",
+            "Credit": "Fund for the Twenty-First Century",
+            "Object number": "405.2006",
+            "Copyright": "\u00a9 2023 Sze Tsung Leong",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/30271"
+    },
+    {
+        "Artist": "Sze Tsung Leong",
+        "Title": "Unfinished Elevated Highway, Ciqikou, Shapingba District, Chongqing",
+        "Year": "2002",
+        "ObjectID": "102048",
+        "Work": "https://www.moma.org/collection/works/102048",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MjgyNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=070bdce23090f87e",
+        "Details": {
+            "Medium": "Chromogenic print",
+            "Dimensions": "31 7/8 \u00d7 40 1/16\" (81 \u00d7 101.8 cm)",
+            "Credit": "Fund for the Twenty-First Century",
+            "Object number": "403.2006",
+            "Copyright": "\u00a9 2023 Sze Tsung Leong",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/30271"
+    },
+    {
+        "Artist": "Sze Tsung Leong",
+        "Title": "Xizhimen, Haidian District, Beijing",
+        "Year": "2002",
+        "ObjectID": "102049",
+        "Work": "https://www.moma.org/collection/works/102049",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NTY3MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d01b444775a93551",
+        "Details": {
+            "Medium": "Chromogenic print",
+            "Dimensions": "31 7/8 \u00d7 40 1/16\" (81 \u00d7 101.8 cm)",
+            "Credit": "Fund for the Twenty-First Century",
+            "Object number": "404.2006",
+            "Copyright": "\u00a9 2023 Sze Tsung Leong",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/30271"
+    },
+    {
+        "Artist": "Julian Lethbridge",
+        "Title": "Melrose Beach #1",
+        "Year": "2002",
+        "ObjectID": "86847",
+        "Work": "https://www.moma.org/collection/works/86847",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "Composition: 22 5/8 x 20 7/8\" (57.5 x 53.1 cm)\r\nSheet: 30 3/16 x 26 15/16\" (76.7 x 68.5 cm)",
+            "Publisher": "Universal Limited Art Editions, West Islip, New York",
+            "Printer": "Universal Limited Art Editions, West Islip, New York",
+            "Credit": "Gift of Emily Fisher Landau",
+            "Object number": "342.2002",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/7855"
-    },
-    {
-        "Artist": "Mona Hatoum",
-        "Title": "Untitled (hair grid with knots 3)",
-        "Year": "(2001)",
-        "ObjectID": "86813",
-        "Work": "https://www.moma.org/collection/works/86813",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjkzODkzIl0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNTEyeDUxMlx1MDAzZSJdXQ.jpg?sha=45cde06c953595fb",
-        "Details": {
-            "Medium": "Human hair with hair spray tied to transparentized paper",
-            "Dimensions": "14 1/8 x 11\" (35.9 x 27.9 cm)",
-            "Credit": "Purchase",
-            "Object number": "301.2002",
-            "Copyright": "\u00a9 2023 Mona Hatoum",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/7447"
-    },
-    {
-        "Artist": "Sharon Hayes",
-        "Title": "The Interpreter Project",
-        "Year": "2001",
-        "ObjectID": "156763",
-        "Work": "https://www.moma.org/collection/works/156763",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4OTE3OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a13d24e2ffb480cf",
-        "Details": {
-            "Medium": "Four-channel video (color, sound; 60 min.), eighty-one 35mm color slides, and table",
-            "Dimensions": "Dimensions variable",
-            "Credit": "Acquired through the generosity of Agnes Gund",
-            "Object number": "567.2012",
-            "Copyright": "\u00a9 2023 Sharon Hayes. Courtesy of the artist and Tanya Leighton Gallery, Berlin",
-            "Department": "Media and Performance"
-        },
-        "Profile": "https://www.moma.org/artists/38915"
-    },
-    {
-        "Artist": "Deryck Healy",
-        "Title": "Think First from Break the Silence!",
-        "Year": "2000-01",
-        "ObjectID": "136205",
-        "Work": "https://www.moma.org/collection/works/136205",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzOTA5MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1d2bcc726483e618",
-        "Details": {
-            "Medium": "Screenprint from a portfolio of thirty-one mixed media prints",
-            "Dimensions": "composition: 19 1/16 x 15 1/2\" (48.4 x 39.4 cm); sheet: 23 5/8 x 16 9/16\" (60 x 42.1 cm)",
-            "Publisher": "Artists for Humanity, Durban, South Africa",
-            "Printer": "Various Printers",
-            "Edition": "25",
-            "Credit": "General Print Fund",
-            "Object number": "1110.2007.11",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/38197"
-    },
-    {
-        "Artist": "Christine Hiebert",
-        "Title": "Untitled (L.01.2)",
-        "Year": "2001",
-        "ObjectID": "90691",
-        "Work": "https://www.moma.org/collection/works/90691",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4Njc5NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=08277ec95b5911e0",
-        "Details": {
-            "Medium": "Charcoal and rabbit-skin glue on paper",
-            "Dimensions": "45 3/4 x 63 3/4\" (116.2 x 161.9 cm)",
-            "Credit": "Gift of Sarah-Ann and Werner H. Kramarsky",
-            "Object number": "111.2004",
-            "Copyright": "\u00a9 2023 Christine Hiebert",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/27178"
-    },
-    {
-        "Artist": "Thomas Hirschhorn",
-        "Title": "\u0152Serie: 1 Man = 1 Man (Perpetual Obsession)1",
-        "Year": "2001",
-        "ObjectID": "98031",
-        "Work": "https://www.moma.org/collection/works/98031",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjk3NTM4Il0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNTEyeDUxMlx1MDAzZSJdXQ.jpg?sha=26ef678eaef92d66",
-        "Details": {
-            "Medium": "Cut-and-pasted printed paper with felt-tip pen and ballpoint pen on paper wrapped in synthetic polymer sheet",
-            "Dimensions": "12 3/4 x 17\" (32.4 x 43.2 cm)",
-            "Credit": "Gift of David Teiger",
-            "Object number": "95.2005.1",
-            "Copyright": "\u00a9 2023 Thomas Hirschhorn",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/8276"
-    },
-    {
-        "Artist": "Thomas Hirschhorn",
-        "Title": "\u0152Serie: 1 Man = 1 Man (Globalisation Ok! But From Below)1",
-        "Year": "2001",
-        "ObjectID": "98032",
-        "Work": "https://www.moma.org/collection/works/98032",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjk3NTYzIl0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNTEyeDUxMlx1MDAzZSJdXQ.jpg?sha=0308b6169773a9e7",
-        "Details": {
-            "Medium": "Cut-and-pasted printed paper with felt-tip pen and ballpoint pen on paper wrapped in synthetic polymer sheet",
-            "Dimensions": "12 3/4 x 17\" (32.4 x 43.2 cm)",
-            "Credit": "Gift of David Teiger",
-            "Object number": "95.2005.2",
-            "Copyright": "\u00a9 2023 Thomas Hirschhorn",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/8276"
-    },
-    {
-        "Artist": "Thomas Hirschhorn",
-        "Title": "\u0152Serie: 1 Man = 1 Man (I Love my Life)1",
-        "Year": "2001",
-        "ObjectID": "98033",
-        "Work": "https://www.moma.org/collection/works/98033",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjk3NTk0Il0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNTEyeDUxMlx1MDAzZSJdXQ.jpg?sha=dfa0b4e726c86315",
-        "Details": {
-            "Medium": "Cut-and-pasted printed paper with felt-tip pen and ballpoint pen on paper wrapped in synthetic polymer sheet",
-            "Dimensions": "12 3/4 x 17\" (32.4 x 43.2 cm)",
-            "Credit": "Gift of David Teiger",
-            "Object number": "95.2005.3",
-            "Copyright": "\u00a9 2023 Thomas Hirschhorn",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/8276"
-    },
-    {
-        "Artist": "Thomas Hirschhorn",
-        "Title": "\u0152Serie: 1 Man = 1 Man (No Life Is Cheap)1",
-        "Year": "2001",
-        "ObjectID": "98034",
-        "Work": "https://www.moma.org/collection/works/98034",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjk3NTk1Il0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNTEyeDUxMlx1MDAzZSJdXQ.jpg?sha=50ae794f038cf6e0",
-        "Details": {
-            "Medium": "Cut-and-pasted printed paper with felt-tip pen and ballpoint pen on paper wrapped in synthetic polymer sheet",
-            "Dimensions": "12 3/4 x 17\" (32.4 x 43.2 cm)",
-            "Credit": "Gift of David Teiger",
-            "Object number": "95.2005.4",
-            "Copyright": "\u00a9 2023 Thomas Hirschhorn",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/8276"
-    },
-    {
-        "Artist": "Thomas Hirschhorn",
-        "Title": "\u0152Serie: 1 Man = 1 Man (Senior Thesis = Junior Thesis)1",
-        "Year": "2001",
-        "ObjectID": "98035",
-        "Work": "https://www.moma.org/collection/works/98035",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjk3NTk2Il0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNTEyeDUxMlx1MDAzZSJdXQ.jpg?sha=50286871cd570426",
-        "Details": {
-            "Medium": "Cut-and-pasted printed paper with felt-tip pen and ballpoint pen on paper wrapped in synthetic polymer sheet",
-            "Dimensions": "12 3/4 x 17\" (32.4 x 43.2 cm)",
-            "Credit": "Gift of David Teiger",
-            "Object number": "95.2005.5",
-            "Copyright": "\u00a9 2023 Thomas Hirschhorn",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/8276"
-    },
-    {
-        "Artist": "Thomas Hirschhorn",
-        "Title": "\u0152Serie: 1 Man = 1 Man (Always On Your Side)1",
-        "Year": "2001",
-        "ObjectID": "98036",
-        "Work": "https://www.moma.org/collection/works/98036",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjk3NTk3Il0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNTEyeDUxMlx1MDAzZSJdXQ.jpg?sha=8f0a26fc4c998b9e",
-        "Details": {
-            "Medium": "Cut-and-pasted printed paper with felt-tip pen and ballpoint pen on paper wrapped in synthetic polymer sheet",
-            "Dimensions": "12 3/4 x 17\" (32.4 x 43.2 cm)",
-            "Credit": "Gift of David Teiger",
-            "Object number": "95.2005.6",
-            "Copyright": "\u00a9 2023 Thomas Hirschhorn",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/8276"
-    },
-    {
-        "Artist": "Thomas Hirschhorn",
-        "Title": "\u0152Serie: 1 Man = 1 Man (Truth = Truth)1",
-        "Year": "2001",
-        "ObjectID": "98037",
-        "Work": "https://www.moma.org/collection/works/98037",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjk3NTk4Il0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNTEyeDUxMlx1MDAzZSJdXQ.jpg?sha=a0ab489e755f43ec",
-        "Details": {
-            "Medium": "Cut-and-pasted printed paper with felt-tip pen and ballpoint pen on paper wrapped in synthetic polymer sheet",
-            "Dimensions": "12 3/4 x 17\" (32.4 x 43.2 cm)",
-            "Credit": "Gift of David Teiger",
-            "Object number": "95.2005.7",
-            "Copyright": "\u00a9 2023 Thomas Hirschhorn",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/8276"
-    },
-    {
-        "Artist": "Thomas Hirschhorn",
-        "Title": "\u0152Serie: 1 Man = 1 Man (We Are the World)1",
-        "Year": "2001",
-        "ObjectID": "98038",
-        "Work": "https://www.moma.org/collection/works/98038",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjk3NTk5Il0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNTEyeDUxMlx1MDAzZSJdXQ.jpg?sha=3d99abf045e2819d",
-        "Details": {
-            "Medium": "Cut-and-pasted printed paper with felt-tip pen and ballpoint pen on paper wrapped in synthetic polymer sheet",
-            "Dimensions": "12 3/4 x 17\" (32.4 x 43.2 cm)",
-            "Credit": "Gift of David Teiger",
-            "Object number": "95.2005.8",
-            "Copyright": "\u00a9 2023 Thomas Hirschhorn",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/8276"
-    },
-    {
-        "Artist": "Jim Hodges",
-        "Title": "Happy III",
-        "Year": "2001",
-        "ObjectID": "96156",
-        "Work": "https://www.moma.org/collection/works/96156",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzNDg5OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=44e039c24ec82615",
-        "Details": {
-            "Medium": "Colored pencil on two pieces of paper",
-            "Dimensions": "Installation: 60 x 44 1/2\" (152.4 x 113 cm)",
-            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
-            "Object number": "1872.2005.a-b",
-            "Copyright": "\u00a9 2023 Jim Hodges",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/21447"
+        "Profile": "https://www.moma.org/artists/3500"
     }
 ]

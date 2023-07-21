@@ -1,121 +1,348 @@
 [
     {
-        "Artist": "La Monte Young",
-        "Title": "Composition 1960 #7",
-        "Year": "1960/1970",
-        "ObjectID": "172872",
-        "Work": "https://www.moma.org/collection/works/172872",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0NjU3MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a6c9bb4a7cd0fc5d",
-        "Details": {
-            "Medium": "Felt-tip pen on paper",
-            "Dimensions": "sheet: 8 1/8 x 8 3/4\" (20.6 x 22.2 cm)",
-            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
-            "Object number": "3157.2008",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/6520"
-    },
-    {
-        "Artist": "Marco Zanuso",
-        "Title": "Kitchen Scale (model BA 2000)",
-        "Year": "1969",
-        "ObjectID": "1369",
-        "Work": "https://www.moma.org/collection/works/1369",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMDgwNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fe98ee47f84a8f05",
-        "Details": {
-            "Manufacturer": "Terraillon S.R.L., Italy",
-            "Medium": "ABS polymer casing",
-            "Dimensions": "6 1/8 x 6 1/2 x 4 1/8\" (15.5 x 16.5 x 10.5 cm)",
-            "Credit": "Gift of the manufacturer",
-            "Object number": "SC6.1970",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/6544"
-    },
-    {
-        "Artist": "Marco Zanuso",
-        "Title": "Hastil Fountain Pen",
-        "Year": "1969",
-        "ObjectID": "1919",
-        "Work": "https://www.moma.org/collection/works/1919",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNjI3MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cc6c734a863a8703",
-        "Details": {
-            "Manufacturer": "Aurora S.p.A., Torino, Italy",
-            "Medium": "Steel, plastic, and white gold",
-            "Dimensions": "5 7/16 x 5/16\" (13.8 x 0.8 cm)",
-            "Credit": "Gift of the manufacturer",
-            "Object number": "61.1972",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/6544"
-    },
-    {
-        "Artist": "Marco Zanuso, Richard Sapper",
-        "Title": "Black 201 Television Set",
-        "Year": "1969",
-        "ObjectID": "4031",
-        "Work": "https://www.moma.org/collection/works/4031",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMjIxMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c3bd71ef109ba52a",
-        "Details": {
-            "Manufacturer": "Brionvega S.p.A., Italy",
-            "Medium": "Acrylic plastic",
-            "Dimensions": "10 x 11 1/2 x 12\" (25.4 x 29.2 x 30.5 cm)",
-            "Credit": "Gift of the manufacturer",
-            "Object number": "482.1970",
-            "Copyright": "\u00a9 2023 Richard Sapper and Marco Zanuso",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/6544"
-    },
-    {
-        "Artist": "Larry Zox",
-        "Title": "Untitled",
-        "Year": "1970",
-        "ObjectID": "67951",
-        "Work": "https://www.moma.org/collection/works/67951",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjg4NjQ2Il0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNTEyeDUxMlx1MDAzZSJdXQ.jpg?sha=58b90dd4bf155681",
-        "Details": {
-            "Medium": "Aquatint, printed in color",
-            "Dimensions": "plate  17 5/8 x 35 5/16\" (44.8 x 89.7 cm)\r\nsheet  24 15/16 x 40 5/8\" (63.4 x 103.2 cm)",
-            "Credit": "John B. Turner Fund",
-            "Object number": "371.1971",
-            "Copyright": "\u00a9 2023 Larry Zox / Artists Rights Society (ARS), New York",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/6586"
-    },
-    {
-        "Artist": "Rodolfo Abularach",
-        "Title": "Enigmatic Eye I (Ojo Enigmatico I)",
-        "Year": "1969",
-        "ObjectID": "61586",
-        "Work": "https://www.moma.org/collection/works/61586",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzNjExMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5c0b325ffaabe24b",
+        "Artist": "Lance Wyman, Department of Publications and Urban Design, Organizing Committee of the XIX Olympiad",
+        "Title": "Mexico City 1968 Olympics: Soccer",
+        "Year": "c. 1968",
+        "ObjectID": "171935",
+        "Work": "https://www.moma.org/collection/works/171935",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3OTE5OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=100eb0de348dc993",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "composition  22 5/8 x 29 3/8\" (57.4 x 74.6 cm); sheet  22 5/8 x 29 3/8\" (57.4 x 74.6 cm)",
-            "Publisher": "Rodolfo Abularach, New York",
-            "Printer": "Atelier Mourlot, Ltd., New York",
-            "Edition": "100",
-            "Credit": "Inter-American Fund",
-            "Object number": "84.1970",
-            "Copyright": "\u00a9 2023 Rodolfo Abularach",
+            "Dimensions": "17 11/16 x 17 11/16\" (44.9 x 44.9 cm)",
+            "Credit": "Gift of the XIX Olympics Committee",
+            "Object number": "404.2014.4",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/6467"
+    },
+    {
+        "Artist": "Lance Wyman, Department of Publications and Urban Design, Organizing Committee of the XIX Olympiad",
+        "Title": "Mexico City 1968 Olympics: Wrestling",
+        "Year": "c. 1968",
+        "ObjectID": "171936",
+        "Work": "https://www.moma.org/collection/works/171936",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3OTIwMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0a4d30e923549bff",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "17 11/16 x 17 11/16\" (44.9 x 44.9 cm)",
+            "Credit": "Gift of the XIX Olympics Committee",
+            "Object number": "404.2014.5",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/6467"
+    },
+    {
+        "Artist": "Lance Wyman, Department of Publications and Urban Design, Organizing Committee of the XIX Olympiad",
+        "Title": "Mexico City 1968 Olympics: Field Hockey",
+        "Year": "c. 1968",
+        "ObjectID": "171937",
+        "Work": "https://www.moma.org/collection/works/171937",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3OTIwMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1f277de4c41caee7",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "17 11/16 x 17 11/16\" (44.9 x 44.9 cm)",
+            "Credit": "Gift of the XIX Olympics Committee",
+            "Object number": "404.2014.6",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/6467"
+    },
+    {
+        "Artist": "Lance Wyman, Department of Publications and Urban Design, Organizing Committee of the XIX Olympiad",
+        "Title": "Mexico City 1968 Olympics: Cycling",
+        "Year": "c. 1968",
+        "ObjectID": "171938",
+        "Work": "https://www.moma.org/collection/works/171938",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3OTIwMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=76c085481ba14e3a",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "17 11/16 x 17 11/16\" (44.9 x 44.9 cm)",
+            "Credit": "Gift of the XIX Olympics Committee",
+            "Object number": "404.2014.7",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/6467"
+    },
+    {
+        "Artist": "Lance Wyman, Department of Publications and Urban Design, Organizing Committee of the XIX Olympiad",
+        "Title": "Mexico City 1968 Olympics: Equestrian Sports",
+        "Year": "c. 1968",
+        "ObjectID": "171939",
+        "Work": "https://www.moma.org/collection/works/171939",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3OTIwNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=00ee8f3777a45b57",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "17 11/16 x 17 11/16\" (44.9 x 44.9 cm)",
+            "Credit": "Gift of the XIX Olympics Committee",
+            "Object number": "404.2014.8",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/6467"
+    },
+    {
+        "Artist": "Lance Wyman, Department of Publications and Urban Design, Organizing Committee of the XIX Olympiad",
+        "Title": "Mexico City 1968 Olympics: Gymnastics",
+        "Year": "c. 1968",
+        "ObjectID": "171940",
+        "Work": "https://www.moma.org/collection/works/171940",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3OTIwOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8a62624118f61fef",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "17 11/16 x 17 11/16\" (44.9 x 44.9 cm)",
+            "Credit": "Gift of the XIX Olympics Committee",
+            "Object number": "404.2014.9",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/6467"
+    },
+    {
+        "Artist": "Lance Wyman, Department of Publications and Urban Design, Organizing Committee of the XIX Olympiad",
+        "Title": "Mexico City 1968 Olympics: Fencing",
+        "Year": "c. 1968",
+        "ObjectID": "171941",
+        "Work": "https://www.moma.org/collection/works/171941",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3OTE5MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7644a1a3b1fab1c0",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "17 11/16 x 17 11/16\" (44.9 x 44.9 cm)",
+            "Credit": "Gift of the XIX Olympics Committee",
+            "Object number": "404.2014.10",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/6467"
+    },
+    {
+        "Artist": "Lance Wyman, Department of Publications and Urban Design, Organizing Committee of the XIX Olympiad",
+        "Title": "Mexico City 1968 Olympics: Basketball",
+        "Year": "c. 1968",
+        "ObjectID": "171942",
+        "Work": "https://www.moma.org/collection/works/171942",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3OTE5MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f766b40de121646f",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "17 11/16 x 17 11/16\" (44.9 x 44.9 cm)",
+            "Credit": "Gift of the XIX Olympics Committee",
+            "Object number": "404.2014.11",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/6467"
+    },
+    {
+        "Artist": "Lance Wyman, Department of Publications and Urban Design, Organizing Committee of the XIX Olympiad",
+        "Title": "Mexico City 1968 Olympics: Weightlifting",
+        "Year": "c. 1968",
+        "ObjectID": "171943",
+        "Work": "https://www.moma.org/collection/works/171943",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "17 11/16 x 17 11/16\" (44.9 x 44.9 cm)",
+            "Credit": "Gift of the XIX Olympics Committee",
+            "Object number": "404.2014.12",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/6467"
+    },
+    {
+        "Artist": "Lance Wyman, Department of Publications and Urban Design, Organizing Committee of the XIX Olympiad",
+        "Title": "Mexico City 1968 Olympics: Rowing",
+        "Year": "c. 1968",
+        "ObjectID": "171944",
+        "Work": "https://www.moma.org/collection/works/171944",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3OTE5NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f92106fd8aafb615",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "17 11/16 x 17 11/16\" (44.9 x 44.9 cm)",
+            "Credit": "Gift of the XIX Olympics Committee",
+            "Object number": "404.2014.13",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/6467"
+    },
+    {
+        "Artist": "Lance Wyman, Eduardo Terrazas, Department of Publications and Urban Design, Organizing Committee of the XIX Olympiad",
+        "Title": "Mexico City 1968 Olympics",
+        "Year": "c.1968",
+        "ObjectID": "172048",
+        "Work": "https://www.moma.org/collection/works/172048",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3OTE4MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f0f447d126d4aaa7",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "23 9/16 x 23 5/8\" (59.8 x 60 cm)",
+            "Printer": "Miguel Galas S.A., Mexico City",
+            "Credit": "Gift of the XIX Olympics Committee",
+            "Object number": "405.2014",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/6467"
+    },
+    {
+        "Artist": "Katsuro Yoshida",
+        "Title": "London 3 (Mayfair)",
+        "Year": "1973",
+        "ObjectID": "63061",
+        "Work": "https://www.moma.org/collection/works/63061",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Etching and aquatint",
+            "Dimensions": "Plate 9 5/8 x 13 9/16\" (24.4 x 34.4 cm) Sheet  15 9/16 x 19 5/8\" (39.6 x 49.8 cm)",
+            "Credit": "Blanchette Hooker Rockefeller Fund",
+            "Object number": "155.1975",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/52"
+        "Profile": "https://www.moma.org/artists/6507"
+    },
+    {
+        "Artist": "Katsuro Yoshida",
+        "Title": "London 8 (Mayfair)",
+        "Year": "1973",
+        "ObjectID": "63079",
+        "Work": "https://www.moma.org/collection/works/63079",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Etching and aquatint",
+            "Dimensions": "Plate 9 x 13 9/16\" (22.9 x 34.5 cm) Sheet 15  7/16 x 19 3/4\" (39.2 x 50.2 cm)",
+            "Credit": "Blanchette Hooker Rockefeller Fund",
+            "Object number": "156.1975",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6507"
+    },
+    {
+        "Artist": "Kohei Yoshiyuki",
+        "Title": "Untitled",
+        "Year": "1973",
+        "ObjectID": "108901",
+        "Work": "https://www.moma.org/collection/works/108901",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwNzUzOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c9c8ee8c130d7ceb",
+        "Details": {
+            "Medium": "Gelatin silver print, printed 2006",
+            "Dimensions": "12 5/16 \u00d7 18 3/8\" (31.2 \u00d7 46.6 cm)",
+            "Credit": "Samuel J. Wagstaff, Jr. Fund",
+            "Object number": "239.2007",
+            "Copyright": "\u00a9 2023 Kohei Yoshiyuki",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/32560"
+    },
+    {
+        "Artist": "Alfredo Zalce",
+        "Title": "Fish Market (Pescaderia) from AGPA 73: Pan American Graphic Arts (AGPA 73: Artes graficas panamericanas)",
+        "Year": "1973",
+        "ObjectID": "67860",
+        "Work": "https://www.moma.org/collection/works/67860",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQxNjgyNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0287ae5906511393",
+        "Details": {
+            "Medium": "Linoleum cut from a portfolio of 11 screenprints (one with embossing), seven etchings (three with aquatint, one with embossing), six lithographs (one with etching), five linoleum cuts (one with embossing), one engraving, and one intaglio with embossing",
+            "Dimensions": "composition (irreg.): 19 11/16 \u00d7 23 5/8\" (50 \u00d7 60 cm); sheet: 22 1/16 \u00d7 30 3/16\" (56 \u00d7 76.6 cm)",
+            "Publisher": "Cart\u00f3n y Papel de M\u00e9xico, S. A., Mexico City",
+            "Edition": "150",
+            "Credit": "Gift of Cart\u00f3n y Papel de M\u00e9xico, S. A.",
+            "Object number": "366.1974.28",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / SOMAAP, Mexico City",
+            "Portfolio": "AGPA 73: Pan American Graphic Arts (AGPA 73: Artes gr\u00e1ficas panamericanas)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6537"
+    },
+    {
+        "Artist": "Marco Zanuso",
+        "Title": "Table Fan",
+        "Year": "1973",
+        "ObjectID": "3976",
+        "Work": "https://www.moma.org/collection/works/3976",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMTQ5NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4b0fd4a83df20cad",
+        "Details": {
+            "Manufacturer": "Vortice Elettrosociali, S.p.A., Italy",
+            "Medium": "Injection-molded ABS polymer",
+            "Dimensions": "8 1/2 x 7 1/4 x 4 1/4\" (21.6 x 18.4 x 10.8 cm)",
+            "Credit": "Gift of the manufacturer",
+            "Object number": "473.1974",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/6544"
+    },
+    {
+        "Artist": "Marian Zazeela",
+        "Title": "Poster for Pandit Pran Nath Singing Classes and Individual Lessons, Kirana School of Classical Indian Music, January 1973",
+        "Year": "1973",
+        "ObjectID": "421895",
+        "Work": "https://www.moma.org/collection/works/421895",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUwNjIwNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6180da98d96b8d96",
+        "Details": {
+            "Medium": "Offset lithograph",
+            "Dimensions": "8 1/2 \u00d7 11\" (21.6 \u00d7 27.9 cm)",
+            "Credit": "Committee on Drawings and Prints Fund",
+            "Object number": "91.2021",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6551"
+    },
+    {
+        "Artist": "Gilberto Zorio",
+        "Title": "Untitled",
+        "Year": "1973",
+        "ObjectID": "150419",
+        "Work": "https://www.moma.org/collection/works/150419",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNDcyMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=02a224db5dca2789",
+        "Details": {
+            "Medium": "Black and colored ink on graph paper",
+            "Dimensions": "8 1/4 x 13\" (21 x 33 cm)",
+            "Credit": "Gift of Jan Christiaan Braun in honor of Maja Oeri",
+            "Object number": "849.2011",
+            "Copyright": "\u00a9 2023 Zorio Gilberto",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6583"
+    },
+    {
+        "Artist": "Francisco Zuniga",
+        "Title": "Sitting Woman with Rebozo (Mujer sentada con rebozo) from AGPA 73: Pan American Graphic Arts (AGPA 73: Artes graficas panamericanas)",
+        "Year": "1973",
+        "ObjectID": "67864",
+        "Work": "https://www.moma.org/collection/works/67864",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQxNjgzMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5e794be3e74692d7",
+        "Details": {
+            "Medium": "Lithograph from a portfolio of 11 screenprints (one with embossing), seven etchings (three with aquatint, one with embossing), six lithographs (one with etching), five linoleum cuts (one with embossing), one engraving, and one intaglio with embossing",
+            "Dimensions": "composition (irreg.): 21 5/8 \u00d7 18 13/16\" (55 \u00d7 47.8 cm); sheet: 30 \u00d7 21 5/8\" (76.2 \u00d7 55 cm)",
+            "Publisher": "Cart\u00f3n y Papel de M\u00e9xico, S. A., Mexico City",
+            "Edition": "150",
+            "Credit": "Gift of Cart\u00f3n y Papel de M\u00e9xico, S. A.",
+            "Object number": "366.1974.31",
+            "Portfolio": "AGPA 73: Pan American Graphic Arts (AGPA 73: Artes gr\u00e1ficas panamericanas)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6589"
+    },
+    {
+        "Artist": "Raimund Abraham",
+        "Title": "The House with Curtains Project, Perspective",
+        "Year": "1972",
+        "ObjectID": "791",
+        "Work": "https://www.moma.org/collection/works/791",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDA2NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f541f9dcc48f42fa",
+        "Details": {
+            "Medium": "Crayon and graphite on paper",
+            "Dimensions": "36 1/8 x 56 3/4\" (91.8 x 144.1 cm)",
+            "Credit": "Gift of The Howard Gilman Foundation",
+            "Object number": "1180.2000",
+            "Copyright": "\u00a9 2023 Raimund Abraham",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/47"
     },
     {
         "Artist": "Vito Acconci",
-        "Title": "Throw",
-        "Year": "(1969)",
-        "ObjectID": "38701",
-        "Work": "https://www.moma.org/collection/works/38701",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjU2ODI5Il0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNTEyeDUxMlx1MDAzZSJdXQ.jpg?sha=5ed131a83d67a47e",
+        "Title": "Corrections",
+        "Year": "1972",
+        "ObjectID": "33704",
+        "Work": "https://www.moma.org/collection/works/33704",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3OTA1OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=07c407b7e2e534c7",
         "Details": {
-            "Medium": "Ink and pastel on painted foamcore with gelatin silver prints",
-            "Dimensions": "overall:  46 3/4 x 44 7/8\" (118.7 x 114 cm).",
-            "Credit": "Gift of Thea Westreich and Ethan Wagner in honor of Gary Garrels",
-            "Object number": "1604.2000.a-c",
+            "Medium": "Cut-and-pasted gelatin silver prints and crayon on black paper on board",
+            "Dimensions": "30 x 39 3/4\" (76 x 101 cm)",
+            "Credit": "Gift of Norman Dubrow",
+            "Object number": "80.1979",
             "Copyright": "\u00a9 2023 Vito Acconci",
             "Department": "Drawings and Prints"
         },
@@ -123,16 +350,16 @@
     },
     {
         "Artist": "Vito Acconci",
-        "Title": "Private Piece for Seth Siegelaub (Nov. 22, 1969; city series)",
-        "Year": "1969",
-        "ObjectID": "137397",
-        "Work": "https://www.moma.org/collection/works/137397",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNzM3NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ffdf0accc3481f05",
+        "Title": "Notes on Movement II (Body as Place)",
+        "Year": "March 1972",
+        "ObjectID": "38591",
+        "Work": "https://www.moma.org/collection/works/38591",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMDEyOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6c3867bb2fedd836",
         "Details": {
-            "Medium": "Typewriting on paper",
-            "Dimensions": "8 1/2 x 11\" (21.6 x 27.9 cm)",
-            "Credit": "The Seth Siegelaub Collection. Gift of Richard S. Zeisler (by exchange)",
-            "Object number": "540.2010",
+            "Medium": "Felt-tip pen and cut-and-pasted gelatin silver prints on two pieces of graph paper on board",
+            "Dimensions": "21 7/8 x 34\" (55.4 x 86.4 cm)",
+            "Credit": "Gift of Charles Cowles",
+            "Object number": "1361.1974",
             "Copyright": "\u00a9 2023 Vito Acconci",
             "Department": "Drawings and Prints"
         },
@@ -140,362 +367,87 @@
     },
     {
         "Artist": "Vito Acconci",
-        "Title": "Following Piece",
-        "Year": "1969",
-        "ObjectID": "146947",
-        "Work": "https://www.moma.org/collection/works/146947",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0Nzg1NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3eea7149f09acce6",
+        "Title": "Seedbed",
+        "Year": "1972",
+        "ObjectID": "109933",
+        "Work": "https://www.moma.org/collection/works/109933",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyNzk0NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ef829605166e726e",
         "Details": {
-            "Medium": "Gelatin silver prints, felt-tip pen, and map on board",
-            "Dimensions": "Frame: 33 15/16 x 43 11/16 x 1 1/4\" (86.2 x 111 x 3.1 cm)\r\nImage: 29 15/16 x 40 3/16\" (76 x 102 cm)",
-            "Credit": "Partial gift of the Daled Collection and partial purchase through the generosity of Maja Oeri and Hans Bodenmann, Sue and Edgar Wachenheim III, Agnes Gund, Marlene Hess and James D. Zirin, Marie-Jos\u00e9e and Henry R. Kravis, and Jerry I. Speyer and Katherine G. Farley",
-            "Object number": "736.2011",
-            "Copyright": "\u00a9 2023 Vito Acconci",
+            "Medium": "Super 8 film transferred to video (color, silent)",
+            "Duration": "10 min.",
+            "Credit": "Gift of the Julia Stoschek Foundation, D\u00fcsseldorf and Committee on Media Funds",
+            "Object number": "191.2007",
+            "Copyright": "\u00a9 2023 Vito Acconci. Courtesy Electronic Arts Intermix (EAI), New York",
             "Department": "Media and Performance"
         },
         "Profile": "https://www.moma.org/artists/53"
     },
     {
-        "Artist": "Vito Acconci",
-        "Title": "Following Piece",
-        "Year": "1969",
-        "ObjectID": "148165",
-        "Work": "https://www.moma.org/collection/works/148165",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1MzEyNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=65e7c3493f171bc1",
-        "Details": {
-            "Medium": "Gelatin silver prints, chalk, and ink on index cards mounted to board",
-            "Dimensions": "29 15/16 \u00d7 39 5/8\" (76 \u00d7 100.6 cm)",
-            "Credit": "The Abramson Collection. Gift of Stephen and Sandra Abramson",
-            "Object number": "864.2011",
-            "Copyright": "\u00a9 2023 Vito Acconci",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/53"
-    },
-    {
-        "Artist": "Vito Acconci",
-        "Title": "Twelve Pictures",
-        "Year": "1969",
-        "ObjectID": "288743",
-        "Work": "https://www.moma.org/collection/works/288743",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ1Nzc3OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=45c512a6d705dad7",
-        "Details": {
-            "Medium": "Typewriting on paper and twelve gelatin silver prints",
-            "Dimensions": "(.a): 14 \u00d7 8 5/8\" (35.6 \u00d7 21.9 cm); (.b): 10 5/8 \u00d7 14\" (27 \u00d7 35.6 cm)",
-            "Credit": "Gift of the Gilbert B. and Lila Silverman Instruction Drawing Collection, Detroit",
-            "Object number": "1357.2018.a-b",
-            "Copyright": "\u00a9 2023 Vito Acconci",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/53"
-    },
-    {
-        "Artist": "Vito Acconci",
-        "Title": "Rest: \"Lie of the land; line of vision\"",
-        "Year": "1969",
-        "ObjectID": "288747",
-        "Work": "https://www.moma.org/collection/works/288747",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ1NzgwNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=edd0a15ac3c518a5",
-        "Details": {
-            "Medium": "Typewriting on paper and five gelatin silve prints on paper",
-            "Dimensions": "(.a): 11 \u00d7 8 1/2\" (27.9 \u00d7 21.6 cm); (.b): 8 1/2 \u00d7 17 5/8\" (21.6 \u00d7 44.8 cm)",
-            "Credit": "Gift of the Gilbert B. and Lila Silverman Instruction Drawing Collection, Detroit",
-            "Object number": "1354.2018.a-b",
-            "Copyright": "\u00a9 2023 Vito Acconci",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/53"
-    },
-    {
-        "Artist": "Vito Acconci",
-        "Title": "Stand: \"Margins\"",
-        "Year": "1969",
-        "ObjectID": "288751",
-        "Work": "https://www.moma.org/collection/works/288751",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ1Nzc3NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f59a0c68f35b5f72",
-        "Details": {
-            "Medium": "Typewriting on paper and eleven gelatin silver prints on paper",
-            "Dimensions": "(.a): 11 \u00d7 8 1/2\" (27.9 \u00d7 21.6 cm); (.b): 7 1/2 \u00d7 21 1/2\" (19.1 \u00d7 54.6 cm)",
-            "Credit": "Gift of the Gilbert B. and Lila Silverman Instruction Drawing Collection, Detroit",
-            "Object number": "1355.2018.a-b",
-            "Copyright": "\u00a9 2023 Vito Acconci",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/53"
-    },
-    {
-        "Artist": "Vito Acconci",
-        "Title": "Walk: \"First Sight\"",
-        "Year": "1969",
-        "ObjectID": "288752",
-        "Work": "https://www.moma.org/collection/works/288752",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ2MzcyNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ca9d860cc4c21522",
-        "Details": {
-            "Medium": "Typewriting on paper and twelve gelatin silver prints on paper",
-            "Dimensions": "each: 11 \u00d7 8 1/2\" (27.9 \u00d7 21.6 cm)",
-            "Credit": "Gift of the Gilbert B. and Lila Silverman Instruction Drawing Collection, Detroit",
-            "Object number": "1359.2018.a-m",
-            "Copyright": "\u00a9 2023 Vito Acconci",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/53"
-    },
-    {
-        "Artist": "Vito Acconci",
-        "Title": "Walk: \"Retrospect; Prospect\"",
-        "Year": "1969",
-        "ObjectID": "288803",
-        "Work": "https://www.moma.org/collection/works/288803",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ1MTQ2NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8e0a329262c05341",
-        "Details": {
-            "Medium": "Typewriting and two gelatin silver prints pasted on paper",
-            "Dimensions": "each: 11 \u00d7 8 1/2\" (27.9 \u00d7 21.6 cm)",
-            "Credit": "Gift of the Gilbert B. and Lila Silverman Instruction Drawing Collection, Detroit",
-            "Object number": "1361.2018.a-b",
-            "Copyright": "\u00a9 2023 Vito Acconci",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/53"
-    },
-    {
-        "Artist": "Vito Acconci",
-        "Title": "Stand: Stretch",
-        "Year": "1969",
-        "ObjectID": "288804",
-        "Work": "https://www.moma.org/collection/works/288804",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ1MTQ2OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7061d2330976c275",
-        "Details": {
-            "Medium": "Typewriting and four gelatin silver prints pasted on paper",
-            "Dimensions": "(.a): 11 \u00d7 8 1/2\" (27.9 \u00d7 21.6 cm); (.b): 10 5/8 \u00d7 10 5/8\" (27 \u00d7 27 cm)",
-            "Credit": "Gift of the Gilbert B. and Lila Silverman Instruction Drawing Collection, Detroit",
-            "Object number": "1356.2018.a-b",
-            "Copyright": "\u00a9 2023 Vito Acconci",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/53"
-    },
-    {
-        "Artist": "Vito Acconci",
-        "Title": "Following Piece",
-        "Year": "1969",
-        "ObjectID": "288811",
-        "Work": "https://www.moma.org/collection/works/288811",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ1MTQ4OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=bca1889cc044bd7b",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "10 \u00d7 8 1/4\" (25.4 \u00d7 21 cm)",
-            "Credit": "Gift of the Gilbert B. and Lila Silverman Instruction Drawing Collection, Detroit",
-            "Object number": "1353.2018",
-            "Copyright": "\u00a9 2023 Vito Acconci",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/53"
-    },
-    {
-        "Artist": "Vito Acconci",
-        "Title": "Twelve Pictures",
-        "Year": "1969",
-        "ObjectID": "288820",
-        "Work": "https://www.moma.org/collection/works/288820",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ2NDk0MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4747afc15c0c684c",
-        "Details": {
-            "Medium": "Typewriting on paper and twelve gelatin silver prints on twelve sheets of paper",
-            "Dimensions": "each: 11 \u00d7 8 1/2\" (27.9 \u00d7 21.6 cm)",
-            "Credit": "Gift of the Gilbert B. and Lila Silverman Instruction Drawing Collection, Detroit",
-            "Object number": "1358.2018.a-m",
-            "Copyright": "\u00a9 2023 Vito Acconci",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/53"
-    },
-    {
-        "Artist": "Clinton Adams",
-        "Title": "Cibola Series (Blue)",
-        "Year": "1968-69",
-        "ObjectID": "72511",
-        "Work": "https://www.moma.org/collection/works/72511",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3NjU0MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7955d3a2dab68625",
+        "Artist": "Otl Aicher (also known as Otto Aicher)",
+        "Title": "Munchen 1972",
+        "Year": "1972",
+        "ObjectID": "8863",
+        "Work": "https://www.moma.org/collection/works/8863",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDQxOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=30ee19dfaa78c984",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "composition: 6 5/16 \u00d7 7 3/8\" (16.1 \u00d7 18.7 cm); sheet: 12 1/2 \u00d7 9 15/16\" (31.8 \u00d7 25.3 cm)",
-            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
-            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
-            "Edition": "10",
-            "Credit": "Gift of Kleiner, Bell & Co.",
-            "Object number": "647.1969",
-            "Associated work": "Tamarind Lithography Workshop Archive",
-            "Department": "Drawings and Prints"
+            "Dimensions": "46 3/4 x 33 1/16\" (118.8 x 84 cm)",
+            "Printer": "Franzis Druck, Munich",
+            "Credit": "Gift of the designer",
+            "Object number": "1567.2000",
+            "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/62"
+        "Profile": "https://www.moma.org/artists/86"
     },
     {
-        "Artist": "Robert Adams",
-        "Title": "Nevada Avenue, Colorado Springs, Colorado",
-        "Year": "1969",
-        "ObjectID": "45926",
-        "Work": "https://www.moma.org/collection/works/45926",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyNDQzMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ae19d6cbe5a8a011",
+        "Artist": "Otl Aicher (also known as Otto Aicher)",
+        "Title": "Munchen 1972",
+        "Year": "1972",
+        "ObjectID": "8865",
+        "Work": "https://www.moma.org/collection/works/8865",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDQyMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=822ce70bb474d250",
         "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "5 15/16 \u00d7 5 15/16\" (15.2 \u00d7 15.2 cm)",
-            "Credit": "David H. McAlpin Fund",
-            "Object number": "85.1972",
-            "Copyright": "\u00a9 2023 Robert Adams, courtesy Fraenkel Gallery, San Francisco",
-            "Department": "Photography"
+            "Medium": "Lithograph",
+            "Dimensions": "46 3/4 x 33 1/16\" (118.8 x 84 cm)",
+            "Printer": "Klein und Volbert, Munich",
+            "Credit": "Gift of the designer",
+            "Object number": "1568.2000",
+            "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/66"
+        "Profile": "https://www.moma.org/artists/86"
     },
     {
-        "Artist": "Robert Adams",
-        "Title": "Basement for a Tract House, Colorado Springs, Colorado",
-        "Year": "1969",
-        "ObjectID": "56639",
-        "Work": "https://www.moma.org/collection/works/56639",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyNDQyMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3b831ab49664c3ab",
+        "Artist": "Otl Aicher (also known as Otto Aicher)",
+        "Title": "Munchen 1972",
+        "Year": "1972",
+        "ObjectID": "8867",
+        "Work": "https://www.moma.org/collection/works/8867",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDQyMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1b9e08ddb5f35a07",
         "Details": {
-            "Medium": "Gelatin silver print, printed 1988",
-            "Dimensions": "5 7/16 \u00d7 5 7/8\" (13.8 \u00d7 15 cm)",
-            "Credit": "Lois and Bruce Zenkel Fund",
-            "Object number": "833.1996",
-            "Copyright": "\u00a9 2023 Robert Adams, courtesy Fraenkel Gallery, San Francisco",
-            "Department": "Photography"
+            "Medium": "Lithograph",
+            "Dimensions": "46 3/4 x 33 1/16\" (118.8 x 84 cm)",
+            "Printer": "Rehm, Munich",
+            "Credit": "Gift of the designer",
+            "Object number": "1569.2000",
+            "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/66"
-    },
-    {
-        "Artist": "Robert Adams",
-        "Title": "Sunday School. A Church in a New Tract, Colorado Springs, Colorado",
-        "Year": "1969",
-        "ObjectID": "56646",
-        "Work": "https://www.moma.org/collection/works/56646",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyNDQyMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2a292f486112ca48",
-        "Details": {
-            "Medium": "Gelatin silver print, printed 1988",
-            "Dimensions": "5 9/16 \u00d7 5 7/8\" (14.1 \u00d7 15 cm)",
-            "Credit": "Acquired through the generosity of Susan G. Jacoby in honor of Edward Goldberger",
-            "Object number": "834.1996",
-            "Copyright": "\u00a9 2023 Robert Adams, courtesy Fraenkel Gallery, San Francisco",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/66"
-    },
-    {
-        "Artist": "Robert Adams",
-        "Title": "Colorado Springs, Colorado",
-        "Year": "1969",
-        "ObjectID": "56990",
-        "Work": "https://www.moma.org/collection/works/56990",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyNDQ0NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1c907e353c569399",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "5 15/16 \u00d7 5 15/16\" (15.2 \u00d7 15.2 cm)",
-            "Credit": "Gift of Jeffrey Fraenkel and Frish Brandt",
-            "Object number": "857.1996",
-            "Copyright": "\u00a9 2023 Robert Adams, courtesy Fraenkel Gallery, San Francisco",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/66"
-    },
-    {
-        "Artist": "Ryoji Akiyama",
-        "Title": "Empty Box in its Way Down to a Reclamation Area, Tokyo",
-        "Year": "1969",
-        "ObjectID": "48694",
-        "Work": "https://www.moma.org/collection/works/48694",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxODM3NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4c9e7c6ddd83f861",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "12 3/8 \u00d7 7 15/16\" (31.4 \u00d7 20.3 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "217.1977",
-            "Copyright": "\u00a9 2023 Ryoji Akiyama",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/93"
-    },
-    {
-        "Artist": "Ryoji Akiyama",
-        "Title": "T.V. Frame Left in a Reclamation Area, Tokyo",
-        "Year": "1969",
-        "ObjectID": "48863",
-        "Work": "https://www.moma.org/collection/works/48863",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxODM4MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f5e59143ab42ba0b",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "7 15/16 \u00d7 11 15/16\" (20.3 \u00d7 30.3 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "219.1977",
-            "Copyright": "\u00a9 2023 Ryoji Akiyama",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/93"
-    },
-    {
-        "Artist": "Ryoji Akiyama",
-        "Title": "Wrapped Garbage, Tokyo",
-        "Year": "1969",
-        "ObjectID": "48879",
-        "Work": "https://www.moma.org/collection/works/48879",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxODM4MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4a99dbcdb8164efb",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "7 15/16 \u00d7 11 15/16\" (20.3 \u00d7 30.3 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "220.1977",
-            "Copyright": "\u00a9 2023 Ryoji Akiyama",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/93"
-    },
-    {
-        "Artist": "Ryoji Akiyama",
-        "Title": "Young Man Washing His Face in the Rain at the \"Anti-War Exposition\", Held Near the Proposed Site for Expo '70, Osaka",
-        "Year": "1969",
-        "ObjectID": "48941",
-        "Work": "https://www.moma.org/collection/works/48941",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxODM4NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=794cb4331d9c3df5",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "7 15/16 \u00d7 11 15/16\" (20.3 \u00d7 30.3 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "222.1977",
-            "Copyright": "\u00a9 2023 Ryoji Akiyama",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/93"
-    },
-    {
-        "Artist": "Ryoji Akiyama",
-        "Title": "Two Men Dumping Factory Waste Onto a Junk Pile, Tokyo Bay",
-        "Year": "1969",
-        "ObjectID": "49102",
-        "Work": "https://www.moma.org/collection/works/49102",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxODM4OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=30193e258fd10ce7",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "7 15/16 \u00d7 11 15/16\" (20.3 \u00d7 30.3 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "225.1977",
-            "Copyright": "\u00a9 2023 Ryoji Akiyama",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/93"
+        "Profile": "https://www.moma.org/artists/86"
     },
     {
         "Artist": "Anni Albers",
-        "Title": "TR I",
-        "Year": "1969, published 1970",
-        "ObjectID": "68395",
-        "Work": "https://www.moma.org/collection/works/68395",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNDIyMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4795a01aeb859da5",
+        "Title": "Fox I",
+        "Year": "1972",
+        "ObjectID": "70359",
+        "Work": "https://www.moma.org/collection/works/70359",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNDI1MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=25f4ece814e5e654",
         "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "composition: 14 x 16\" (35.6 x 40.7 cm); sheet: 19 13/16 x 21 7/8\" (50.4 x 55.5 cm)",
-            "Publisher": "Gemini G.E.L., Los Angeles",
-            "Printer": "Gemini G.E.L., Los Angeles",
-            "Edition": "44",
-            "Credit": "Gift of Gemini G.E.L.",
-            "Object number": "396.1970",
+            "Medium": "Offset lithograph",
+            "Dimensions": "composition: 14 1/2 \u00d7 13 7/8\" (36.8 \u00d7 35.2 cm); sheet: 24 \u00d7 20\" (61 \u00d7 50.8 cm)",
+            "Publisher": "Anni Albers, Fox Press, West Hartford, CT",
+            "Printer": "Fox Press, West Hartford, CT",
+            "Edition": "150",
+            "Credit": "Gift of The Josef and Anni Albers Foundation in memory of Joseph Fearer",
+            "Object number": "515.1997",
             "Copyright": "\u00a9 2023 The Josef and Anni Albers Foundation / Artists Rights Society (ARS), New York",
             "Department": "Drawings and Prints"
         },
@@ -503,19 +455,19 @@
     },
     {
         "Artist": "Anni Albers",
-        "Title": "Red Meander",
-        "Year": "1969",
-        "ObjectID": "70720",
-        "Work": "https://www.moma.org/collection/works/70720",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNTI2NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=401b6961f45087d3",
+        "Title": "Fox II",
+        "Year": "1972",
+        "ObjectID": "70374",
+        "Work": "https://www.moma.org/collection/works/70374",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNDI1NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=39b181133aec6f82",
         "Details": {
-            "Medium": "Screenprint",
-            "Dimensions": "composition: 20 x 16 9/16\" (50.8 x 42 cm); sheet: 27 15/16 x 24 1/2\" (71 x 62.2 cm)",
-            "Publisher": "Anni Albers",
-            "Printer": "Sirocco Screenprinters, New Haven, CT",
-            "Edition": "50",
-            "Credit": "Gift of the Josef and Anni Albers Foundation in fond memory of Eunice Fearer",
-            "Object number": "534.1994",
+            "Medium": "Offset lithograph",
+            "Dimensions": "composition: 14 7/8 \u00d7 13 7/16\" (37.8 \u00d7 34.1 cm); sheet: 20 \u00d7 20\" (50.8 \u00d7 50.8 cm)",
+            "Publisher": "Anni Albers, Fox Press, West Hartford, CT",
+            "Printer": "Fox Press, West Hartford, CT",
+            "Edition": "150",
+            "Credit": "Gift of The Josef and Anni Albers Foundation in memory of Joseph Fearer",
+            "Object number": "516.1997",
             "Copyright": "\u00a9 2023 The Josef and Anni Albers Foundation / Artists Rights Society (ARS), New York",
             "Department": "Drawings and Prints"
         },
@@ -523,41 +475,112 @@
     },
     {
         "Artist": "Josef Albers",
-        "Title": "ELC 2-A from Embossed Linear Constructions (ELC)",
-        "Year": "1969",
-        "ObjectID": "75243",
-        "Work": "https://www.moma.org/collection/works/75243",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNDAzMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=525d79c79f7ce596",
+        "Title": "Formulation: Articulation",
+        "Year": "1972",
+        "ObjectID": "12134",
+        "Work": "https://www.moma.org/collection/works/12134",
+        "Thumbnail": null,
         "Details": {
-            "Medium": "One from a portfolio of eight embossings",
-            "Dimensions": "plate: 8 7/8 x 20 11/16\" (22.5 x 52.6 cm); sheet: 20 x 26\" (50.8 x 66.1 cm)",
-            "Publisher": "Gemini G.E.L., Los Angeles",
-            "Printer": "Gemini G.E.L., Los Angeles",
-            "Edition": "100",
-            "Credit": "Gift of Gemini G.E.L.",
-            "Object number": "1023.1969.5",
+            "Author": "Josef Albers",
+            "Medium": "Illustrated book with one hundred and twenty-seven screenprints",
+            "Dimensions": "page  15 x 20 1/16\" (38 x 51 cm)\r\nPrints:  various dimensions.",
+            "Publisher": "Ives-Sillman, New Haven, CT, Harry N. Abrams, Inc., New York",
+            "Printer": "Sirocco Screenprinters",
+            "Edition": "1000",
+            "Credit": "Gift of The Josef Albers Foundation",
+            "Object number": "157.1975.A-B",
             "Copyright": "\u00a9 2023 The Josef and Anni Albers Foundation / Artists Rights Society (ARS), New York",
-            "Portfolio": "Embossed Linear Constructions (ELC)",
             "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/97"
     },
     {
-        "Artist": "Pierre Alechinsky",
-        "Title": "Stars and Disasters (Astres et Desastres)",
-        "Year": "1969",
-        "ObjectID": "18511",
-        "Work": "https://www.moma.org/collection/works/18511",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMjQ4OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c7f890b17e06f7ec",
+        "Artist": "Josef Albers",
+        "Title": "I-S LXXIIb Homage to the Square and I-S LXXIIa Homage to the Square",
+        "Year": "1972",
+        "ObjectID": "76783",
+        "Work": "https://www.moma.org/collection/works/76783",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNDA2OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=bbd22e2cb96b1681",
         "Details": {
-            "Author": "Joyce Mansour",
-            "Medium": "Portfolio of nine aquatints; and photolithographic reproductions on two poster/text sheets",
-            "Dimensions": "each plate  15 7/16 x 19 3/16\" (39.2 x 48.8 cm)\r\nirreg. sheet  19 7/8 x 25 15/16\" (50.5 x 66 cm)",
-            "Publisher": "London Arts Gallery, London",
-            "Printer": "Jean Clert\u00e9",
-            "Edition": "118 (99 numbered 1/99-99/99; 9 numbered I-IX, printed in sepia with drawing and cancelled plate; 10 A.P. marked e.a. A-J reserved for collaborators). Posters issued separately: 1000",
+            "Medium": "Two screenprints",
+            "Dimensions": "composition (each): 7 1/2 x 7 1/2\" (19.1 x 19.1 cm); sheet: 11 13/16 x 23 7/8\" (30 x 60.7 cm)",
+            "Publisher": "Ives-Sillman, New Haven, CT",
+            "Edition": "100",
+            "Credit": "Gift of Alexandra Herzan",
+            "Object number": "1435.2001",
+            "Copyright": "\u00a9 2023 The Josef and Anni Albers Foundation / Artists Rights Society (ARS), New York",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/97"
+    },
+    {
+        "Artist": "Pedro Alcantara",
+        "Title": "Torment (Tormento) from 21 Printmakers from Colombia, Mexico and Venezuela (21 Estampadores de Colombia, Mexico y Venezuela)",
+        "Year": "1972",
+        "ObjectID": "63959",
+        "Work": "https://www.moma.org/collection/works/63959",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwNzE2MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2bca9e2f605ba720",
+        "Details": {
+            "Medium": "Screenprint from a portfolio of ten intaglios, seven screenprints, three lithographs, and one aquatint",
+            "Dimensions": "composition (irreg.): 20 7/8 \u00d7 14 7/16\" (53 \u00d7 36.6 cm); sheet: 29 15/16 \u00d7 22 1/4\" (76 \u00d7 56.5 cm)",
+            "Publisher": "Cart\u00f3n y Papel de M\u00e9xico, S. A., Mexico City",
+            "Edition": "200",
+            "Credit": "Gift of Cart\u00f3n y Papel de M\u00e9xico, S.A",
+            "Object number": "184.1973.1",
+            "Portfolio": "21 Printmakers from Colombia, Mexico and Venezuela (21 Estampadores de Colombia, Mexico y Venezuela)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6777"
+    },
+    {
+        "Artist": "Allan Alcorn",
+        "Title": "Pong",
+        "Year": "1972",
+        "ObjectID": "169920",
+        "Work": "https://www.moma.org/collection/works/169920",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2OTEzNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5163ea40ca195fdb",
+        "Details": {
+            "Medium": "Video game software",
+            "Publisher": "Atari, Inc., USA",
+            "Credit": "Gift of Atari Interactive, Inc.",
+            "Object number": "700.2013",
+            "Copyright": "\u00a9 2023 Atari, Inc.",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/43690"
+    },
+    {
+        "Artist": "Alan Aldridge",
+        "Title": "Levi's",
+        "Year": "1972",
+        "ObjectID": "5656",
+        "Work": "https://www.moma.org/collection/works/5656",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Offset lithograph",
+            "Dimensions": "25 x 31\" (63.5 x 78.7cm)",
+            "Credit": "Gift of Honig Cooper & Harrington",
+            "Object number": "200.1973",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/106"
+    },
+    {
+        "Artist": "Pierre Alechinsky",
+        "Title": "L'Avenir de la Propriete",
+        "Year": "1972",
+        "ObjectID": "19942",
+        "Work": "https://www.moma.org/collection/works/19942",
+        "Thumbnail": null,
+        "Details": {
+            "Author": "Pierre Alechinsky",
+            "Medium": "Illustrated book with 37 photolithographic reproductions after drawings (including covers); and supplementary suite of 9 lift ground aquatint, lithograph, and photolithographs",
+            "Dimensions": "ea. sheet  22 1/16 x 17 1/2\" (56 x 44.5 cm)\r\npage  12 5/16 x 8 1/4\" (31 x 21 cm)\r\nPrints:  various dimensions.",
+            "Publisher": "Yves Rivi\u00e8re, Paris",
+            "Printer": "Centre de Gravure contemporaine, Geneva",
+            "Edition": "999 (9 numbered 1-9 with supplementary watercolor and 2 supplementary suites; 18 numbered 10-27 with supplementary drawing and 2 supplementary suites; 72 numbered 28-99 with supplementary suite; 151 numbered 100-250 with supplementary aquatint; 9 A.P. numbered I-IX with 2 supplementary suites; 8 named copies marked HCI-VIII with 2 supplementary suites; 6 H.C. marked HC IX-XIV with supplementary suite; 726 numbered 251-947)",
             "Credit": "Gift of the artist",
-            "Object number": "567.1978.1-9",
+            "Object number": "656.1978.A-B",
             "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
             "Department": "Drawings and Prints"
         },
@@ -565,322 +588,273 @@
     },
     {
         "Artist": "Pierre Alechinsky",
-        "Title": "Shrimp and Salad (Crevette et salade)",
-        "Year": "1969",
-        "ObjectID": "71225",
-        "Work": "https://www.moma.org/collection/works/71225",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjY3MTE3Il0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNTEyeDUxMlx1MDAzZSJdXQ.jpg?sha=2bbab4f6334c362c",
+        "Title": "The Lonely Line (La ligne seule)",
+        "Year": "(1967-1972)",
+        "ObjectID": "70977",
+        "Work": "https://www.moma.org/collection/works/70977",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MTg4NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=38f3a97bcbcc4878",
+        "Details": {
+            "Medium": "5 etchings",
+            "Dimensions": "sheet  13 5/16 x 20 1/2\" (33 x 52.1 cm)\r\nPlate (A, E):  2 13/16 x 4\" (7.1 x 10.1 cm)  Plate (B-D):  2 15/16 x 3 15/16\" (7.4 x 10.0 cm)",
+            "Edition": "From the second edition of 15, printed in 1972 grouping a suite of 5 plates on one sheet",
+            "Credit": "Gift of the artist",
+            "Object number": "550.1978",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/107"
+    },
+    {
+        "Artist": "Pierre Alechinsky",
+        "Title": "Plate I from Reels (Devidoirs)",
+        "Year": "1972",
+        "ObjectID": "71470",
+        "Work": "https://www.moma.org/collection/works/71470",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1MTg5OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=69a9a8dbb2a36fe8",
+        "Details": {
+            "Medium": "Aquatint and etching from a series of seven aquatints, two with etching",
+            "Dimensions": "plate: 19 1/2 x 15 1/2\" (49.5 x 39.3 cm); sheet: 29 15/16 x 22 1/4\" (76 x 56.5 cm)",
+            "Edition": "50",
+            "Credit": "Gift of the artist",
+            "Object number": "582.1978.1",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Series": "Reels (D\u00e9vidoirs)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/107"
+    },
+    {
+        "Artist": "Pierre Alechinsky",
+        "Title": "Reels (Devidoirs)",
+        "Year": "1972",
+        "ObjectID": "71471",
+        "Work": "https://www.moma.org/collection/works/71471",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1MTg5OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=69a9a8dbb2a36fe8",
+        "Details": {
+            "Medium": "Series of seven aquatints, two with etching",
+            "Dimensions": "plate (each): 19 1/2 x 15 1/2\" (49.5 x 39.3 cm); sheet (each): 29 15/16 x 22 1/4\" (76 x 56.5 cm)",
+            "Publisher": "Pierre Alechinsky",
+            "Printer": "Jean Clert\u00e9 at the artist's studio, Bougival",
+            "Edition": "50",
+            "Credit": "Gift of the artist",
+            "Object number": "582.1978.1-7",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Type": "Series",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/107"
+    },
+    {
+        "Artist": "Pierre Alechinsky",
+        "Title": "Plate II from Reels (Devidoirs)",
+        "Year": "1972",
+        "ObjectID": "71472",
+        "Work": "https://www.moma.org/collection/works/71472",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1MTkwMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ff4f4a4ebc073f07",
+        "Details": {
+            "Medium": "Aquatint from a series of seven aquatints, two with etching",
+            "Dimensions": "plate: 19 1/2 x 15 1/2\" (49.5 x 39.3 cm); sheet: 29 15/16 x 22 1/4\" (76 x 56.5 cm)",
+            "Edition": "50",
+            "Credit": "Gift of the artist",
+            "Object number": "582.1978.2",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Series": "Reels (D\u00e9vidoirs)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/107"
+    },
+    {
+        "Artist": "Pierre Alechinsky",
+        "Title": "Plate III from Reels (Devidoirs)",
+        "Year": "1972",
+        "ObjectID": "71473",
+        "Work": "https://www.moma.org/collection/works/71473",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1MTkwMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2b3fd827f613abc9",
+        "Details": {
+            "Medium": "Aquatint from a series of seven aquatints, two with etching",
+            "Dimensions": "plate: 19 1/2 x 15 1/2\" (49.5 x 39.3 cm); sheet: 29 15/16 x 22 1/4\" (76 x 56.5 cm)",
+            "Edition": "50",
+            "Credit": "Gift of the artist",
+            "Object number": "582.1978.3",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Series": "Reels (D\u00e9vidoirs)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/107"
+    },
+    {
+        "Artist": "Pierre Alechinsky",
+        "Title": "Plate IV from Reels (Devidoirs)",
+        "Year": "1972",
+        "ObjectID": "71474",
+        "Work": "https://www.moma.org/collection/works/71474",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1MTkwMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5e7cb9726b354ad0",
+        "Details": {
+            "Medium": "Aquatint from a series of seven aquatints, two with etching",
+            "Dimensions": "plate: 19 1/2 x 15 1/2\" (49.5 x 39.3 cm); sheet: 29 15/16 x 22 1/4\" (76 x 56.5 cm)",
+            "Edition": "50",
+            "Credit": "Gift of the artist",
+            "Object number": "582.1978.4",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Series": "Reels (D\u00e9vidoirs)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/107"
+    },
+    {
+        "Artist": "Pierre Alechinsky",
+        "Title": "Plate V from Reels (Devidoirs)",
+        "Year": "1972",
+        "ObjectID": "71475",
+        "Work": "https://www.moma.org/collection/works/71475",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1MTkwMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=dc1add797a3cb562",
+        "Details": {
+            "Medium": "Aquatint from a series of seven aquatints, two with etching",
+            "Dimensions": "plate: 19 1/2 x 15 1/2\" (49.5 x 39.3 cm); sheet: 29 15/16 x 22 1/4\" (76 x 56.5 cm)",
+            "Edition": "50",
+            "Credit": "Gift of the artist",
+            "Object number": "582.1978.5",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Series": "Reels (D\u00e9vidoirs)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/107"
+    },
+    {
+        "Artist": "Pierre Alechinsky",
+        "Title": "Plate VI from Reels (Devidoirs)",
+        "Year": "1972",
+        "ObjectID": "71476",
+        "Work": "https://www.moma.org/collection/works/71476",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1MTkwNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=33e64c4470e07c61",
+        "Details": {
+            "Medium": "Aquatint and etching from a series of seven aquatints, two with etching",
+            "Dimensions": "plate: 19 1/2 x 15 1/2\" (49.5 x 39.3 cm); sheet: 29 15/16 x 22 1/4\" (76 x 56.5 cm)",
+            "Edition": "50",
+            "Credit": "Gift of the artist",
+            "Object number": "582.1978.6",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Series": "Reels (D\u00e9vidoirs)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/107"
+    },
+    {
+        "Artist": "Pierre Alechinsky",
+        "Title": "Plate VII from Reels (Devidoirs)",
+        "Year": "1972",
+        "ObjectID": "71477",
+        "Work": "https://www.moma.org/collection/works/71477",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1MTkwNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1f036fc41871ee44",
+        "Details": {
+            "Medium": "Aquatint from a series of seven aquatints, two with etching",
+            "Dimensions": "plate: 19 1/2 x 15 1/2\" (49.5 x 39.3 cm); sheet: 29 15/16 x 22 1/4\" (76 x 56.5 cm)",
+            "Edition": "50",
+            "Credit": "Gift of the artist",
+            "Object number": "582.1978.7",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Series": "Reels (D\u00e9vidoirs)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/107"
+    },
+    {
+        "Artist": "Pierre Alechinsky",
+        "Title": "Notice (Avis)",
+        "Year": "1972",
+        "ObjectID": "71488",
+        "Work": "https://www.moma.org/collection/works/71488",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNDI4MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1b7ddf3d44b4d88f",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "composition  20 7/8 x 29 1/8\" (53 x 74 cm)\r\nsheet  21 3/8 x 29 3/4\" (54 x 75.6 cm)",
-            "Publisher": "The London Arts Group, Detroit",
+            "Dimensions": "irreg. composition  18 7/8 x 13 3/8\" (48 x 34 cm)\r\nsheet  22 1/16 x 16 15/16\" (56 x 43 cm)",
+            "Publisher": "Atelier Clot, Paris",
+            "Printer": "Imprimerie Clot, Bramsen et Georges, Paris",
+            "Edition": "100; plus XV E.A",
+            "Credit": "Gift of the artist",
+            "Object number": "583.1978",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/107"
+    },
+    {
+        "Artist": "Pierre Alechinsky",
+        "Title": "Pre-cancelled Plate (Cuivre deja barre)",
+        "Year": "1972",
+        "ObjectID": "71498",
+        "Work": "https://www.moma.org/collection/works/71498",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNTMwMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9afafe128793a74e",
+        "Details": {
+            "Medium": "Etching",
+            "Dimensions": "plate: 15 3/4 x 19 5/8\" (40 x 49.8 cm); sheet: 22 1/8 x 30 1/16\" (56.2 x 76.4 cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "584.1978",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/107"
+    },
+    {
+        "Artist": "Pierre Alechinsky",
+        "Title": "Ceremonial Labyrinths (Labyrinthes d'apparat)",
+        "Year": "1972 (published in 1973)",
+        "ObjectID": "71511",
+        "Work": "https://www.moma.org/collection/works/71511",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzODA3NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=de21cbff58caf3c9",
+        "Details": {
+            "Medium": "Portfolio of five lithographs",
+            "Dimensions": "each sheet sheet  29 15/16 x 21 7/16\" (76 x 54.5 cm)",
+            "Publisher": "Atelier Clot, Paris",
             "Printer": "Imprimerie Clot, Bramsen et Georges, Paris",
             "Edition": "100",
             "Credit": "Gift of the artist",
-            "Object number": "566.1978",
+            "Object number": "585.1978.1-5",
             "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
             "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/107"
     },
     {
-        "Artist": "Pierre Alechinsky",
-        "Title": "Stars and Disasters (Astres et Desastres)",
-        "Year": "1969",
-        "ObjectID": "139850",
-        "Work": "https://www.moma.org/collection/works/139850",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMjQ4NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=91baa9ce978fd90f",
+        "Artist": "Pierre Alechinsky, Christian Dotremont",
+        "Title": "Linolog II",
+        "Year": "1972",
+        "ObjectID": "71412",
+        "Work": "https://www.moma.org/collection/works/71412",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNTI5OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=dd314be566f9a83b",
         "Details": {
-            "Author": "Joyce Mansour",
-            "Medium": "Portfolio of nine aquatints; and photolithographic reproductions on two poster/text sheets",
-            "Dimensions": "each plate  15 7/16 x 19 3/16\" (39.2 x 48.8 cm)\r\nirreg. sheet  19 7/8 x 25 15/16\" (50.5 x 66 cm)",
-            "Publisher": "London Arts Gallery, London",
-            "Printer": "Jean Clert\u00e9",
-            "Edition": "118 (99 numbered 1/99-99/99; 9 numbered I-IX, printed in sepia with drawing and cancelled plate; 10 A.P. marked e.a. A-J reserved for collaborators). Posters issued separately: 1000",
+            "Collaborating artist": "Christian Dotremont",
+            "Medium": "Linoleum cut and lithograph",
+            "Dimensions": "irreg composition  18 7/8 x 25 3/16\" (48 x 64 cm)\r\nsheet  18 15/16 x 25 3/4\" (48 x 65.5 cm)",
+            "Publisher": "Jacques Putman",
+            "Printer": "Imprimerie Clot, Bramsen et Georges, Paris",
+            "Edition": "300",
             "Credit": "Gift of the artist",
-            "Object number": "567.1978.1",
+            "Object number": "578.1978",
             "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
             "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/107"
     },
     {
-        "Artist": "Pierre Alechinsky",
-        "Title": "Stars and Disasters (Astres et Desastres)",
-        "Year": "1969",
-        "ObjectID": "139851",
-        "Work": "https://www.moma.org/collection/works/139851",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMjQ4OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4b99520b6b79165b",
+        "Artist": "Pierre Alechinsky, Christian Dotremont",
+        "Title": "Linolog I",
+        "Year": "1972",
+        "ObjectID": "71423",
+        "Work": "https://www.moma.org/collection/works/71423",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNTMwMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d8fb395b5a63613a",
         "Details": {
-            "Author": "Joyce Mansour",
-            "Medium": "Portfolio of nine aquatints; and photolithographic reproductions on two poster/text sheets",
-            "Dimensions": "each plate  15 7/16 x 19 3/16\" (39.2 x 48.8 cm)\r\nirreg. sheet  19 7/8 x 25 15/16\" (50.5 x 66 cm)",
-            "Publisher": "London Arts Gallery, London",
-            "Printer": "Jean Clert\u00e9",
-            "Edition": "118 (99 numbered 1/99-99/99; 9 numbered I-IX, printed in sepia with drawing and cancelled plate; 10 A.P. marked e.a. A-J reserved for collaborators). Posters issued separately: 1000",
+            "Collaborating artist": "Christian Dotremont",
+            "Medium": "Linoleum cut and lithograph",
+            "Dimensions": "irreg composition  18 11/16 x 25 3/8\" (47.5 x 64.4 cm)\r\nsheet  19 1/16 x 25 7/8\" (48 x 65.8 cm)",
+            "Publisher": "Jacques Putman",
+            "Printer": "Imprimerie Clot, Bramsen et Georges, Paris",
+            "Edition": "300",
             "Credit": "Gift of the artist",
-            "Object number": "567.1978.2",
+            "Object number": "579.1978",
             "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
             "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/107"
-    },
-    {
-        "Artist": "Pierre Alechinsky",
-        "Title": "Stars and Disasters (Astres et Desastres)",
-        "Year": "1969",
-        "ObjectID": "139852",
-        "Work": "https://www.moma.org/collection/works/139852",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMjQ5MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8d0ae3a1ec398c81",
-        "Details": {
-            "Author": "Joyce Mansour",
-            "Medium": "Portfolio of nine aquatints; and photolithographic reproductions on two poster/text sheets",
-            "Dimensions": "each plate  15 7/16 x 19 3/16\" (39.2 x 48.8 cm)\r\nirreg. sheet  19 7/8 x 25 15/16\" (50.5 x 66 cm)",
-            "Publisher": "London Arts Gallery, London",
-            "Printer": "Jean Clert\u00e9",
-            "Edition": "118 (99 numbered 1/99-99/99; 9 numbered I-IX, printed in sepia with drawing and cancelled plate; 10 A.P. marked e.a. A-J reserved for collaborators). Posters issued separately: 1000",
-            "Credit": "Gift of the artist",
-            "Object number": "567.1978.3",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/107"
-    },
-    {
-        "Artist": "Pierre Alechinsky",
-        "Title": "Stars and Disasters (Astres et Desastres)",
-        "Year": "1969",
-        "ObjectID": "139853",
-        "Work": "https://www.moma.org/collection/works/139853",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMjQ5MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2e0af4a8b176d54c",
-        "Details": {
-            "Author": "Joyce Mansour",
-            "Medium": "Portfolio of nine aquatints; and photolithographic reproductions on two poster/text sheets",
-            "Dimensions": "each plate  15 7/16 x 19 3/16\" (39.2 x 48.8 cm)\r\nirreg. sheet  19 7/8 x 25 15/16\" (50.5 x 66 cm)",
-            "Publisher": "London Arts Gallery, London",
-            "Printer": "Jean Clert\u00e9",
-            "Edition": "118 (99 numbered 1/99-99/99; 9 numbered I-IX, printed in sepia with drawing and cancelled plate; 10 A.P. marked e.a. A-J reserved for collaborators). Posters issued separately: 1000",
-            "Credit": "Gift of the artist",
-            "Object number": "567.1978.4",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/107"
-    },
-    {
-        "Artist": "Pierre Alechinsky",
-        "Title": "Stars and Disasters (Astres et Desastres)",
-        "Year": "1969",
-        "ObjectID": "139854",
-        "Work": "https://www.moma.org/collection/works/139854",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMjQ5MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4c9ab963052a93b5",
-        "Details": {
-            "Author": "Joyce Mansour",
-            "Medium": "Portfolio of nine aquatints; and photolithographic reproductions on two poster/text sheets",
-            "Dimensions": "each plate  15 7/16 x 19 3/16\" (39.2 x 48.8 cm)\r\nirreg. sheet  19 7/8 x 25 15/16\" (50.5 x 66 cm)",
-            "Publisher": "London Arts Gallery, London",
-            "Printer": "Jean Clert\u00e9",
-            "Edition": "118 (99 numbered 1/99-99/99; 9 numbered I-IX, printed in sepia with drawing and cancelled plate; 10 A.P. marked e.a. A-J reserved for collaborators). Posters issued separately: 1000",
-            "Credit": "Gift of the artist",
-            "Object number": "567.1978.5",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/107"
-    },
-    {
-        "Artist": "Pierre Alechinsky",
-        "Title": "Stars and Disasters (Astres et Desastres)",
-        "Year": "1969",
-        "ObjectID": "139855",
-        "Work": "https://www.moma.org/collection/works/139855",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMjQ5MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d52fed7a3434619f",
-        "Details": {
-            "Author": "Joyce Mansour",
-            "Medium": "Portfolio of nine aquatints; and photolithographic reproductions on two poster/text sheets",
-            "Dimensions": "each plate  15 7/16 x 19 3/16\" (39.2 x 48.8 cm)\r\nirreg. sheet  19 7/8 x 25 15/16\" (50.5 x 66 cm)",
-            "Publisher": "London Arts Gallery, London",
-            "Printer": "Jean Clert\u00e9",
-            "Edition": "118 (99 numbered 1/99-99/99; 9 numbered I-IX, printed in sepia with drawing and cancelled plate; 10 A.P. marked e.a. A-J reserved for collaborators). Posters issued separately: 1000",
-            "Credit": "Gift of the artist",
-            "Object number": "567.1978.6",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/107"
-    },
-    {
-        "Artist": "Pierre Alechinsky",
-        "Title": "Stars and Disasters (Astres et Desastres)",
-        "Year": "1969",
-        "ObjectID": "139856",
-        "Work": "https://www.moma.org/collection/works/139856",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMjQ5NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4e143ac7a7530559",
-        "Details": {
-            "Author": "Joyce Mansour",
-            "Medium": "Portfolio of nine aquatints; and photolithographic reproductions on two poster/text sheets",
-            "Dimensions": "each plate  15 7/16 x 19 3/16\" (39.2 x 48.8 cm)\r\nirreg. sheet  19 7/8 x 25 15/16\" (50.5 x 66 cm)",
-            "Publisher": "London Arts Gallery, London",
-            "Printer": "Jean Clert\u00e9",
-            "Edition": "118 (99 numbered 1/99-99/99; 9 numbered I-IX, printed in sepia with drawing and cancelled plate; 10 A.P. marked e.a. A-J reserved for collaborators). Posters issued separately: 1000",
-            "Credit": "Gift of the artist",
-            "Object number": "567.1978.7",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/107"
-    },
-    {
-        "Artist": "Pierre Alechinsky",
-        "Title": "Stars and Disasters (Astres et Desastres)",
-        "Year": "1969",
-        "ObjectID": "139857",
-        "Work": "https://www.moma.org/collection/works/139857",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMjQ5NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f801cb4a6e0876f4",
-        "Details": {
-            "Author": "Joyce Mansour",
-            "Medium": "Portfolio of nine aquatints; and photolithographic reproductions on two poster/text sheets",
-            "Dimensions": "each plate  15 7/16 x 19 3/16\" (39.2 x 48.8 cm)\r\nirreg. sheet  19 7/8 x 25 15/16\" (50.5 x 66 cm)",
-            "Publisher": "London Arts Gallery, London",
-            "Printer": "Jean Clert\u00e9",
-            "Edition": "118 (99 numbered 1/99-99/99; 9 numbered I-IX, printed in sepia with drawing and cancelled plate; 10 A.P. marked e.a. A-J reserved for collaborators). Posters issued separately: 1000",
-            "Credit": "Gift of the artist",
-            "Object number": "567.1978.8",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/107"
-    },
-    {
-        "Artist": "Pierre Alechinsky",
-        "Title": "Stars and Disasters (Astres et Desastres)",
-        "Year": "1969",
-        "ObjectID": "139858",
-        "Work": "https://www.moma.org/collection/works/139858",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMjQ5NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=be0e7aa2bc6dde1c",
-        "Details": {
-            "Author": "Joyce Mansour",
-            "Medium": "Portfolio of nine aquatints; and photolithographic reproductions on two poster/text sheets",
-            "Dimensions": "each plate  15 7/16 x 19 3/16\" (39.2 x 48.8 cm)\r\nirreg. sheet  19 7/8 x 25 15/16\" (50.5 x 66 cm)",
-            "Publisher": "London Arts Gallery, London",
-            "Printer": "Jean Clert\u00e9",
-            "Edition": "118 (99 numbered 1/99-99/99; 9 numbered I-IX, printed in sepia with drawing and cancelled plate; 10 A.P. marked e.a. A-J reserved for collaborators). Posters issued separately: 1000",
-            "Credit": "Gift of the artist",
-            "Object number": "567.1978.9",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/107"
-    },
-    {
-        "Artist": "James Alinder",
-        "Title": "Birth of Jasmine",
-        "Year": "1969",
-        "ObjectID": "54741",
-        "Work": "https://www.moma.org/collection/works/54741",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MzI5OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c0ff2aa3298f6c07",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "7 5/8 \u00d7 16 1/2\" (19.3 \u00d7 42.0 cm)",
-            "Credit": "Purchase",
-            "Object number": "528.1970",
-            "Copyright": "\u00a9 2023 James Alinder",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/114"
-    },
-    {
-        "Artist": "James Alinder",
-        "Title": "Footsteps",
-        "Year": "1969",
-        "ObjectID": "54751",
-        "Work": "https://www.moma.org/collection/works/54751",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MzI5OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ca35f6ad20e37463",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "7 1/2 \u00d7 16 5/8\" (19.0 \u00d7 42.3 cm)",
-            "Credit": "Purchase",
-            "Object number": "529.1970",
-            "Copyright": "\u00a9 2023 James Alinder",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/114"
-    },
-    {
-        "Artist": "William Anastasi",
-        "Title": "Untitled (Pocket Drawings)",
-        "Year": "1969",
-        "ObjectID": "90658",
-        "Work": "https://www.moma.org/collection/works/90658",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4NjgxNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=828a392bde562628",
-        "Details": {
-            "Medium": "Pencil on two sheets of transparentized paper",
-            "Dimensions": "each: 10 7/8 x 14\" (27.6 x 35.6 cm)",
-            "Credit": "Gift of Sarah-Ann and Werner H. Kramarsky",
-            "Object number": "71.2004.1-2",
-            "Copyright": "\u00a9 2023 William Anastasi",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/155"
-    },
-    {
-        "Artist": "Carl Andre",
-        "Title": "Passport, volume 1 from Seven Books of Poetry",
-        "Year": "1960, published 1969",
-        "ObjectID": "17488",
-        "Work": "https://www.moma.org/collection/works/17488",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3OTYzMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0adad76ee35dfcf7",
-        "Details": {
-            "Author": "Carl Andre",
-            "Medium": "Illustrated book with photolithographic reproductions",
-            "Dimensions": "page (each): 11 \u00d7 8 1/2\" (28 \u00d7 21.6 cm)",
-            "Publisher": "Seth Siegelaub, New York, Dwan Gallery, New York",
-            "Edition": "36",
-            "Credit": "John B. Turner Fund",
-            "Object number": "464.1971.A",
-            "Copyright": "\u00a9 2023 Carl Andre / Licensed by VAGA at Artists Rights Society (ARS), NY",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/174"
-    },
-    {
-        "Artist": "Carl Andre",
-        "Title": "Seven Books of Poetry",
-        "Year": "1960-69, published 1969",
-        "ObjectID": "17489",
-        "Work": "https://www.moma.org/collection/works/17489",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3OTYzMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0adad76ee35dfcf7",
-        "Details": {
-            "Author": "Carl Andre",
-            "Medium": "Illustrated books with photolithographic reproductions",
-            "Dimensions": "page (each): 11 \u00d7 8 1/2\" (28 \u00d7 21.6 cm)",
-            "Publisher": "Seth Siegelaub, New York, Dwan Gallery, New York",
-            "Edition": "36",
-            "Credit": "John B. Turner Fund",
-            "Object number": "464.1971.A-G",
-            "Copyright": "\u00a9 2023 Carl Andre / Licensed by VAGA at Artists Rights Society (ARS), NY",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/174"
-    },
-    {
-        "Artist": "Carl Andre",
-        "Title": "Shape and Structure, volume 2 from Seven Books of Poetry",
-        "Year": "1960-65, published 1969",
-        "ObjectID": "17490",
-        "Work": "https://www.moma.org/collection/works/17490",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3OTgzOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a40f732b9004aff4",
-        "Details": {
-            "Author": "Carl Andre",
-            "Medium": "Illustrated book with photolithographic reproductions",
-            "Dimensions": "page (each): 11 \u00d7 8 1/2\" (27.9 \u00d7 21.6 cm)",
-            "Publisher": "Seth Siegelaub, New York, Dwan Gallery, New York",
-            "Edition": "36",
-            "Credit": "John B. Turner Fund",
-            "Object number": "464.1971.B",
-            "Copyright": "\u00a9 2023 Carl Andre / Licensed by VAGA at Artists Rights Society (ARS), NY",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/174"
     }
 ]

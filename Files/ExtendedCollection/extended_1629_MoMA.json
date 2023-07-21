@@ -1,787 +1,915 @@
 [
     {
-        "Artist": "Various Artists, David Burliuk, Vladimir Burliuk, Alexandra Exter, Vasilii Kamenskii",
-        "Title": "Futuristy. Pervyi zhurnal' russkikh' futuristov' (Futurists: First Journal of the Russian Futurists) no. 1-2",
-        "Year": "1914",
-        "ObjectID": "11055",
-        "Work": "https://www.moma.org/collection/works/11055",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMDE5MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1c05ba43d92c6230",
+        "Artist": "August Sander",
+        "Title": "The Foster Mother",
+        "Year": "1930-31",
+        "ObjectID": "52737",
+        "Work": "https://www.moma.org/collection/works/52737",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NjA1MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=46013f2fdf09985c",
         "Details": {
-            "Medium": "Illustrated book with five letterpress illustrations and two offset lithographs",
-            "Dimensions": "page (each): 9 7/8 \u00d7 7 3/8\" (25.1 \u00d7 18.7 cm); overall (closed): 10 1/4 \u00d7 7 11/16 \u00d7 11/16\" (26 \u00d7 19.6 \u00d7 1.7 cm)",
-            "Publisher": "D. D. Burliuk, Moscow",
+            "Medium": "Gelatin silver print",
+            "Dimensions": "10 11/16 \u00d7 8 1/4\" (27.1 \u00d7 21 cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "406.1953",
+            "Copyright": "\u00a9 2023 Die Photographische Sammlung / SK Stiftung Kultur - August Sander Archiv, Cologne / ARS, NY",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/5145"
+    },
+    {
+        "Artist": "August Sander",
+        "Title": "Forester\u2019s Child, Westerwald",
+        "Year": "1931",
+        "ObjectID": "218934",
+        "Work": "https://www.moma.org/collection/works/218934",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQzMjcyMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c6be4f88c6525a1c",
+        "Details": {
+            "Medium": "Gelatin silver print, printed later by Gerd Sander",
+            "Dimensions": "19 11/16 \u00d7 23 5/8\" (50 \u00d7 60 cm)",
+            "Credit": "Gift of Gunther, Gerd and Julian Sander in honor of Jean-Luc Differdange",
+            "Object number": "487.2017",
+            "Copyright": "\u00a9 2023 Die Photographische Sammlung / SK Stiftung Kultur - August Sander Archiv, Cologne / ARS, NY",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/5145"
+    },
+    {
+        "Artist": "Joost Schmidt",
+        "Title": "YKO Burobedarf, Paul Henss Weimar (Advertisement for YKO office supplies for the firm Paul Henss, Weimar)",
+        "Year": "c. 1926",
+        "ObjectID": "8349",
+        "Work": "https://www.moma.org/collection/works/8349",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMTEyMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0e2122e5160ec7dd",
+        "Details": {
+            "Medium": "Letterpress",
+            "Dimensions": "11 1/4 x 8 7/8\" (28.6 x 22.5 cm)",
+            "Printer": "Paul Henss, Paul Henss Weimar",
+            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
+            "Object number": "896.1999",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/5230"
+    },
+    {
+        "Artist": "Joost Schmidt",
+        "Title": "YKO Buroneuheiten",
+        "Year": "c. 1924-26",
+        "ObjectID": "8351",
+        "Work": "https://www.moma.org/collection/works/8351",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMTEyNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=87771e5bd7fb6927",
+        "Details": {
+            "Medium": "Letterpress",
+            "Dimensions": "9 7/8 x 6 15/16\" (25.1 x 17.6 cm)",
+            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
+            "Object number": "897.1999",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/5230"
+    },
+    {
+        "Artist": "Joost Schmidt",
+        "Title": "YKO Papiere (Advertisement for YKO papers)",
+        "Year": "c. 1926",
+        "ObjectID": "8355",
+        "Work": "https://www.moma.org/collection/works/8355",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMTEyNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=31c5e1855f1a1258",
+        "Details": {
+            "Medium": "Letterpress",
+            "Dimensions": "3 3/4 x 7 1/8\" (9.5 x 18.1 cm)",
+            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
+            "Object number": "899.1999",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/5230"
+    },
+    {
+        "Artist": "Kurt Schwitters",
+        "Title": "Advertisement for Schwitters' Hannover studio",
+        "Year": "c. 1926",
+        "ObjectID": "8368",
+        "Work": "https://www.moma.org/collection/works/8368",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMTE0NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c9b8f120bfaaeccc",
+        "Details": {
+            "Medium": "Letterpress",
+            "Dimensions": "4 1/8 x 5 7/8\" (10.5 x 14.9 cm)",
+            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
+            "Object number": "918.1999",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/5293"
+    },
+    {
+        "Artist": "Kurt Schwitters",
+        "Title": "Program for the Hannover Municipal Theaters Opera House (Stadtische Buhnen Hannover, Opernhaus) production of \"The Life of Orestes\" (Leben des Orest) by Ernst Krenek",
+        "Year": "1930-1931",
+        "ObjectID": "280288",
+        "Work": "https://www.moma.org/collection/works/280288",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ1NTY4NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e7a69bcc6b837132",
+        "Details": {
+            "Medium": "Letterpress",
+            "Dimensions": "9 1/2 \u00d7 6 7/8\" (24.1 \u00d7 17.5 cm)",
+            "Credit": "The Merrill C. Berman Collection. Gift of William A. Koshland (by exchange)",
+            "Object number": "683.2018",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Associated work": "The Merrill C. Berman Collection at MoMA",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/5293"
+    },
+    {
+        "Artist": "Kurt Schwitters",
+        "Title": "Catalogue for the exhibition Heinrich Zille at the Kestner-Gesellschaft, Hannover",
+        "Year": "1931",
+        "ObjectID": "280289",
+        "Work": "https://www.moma.org/collection/works/280289",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ1NTY4NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c80bea8ac3cfc770",
+        "Details": {
+            "Medium": "Letterpress",
+            "Dimensions": "7 3/4 \u00d7 5 5/8 \u00d7 1/16\" (19.7 \u00d7 14.3 \u00d7 0.2 cm)",
+            "Credit": "The Merrill C. Berman Collection. Gift of William A. Koshland (by exchange)",
+            "Object number": "680.2018",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Associated work": "The Merrill C. Berman Collection at MoMA",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/5293"
+    },
+    {
+        "Artist": "Kurt Schwitters",
+        "Title": "Merz no. 21:  First Violet Issue (Erstes Veilchenheft)",
+        "Year": "1931",
+        "ObjectID": "280290",
+        "Work": "https://www.moma.org/collection/works/280290",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ1NTY4NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2a6603ae95684e94",
+        "Details": {
+            "Medium": "Letterpress",
+            "Dimensions": "8 3/8 \u00d7 12 7/16\" (21.3 \u00d7 31.6 cm)",
+            "Printer": "C.L. Schrader, Hannover",
+            "Credit": "The Merrill C. Berman Collection. Gift of William A. Koshland (by exchange)",
+            "Object number": "681.2018",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Associated work": "The Merrill C. Berman Collection at MoMA",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/5293"
+    },
+    {
+        "Artist": "Nikolai Sedelnikov",
+        "Title": "Cover for USSR periodica (USSR Periodicals)",
+        "Year": "1931",
+        "ObjectID": "14194",
+        "Work": "https://www.moma.org/collection/works/14194",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Letterpress",
+            "Dimensions": "sheet (folded): 7 1/16 x 9 1/2\" (18 x 24.2 cm)",
+            "Credit": "Gift of The Judith Rothschild Foundation (Donation of Galerie Gmurzynska)",
+            "Object number": "241.2001",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/32769"
+    },
+    {
+        "Artist": "Walter Seifert",
+        "Title": "Erfurt im grunen Herzen Deutschlands Sommer 1931",
+        "Year": "1931",
+        "ObjectID": "8403",
+        "Work": "https://www.moma.org/collection/works/8403",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMTE2MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d791bb3bb8a06f93",
+        "Details": {
+            "Medium": "Letterpress",
+            "Dimensions": "8 3/8 x 4 15/16\" (21.3 x 12.5 cm)",
+            "Printer": "M. H. Krannich",
+            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
+            "Object number": "935.1999",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/8236"
+    },
+    {
+        "Artist": "Walter Seifert",
+        "Title": "Eine Glanzleistung, diese Mantel! Diese Preise!",
+        "Year": "1931",
+        "ObjectID": "8405",
+        "Work": "https://www.moma.org/collection/works/8405",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQzNzQyMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b72f415247e6b254",
+        "Details": {
+            "Medium": "Gravure and letterpress",
+            "Dimensions": "8 1/4 x 5 13/16\" (21 x 14.8 cm)",
+            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
+            "Object number": "936.1999",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/8236"
+    },
+    {
+        "Artist": "Franz Wilhelm Seiwert",
+        "Title": "Der erste Lumpenball ist am Samstag den 17. Januar",
+        "Year": "1931",
+        "ObjectID": "8420",
+        "Work": "https://www.moma.org/collection/works/8420",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMTE3NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=dc75005319d247fd",
+        "Details": {
+            "Medium": "Letterpress",
+            "Dimensions": "4 1/8 x 5 13/16\" (10.5 x 14.8 cm)",
+            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
+            "Object number": "950.1999",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/8238"
+    },
+    {
+        "Artist": "Franz Wilhelm Seiwert",
+        "Title": "Der 2te Lumpenball ist am Samstag den 31. Januar",
+        "Year": "1931",
+        "ObjectID": "8421",
+        "Work": "https://www.moma.org/collection/works/8421",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMTE3NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d0cd5448a21d1b4c",
+        "Details": {
+            "Medium": "Letterpress",
+            "Dimensions": "5 13/16 x 4 1/8\" (14.8 x 10.5 cm)",
+            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
+            "Object number": "951.1999",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/8238"
+    },
+    {
+        "Artist": "Franz Wilhelm Seiwert",
+        "Title": "3x Lumpenball",
+        "Year": "1931",
+        "ObjectID": "8422",
+        "Work": "https://www.moma.org/collection/works/8422",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMTE3NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ea2beb0b584cd213",
+        "Details": {
+            "Medium": "Letterpress",
+            "Dimensions": "5 13/16 x 4 1/8\" (14.8 x 10.5 cm)",
+            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
+            "Object number": "952.1999",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/8238"
+    },
+    {
+        "Artist": "Ben Shahn",
+        "Title": "Levana and Our Ladies of Sorrow",
+        "Year": "1931",
+        "ObjectID": "32148",
+        "Work": "https://www.moma.org/collection/works/32148",
+        "Thumbnail": null,
+        "Details": {
+            "Author": "Thomas De Quincey",
+            "Medium": "Portfolio of ten lithographs and supplementary text",
+            "Dimensions": "composition (see child records): dimensions vary; sheet (each approx.): 13 x 9 15/16\" (33 x 25.2 cm)",
+            "Publisher": "Philip Van Doren Stern, New York, Ben Shahn, New York",
+            "Printer": "Ben Shahn, New York",
+            "Edition": "212",
+            "Credit": "Gift of Abby Aldrich Rockefeller",
+            "Object number": "1269.1940.A-B",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5366"
+    },
+    {
+        "Artist": "Ben Shahn",
+        "Title": "Behold What Is Greater from Levana and Our Ladies of Sorrow",
+        "Year": "1931",
+        "ObjectID": "32149",
+        "Work": "https://www.moma.org/collection/works/32149",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "One from a portfolio of ten lithographs",
+            "Dimensions": "composition (irreg.): 11 11/16 x 7 15/16\" (29.7 x 20.2 cm); sheet: 13 \u00d7 9 15/16\" (33 \u00d7 25.2 cm)",
+            "Publisher": "Philip Van Doren Stern, New York, Ben Shahn, New York",
+            "Printer": "Ben Shahn, New York",
+            "Edition": "212",
+            "Credit": "Gift of Abby Aldrich Rockefeller",
+            "Object number": "1269.1940.B01",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5366"
+    },
+    {
+        "Artist": "Ben Shahn",
+        "Title": "I Saw Dimly Relieved from Levana and Our Ladies of Sorrow",
+        "Year": "1931",
+        "ObjectID": "32150",
+        "Work": "https://www.moma.org/collection/works/32150",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "One from a portfolio of ten lithographs",
+            "Dimensions": "composition (irreg.): 10 1/4 x 7 15/16\" (26.1 x 20.2 cm); sheet: 13 \u00d7 9 15/16\" (33 \u00d7 25.2 cm)",
+            "Publisher": "Philip Van Doren Stern, New York, Ben Shahn, New York",
+            "Printer": "Ben Shahn, New York",
+            "Edition": "212",
+            "Credit": "Gift of Abby Aldrich Rockefeller",
+            "Object number": "1269.1940.B02",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5366"
+    },
+    {
+        "Artist": "Ben Shahn",
+        "Title": "Eternal Silence Reigns from Levana and Our Ladies of Sorrow",
+        "Year": "1931",
+        "ObjectID": "32151",
+        "Work": "https://www.moma.org/collection/works/32151",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "One from a portfolio of ten lithographs",
+            "Dimensions": "composition (irreg.): 9 1/8 x 7 13/16\" (23.2 x 19.8 cm); sheet: 13 \u00d7 9 15/16\" (33 \u00d7 25.2 cm)",
+            "Publisher": "Philip Van Doren Stern, New York, Ben Shahn, New York",
+            "Printer": "Ben Shahn, New York",
+            "Edition": "212",
+            "Credit": "Gift of Abby Aldrich Rockefeller",
+            "Object number": "1269.1940.B03",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5366"
+    },
+    {
+        "Artist": "Ben Shahn",
+        "Title": "Rachel Weeping from Levana and Our Ladies of Sorrow",
+        "Year": "1931",
+        "ObjectID": "32152",
+        "Work": "https://www.moma.org/collection/works/32152",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "One from a portfolio of ten lithographs",
+            "Dimensions": "composition (irreg.): 11 5/8 x 8 1/8\" (29.6 x 20.6 cm); sheet: 13 \u00d7 9 15/16\" (33 \u00d7 25.2 cm)",
+            "Publisher": "Philip Van Doren Stern, New York, Ben Shahn, New York",
+            "Printer": "Ben Shahn, New York",
+            "Edition": "212",
+            "Credit": "Gift of Abby Aldrich Rockefeller",
+            "Object number": "1269.1940.B04",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5366"
+    },
+    {
+        "Artist": "Ben Shahn",
+        "Title": "She It Was That Stood from Levana and Our Ladies of Sorrow",
+        "Year": "1931",
+        "ObjectID": "32153",
+        "Work": "https://www.moma.org/collection/works/32153",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "One from a portfolio of ten lithographs",
+            "Dimensions": "composition (irreg.): 11 11/16 x 8 1/4\" (29.7 x 21 cm); sheet: 13 \u00d7 9 15/16\" (33 \u00d7 25.2 cm)",
+            "Publisher": "Philip Van Doren Stern, New York, Ben Shahn, New York",
+            "Printer": "Ben Shahn, New York",
+            "Edition": "212",
+            "Credit": "Gift of Abby Aldrich Rockefeller",
+            "Object number": "1269.1940.B05",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5366"
+    },
+    {
+        "Artist": "Ben Shahn",
+        "Title": "Every Slave from Levana and Our Ladies of Sorrow",
+        "Year": "1931",
+        "ObjectID": "32154",
+        "Work": "https://www.moma.org/collection/works/32154",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "One from a portfolio of ten lithographs",
+            "Dimensions": "composition (irreg.): 11 11/16 x 7 5/16\" (29.7 x 18.5 cm); sheet: 13 \u00d7 9 15/16\" (33 \u00d7 25.2 cm)",
+            "Publisher": "Philip Van Doren Stern, New York, Ben Shahn, New York",
+            "Printer": "Ben Shahn, New York",
+            "Edition": "212",
+            "Credit": "Gift of Abby Aldrich Rockefeller",
+            "Object number": "1269.1940.B06",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5366"
+    },
+    {
+        "Artist": "Ben Shahn",
+        "Title": "Every Woman from Levana and Our Ladies of Sorrow",
+        "Year": "1931",
+        "ObjectID": "32155",
+        "Work": "https://www.moma.org/collection/works/32155",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "One from a portfolio of ten lithographs",
+            "Dimensions": "composition (irreg.): 9 11/16 x 7 3/16\" (24.6 x 18.2 cm); sheet: 13 \u00d7 9 15/16\" (33 \u00d7 25.2 cm)",
+            "Publisher": "Philip Van Doren Stern, New York, Ben Shahn, New York",
+            "Printer": "Ben Shahn, New York",
+            "Edition": "212",
+            "Credit": "Gift of Abby Aldrich Rockefeller",
+            "Object number": "1269.1940.B07",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5366"
+    },
+    {
+        "Artist": "Ben Shahn",
+        "Title": "She Also Is the Mother from Levana and Our Ladies of Sorrow",
+        "Year": "1931",
+        "ObjectID": "32156",
+        "Work": "https://www.moma.org/collection/works/32156",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "One from a portfolio of ten lithographs",
+            "Dimensions": "composition (irreg.): 10 5/8 x 7 13/16\" (27 x 19.8 cm); sheet: 13 \u00d7 9 15/16\" (33 \u00d7 25.2 cm)",
+            "Publisher": "Philip Van Doren Stern, New York, Ben Shahn, New York",
+            "Printer": "Ben Shahn, New York",
+            "Edition": "212",
+            "Credit": "Gift of Abby Aldrich Rockefeller",
+            "Object number": "1269.1940.B08",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5366"
+    },
+    {
+        "Artist": "Ben Shahn",
+        "Title": "He Worshipped the Worm from Levana and Our Ladies of Sorrow",
+        "Year": "1931",
+        "ObjectID": "32157",
+        "Work": "https://www.moma.org/collection/works/32157",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "One from a portfolio of ten lithographs",
+            "Dimensions": "composition (irreg.): 11 1/2 x 8 1/8\" (29.2 x 20.6 cm); sheet: 13 \u00d7 9 15/16\" (33 \u00d7 25.2 cm)",
+            "Publisher": "Philip Van Doren Stern, New York, Ben Shahn, New York",
+            "Printer": "Ben Shahn, New York",
+            "Edition": "212",
+            "Credit": "Gift of Abby Aldrich Rockefeller",
+            "Object number": "1269.1940.B09",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5366"
+    },
+    {
+        "Artist": "Ben Shahn",
+        "Title": "To Plague His Heart from Levana and Our Ladies of Sorrow",
+        "Year": "1931",
+        "ObjectID": "32158",
+        "Work": "https://www.moma.org/collection/works/32158",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "One from a portfolio of ten lithographs",
+            "Dimensions": "composition (irreg.): 7 5/16 x 11 3/16\" (18.6 x 28.4 cm); sheet: 13 \u00d7 9 15/16\" (33 \u00d7 25.2 cm)",
+            "Publisher": "Philip Van Doren Stern, New York, Ben Shahn, New York",
+            "Printer": "Ben Shahn, New York",
+            "Edition": "212",
+            "Credit": "Gift of Abby Aldrich Rockefeller",
+            "Object number": "1269.1940.B10",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5366"
+    },
+    {
+        "Artist": "Charles Sheeler",
+        "Title": "Cactus and Photographer's Lamp, New York",
+        "Year": "1931",
+        "ObjectID": "52698",
+        "Work": "https://www.moma.org/collection/works/52698",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MTk4MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2a0fb119d0f447c9",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "9 1/2 \u00d7 6 5/8\" (23.5 \u00d7 16.6 cm)",
+            "Credit": "Gift of Samuel M. Kootz",
+            "Object number": "404.1942",
+            "Copyright": "\u00a9 2023 The Lane Collection",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/5383"
+    },
+    {
+        "Artist": "David Shterenberg",
+        "Title": "40 nord - 50 verst (40 north - 50 west)",
+        "Year": "1931",
+        "ObjectID": "83830",
+        "Work": "https://www.moma.org/collection/works/83830",
+        "Thumbnail": null,
+        "Details": {
+            "Author": "Rudyard Kipling",
+            "Medium": "Illustrated book",
+            "Dimensions": "page: 8 13/16 x 7 11/16\" (22.4 x 19.5 cm)",
+            "Publisher": "Molodaia gvardiia, Moscow-Leningrad",
             "Edition": "unknown",
             "Credit": "Gift of The Judith Rothschild Foundation",
-            "Object number": "78.2001.1-7",
-            "Type": "Illustrated Book",
+            "Object number": "78.2002",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/6106"
+        "Profile": "https://www.moma.org/artists/23473"
     },
     {
-        "Artist": "Various Artists, David Burliuk, Vladimir Burliuk, Pavel Filonov, Jean Pougny (Ivan Puni), Olga Rozanova",
-        "Title": "Rykaiushchii parnas. Futuristy (Roaring Parnassus: Futurists)",
-        "Year": "1914",
-        "ObjectID": "9999",
-        "Work": "https://www.moma.org/collection/works/9999",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMDA2MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3aaef7cb6821995a",
+        "Artist": "Maria Siniakova",
+        "Title": "Prygaiut, letaiut (They Bounce, They Fly)",
+        "Year": "1931",
+        "ObjectID": "16203",
+        "Work": "https://www.moma.org/collection/works/16203",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyOTM5OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=54bf4722b26e74b6",
         "Details": {
-            "Author": "David Burliuk, Nikolai Burliuk, Elena Guro, Velimir Khlebnikov, Aleksei Kruchenykh, Benedikt Livshits, Vladimir Mayakovsky, Igor' Severianin",
-            "Collaborating artist": "David Burliuk, Vladimir Burliuk, Pavel Filonov, Jean Pougny (Ivan Puni), Olga Rozanova",
-            "Medium": "Book with 21 letterpress illustrations (including cover)",
-            "Dimensions": "page: 8 3/4 x 6 5/16\" (22.3 x 16 cm)",
-            "Publisher": "Zhuravl', St. Petersburg",
-            "Edition": "1,000",
+            "Author": "L. Sinitsyna",
+            "Medium": "Book with 11 lithographed illustrations",
+            "Dimensions": "overall: 7 5/8 x 5 13/16 x 1/16\" (19.4 x 14.8 x 0.2 cm); each page: 7 5/8 x 5 13/16\" (19.4 x 14.8 cm)",
+            "Publisher": "Molodaia gvardiia, Moscow",
+            "Printer": "Unidentified",
+            "Edition": "50,000",
             "Credit": "Gift of The Judith Rothschild Foundation",
-            "Object number": "28.2001",
+            "Object number": "356.2001.1-11",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/24409"
+        "Profile": "https://www.moma.org/artists/12074"
     },
     {
-        "Artist": "Jacques Villon",
-        "Title": "The Mechanic's Workshop (Le Petit atelier de mecanique)",
-        "Year": "1914",
-        "ObjectID": "65359",
-        "Work": "https://www.moma.org/collection/works/65359",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3NzczNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1e20d2e393572688",
+        "Artist": "Renee Sintenis",
+        "Title": "Boy with Dog (Junge mit Hund)",
+        "Year": "(c. 1923)",
+        "ObjectID": "71372",
+        "Work": "https://www.moma.org/collection/works/71372",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MDAxNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=bff1e69eea94c65a",
         "Details": {
-            "Medium": "Etching",
-            "Dimensions": "plate: 6 1/4 x 7 3/4\" (15.9 x 19.7 cm); sheet: 9 3/4 x 12 5/8\" (24.8 x 32 cm)",
+            "Medium": "Drypoint",
+            "Dimensions": "plate: 8 11/16 x 6 5/8\" (22.1 x 16.8 cm); sheet: 17 11/16 x 12 5/8\" (45 x 32 cm)",
+            "Publisher": "probably Verlag Alfred Flechtheim, Berlin",
+            "Printer": "Unidentified",
             "Edition": "50",
-            "Credit": "Purchase",
-            "Object number": "256.1951",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Credit": "Gift of Abby Aldrich Rockefeller",
+            "Object number": "576.1940",
+            "Copyright": "\u00a9 2023 Ren\u00e9e Sintenis / Artists Rights Society (ARS), New York / VG Bild-Kunst, Germany",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/6165"
+        "Profile": "https://www.moma.org/artists/5451"
     },
     {
-        "Artist": "Jacques Villon",
-        "Title": "The Small Equilibrist (Le Petite equilibriste)",
-        "Year": "1914",
-        "ObjectID": "68065",
-        "Work": "https://www.moma.org/collection/works/68065",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3Nzc5NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ef65d933de546fa4",
+        "Artist": "David Alfaro Siqueiros",
+        "Title": "Moises Saenz",
+        "Year": "1931",
+        "ObjectID": "61471",
+        "Work": "https://www.moma.org/collection/works/61471",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNzU4NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f0c10bc11dd87828",
         "Details": {
-            "Medium": "Etching",
-            "Dimensions": "plate: 8 11/16 x 6 3/8\" (22 x 16.2 cm); sheet: 12 3/4 x 9 3/4\" (32.4 x 24.8 cm)",
+            "Medium": "Lithograph",
+            "Dimensions": "composition: 21 7/16 x 16 1/8\" (54.5 x 41 cm); sheet: 28 1/4 x 22 15/16\" (71.8 x 58.3 cm)",
+            "Publisher": "Weyhe Gallery, New York",
+            "Printer": "George C. Miller, New York",
             "Edition": "50",
-            "Credit": "Gift of Victor S. Riesenfeld",
-            "Object number": "378.1948",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Credit": "Inter-American Fund",
+            "Object number": "78.1943",
+            "Copyright": "\u00a9 2023 Siqueiros David Alfaro / Artists Rights Society (ARS), New York / SOMAAP, Mexico",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/6165"
+        "Profile": "https://www.moma.org/artists/5454"
     },
     {
-        "Artist": "Jacques Villon",
-        "Title": "Girl at the Piano",
-        "Year": "c. 1912-14",
-        "ObjectID": "80412",
-        "Work": "https://www.moma.org/collection/works/80412",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwOTM0NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=bb311ec9bc071f44",
+        "Artist": "David Alfaro Siqueiros",
+        "Title": "Seated Nude",
+        "Year": "1931",
+        "ObjectID": "61995",
+        "Work": "https://www.moma.org/collection/works/61995",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMjg4OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fdefa07ad7b2342e",
         "Details": {
-            "Medium": "Oil on canvas",
-            "Dimensions": "51 x 37 7/8\" (129.2 x 96.4 cm)",
-            "Credit": "Helen Acheson Bequest",
-            "Object number": "858.1978",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/6165"
-    },
-    {
-        "Artist": "Maurice de Vlaminck",
-        "Title": "Still Life",
-        "Year": "(1913-1914)",
-        "ObjectID": "37799",
-        "Work": "https://www.moma.org/collection/works/37799",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMTgzNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c48883242183e827",
-        "Details": {
-            "Medium": "Watercolor and gouache on paper",
-            "Dimensions": "15 5/8 x 18 7/8\" (39.7 x 47.9 cm)",
-            "Credit": "Gift of Justin K. Thannhauser",
-            "Object number": "693.1949",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Medium": "Lithograph",
+            "Dimensions": "composition: 21 5/16 x 12 11/16\" (54.2 x 32.3 cm); sheet: 22 7/8 x 15 7/8\" (58.1 x 40.4 cm)",
+            "Publisher": "Weyhe Gallery, New York",
+            "Printer": "George C. Miller, New York",
+            "Edition": "35",
+            "Credit": "Inter-American Fund",
+            "Object number": "113.1946",
+            "Copyright": "\u00a9 2023 Siqueiros David Alfaro / Artists Rights Society (ARS), New York / SOMAAP, Mexico",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/6177"
+        "Profile": "https://www.moma.org/artists/5454"
     },
     {
-        "Artist": "Max Weber",
-        "Title": "Maine",
-        "Year": "1914",
-        "ObjectID": "37661",
-        "Work": "https://www.moma.org/collection/works/37661",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4NjU2NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f137d8a8c6d094c1",
+        "Artist": "David Alfaro Siqueiros",
+        "Title": "13 Woodcuts by Siqueiros (13 Grabados en madera por Siqueiros)",
+        "Year": "1931",
+        "ObjectID": "68246",
+        "Work": "https://www.moma.org/collection/works/68246",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MjQ2NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=dfd2dac0a955e7cb",
         "Details": {
-            "Medium": "Pastel and charcoal on paper",
-            "Dimensions": "24 1/2 x 18 3/4\" (62.2 x 47.6 cm)",
-            "Credit": "Richard D. Brixey Bequest",
-            "Object number": "632.1943",
+            "Medium": "Portfolio of fourteen woodcuts (including cover) on colored paper mounted on paper",
+            "Dimensions": "composition (orientation varies; each approx.): 5 1/8 \u00d7 3 1/2\" (13 \u00d7 8.9 cm); sheet (each approx.): 9 7/8 \u00d7 6 15/16\" (25.1 \u00d7 17.6 cm)",
+            "Publisher": "William Spratling, Taxco, Mexico",
+            "Printer": "David Alfaro Siqueiros, Mexico City",
+            "Edition": "100",
+            "Credit": "Inter-American Fund",
+            "Object number": "386.1956.1-14",
+            "Copyright": "\u00a9 2023 Siqueiros David Alfaro / Artists Rights Society (ARS), New York / SOMAAP, Mexico",
+            "Type": "Portfolio",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/6275"
+        "Profile": "https://www.moma.org/artists/5454"
     },
     {
-        "Artist": "Clarence H. White",
-        "Title": "Nude",
-        "Year": "c. 1909",
-        "ObjectID": "55548",
-        "Work": "https://www.moma.org/collection/works/55548",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjg2MzEiXSxbInAiLCJjb252ZXJ0IiwiLXF1YWxpdHkgOTAgLXJlc2l6ZSA1MTJ4NTEyXHUwMDNlIl1d.jpg?sha=7684930b4228443f",
+        "Artist": "David Alfaro Siqueiros",
+        "Title": "Zapata",
+        "Year": "1931",
+        "ObjectID": "77181",
+        "Work": "https://www.moma.org/collection/works/77181",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNjE0MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=09bf27cd134ab0de",
         "Details": {
-            "Medium": "Palladium print",
-            "Dimensions": "9 1/2 \u00d7 7 5/8\" (24.2 \u00d7 19.4 cm)",
-            "Credit": "John Spencer Fund",
-            "Object number": "606.1971",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/6338"
-    },
-    {
-        "Artist": "Frank Lloyd Wright",
-        "Title": "Sculpted block from Midway Gardens, Chicago, IL",
-        "Year": "1913-1914",
-        "ObjectID": "162375",
-        "Work": "https://www.moma.org/collection/works/162375",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM4NzU4MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cf9a715c8fb6e8a4",
-        "Details": {
-            "Medium": "Concrete",
-            "Dimensions": "32 3/4 x 27 x 6 1/2\" (83.2 x 68.6 x 16.5 cm)",
-            "Credit": "The Frank Lloyd Wright Foundation Archives (The Museum of Modern Art | Avery Architectural & Fine Arts Library, Columbia University, New York)",
-            "Object number": "1831.2012",
-            "Copyright": "\u00a9 2023 Frank Lloyd Wright Foundation / Artists Rights Society (ARS), New York",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/6459"
-    },
-    {
-        "Artist": "Alexander Archipenko",
-        "Title": "Figure in Movement",
-        "Year": "1913",
-        "ObjectID": "38099",
-        "Work": "https://www.moma.org/collection/works/38099",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMTkwNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e9be6e81e084b82a",
-        "Details": {
-            "Medium": "Cut-and-pasted painted paper, cont\u00e9 crayon, and colored pencil on colored paper",
-            "Dimensions": "18 7/8 x 12 3/8\" (47.9 x 31.4 cm)",
-            "Credit": "Gift of Perls Galleries",
-            "Object number": "806.1969",
-            "Copyright": "\u00a9 2023 Estate of Alexander Archipenko / Artists Rights Society (ARS), New York",
+            "Medium": "Lithograph",
+            "Dimensions": "composition: 20 15/16 x 15 11/16\" (53.2 x 39.9 cm); sheet: 26 7/16 x 21\" (67.2 x 53.3 cm)",
+            "Publisher": "Weyhe Gallery, New York",
+            "Printer": "George C. Miller, New York",
+            "Edition": "35",
+            "Credit": "Gift of Abby Aldrich Rockefeller",
+            "Object number": "1565.1940",
+            "Copyright": "\u00a9 2023 Siqueiros David Alfaro / Artists Rights Society (ARS), New York / SOMAAP, Mexico",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/209"
+        "Profile": "https://www.moma.org/artists/5454"
     },
     {
-        "Artist": "Atelier Martine, Paris, France",
-        "Title": "Printed Fabric",
-        "Year": "1912-1913",
-        "ObjectID": "2917",
-        "Work": "https://www.moma.org/collection/works/2917",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjk3NjY2Il0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNTEyeDUxMlx1MDAzZSJdXQ.jpg?sha=d23e3616aa3b39b1",
+        "Artist": "David Alfaro Siqueiros",
+        "Title": "Untitled from 13 Woodcuts by Siqueiros (13 Grabados en madera por Siqueiros)",
+        "Year": "1931",
+        "ObjectID": "88112",
+        "Work": "https://www.moma.org/collection/works/88112",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MjQ2NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d11b47da344ab851",
         "Details": {
-            "Manufacturer": "Poiret, Paris",
-            "Medium": "Japanese silk",
-            "Dimensions": "49 3/4 x 24 3/4\" (126.3 x 62.9 cm)",
-            "Credit": "Purchase",
-            "Object number": "235.1967",
-            "Copyright": "\u00a9 2023 Succession H. Matisse / Artists Rights Society (ARS), New York",
-            "Department": "Architecture and Design"
+            "Medium": "One from a portfolio of fourteen woodcuts (including cover) on colored paper mounted on paper",
+            "Dimensions": "composition (irreg.): 3 9/16 \u00d7 5 1/8\" (9 \u00d7 13 cm); sheet: 9 3/8 \u00d7 6 15/16\" (23.8 \u00d7 17.6 cm)",
+            "Publisher": "William Spratling, Taxco, Mexico",
+            "Printer": "David Alfaro Siqueiros, Mexico City",
+            "Edition": "100",
+            "Credit": "Inter-American Fund",
+            "Object number": "386.1956.1",
+            "Copyright": "\u00a9 2023 Siqueiros David Alfaro / Artists Rights Society (ARS), New York / SOMAAP, Mexico",
+            "Portfolio": "13 Woodcuts by Siqueiros (13 Grabados en madera por Siqueiros)",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/29877"
+        "Profile": "https://www.moma.org/artists/5454"
     },
     {
-        "Artist": "Eugene Atget",
-        "Title": "Porte de Montreuil",
-        "Year": "1913",
-        "ObjectID": "38887",
-        "Work": "https://www.moma.org/collection/works/38887",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzODc1MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=55e4741f17e9c3f8",
+        "Artist": "David Alfaro Siqueiros",
+        "Title": "Untitled from 13 Woodcuts by Siqueiros (13 Grabados en madera por Siqueiros)",
+        "Year": "1931",
+        "ObjectID": "88113",
+        "Work": "https://www.moma.org/collection/works/88113",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MjQ3NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d5a2ed4d5b75481a",
         "Details": {
-            "Medium": "Matte albumen silver print",
-            "Dimensions": "9 \u00d7 6 7/8\" (22.8 \u00d7 17.5 cm)",
-            "Credit": "Abbott-Levy Collection. Partial gift of Shirley C. Burden",
-            "Object number": "1.1969.1005",
-            "Department": "Photography"
+            "Medium": "One from a portfolio of fourteen woodcuts (including cover) on colored paper mounted on paper",
+            "Dimensions": "composition (irreg.): 3 1/2 \u00d7 5 1/8\" (8.9 \u00d7 13 cm); sheet: 9 3/8 \u00d7 6 15/16\" (23.8 \u00d7 17.6 cm)",
+            "Publisher": "William Spratling, Taxco, Mexico",
+            "Printer": "David Alfaro Siqueiros, Mexico City",
+            "Edition": "100",
+            "Credit": "Inter-American Fund",
+            "Object number": "386.1956.2",
+            "Copyright": "\u00a9 2023 Siqueiros David Alfaro / Artists Rights Society (ARS), New York / SOMAAP, Mexico",
+            "Portfolio": "13 Woodcuts by Siqueiros (13 Grabados en madera por Siqueiros)",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/229"
+        "Profile": "https://www.moma.org/artists/5454"
     },
     {
-        "Artist": "Eugene Atget",
-        "Title": "Port Solferino",
-        "Year": "1913",
-        "ObjectID": "38996",
-        "Work": "https://www.moma.org/collection/works/38996",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5OTQzMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ac33cec0d9e1ae80",
+        "Artist": "David Alfaro Siqueiros",
+        "Title": "Untitled from 13 Woodcuts by Siqueiros (13 Grabados en madera por Siqueiros)",
+        "Year": "1931",
+        "ObjectID": "88114",
+        "Work": "https://www.moma.org/collection/works/88114",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MjQ3OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=99d10da03fb2b98a",
         "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "Approx. 6 1/2 \u00d7 8 1/2\" (16.5 \u00d7 21.6 cm)",
-            "Credit": "Abbott-Levy Collection. Partial gift of Shirley C. Burden",
-            "Object number": "1.1969.1103",
-            "Department": "Photography"
+            "Medium": "One from a portfolio of fourteen woodcuts (including cover) on colored paper mounted on paper",
+            "Dimensions": "composition (irreg.): 5 1/16 \u00d7 3 1/2\" (12.9 \u00d7 8.9 cm); sheet: 9 5/16 \u00d7 6 7/8\" (23.6 \u00d7 17.4 cm)",
+            "Publisher": "William Spratling, Taxco, Mexico",
+            "Printer": "David Alfaro Siqueiros, Mexico City",
+            "Edition": "100",
+            "Credit": "Inter-American Fund",
+            "Object number": "386.1956.3",
+            "Copyright": "\u00a9 2023 Siqueiros David Alfaro / Artists Rights Society (ARS), New York / SOMAAP, Mexico",
+            "Portfolio": "13 Woodcuts by Siqueiros (13 Grabados en madera por Siqueiros)",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/229"
+        "Profile": "https://www.moma.org/artists/5454"
     },
     {
-        "Artist": "Eugene Atget",
-        "Title": "Hotel de Cardinal Dubois, rue de Valois",
-        "Year": "1913",
-        "ObjectID": "39456",
-        "Work": "https://www.moma.org/collection/works/39456",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNjAxNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3133a0ce177eb7c9",
+        "Artist": "David Alfaro Siqueiros",
+        "Title": "Untitled from 13 Woodcuts by Siqueiros (13 Grabados en madera por Siqueiros)",
+        "Year": "1931",
+        "ObjectID": "88115",
+        "Work": "https://www.moma.org/collection/works/88115",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MjQ3OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1e66acd55043a809",
         "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "Approx. 8 11/16 \u00d7 7 1/16\" (22 \u00d7 18 cm)",
-            "Credit": "Abbott-Levy Collection. Partial gift of Shirley C. Burden",
-            "Object number": "1.1969.1518",
-            "Department": "Photography"
+            "Medium": "One from a portfolio of fourteen woodcuts (including cover) on colored paper mounted on paper",
+            "Dimensions": "composition (irreg.): 5 1/8 \u00d7 3 7/16\" (13 \u00d7 8.7 cm); sheet: 9 3/8 \u00d7 6 7/8\" (23.8 \u00d7 17.5 cm)",
+            "Publisher": "William Spratling, Taxco, Mexico",
+            "Printer": "David Alfaro Siqueiros, Mexico City",
+            "Edition": "100",
+            "Credit": "Inter-American Fund",
+            "Object number": "386.1956.4",
+            "Copyright": "\u00a9 2023 Siqueiros David Alfaro / Artists Rights Society (ARS), New York / SOMAAP, Mexico",
+            "Portfolio": "13 Woodcuts by Siqueiros (13 Grabados en madera por Siqueiros)",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/229"
+        "Profile": "https://www.moma.org/artists/5454"
     },
     {
-        "Artist": "Eugene Atget",
-        "Title": "Ancien Couvent de Panthemont. 104 rue de Grenelle",
-        "Year": "1912-13",
-        "ObjectID": "39790",
-        "Work": "https://www.moma.org/collection/works/39790",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMyMTcwOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=50557175d31fb074",
+        "Artist": "David Alfaro Siqueiros",
+        "Title": "Untitled from 13 Woodcuts by Siqueiros (13 Grabados en madera por Siqueiros)",
+        "Year": "1931",
+        "ObjectID": "88116",
+        "Work": "https://www.moma.org/collection/works/88116",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MjQ4MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4082416251509213",
         "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "Approx. 8 11/16 \u00d7 6 9/16\" (22 \u00d7 16.7 cm)",
-            "Credit": "Abbott-Levy Collection. Partial gift of Shirley C. Burden",
-            "Object number": "1.1969.1819",
-            "Department": "Photography"
+            "Medium": "One from a portfolio of fourteen woodcuts (including cover) on colored paper mounted on paper",
+            "Dimensions": "composition (irreg.): 3 7/16 \u00d7 5 1/8\" (8.7 \u00d7 13 cm); sheet: 9 3/8 \u00d7 6 7/8\" (23.8 \u00d7 17.5 cm)",
+            "Publisher": "William Spratling, Taxco, Mexico",
+            "Printer": "David Alfaro Siqueiros, Mexico City",
+            "Edition": "100",
+            "Credit": "Inter-American Fund",
+            "Object number": "386.1956.5",
+            "Copyright": "\u00a9 2023 Siqueiros David Alfaro / Artists Rights Society (ARS), New York / SOMAAP, Mexico",
+            "Portfolio": "13 Woodcuts by Siqueiros (13 Grabados en madera por Siqueiros)",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/229"
+        "Profile": "https://www.moma.org/artists/5454"
     },
     {
-        "Artist": "Eugene Atget",
-        "Title": "Port de l'Hotel de Ville",
-        "Year": "1913",
-        "ObjectID": "39898",
-        "Work": "https://www.moma.org/collection/works/39898",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5NTYwOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4b82f69cc2632bfa",
+        "Artist": "David Alfaro Siqueiros",
+        "Title": "Untitled from 13 Woodcuts by Siqueiros (13 Grabados en madera por Siqueiros)",
+        "Year": "1931",
+        "ObjectID": "88117",
+        "Work": "https://www.moma.org/collection/works/88117",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MjQ4MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=329928ada6d4e33d",
         "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "Approx. 6 1/2 \u00d7 8 1/2\" (16.5 \u00d7 21.6 cm)",
-            "Credit": "Abbott-Levy Collection. Partial gift of Shirley C. Burden",
-            "Object number": "1.1969.1916",
-            "Department": "Photography"
+            "Medium": "One from a portfolio of fourteen woodcuts (including cover) on colored paper mounted on paper",
+            "Dimensions": "composition (irreg.): 3 1/2 \u00d7 5 1/8\" (8.9 \u00d7 13 cm); sheet: 6 3/8 \u00d7 6 15/16\" (16.2 \u00d7 17.6 cm)",
+            "Publisher": "William Spratling, Taxco, Mexico",
+            "Printer": "David Alfaro Siqueiros, Mexico City",
+            "Edition": "100",
+            "Credit": "Inter-American Fund",
+            "Object number": "386.1956.6",
+            "Copyright": "\u00a9 2023 Siqueiros David Alfaro / Artists Rights Society (ARS), New York / SOMAAP, Mexico",
+            "Portfolio": "13 Woodcuts by Siqueiros (13 Grabados en madera por Siqueiros)",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/229"
+        "Profile": "https://www.moma.org/artists/5454"
     },
     {
-        "Artist": "Eugene Atget",
-        "Title": "Port de l'Hotel de Ville",
-        "Year": "1913",
-        "ObjectID": "39899",
-        "Work": "https://www.moma.org/collection/works/39899",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5NTYxMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d93f23f584141030",
+        "Artist": "David Alfaro Siqueiros",
+        "Title": "Untitled from 13 Woodcuts by Siqueiros (13 Grabados en madera por Siqueiros)",
+        "Year": "1931",
+        "ObjectID": "88118",
+        "Work": "https://www.moma.org/collection/works/88118",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MjQ4MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ee27125cb248bb4d",
         "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "Approx. 6 1/2 \u00d7 8 1/2\" (16.5 \u00d7 21.6 cm)",
-            "Credit": "Abbott-Levy Collection. Partial gift of Shirley C. Burden",
-            "Object number": "1.1969.1917",
-            "Department": "Photography"
+            "Medium": "One from a portfolio of fourteen woodcuts (including cover) on colored paper mounted on paper",
+            "Dimensions": "composition (irreg.): 5 1/8 \u00d7 3 1/2\" (13 \u00d7 8.9 cm); sheet: 9 5/16 \u00d7 6 7/8\" (23.7 \u00d7 17.5 cm)",
+            "Publisher": "William Spratling, Taxco, Mexico",
+            "Printer": "David Alfaro Siqueiros, Mexico City",
+            "Edition": "100",
+            "Credit": "Inter-American Fund",
+            "Object number": "386.1956.7",
+            "Copyright": "\u00a9 2023 Siqueiros David Alfaro / Artists Rights Society (ARS), New York / SOMAAP, Mexico",
+            "Portfolio": "13 Woodcuts by Siqueiros (13 Grabados en madera por Siqueiros)",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/229"
+        "Profile": "https://www.moma.org/artists/5454"
     },
     {
-        "Artist": "Eugene Atget",
-        "Title": "Port de l'Hotel de Ville, Pont Marie",
-        "Year": "1913",
-        "ObjectID": "39900",
-        "Work": "https://www.moma.org/collection/works/39900",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5NTYxMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=812026a76a9ed5d1",
+        "Artist": "David Alfaro Siqueiros",
+        "Title": "Untitled from 13 Woodcuts by Siqueiros (13 Grabados en madera por Siqueiros)",
+        "Year": "1931",
+        "ObjectID": "88119",
+        "Work": "https://www.moma.org/collection/works/88119",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MjQ4MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ac2c987210bda7c3",
         "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "Approx. 6 1/2 \u00d7 8 1/2\" (16.5 \u00d7 21.6 cm)",
-            "Credit": "Abbott-Levy Collection. Partial gift of Shirley C. Burden",
-            "Object number": "1.1969.1918",
-            "Department": "Photography"
+            "Medium": "One from a portfolio of fourteen woodcuts (including cover) on colored paper mounted on paper",
+            "Dimensions": "composition (irreg.): 3 1/2 \u00d7 5 1/8\" (8.9 \u00d7 13 cm); sheet: 9 3/8 \u00d7 7\" (23.8 \u00d7 17.8 cm)",
+            "Publisher": "William Spratling, Taxco, Mexico",
+            "Printer": "David Alfaro Siqueiros, Mexico City",
+            "Edition": "100",
+            "Credit": "Inter-American Fund",
+            "Object number": "386.1956.8",
+            "Copyright": "\u00a9 2023 Siqueiros David Alfaro / Artists Rights Society (ARS), New York / SOMAAP, Mexico",
+            "Portfolio": "13 Woodcuts by Siqueiros (13 Grabados en madera por Siqueiros)",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/229"
+        "Profile": "https://www.moma.org/artists/5454"
     },
     {
-        "Artist": "Eugene Atget",
-        "Title": "Port Solferino",
-        "Year": "1913",
-        "ObjectID": "39901",
-        "Work": "https://www.moma.org/collection/works/39901",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5OTQ1MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7b435dfa23937946",
+        "Artist": "David Alfaro Siqueiros",
+        "Title": "Untitled from 13 Woodcuts by Siqueiros (13 Grabados en madera por Siqueiros)",
+        "Year": "1931",
+        "ObjectID": "88120",
+        "Work": "https://www.moma.org/collection/works/88120",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MjQ4NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5d7bd729b707e24d",
         "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "Approx. 6 1/2 \u00d7 8 1/2\" (16.5 \u00d7 21.6 cm)",
-            "Credit": "Abbott-Levy Collection. Partial gift of Shirley C. Burden",
-            "Object number": "1.1969.1919",
-            "Department": "Photography"
+            "Medium": "One from a portfolio of fourteen woodcuts (including cover) on colored paper mounted on paper",
+            "Dimensions": "composition (irreg.): 5 1/8 \u00d7 3 9/16\" (13 \u00d7 9 cm); sheet: 9 5/16 \u00d7 6 7/8\" (23.7 \u00d7 17.5 cm)",
+            "Publisher": "William Spratling, Taxco, Mexico",
+            "Printer": "David Alfaro Siqueiros, Mexico City",
+            "Edition": "100",
+            "Credit": "Inter-American Fund",
+            "Object number": "386.1956.9",
+            "Copyright": "\u00a9 2023 Siqueiros David Alfaro / Artists Rights Society (ARS), New York / SOMAAP, Mexico",
+            "Portfolio": "13 Woodcuts by Siqueiros (13 Grabados en madera por Siqueiros)",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/229"
+        "Profile": "https://www.moma.org/artists/5454"
     },
     {
-        "Artist": "Eugene Atget",
-        "Title": "Port Solferino",
-        "Year": "1913",
-        "ObjectID": "39903",
-        "Work": "https://www.moma.org/collection/works/39903",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5OTQ1MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3ec8af39340d1bb8",
+        "Artist": "David Alfaro Siqueiros",
+        "Title": "Untitled from 13 Woodcuts by Siqueiros (13 Grabados en madera por Siqueiros)",
+        "Year": "1931",
+        "ObjectID": "88121",
+        "Work": "https://www.moma.org/collection/works/88121",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MjQ3MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a62c1f76868d39e9",
         "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "Approx. 6 1/2 \u00d7 8 1/2\" (16.5 \u00d7 21.6 cm)",
-            "Credit": "Abbott-Levy Collection. Partial gift of Shirley C. Burden",
-            "Object number": "1.1969.1920",
-            "Department": "Photography"
+            "Medium": "One from a portfolio of fourteen woodcuts (including cover) on colored paper mounted on paper",
+            "Dimensions": "composition (irreg.): 3 7/16 \u00d7 5 1/8\" (8.7 \u00d7 13 cm); sheet: 9 5/16 \u00d7 6 7/8\" (23.7 \u00d7 17.5 cm)",
+            "Publisher": "William Spratling, Taxco, Mexico",
+            "Printer": "David Alfaro Siqueiros, Mexico City",
+            "Edition": "100",
+            "Credit": "Inter-American Fund",
+            "Object number": "386.1956.10",
+            "Copyright": "\u00a9 2023 Siqueiros David Alfaro / Artists Rights Society (ARS), New York / SOMAAP, Mexico",
+            "Portfolio": "13 Woodcuts by Siqueiros (13 Grabados en madera por Siqueiros)",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/229"
+        "Profile": "https://www.moma.org/artists/5454"
     },
     {
-        "Artist": "Eugene Atget",
-        "Title": "Port des Invalides",
-        "Year": "1913",
-        "ObjectID": "39904",
-        "Work": "https://www.moma.org/collection/works/39904",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5OTQ1MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=da3038ac560230ec",
+        "Artist": "David Alfaro Siqueiros",
+        "Title": "Untitled from 13 Woodcuts by Siqueiros (13 Grabados en madera por Siqueiros)",
+        "Year": "1931",
+        "ObjectID": "88122",
+        "Work": "https://www.moma.org/collection/works/88122",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MjQ3MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ab7c6897c2ef5fad",
         "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "Approx. 6 1/2 \u00d7 8 1/2\" (16.5 \u00d7 21.6 cm)",
-            "Credit": "Abbott-Levy Collection. Partial gift of Shirley C. Burden",
-            "Object number": "1.1969.1921",
-            "Department": "Photography"
+            "Medium": "One from a portfolio of fourteen woodcuts (including cover) on colored paper mounted on paper",
+            "Dimensions": "composition (irreg.): 3 1/2 \u00d7 4 5/8\" (8.9 \u00d7 11.7 cm); sheet: 9 1/4 \u00d7 6 7/8\" (23.5 \u00d7 17.4 cm)",
+            "Publisher": "William Spratling, Taxco, Mexico",
+            "Printer": "David Alfaro Siqueiros, Mexico City",
+            "Edition": "100",
+            "Credit": "Inter-American Fund",
+            "Object number": "386.1956.11",
+            "Copyright": "\u00a9 2023 Siqueiros David Alfaro / Artists Rights Society (ARS), New York / SOMAAP, Mexico",
+            "Portfolio": "13 Woodcuts by Siqueiros (13 Grabados en madera por Siqueiros)",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/229"
+        "Profile": "https://www.moma.org/artists/5454"
     },
     {
-        "Artist": "Eugene Atget",
-        "Title": "Port des Invalides",
-        "Year": "1913",
-        "ObjectID": "39905",
-        "Work": "https://www.moma.org/collection/works/39905",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5OTQ1MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=965b433561cb52f8",
+        "Artist": "David Alfaro Siqueiros",
+        "Title": "Untitled from 13 Woodcuts by Siqueiros (13 Grabados en madera por Siqueiros)",
+        "Year": "1931",
+        "ObjectID": "88123",
+        "Work": "https://www.moma.org/collection/works/88123",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MjQ3MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3e6bef9479235671",
         "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "Approx. 6 1/2 \u00d7 8 1/2\" (16.5 \u00d7 21.6 cm)",
-            "Credit": "Abbott-Levy Collection. Partial gift of Shirley C. Burden",
-            "Object number": "1.1969.1922",
-            "Department": "Photography"
+            "Medium": "One from a portfolio of fourteen woodcuts (including cover) on colored paper mounted on paper",
+            "Dimensions": "composition: 5 \u00d7 3 1/2\" (12.7 \u00d7 8.9 cm); sheet: 9 5/16 \u00d7 6 15/16\" (23.6 \u00d7 17.6 cm)",
+            "Publisher": "William Spratling, Taxco, Mexico",
+            "Printer": "David Alfaro Siqueiros, Mexico City",
+            "Edition": "100",
+            "Credit": "Inter-American Fund",
+            "Object number": "386.1956.12",
+            "Copyright": "\u00a9 2023 Siqueiros David Alfaro / Artists Rights Society (ARS), New York / SOMAAP, Mexico",
+            "Portfolio": "13 Woodcuts by Siqueiros (13 Grabados en madera por Siqueiros)",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/229"
+        "Profile": "https://www.moma.org/artists/5454"
     },
     {
-        "Artist": "Eugene Atget",
-        "Title": "Port des Invalides",
-        "Year": "1913",
-        "ObjectID": "39906",
-        "Work": "https://www.moma.org/collection/works/39906",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5OTQ1NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0874df0656abaea6",
+        "Artist": "David Alfaro Siqueiros",
+        "Title": "Untitled from 13 Woodcuts by Siqueiros (13 Grabados en madera por Siqueiros)",
+        "Year": "1931",
+        "ObjectID": "88124",
+        "Work": "https://www.moma.org/collection/works/88124",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MjQ3NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=46749c11b3bb3e6d",
         "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "Approx. 6 1/2 \u00d7 8 1/2\" (16.5 \u00d7 21.6 cm)",
-            "Credit": "Abbott-Levy Collection. Partial gift of Shirley C. Burden",
-            "Object number": "1.1969.1923",
-            "Department": "Photography"
+            "Medium": "One from a portfolio of fourteen woodcuts (including cover) on colored paper mounted on paper",
+            "Dimensions": "composition (irreg.): 5 1/16 \u00d7 3 1/2\" (12.9 \u00d7 8.9 cm); sheet: 9 5/16 \u00d7 6 7/8\" (23.6 \u00d7 17.5 cm)",
+            "Publisher": "William Spratling, Taxco, Mexico",
+            "Printer": "David Alfaro Siqueiros, Mexico City",
+            "Edition": "100",
+            "Credit": "Inter-American Fund",
+            "Object number": "386.1956.13",
+            "Copyright": "\u00a9 2023 Siqueiros David Alfaro / Artists Rights Society (ARS), New York / SOMAAP, Mexico",
+            "Portfolio": "13 Woodcuts by Siqueiros (13 Grabados en madera por Siqueiros)",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/229"
+        "Profile": "https://www.moma.org/artists/5454"
     },
     {
-        "Artist": "Eugene Atget",
-        "Title": "Port des Invalides",
-        "Year": "1913",
-        "ObjectID": "39907",
-        "Work": "https://www.moma.org/collection/works/39907",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5OTQ1NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e918e5e2e2e4ef75",
+        "Artist": "David Alfaro Siqueiros",
+        "Title": "Cover from 13 Woodcuts by Siqueiros (13 Grabados en madera por Siqueiros)",
+        "Year": "1931",
+        "ObjectID": "99026",
+        "Work": "https://www.moma.org/collection/works/99026",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MjQ3NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5173d365671e7711",
         "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "Approx. 6 1/2 \u00d7 8 1/2\" (16.5 \u00d7 21.6 cm)",
-            "Credit": "Abbott-Levy Collection. Partial gift of Shirley C. Burden",
-            "Object number": "1.1969.1924",
-            "Department": "Photography"
+            "Medium": "One from a portfolio of fourteen woodcuts (including cover)",
+            "Dimensions": "composition and sheet: 9 7/8 \u00d7 6 15/16\" (25.1 \u00d7 17.6 cm)",
+            "Publisher": "William Spratling, Taxco, Mexico",
+            "Printer": "David Alfaro Siqueiros, Mexico City",
+            "Edition": "100",
+            "Credit": "Inter-American Fund",
+            "Object number": "386.1956.14",
+            "Copyright": "\u00a9 2023 Siqueiros David Alfaro / Artists Rights Society (ARS), New York / SOMAAP, Mexico",
+            "Portfolio": "13 Woodcuts by Siqueiros (13 Grabados en madera por Siqueiros)",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/229"
-    },
-    {
-        "Artist": "Eugene Atget",
-        "Title": "Porte, 19 rue Notre-Dame-des-Victoires",
-        "Year": "1913",
-        "ObjectID": "39927",
-        "Work": "https://www.moma.org/collection/works/39927",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4Mjc2MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5150a6597e18a025",
-        "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "Approx. 8 11/16 \u00d7 7 1/16\" (22 \u00d7 18 cm)",
-            "Credit": "Abbott-Levy Collection. Partial gift of Shirley C. Burden",
-            "Object number": "1.1969.1942",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/229"
-    },
-    {
-        "Artist": "Eugene Atget",
-        "Title": "Balcon, 17 rue du Petit-Pont",
-        "Year": "1913",
-        "ObjectID": "39932",
-        "Work": "https://www.moma.org/collection/works/39932",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE0OTE5NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9eae5a6ad150b99e",
-        "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "8 5/8 \u00d7 6 15/16\" (21.9 \u00d7 17.7 cm)",
-            "Credit": "Abbott-Levy Collection. Partial gift of Shirley C. Burden",
-            "Object number": "1.1969.1947",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/229"
-    },
-    {
-        "Artist": "Eugene Atget",
-        "Title": "Hotel Michel Simon. 70 rue des Archives",
-        "Year": "1913",
-        "ObjectID": "40019",
-        "Work": "https://www.moma.org/collection/works/40019",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4Mjc5MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=862920f456a439c3",
-        "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "Approx. 8 11/16 \u00d7 7 1/16\" (22 \u00d7 18 cm)",
-            "Credit": "Abbott-Levy Collection. Partial gift of Shirley C. Burden",
-            "Object number": "1.1969.2024",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/229"
-    },
-    {
-        "Artist": "Eugene Atget",
-        "Title": "8 rue Saint-Augustin",
-        "Year": "1913",
-        "ObjectID": "40035",
-        "Work": "https://www.moma.org/collection/works/40035",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4MjgwOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9b291a4123c52112",
-        "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "Approx. 8 11/16 \u00d7 7 1/16\" (22 \u00d7 18 cm)",
-            "Credit": "Abbott-Levy Collection. Partial gift of Shirley C. Burden",
-            "Object number": "1.1969.2039",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/229"
-    },
-    {
-        "Artist": "Eugene Atget",
-        "Title": "Escalier, 8 rue Saint-Augustin",
-        "Year": "1913",
-        "ObjectID": "40037",
-        "Work": "https://www.moma.org/collection/works/40037",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4MjgwOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8c8852c7193cc45f",
-        "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "8 5/8 \u00d7 7 (21.9 \u00d7 17.8 cm)",
-            "Credit": "Abbott-Levy Collection. Partial gift of Shirley C. Burden",
-            "Object number": "1.1969.2040",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/229"
-    },
-    {
-        "Artist": "Eugene Atget",
-        "Title": "8 rue Saint-Augustin",
-        "Year": "1913",
-        "ObjectID": "40042",
-        "Work": "https://www.moma.org/collection/works/40042",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4MjgxMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fe8779784e6fa728",
-        "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "Approx. 7 1/16 \u00d7 8 9/16\" (18 \u00d7 21.8 cm)",
-            "Credit": "Abbott-Levy Collection. Partial gift of Shirley C. Burden",
-            "Object number": "1.1969.2045",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/229"
-    },
-    {
-        "Artist": "Eugene Atget",
-        "Title": "Cabaret de la Petite Biche. 60 rue Beaubourg",
-        "Year": "1913",
-        "ObjectID": "40142",
-        "Work": "https://www.moma.org/collection/works/40142",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4MzYzNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=792761c8937d15d5",
-        "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "Approx. 6 1/2 \u00d7 8 1/2\" (16.5 \u00d7 21.6 cm)",
-            "Credit": "Abbott-Levy Collection. Partial gift of Shirley C. Burden",
-            "Object number": "1.1969.2146",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/229"
-    },
-    {
-        "Artist": "Eugene Atget",
-        "Title": "36 Passage Thieree (Ironworks)",
-        "Year": "1913",
-        "ObjectID": "40155",
-        "Work": "https://www.moma.org/collection/works/40155",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4NTM4NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a92fb35ef1036e3b",
-        "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "Approx. 7 1/16 \u00d7 8 9/16\" (18 \u00d7 21.8 cm)",
-            "Credit": "Abbott-Levy Collection. Partial gift of Shirley C. Burden",
-            "Object number": "1.1969.2158",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/229"
-    },
-    {
-        "Artist": "Eugene Atget",
-        "Title": "178 rue de Choisy",
-        "Year": "1913",
-        "ObjectID": "40199",
-        "Work": "https://www.moma.org/collection/works/40199",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMzM0OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=845369914a6ec31e",
-        "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "7 1/16 \u00d7 8 1/2\" (18 \u00d7 21.6 cm)",
-            "Credit": "Abbott-Levy Collection. Partial gift of Shirley C. Burden",
-            "Object number": "1.1969.2198",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/229"
-    },
-    {
-        "Artist": "Eugene Atget",
-        "Title": "34 Rue Saint Severin",
-        "Year": "1913",
-        "ObjectID": "40217",
-        "Work": "https://www.moma.org/collection/works/40217",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4Mjg2MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=219a02f5da14195a",
-        "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "Approx. 8 11/16 \u00d7 7 1/16\" (22 \u00d7 18 cm)",
-            "Credit": "Abbott-Levy Collection. Partial gift of Shirley C. Burden",
-            "Object number": "1.1969.2213",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/229"
-    },
-    {
-        "Artist": "Eugene Atget",
-        "Title": "3 Rue des Prouvaires",
-        "Year": "1913",
-        "ObjectID": "40223",
-        "Work": "https://www.moma.org/collection/works/40223",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4Mjg2NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c1448fcee451e6a1",
-        "Details": {
-            "Medium": "Matte albumen silver print",
-            "Dimensions": "Approx. 8 11/16 \u00d7 7 1/16\" (22 \u00d7 18 cm)",
-            "Credit": "Abbott-Levy Collection. Partial gift of Shirley C. Burden",
-            "Object number": "1.1969.2219",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/229"
-    },
-    {
-        "Artist": "Eugene Atget",
-        "Title": "Balcon. 15 rue du Petit Pont",
-        "Year": "1913",
-        "ObjectID": "40332",
-        "Work": "https://www.moma.org/collection/works/40332",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4MzY3NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d6a487cc2f76b80f",
-        "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "Approx. 8 11/16 \u00d7 7 1/16\" (22 \u00d7 18 cm)",
-            "Credit": "Abbott-Levy Collection. Partial gift of Shirley C. Burden",
-            "Object number": "1.1969.2317",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/229"
-    },
-    {
-        "Artist": "Eugene Atget",
-        "Title": "21 Quai de l'horloge. Ancien Hotel",
-        "Year": "1913",
-        "ObjectID": "40344",
-        "Work": "https://www.moma.org/collection/works/40344",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3ODMwMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cb4766276676282e",
-        "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "Approx. 8 11/16 \u00d7 7 1/16\" (22 \u00d7 18 cm)",
-            "Credit": "Abbott-Levy Collection. Partial gift of Shirley C. Burden",
-            "Object number": "1.1969.2328",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/229"
-    },
-    {
-        "Artist": "Eugene Atget",
-        "Title": "Port des Invalides",
-        "Year": "1913",
-        "ObjectID": "40566",
-        "Work": "https://www.moma.org/collection/works/40566",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4OTQwNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7d0f4374af2cd1c4",
-        "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "Approx. 7 1/16 \u00d7 8 9/16\" (18 \u00d7 21.8 cm)",
-            "Credit": "Abbott-Levy Collection. Partial gift of Shirley C. Burden",
-            "Object number": "1.1969.2517",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/229"
-    },
-    {
-        "Artist": "Eugene Atget",
-        "Title": "Porte d'Asnieres, Cite Trebert",
-        "Year": "1913",
-        "ObjectID": "40572",
-        "Work": "https://www.moma.org/collection/works/40572",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMzM2NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c7c02a19c4ce0049",
-        "Details": {
-            "Medium": "Gelatin silver printing-out-paper print",
-            "Dimensions": "6 7/8 \u00d7 8 11/16\" (17.4 \u00d7 22 cm)",
-            "Credit": "Abbott-Levy Collection. Partial gift of Shirley C. Burden",
-            "Object number": "1.1969.2522",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/229"
-    },
-    {
-        "Artist": "Eugene Atget",
-        "Title": "Port de l'Hotel de Ville",
-        "Year": "1913",
-        "ObjectID": "40961",
-        "Work": "https://www.moma.org/collection/works/40961",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4OTQxMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=facbf97b4f6408d5",
-        "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "Approx. 6 1/2 \u00d7 8 1/2\" (16.5 \u00d7 21.6 cm)",
-            "Credit": "Abbott-Levy Collection. Partial gift of Shirley C. Burden",
-            "Object number": "1.1969.2668",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/229"
-    },
-    {
-        "Artist": "Eugene Atget",
-        "Title": "Fete, Avenue de Breteuil",
-        "Year": "1913",
-        "ObjectID": "41115",
-        "Work": "https://www.moma.org/collection/works/41115",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4Mzc2OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=18d4772c74a19368",
-        "Details": {
-            "Medium": "Matte albumen silver print",
-            "Dimensions": "Approx. 6 1/2 \u00d7 8 1/2\" (16.5 \u00d7 21.6 cm)",
-            "Credit": "Abbott-Levy Collection. Partial gift of Shirley C. Burden",
-            "Object number": "1.1969.3010",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/229"
-    },
-    {
-        "Artist": "Eugene Atget",
-        "Title": "Porte Dauphine",
-        "Year": "1913",
-        "ObjectID": "41348",
-        "Work": "https://www.moma.org/collection/works/41348",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4Mzc4NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b2de8a8f0953e4f3",
-        "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "Approx. 6 1/2 \u00d7 8 1/2\" (16.5 \u00d7 21.6 cm)",
-            "Credit": "Abbott-Levy Collection. Partial gift of Shirley C. Burden",
-            "Object number": "1.1969.3220",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/229"
-    },
-    {
-        "Artist": "Eugene Atget",
-        "Title": "Porte Dauphine",
-        "Year": "1913",
-        "ObjectID": "41350",
-        "Work": "https://www.moma.org/collection/works/41350",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4Mzc4NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=48409c17a7072ac9",
-        "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "Approx. 6 1/2 \u00d7 8 1/2\" (16.5 \u00d7 21.6 cm)",
-            "Credit": "Abbott-Levy Collection. Partial gift of Shirley C. Burden",
-            "Object number": "1.1969.3222",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/229"
-    },
-    {
-        "Artist": "Eugene Atget",
-        "Title": "Porte Dauphine",
-        "Year": "1913",
-        "ObjectID": "41351",
-        "Work": "https://www.moma.org/collection/works/41351",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4Mzc4NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fd88bd8813c2a55b",
-        "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "Approx. 8 11/16 \u00d7 7 1/16\" (22 \u00d7 18 cm)",
-            "Credit": "Abbott-Levy Collection. Partial gift of Shirley C. Burden",
-            "Object number": "1.1969.3223",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/229"
-    },
-    {
-        "Artist": "Eugene Atget",
-        "Title": "Porte Dauphine",
-        "Year": "1913",
-        "ObjectID": "41352",
-        "Work": "https://www.moma.org/collection/works/41352",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4Mzc4OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=172a448c8a7739ba",
-        "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "Approx. 8 11/16 \u00d7 7 1/16\" (22 \u00d7 18 cm)",
-            "Credit": "Abbott-Levy Collection. Partial gift of Shirley C. Burden",
-            "Object number": "1.1969.3224",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/229"
-    },
-    {
-        "Artist": "Eugene Atget",
-        "Title": "Porte Dauphine",
-        "Year": "1913",
-        "ObjectID": "41353",
-        "Work": "https://www.moma.org/collection/works/41353",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4Mzc4OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=224708e9440c32f3",
-        "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "Approx. 6 1/2 \u00d7 8 1/2\" (16.5 \u00d7 21.6 cm)",
-            "Credit": "Abbott-Levy Collection. Partial gift of Shirley C. Burden",
-            "Object number": "1.1969.3225",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/229"
-    },
-    {
-        "Artist": "Eugene Atget",
-        "Title": "Porte Dauphine. Fortifications",
-        "Year": "1913",
-        "ObjectID": "41354",
-        "Work": "https://www.moma.org/collection/works/41354",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4Mzc5MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ece4635d173b7447",
-        "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "Approx. 6 1/2 \u00d7 8 1/2\" (16.5 \u00d7 21.6 cm)",
-            "Credit": "Abbott-Levy Collection. Partial gift of Shirley C. Burden",
-            "Object number": "1.1969.3226",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/229"
-    },
-    {
-        "Artist": "Eugene Atget",
-        "Title": "Eglise Saint Mery",
-        "Year": "1913",
-        "ObjectID": "41429",
-        "Work": "https://www.moma.org/collection/works/41429",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3NTQyNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8a4c0a9bbd1127c5",
-        "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "Approx. 8 11/16 \u00d7 7 1/16\" (22 \u00d7 18 cm)",
-            "Credit": "Abbott-Levy Collection. Partial gift of Shirley C. Burden",
-            "Object number": "1.1969.3294",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/229"
+        "Profile": "https://www.moma.org/artists/5454"
     }
 ]

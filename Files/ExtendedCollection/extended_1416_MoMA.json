@@ -1,824 +1,818 @@
 [
     {
-        "Artist": "Doris Ulmann",
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "Lounge Chair. Table. (Elevation sketches, perspective sketch)",
+        "Year": "1926-46",
+        "ObjectID": "106619",
+        "Work": "https://www.moma.org/collection/works/106619",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNTE3MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=741a0279c8f0ed27",
+        "Details": {
+            "Medium": "Pencil on paper",
+            "Dimensions": "11 1/4 x 8 7/8\" (28.6 x 22.5 cm)",
+            "Credit": "Mies van der Rohe Archive, gift of the architect",
+            "Object number": "891.1974",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7166"
+    },
+    {
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "Tables (Perspective sketches)",
+        "Year": "1926-46",
+        "ObjectID": "106623",
+        "Work": "https://www.moma.org/collection/works/106623",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNjE4NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c850b2274395e27e",
+        "Details": {
+            "Medium": "Colored pencil on paper",
+            "Dimensions": "11 1/4 x 8 7/8\" (28.6 x 22.5 cm)",
+            "Credit": "Mies van der Rohe Archive, gift of the architect",
+            "Object number": "895.1974",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7166"
+    },
+    {
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "Tables (Perspective sketches)",
+        "Year": "1926-46",
+        "ObjectID": "106624",
+        "Work": "https://www.moma.org/collection/works/106624",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNjE4OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7606fcb410c5846b",
+        "Details": {
+            "Medium": "Colored pencil on paper",
+            "Dimensions": "11 1/4 x 8 7/8\" (28.6 x 22.5 cm)",
+            "Credit": "Mies van der Rohe Archive, gift of the architect",
+            "Object number": "896.1974",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7166"
+    },
+    {
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "Dining Table (Plan, elevation sketch)",
+        "Year": "1926-46",
+        "ObjectID": "106625",
+        "Work": "https://www.moma.org/collection/works/106625",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNjE4OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=639b28d30f99d630",
+        "Details": {
+            "Medium": "Pencil on paper",
+            "Dimensions": "11 1/2 x 8 3/4\" (29.2 x 22.2 cm)",
+            "Credit": "Mies van der Rohe Archive, gift of the architect",
+            "Object number": "897.1974",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7166"
+    },
+    {
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "Table (Perspective sketches)",
+        "Year": "1926-46",
+        "ObjectID": "106628",
+        "Work": "https://www.moma.org/collection/works/106628",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNjE5MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=08ebaae452fd95f9",
+        "Details": {
+            "Medium": "Colored pencil on paper",
+            "Dimensions": "11 1/4 x 8 7/8\" (28.6 x 22.5 cm)",
+            "Credit": "Mies van der Rohe Archive, gift of the architect",
+            "Object number": "900.1974",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7166"
+    },
+    {
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "Table (Perspective sketches)",
+        "Year": "1926-46",
+        "ObjectID": "106629",
+        "Work": "https://www.moma.org/collection/works/106629",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNjE5NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e7917b4677029350",
+        "Details": {
+            "Medium": "Colored pencil on paper",
+            "Dimensions": "11 1/4 x 8 15/16\" (28.6 x 22.7 cm)",
+            "Credit": "Mies van der Rohe Archive, gift of the architect",
+            "Object number": "901.1974",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7166"
+    },
+    {
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "Table (Perspective sketches)",
+        "Year": "1926-46",
+        "ObjectID": "106630",
+        "Work": "https://www.moma.org/collection/works/106630",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNjE5NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=bc8b8f1481b5dbd9",
+        "Details": {
+            "Medium": "Colored pencil on paper",
+            "Dimensions": "11 1/4 x 8 7/8\" (28.6 x 22.5 cm)",
+            "Credit": "Mies van der Rohe Archive, gift of the architect",
+            "Object number": "902.1974",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7166"
+    },
+    {
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "Stool/ Table (similar to MR1) (Perspective sketch)",
+        "Year": "1926-46",
+        "ObjectID": "106631",
+        "Work": "https://www.moma.org/collection/works/106631",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNjE5NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8aa596900d1aaa4e",
+        "Details": {
+            "Medium": "Colored pencil on paper",
+            "Dimensions": "11 1/4 x 8 7/8\" (28.6 x 22.5 cm)",
+            "Credit": "Mies van der Rohe Archive, gift of the architect",
+            "Object number": "903.1974",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7166"
+    },
+    {
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "Table. Detail. (Perspective sketch, elevation sketch)",
+        "Year": "1926-46",
+        "ObjectID": "106632",
+        "Work": "https://www.moma.org/collection/works/106632",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNjE5NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c73e00124272bc8a",
+        "Details": {
+            "Medium": "Pencil on paper",
+            "Dimensions": "8 1/4 x 10 3/8\" (21 x 26.4 cm)",
+            "Credit": "Mies van der Rohe Archive, gift of the architect",
+            "Object number": "904.1974",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7166"
+    },
+    {
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "Table (Perspective sketch)",
+        "Year": "1926-46",
+        "ObjectID": "106633",
+        "Work": "https://www.moma.org/collection/works/106633",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNjE5OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1f15017c0ac0358a",
+        "Details": {
+            "Medium": "Pencil on paper",
+            "Dimensions": "8 1/4 x 12 15/16\" (21 x 32.9 cm)",
+            "Credit": "Mies van der Rohe Archive, gift of the architect",
+            "Object number": "905.1974",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7166"
+    },
+    {
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "Table Details. (Perspective sketches, elevation sketch)",
+        "Year": "1926-46",
+        "ObjectID": "106634",
+        "Work": "https://www.moma.org/collection/works/106634",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNjE5OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8f7c451308fcf972",
+        "Details": {
+            "Medium": "Pencil on paper",
+            "Dimensions": "8 1/4 x 12 15/16\" (21 x 32.9 cm)",
+            "Credit": "Mies van der Rohe Archive, gift of the architect",
+            "Object number": "906.1974",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7166"
+    },
+    {
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "Table (Perspective sketches)",
+        "Year": "1926-46",
+        "ObjectID": "106635",
+        "Work": "https://www.moma.org/collection/works/106635",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNjIwMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ef1c9a7e510ba6c6",
+        "Details": {
+            "Medium": "Pencil on paper",
+            "Dimensions": "8 1/4 x 13\" (21 x 33 cm)",
+            "Credit": "Mies van der Rohe Archive, gift of the architect",
+            "Object number": "907.1974",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7166"
+    },
+    {
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "Serving Cart (Perspective sketches)",
+        "Year": "1926-46",
+        "ObjectID": "106636",
+        "Work": "https://www.moma.org/collection/works/106636",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNjIwMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c9f2613991cd7606",
+        "Details": {
+            "Medium": "Pencil on paper",
+            "Dimensions": "8 15/16 x 11 11/16\" (22.7 x 29.7 cm)",
+            "Credit": "Mies van der Rohe Archive, gift of the architect",
+            "Object number": "908.1974",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7166"
+    },
+    {
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "Serving Carts (Elevation sketches)",
+        "Year": "1926-46",
+        "ObjectID": "106637",
+        "Work": "https://www.moma.org/collection/works/106637",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNjIwMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=56a37ffa3990890b",
+        "Details": {
+            "Medium": "Pencil on paper",
+            "Dimensions": "8 5/16 x 11 11/16\" (21.1 x 29.7 cm)",
+            "Credit": "Mies van der Rohe Archive, gift of the architect",
+            "Object number": "909.1974",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7166"
+    },
+    {
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "Serving Carts (Elevation sketches, perspective sketch)",
+        "Year": "1926-46",
+        "ObjectID": "106638",
+        "Work": "https://www.moma.org/collection/works/106638",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNjIwMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b1bd5580c9501dbd",
+        "Details": {
+            "Medium": "Pencil on paper",
+            "Dimensions": "8 5/16 x 11 11/16\" (21.1 x 29.7 cm)",
+            "Credit": "Mies van der Rohe Archive, gift of the architect",
+            "Object number": "910.1974",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7166"
+    },
+    {
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "Serving Cart (Elevation sketch)",
+        "Year": "1926-46",
+        "ObjectID": "106639",
+        "Work": "https://www.moma.org/collection/works/106639",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNjIwNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2055b6479bb2472a",
+        "Details": {
+            "Medium": "Pencil on paper",
+            "Dimensions": "8 5/16 x 11 11/16\" (21.1 x 29.7 cm)",
+            "Credit": "Mies van der Rohe Archive, gift of the architect",
+            "Object number": "911.1974",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7166"
+    },
+    {
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "Serving Cart (Perspective sketches, elevation sketches)",
+        "Year": "1926-46",
+        "ObjectID": "106640",
+        "Work": "https://www.moma.org/collection/works/106640",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNjIwNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ec8e4a8f1256b51f",
+        "Details": {
+            "Medium": "Pencil on paper",
+            "Dimensions": "8 5/16 x 11 11/16\" (21.1 x 29.7 cm)",
+            "Credit": "Mies van der Rohe Archive, gift of the architect",
+            "Object number": "912.1974",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7166"
+    },
+    {
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "Serving Cart (Elevation sketch, perspective sketches)",
+        "Year": "1926-46",
+        "ObjectID": "106642",
+        "Work": "https://www.moma.org/collection/works/106642",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNjIwNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f59d07f64ac11dca",
+        "Details": {
+            "Medium": "Pencil on paper",
+            "Dimensions": "8 5/16 x 11 11/16\" (21.1 x 29.7 cm)",
+            "Credit": "Mies van der Rohe Archive, gift of the architect",
+            "Object number": "914.1974",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7166"
+    },
+    {
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "Serving Cart (Elevation sketch, perspective sketches)",
+        "Year": "1926-46",
+        "ObjectID": "106643",
+        "Work": "https://www.moma.org/collection/works/106643",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNjIwNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=51d95fb5a19d0e38",
+        "Details": {
+            "Medium": "Pencil on paper",
+            "Dimensions": "8 5/16 x 11 11/16\" (21.1 x 29.7 cm)",
+            "Credit": "Mies van der Rohe Archive, gift of the architect",
+            "Object number": "915.1974",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7166"
+    },
+    {
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "Serving Cart (Perspective sketch, elevation sketches)",
+        "Year": "1926-46",
+        "ObjectID": "106644",
+        "Work": "https://www.moma.org/collection/works/106644",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNjIwOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=04017f4736b4739b",
+        "Details": {
+            "Medium": "Pencil on paper",
+            "Dimensions": "8 5/16 x 11 11/16\" (21.1 x 29.7 cm)",
+            "Credit": "Mies van der Rohe Archive, gift of the architect",
+            "Object number": "916.1974",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7166"
+    },
+    {
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "Serving Cart (Perspective sketches, elevation sketches)",
+        "Year": "1926-46",
+        "ObjectID": "106645",
+        "Work": "https://www.moma.org/collection/works/106645",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNjIwOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c1b99271ffca206c",
+        "Details": {
+            "Medium": "Pencil on paper",
+            "Dimensions": "8 15/16 x 11 11/16\" (22.7 x 29.7 cm)",
+            "Credit": "Mies van der Rohe Archive, gift of the architect",
+            "Object number": "917.1974",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7166"
+    },
+    {
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "Reclining Chair with Arms and Rocker (Perspective and elevation sketch)",
+        "Year": "1926-46",
+        "ObjectID": "106665",
+        "Work": "https://www.moma.org/collection/works/106665",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMzg2MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8df112de373dd0a3",
+        "Details": {
+            "Medium": "Pencil and colored pencil on paper",
+            "Credit": "Mies van der Rohe Archive, gift of the architect",
+            "Object number": "937.1974",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7166"
+    },
+    {
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "Lounge Chair without Arms (Elevation)",
+        "Year": "1926-46",
+        "ObjectID": "106826",
+        "Work": "https://www.moma.org/collection/works/106826",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMzg3MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3812ce207939f976",
+        "Details": {
+            "Medium": "Pencil on tracing paper",
+            "Dimensions": "9 1/16 x 10 9/16\" (23 x 26.8 cm)",
+            "Credit": "Mies van der Rohe Archive, gift of the architect",
+            "Object number": "996.1974",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7166"
+    },
+    {
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "Lounge Chair without Arms (Elevation sketches)",
+        "Year": "1926-46",
+        "ObjectID": "106831",
+        "Work": "https://www.moma.org/collection/works/106831",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMjg2MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=da33f0fa1ce80eb5",
+        "Details": {
+            "Medium": "Pencil on tracing paper",
+            "Dimensions": "9 3/16 x 14 3/16\" (23.3 x 36 cm)",
+            "Credit": "Mies van der Rohe Archive, gift of the architect",
+            "Object number": "1001.1974",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7166"
+    },
+    {
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "Lounge Chair without Arms (Elevation sketch)",
+        "Year": "1926-46",
+        "ObjectID": "106833",
+        "Work": "https://www.moma.org/collection/works/106833",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMjg2MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8ef253a007f74f74",
+        "Details": {
+            "Medium": "Pencil on tracing paper",
+            "Dimensions": "9 3/8 x 14 3/16\" (23.8 x 36 cm)",
+            "Credit": "Mies van der Rohe Archive, gift of the architect",
+            "Object number": "1003.1974",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7166"
+    },
+    {
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "Reclining Chair without Arms. Frame details. (Elevation sketches)",
+        "Year": "1926-46",
+        "ObjectID": "106835",
+        "Work": "https://www.moma.org/collection/works/106835",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNTk5OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5efa881cbdfd2a31",
+        "Details": {
+            "Medium": "Pencil and colored pencil on tracing paper",
+            "Dimensions": "9 1/8 x 21 1/2\" (23.2 x 54.6 cm)",
+            "Credit": "Mies van der Rohe Archive, gift of the architect",
+            "Object number": "1005.1974",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7166"
+    },
+    {
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "Lounge Chairs with Arms (Perspective, elevation sketches)",
+        "Year": "1926-46",
+        "ObjectID": "106844",
+        "Work": "https://www.moma.org/collection/works/106844",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNTIyMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0da4a88801bb1b90",
+        "Details": {
+            "Medium": "Pencil and ink on tracing paper",
+            "Dimensions": "13 3/16 x 19 3/4\" (33.5 x 50.2 cm)",
+            "Credit": "Mies van der Rohe Archive, gift of the architect",
+            "Object number": "1014.1974",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7166"
+    },
+    {
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "Table/ Stool (Perspective and elevation sketches)",
+        "Year": "early 1940s",
+        "ObjectID": "106947",
+        "Work": "https://www.moma.org/collection/works/106947",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNjAwMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=69b419da67e03d3d",
+        "Details": {
+            "Medium": "Pencil on paper",
+            "Dimensions": "6 x 8 1/4\" (15.2 x 20.9 cm)",
+            "Credit": "Mies van der Rohe Archive, gift of the architect",
+            "Object number": "1118.1974",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7166"
+    },
+    {
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "Table/ Stool (Perspective sketches)",
+        "Year": "early 1940s",
+        "ObjectID": "106960",
+        "Work": "https://www.moma.org/collection/works/106960",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNjAwNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=89f79cc1607729c8",
+        "Details": {
+            "Medium": "Pencil on paper",
+            "Dimensions": "6 x 8 1/8\" (15.2 x 20.7 cm)",
+            "Credit": "Mies van der Rohe Archive, gift of the architect",
+            "Object number": "1131.1974",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7166"
+    },
+    {
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "Table (Elevation and perspective sketches)",
+        "Year": "early 1940s",
+        "ObjectID": "106961",
+        "Work": "https://www.moma.org/collection/works/106961",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNjAwNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6df8ec63cccbe4ea",
+        "Details": {
+            "Medium": "Pencil on paper",
+            "Dimensions": "6 x 8 1/8\" (15.2 x 20.7 cm)",
+            "Credit": "Mies van der Rohe Archive, gift of the architect",
+            "Object number": "1132.1974",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7166"
+    },
+    {
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "Table (Perspective and elevation sketches)",
+        "Year": "early 1940s",
+        "ObjectID": "106962",
+        "Work": "https://www.moma.org/collection/works/106962",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNjAwNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f7155b0442239634",
+        "Details": {
+            "Medium": "Pencil on paper",
+            "Dimensions": "6 x 8 1/8\" (15.2 x 20.7 cm)",
+            "Credit": "Mies van der Rohe Archive, gift of the architect",
+            "Object number": "1133.1974",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7166"
+    },
+    {
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "Table (Perspective and elevation sketches)",
+        "Year": "early 1940s",
+        "ObjectID": "106963",
+        "Work": "https://www.moma.org/collection/works/106963",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNjAwNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4e8326b594eaf3bd",
+        "Details": {
+            "Medium": "Pencil on paper",
+            "Dimensions": "6 x 8 1/8\" (15.2 x 20.7 cm)",
+            "Credit": "Mies van der Rohe Archive, gift of the architect",
+            "Object number": "1134.1974",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7166"
+    },
+    {
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "Table. Conchoidal Chair without Arms. (Perspective and elevation sketches)",
+        "Year": "early 1940s",
+        "ObjectID": "106964",
+        "Work": "https://www.moma.org/collection/works/106964",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNjAwOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7ffe519586658441",
+        "Details": {
+            "Medium": "Pencil on paper",
+            "Dimensions": "6 x 8 1/8\" (15.2 x 20.7 cm)",
+            "Credit": "Mies van der Rohe Archive, gift of the architect",
+            "Object number": "1135.1974",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7166"
+    },
+    {
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "Chairs and unidentified floor plan (Plan and elevation sketches)",
+        "Year": "1926-46",
+        "ObjectID": "106967",
+        "Work": "https://www.moma.org/collection/works/106967",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMjA2OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e374c113330bc08d",
+        "Details": {
+            "Medium": "Pencil on paper",
+            "Dimensions": "6 x 8 5/16\" (15.2 x 21.1 cm.).",
+            "Credit": "Mies van der Rohe Archive, gift of the architect",
+            "Object number": "1138.1974",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7166"
+    },
+    {
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "Lounge Chair (Perspective and elevation sketches)",
+        "Year": "1926-46",
+        "ObjectID": "106968",
+        "Work": "https://www.moma.org/collection/works/106968",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNjAwOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a7b0b1d36ed250b9",
+        "Details": {
+            "Medium": "Pencil on paper",
+            "Dimensions": "6 x 8 7/16\" (15.2 x 21.5 cm)",
+            "Credit": "Mies van der Rohe Archive, gift of the architect",
+            "Object number": "1139.1974",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7166"
+    },
+    {
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "Unknown Building (recto). Unknown Building. Chair with arms (verso). (Plan, elevation and perspective sketches)",
+        "Year": "1926-46",
+        "ObjectID": "106969",
+        "Work": "https://www.moma.org/collection/works/106969",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMjA3MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=67f54e6abeafc36c",
+        "Details": {
+            "Medium": "Pencil on paper",
+            "Dimensions": "4 7/16 x 6 15/16\" (11.3 x 17.7 cm)",
+            "Credit": "Mies van der Rohe Archive, gift of the architect",
+            "Object number": "1140.1974",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7166"
+    },
+    {
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "Reclining Chair without Arms (Elevation sketch)",
+        "Year": "1926-46",
+        "ObjectID": "150146",
+        "Work": "https://www.moma.org/collection/works/150146",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMzQ4MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=506f34dc218c62e4",
+        "Details": {
+            "Medium": "Pencil on paper",
+            "Dimensions": "8 3/4 x 12 15/16\" (22.2 x 32.9 cm)",
+            "Credit": "Mies van der Rohe Archive, gift of the architect",
+            "Object number": "478.1974",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7166"
+    },
+    {
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "Reclining Chair without Arms (Elevation sketch with figure)",
+        "Year": "1926-46",
+        "ObjectID": "150147",
+        "Work": "https://www.moma.org/collection/works/150147",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMzQ4MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0d40e3cd38d89106",
+        "Details": {
+            "Medium": "Pencil on paper",
+            "Dimensions": "6 5/16 x 8 1/16\" (16 x 20.5 cm)",
+            "Credit": "Mies van der Rohe Archive, gift of the architect",
+            "Object number": "479.1974",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7166"
+    },
+    {
+        "Artist": "Joan Miro",
+        "Title": "Solar Bird",
+        "Year": "1944-46",
+        "ObjectID": "81263",
+        "Work": "https://www.moma.org/collection/works/81263",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Plaster",
+            "Dimensions": "5 3/8 x 4 1/2 x 8 1/8\" (13.7 x 11.4 x 21.6 cm)",
+            "Credit": "Ruth Vollmer Bequest",
+            "Object number": "270.1983",
+            "Copyright": "\u00a9 2023 Successi\u00f3  Mir\u00f3/Artists Rights Society (ARS), New York/ADAGP, Paris",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/4016"
+    },
+    {
+        "Artist": "Misztrik De Monda",
+        "Title": "Plate (folio 24) from Art abstrait (Abstract Art)",
+        "Year": "1946",
+        "ObjectID": "19616",
+        "Work": "https://www.moma.org/collection/works/19616",
+        "Thumbnail": null,
+        "Details": {
+            "Author": "preface by Charles Estienne, accompanied with excerpt by Guillaume Apollinaire",
+            "Medium": "One from an illustrated book with twelve lithographs",
+            "Dimensions": "composition: 7 \u00d7 9 7/16\" (17.8 \u00d7 24 cm); page (each): 12 13/16 \u00d7 9 5/8\" (32.5 \u00d7 24.4 cm)",
+            "Publisher": "Op\u00e9ra, Paris",
+            "Printer": "Desjobert, Paris",
+            "Edition": "100",
+            "Credit": "Purchase",
+            "Object number": "614.1949.8",
+            "Illustrated book": "Art abstrait (Abstract Art)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4024"
+    },
+    {
+        "Artist": "Laszlo Moholy-Nagy",
         "Title": "Untitled",
-        "Year": "c. 1929-31",
-        "ObjectID": "53014",
-        "Work": "https://www.moma.org/collection/works/53014",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MjYwNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b3c11dfcb2b85545",
-        "Details": {
-            "Medium": "Photogravure",
-            "Dimensions": "8 3/8 \u00d7 6 7/16\" (21.3 \u00d7 16.4 cm)",
-            "Credit": "Gift of Blanchette Hooker Rockefeller",
-            "Object number": "413.1974.72",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/6004"
-    },
-    {
-        "Artist": "Doris Ulmann",
-        "Title": "Untitled",
-        "Year": "c. 1929-31",
-        "ObjectID": "53015",
-        "Work": "https://www.moma.org/collection/works/53015",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MjYwOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=feee992903215a4a",
-        "Details": {
-            "Medium": "Photogravure",
-            "Dimensions": "8 5/16 \u00d7 6 3/8\" (21.1 \u00d7 16.2 cm)",
-            "Credit": "Gift of Blanchette Hooker Rockefeller",
-            "Object number": "413.1974.73",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/6004"
-    },
-    {
-        "Artist": "Doris Ulmann",
-        "Title": "Untitled",
-        "Year": "c. 1929-31",
-        "ObjectID": "53016",
-        "Work": "https://www.moma.org/collection/works/53016",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MjYwOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3caffa00cfd88554",
-        "Details": {
-            "Medium": "Photogravure",
-            "Dimensions": "6 3/8 \u00d7 8 7/16\" (16.3 \u00d7 21.4 cm)",
-            "Credit": "Gift of Blanchette Hooker Rockefeller",
-            "Object number": "413.1974.74",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/6004"
-    },
-    {
-        "Artist": "Doris Ulmann",
-        "Title": "Untitled",
-        "Year": "c. 1929-31",
-        "ObjectID": "53017",
-        "Work": "https://www.moma.org/collection/works/53017",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MjYxMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3ac07f9934818d5b",
-        "Details": {
-            "Medium": "Photogravure",
-            "Dimensions": "8 7/16 \u00d7 6 1/2\" (21.4 \u00d7 16.5 cm)",
-            "Credit": "Gift of Blanchette Hooker Rockefeller",
-            "Object number": "413.1974.75",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/6004"
-    },
-    {
-        "Artist": "Doris Ulmann",
-        "Title": "Untitled",
-        "Year": "c. 1929-31",
-        "ObjectID": "53018",
-        "Work": "https://www.moma.org/collection/works/53018",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MjYxMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=48f86bd3c6cdedcd",
-        "Details": {
-            "Medium": "Photogravure",
-            "Dimensions": "8 3/8 \u00d7 6 3/8\" (21.2 \u00d7 16.1 cm)",
-            "Credit": "Gift of Blanchette Hooker Rockefeller",
-            "Object number": "413.1974.76",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/6004"
-    },
-    {
-        "Artist": "Doris Ulmann",
-        "Title": "Untitled",
-        "Year": "c. 1929-31",
-        "ObjectID": "53019",
-        "Work": "https://www.moma.org/collection/works/53019",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MjYxMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5cd07a811c716514",
-        "Details": {
-            "Medium": "Photogravure",
-            "Dimensions": "8 7/16 \u00d7 6 7/16\" (21.4 \u00d7 16.3 cm)",
-            "Credit": "Gift of Blanchette Hooker Rockefeller",
-            "Object number": "413.1974.77",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/6004"
-    },
-    {
-        "Artist": "Doris Ulmann",
-        "Title": "Untitled",
-        "Year": "c. 1929-31",
-        "ObjectID": "53020",
-        "Work": "https://www.moma.org/collection/works/53020",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MjYxMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7eb2b8beca976367",
-        "Details": {
-            "Medium": "Photogravure",
-            "Dimensions": "8 3/8 \u00d7 6 5/16\" (21.3 \u00d7 16.1 cm)",
-            "Credit": "Gift of Blanchette Hooker Rockefeller",
-            "Object number": "413.1974.78",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/6004"
-    },
-    {
-        "Artist": "Doris Ulmann",
-        "Title": "Untitled",
-        "Year": "c. 1929-31",
-        "ObjectID": "53021",
-        "Work": "https://www.moma.org/collection/works/53021",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MjYxNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=832e758391896c21",
-        "Details": {
-            "Medium": "Photogravure",
-            "Dimensions": "8 3/8 \u00d7 6 7/16\" (21.3 \u00d7 16.4 cm)",
-            "Credit": "Gift of Blanchette Hooker Rockefeller",
-            "Object number": "413.1974.79",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/6004"
-    },
-    {
-        "Artist": "Doris Ulmann",
-        "Title": "Untitled",
-        "Year": "1929-31",
-        "ObjectID": "53022",
-        "Work": "https://www.moma.org/collection/works/53022",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MjYxNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6da6d1ff27818d4e",
-        "Details": {
-            "Medium": "Photogravure",
-            "Dimensions": "8 1/4 \u00d7 6 7/16\" (21.0 \u00d7 16.3 cm)",
-            "Credit": "Gift of Blanchette Hooker Rockefeller",
-            "Object number": "413.1974.8",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/6004"
-    },
-    {
-        "Artist": "Doris Ulmann",
-        "Title": "Untitled",
-        "Year": "1929-31",
-        "ObjectID": "53023",
-        "Work": "https://www.moma.org/collection/works/53023",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MjYxNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=819eac98117f6e8e",
-        "Details": {
-            "Medium": "Photogravure",
-            "Dimensions": "8 3/8 \u00d7 6 3/8\" (21.3 \u00d7 16.3 cm)",
-            "Credit": "Gift of Blanchette Hooker Rockefeller",
-            "Object number": "413.1974.80",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/6004"
-    },
-    {
-        "Artist": "Doris Ulmann",
-        "Title": "Untitled",
-        "Year": "1929-31",
-        "ObjectID": "53024",
-        "Work": "https://www.moma.org/collection/works/53024",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MjYxNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5e5908f8ca8abfcf",
-        "Details": {
-            "Medium": "Photogravure",
-            "Dimensions": "8 3/8 \u00d7 6 7/16\" (21.3 \u00d7 16.4 cm)",
-            "Credit": "Gift of Blanchette Hooker Rockefeller",
-            "Object number": "413.1974.81",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/6004"
-    },
-    {
-        "Artist": "Doris Ulmann",
-        "Title": "Untitled",
-        "Year": "1929-31",
-        "ObjectID": "53025",
-        "Work": "https://www.moma.org/collection/works/53025",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MjYxOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2f728a47e39ec9c8",
-        "Details": {
-            "Medium": "Photogravure",
-            "Dimensions": "8 5/16 \u00d7 6 1/2\" (21.1 \u00d7 16.4 cm)",
-            "Credit": "Gift of Blanchette Hooker Rockefeller",
-            "Object number": "413.1974.82",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/6004"
-    },
-    {
-        "Artist": "Doris Ulmann",
-        "Title": "Untitled",
-        "Year": "1929-31",
-        "ObjectID": "53026",
-        "Work": "https://www.moma.org/collection/works/53026",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MjYxOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=04cea3e498fc36ed",
-        "Details": {
-            "Medium": "Photogravure",
-            "Dimensions": "8 7/16 \u00d7 6 7/16\" (21.5 \u00d7 16.4 cm)",
-            "Credit": "Gift of Blanchette Hooker Rockefeller",
-            "Object number": "413.1974.83",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/6004"
-    },
-    {
-        "Artist": "Doris Ulmann",
-        "Title": "PETERKIN: ROLL, JORDAN, ROLL",
-        "Year": "1929-31",
-        "ObjectID": "53027",
-        "Work": "https://www.moma.org/collection/works/53027",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MjYyMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=33d07b8447f05e37",
-        "Details": {
-            "Medium": "Photogravure",
-            "Dimensions": "8 1/2 \u00d7 6 7/16\" (21.5 \u00d7 16.4 cm)",
-            "Credit": "Gift of Blanchette Hooker Rockefeller",
-            "Object number": "413.1974.84",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/6004"
-    },
-    {
-        "Artist": "Doris Ulmann",
-        "Title": "Untitled",
-        "Year": "1929-31",
-        "ObjectID": "53028",
-        "Work": "https://www.moma.org/collection/works/53028",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MjYyMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ba7679fb3aa9eda8",
-        "Details": {
-            "Medium": "Photogravure",
-            "Dimensions": "6 1/2 \u00d7 8 7/16\" (16.4 \u00d7 21.3 cm)",
-            "Credit": "Gift of Blanchette Hooker Rockefeller",
-            "Object number": "413.1974.85",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/6004"
-    },
-    {
-        "Artist": "Doris Ulmann",
-        "Title": "Untitled",
-        "Year": "1929-31",
-        "ObjectID": "53029",
-        "Work": "https://www.moma.org/collection/works/53029",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MjYyMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a72c6222e6bf1708",
-        "Details": {
-            "Medium": "Photogravure",
-            "Dimensions": "8 9/16 \u00d7 6 7/16\" (21.8 \u00d7 16.4 cm)",
-            "Credit": "Gift of Blanchette Hooker Rockefeller",
-            "Object number": "413.1974.86",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/6004"
-    },
-    {
-        "Artist": "Doris Ulmann",
-        "Title": "Untitled",
-        "Year": "1929-31",
-        "ObjectID": "53030",
-        "Work": "https://www.moma.org/collection/works/53030",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MjYyMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=10247d0c5f589f3e",
-        "Details": {
-            "Medium": "Photogravure",
-            "Dimensions": "8 5/16 \u00d7 6 7/16\" (21.2 \u00d7 16.3 cm)",
-            "Credit": "Gift of Blanchette Hooker Rockefeller",
-            "Object number": "413.1974.87",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/6004"
-    },
-    {
-        "Artist": "Doris Ulmann",
-        "Title": "Untitled",
-        "Year": "1929-31",
-        "ObjectID": "53031",
-        "Work": "https://www.moma.org/collection/works/53031",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MjYyNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6a5b7f95a1984542",
-        "Details": {
-            "Medium": "Photogravure",
-            "Dimensions": "8 7/16 \u00d7 6 1/2\" (21.4 \u00d7 16.5 cm)",
-            "Credit": "Gift of Blanchette Hooker Rockefeller",
-            "Object number": "413.1974.88",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/6004"
-    },
-    {
-        "Artist": "Doris Ulmann",
-        "Title": "Untitled",
-        "Year": "1929-31",
-        "ObjectID": "53032",
-        "Work": "https://www.moma.org/collection/works/53032",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MjYyNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2d56ee8681ee8c88",
-        "Details": {
-            "Medium": "Photogravure",
-            "Dimensions": "8 3/8 \u00d7 6 7/16\" (21.3 \u00d7 16.4 cm)",
-            "Credit": "Gift of Blanchette Hooker Rockefeller",
-            "Object number": "413.1974.89",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/6004"
-    },
-    {
-        "Artist": "Doris Ulmann",
-        "Title": "Untitled",
-        "Year": "1929-31",
-        "ObjectID": "53033",
-        "Work": "https://www.moma.org/collection/works/53033",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MjYyNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f16771e921d35026",
-        "Details": {
-            "Medium": "Photogravure",
-            "Dimensions": "8 5/16 \u00d7 6 7/16\" (21.2 \u00d7 16.3 cm)",
-            "Credit": "Gift of Blanchette Hooker Rockefeller",
-            "Object number": "413.1974.9",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/6004"
-    },
-    {
-        "Artist": "Doris Ulmann",
-        "Title": "Untitled",
-        "Year": "1929-31",
-        "ObjectID": "53034",
-        "Work": "https://www.moma.org/collection/works/53034",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MjYyNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9c87348b6d83c185",
-        "Details": {
-            "Medium": "Photogravure",
-            "Dimensions": "8 3/8 \u00d7 6 1/2\" (21.3 \u00d7 16.5 cm)",
-            "Credit": "Gift of Blanchette Hooker Rockefeller",
-            "Object number": "413.1974.90",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/6004"
-    },
-    {
-        "Artist": "Umbo (Otto Umbehr)",
-        "Title": "Stairs II",
-        "Year": "1929-31",
-        "ObjectID": "84076",
-        "Work": "https://www.moma.org/collection/works/84076",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDUwMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5b7db29b5135596e",
+        "Year": "n.d.",
+        "ObjectID": "44834",
+        "Work": "https://www.moma.org/collection/works/44834",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1MjkyMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cc7a0935c3e619f2",
         "Details": {
             "Medium": "Gelatin silver print",
-            "Dimensions": "9 7/16 \u00d7 6 7/8\" (24 \u00d7 17.4 cm)",
-            "Credit": "Thomas Walther Collection. Gift of Thomas Walther",
-            "Object number": "1891.2001",
-            "Copyright": "\u00a9 2023 Umbo / Gallery Kicken Berlin / Phyllis Umbehr / VG Bild-Kunst, Bonn",
+            "Dimensions": "9 3/4 \u00d7 7 3/8\" (24.8 \u00d7 18.7 cm)",
+            "Credit": "Gift of Sean Sweeney",
+            "Object number": "49.1989",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
             "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/6006"
+        "Profile": "https://www.moma.org/artists/4048"
     },
     {
-        "Artist": "Unidentified Artist",
-        "Title": "Fighting Lazy Workers (bom po lzheyeudarnikam)",
-        "Year": "1931",
-        "ObjectID": "6146",
-        "Work": "https://www.moma.org/collection/works/6146",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNzQ5MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=02b945064cd6fea0",
+        "Artist": "Laszlo Moholy-Nagy",
+        "Title": "Double Loop",
+        "Year": "1946",
+        "ObjectID": "81115",
+        "Work": "https://www.moma.org/collection/works/81115",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMDY0OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3381bdcea9fe07bc",
+        "Details": {
+            "Medium": "Plexiglass",
+            "Dimensions": "16 1/4 x 22 1/4 x 17 1/2\" (41.1 x 56.5 x 44.5 cm)",
+            "Credit": "Purchase",
+            "Object number": "195.1956",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York/VG Bild-Kunst, Bonn",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/4048"
+    },
+    {
+        "Artist": "Juan Alberto Molenberg",
+        "Title": "Composition",
+        "Year": "1946",
+        "ObjectID": "205966",
+        "Work": "https://www.moma.org/collection/works/205966",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ3OTI3MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b64d95ee3719f80e",
+        "Details": {
+            "Medium": "Oil on wood over glass",
+            "Dimensions": "39 3/16 \u00d7 27 9/16 \u00d7 1 3/16\" (99.5 \u00d7 70 \u00d7 3 cm)",
+            "Credit": "Gift of Patricia Phelps de Cisneros through the Latin American and Caribbean Fund in honor of Eva Luisa Griffin-Cisneros",
+            "Object number": "838.2016",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/50019"
+    },
+    {
+        "Artist": "Dmitrii Moor",
+        "Title": "Workers of the World, Unite!",
+        "Year": "c.1941",
+        "ObjectID": "6162",
+        "Work": "https://www.moma.org/collection/works/6162",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwODcyNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=41b4d70911efcb52",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "27 3/8 x 40 7/8\" (69.5 x 103.8 cm)",
-            "Publisher": "OGIZ-IZOGIZ (Association of State Book and Magazine Publishing Houses-State Publishing House of the Fine Arts), Moscow and Leningrad",
+            "Dimensions": "41 x 56 3/8\" (104.1 x 143.2 cm)",
             "Credit": "Gift of Miss Jessie Rosenfeld",
-            "Object number": "300.1943",
+            "Object number": "304.1943",
             "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/23390"
+        "Profile": "https://www.moma.org/artists/24165"
     },
     {
-        "Artist": "Unidentified Artist",
-        "Title": "By Building Socialism We Shall Give the Decisive Blow to Religion",
-        "Year": "1931",
-        "ObjectID": "6194",
-        "Work": "https://www.moma.org/collection/works/6194",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNzUwMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=146dca79702a77d2",
+        "Artist": "Henry Moore",
+        "Title": "Three-Way Piece Number 2: Archer",
+        "Year": "1946",
+        "ObjectID": "81733",
+        "Work": "https://www.moma.org/collection/works/81733",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Bronze",
+            "Dimensions": "35 x 31 x 19\" (89 x 79 x 48.3 cm) including base",
+            "Credit": "Nina and Gordon Bunshaft Bequest",
+            "Object number": "647.1994",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/4071"
+    },
+    {
+        "Artist": "G. R. Morris",
+        "Title": "Scrap",
+        "Year": "c.1941",
+        "ObjectID": "5693",
+        "Work": "https://www.moma.org/collection/works/5693",
+        "Thumbnail": null,
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "41 1/4 x 28\" (105 x 71 cm)",
-            "Credit": "Gift of Miss Jessie Rosenfeld",
-            "Object number": "312.1943",
+            "Dimensions": "29 3/4 x 19 7/8\" (75.6 x 50.5 cm)",
+            "Producer": "Royal Society for the Prevention of Accidents",
+            "Printer": "Loxley Bros. Ltd., London",
+            "Credit": "Gift of Mrs. John Carter",
+            "Object number": "210.1943",
             "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/23390"
+        "Profile": "https://www.moma.org/artists/4104"
     },
     {
-        "Artist": "Unidentified Artist",
-        "Title": "Farp-Patent-Index",
-        "Year": "c. 1926",
-        "ObjectID": "7793",
-        "Work": "https://www.moma.org/collection/works/7793",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDc1OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7a298d2b7a619938",
+        "Artist": "Elie Nadelman",
+        "Title": "Two Figures",
+        "Year": "n.d.",
+        "ObjectID": "35766",
+        "Work": "https://www.moma.org/collection/works/35766",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNTgxMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=29664772645793f0",
         "Details": {
-            "Medium": "Letterpress",
-            "Dimensions": "11 11/16 x 8 5/16\" (29.7 x 21.1 cm)",
-            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
-            "Object number": "626.1999",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/23390"
-    },
-    {
-        "Artist": "Unidentified Artist",
-        "Title": "Willy Guhl Zurich Sihlkeramik",
-        "Year": "1931",
-        "ObjectID": "8579",
-        "Work": "https://www.moma.org/collection/works/8579",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyOTk4MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cf532ecbc5243d31",
-        "Details": {
-            "Medium": "Letterpress",
-            "Dimensions": "3 15/16 x 5 13/16\" (10 x 14.8 cm)",
-            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
-            "Object number": "1104.1999",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/23390"
-    },
-    {
-        "Artist": "Unidentified Artist",
-        "Title": "Neuerscheinungen",
-        "Year": "1931",
-        "ObjectID": "8587",
-        "Work": "https://www.moma.org/collection/works/8587",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyOTk5MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ea4903fc68aed817",
-        "Details": {
-            "Medium": "Letterpress",
-            "Dimensions": "10 9/16 x 7 3/8\" (26.8 x 18.7 cm)",
-            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
-            "Object number": "1112.1999",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/23390"
-    },
-    {
-        "Artist": "Unidentified Artist",
-        "Title": "Oktyabr",
-        "Year": "February 1931",
-        "ObjectID": "8642",
-        "Work": "https://www.moma.org/collection/works/8642",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDA0OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=353a86a89255b7dd",
-        "Details": {
-            "Medium": "Letterpress",
-            "Dimensions": "10 3/8 x 7 5/16\" (26.4 x 18.6 cm)",
-            "Publisher": "IZOGIZ (State Publishing House of the Fine Arts)",
-            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
-            "Object number": "1163.1999",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/23390"
-    },
-    {
-        "Artist": "Unidentified Artist",
-        "Title": "USSR periodica 1931",
-        "Year": "1931",
-        "ObjectID": "8643",
-        "Work": "https://www.moma.org/collection/works/8643",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDA0OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=55670629033b4fa1",
-        "Details": {
-            "Medium": "Letterpress",
-            "Dimensions": "5 3/4 \u00d7 9 \u00d7 3/8\" (14.6 \u00d7 22.9 \u00d7 1 cm)",
-            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
-            "Object number": "1164.1999",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/23390"
-    },
-    {
-        "Artist": "Unidentified Artist",
-        "Title": "Za rubezhom 2-3",
-        "Year": "1931",
-        "ObjectID": "8649",
-        "Work": "https://www.moma.org/collection/works/8649",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDA1NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=15ac05f2977756e1",
-        "Details": {
-            "Medium": "Letterpress",
-            "Dimensions": "10 \u00d7 7 1/16 \u00d7 1/4\" (25.4 \u00d7 17.9 \u00d7 0.6 cm)",
-            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
-            "Object number": "1170.1999",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/23390"
-    },
-    {
-        "Artist": "Unidentified Artist",
-        "Title": "1 maya",
-        "Year": "1931",
-        "ObjectID": "8650",
-        "Work": "https://www.moma.org/collection/works/8650",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDA1NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=38a0266d54f88125",
-        "Details": {
-            "Medium": "Letterpress",
-            "Dimensions": "20 9/16 x 14 9/16\" (52.2 x 36.9 cm)",
-            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
-            "Object number": "1171.1999",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/23390"
-    },
-    {
-        "Artist": "Unidentified Artists",
-        "Title": "Dognat' i peregnat' v tekhniko-ekonomicheskom otnoshenii peredovye kapitalisticheskie strany v 10 let. 70 kartinnye diagrammna otkrytkakh (To Catch up with and Surpass the Leading Capitalist Countries in Technical and Economic Affairs in 10 Years. 70 Pictorial Diagrams on Postcards)",
-        "Year": "1931",
-        "ObjectID": "16997",
-        "Work": "https://www.moma.org/collection/works/16997",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NTM5MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2db7f3d1fecf7dac",
-        "Details": {
-            "Medium": "Portfolio of 70 postcards and one booklet, letterpress printed",
-            "Dimensions": "sheet (each): 5 7/8 x 4 1/8\" (15 x 10.5 cm)",
-            "Publisher": "Izobrazitel'noe iskusstvo, Moscow-Leningrad",
-            "Edition": "25,000",
-            "Credit": "Gift of The Judith Rothschild Foundation",
-            "Object number": "424.2001.1-71",
-            "Type": "Portfolio",
+            "Medium": "Ink and pencil on paper",
+            "Dimensions": "14 5/8 x 12 3/8\" (37.2 x 31.4 cm)",
+            "Credit": "Mrs. Cornelius J. Sullivan Fund",
+            "Object number": "266.1948",
+            "Copyright": "\u00a9 Estate of Elie Nadelman",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/23308"
+        "Profile": "https://www.moma.org/artists/4197"
     },
     {
-        "Artist": "Unidentified Artists",
-        "Title": "Dognat' i peregnat' v tekhniko-ekonomicheskom otnoshenii peredovye kapitalisticheskie strany v 10 let. 70 kartinnye diagrammna otkrytkakh (To Catch up with and Surpass the Leading Capitalist Countries in Technical and Economic Affairs in 10 Years. 70 Pictorial Diagrams on Postcards)",
-        "Year": "1931",
-        "ObjectID": "164365",
-        "Work": "https://www.moma.org/collection/works/164365",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NTQwMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f73456ea16dc9800",
+        "Artist": "Iwata Nakayama",
+        "Title": "Apple",
+        "Year": "1946",
+        "ObjectID": "53539",
+        "Work": "https://www.moma.org/collection/works/53539",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNDA2NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0343317727cf75dc",
         "Details": {
-            "Medium": "Postcard from a portfolio of 70 postcards and one booklet, letterpress printed",
-            "Dimensions": "sheet: 5 7/8 x 4 1/8\" (15 x 10.5 cm)",
-            "Publisher": "Izobrazitel'noe iskusstvo, Moscow-Leningrad",
-            "Edition": "25,000",
-            "Credit": "Gift of The Judith Rothschild Foundation",
-            "Object number": "424.2001.2",
-            "Portfolio": "Dognat' i peregnat' v tekhniko-ekonomicheskom otnoshenii peredovye kapitalisticheskie strany v 10 let. 70 kartinnye diagrammna otkrytkakh (To Catch up with and Surpass the Leading Capitalist Countries in Technical and Economic Affairs in 10 Years. 70 Pictorial Diagrams on Postcards)",
-            "Department": "Drawings and Prints"
+            "Medium": "Gelatin silver print",
+            "Dimensions": "13 15/16 \u00d7 10 15/16\" (35.4 \u00d7 27.8 cm)",
+            "Credit": "Gift of Nihon Keizai Shimbun",
+            "Object number": "451.1959",
+            "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/23308"
-    },
-    {
-        "Artist": "Unidentified Artists",
-        "Title": "Dognat' i peregnat' v tekhniko-ekonomicheskom otnoshenii peredovye kapitalisticheskie strany v 10 let. 70 kartinnye diagrammna otkrytkakh (To Catch up with and Surpass the Leading Capitalist Countries in Technical and Economic Affairs in 10 Years. 70 Pictorial Diagrams on Postcards)",
-        "Year": "1931",
-        "ObjectID": "164366",
-        "Work": "https://www.moma.org/collection/works/164366",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NTQwNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=df3c104b0ce1cfc2",
-        "Details": {
-            "Medium": "Postcard from a portfolio of 70 postcards and one booklet, letterpress printed",
-            "Dimensions": "sheet: 5 7/8 x 4 1/8\" (15 x 10.5 cm)",
-            "Publisher": "Izobrazitel'noe iskusstvo, Moscow-Leningrad",
-            "Edition": "25,000",
-            "Credit": "Gift of The Judith Rothschild Foundation",
-            "Object number": "424.2001.3",
-            "Portfolio": "Dognat' i peregnat' v tekhniko-ekonomicheskom otnoshenii peredovye kapitalisticheskie strany v 10 let. 70 kartinnye diagrammna otkrytkakh (To Catch up with and Surpass the Leading Capitalist Countries in Technical and Economic Affairs in 10 Years. 70 Pictorial Diagrams on Postcards)",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/23308"
-    },
-    {
-        "Artist": "Unidentified Artists",
-        "Title": "Dognat' i peregnat' v tekhniko-ekonomicheskom otnoshenii peredovye kapitalisticheskie strany v 10 let. 70 kartinnye diagrammna otkrytkakh (To Catch up with and Surpass the Leading Capitalist Countries in Technical and Economic Affairs in 10 Years. 70 Pictorial Diagrams on Postcards)",
-        "Year": "1931",
-        "ObjectID": "164367",
-        "Work": "https://www.moma.org/collection/works/164367",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NTQwNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=87e8cfdff3c6704e",
-        "Details": {
-            "Medium": "Postcard from a portfolio of 70 postcards and one booklet, letterpress printed",
-            "Dimensions": "sheet: 5 7/8 x 4 1/8\" (15 x 10.5 cm)",
-            "Publisher": "Izobrazitel'noe iskusstvo, Moscow-Leningrad",
-            "Edition": "25,000",
-            "Credit": "Gift of The Judith Rothschild Foundation",
-            "Object number": "424.2001.4",
-            "Portfolio": "Dognat' i peregnat' v tekhniko-ekonomicheskom otnoshenii peredovye kapitalisticheskie strany v 10 let. 70 kartinnye diagrammna otkrytkakh (To Catch up with and Surpass the Leading Capitalist Countries in Technical and Economic Affairs in 10 Years. 70 Pictorial Diagrams on Postcards)",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/23308"
-    },
-    {
-        "Artist": "Unidentified Artists",
-        "Title": "Dognat' i peregnat' v tekhniko-ekonomicheskom otnoshenii peredovye kapitalisticheskie strany v 10 let. 70 kartinnye diagrammna otkrytkakh (To Catch up with and Surpass the Leading Capitalist Countries in Technical and Economic Affairs in 10 Years. 70 Pictorial Diagrams on Postcards)",
-        "Year": "1931",
-        "ObjectID": "164368",
-        "Work": "https://www.moma.org/collection/works/164368",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NTQwNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4371085ea2d037ee",
-        "Details": {
-            "Medium": "Postcard from a portfolio of 70 postcards and one booklet, letterpress printed",
-            "Dimensions": "sheet: 5 7/8 x 4 1/8\" (15 x 10.5 cm)",
-            "Publisher": "Izobrazitel'noe iskusstvo, Moscow-Leningrad",
-            "Edition": "25,000",
-            "Credit": "Gift of The Judith Rothschild Foundation",
-            "Object number": "424.2001.5",
-            "Portfolio": "Dognat' i peregnat' v tekhniko-ekonomicheskom otnoshenii peredovye kapitalisticheskie strany v 10 let. 70 kartinnye diagrammna otkrytkakh (To Catch up with and Surpass the Leading Capitalist Countries in Technical and Economic Affairs in 10 Years. 70 Pictorial Diagrams on Postcards)",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/23308"
-    },
-    {
-        "Artist": "Unidentified Artists",
-        "Title": "Dognat' i peregnat' v tekhniko-ekonomicheskom otnoshenii peredovye kapitalisticheskie strany v 10 let. 70 kartinnye diagrammna otkrytkakh (To Catch up with and Surpass the Leading Capitalist Countries in Technical and Economic Affairs in 10 Years. 70 Pictorial Diagrams on Postcards)",
-        "Year": "1931",
-        "ObjectID": "164369",
-        "Work": "https://www.moma.org/collection/works/164369",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NTQwNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d65424bafa0490bf",
-        "Details": {
-            "Medium": "Postcard from a portfolio of 70 postcards and one booklet, letterpress printed",
-            "Dimensions": "sheet: 5 7/8 x 4 1/8\" (15 x 10.5 cm)",
-            "Publisher": "Izobrazitel'noe iskusstvo, Moscow-Leningrad",
-            "Edition": "25,000",
-            "Credit": "Gift of The Judith Rothschild Foundation",
-            "Object number": "424.2001.6",
-            "Portfolio": "Dognat' i peregnat' v tekhniko-ekonomicheskom otnoshenii peredovye kapitalisticheskie strany v 10 let. 70 kartinnye diagrammna otkrytkakh (To Catch up with and Surpass the Leading Capitalist Countries in Technical and Economic Affairs in 10 Years. 70 Pictorial Diagrams on Postcards)",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/23308"
-    },
-    {
-        "Artist": "Unidentified Artists",
-        "Title": "Dognat' i peregnat' v tekhniko-ekonomicheskom otnoshenii peredovye kapitalisticheskie strany v 10 let. 70 kartinnye diagrammna otkrytkakh (To Catch up with and Surpass the Leading Capitalist Countries in Technical and Economic Affairs in 10 Years. 70 Pictorial Diagrams on Postcards)",
-        "Year": "1931",
-        "ObjectID": "164370",
-        "Work": "https://www.moma.org/collection/works/164370",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NTQwOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e5bd8a7e7d409f5e",
-        "Details": {
-            "Medium": "Postcard from a portfolio of 70 postcards and one booklet, letterpress printed",
-            "Dimensions": "sheet: 5 7/8 x 4 1/8\" (15 x 10.5 cm)",
-            "Publisher": "Izobrazitel'noe iskusstvo, Moscow-Leningrad",
-            "Edition": "25,000",
-            "Credit": "Gift of The Judith Rothschild Foundation",
-            "Object number": "424.2001.7",
-            "Portfolio": "Dognat' i peregnat' v tekhniko-ekonomicheskom otnoshenii peredovye kapitalisticheskie strany v 10 let. 70 kartinnye diagrammna otkrytkakh (To Catch up with and Surpass the Leading Capitalist Countries in Technical and Economic Affairs in 10 Years. 70 Pictorial Diagrams on Postcards)",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/23308"
-    },
-    {
-        "Artist": "Unidentified Artists",
-        "Title": "Dognat' i peregnat' v tekhniko-ekonomicheskom otnoshenii peredovye kapitalisticheskie strany v 10 let. 70 kartinnye diagrammna otkrytkakh (To Catch up with and Surpass the Leading Capitalist Countries in Technical and Economic Affairs in 10 Years. 70 Pictorial Diagrams on Postcards)",
-        "Year": "1931",
-        "ObjectID": "164371",
-        "Work": "https://www.moma.org/collection/works/164371",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NTQwOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6c21983afa8f03a9",
-        "Details": {
-            "Medium": "Postcard from a portfolio of 70 postcards and one booklet, letterpress printed",
-            "Dimensions": "sheet: 5 7/8 x 4 1/8\" (15 x 10.5 cm)",
-            "Publisher": "Izobrazitel'noe iskusstvo, Moscow-Leningrad",
-            "Edition": "25,000",
-            "Credit": "Gift of The Judith Rothschild Foundation",
-            "Object number": "424.2001.8",
-            "Portfolio": "Dognat' i peregnat' v tekhniko-ekonomicheskom otnoshenii peredovye kapitalisticheskie strany v 10 let. 70 kartinnye diagrammna otkrytkakh (To Catch up with and Surpass the Leading Capitalist Countries in Technical and Economic Affairs in 10 Years. 70 Pictorial Diagrams on Postcards)",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/23308"
-    },
-    {
-        "Artist": "Unidentified Artists",
-        "Title": "Dognat' i peregnat' v tekhniko-ekonomicheskom otnoshenii peredovye kapitalisticheskie strany v 10 let. 70 kartinnye diagrammna otkrytkakh (To Catch up with and Surpass the Leading Capitalist Countries in Technical and Economic Affairs in 10 Years. 70 Pictorial Diagrams on Postcards)",
-        "Year": "1931",
-        "ObjectID": "164372",
-        "Work": "https://www.moma.org/collection/works/164372",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NTQxMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4ddc7235de4a5f18",
-        "Details": {
-            "Medium": "Postcard from a portfolio of 70 postcards and one booklet, letterpress printed",
-            "Dimensions": "sheet: 5 7/8 x 4 1/8\" (15 x 10.5 cm)",
-            "Publisher": "Izobrazitel'noe iskusstvo, Moscow-Leningrad",
-            "Edition": "25,000",
-            "Credit": "Gift of The Judith Rothschild Foundation",
-            "Object number": "424.2001.9",
-            "Portfolio": "Dognat' i peregnat' v tekhniko-ekonomicheskom otnoshenii peredovye kapitalisticheskie strany v 10 let. 70 kartinnye diagrammna otkrytkakh (To Catch up with and Surpass the Leading Capitalist Countries in Technical and Economic Affairs in 10 Years. 70 Pictorial Diagrams on Postcards)",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/23308"
-    },
-    {
-        "Artist": "Unidentified Artists",
-        "Title": "Dognat' i peregnat' v tekhniko-ekonomicheskom otnoshenii peredovye kapitalisticheskie strany v 10 let. 70 kartinnye diagrammna otkrytkakh (To Catch up with and Surpass the Leading Capitalist Countries in Technical and Economic Affairs in 10 Years. 70 Pictorial Diagrams on Postcards)",
-        "Year": "1931",
-        "ObjectID": "164373",
-        "Work": "https://www.moma.org/collection/works/164373",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NTM5NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9d8cb84a56b3e324",
-        "Details": {
-            "Medium": "Postcard from a portfolio of 70 postcards and one booklet, letterpress printed",
-            "Dimensions": "sheet: 5 7/8 x 4 1/8\" (15 x 10.5 cm)",
-            "Publisher": "Izobrazitel'noe iskusstvo, Moscow-Leningrad",
-            "Edition": "25,000",
-            "Credit": "Gift of The Judith Rothschild Foundation",
-            "Object number": "424.2001.10",
-            "Portfolio": "Dognat' i peregnat' v tekhniko-ekonomicheskom otnoshenii peredovye kapitalisticheskie strany v 10 let. 70 kartinnye diagrammna otkrytkakh (To Catch up with and Surpass the Leading Capitalist Countries in Technical and Economic Affairs in 10 Years. 70 Pictorial Diagrams on Postcards)",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/23308"
-    },
-    {
-        "Artist": "Unidentified Artists",
-        "Title": "Dognat' i peregnat' v tekhniko-ekonomicheskom otnoshenii peredovye kapitalisticheskie strany v 10 let. 70 kartinnye diagrammna otkrytkakh (To Catch up with and Surpass the Leading Capitalist Countries in Technical and Economic Affairs in 10 Years. 70 Pictorial Diagrams on Postcards)",
-        "Year": "1931",
-        "ObjectID": "164374",
-        "Work": "https://www.moma.org/collection/works/164374",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NTM5NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d74993d5cc65f97d",
-        "Details": {
-            "Medium": "Postcard from a portfolio of 70 postcards and one booklet, letterpress printed",
-            "Dimensions": "sheet: 5 7/8 x 4 1/8\" (15 x 10.5 cm)",
-            "Publisher": "Izobrazitel'noe iskusstvo, Moscow-Leningrad",
-            "Edition": "25,000",
-            "Credit": "Gift of The Judith Rothschild Foundation",
-            "Object number": "424.2001.11",
-            "Portfolio": "Dognat' i peregnat' v tekhniko-ekonomicheskom otnoshenii peredovye kapitalisticheskie strany v 10 let. 70 kartinnye diagrammna otkrytkakh (To Catch up with and Surpass the Leading Capitalist Countries in Technical and Economic Affairs in 10 Years. 70 Pictorial Diagrams on Postcards)",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/23308"
-    },
-    {
-        "Artist": "Unidentified Artists",
-        "Title": "Dognat' i peregnat' v tekhniko-ekonomicheskom otnoshenii peredovye kapitalisticheskie strany v 10 let. 70 kartinnye diagrammna otkrytkakh (To Catch up with and Surpass the Leading Capitalist Countries in Technical and Economic Affairs in 10 Years. 70 Pictorial Diagrams on Postcards)",
-        "Year": "1931",
-        "ObjectID": "164375",
-        "Work": "https://www.moma.org/collection/works/164375",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NTM5NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9e9efb5dae568fbb",
-        "Details": {
-            "Medium": "Postcard from a portfolio of 70 postcards and one booklet, letterpress printed",
-            "Dimensions": "sheet: 5 7/8 x 4 1/8\" (15 x 10.5 cm)",
-            "Publisher": "Izobrazitel'noe iskusstvo, Moscow-Leningrad",
-            "Edition": "25,000",
-            "Credit": "Gift of The Judith Rothschild Foundation",
-            "Object number": "424.2001.12",
-            "Portfolio": "Dognat' i peregnat' v tekhniko-ekonomicheskom otnoshenii peredovye kapitalisticheskie strany v 10 let. 70 kartinnye diagrammna otkrytkakh (To Catch up with and Surpass the Leading Capitalist Countries in Technical and Economic Affairs in 10 Years. 70 Pictorial Diagrams on Postcards)",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/23308"
-    },
-    {
-        "Artist": "Unidentified Artists",
-        "Title": "Dognat' i peregnat' v tekhniko-ekonomicheskom otnoshenii peredovye kapitalisticheskie strany v 10 let. 70 kartinnye diagrammna otkrytkakh (To Catch up with and Surpass the Leading Capitalist Countries in Technical and Economic Affairs in 10 Years. 70 Pictorial Diagrams on Postcards)",
-        "Year": "1931",
-        "ObjectID": "164376",
-        "Work": "https://www.moma.org/collection/works/164376",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NTM5NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a4d33d67e90ba1d3",
-        "Details": {
-            "Medium": "Postcard from a portfolio of 70 postcards and one booklet, letterpress printed",
-            "Dimensions": "sheet: 5 7/8 x 4 1/8\" (15 x 10.5 cm)",
-            "Publisher": "Izobrazitel'noe iskusstvo, Moscow-Leningrad",
-            "Edition": "25,000",
-            "Credit": "Gift of The Judith Rothschild Foundation",
-            "Object number": "424.2001.13",
-            "Portfolio": "Dognat' i peregnat' v tekhniko-ekonomicheskom otnoshenii peredovye kapitalisticheskie strany v 10 let. 70 kartinnye diagrammna otkrytkakh (To Catch up with and Surpass the Leading Capitalist Countries in Technical and Economic Affairs in 10 Years. 70 Pictorial Diagrams on Postcards)",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/23308"
-    },
-    {
-        "Artist": "Unidentified Artists",
-        "Title": "Dognat' i peregnat' v tekhniko-ekonomicheskom otnoshenii peredovye kapitalisticheskie strany v 10 let. 70 kartinnye diagrammna otkrytkakh (To Catch up with and Surpass the Leading Capitalist Countries in Technical and Economic Affairs in 10 Years. 70 Pictorial Diagrams on Postcards)",
-        "Year": "1931",
-        "ObjectID": "164377",
-        "Work": "https://www.moma.org/collection/works/164377",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NTM5OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b4033adcdcf0a7a7",
-        "Details": {
-            "Medium": "Postcard from a portfolio of 70 postcards and one booklet, letterpress printed",
-            "Dimensions": "sheet: 5 7/8 x 4 1/8\" (15 x 10.5 cm)",
-            "Publisher": "Izobrazitel'noe iskusstvo, Moscow-Leningrad",
-            "Edition": "25,000",
-            "Credit": "Gift of The Judith Rothschild Foundation",
-            "Object number": "424.2001.14",
-            "Portfolio": "Dognat' i peregnat' v tekhniko-ekonomicheskom otnoshenii peredovye kapitalisticheskie strany v 10 let. 70 kartinnye diagrammna otkrytkakh (To Catch up with and Surpass the Leading Capitalist Countries in Technical and Economic Affairs in 10 Years. 70 Pictorial Diagrams on Postcards)",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/23308"
-    },
-    {
-        "Artist": "Unidentified Artists",
-        "Title": "Dognat' i peregnat' v tekhniko-ekonomicheskom otnoshenii peredovye kapitalisticheskie strany v 10 let. 70 kartinnye diagrammna otkrytkakh (To Catch up with and Surpass the Leading Capitalist Countries in Technical and Economic Affairs in 10 Years. 70 Pictorial Diagrams on Postcards)",
-        "Year": "1931",
-        "ObjectID": "164378",
-        "Work": "https://www.moma.org/collection/works/164378",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NTM5OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e34157fd0289cb8a",
-        "Details": {
-            "Medium": "Postcard from a portfolio of 70 postcards and one booklet, letterpress printed",
-            "Dimensions": "sheet: 5 7/8 x 4 1/8\" (15 x 10.5 cm)",
-            "Publisher": "Izobrazitel'noe iskusstvo, Moscow-Leningrad",
-            "Edition": "25,000",
-            "Credit": "Gift of The Judith Rothschild Foundation",
-            "Object number": "424.2001.15",
-            "Portfolio": "Dognat' i peregnat' v tekhniko-ekonomicheskom otnoshenii peredovye kapitalisticheskie strany v 10 let. 70 kartinnye diagrammna otkrytkakh (To Catch up with and Surpass the Leading Capitalist Countries in Technical and Economic Affairs in 10 Years. 70 Pictorial Diagrams on Postcards)",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/23308"
-    },
-    {
-        "Artist": "Unidentified Artists",
-        "Title": "Dognat' i peregnat' v tekhniko-ekonomicheskom otnoshenii peredovye kapitalisticheskie strany v 10 let. 70 kartinnye diagrammna otkrytkakh (To Catch up with and Surpass the Leading Capitalist Countries in Technical and Economic Affairs in 10 Years. 70 Pictorial Diagrams on Postcards)",
-        "Year": "1931",
-        "ObjectID": "164379",
-        "Work": "https://www.moma.org/collection/works/164379",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NTQwMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=95ed6e89772615fc",
-        "Details": {
-            "Medium": "Postcard from a portfolio of 70 postcards and one booklet, letterpress printed",
-            "Dimensions": "sheet: 5 7/8 x 4 1/8\" (15 x 10.5 cm)",
-            "Publisher": "Izobrazitel'noe iskusstvo, Moscow-Leningrad",
-            "Edition": "25,000",
-            "Credit": "Gift of The Judith Rothschild Foundation",
-            "Object number": "424.2001.16",
-            "Portfolio": "Dognat' i peregnat' v tekhniko-ekonomicheskom otnoshenii peredovye kapitalisticheskie strany v 10 let. 70 kartinnye diagrammna otkrytkakh (To Catch up with and Surpass the Leading Capitalist Countries in Technical and Economic Affairs in 10 Years. 70 Pictorial Diagrams on Postcards)",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/23308"
-    },
-    {
-        "Artist": "Unidentified Artists",
-        "Title": "Dognat' i peregnat' v tekhniko-ekonomicheskom otnoshenii peredovye kapitalisticheskie strany v 10 let. 70 kartinnye diagrammna otkrytkakh (To Catch up with and Surpass the Leading Capitalist Countries in Technical and Economic Affairs in 10 Years. 70 Pictorial Diagrams on Postcards)",
-        "Year": "1931",
-        "ObjectID": "164380",
-        "Work": "https://www.moma.org/collection/works/164380",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NTQwMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f363926ffedb3ca5",
-        "Details": {
-            "Medium": "Postcard from a portfolio of 70 postcards and one booklet, letterpress printed",
-            "Dimensions": "sheet: 5 7/8 x 4 1/8\" (15 x 10.5 cm)",
-            "Publisher": "Izobrazitel'noe iskusstvo, Moscow-Leningrad",
-            "Edition": "25,000",
-            "Credit": "Gift of The Judith Rothschild Foundation",
-            "Object number": "424.2001.17",
-            "Portfolio": "Dognat' i peregnat' v tekhniko-ekonomicheskom otnoshenii peredovye kapitalisticheskie strany v 10 let. 70 kartinnye diagrammna otkrytkakh (To Catch up with and Surpass the Leading Capitalist Countries in Technical and Economic Affairs in 10 Years. 70 Pictorial Diagrams on Postcards)",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/23308"
+        "Profile": "https://www.moma.org/artists/4216"
     }
 ]

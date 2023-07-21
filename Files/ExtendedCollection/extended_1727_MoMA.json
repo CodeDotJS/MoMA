@@ -1,770 +1,837 @@
 [
     {
-        "Artist": "Eugene Atget",
-        "Title": "Abbeville",
-        "Year": "Before 1900",
-        "ObjectID": "39627",
-        "Work": "https://www.moma.org/collection/works/39627",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMyMTE0MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=986296aef760ff26",
+        "Artist": "Batiste Madalena",
+        "Title": "The Pony Express",
+        "Year": "1925",
+        "ObjectID": "118992",
+        "Work": "https://www.moma.org/collection/works/118992",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzNTI0OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a331f84238f5c3f0",
         "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "Approx. 8 11/16 \u00d7 7 1/16\" (22 \u00d7 18 cm)",
-            "Credit": "Abbott-Levy Collection. Partial gift of Shirley C. Burden",
-            "Object number": "1.1969.1672",
-            "Department": "Photography"
+            "Medium": "Tempera on poster board",
+            "Dimensions": "Overall: 44 x 24 5/8\" (111.8 x 62.5 cm)",
+            "Credit": "Gift of Judith and Steven Katten",
+            "Object number": "F1981",
+            "Department": "Film"
         },
-        "Profile": "https://www.moma.org/artists/229"
+        "Profile": "https://www.moma.org/artists/35204"
     },
     {
-        "Artist": "Eugene Atget",
-        "Title": "Bateau-Lavoir sur la Seine",
-        "Year": "1898-99",
-        "ObjectID": "39673",
-        "Work": "https://www.moma.org/collection/works/39673",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5OTQ0MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=58a54f494b00802c",
+        "Artist": "Man Ray (Emmanuel Radnitzky)",
+        "Title": "Georges Antheil",
+        "Year": "1925",
+        "ObjectID": "45990",
+        "Work": "https://www.moma.org/collection/works/45990",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNzMzMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ab106d576e757e52",
         "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "Approx. 6 1/2 \u00d7 8 1/2\" (16.5 \u00d7 21.6 cm)",
-            "Credit": "Abbott-Levy Collection. Partial gift of Shirley C. Burden",
-            "Object number": "1.1969.1713",
+            "Sitter": "Georges Antheil",
+            "Medium": "Gelatin silver print",
+            "Dimensions": "9 1/16 \u00d7 6 15/16\" (23 \u00d7 17.6 cm)",
+            "Credit": "Gift of James Thrall Soby",
+            "Object number": "88.1941",
+            "Copyright": "\u00a9 2023 Man Ray Trust / Artists Rights Society (ARS), New York / ADAGP, Paris",
             "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/229"
+        "Profile": "https://www.moma.org/artists/3716"
     },
     {
-        "Artist": "Eugene Atget",
+        "Artist": "Man Ray (Emmanuel Radnitzky)",
+        "Title": "Constantin Brancusi",
+        "Year": "1925",
+        "ObjectID": "46043",
+        "Work": "https://www.moma.org/collection/works/46043",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNzYwMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5263fcb817236da0",
+        "Details": {
+            "Sitter": "Constantin Br\u00e2ncu\u0219i",
+            "Medium": "Gelatin silver print",
+            "Dimensions": "9 1/4 \u00d7 10 1/4\" (23.5 \u00d7 26 cm)",
+            "Credit": "Gift of James Thrall Soby",
+            "Object number": "90.1943",
+            "Copyright": "\u00a9 2023 Man Ray Trust / Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/3716"
+    },
+    {
+        "Artist": "Man Ray (Emmanuel Radnitzky)",
+        "Title": "Jean Cocteau",
+        "Year": "1925",
+        "ObjectID": "46129",
+        "Work": "https://www.moma.org/collection/works/46129",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE0MjgzOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f516b67324fe1174",
+        "Details": {
+            "Sitter": "Jean Cocteau",
+            "Medium": "Gelatin silver print",
+            "Dimensions": "8 15/16 \u00d7 6 13/16\" (22.7 \u00d7 17.3 cm)",
+            "Credit": "Gift of James Thrall Soby",
+            "Object number": "93.1941",
+            "Copyright": "\u00a9 2023 Man Ray Trust / Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/3716"
+    },
+    {
+        "Artist": "Man Ray (Emmanuel Radnitzky)",
+        "Title": "Henri Matisse",
+        "Year": "1925",
+        "ObjectID": "46543",
+        "Work": "https://www.moma.org/collection/works/46543",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNzI0NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e30ff0db8fee322d",
+        "Details": {
+            "Sitter": "Henri Matisse",
+            "Medium": "Gelatin silver print",
+            "Dimensions": "7 1/16 \u00d7 5 1/16\" (18 \u00d7 12.9 cm)",
+            "Credit": "Gift of James Thrall Soby",
+            "Object number": "101.1941",
+            "Copyright": "\u00a9 2023 Man Ray Trust / Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/3716"
+    },
+    {
+        "Artist": "Man Ray (Emmanuel Radnitzky)",
+        "Title": "Rayograph",
+        "Year": "1925",
+        "ObjectID": "52755",
+        "Work": "https://www.moma.org/collection/works/52755",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNzc1OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=46f2b7d6a6cacb2b",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "9 5/16 \u00d7 11 9/16\" (23.6 \u00d7 29.4 cm)",
+            "Credit": "Katherine S. Dreier Bequest",
+            "Object number": "407.1953",
+            "Copyright": "\u00a9 2023 Man Ray Trust / Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/3716"
+    },
+    {
+        "Artist": "Werner Mantz",
         "Title": "Untitled",
-        "Year": "1899",
-        "ObjectID": "39676",
-        "Work": "https://www.moma.org/collection/works/39676",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4MzYxMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=33ecdb1a65020a08",
+        "Year": "1925",
+        "ObjectID": "199242",
+        "Work": "https://www.moma.org/collection/works/199242",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0MjU0NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=bd7edce2d50968c2",
         "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "Approx. 6 1/2 \u00d7 8 1/2\" (16.5 \u00d7 21.6 cm)",
-            "Credit": "Abbott-Levy Collection. Partial gift of Shirley C. Burden",
-            "Object number": "1.1969.1716",
+            "Medium": "Gelatin silver print",
+            "Dimensions": "6 3/4 \u00d7 9\" (17.1 \u00d7 22.9 cm)",
+            "Credit": "Gift of Susan and Peter MacGill",
+            "Object number": "1805.2015",
+            "Copyright": "\u00a9 2023 / Artists Rights Society (ARS), New York / VG Bild-Kunst, Germany",
             "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/229"
+        "Profile": "https://www.moma.org/artists/24505"
     },
     {
-        "Artist": "Eugene Atget",
-        "Title": "Saint-Riquier (fresques)",
-        "Year": "Before 1900",
-        "ObjectID": "39701",
-        "Work": "https://www.moma.org/collection/works/39701",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMyMDIwOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5cd526ae2fc82b40",
+        "Artist": "John Marin",
+        "Title": "River Movement",
+        "Year": "1925",
+        "ObjectID": "61626",
+        "Work": "https://www.moma.org/collection/works/61626",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMzk1NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a09033db46406e83",
         "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "Approx. 6 1/2 \u00d7 8 1/2\" (16.5 \u00d7 21.6 cm)",
-            "Credit": "Abbott-Levy Collection. Partial gift of Shirley C. Burden",
-            "Object number": "1.1969.1739",
+            "Medium": "Etching",
+            "Dimensions": "plate: 7 11/16 x 9 9/16\" (19.6 x 24.3 cm); sheet: 11 1/8 x 15 1/4\" (28.2 x 38.8 cm)",
+            "Publisher": "291 (Alfred Stieglitz)",
+            "Edition": "approx. 30",
+            "Credit": "Purchase",
+            "Object number": "87.1955",
+            "Copyright": "\u00a9 2023 Estate of John Marin / Artists Rights Society (ARS), New York",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3770"
+    },
+    {
+        "Artist": "Andre Masson",
+        "Title": "Birth of Birds",
+        "Year": "(c. 1925)",
+        "ObjectID": "35616",
+        "Work": "https://www.moma.org/collection/works/35616",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMDg5NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=29480eb293f8a966",
+        "Details": {
+            "Medium": "Ink on paper",
+            "Dimensions": "16 1/2 x 12 3/8\" (41.9 x 31.4 cm)",
+            "Credit": "Purchase",
+            "Object number": "253.1937",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3821"
+    },
+    {
+        "Artist": "Andre Masson",
+        "Title": "Furious Suns",
+        "Year": "1925",
+        "ObjectID": "35670",
+        "Work": "https://www.moma.org/collection/works/35670",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMxODc3NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8f9e6a02ff8101ee",
+        "Details": {
+            "Medium": "Ink on paper",
+            "Dimensions": "16 5/8 x 12 1/2\" (42.2 x 31.8 cm)",
+            "Credit": "Purchase",
+            "Object number": "257.1935",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3821"
+    },
+    {
+        "Artist": "Henri Matisse",
+        "Title": "Nude with Blue Cushion Beside a Fireplace (Nu au coussin bleu a cote d'une cheminee)",
+        "Year": "1925",
+        "ObjectID": "60703",
+        "Work": "https://www.moma.org/collection/works/60703",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MDI1OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e8d5e9b3547d3438",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition: 25 1/8 x 18 7/8\" (63.8 x 48 cm); sheet: 29 1/2 x 22 1/8\" (75 x 56.2 cm)",
+            "Printer": "probably Atelier Duch\u00e2tel, Paris",
+            "Edition": "50",
+            "Object number": "41.1953",
+            "Copyright": "\u00a9 2023 Succession H. Matisse / Artists Rights Society (ARS), New York",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3832"
+    },
+    {
+        "Artist": "Henri Matisse",
+        "Title": "Young Girl, Arms Crossed Over Head (Fillette, bras sur la tete)",
+        "Year": "1925",
+        "ObjectID": "61303",
+        "Work": "https://www.moma.org/collection/works/61303",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NDMzMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b0ce6111ccb0c359",
+        "Details": {
+            "Medium": "Drypoint with chine coll\u00e9",
+            "Dimensions": "plate: 5 7/8 x 4\" (15 x 10.2cm); sheet: 12 3/16 x 8 11/16\" (31 x 22cm)",
+            "Edition": "7",
+            "Credit": "Stephen C. Clark Fund",
+            "Object number": "74.1951",
+            "Copyright": "\u00a9 2023 Succession H. Matisse / Artists Rights Society (ARS), New York",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3832"
+    },
+    {
+        "Artist": "Henri Matisse",
+        "Title": "Reclining Nude, with Necklace (Femme etendue aux perles)",
+        "Year": "1925",
+        "ObjectID": "62366",
+        "Work": "https://www.moma.org/collection/works/62366",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NDA2MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0604fab1a5ac1d9f",
+        "Details": {
+            "Medium": "Etching with chine coll\u00e9",
+            "Dimensions": "plate: 3 5/8 x 4 3/4\" (9.2 x 12 cm); sheet: 14 15/16 x 11 1/16\" (38 x 28.1 cm)",
+            "Credit": "Stephen C. Clark Fund",
+            "Object number": "128.1951",
+            "Copyright": "\u00a9 2023 Succession H. Matisse / Artists Rights Society (ARS), New York",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3832"
+    },
+    {
+        "Artist": "Henri Matisse",
+        "Title": "Study of Legs (Etude de jambes)",
+        "Year": "1925",
+        "ObjectID": "67917",
+        "Work": "https://www.moma.org/collection/works/67917",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxODUxMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=bbf014c66ae87197",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition: 21 5/16 x 17 3/16\" (54.1 x 43.6cm); sheet: 29 1/8 x 21 5/8\" (74 x 54.9cm)",
+            "Printer": "probably Atelier Duch\u00e2tel, Paris",
+            "Edition": "50",
+            "Credit": "Purchase",
+            "Object number": "369.1956",
+            "Copyright": "\u00a9 2023 Succession H. Matisse / Artists Rights Society (ARS), New York",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3832"
+    },
+    {
+        "Artist": "Henri Matisse",
+        "Title": "Odalisque in Red Satin Pantaloons (Odalisque a la culotte de satin rouge)",
+        "Year": "1925",
+        "ObjectID": "68994",
+        "Work": "https://www.moma.org/collection/works/68994",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMjIwMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c0c4051379ae9666",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition: 7 1/2 x 10 5/8\" (19 x 27cm); sheet: 11 1/4 \u00d7 14 3/8\" (28.5 \u00d7 36.5 cm)",
+            "Printer": "probably Atelier Duch\u00e2tel, Paris",
+            "Edition": "50",
+            "Credit": "Gift of Abby Aldrich Rockefeller",
+            "Object number": "430.1940",
+            "Copyright": "\u00a9 2023 Succession H. Matisse / Artists Rights Society (ARS), New York",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3832"
+    },
+    {
+        "Artist": "Henri Matisse",
+        "Title": "Veiled Odalisque (Odalisque voilee)",
+        "Year": "1925",
+        "ObjectID": "71325",
+        "Work": "https://www.moma.org/collection/works/71325",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMzQ3NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e06618b251827587",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition: 21 5/16 x 17 3/16\" (54.1 x 43.6 cm); sheet: 29 1/8 x 21 5/8\" (74 x 54.9 cm)",
+            "Printer": "probably Atelier Duch\u00e2tel, Paris",
+            "Edition": "50",
+            "Credit": "Gift of Abby Aldrich Rockefeller (by exchange)",
+            "Object number": "572.1951",
+            "Copyright": "\u00a9 2023 Succession H. Matisse / Artists Rights Society (ARS), New York",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3832"
+    },
+    {
+        "Artist": "Henri Matisse",
+        "Title": "Large Odalisque in Striped Pantaloons (Grande Odalisque a culotte bayadere)",
+        "Year": "1925",
+        "ObjectID": "75574",
+        "Work": "https://www.moma.org/collection/works/75574",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMDgzNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d0b449b0676fee27",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition: 21 1/2 x 17 3/8\" (54.6 x 44.1 cm); sheet: 28 5/8 x 22 5/8\" (72 x 57.5 cm)",
+            "Publisher": "Edmond Frapier, Paris",
+            "Printer": "Atelier Duch\u00e2tel, Paris",
+            "Edition": "50",
+            "Credit": "Nelson A. Rockefeller Bequest",
+            "Object number": "1084.1979",
+            "Copyright": "\u00a9 2023 Succession H. Matisse / Artists Rights Society (ARS), New York",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3832"
+    },
+    {
+        "Artist": "Jan Matulka",
+        "Title": "Cityscape",
+        "Year": "(c. 1925)",
+        "ObjectID": "36951",
+        "Work": "https://www.moma.org/collection/works/36951",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQwMjYyMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9100c0c4d678bd5d",
+        "Details": {
+            "Medium": "Crayon on paper",
+            "Dimensions": "10 7/8 x 8 3/8\" (27.8 x 21.5 cm)",
+            "Credit": "Gift of Mrs. Jan Matulka",
+            "Object number": "446.1981",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3848"
+    },
+    {
+        "Artist": "Jan Matulka",
+        "Title": "Cityscape",
+        "Year": "(c. 1925)",
+        "ObjectID": "36957",
+        "Work": "https://www.moma.org/collection/works/36957",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQwMjYyMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4cbffda886c48440",
+        "Details": {
+            "Medium": "Ink on paper",
+            "Dimensions": "10 7/8 x 8 3/8\" (27.8 x 21.5 cm)",
+            "Credit": "Gift of Mrs. Jan Matulka",
+            "Object number": "447.1981",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3848"
+    },
+    {
+        "Artist": "Moriz Melzer",
+        "Title": "Poster design (unrealized) for November Group Artists' Festival (Kunstlerfest der Novembergruppe)",
+        "Year": "c. 1920",
+        "ObjectID": "220963",
+        "Work": "https://www.moma.org/collection/works/220963",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ0MDMwNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=66d7c760de6c9a7c",
+        "Details": {
+            "Medium": "Gouache and pencil on paper",
+            "Dimensions": "34 1/4 \u00d7 19 7/8\" (87 \u00d7 50.5 cm)",
+            "Credit": "The Merrill C. Berman Collection. Acquired through the generosity of Alice and Tom Tisch, Jo Carole and Ronald S. Lauder, Sue and Edgar Wachenheim III, David Booth, Marlene Hess and James D. Zirin, Marie-Jos\u00e9e and Henry R. Kravis, Jack Shear, the Patricia Bonfield Endowed Acquisition Fund for the Design Collection, Daniel and Jane Och, The Orentreich Family Foundation, Emily Rauh Pulitzer, The Modern Women's Fund; and by exchange: Gift of Jean Dubuffet in honor of Mr. and Mrs. Ralph Colin, The Judith Rothschild Foundation Contemporary Drawings Collection, and the Richard S. Zeisler Bequest",
+            "Object number": "457.2018",
+            "Copyright": "\u00a9 Moriz Melzer. Used by permission.",
+            "Associated work": "The Merrill C. Berman Collection at MoMA",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/36729"
+    },
+    {
+        "Artist": "Erno Metzner",
+        "Title": "Ein Sommernachtstraum (A Mid-Summer Night's Dream)",
+        "Year": "1925",
+        "ObjectID": "4996",
+        "Work": "https://www.moma.org/collection/works/4996",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "27 1/2 \u00d7 37 1/2\" (69.9 \u00d7 95.3 cm)",
+            "Credit": "Given anonymously",
+            "Object number": "85.1961",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/3949"
+    },
+    {
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "Eliat House Project, Potsdam-Nedlitz, Germany, Perspective",
+        "Year": "1925",
+        "ObjectID": "100362",
+        "Work": "https://www.moma.org/collection/works/100362",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0NTMyNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=54513ca2fdd8942f",
+        "Details": {
+            "Medium": "Pastel on paper",
+            "Dimensions": "12 1/4 x 24 1/4\" (31.1 x 61.6 cm)",
+            "Credit": "Mies van der Rohe Archive Purchase",
+            "Object number": "826.2005",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7166"
+    },
+    {
+        "Artist": "Joan Miro",
+        "Title": "The Birth of the World",
+        "Year": "Montroig, late summer-fall 1925",
+        "ObjectID": "79321",
+        "Work": "https://www.moma.org/collection/works/79321",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQzODQ1MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9d04793ed5f34f13",
+        "Details": {
+            "Medium": "Oil on canvas",
+            "Dimensions": "8' 2 3/4\" x 6' 6 3/4\" (250.8 x 200 cm)",
+            "Credit": "Acquired through an anonymous fund, the Mr. and Mrs. Joseph Slifka and Armand G. Erpf Funds, and by gift of the artist",
+            "Object number": "262.1972",
+            "Copyright": "\u00a9 2023 Successi\u00f3  Mir\u00f3 / Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/4016"
+    },
+    {
+        "Artist": "Petr Miturich",
+        "Title": "Nude in Studio",
+        "Year": "(1925)",
+        "ObjectID": "64672",
+        "Work": "https://www.moma.org/collection/works/64672",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "Sheet 15 1/4 x 12 7/8\" (38.7 x 32.7 cm) Comp.  14 5/8 x 12 3/4\" (37.2 x 32.4 cm)(irreg.)",
+            "Credit": "Gift of The State Hermitage Museum (through the International Council, by exchange)",
+            "Object number": "222.1976",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4030"
+    },
+    {
+        "Artist": "Tina Modotti",
+        "Title": "Cactus",
+        "Year": "1925",
+        "ObjectID": "51070",
+        "Work": "https://www.moma.org/collection/works/51070",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQzOTY5NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=edc4f4195cabf5fa",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "9 1/16 \u00d7 6 5/8\" (23.1 \u00d7 16.8 cm)",
+            "Credit": "Anonymous gift",
+            "Object number": "335.1965",
             "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/229"
+        "Profile": "https://www.moma.org/artists/4039"
     },
     {
-        "Artist": "Eugene Atget",
-        "Title": "Saint-Riquier (fresques)",
-        "Year": "1899 or before",
-        "ObjectID": "39703",
-        "Work": "https://www.moma.org/collection/works/39703",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMyMDIwOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d5c9e767d9826e87",
+        "Artist": "Lucia Moholy",
+        "Title": "Alma Buscher\u2019s Ladder Chair for Children\u2019s Room",
+        "Year": "1923-25",
+        "ObjectID": "83981",
+        "Work": "https://www.moma.org/collection/works/83981",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1NjMyNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=30c7e6f47e0a4715",
         "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "Approx. 6 1/2 \u00d7 8 1/2\" (16.5 \u00d7 21.6 cm)",
-            "Credit": "Abbott-Levy Collection. Partial gift of Shirley C. Burden",
-            "Object number": "1.1969.1740",
+            "Medium": "Gelatin silver print",
+            "Dimensions": "6 9/16 \u00d7 8 3/8\" (16.7 \u00d7 21.2 cm)",
+            "Designer": "Alma Siedhoff-Buscher",
+            "Credit": "Thomas Walther Collection. Gift of Thomas Walther",
+            "Object number": "1647.2001",
+            "Copyright": "\u00a9 2023 Lucia Moholy Estate/Artists Rights Society (ARS), New York/VG Bild-Kunst, Bonn",
             "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/229"
+        "Profile": "https://www.moma.org/artists/6922"
     },
     {
-        "Artist": "Eugene Atget",
-        "Title": "Saint-Riquier (fresques)",
-        "Year": "1899 or before",
-        "ObjectID": "39704",
-        "Work": "https://www.moma.org/collection/works/39704",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMyMDIxMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=60f247912f59f9e2",
+        "Artist": "Laszlo Moholy-Nagy",
+        "Title": "Stationery invoice for Staatliches Bauhaus Weimar Rechnung (State Bauhaus Weimar)",
+        "Year": "c. 1924",
+        "ObjectID": "8051",
+        "Work": "https://www.moma.org/collection/works/8051",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDkzMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=34899842f152f2e8",
         "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "Approx. 6 1/2 \u00d7 8 1/2\" (16.5 \u00d7 21.6 cm)",
-            "Credit": "Abbott-Levy Collection. Partial gift of Shirley C. Burden",
-            "Object number": "1.1969.1741",
-            "Department": "Photography"
+            "Medium": "Letterpress",
+            "Dimensions": "11 1/4 x 8 7/8\" (28.6 x 22.5 cm)",
+            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
+            "Object number": "754.1999",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/229"
+        "Profile": "https://www.moma.org/artists/4048"
     },
     {
-        "Artist": "Eugene Atget",
-        "Title": "Saint-Riquier (fresques)",
-        "Year": "1899 or before",
-        "ObjectID": "39705",
-        "Work": "https://www.moma.org/collection/works/39705",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMyMDIxMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7ce95be84ec68d0f",
+        "Artist": "Laszlo Moholy-Nagy",
+        "Title": "Staatliches Bauhaus Weimar",
+        "Year": "1919-25",
+        "ObjectID": "8056",
+        "Work": "https://www.moma.org/collection/works/8056",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDkzMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c553be53da32819a",
         "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "Approx. 6 1/2 \u00d7 8 1/2\" (16.5 \u00d7 21.6 cm)",
-            "Credit": "Abbott-Levy Collection. Partial gift of Shirley C. Burden",
-            "Object number": "1.1969.1742",
-            "Department": "Photography"
+            "Medium": "Letterpress",
+            "Dimensions": "11 3/16 x 8 13/16\" (28.4 x 22.4 cm)",
+            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
+            "Object number": "755.1999",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/229"
+        "Profile": "https://www.moma.org/artists/4048"
     },
     {
-        "Artist": "Eugene Atget",
-        "Title": "Maison a Abbeville",
-        "Year": "Before 1900",
-        "ObjectID": "39731",
-        "Work": "https://www.moma.org/collection/works/39731",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMyMDIxMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cf02f5a2f03a3235",
+        "Artist": "Laszlo Moholy-Nagy",
+        "Title": "Bauhausbucher",
+        "Year": "1925",
+        "ObjectID": "8059",
+        "Work": "https://www.moma.org/collection/works/8059",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDkzNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5477d2ee6dddcfe2",
         "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "Approx. 6 1/2 \u00d7 8 1/2\" (16.5 \u00d7 21.6 cm)",
-            "Credit": "Abbott-Levy Collection. Partial gift of Shirley C. Burden",
-            "Object number": "1.1969.1766",
-            "Department": "Photography"
+            "Medium": "Letterpress",
+            "Dimensions": "9 x 6 5/16\" (22.9 x 16 cm)",
+            "Publisher": "Verlag Albert Langen",
+            "Printer": "Bauhausdruck",
+            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
+            "Object number": "756.1999",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/229"
+        "Profile": "https://www.moma.org/artists/4048"
     },
     {
-        "Artist": "Eugene Atget",
-        "Title": "Abbeville (retable)",
-        "Year": "Before 1900",
-        "ObjectID": "39733",
-        "Work": "https://www.moma.org/collection/works/39733",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMyMDIxNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=34c18487f8f5d38b",
+        "Artist": "Laszlo Moholy-Nagy",
+        "Title": "Bauhausbucher",
+        "Year": "1925",
+        "ObjectID": "8062",
+        "Work": "https://www.moma.org/collection/works/8062",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDkzNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=468d47c99356c9a2",
         "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "Approx. 7 1/16 \u00d7 8 9/16\" (18 \u00d7 21.8 cm)",
-            "Credit": "Abbott-Levy Collection. Partial gift of Shirley C. Burden",
-            "Object number": "1.1969.1768",
-            "Department": "Photography"
+            "Medium": "Letterpress",
+            "Dimensions": "11 5/8 x 8 1/4\" (29.5 x 21 cm)",
+            "Printer": "Bauhausdruck",
+            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
+            "Object number": "757.1999",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/229"
+        "Profile": "https://www.moma.org/artists/4048"
     },
     {
-        "Artist": "Eugene Atget",
-        "Title": "Abbeville (Somme)",
-        "Year": "Before 1900",
-        "ObjectID": "39755",
-        "Work": "https://www.moma.org/collection/works/39755",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE0OTE4MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cd3b2ba849474baa",
-        "Details": {
-            "Medium": "Matte albumen silver print",
-            "Dimensions": "6 15/16 \u00d7 8 7/8\" (17.6 \u00d7 22.6 cm)",
-            "Credit": "Abbott-Levy Collection. Partial gift of Shirley C. Burden",
-            "Object number": "1.1969.1788",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/229"
-    },
-    {
-        "Artist": "Eugene Atget",
-        "Title": "Abbeville, Saint-Vulfran",
-        "Year": "1899 or before",
-        "ObjectID": "39756",
-        "Work": "https://www.moma.org/collection/works/39756",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMyMDIxNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1cf0bdc17cf3bdb8",
-        "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "Approx. 7 1/16 \u00d7 8 9/16\" (18 \u00d7 21.8 cm)",
-            "Credit": "Abbott-Levy Collection. Partial gift of Shirley C. Burden",
-            "Object number": "1.1969.1789",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/229"
-    },
-    {
-        "Artist": "Eugene Atget",
-        "Title": "Abbeville, Saint-Vulfran, Panneau",
-        "Year": "1899 or before",
-        "ObjectID": "39758",
-        "Work": "https://www.moma.org/collection/works/39758",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMyMDIxNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=60eb1628fcd15728",
-        "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "Approx. 7 1/16 \u00d7 8 9/16\" (18 \u00d7 21.8 cm)",
-            "Credit": "Abbott-Levy Collection. Partial gift of Shirley C. Burden",
-            "Object number": "1.1969.1790",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/229"
-    },
-    {
-        "Artist": "Eugene Atget",
-        "Title": "Abbeville, Saint-Vulfran",
-        "Year": "1899 or before",
-        "ObjectID": "39759",
-        "Work": "https://www.moma.org/collection/works/39759",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMyMDIxNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=61b0231ebf558f9c",
-        "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "Approx. 7 1/16 \u00d7 8 9/16\" (18 \u00d7 21.8 cm)",
-            "Credit": "Abbott-Levy Collection. Partial gift of Shirley C. Burden",
-            "Object number": "1.1969.1791",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/229"
-    },
-    {
-        "Artist": "Eugene Atget",
-        "Title": "Luxembourg",
-        "Year": "1899",
-        "ObjectID": "39810",
-        "Work": "https://www.moma.org/collection/works/39810",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwMTMyNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=61043d35f74085b8",
-        "Details": {
-            "Medium": "Matte albumen silver print",
-            "Dimensions": "Approx. 6 1/2 \u00d7 8 1/2\" (16.5 \u00d7 21.6 cm)",
-            "Credit": "Abbott-Levy Collection. Partial gift of Shirley C. Burden",
-            "Object number": "1.1969.1837",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/229"
-    },
-    {
-        "Artist": "Eugene Atget",
-        "Title": "Jardin Luxembourg",
-        "Year": "1899",
-        "ObjectID": "39811",
-        "Work": "https://www.moma.org/collection/works/39811",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwMTMyOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f372b1c07b765363",
-        "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "Approx. 6 1/2 \u00d7 8 1/2\" (16.5 \u00d7 21.6 cm)",
-            "Credit": "Abbott-Levy Collection. Partial gift of Shirley C. Burden",
-            "Object number": "1.1969.1838",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/229"
-    },
-    {
-        "Artist": "Eugene Atget",
-        "Title": "Jardin Luxembourg",
-        "Year": "1899",
-        "ObjectID": "39812",
-        "Work": "https://www.moma.org/collection/works/39812",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwMTMyOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c4d11885220aea0c",
-        "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "Approx. 6 1/2 \u00d7 8 1/2\" (16.5 \u00d7 21.6 cm)",
-            "Credit": "Abbott-Levy Collection. Partial gift of Shirley C. Burden",
-            "Object number": "1.1969.1839",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/229"
-    },
-    {
-        "Artist": "Eugene Atget",
-        "Title": "Abbeville (chemin)",
-        "Year": "Before 1900",
-        "ObjectID": "39821",
-        "Work": "https://www.moma.org/collection/works/39821",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE0OTE4NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8f18bc33100f2f86",
-        "Details": {
-            "Medium": "Gelatin silver printing-out-paper print",
-            "Dimensions": "Approx. 7 1/16 \u00d7 8 9/16\" (18 \u00d7 21.8 cm)",
-            "Credit": "Abbott-Levy Collection. Partial gift of Shirley C. Burden",
-            "Object number": "1.1969.1847",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/229"
-    },
-    {
-        "Artist": "Eugene Atget",
-        "Title": "Moulin (Somme)",
-        "Year": "Before 1900",
-        "ObjectID": "39822",
-        "Work": "https://www.moma.org/collection/works/39822",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE0OTE4NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c0621e1fbef70f7b",
-        "Details": {
-            "Medium": "Gelatin silver printing-out-paper print",
-            "Dimensions": "6 15/16 \u00d7 9\" (17.7 \u00d7 22.9 cm)",
-            "Credit": "Abbott-Levy Collection. Partial gift of Shirley C. Burden",
-            "Object number": "1.1969.1848",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/229"
-    },
-    {
-        "Artist": "Eugene Atget",
-        "Title": "Abbeville (Somme)",
-        "Year": "Before 1900",
-        "ObjectID": "39823",
-        "Work": "https://www.moma.org/collection/works/39823",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMyMTE0OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c506b593ded8013f",
-        "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "Approx. 8 11/16 \u00d7 7 1/16\" (22 \u00d7 18 cm)",
-            "Credit": "Abbott-Levy Collection. Partial gift of Shirley C. Burden",
-            "Object number": "1.1969.1849",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/229"
-    },
-    {
-        "Artist": "Eugene Atget",
-        "Title": "Abbeville",
-        "Year": "Before 1900",
-        "ObjectID": "39825",
-        "Work": "https://www.moma.org/collection/works/39825",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMyMDIxOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d0d72d5b703df205",
-        "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "Approx. 7 1/16 \u00d7 8 9/16\" (18 \u00d7 21.8 cm)",
-            "Credit": "Abbott-Levy Collection. Partial gift of Shirley C. Burden",
-            "Object number": "1.1969.1850",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/229"
-    },
-    {
-        "Artist": "Eugene Atget",
-        "Title": "Untitled [View of the Seine and the Ile de la Cite]",
-        "Year": "1899",
-        "ObjectID": "39849",
-        "Work": "https://www.moma.org/collection/works/39849",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5OTQ0NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5622f19a6964b0e8",
-        "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "Approx. 7 1/16 \u00d7 8 9/16\" (18 \u00d7 21.8 cm)",
-            "Credit": "Abbott-Levy Collection. Partial gift of Shirley C. Burden",
-            "Object number": "1.1969.1872",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/229"
-    },
-    {
-        "Artist": "Eugene Atget",
+        "Artist": "Laszlo Moholy-Nagy",
         "Title": "Untitled",
-        "Year": "1899",
-        "ObjectID": "39850",
-        "Work": "https://www.moma.org/collection/works/39850",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5ODc4OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e295b49993126148",
+        "Year": "1923-25",
+        "ObjectID": "54279",
+        "Work": "https://www.moma.org/collection/works/54279",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMTUzMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8ee7aa87ad6f3dec",
         "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "Approx. 6 1/2 \u00d7 8 1/2\" (16.5 \u00d7 21.6 cm)",
-            "Credit": "Abbott-Levy Collection. Partial gift of Shirley C. Burden",
-            "Object number": "1.1969.1873",
+            "Medium": "Gelatin silver print (photogram)",
+            "Dimensions": "6 5/8 \u00d7 9 1/16\" (16.8 \u00d7 23.1 cm)",
+            "Credit": "Anonymous gift",
+            "Object number": "490.1939",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
             "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/229"
+        "Profile": "https://www.moma.org/artists/4048"
     },
     {
-        "Artist": "Eugene Atget",
-        "Title": "Pommiers, fleurs",
-        "Year": "Before 1900",
-        "ObjectID": "39928",
-        "Work": "https://www.moma.org/collection/works/39928",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE0OTE5MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=002a2c86dac8f4f8",
+        "Artist": "Laszlo Moholy-Nagy",
+        "Title": "Untitled",
+        "Year": "1925",
+        "ObjectID": "54311",
+        "Work": "https://www.moma.org/collection/works/54311",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ0NDk1MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=74c47d6c13a20efd",
         "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "Approx. 8 11/16 \u00d7 6 9/16\" (22 \u00d7 16.7 cm)",
-            "Credit": "Abbott-Levy Collection. Partial gift of Shirley C. Burden",
-            "Object number": "1.1969.1943",
+            "Medium": "Gelatin silver print (photogram)",
+            "Dimensions": "13 1/8 \u00d7 10 1/2\" (33.4 \u00d7 26.6 cm)",
+            "Credit": "Anonymous gift",
+            "Object number": "492.1939",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
             "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/229"
+        "Profile": "https://www.moma.org/artists/4048"
     },
     {
-        "Artist": "Eugene Atget",
-        "Title": "Soleil",
-        "Year": "1896?",
-        "ObjectID": "39930",
-        "Work": "https://www.moma.org/collection/works/39930",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNjAyMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=929fb2ac4d24aa8c",
+        "Artist": "Laszlo Moholy-Nagy",
+        "Title": "The Law of Series",
+        "Year": "1925",
+        "ObjectID": "54364",
+        "Work": "https://www.moma.org/collection/works/54364",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNzA1OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=453a7e15eb9b8d5e",
         "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "Approx. 8 11/16 \u00d7 7 1/16\" (22 \u00d7 18 cm)",
-            "Credit": "Abbott-Levy Collection. Partial gift of Shirley C. Burden",
-            "Object number": "1.1969.1945",
+            "Medium": "Gelatin silver print (photomontage)",
+            "Dimensions": "8 7/16 \u00d7 6 7/16\" (21.4 \u00d7 16.3 cm)",
+            "Credit": "Anonymous gift",
+            "Object number": "495.1939",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
             "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/229"
+        "Profile": "https://www.moma.org/artists/4048"
     },
     {
-        "Artist": "Eugene Atget",
-        "Title": "Nenuphars",
-        "Year": "Before 1900",
-        "ObjectID": "39939",
-        "Work": "https://www.moma.org/collection/works/39939",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4Mjc2MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=bc1a88b1c57f692c",
+        "Artist": "Laszlo Moholy-Nagy",
+        "Title": "Love Your Neighbor; Murder on the Railway",
+        "Year": "1925",
+        "ObjectID": "54392",
+        "Work": "https://www.moma.org/collection/works/54392",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNzA2MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=51b9e37890c9b49a",
         "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "Approx. 8 11/16 \u00d7 7 1/16\" (22 \u00d7 18 cm)",
-            "Credit": "Abbott-Levy Collection. Partial gift of Shirley C. Burden",
-            "Object number": "1.1969.1953",
+            "Medium": "Gelatin silver print (photomontage)",
+            "Dimensions": "11 1/16 \u00d7 8 3/16\" (28.1 \u00d7 20.8 cm)",
+            "Credit": "Anonymous gift",
+            "Object number": "497.1939",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
             "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/229"
+        "Profile": "https://www.moma.org/artists/4048"
     },
     {
-        "Artist": "Eugene Atget",
-        "Title": "Ancien Couvent des Carmelites. 284 rue Saint-Jacques",
-        "Year": "1899",
-        "ObjectID": "40180",
-        "Work": "https://www.moma.org/collection/works/40180",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMyMTcxMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=10202c1da94405dc",
+        "Artist": "Laszlo Moholy-Nagy",
+        "Title": "Geometry and Texture of Landscape",
+        "Year": "1925",
+        "ObjectID": "54429",
+        "Work": "https://www.moma.org/collection/works/54429",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1Mjk1MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4322560ad142300f",
         "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "Approx. 8 11/16 \u00d7 6 9/16\" (22 \u00d7 16.7 cm)",
-            "Credit": "Abbott-Levy Collection. Partial gift of Shirley C. Burden",
-            "Object number": "1.1969.2180",
+            "Medium": "Gelatin silver print",
+            "Dimensions": "11 1/8 \u00d7 8 1/16\" (28.3 \u00d7 20.5 cm)",
+            "Credit": "Anonymous gift",
+            "Object number": "500.1939",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
             "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/229"
+        "Profile": "https://www.moma.org/artists/4048"
     },
     {
-        "Artist": "Eugene Atget",
-        "Title": "Auberge. Rue Mazet",
-        "Year": "1899",
-        "ObjectID": "40234",
-        "Work": "https://www.moma.org/collection/works/40234",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4MzY1OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6e3dbb6b2b44bec5",
+        "Artist": "Laszlo Moholy-Nagy",
+        "Title": "Notre Dame de Paris",
+        "Year": "1925",
+        "ObjectID": "54454",
+        "Work": "https://www.moma.org/collection/works/54454",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwOTAxOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8ebf9e8964651437",
         "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "Approx. 6 1/2 \u00d7 8 1/2\" (16.5 \u00d7 21.6 cm)",
-            "Credit": "Abbott-Levy Collection. Partial gift of Shirley C. Burden",
-            "Object number": "1.1969.2229",
+            "Medium": "Gelatin silver print",
+            "Dimensions": "9 1/16 \u00d7 6 5/8\" (23 \u00d7 16.8 cm)",
+            "Credit": "Anonymous gift",
+            "Object number": "502.1939",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
             "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/229"
+        "Profile": "https://www.moma.org/artists/4048"
     },
     {
-        "Artist": "Eugene Atget",
-        "Title": "La Rochelle",
-        "Year": "1896?",
-        "ObjectID": "40406",
-        "Work": "https://www.moma.org/collection/works/40406",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE0OTIxMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e2df83a85fbe87b1",
+        "Artist": "Laszlo Moholy-Nagy",
+        "Title": "Untitled",
+        "Year": "1925",
+        "ObjectID": "54466",
+        "Work": "https://www.moma.org/collection/works/54466",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMTU2NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b96e756da7209f45",
         "Details": {
-            "Medium": "Gelatin silver printing-out-paper print",
-            "Dimensions": "Approx. 7 1/16 \u00d7 8 9/16\" (18 \u00d7 21.8 cm)",
-            "Credit": "Abbott-Levy Collection. Partial gift of Shirley C. Burden",
-            "Object number": "1.1969.2373",
+            "Medium": "Gelatin silver print (photogram)",
+            "Dimensions": "9 3/8 \u00d7 7\" (23.9 \u00d7 17.8 cm)",
+            "Credit": "Anonymous gift",
+            "Object number": "503.1939",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
             "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/229"
+        "Profile": "https://www.moma.org/artists/4048"
     },
     {
-        "Artist": "Eugene Atget",
-        "Title": "Saint Germain des Pres",
-        "Year": "1898-99",
-        "ObjectID": "40517",
-        "Work": "https://www.moma.org/collection/works/40517",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3MjgxMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=baacd36ec4388eaa",
+        "Artist": "Laszlo Moholy-Nagy",
+        "Title": "Z II",
+        "Year": "1925",
+        "ObjectID": "78472",
+        "Work": "https://www.moma.org/collection/works/78472",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1MTA4OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=245f1bbff243b7d4",
         "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "Approx. 8 11/16 \u00d7 7 1/16\" (22 \u00d7 18 cm)",
-            "Credit": "Abbott-Levy Collection. Partial gift of Shirley C. Burden",
-            "Object number": "1.1969.2473",
-            "Department": "Photography"
+            "Medium": "Oil on canvas",
+            "Dimensions": "37 5/8 x 29 5/8\" (95.4 x 75.1 cm)",
+            "Credit": "Gift of Mrs. Sibyl Moholy-Nagy",
+            "Object number": "18.1956",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Painting and Sculpture"
         },
-        "Profile": "https://www.moma.org/artists/229"
+        "Profile": "https://www.moma.org/artists/4048"
     },
     {
-        "Artist": "Eugene Atget",
-        "Title": "Saint-Gervais-et-Protais",
-        "Year": "1899",
-        "ObjectID": "40522",
-        "Work": "https://www.moma.org/collection/works/40522",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3MjgxNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=13bda2688bd40906",
+        "Artist": "Laszlo Moholy-Nagy",
+        "Title": "Stationery invoice for Das Bauhaus in Dessau (For sale of a doll by Alma Siedhoff-Buscher)",
+        "Year": "1925",
+        "ObjectID": "198455",
+        "Work": "https://www.moma.org/collection/works/198455",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0ODM2OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b8203c5594a07d93",
         "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "Approx. 8 11/16 \u00d7 7 1/16\" (22 \u00d7 18 cm)",
-            "Credit": "Abbott-Levy Collection. Partial gift of Shirley C. Burden",
-            "Object number": "1.1969.2478",
-            "Department": "Photography"
+            "Medium": "Letterpress",
+            "Dimensions": "11 3/8 \u00d7 8 1/8\" (28.9 \u00d7 20.6 cm)",
+            "Credit": "Elaine Lustig Cohen Collection, gift of Lawrence Benenson and the Committee on Architecture and Design Funds",
+            "Object number": "1291.2015",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/229"
+        "Profile": "https://www.moma.org/artists/4048"
     },
     {
-        "Artist": "Eugene Atget",
-        "Title": "Saint-Gervais-et-Protais",
-        "Year": "1899",
-        "ObjectID": "40526",
-        "Work": "https://www.moma.org/collection/works/40526",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3MjgxNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1818e4ba1c8f9c6b",
+        "Artist": "Laszlo Moholy-Nagy, Lucia Moholy",
+        "Title": "Untitled",
+        "Year": "1925",
+        "ObjectID": "83854",
+        "Work": "https://www.moma.org/collection/works/83854",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0MjAyMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=961cf854010da7a8",
         "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "Approx. 8 11/16 \u00d7 7 1/16\" (22 \u00d7 18 cm)",
-            "Credit": "Abbott-Levy Collection. Partial gift of Shirley C. Burden",
-            "Object number": "1.1969.2481",
+            "Medium": "Gelatin silver print",
+            "Dimensions": "3 11/16 \u00d7 2 1/2\" (9.3 \u00d7 6.3 cm)",
+            "Credit": "Thomas Walther Collection. The Family of Man Fund",
+            "Object number": "1791.2001",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
             "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/229"
+        "Profile": "https://www.moma.org/artists/4048"
     },
     {
-        "Artist": "Eugene Atget",
-        "Title": "Voiture. Bois de Boulogne",
-        "Year": "Before 1900",
-        "ObjectID": "40677",
-        "Work": "https://www.moma.org/collection/works/40677",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwMDM2MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9c158a6972dc7d0d",
+        "Artist": "Johannes Molzahn",
+        "Title": "Mitteldeutsche Handwerks Ausstellung. (Middle German Handicrafts Exhibition)",
+        "Year": "1925",
+        "ObjectID": "5906",
+        "Work": "https://www.moma.org/collection/works/5906",
+        "Thumbnail": null,
         "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "Approx. 8 11/16 \u00d7 7 1/16\" (22 \u00d7 18 cm)",
-            "Credit": "Abbott-Levy Collection. Partial gift of Shirley C. Burden",
-            "Object number": "1.1969.2617",
-            "Department": "Photography"
+            "Medium": "Lithograph",
+            "Dimensions": "12 1/2\" x 8 3/4\" (31.5 cm x 22.2 cm)",
+            "Credit": "Gift of Elaine Lustig Cohen",
+            "Object number": "260.1998",
+            "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/229"
+        "Profile": "https://www.moma.org/artists/4054"
     },
     {
-        "Artist": "Eugene Atget",
-        "Title": "Charrue",
-        "Year": "Before 1900",
-        "ObjectID": "40962",
-        "Work": "https://www.moma.org/collection/works/40962",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMyMDIyMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8b3a57a4824e6d78",
+        "Artist": "Johannes Molzahn",
+        "Title": "Mitteldeutsche Handwerks Ausstellung",
+        "Year": "1925",
+        "ObjectID": "8173",
+        "Work": "https://www.moma.org/collection/works/8173",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMTAxMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6b4524aa7c6404f9",
         "Details": {
-            "Medium": "Gelatin silver printing-out-paper print",
-            "Dimensions": "Approx. 6 1/2 \u00d7 8 1/2\" (16.5 \u00d7 21.6 cm)",
-            "Credit": "Abbott-Levy Collection. Partial gift of Shirley C. Burden",
-            "Object number": "1.1969.2669",
-            "Department": "Photography"
+            "Medium": "Letterpress",
+            "Dimensions": "5 1/16 x 7 11/16\" (12.9 x 19.5 cm)",
+            "Printer": "Attributed to Br\u00fcckner, Magdeburg, Germany",
+            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
+            "Object number": "802.1999",
+            "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/229"
+        "Profile": "https://www.moma.org/artists/4054"
     },
     {
-        "Artist": "Eugene Atget",
-        "Title": "Montmartre, rue du Mont-Cenis",
-        "Year": "1899",
-        "ObjectID": "40995",
-        "Work": "https://www.moma.org/collection/works/40995",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5NTYzMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ad77c22128a054d0",
+        "Artist": "Johannes Molzahn",
+        "Title": "Mitteldeutsche Handwerks Ausstellung, Programm",
+        "Year": "1925",
+        "ObjectID": "8175",
+        "Work": "https://www.moma.org/collection/works/8175",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMTAxMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=16ca338c34823783",
         "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "Approx. 7 1/16 \u00d7 8 9/16\" (18 \u00d7 21.8 cm)",
-            "Credit": "Abbott-Levy Collection. Partial gift of Shirley C. Burden",
-            "Object number": "1.1969.2903",
-            "Department": "Photography"
+            "Medium": "Letterpress",
+            "Dimensions": "12 7/8 x 8 1/4\" (32.7 x 21 cm)",
+            "Printer": "Br\u00fcckner, Magdeburg, Germany",
+            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
+            "Object number": "803.1999",
+            "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/229"
+        "Profile": "https://www.moma.org/artists/4054"
     },
     {
-        "Artist": "Eugene Atget",
-        "Title": "Bouillon-Blanc",
-        "Year": "1896?",
-        "ObjectID": "41100",
-        "Work": "https://www.moma.org/collection/works/41100",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwNDM4MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fc7b91b156845494",
+        "Artist": "Johannes Molzahn",
+        "Title": "Mitteldeutsche Handwerks Ausstellung",
+        "Year": "1925",
+        "ObjectID": "8177",
+        "Work": "https://www.moma.org/collection/works/8177",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMTAxMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=87a0187f32c1305e",
         "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "Approx. 8 11/16 \u00d7 7 1/16\" (22 \u00d7 18 cm)",
-            "Credit": "Abbott-Levy Collection. Partial gift of Shirley C. Burden",
-            "Object number": "1.1969.2999",
-            "Department": "Photography"
+            "Medium": "Letterpress",
+            "Dimensions": "13 x 8 1/4\" (33 x 21 cm)",
+            "Printer": "Br\u00fcckner, Magdeburg, Germany",
+            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
+            "Object number": "804.1999",
+            "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/229"
+        "Profile": "https://www.moma.org/artists/4054"
     },
     {
-        "Artist": "Eugene Atget",
-        "Title": "Ancienne ecole de Medecine. Rue de la Bucherie",
-        "Year": "1899",
-        "ObjectID": "41104",
-        "Work": "https://www.moma.org/collection/works/41104",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3NzkxNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b9d6a8bb74ac87ee",
+        "Artist": "Johannes Molzahn",
+        "Title": "Magdeburg Handwerksausstellung",
+        "Year": "1925",
+        "ObjectID": "84261",
+        "Work": "https://www.moma.org/collection/works/84261",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyNzk2MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e1c1b9cd11d1666b",
         "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "Approx. 8 11/16 \u00d7 7 1/16\" (22 \u00d7 18 cm)",
-            "Credit": "Abbott-Levy Collection. Partial gift of Shirley C. Burden",
-            "Object number": "1.1969.3000",
-            "Department": "Photography"
+            "Medium": "Lithograph",
+            "Dimensions": "34 1/8 x 24 3/4\" (86.7 x 62.9 cm)",
+            "Printer": "Julius Br\u00fcckner, Magdeburg, Germany",
+            "Credit": "Gift of Patricia Phelps de Cisneros in honor of Leonard and Evelyn Lauder",
+            "Object number": "157.2002",
+            "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/229"
+        "Profile": "https://www.moma.org/artists/4054"
     },
     {
-        "Artist": "Eugene Atget",
-        "Title": "La monnaie. Quai Conti",
-        "Year": "1899",
-        "ObjectID": "41170",
-        "Work": "https://www.moma.org/collection/works/41170",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3NDQ5OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3724452140bdec9a",
+        "Artist": "Dmitrii Moor",
+        "Title": "The Soviet Turnip (Sovetskaia repka)",
+        "Year": "c. 1920",
+        "ObjectID": "280232",
+        "Work": "https://www.moma.org/collection/works/280232",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQzODA0NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=79c89d241218bea7",
         "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "Approx. 8 11/16 \u00d7 6 9/16\" (22 \u00d7 16.7 cm)",
-            "Credit": "Abbott-Levy Collection. Partial gift of Shirley C. Burden",
-            "Object number": "1.1969.3060",
-            "Department": "Photography"
+            "Medium": "Letterpress",
+            "Dimensions": "composition (irreg.): 26 5/16 \u00d7 17\" (66.8 \u00d7 43.2 cm); sheet: 28 1/16 \u00d7 21\" (71.2 \u00d7 53.3 cm)",
+            "Publisher": "Political Directorate of the R.V.S.R. (Revolutionary Military Council of the Republic) Literary Publication Department, Moscow",
+            "Printer": "Third State Typo-lithography Workshop (former proprietor Kushnerev), Moscow",
+            "Credit": "The Merrill C. Berman Collection. Acquired through the generosity of Alice and Tom Tisch, Jo Carole and Ronald S. Lauder, Sue and Edgar Wachenheim III, David Booth, Marlene Hess and James D. Zirin, Marie-Jos\u00e9e and Henry R. Kravis, Jack Shear, the Patricia Bonfield Endowed Acquisition Fund for the Design Collection, Daniel and Jane Och, The Orentreich Family Foundation, Emily Rauh Pulitzer, The Modern Women's Fund; and by exchange: Gift of Jean Dubuffet in honor of Mr. and Mrs. Ralph Colin, The Judith Rothschild Foundation Contemporary Drawings Collection, and the Richard S. Zeisler Bequest",
+            "Object number": "460.2018",
+            "Associated work": "The Merrill C. Berman Collection at MoMA",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/229"
+        "Profile": "https://www.moma.org/artists/24165"
     },
     {
-        "Artist": "Eugene Atget",
-        "Title": "Amiens, Calvaire",
-        "Year": "Before 1900",
-        "ObjectID": "41238",
-        "Work": "https://www.moma.org/collection/works/41238",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMyMDIyNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ee90208c6c1bcd86",
+        "Artist": "Dmitrii Moor",
+        "Title": "Maquette for the poster The Soviet Turnip (Sovetskaia repka)",
+        "Year": "c. 1920",
+        "ObjectID": "280233",
+        "Work": "https://www.moma.org/collection/works/280233",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQzNzY0OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e47daf020b7de3c7",
         "Details": {
-            "Medium": "Matte albumen silver print",
-            "Dimensions": "Approx. 8 11/16 \u00d7 7 1/16\" (22 \u00d7 18 cm)",
-            "Credit": "Abbott-Levy Collection. Partial gift of Shirley C. Burden",
-            "Object number": "1.1969.3121",
-            "Department": "Photography"
+            "Medium": "Gouache and ink on paper",
+            "Dimensions": "24 \u00d7 19 1/4\" (60.9 \u00d7 48.9 cm)",
+            "Credit": "The Merrill C. Berman Collection. Acquired through the generosity of Alice and Tom Tisch, Jo Carole and Ronald S. Lauder, Sue and Edgar Wachenheim III, David Booth, Marlene Hess and James D. Zirin, Marie-Jos\u00e9e and Henry R. Kravis, Jack Shear, the Patricia Bonfield Endowed Acquisition Fund for the Design Collection, Daniel and Jane Och, The Orentreich Family Foundation, Emily Rauh Pulitzer, The Modern Women's Fund; and by exchange: Gift of Jean Dubuffet in honor of Mr. and Mrs. Ralph Colin, The Judith Rothschild Foundation Contemporary Drawings Collection, and the Richard S. Zeisler Bequest",
+            "Object number": "461.2018",
+            "Associated work": "The Merrill C. Berman Collection at MoMA",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/229"
+        "Profile": "https://www.moma.org/artists/24165"
     },
     {
-        "Artist": "Eugene Atget",
-        "Title": "Moulin a Amiens",
-        "Year": "Before 1900",
-        "ObjectID": "41239",
-        "Work": "https://www.moma.org/collection/works/41239",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMyMDIyNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=bbab436d3152e218",
+        "Artist": "Otto Mueller",
+        "Title": "Boy among Leaves (Boy in Reeds) (Knabe zwischen Blattpflanzen [Knabe im Schilf])",
+        "Year": "(1912, printed c. 1913-1925)",
+        "ObjectID": "69154",
+        "Work": "https://www.moma.org/collection/works/69154",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyODgwNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2df085a734e26624",
         "Details": {
-            "Medium": "Gelatin silver printing-out-paper print",
-            "Dimensions": "Approx. 7 1/16 \u00d7 8 9/16\" (18 \u00d7 21.8 cm)",
-            "Credit": "Abbott-Levy Collection. Partial gift of Shirley C. Burden",
-            "Object number": "1.1969.3122",
-            "Department": "Photography"
+            "Medium": "Woodcut",
+            "Dimensions": "composition (irreg.): 11 1/8 x 14 13/16\" (28.3 x 37.6 cm); sheet: 13 7/16 x 19 3/4\" (34.2 x 50.2 cm)",
+            "Publisher": "unpublished",
+            "Printer": "Otto Mueller, Berlin, Maschka Mueller, Berlin",
+            "Edition": "state I: 10 numbered ex. on various papers, printed 1912; state II: approx. 15-20, printed c. 1913-25 (this ex.) and approx. 400 printed after 1945 and 1952",
+            "Credit": "Gift of Abby Aldrich Rockefeller",
+            "Object number": "440.1940",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/229"
-    },
-    {
-        "Artist": "Eugene Atget",
-        "Title": "Pont Amiens",
-        "Year": "Before 1900",
-        "ObjectID": "41240",
-        "Work": "https://www.moma.org/collection/works/41240",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMyMDIyNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c06c740b694f9ead",
-        "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "Approx. 6 1/2 \u00d7 8 1/2\" (16.5 \u00d7 21.6 cm)",
-            "Credit": "Abbott-Levy Collection. Partial gift of Shirley C. Burden",
-            "Object number": "1.1969.3123",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/229"
-    },
-    {
-        "Artist": "Eugene Atget",
-        "Title": "Environs Amiens",
-        "Year": "Probably before 1898",
-        "ObjectID": "41241",
-        "Work": "https://www.moma.org/collection/works/41241",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMyMDIyNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b88c39fb9cfd4ece",
-        "Details": {
-            "Medium": "Gelatin silver printing-out-paper print",
-            "Dimensions": "Approx. 6 1/2 \u00d7 8 1/2\" (16.5 \u00d7 21.6 cm)",
-            "Credit": "Abbott-Levy Collection. Partial gift of Shirley C. Burden",
-            "Object number": "1.1969.3124",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/229"
-    },
-    {
-        "Artist": "Eugene Atget",
-        "Title": "Puits (Amiens)",
-        "Year": "Before 1900",
-        "ObjectID": "41242",
-        "Work": "https://www.moma.org/collection/works/41242",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMyMDIyOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6db851ac5be44e70",
-        "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "Approx. 8 11/16 \u00d7 7 1/16\" (22 \u00d7 18 cm)",
-            "Credit": "Abbott-Levy Collection. Partial gift of Shirley C. Burden",
-            "Object number": "1.1969.3125",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/229"
-    },
-    {
-        "Artist": "Eugene Atget",
-        "Title": "Amiens",
-        "Year": "Before 1900",
-        "ObjectID": "41243",
-        "Work": "https://www.moma.org/collection/works/41243",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMyMTE5OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c008b6ce1d4b2d7d",
-        "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "Approx. 8 11/16 \u00d7 7 1/16\" (22 \u00d7 18 cm)",
-            "Credit": "Abbott-Levy Collection. Partial gift of Shirley C. Burden",
-            "Object number": "1.1969.3126",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/229"
-    },
-    {
-        "Artist": "Eugene Atget",
-        "Title": "Amiens (stalles)",
-        "Year": "Before 1900",
-        "ObjectID": "41244",
-        "Work": "https://www.moma.org/collection/works/41244",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMyMTE5OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8bf197f01fe1d517",
-        "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "Approx. 8 11/16 \u00d7 7 1/16\" (22 \u00d7 18 cm)",
-            "Credit": "Abbott-Levy Collection. Partial gift of Shirley C. Burden",
-            "Object number": "1.1969.3127",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/229"
-    },
-    {
-        "Artist": "Eugene Atget",
-        "Title": "Amiens (stalles)",
-        "Year": "Before 1900",
-        "ObjectID": "41248",
-        "Work": "https://www.moma.org/collection/works/41248",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMyMTIwMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=37da3fcbce23b82e",
-        "Details": {
-            "Medium": "Gelatin silver printing-out-paper print",
-            "Dimensions": "Approx. 7 1/16 \u00d7 8 9/16\" (18 \u00d7 21.8 cm)",
-            "Credit": "Abbott-Levy Collection. Partial gift of Shirley C. Burden",
-            "Object number": "1.1969.3130",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/229"
-    },
-    {
-        "Artist": "Eugene Atget",
-        "Title": "Amiens (stalles)",
-        "Year": "Before 1900",
-        "ObjectID": "41249",
-        "Work": "https://www.moma.org/collection/works/41249",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMyMTIwMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=97c11627416f6a23",
-        "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "Approx. 8 11/16 \u00d7 7 1/16\" (22 \u00d7 18 cm)",
-            "Credit": "Abbott-Levy Collection. Partial gift of Shirley C. Burden",
-            "Object number": "1.1969.3131",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/229"
-    },
-    {
-        "Artist": "Eugene Atget",
-        "Title": "Amiens (stalles)",
-        "Year": "Before 1900",
-        "ObjectID": "41250",
-        "Work": "https://www.moma.org/collection/works/41250",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMyMTIwNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f3f10c7f5c94c922",
-        "Details": {
-            "Medium": "Gelatin silver printing-out-paper print",
-            "Dimensions": "Approx. 7 1/16 \u00d7 8 9/16\" (18 \u00d7 21.8 cm)",
-            "Credit": "Abbott-Levy Collection. Partial gift of Shirley C. Burden",
-            "Object number": "1.1969.3132",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/229"
-    },
-    {
-        "Artist": "Eugene Atget",
-        "Title": "Amiens (stalles)",
-        "Year": "Before 1900",
-        "ObjectID": "41251",
-        "Work": "https://www.moma.org/collection/works/41251",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMyMTIwNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0a90e536a6b85b0e",
-        "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "Approx. 7 1/16 \u00d7 8 9/16\" (18 \u00d7 21.8 cm)",
-            "Credit": "Abbott-Levy Collection. Partial gift of Shirley C. Burden",
-            "Object number": "1.1969.3133",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/229"
+        "Profile": "https://www.moma.org/artists/4140"
     }
 ]

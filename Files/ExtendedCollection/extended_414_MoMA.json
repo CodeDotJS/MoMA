@@ -1,948 +1,849 @@
 [
     {
-        "Artist": "Ken Grant",
-        "Title": "Lorna and Justine Collins, Sunday Dinnertime, Ullswater Street, Everton, Liverpool",
-        "Year": "1989",
-        "ObjectID": "57771",
-        "Work": "https://www.moma.org/collection/works/57771",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4MzQ5NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=115a8ce529354e4d",
+        "Artist": "Frederic Bruly Bouabre",
+        "Title": "\u00ab9\u00bb N\u00b0 430 from Alphabet Bete",
+        "Year": "1991",
+        "ObjectID": "299455",
+        "Work": "https://www.moma.org/collection/works/299455",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ2NDQxMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=88d7236eef8653e0",
+        "Details": {
+            "Medium": "Colored pencil, pencil, and ballpoint pen on board",
+            "Dimensions": "3 7/8 \u00d7 5 7/8\" (9.8 \u00d7 14.9 cm)",
+            "Credit": "The Jean Pigozzi African Art Collection.  Gift of Jean Pigozzi",
+            "Object number": "104.2019.436",
+            "Copyright": "\u00a9 2023 Family of Fr\u00e9d\u00e9ric Bruly Bouabr\u00e9",
+            "Series": "Alphabet B\u00e9t\u00e9",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/30876"
+    },
+    {
+        "Artist": "Frederic Bruly Bouabre",
+        "Title": "\u00abO\u00bb N\u00b0 431 from Alphabet Bete",
+        "Year": "1991",
+        "ObjectID": "299456",
+        "Work": "https://www.moma.org/collection/works/299456",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ2NDQxNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=eb7e1b7710d0406c",
+        "Details": {
+            "Medium": "Colored pencil, pencil, and ballpoint pen on board",
+            "Dimensions": "3 7/8 \u00d7 5 7/8\" (9.8 \u00d7 14.9 cm)",
+            "Credit": "The Jean Pigozzi African Art Collection.  Gift of Jean Pigozzi",
+            "Object number": "104.2019.437",
+            "Copyright": "\u00a9 2023 Family of Fr\u00e9d\u00e9ric Bruly Bouabr\u00e9",
+            "Series": "Alphabet B\u00e9t\u00e9",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/30876"
+    },
+    {
+        "Artist": "Frederic Bruly Bouabre",
+        "Title": "\u00abGUHI\u00bb N\u00b0 432 from Alphabet Bete",
+        "Year": "1991",
+        "ObjectID": "299457",
+        "Work": "https://www.moma.org/collection/works/299457",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ2NDQxNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c8fcd040664864f1",
+        "Details": {
+            "Medium": "Colored pencil, pencil, and ballpoint pen on board",
+            "Dimensions": "3 7/8 \u00d7 5 7/8\" (9.8 \u00d7 14.9 cm)",
+            "Credit": "The Jean Pigozzi African Art Collection.  Gift of Jean Pigozzi",
+            "Object number": "104.2019.438",
+            "Copyright": "\u00a9 2023 Family of Fr\u00e9d\u00e9ric Bruly Bouabr\u00e9",
+            "Series": "Alphabet B\u00e9t\u00e9",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/30876"
+    },
+    {
+        "Artist": "Frederic Bruly Bouabre",
+        "Title": "\u00abGO\u00bb N\u00b0 433 from Alphabet Bete",
+        "Year": "1991",
+        "ObjectID": "299458",
+        "Work": "https://www.moma.org/collection/works/299458",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ2NDQxNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=573c2617e6b05a9e",
+        "Details": {
+            "Medium": "Colored pencil, pencil, and ballpoint pen on board",
+            "Dimensions": "3 7/8 \u00d7 5 7/8\" (9.8 \u00d7 14.9 cm)",
+            "Credit": "The Jean Pigozzi African Art Collection.  Gift of Jean Pigozzi",
+            "Object number": "104.2019.439",
+            "Copyright": "\u00a9 2023 Family of Fr\u00e9d\u00e9ric Bruly Bouabr\u00e9",
+            "Series": "Alphabet B\u00e9t\u00e9",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/30876"
+    },
+    {
+        "Artist": "Frederic Bruly Bouabre",
+        "Title": "\u00abTete-de-toucan sans gros nasille le \u00abson \"a\"\u00bb en \u00aban\u00bb N\u00b0 434 from Alphabet Bete",
+        "Year": "1991",
+        "ObjectID": "299459",
+        "Work": "https://www.moma.org/collection/works/299459",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ2NDQxNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=dcc6d478fed16a26",
+        "Details": {
+            "Medium": "Colored pencil, pencil, and ballpoint pen on board",
+            "Dimensions": "5 7/8 \u00d7 3 7/8\" (14.9 \u00d7 9.8 cm)",
+            "Credit": "The Jean Pigozzi African Art Collection.  Gift of Jean Pigozzi",
+            "Object number": "104.2019.440",
+            "Copyright": "\u00a9 2023 Family of Fr\u00e9d\u00e9ric Bruly Bouabr\u00e9",
+            "Series": "Alphabet B\u00e9t\u00e9",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/30876"
+    },
+    {
+        "Artist": "Frederic Bruly Bouabre",
+        "Title": "Ce Signe Dit: \"Tete-de-toucan-gros-nez\" fait nasiller les \"sons \"e\" et \"e\">> en \"in\" N\u00b0 435 from Alphabet Bete",
+        "Year": "1991",
+        "ObjectID": "299460",
+        "Work": "https://www.moma.org/collection/works/299460",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ2NDQxOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=741366b9d066289c",
+        "Details": {
+            "Medium": "Colored pencil, pencil, and ballpoint pen on board",
+            "Dimensions": "3 7/8 \u00d7 5 7/8\" (9.8 \u00d7 14.9 cm)",
+            "Credit": "The Jean Pigozzi African Art Collection.  Gift of Jean Pigozzi",
+            "Object number": "104.2019.441",
+            "Copyright": "\u00a9 2023 Family of Fr\u00e9d\u00e9ric Bruly Bouabr\u00e9",
+            "Series": "Alphabet B\u00e9t\u00e9",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/30876"
+    },
+    {
+        "Artist": "Frederic Bruly Bouabre",
+        "Title": "\u00abCe Signe Dit: \"Tete De Diable\" Fait Nasiller En \"On\" Sa Syllabe Influencee N\u00b0 436 from Alphabet Bete",
+        "Year": "1991",
+        "ObjectID": "299461",
+        "Work": "https://www.moma.org/collection/works/299461",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ2NDQxOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e0d8c4784c7e90f4",
+        "Details": {
+            "Medium": "Colored pencil, pencil, and ballpoint pen on board",
+            "Dimensions": "3 7/8 \u00d7 5 7/8\" (9.8 \u00d7 14.9 cm)",
+            "Credit": "The Jean Pigozzi African Art Collection.  Gift of Jean Pigozzi",
+            "Object number": "104.2019.442",
+            "Copyright": "\u00a9 2023 Family of Fr\u00e9d\u00e9ric Bruly Bouabr\u00e9",
+            "Series": "Alphabet B\u00e9t\u00e9",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/30876"
+    },
+    {
+        "Artist": "Frederic Bruly Bouabre",
+        "Title": "Ce signe dit: \u00abcorde\u00bb tire ou alonge le \"son\" de la syllabe influencee\u00bb N\u00b0 437 from Alphabet Bete",
+        "Year": "1991",
+        "ObjectID": "299462",
+        "Work": "https://www.moma.org/collection/works/299462",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ2NDQyMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a7e68bfb6aab8842",
+        "Details": {
+            "Medium": "Colored pencil, pencil, and ballpoint pen on board",
+            "Dimensions": "3 7/8 \u00d7 5 7/8\" (9.8 \u00d7 14.9 cm)",
+            "Credit": "The Jean Pigozzi African Art Collection.  Gift of Jean Pigozzi",
+            "Object number": "104.2019.443",
+            "Copyright": "\u00a9 2023 Family of Fr\u00e9d\u00e9ric Bruly Bouabr\u00e9",
+            "Series": "Alphabet B\u00e9t\u00e9",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/30876"
+    },
+    {
+        "Artist": "Frederic Bruly Bouabre",
+        "Title": "Ces signes dits: \u00abDeux marteux\u00bb affectent aux \"sons\" \"e\" et \"e\" le \"son\" Eu\"\u00bb N\u00b0 438 from Alphabet Bete",
+        "Year": "1991",
+        "ObjectID": "299463",
+        "Work": "https://www.moma.org/collection/works/299463",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ2NDQyMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=960ceb1dc4ef25fc",
+        "Details": {
+            "Medium": "Colored pencil, pencil, and ballpoint pen on board",
+            "Dimensions": "3 7/8 \u00d7 5 7/8\" (9.8 \u00d7 14.9 cm)",
+            "Credit": "The Jean Pigozzi African Art Collection.  Gift of Jean Pigozzi",
+            "Object number": "104.2019.444",
+            "Copyright": "\u00a9 2023 Family of Fr\u00e9d\u00e9ric Bruly Bouabr\u00e9",
+            "Series": "Alphabet B\u00e9t\u00e9",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/30876"
+    },
+    {
+        "Artist": "Frederic Bruly Bouabre",
+        "Title": "\u00ab\"e\" se mariant a \"o\" ou \"u\" est presque \"inaudible\" et reclame\u00ab :e sonore\u00bb en orthographe\u00bb N\u00b0 439 Broe=Brue (voir \"OE\" et \"UE\" qui se remplacent en \"son\") from Alphabet Bete",
+        "Year": "1991",
+        "ObjectID": "299464",
+        "Work": "https://www.moma.org/collection/works/299464",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ2NDQyMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=84b135f191a408ed",
+        "Details": {
+            "Medium": "Colored pencil, pencil, and ballpoint pen on board",
+            "Dimensions": "3 7/8 \u00d7 5 7/8\" (9.8 \u00d7 14.9 cm)",
+            "Credit": "The Jean Pigozzi African Art Collection.  Gift of Jean Pigozzi",
+            "Object number": "104.2019.445",
+            "Copyright": "\u00a9 2023 Family of Fr\u00e9d\u00e9ric Bruly Bouabr\u00e9",
+            "Series": "Alphabet B\u00e9t\u00e9",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/30876"
+    },
+    {
+        "Artist": "Frederic Bruly Bouabre",
+        "Title": "\u00abLe petit trait dit \"marteau\" vu sous toute syllabe en \"o\", \"au\" rend apphone N\u00b0 440 from Alphabet Bete",
+        "Year": "1991",
+        "ObjectID": "299465",
+        "Work": "https://www.moma.org/collection/works/299465",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ2NDQyMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=076db8eb8886404b",
+        "Details": {
+            "Medium": "Colored pencil, pencil, and ballpoint pen on board",
+            "Dimensions": "3 7/8 \u00d7 5 7/8\" (9.8 \u00d7 14.9 cm)",
+            "Credit": "The Jean Pigozzi African Art Collection.  Gift of Jean Pigozzi",
+            "Object number": "104.2019.446",
+            "Copyright": "\u00a9 2023 Family of Fr\u00e9d\u00e9ric Bruly Bouabr\u00e9",
+            "Series": "Alphabet B\u00e9t\u00e9",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/30876"
+    },
+    {
+        "Artist": "Frederic Bruly Bouabre",
+        "Title": "\u00abLe Son \"i\" etant ici \"nul\", il ne valorise que \"u\" auquel il se marie\u00bbd'ou\u00ab =une\u00bb. N\u00b0 441 from Alphabet Bete",
+        "Year": "1991",
+        "ObjectID": "299466",
+        "Work": "https://www.moma.org/collection/works/299466",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ2NDQyNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1f1cd0d5fa63400a",
+        "Details": {
+            "Medium": "Colored pencil, pencil, and ballpoint pen on board",
+            "Dimensions": "3 7/8 \u00d7 5 7/8\" (9.8 \u00d7 14.9 cm)",
+            "Credit": "The Jean Pigozzi African Art Collection.  Gift of Jean Pigozzi",
+            "Object number": "104.2019.447",
+            "Copyright": "\u00a9 2023 Family of Fr\u00e9d\u00e9ric Bruly Bouabr\u00e9",
+            "Series": "Alphabet B\u00e9t\u00e9",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/30876"
+    },
+    {
+        "Artist": "Frederic Bruly Bouabre",
+        "Title": "Dans ce Systeme, les \u00abVoyelles \"Ui\" et \"Ue\"\u00bb terminant les \"syllabes\" restent effectivement les \"syllabes\" terminees par le son \"U\": la Voyelle \"U\"\u00bb \u00abDate: 17-9-1991\u00bb N\u00b0 from Alphabet Bete",
+        "Year": "1991",
+        "ObjectID": "299468",
+        "Work": "https://www.moma.org/collection/works/299468",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ2NDQyNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=763a10e07d4e0bad",
+        "Details": {
+            "Medium": "Colored pencil, pencil, and ballpoint pen on board",
+            "Dimensions": "3 7/8 \u00d7 5 7/8\" (9.8 \u00d7 14.9 cm)",
+            "Credit": "The Jean Pigozzi African Art Collection.  Gift of Jean Pigozzi",
+            "Object number": "104.2019.449",
+            "Copyright": "\u00a9 2023 Family of Fr\u00e9d\u00e9ric Bruly Bouabr\u00e9",
+            "Series": "Alphabet B\u00e9t\u00e9",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/30876"
+    },
+    {
+        "Artist": "Frederic Bruly Bouabre",
+        "Title": "Le Dieu Solaire APIS (Egyptien) me presente, ici, l'aspect d'un message pictographique que j'essaie d'interpreter a ma facon, au verso du tableau from Connaissance du Monde",
+        "Year": "1991",
+        "ObjectID": "394116",
+        "Work": "https://www.moma.org/collection/works/394116",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ1OTM4MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4095dfd034d3c37d",
+        "Details": {
+            "Medium": "Colored pencil and ballpoint pen on board",
+            "Dimensions": "6 3/8 \u00d7 12 3/8\" (16.2 \u00d7 31.5 cm)",
+            "Credit": "The Jean Pigozzi African Art Collection.  Gift of Jean Pigozzi",
+            "Object number": "105.2019.9",
+            "Copyright": "\u00a9 2023 Family of Fr\u00e9d\u00e9ric Bruly Bouabr\u00e9",
+            "Series": "Knowledge of the World (Connaissance du Monde)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/30876"
+    },
+    {
+        "Artist": "Frederic Bruly Bouabre",
+        "Title": "\u00abLa \"vision\" de mes songes\u00bb \u00abDate: 18-2-199\u00bb from Connaissance du Monde",
+        "Year": "1991",
+        "ObjectID": "394127",
+        "Work": "https://www.moma.org/collection/works/394127",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ1OTM2NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a742c461e3455bf2",
+        "Details": {
+            "Medium": "Colored pencil, ballpoint pen, and felt-tip pen on board",
+            "Dimensions": "6 1/16 \u00d7 4 3/8\" (15.4 \u00d7 11.1 cm)",
+            "Credit": "The Jean Pigozzi African Art Collection.  Gift of Jean Pigozzi",
+            "Object number": "105.2019.20",
+            "Copyright": "\u00a9 2023 Family of Fr\u00e9d\u00e9ric Bruly Bouabr\u00e9",
+            "Series": "Knowledge of the World (Connaissance du Monde)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/30876"
+    },
+    {
+        "Artist": "Frederic Bruly Bouabre",
+        "Title": "\u00abUne divine signature\u00bb \u00abdecouverte le \"5\" Mai 1991\u00bb from Connaissance du Monde",
+        "Year": "1991",
+        "ObjectID": "394128",
+        "Work": "https://www.moma.org/collection/works/394128",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ2NDE5OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a45d80357569c7d5",
+        "Details": {
+            "Medium": "Colored pencil and ballpoint pen on board",
+            "Dimensions": "6 1/16 \u00d7 4 3/8\" (15.4 \u00d7 11.1 cm)",
+            "Credit": "The Jean Pigozzi African Art Collection.  Gift of Jean Pigozzi",
+            "Object number": "105.2019.21",
+            "Copyright": "\u00a9 2023 Family of Fr\u00e9d\u00e9ric Bruly Bouabr\u00e9",
+            "Series": "Knowledge of the World (Connaissance du Monde)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/30876"
+    },
+    {
+        "Artist": "Frederic Bruly Bouabre",
+        "Title": "\u00abLa \"couronne lunaire\" nous revele la \u00abdiversite des \"directions\" des rayons astraux\u00bb from Connaissance du Monde",
+        "Year": "1991",
+        "ObjectID": "394129",
+        "Work": "https://www.moma.org/collection/works/394129",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ1OTM2OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2e7d6d730fb7e663",
+        "Details": {
+            "Medium": "Colored pencil, ballpoint pen, and crayon on board",
+            "Dimensions": "6 1/16 \u00d7 4 3/8\" (15.4 \u00d7 11.1 cm)",
+            "Credit": "The Jean Pigozzi African Art Collection.  Gift of Jean Pigozzi",
+            "Object number": "105.2019.22",
+            "Copyright": "\u00a9 2023 Family of Fr\u00e9d\u00e9ric Bruly Bouabr\u00e9",
+            "Series": "Knowledge of the World (Connaissance du Monde)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/30876"
+    },
+    {
+        "Artist": "Christopher Bucklow",
+        "Title": "Untitled, 2:11 p.m., 27th July, 1991",
+        "Year": "1991",
+        "ObjectID": "51065",
+        "Work": "https://www.moma.org/collection/works/51065",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4OTE3MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=94fb4c455eefc3d6",
         "Details": {
             "Medium": "Gelatin silver print",
-            "Dimensions": "10 1/8 \u00d7 10 1/16\" (25.8 \u00d7 25.6 cm)",
-            "Credit": "E.T. Harmax Foundation Fund",
-            "Object number": "1169.2000",
-            "Copyright": "\u00a9 2023 Ken Grant",
+            "Dimensions": "16 \u00d7 17 1/2\" (40.6 \u00d7 26.9 cm)",
+            "Credit": "Gift of Sarah-Ann and Werner H. Kramarsky",
+            "Object number": "334.1999",
+            "Copyright": "\u00a9 2023 Christopher Bucklow",
             "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/8241"
+        "Profile": "https://www.moma.org/artists/8089"
     },
     {
-        "Artist": "Grey Organisation",
-        "Title": "Album cover for De La Soul, 3 Feet High and Rising",
-        "Year": "1989",
-        "ObjectID": "189053",
-        "Work": "https://www.moma.org/collection/works/189053",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMxNjI3NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4a780f592c2b299c",
+        "Artist": "Christopher Bucklow",
+        "Title": "Untitled,  1:33 p.m., 29th July 1991",
+        "Year": "1991",
+        "ObjectID": "51088",
+        "Work": "https://www.moma.org/collection/works/51088",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4OTE3MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6a4dba09093acf95",
         "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "12 1/2 x 12 1/2\" (31.8 x 31.8 cm)",
-            "Credit": "Committee on Architecture and Design Funds",
-            "Object number": "166.2015",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/47218"
-    },
-    {
-        "Artist": "Jan Groover",
-        "Title": "Untitled",
-        "Year": "1989",
-        "ObjectID": "51281",
-        "Work": "https://www.moma.org/collection/works/51281",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5OTI3NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e2627aaf0c0e6374",
-        "Details": {
-            "Medium": "Chromogenic print",
-            "Dimensions": "22 5/16 \u00d7 28 1/4\" (56.7 \u00d7 71.8 cm)",
-            "Credit": "Acquired through the generosity of Lily Auchincloss",
-            "Object number": "341.1994.x1-x2",
-            "Copyright": "\u00a9 2023 Jan Groover",
+            "Medium": "Gelatin silver print",
+            "Dimensions": "16 \u00d7 17 1/2\" (40.6 \u00d7 26.9 cm)",
+            "Credit": "Gift of Sarah-Ann and Werner H. Kramarsky",
+            "Object number": "335.1999",
+            "Copyright": "\u00a9 2023 Christopher Bucklow",
             "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/2358"
+        "Profile": "https://www.moma.org/artists/8089"
     },
     {
-        "Artist": "Jan Groover",
-        "Title": "Untitled",
-        "Year": "1987-1989",
-        "ObjectID": "51304",
-        "Work": "https://www.moma.org/collection/works/51304",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0MDgxMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2768cf38b0271a31",
+        "Artist": "Chris Burden",
+        "Title": "The Other Vietnam Memorial",
+        "Year": "1991",
+        "ObjectID": "289517",
+        "Work": "https://www.moma.org/collection/works/289517",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ0MTM2MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a03bb973cf643e5c",
         "Details": {
-            "Medium": "Chromogenic print",
-            "Dimensions": "9 \u00d7 19 7/16\" (22.9 \u00d7 49.4 cm)",
-            "Credit": "Acquired through donations by friends in memory of Rose Kolmetz",
-            "Object number": "342.1994.x1-x2",
-            "Copyright": "\u00a9 2023 Jan Groover",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/2358"
-    },
-    {
-        "Artist": "Peter Halley",
-        "Title": "Untitled from the portfolio A Tour of the Monuments of Passaic, New Jersey",
-        "Year": "1989",
-        "ObjectID": "65390",
-        "Work": "https://www.moma.org/collection/works/65390",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNTE2MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=71231f50aab17db0",
-        "Details": {
-            "Medium": "Line block",
-            "Dimensions": "Composition (irreg.): 9 13/16 x 17 1/4\" (24.9 x 43.8 cm)\r\nSheet: 15 3/4 x 20 1/16\" (40 x 50.9 cm)",
-            "Publisher": "Pace Editions, Inc., New York, Edition Schellmann, Munich",
-            "Printer": "The Spring Street Workshop, New York",
-            "Edition": "50",
-            "Credit": "Gift of Edition Schellmann, Munich and New York",
-            "Object number": "257.1989",
-            "Copyright": "\u00a9 2023 Peter Halley",
+            "Medium": "Ink and correction fluid on lined paper",
+            "Dimensions": "11 1/4 \u00d7 8 3/8\" (28.6 \u00d7 21.3 cm)",
+            "Credit": "Gift of the Gilbert B. and Lila Silverman Instruction Drawing Collection, Detroit",
+            "Object number": "1394.2018",
+            "Copyright": "\u00a9 2023 Chris Burden",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/2467"
+        "Profile": "https://www.moma.org/artists/871"
     },
     {
-        "Artist": "Peter Halley",
-        "Title": "Untitled from the portfolio A Tour of the Monuments of Passaic, New Jersey",
-        "Year": "1989",
-        "ObjectID": "65407",
-        "Work": "https://www.moma.org/collection/works/65407",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNTE2MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=20d8e333a07504ba",
+        "Artist": "Victor Burgin",
+        "Title": "Fiction Film",
+        "Year": "(1991)",
+        "ObjectID": "68147",
+        "Work": "https://www.moma.org/collection/works/68147",
+        "Thumbnail": null,
         "Details": {
-            "Medium": "Line block",
-            "Dimensions": "composition: 9 11/16 x 15 9/16\" (24.6 x 39.6 cm); sheet: 15 3/4 x 20 1/16\" (40 x 50.9 cm)",
-            "Publisher": "Edition Schellmann, Munich",
-            "Printer": "The Spring Street Workshop, New York",
-            "Edition": "50",
-            "Credit": "Gift of Edition Schellmann, Munich and New York",
-            "Object number": "258.1989",
-            "Copyright": "\u00a9 2023 Peter Halley",
+            "Medium": "Nine computer generated screenprints",
+            "Dimensions": "composition  29 13/16 x 37 1/2\" (75.7 x 95.2 cm)\r\nsheet  29 13/16 x 37 1/2\" (75 x 95.2 cm)",
+            "Publisher": "The Paragon Press, London",
+            "Printer": "Coriander Studio Ltd., London",
+            "Edition": "35, 10 additional proofs",
+            "Credit": "The Associates Fund",
+            "Object number": "381.1991.1-9",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/2467"
+        "Profile": "https://www.moma.org/artists/6638"
     },
     {
-        "Artist": "Richard Hamilton",
-        "Title": "DS-101 Computer",
-        "Year": "1985-1989",
-        "ObjectID": "110605",
-        "Work": "https://www.moma.org/collection/works/110605",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQyMjY0NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6f2b4065a21256ba",
+        "Artist": "Roberto Burle Marx",
+        "Title": "Fazenda Vargem Grande, Clemente Gomes Estate, Areira, Sao Paulo, Brazil, Model 1:200",
+        "Year": "1979-80",
+        "ObjectID": "995",
+        "Work": "https://www.moma.org/collection/works/995",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyODQ1NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=07f0ea727ff2b546",
         "Details": {
-            "Manufacturer": "DIAB (Dataindustrier AB), Sweden",
-            "Medium": "Aluminum, cellulose, electronics, and anodized aluminum",
-            "Dimensions": "27 1/2 x 19 3/4 x 19 3/4\" (69.9 x 50.2 x 50.2 cm)",
-            "Credit": "Gift of Eddie Thorden",
-            "Object number": "867.2007",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / DACS, London",
+            "Medium": "Plasteline",
+            "Dimensions": "9 x 26 5/8 x 36 5/8\" (22.9 x 67.6 x 93 cm)",
+            "Model maker": "Conrad Hamerman, Thomas Borkowski",
+            "Credit": "Friends of Roberto Burle Marx Fund and Department Purchase",
+            "Object number": "159.1991",
+            "Copyright": "\u00a9 2023 Burle Marx & Cia.Ltda",
             "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/2481"
+        "Profile": "https://www.moma.org/artists/6934"
     },
     {
-        "Artist": "David Hammons",
-        "Title": "Untitled (Night Train)",
-        "Year": "1989",
-        "ObjectID": "166461",
-        "Work": "https://www.moma.org/collection/works/166461",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQyODY1MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=73f9b9c74f4d5048",
+        "Artist": "Vincent Cafarelli, Candy Kugel",
+        "Title": "Adventures of the Maltese Cat",
+        "Year": "1991",
+        "ObjectID": "310530",
+        "Work": "https://www.moma.org/collection/works/310530",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMxNDc5NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=256cc8119ebc7449",
         "Details": {
-            "Medium": "Glass bottles, caps, silicone glue, and coal",
-            "Dimensions": "Dimensions variable, approximately 30 x 42 x 42\" (76.2 x 106.7 x 106.7 cm)",
-            "Credit": "Gift of the Hudgins Family in memory of Lawrence D. \"Butch\" Morris",
-            "Object number": "53.2013",
+            "Object number": "W21682",
+            "Department": "Film"
+        },
+        "Profile": "https://www.moma.org/artists/42510"
+    },
+    {
+        "Artist": "Sophie Calle",
+        "Title": "GHOSTS. Composed of GHOST (de Chirico: The Enigma of the Day), GHOST (Hopper: House by the Railroad), GHOST (Magritte: The Menaced Assasin)",
+        "Year": "1991",
+        "ObjectID": "79021",
+        "Work": "https://www.moma.org/collection/works/79021",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Oil, synthetic polymer paint, graphite and silkscreen ink, and color laser prints",
+            "Dimensions": "Overall dimensions variable. GHOST (de Chirico: The Enigma of the Day) 7' 8\" x 6' 11\" (231.1 x 210.8 cm). GHOST (Hopper: House by the Railroad) 38 x 48\" (96.5 x 121.9 cm), and GHOST (Magritte: The Menaced Assasin) 6' 10\" x 7' 8\" (208.3 x 233.7 cm)",
+            "Credit": "Gift of The Bohen Foundation",
+            "Object number": "162.1992.1-3",
             "Department": "Painting and Sculpture"
         },
-        "Profile": "https://www.moma.org/artists/2486"
+        "Profile": "https://www.moma.org/artists/6655"
     },
     {
-        "Artist": "Rolf Harder, Rolf Harder & Associates Inc.",
-        "Title": "Telephone Directory Covers, Bell Canada",
-        "Year": "1989",
-        "ObjectID": "109112",
-        "Work": "https://www.moma.org/collection/works/109112",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MjI4OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=950c950c715be8a6",
+        "Artist": "Peter Campus",
+        "Title": "Dusk",
+        "Year": "1991",
+        "ObjectID": "43880",
+        "Work": "https://www.moma.org/collection/works/43880",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQwMDM2NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0c10169f0df643b7",
         "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "each: 13 3/8 x 10\" (34 x 25.4 cm)",
-            "Credit": "Gift of the designer",
-            "Object number": "427.2007.1-6",
-            "Copyright": "\u00a9 2023 Rolf Harder",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/32655"
-    },
-    {
-        "Artist": "Rolf Harder, Rolf Harder & Associates Inc.",
-        "Title": "Prehistory Stamps",
-        "Year": "1989",
-        "ObjectID": "109250",
-        "Work": "https://www.moma.org/collection/works/109250",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MjI4NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b5a2c3e79a554946",
-        "Details": {
-            "Medium": "Lithograph on self-adhesive paper",
-            "Dimensions": "2 3/8 x 3 3/4\" (6 x 9.5 cm)",
-            "Printer": "Canadian Bank Note Company, Ottawa",
-            "Credit": "Gift of the designer",
-            "Object number": "426.2007",
-            "Copyright": "\u00a9 2023 Rolf Harder",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/32655"
-    },
-    {
-        "Artist": "John Harding",
-        "Title": "Untitled",
-        "Year": "1989",
-        "ObjectID": "47397",
-        "Work": "https://www.moma.org/collection/works/47397",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMzMxMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c4c9fe2bad571487",
-        "Details": {
-            "Medium": "Chromogenic print",
-            "Dimensions": "13 \u00d7 15 7/8\" (33.1 \u00d7 40.4 cm)",
+            "Medium": "Digital photograph; gelatin silver print",
+            "Dimensions": "18 11/16 \u00d7 22 13/16\" (47.5 \u00d7 58 cm)",
             "Credit": "Purchase",
-            "Object number": "175.1992.x1-x2",
-            "Copyright": "\u00a9 2023 John Harding / Artists Rights Society (ARS), New York / DACS, London",
+            "Object number": "2.1992",
+            "Copyright": "\u00a9 2023 Peter Campus",
             "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/2500"
+        "Profile": "https://www.moma.org/artists/944"
     },
     {
-        "Artist": "Keith Haring",
-        "Title": "Totem",
-        "Year": "1989",
-        "ObjectID": "65424",
-        "Work": "https://www.moma.org/collection/works/65424",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNjM1OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9acf7a613fe246ff",
+        "Artist": "Peter Campus",
+        "Title": "Rupture",
+        "Year": "1991",
+        "ObjectID": "43889",
+        "Work": "https://www.moma.org/collection/works/43889",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQwMDM2NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7b9d39968a8b6f0a",
         "Details": {
-            "Medium": "Woodcut on three sheets",
-            "Dimensions": "composition (overall, irreg.): 73 5/8 x 21 7/8\" (187 x 55.5 cm); sheet (overall): 76 3/4 x 35 1/16\" (195 x 89 cm); sheet (each, irreg.): 25 9/16 x 35 1/16\" (65 x 89 cm)",
-            "Publisher": "Edition Schellmann, Munich - New York",
-            "Printer": "Karl Imhof, Munich",
-            "Edition": "60",
-            "Credit": "Gift of Edition Schellmann, Munich and New York",
-            "Object number": "259.1989.a-c",
-            "Copyright": "\u00a9 2023 The Keith Haring Foundation",
+            "Medium": "Digital photograph; gelatin silver print",
+            "Dimensions": "18 1/2 \u00d7 22 15/16\" (47 \u00d7 58.3 cm)",
+            "Credit": "Purchase",
+            "Object number": "3.1992",
+            "Copyright": "\u00a9 2023 Peter Campus",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/944"
+    },
+    {
+        "Artist": "Ernst Caramelle",
+        "Title": "Untitled",
+        "Year": "1991",
+        "ObjectID": "95653",
+        "Work": "https://www.moma.org/collection/works/95653",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MTk0NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=656da031ffa4eabc",
+        "Details": {
+            "Medium": "Cut-and-pasted colored paper and pencil on paper",
+            "Dimensions": "10 1/4 x 17\" (26 x 43.2 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "1399.2005",
+            "Copyright": "\u00a9 2023 Ernst Caramelle",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/2505"
+        "Profile": "https://www.moma.org/artists/18844"
     },
     {
-        "Artist": "Keith Haring",
-        "Title": "Come to My Party (The Prince Von Thurn und Taxis Invites You For Princess Gloria's Birthday Party!)",
-        "Year": "1989",
-        "ObjectID": "183998",
-        "Work": "https://www.moma.org/collection/works/183998",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQwMDI0NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=21a5e13cce8064bd",
+        "Artist": "Ernst Caramelle",
+        "Title": "Untitled",
+        "Year": "1991",
+        "ObjectID": "95654",
+        "Work": "https://www.moma.org/collection/works/95654",
+        "Thumbnail": null,
         "Details": {
-            "Medium": "7-inch vinyl record",
-            "Dimensions": "cover: 7 1/8 \u00d7 7 1/8\" (18.1 \u00d7 18.1 cm)",
-            "Edition": "250",
+            "Medium": "Cut-and-pasted colored paper on paper",
+            "Dimensions": "10 1/4 x 17\" (26 x 43.2 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "1400.2005",
+            "Copyright": "\u00a9 2023 Ernst Caramelle",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/18844"
+    },
+    {
+        "Artist": "Ernst Caramelle",
+        "Title": "Untitled",
+        "Year": "1991",
+        "ObjectID": "95655",
+        "Work": "https://www.moma.org/collection/works/95655",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyODg3NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=71445881e8eade28",
+        "Details": {
+            "Medium": "Cut-and-pasted colored paper and pencil on paper",
+            "Dimensions": "10 1/4 x 17\" (26 x 43.2 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "1401.2005",
+            "Copyright": "\u00a9 2023 Ernst Caramelle",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/18844"
+    },
+    {
+        "Artist": "Santiago Cardenas",
+        "Title": "Dibujo - Figure and Electric Cord",
+        "Year": "1991",
+        "ObjectID": "35213",
+        "Work": "https://www.moma.org/collection/works/35213",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMyMjczNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=72a8fd1982af6e45",
+        "Details": {
+            "Medium": "Synthetic polymer paint, oil paint, oil pastel, and colored pencil on cardboard",
+            "Dimensions": "18 1/2 x 27 5/8\" (47 x 70.2 cm)",
+            "Credit": "Gift of Mr. and Mrs. Alejandro Freites and Rachel Adler",
+            "Object number": "195.1993",
+            "Copyright": "\u00a9 2023 Santiago C\u00e1rdenas",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/967"
+    },
+    {
+        "Artist": "Eric Chahi",
+        "Title": "Another World",
+        "Year": "1991",
+        "ObjectID": "162458",
+        "Work": "https://www.moma.org/collection/works/162458",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NTA3NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d23f67600d9b9b87",
+        "Details": {
+            "Medium": "Video game software",
+            "Credit": "Gift of the designer",
+            "Object number": "929.2012",
+            "Copyright": "\u00a9 2023 \u00c9ric Chahi",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/42184"
+    },
+    {
+        "Artist": "Francesco Clemente",
+        "Title": "Traditional Self Portrait from the portfolio Art Pro Choice II",
+        "Year": "1991",
+        "ObjectID": "59622",
+        "Work": "https://www.moma.org/collection/works/59622",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNTI1NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=eb2519eed6e40f5c",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition: 17 5/16 x 15 13/16\" (44 x 40.1 cm); sheet: 19 11/16 x 16\" (50 x 40.7 cm)",
+            "Publisher": "National Abortion Rights Action League, Washington, D.C.",
+            "Credit": "Gift of Eileen and Peter Norton",
+            "Object number": "4.2000",
+            "Copyright": "\u00a9 2023 Francesco Clemente",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1145"
+    },
+    {
+        "Artist": "Chuck Close",
+        "Title": "Phil",
+        "Year": "1991",
+        "ObjectID": "59645",
+        "Work": "https://www.moma.org/collection/works/59645",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Woven silk tapestry",
+            "Dimensions": "composition  45 1/2 x 33 3/16\" (115.6 x 84.3 cm)\r\nirreg. sheet  53 15/16 x 38 7/16\" (137 x 97.6 cm)",
+            "Publisher": "Chuck Close",
+            "Credit": "Gift of Eileen and Peter Norton",
+            "Object number": "5.2000",
+            "Copyright": "\u00a9 2023 Chuck Close",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1156"
+    },
+    {
+        "Artist": "Chuck Close",
+        "Title": "Self-Portrait",
+        "Year": "1991",
+        "ObjectID": "84179",
+        "Work": "https://www.moma.org/collection/works/84179",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQwMzYzNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8418be8be293d7fd",
+        "Details": {
+            "Medium": "Oil on canvas",
+            "Dimensions": "8' 4\" x 7' (254 x 213.4 cm)",
+            "Credit": "Gift of UBS",
+            "Object number": "96.2002",
+            "Copyright": "\u00a9 2023 Chuck Close",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/1156"
+    },
+    {
+        "Artist": "Claude Closky",
+        "Title": "Plus de 300 Petits Prix",
+        "Year": "1991",
+        "ObjectID": "183933",
+        "Work": "https://www.moma.org/collection/works/183933",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQyNjcwMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=45ae71e0bcc20896",
+        "Details": {
+            "Medium": "Cassette tape",
+            "Dimensions": "cover: 4 1/4 \u00d7 2 3/4\" (10.8 \u00d7 7 cm)",
+            "Publisher": "Claude Closky",
             "Credit": "Committee on Prints and Illustrated Books Fund",
-            "Object number": "854.2013.130",
-            "Copyright": "\u00a9 2023 The Keith Haring Foundation",
+            "Object number": "854.2013.68",
+            "Copyright": "\u00a9 Courtesy Laurent Godin Gallery, Paris",
             "Associated work": "Steven Leiber Audio Collection",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/2505"
+        "Profile": "https://www.moma.org/artists/26512"
     },
     {
-        "Artist": "Keith Haring, Sean Kalish",
-        "Title": "Untitled from an untitled series",
-        "Year": "1989",
-        "ObjectID": "401885",
-        "Work": "https://www.moma.org/collection/works/401885",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4OTU0NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=568bfdfdf0e4d858",
+        "Artist": "Prunella Clough",
+        "Title": "Shadow Play 6 from the series Shadow Play",
+        "Year": "(1991)",
+        "ObjectID": "61868",
+        "Work": "https://www.moma.org/collection/works/61868",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5NTY5MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6af7c11377ec2340",
         "Details": {
-            "Collaborating artist": "Sean Kalish",
-            "Medium": "One from a series of eleven etchings",
-            "Dimensions": "plate: 6 \u00d7 4 15/16\" (15.2 \u00d7 12.5 cm); sheet: 14 1/4 \u00d7 12 5/8\" (36.2 \u00d7 32 cm)",
-            "Publisher": "Keith Haring",
-            "Printer": "Wellington Studios, London, England",
-            "Edition": "33",
-            "Credit": "Gift of The Keith Haring Foundation",
-            "Object number": "105.1991.1",
-            "Copyright": "\u00a9 2023 The Keith Haring Foundation",
-            "Series": "Untitled",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/2505"
-    },
-    {
-        "Artist": "Keith Haring, Sean Kalish",
-        "Title": "Untitled from an untitled series",
-        "Year": "1989",
-        "ObjectID": "401886",
-        "Work": "https://www.moma.org/collection/works/401886",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4OTU0NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f2bc260d50f1a5ab",
-        "Details": {
-            "Collaborating artist": "Sean Kalish",
-            "Medium": "One from a series of eleven etchings",
-            "Dimensions": "plate: 4 15/16 \u00d7 6\" (12.5 \u00d7 15.2 cm); sheet: 12 11/16 \u00d7 14 5/16\" (32.3 \u00d7 36.4 cm)",
-            "Publisher": "Keith Haring",
-            "Printer": "Wellington Studios, London, England",
-            "Edition": "33",
-            "Credit": "Gift of The Keith Haring Foundation",
-            "Object number": "105.1991.2",
-            "Copyright": "\u00a9 2023 The Keith Haring Foundation",
-            "Series": "Untitled",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/2505"
-    },
-    {
-        "Artist": "Keith Haring, Sean Kalish",
-        "Title": "Untitled from an untitled series",
-        "Year": "1989",
-        "ObjectID": "401887",
-        "Work": "https://www.moma.org/collection/works/401887",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4OTU0OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=58e0cbbb4eab179e",
-        "Details": {
-            "Collaborating artist": "Sean Kalish",
-            "Medium": "One from a series of eleven etchings",
-            "Dimensions": "plate: 5 15/16 \u00d7 4 15/16\" (15.1 \u00d7 12.5 cm); sheet: 14 3/16 \u00d7 12 5/8\" (36.1 \u00d7 32 cm)",
-            "Publisher": "Keith Haring",
-            "Printer": "Wellington Studios, London, England",
-            "Edition": "33",
-            "Credit": "Gift of The Keith Haring Foundation",
-            "Object number": "105.1991.3",
-            "Copyright": "\u00a9 2023 The Keith Haring Foundation",
-            "Series": "Untitled",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/2505"
-    },
-    {
-        "Artist": "Keith Haring, Sean Kalish",
-        "Title": "Untitled from an untitled series",
-        "Year": "1989",
-        "ObjectID": "401888",
-        "Work": "https://www.moma.org/collection/works/401888",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4OTU0OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=720731bedebb7f3d",
-        "Details": {
-            "Collaborating artist": "Sean Kalish",
-            "Medium": "One from a series of eleven etchings",
-            "Dimensions": "plate: 5 7/8 \u00d7 4 15/16\" (15 \u00d7 12.5 cm); sheet: 14 5/16 \u00d7 12 9/16\" (36.3 \u00d7 31.9 cm)",
-            "Publisher": "Keith Haring",
-            "Printer": "Wellington Studios, London, England",
-            "Edition": "33",
-            "Credit": "Gift of The Keith Haring Foundation",
-            "Object number": "105.1991.4",
-            "Copyright": "\u00a9 2023 The Keith Haring Foundation",
-            "Series": "Untitled",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/2505"
-    },
-    {
-        "Artist": "Keith Haring, Sean Kalish",
-        "Title": "Untitled from an untitled series",
-        "Year": "1989",
-        "ObjectID": "401889",
-        "Work": "https://www.moma.org/collection/works/401889",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4OTU1MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0b1050c5f6dae2ef",
-        "Details": {
-            "Collaborating artist": "Sean Kalish",
-            "Medium": "One from a series of eleven etchings",
-            "Dimensions": "plate: 5 15/16 \u00d7 4 7/8\" (15.1 \u00d7 12.4 cm); sheet: 14 3/16 \u00d7 12 1/2\" (36.1 \u00d7 31.8 cm)",
-            "Publisher": "Keith Haring",
-            "Printer": "Wellington Studios, London, England",
-            "Edition": "33",
-            "Credit": "Gift of The Keith Haring Foundation",
-            "Object number": "105.1991.5",
-            "Copyright": "\u00a9 2023 The Keith Haring Foundation",
-            "Series": "Untitled",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/2505"
-    },
-    {
-        "Artist": "Keith Haring, Sean Kalish",
-        "Title": "Untitled from an untitled series",
-        "Year": "1989",
-        "ObjectID": "401890",
-        "Work": "https://www.moma.org/collection/works/401890",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4OTU1MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3978a60101f2da8d",
-        "Details": {
-            "Collaborating artist": "Sean Kalish",
-            "Medium": "One from a series of eleven etchings",
-            "Dimensions": "plate: 4 15/16 \u00d7 6\" (12.5 \u00d7 15.2 cm); sheet: 12 5/8 \u00d7 14 3/16\" (32.1 \u00d7 36 cm)",
-            "Publisher": "Keith Haring",
-            "Printer": "Wellington Studios, London, England",
-            "Edition": "33",
-            "Credit": "Gift of The Keith Haring Foundation",
-            "Object number": "105.1991.6",
-            "Copyright": "\u00a9 2023 The Keith Haring Foundation",
-            "Series": "Untitled",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/2505"
-    },
-    {
-        "Artist": "Keith Haring, Sean Kalish",
-        "Title": "Untitled from an untitled series",
-        "Year": "1989",
-        "ObjectID": "401891",
-        "Work": "https://www.moma.org/collection/works/401891",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MjAxNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6c0adedccba11b8c",
-        "Details": {
-            "Collaborating artist": "Sean Kalish",
-            "Medium": "One from a series of eleven etchings",
-            "Dimensions": "plate: 5 15/16 \u00d7 4 7/8\" (15.1 \u00d7 12.4 cm); sheet: 14 3/16 \u00d7 12 5/8\" (36 \u00d7 32 cm)",
-            "Publisher": "Keith Haring",
-            "Printer": "Wellington Studios, London, England",
-            "Edition": "33",
-            "Credit": "Gift of The Keith Haring Foundation",
-            "Object number": "105.1991.7",
-            "Copyright": "\u00a9 2023 The Keith Haring Foundation",
-            "Series": "Untitled",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/2505"
-    },
-    {
-        "Artist": "Keith Haring, Sean Kalish",
-        "Title": "Untitled from an untitled series",
-        "Year": "1989",
-        "ObjectID": "401892",
-        "Work": "https://www.moma.org/collection/works/401892",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MjAxNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=bdc6366cc7ab6b97",
-        "Details": {
-            "Collaborating artist": "Sean Kalish",
-            "Medium": "One from a series of eleven etchings",
-            "Dimensions": "plate: 5 15/16 \u00d7 4 15/16\" (15.1 \u00d7 12.5 cm); sheet: 14 3/16 \u00d7 12 11/16\" (36.1 \u00d7 32.2 cm)",
-            "Publisher": "Keith Haring",
-            "Printer": "Wellington Studios, London, England",
-            "Edition": "33",
-            "Credit": "Gift of The Keith Haring Foundation",
-            "Object number": "105.1991.8",
-            "Copyright": "\u00a9 2023 The Keith Haring Foundation",
-            "Series": "Untitled",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/2505"
-    },
-    {
-        "Artist": "Keith Haring, Sean Kalish",
-        "Title": "Untitled from an untitled series",
-        "Year": "1989",
-        "ObjectID": "401893",
-        "Work": "https://www.moma.org/collection/works/401893",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MjAxNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e40220a7c3a74dde",
-        "Details": {
-            "Collaborating artist": "Sean Kalish",
-            "Medium": "One from a series of eleven etchings",
-            "Dimensions": "plate: 4 15/16 \u00d7 5 15/16\" (12.5 \u00d7 15.1 cm); sheet: 12 13/16 \u00d7 14 7/16\" (32.5 \u00d7 36.6 cm)",
-            "Publisher": "Keith Haring",
-            "Printer": "Wellington Studios, London, England",
-            "Edition": "33",
-            "Credit": "Gift of The Keith Haring Foundation",
-            "Object number": "105.1991.9",
-            "Copyright": "\u00a9 2023 The Keith Haring Foundation",
-            "Series": "Untitled",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/2505"
-    },
-    {
-        "Artist": "Keith Haring, Sean Kalish",
-        "Title": "Untitled from an untitled series",
-        "Year": "1989",
-        "ObjectID": "401894",
-        "Work": "https://www.moma.org/collection/works/401894",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4OTU0NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8ab5e20940d99360",
-        "Details": {
-            "Collaborating artist": "Sean Kalish",
-            "Medium": "One from a series of eleven etchings",
-            "Dimensions": "plate: 4 15/16 \u00d7 5 15/16\" (12.5 \u00d7 15.1 cm); sheet: 12 11/16 \u00d7 14 1/4\" (32.2 \u00d7 36.2 cm)",
-            "Publisher": "Keith Haring",
-            "Printer": "Wellington Studios, London, England",
-            "Edition": "33",
-            "Credit": "Gift of The Keith Haring Foundation",
-            "Object number": "105.1991.10",
-            "Copyright": "\u00a9 2023 The Keith Haring Foundation",
-            "Series": "Untitled",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/2505"
-    },
-    {
-        "Artist": "Keith Haring, Sean Kalish",
-        "Title": "Untitled from an untitled series",
-        "Year": "1989",
-        "ObjectID": "401895",
-        "Work": "https://www.moma.org/collection/works/401895",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4OTU0NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=41db4bd043f35244",
-        "Details": {
-            "Collaborating artist": "Sean Kalish",
-            "Medium": "One from a series of eleven etchings",
-            "Dimensions": "plate: 4 15/16 \u00d7 6\" (12.5 \u00d7 15.2 cm); sheet: 12 11/16 \u00d7 14 3/16\" (32.3 \u00d7 36 cm)",
-            "Publisher": "Keith Haring",
-            "Printer": "Wellington Studios, London, England",
-            "Edition": "33",
-            "Credit": "Gift of The Keith Haring Foundation",
-            "Object number": "105.1991.11",
-            "Copyright": "\u00a9 2023 The Keith Haring Foundation",
-            "Series": "Untitled",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/2505"
-    },
-    {
-        "Artist": "Georg Herold",
-        "Title": "Earthquake Piece",
-        "Year": "1989",
-        "ObjectID": "76912",
-        "Work": "https://www.moma.org/collection/works/76912",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMTI3NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2abeccbfe8fbbc57",
-        "Details": {
-            "Medium": "Photolithograph",
-            "Dimensions": "composition  16 1/8 x 21 9/16\" (40.9 x 54.8 cm)\r\nsheet  19 3/16 x 27 3/8\" (48 x 69.6 cm)",
-            "Publisher": "Gisela Capitain, Cologne",
-            "Edition": "35",
-            "Credit": "Gift of Walter Sudol and Steven Johnson",
-            "Object number": "1470.2001",
-            "Copyright": "\u00a9 2023 Georg Herold / Artists Rights Society (ARS), New York / VG Bild-Kunst, Germany",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/2615"
-    },
-    {
-        "Artist": "Kathy High",
-        "Title": "I Need Your Full Cooperation",
-        "Year": "1989",
-        "ObjectID": "120329",
-        "Work": "https://www.moma.org/collection/works/120329",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE0ODAwNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d32c279594a33541",
-        "Details": {
-            "Medium": "Video (color, sound)",
-            "Duration": "28:20 min.",
+            "Medium": "Etching",
             "Credit": "Purchase",
-            "Object number": "699.1990",
-            "Copyright": "\u00a9 2023 Kathy High. Used by permission.",
-            "Department": "Media and Performance"
-        },
-        "Profile": "https://www.moma.org/artists/35537"
-    },
-    {
-        "Artist": "Charles Christopher Hill",
-        "Title": "The Smells of Summer",
-        "Year": "1989",
-        "ObjectID": "195988",
-        "Work": "https://www.moma.org/collection/works/195988",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzNTE3OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=43bd1688c834a2d3",
-        "Details": {
-            "Author": "Kristine McKenna",
-            "Medium": "Portfolio of six etching and aquatints with chine coll\u00e9; and six letterpress prints with artist's text",
-            "Dimensions": "plate (each): 4 7/8 \u00d7 3 7/8\" (12.4 \u00d7 9.9 cm); sheet (each): 11 \u00d7 9 1/8\" (27.9 \u00d7 23.1 cm); box: 11 1/4 \u00d7 9 7/16 \u00d7 5/8\" (28.5 \u00d7 24 \u00d7 1.6 cm)",
-            "Publisher": "Jacob Samuel",
-            "Printer": "Jacob Samuel",
-            "Edition": "10",
-            "Credit": "Gift of Jacob and Yael Samuel in honor of Chad Feldheimer",
-            "Object number": "1663.2015.1-12",
-            "Copyright": "\u00a9 2023 Charles Christopher Hill",
-            "Type": "Portfolio",
+            "Object number": "105.1993",
+            "Copyright": "\u00a9 2023 Prunella Clough / Artists Rights Society (ARS), New York / DACS, London",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/2646"
+        "Profile": "https://www.moma.org/artists/1159"
     },
     {
-        "Artist": "Charles Christopher Hill",
-        "Title": "Untitled from The Smells of Summer",
-        "Year": "1989",
-        "ObjectID": "200521",
-        "Work": "https://www.moma.org/collection/works/200521",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzNTE3NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=87fc041589b37690",
+        "Artist": "Prunella Clough",
+        "Title": "Shadow Play 7 from the series Shadow Play",
+        "Year": "(1991)",
+        "ObjectID": "61882",
+        "Work": "https://www.moma.org/collection/works/61882",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5NTY5MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=34ba1e99dfe80218",
         "Details": {
-            "Author": "Kristine McKenna",
-            "Medium": "Letterpress print from a portfolio of six etching and aquatints with chine coll\u00e9; and five letterpress prints with artist's text",
-            "Dimensions": "sheet: 11 \u00d7 9 1/8\" (27.9 \u00d7 23.1 cm)",
-            "Publisher": "Jacob Samuel",
-            "Printer": "Jacob Samuel",
-            "Edition": "10",
-            "Credit": "Gift of Jacob and Yael Samuel in honor of Chad Feldheimer",
-            "Object number": "1663.2015.1",
-            "Copyright": "\u00a9 2023 Charles Christopher Hill",
-            "Portfolio": "The Smells of Summer",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/2646"
-    },
-    {
-        "Artist": "Charles Christopher Hill",
-        "Title": "Untitled from The Smells of Summer",
-        "Year": "1989",
-        "ObjectID": "200522",
-        "Work": "https://www.moma.org/collection/works/200522",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzNTE4MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a9596d18f54ee763",
-        "Details": {
-            "Author": "Kristine McKenna",
-            "Medium": "Etching and aquatint with chine coll\u00e9 from a portfolio of six etching and aquatints with chine coll\u00e9; and six letterpress prints with artist's text",
-            "Dimensions": "plate: 4 15/16 \u00d7 3 7/8\" (12.5 \u00d7 9.9 cm); sheet: 11 \u00d7 9 1/8\" (27.9 \u00d7 23.1 cm)",
-            "Publisher": "Jacob Samuel",
-            "Printer": "Jacob Samuel",
-            "Edition": "10",
-            "Credit": "Gift of Jacob and Yael Samuel in honor of Chad Feldheimer",
-            "Object number": "1663.2015.2",
-            "Copyright": "\u00a9 2023 Charles Christopher Hill",
-            "Portfolio": "The Smells of Summer",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/2646"
-    },
-    {
-        "Artist": "Charles Christopher Hill",
-        "Title": "Untitled from The Smells of Summer",
-        "Year": "1989",
-        "ObjectID": "200523",
-        "Work": "https://www.moma.org/collection/works/200523",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzNTE4NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6ce6e86400152190",
-        "Details": {
-            "Author": "Kristine McKenna",
-            "Medium": "Letterpress print from a portfolio of six etching and aquatints with chine coll\u00e9; and five letterpress prints with artist's text",
-            "Dimensions": "sheet: 11 \u00d7 9 1/8\" (27.9 \u00d7 23.1 cm)",
-            "Publisher": "Jacob Samuel",
-            "Printer": "Jacob Samuel",
-            "Edition": "10",
-            "Credit": "Gift of Jacob and Yael Samuel in honor of Chad Feldheimer",
-            "Object number": "1663.2015.3",
-            "Copyright": "\u00a9 2023 Charles Christopher Hill",
-            "Portfolio": "The Smells of Summer",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/2646"
-    },
-    {
-        "Artist": "Charles Christopher Hill",
-        "Title": "Untitled from The Smells of Summer",
-        "Year": "1989",
-        "ObjectID": "200524",
-        "Work": "https://www.moma.org/collection/works/200524",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzNTE4NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e4e10c8ee0774592",
-        "Details": {
-            "Author": "Kristine McKenna",
-            "Medium": "Etching and aquatint with chine coll\u00e9 from a portfolio of six etching and aquatints with chine coll\u00e9; and six letterpress prints with artist's text",
-            "Dimensions": "plate: 4 15/16 \u00d7 3 7/8\" (12.5 \u00d7 9.8 cm); sheet: 11 \u00d7 9 1/8\" (27.9 \u00d7 23.1 cm)",
-            "Publisher": "Jacob Samuel",
-            "Printer": "Jacob Samuel",
-            "Edition": "10",
-            "Credit": "Gift of Jacob and Yael Samuel in honor of Chad Feldheimer",
-            "Object number": "1663.2015.4",
-            "Copyright": "\u00a9 2023 Charles Christopher Hill",
-            "Portfolio": "The Smells of Summer",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/2646"
-    },
-    {
-        "Artist": "Charles Christopher Hill",
-        "Title": "Untitled from The Smells of Summer",
-        "Year": "1989",
-        "ObjectID": "200525",
-        "Work": "https://www.moma.org/collection/works/200525",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzNTE4NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=09cf4fdc9e9d485f",
-        "Details": {
-            "Author": "Kristine McKenna",
-            "Medium": "Letterpress print from a portfolio of six etching and aquatints with chine coll\u00e9; and five letterpress prints with artist's text",
-            "Dimensions": "sheet: 11 \u00d7 9 1/8\" (27.9 \u00d7 23.1 cm)",
-            "Publisher": "Jacob Samuel",
-            "Printer": "Jacob Samuel",
-            "Edition": "10",
-            "Credit": "Gift of Jacob and Yael Samuel in honor of Chad Feldheimer",
-            "Object number": "1663.2015.5",
-            "Copyright": "\u00a9 2023 Charles Christopher Hill",
-            "Portfolio": "The Smells of Summer",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/2646"
-    },
-    {
-        "Artist": "Charles Christopher Hill",
-        "Title": "Untitled from The Smells of Summer",
-        "Year": "1989",
-        "ObjectID": "200526",
-        "Work": "https://www.moma.org/collection/works/200526",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzNTE4NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fd2fb87dc45161ae",
-        "Details": {
-            "Author": "Kristine McKenna",
-            "Medium": "Etching and aquatint with chine coll\u00e9 from a portfolio of six etching and aquatints with chine coll\u00e9; and six letterpress prints with artist's text",
-            "Dimensions": "plate: 4 7/8 \u00d7 3 7/8\" (12.4 \u00d7 9.9 cm); sheet: 11 \u00d7 9 1/8\" (27.9 \u00d7 23.1 cm)",
-            "Publisher": "Jacob Samuel",
-            "Printer": "Jacob Samuel",
-            "Edition": "10",
-            "Credit": "Gift of Jacob and Yael Samuel in honor of Chad Feldheimer",
-            "Object number": "1663.2015.6",
-            "Copyright": "\u00a9 2023 Charles Christopher Hill",
-            "Portfolio": "The Smells of Summer",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/2646"
-    },
-    {
-        "Artist": "Charles Christopher Hill",
-        "Title": "Untitled from The Smells of Summer",
-        "Year": "1989",
-        "ObjectID": "200527",
-        "Work": "https://www.moma.org/collection/works/200527",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzNTE4OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=156e7ad13f39c21d",
-        "Details": {
-            "Author": "Kristine McKenna",
-            "Medium": "Letterpress print from a portfolio of six etching and aquatints with chine coll\u00e9; and five letterpress prints with artist's text",
-            "Dimensions": "sheet: 11 \u00d7 9 1/8\" (27.9 \u00d7 23.1 cm)",
-            "Publisher": "Jacob Samuel",
-            "Printer": "Jacob Samuel",
-            "Edition": "10",
-            "Credit": "Gift of Jacob and Yael Samuel in honor of Chad Feldheimer",
-            "Object number": "1663.2015.7",
-            "Copyright": "\u00a9 2023 Charles Christopher Hill",
-            "Portfolio": "The Smells of Summer",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/2646"
-    },
-    {
-        "Artist": "Charles Christopher Hill",
-        "Title": "Untitled from The Smells of Summer",
-        "Year": "1989",
-        "ObjectID": "200528",
-        "Work": "https://www.moma.org/collection/works/200528",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzNTE4OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=05c1d3d8b58e9a4f",
-        "Details": {
-            "Author": "Kristine McKenna",
-            "Medium": "Etching and aquatint with chine coll\u00e9 from a portfolio of six etching and aquatints with chine coll\u00e9; and six letterpress prints with artist's text",
-            "Dimensions": "plate: 4 7/8 \u00d7 3 7/8\" (12.4 \u00d7 9.8 cm); sheet: 11 \u00d7 9 1/8\" (27.9 \u00d7 23.1 cm)",
-            "Publisher": "Jacob Samuel",
-            "Printer": "Jacob Samuel",
-            "Edition": "10",
-            "Credit": "Gift of Jacob and Yael Samuel in honor of Chad Feldheimer",
-            "Object number": "1663.2015.8",
-            "Copyright": "\u00a9 2023 Charles Christopher Hill",
-            "Portfolio": "The Smells of Summer",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/2646"
-    },
-    {
-        "Artist": "Charles Christopher Hill",
-        "Title": "Untitled from The Smells of Summer",
-        "Year": "1989",
-        "ObjectID": "200529",
-        "Work": "https://www.moma.org/collection/works/200529",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzNTE5MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6b8a3e956528f67d",
-        "Details": {
-            "Author": "Kristine McKenna",
-            "Medium": "Letterpress print from a portfolio of six etching and aquatints with chine coll\u00e9; and five letterpress prints with artist's text",
-            "Dimensions": "sheet: 11 \u00d7 9 1/8\" (27.9 \u00d7 23.1 cm)",
-            "Publisher": "Jacob Samuel",
-            "Printer": "Jacob Samuel",
-            "Edition": "10",
-            "Credit": "Gift of Jacob and Yael Samuel in honor of Chad Feldheimer",
-            "Object number": "1663.2015.9",
-            "Copyright": "\u00a9 2023 Charles Christopher Hill",
-            "Portfolio": "The Smells of Summer",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/2646"
-    },
-    {
-        "Artist": "Charles Christopher Hill",
-        "Title": "Untitled from The Smells of Summer",
-        "Year": "1989",
-        "ObjectID": "200530",
-        "Work": "https://www.moma.org/collection/works/200530",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzNTE3NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=550f1e32c3025aaa",
-        "Details": {
-            "Author": "Kristine McKenna",
-            "Medium": "Etching and aquatint with chine coll\u00e9 from a portfolio of six etching and aquatints with chine coll\u00e9; and six letterpress prints with artist's text",
-            "Dimensions": "plate: 4 7/8 \u00d7 3 7/8\" (12.4 \u00d7 9.8 cm); sheet: 11 \u00d7 9 1/8\" (27.9 \u00d7 23.1 cm)",
-            "Publisher": "Jacob Samuel",
-            "Printer": "Jacob Samuel",
-            "Edition": "10",
-            "Credit": "Gift of Jacob and Yael Samuel in honor of Chad Feldheimer",
-            "Object number": "1663.2015.10",
-            "Copyright": "\u00a9 2023 Charles Christopher Hill",
-            "Portfolio": "The Smells of Summer",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/2646"
-    },
-    {
-        "Artist": "Charles Christopher Hill",
-        "Title": "Untitled from The Smells of Summer",
-        "Year": "1989",
-        "ObjectID": "200531",
-        "Work": "https://www.moma.org/collection/works/200531",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzNTE3OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8490019639606ec3",
-        "Details": {
-            "Author": "Kristine McKenna",
-            "Medium": "Letterpress print from a portfolio of six etching and aquatints with chine coll\u00e9; and five letterpress prints with artist's text",
-            "Dimensions": "sheet: 11 \u00d7 9 1/8\" (27.9 \u00d7 23.1 cm)",
-            "Publisher": "Jacob Samuel",
-            "Printer": "Jacob Samuel",
-            "Edition": "10",
-            "Credit": "Gift of Jacob and Yael Samuel in honor of Chad Feldheimer",
-            "Object number": "1663.2015.11",
-            "Copyright": "\u00a9 2023 Charles Christopher Hill",
-            "Portfolio": "The Smells of Summer",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/2646"
-    },
-    {
-        "Artist": "Charles Christopher Hill",
-        "Title": "Untitled from The Smells of Summer",
-        "Year": "1989",
-        "ObjectID": "200532",
-        "Work": "https://www.moma.org/collection/works/200532",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzNTE4MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=325156f6c0fabe21",
-        "Details": {
-            "Author": "Kristine McKenna",
-            "Medium": "Etching and aquatint with chine coll\u00e9 from a portfolio of six etching and aquatints with chine coll\u00e9; and six letterpress prints with artist's text",
-            "Dimensions": "plate: 4 7/8 \u00d7 3 7/8\" (12.4 \u00d7 9.8 cm); sheet: 11 \u00d7 9 1/8\" (27.9 \u00d7 23.1 cm)",
-            "Publisher": "Jacob Samuel",
-            "Printer": "Jacob Samuel",
-            "Edition": "10",
-            "Credit": "Gift of Jacob and Yael Samuel in honor of Chad Feldheimer",
-            "Object number": "1663.2015.12",
-            "Copyright": "\u00a9 2023 Charles Christopher Hill",
-            "Portfolio": "The Smells of Summer",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/2646"
-    },
-    {
-        "Artist": "Gary Hill",
-        "Title": "Site Recite (A Prologue)",
-        "Year": "1989",
-        "ObjectID": "107559",
-        "Work": "https://www.moma.org/collection/works/107559",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyNzEzNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=66404530ecd92482",
-        "Details": {
-            "Production": "USA",
-            "Medium": "",
-            "Object number": "W25610",
-            "Department": "Film"
-        },
-        "Profile": "https://www.moma.org/artists/7416"
-    },
-    {
-        "Artist": "Thomas Hirschhorn",
-        "Title": "Wall Display",
-        "Year": "1988-89",
-        "ObjectID": "132763",
-        "Work": "https://www.moma.org/collection/works/132763",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMjE3MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=41b8d30bf6bd3b11",
-        "Details": {
-            "Medium": "Thirty part assemblage of felt-tip pen, ballpoint pen, and acrylic paint, with pressure-sensitive tape, cut-and-pasted printed paper, postcards, paper plates, abrasive pads, and instant prints on cardboard, wood, book covers, and pressboard",
-            "Dimensions": "98 1/2 x 137 7/8\" (250.2 x 350.2 cm)",
-            "Credit": "Purchased with funds provided by Jill and Peter Kraus and Committee on Drawings Funds",
-            "Object number": "14.2010.a-dd",
-            "Copyright": "\u00a9 2023 Thomas Hirschhorn",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/8276"
-    },
-    {
-        "Artist": "Jenny Holzer",
-        "Title": "LAMENTS: THE NEW DISEASE CAME...",
-        "Year": "(1988-89)",
-        "ObjectID": "37309",
-        "Work": "https://www.moma.org/collection/works/37309",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjk3MTMyIl0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNTEyeDUxMlx1MDAzZSJdXQ.jpg?sha=ce6770b8953e50ac",
-        "Details": {
-            "Medium": "Ink transfer and pencil on transparentized paper in artist's frame",
-            "Dimensions": "Frame: 85 1/8 x 33 1/8\" (216.2 x 84.1 cm)",
+            "Medium": "Etching",
             "Credit": "Purchase",
-            "Object number": "547.1990",
-            "Copyright": "\u00a9 2023 Jenny Holzer / Artists Rights Society (ARS), New York",
+            "Object number": "106.1993",
+            "Copyright": "\u00a9 2023 Prunella Clough / Artists Rights Society (ARS), New York / DACS, London",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/2714"
+        "Profile": "https://www.moma.org/artists/1159"
     },
     {
-        "Artist": "Jenny Holzer",
-        "Title": "Laments (I Want to Live...)",
-        "Year": "1989",
-        "ObjectID": "87284",
-        "Work": "https://www.moma.org/collection/works/87284",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyOTYxOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ec096058d13be363",
+        "Artist": "Peter Cohen, Leslie Sweet",
+        "Title": "Mayor Dinkins Won't Help the Mentally Ill Until He Starts Hearing Voices Himself",
+        "Year": "1991",
+        "ObjectID": "7075",
+        "Work": "https://www.moma.org/collection/works/7075",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxMzYyMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4de14b67966e1868",
         "Details": {
-            "Medium": "Verde antique marble sarcophagus and electronic LED sign",
-            "Dimensions": "Sarcophagus 18 x 54 1/16 x 24 1/8\" ( 45.7 x 137.3 x 61.3 cm), LED sign 128 1/4 x 9 1/2 x 5 1/2\" (325.8 x 24.1 x 14 cm)",
-            "Credit": "Gift of Thea Westreich and Ethan Wagner",
-            "Object number": "425.2002.a-c",
-            "Copyright": "\u00a9 2023 Jenny Holzer / Artists Rights Society (ARS), New York",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/2714"
-    },
-    {
-        "Artist": "Jenny Holzer",
-        "Title": "LAMENTS: THE KNIFE CUT RUNS AS LONG...",
-        "Year": "1988-89",
-        "ObjectID": "96197",
-        "Work": "https://www.moma.org/collection/works/96197",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyOTI2MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=49f1dcec1134b2a7",
-        "Details": {
-            "Medium": "Ink transfer and pencil on transparentized paper in artist's frame",
-            "Dimensions": "Frame: 84 x 32 1/8\" (213.4 x 81.6 cm)",
-            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
-            "Object number": "1915.2005",
-            "Copyright": "\u00a9 2023 Jenny Holzer / Artists Rights Society (ARS), New York",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/2714"
-    },
-    {
-        "Artist": "Roni Horn",
-        "Title": "Double 2.7 A - B",
-        "Year": "1989",
-        "ObjectID": "130854",
-        "Work": "https://www.moma.org/collection/works/130854",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0NTQwNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c3a3eedf1971da12",
-        "Details": {
-            "Medium": "Red pigment and varnish on paper",
-            "Dimensions": "each: 19 5/8 x 25 3/4\" (49.8 x 65.4 cm)",
-            "Credit": "Gift of the artist in honor of Kathy Fuld",
-            "Object number": "1093.2009.a-b",
-            "Copyright": "\u00a9 2023 Roni Horn",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/7503"
-    },
-    {
-        "Artist": "Shoichi Ida",
-        "Title": "Well from Karma - Black Echo",
-        "Year": "1989",
-        "ObjectID": "65717",
-        "Work": "https://www.moma.org/collection/works/65717",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNTE3MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=52262f0664dccf28",
-        "Details": {
-            "Medium": "Etching and drypoint with chine coll\u00e9",
-            "Edition": "Edition:",
-            "Credit": "The Associates Fund in honor of Riva Castleman",
-            "Object number": "270.1992",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/2795"
-    },
-    {
-        "Artist": "Mako Idemitsu",
-        "Title": "Kiyoko's Situation",
-        "Year": "1989",
-        "ObjectID": "118318",
-        "Work": "https://www.moma.org/collection/works/118318",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1MTY0OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=dc575fffb0b666f6",
-        "Details": {
-            "Medium": "Video (color, sound)",
-            "Duration": "24:19 min.",
-            "Credit": "Acquired through the generosity of Margot and John Ernst",
-            "Object number": "969.1998",
-            "Copyright": "\u00a9 2023 Mako Idemitsu. Courtesy Electronic Arts Intermix (EAI), New York",
-            "Department": "Media and Performance"
-        },
-        "Profile": "https://www.moma.org/artists/26369"
-    },
-    {
-        "Artist": "IMEC",
-        "Title": "Diagram of Neural Net: Foveated, Retina-like Sensor",
-        "Year": "1989",
-        "ObjectID": "4293",
-        "Work": "https://www.moma.org/collection/works/4293",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ2ODUxMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9aca9428dadc2073",
-        "Details": {
-            "Manufacturer": "University of Pennsylvania, USA",
-            "Medium": "Computer-generated plot on paper",
-            "Dimensions": "36 1/4 x 36 1/4\" (92.1 x 92.1 cm)",
-            "Credit": "Gift of University of Pennsylvania",
-            "Object number": "519.1990.1",
+            "Medium": "Offset lithograph",
+            "Dimensions": "Dimensions: h. 19 5/16\" x w. 23 3/8\" (49 x 60.6 cm)",
+            "Credit": "Gift of the designer",
+            "Object number": "SC455.1992",
             "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/6881"
+        "Profile": "https://www.moma.org/artists/7046"
+    },
+    {
+        "Artist": "Max Cole",
+        "Title": "#12",
+        "Year": "1991",
+        "ObjectID": "90674",
+        "Work": "https://www.moma.org/collection/works/90674",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4NjM5MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c2c5109633cd9f60",
+        "Details": {
+            "Medium": "Ink on paper",
+            "Dimensions": "22 1/2 x 30 1/2\" (57.2 x 77.5 cm)",
+            "Credit": "Gift of Sarah-Ann and Werner H. Kramarsky",
+            "Object number": "89.2004",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/27155"
+    },
+    {
+        "Artist": "Willie Cole",
+        "Title": "E21000TM",
+        "Year": "1991",
+        "ObjectID": "72739",
+        "Work": "https://www.moma.org/collection/works/72739",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1MjM3OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=963ea4055274f314",
+        "Details": {
+            "Medium": "Photolithograph, with metallic powder additions and collage",
+            "Dimensions": "composition (irreg.): 41 1/2 x 29 15/16\" (105.4 x 76.1 cm); sheet: 41 5/16 x 29 15/16\" (105 x 76.1 cm)",
+            "Publisher": "New Jersey State Council on the Arts, Rutgers Center for Innovative Printmaking, New Brunswick, New Jersey",
+            "Printer": "Rutgers Center for Innovative Printmaking, New Brunswick, New Jersey",
+            "Edition": "30; plus 1 B.A.T., 4 P.P., and 1 T.P",
+            "Credit": "John B. Turner Fund",
+            "Object number": "659.1993",
+            "Copyright": "\u00a9 2023 Willie Cole",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/7057"
+    },
+    {
+        "Artist": "Willie Cole",
+        "Title": "Domestic ID III",
+        "Year": "1991",
+        "ObjectID": "95691",
+        "Work": "https://www.moma.org/collection/works/95691",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzNTYwOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8b99cedf6c099d7b",
+        "Details": {
+            "Medium": "Iron scorches on paper in two painted window frames",
+            "Dimensions": "Installation: 51 x 34 3/4 x 1 5/8\" (129.5 x 88.3 x 4.1 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "1439.2005.a-b",
+            "Copyright": "\u00a9 2023 Willie Cole",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/7057"
+    },
+    {
+        "Artist": "George Condo",
+        "Title": "Ghost of Chance",
+        "Year": "1991",
+        "ObjectID": "14787",
+        "Work": "https://www.moma.org/collection/works/14787",
+        "Thumbnail": null,
+        "Details": {
+            "Author": "William S. Burroughs",
+            "Medium": "Illustrated Book with 3 soft ground etchings (1 with aquatint), 4 line block pictorial initials, tipped in photolithographic reproductions",
+            "Dimensions": "irreg page  14 7/8 x 9 15/16\" (37 x 25.3 cm)\r\nPrints: various dimensions.",
+            "Publisher": "Library Fellows of the Whitney Museum of American Art, New York",
+            "Printer": "Aldo Crommelynck",
+            "Edition": "160 (unnumbered)",
+            "Credit": "Gift of Linda Barth Goldstein",
+            "Object number": "296.1992.1-3",
+            "Copyright": "\u00a9 2023 George Condo / Artists Rights Society (ARS), New York",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1210"
+    },
+    {
+        "Artist": "Bruce Conner",
+        "Title": "Frontispiece (folio 3) from The Adventures of a Novel in Four Chapters",
+        "Year": "1991",
+        "ObjectID": "17921",
+        "Work": "https://www.moma.org/collection/works/17921",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzNzIyNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f0bf442d39ceff0d",
+        "Details": {
+            "Medium": "One from an illustrated book with fourteen line blocks and one ink drawing",
+            "Dimensions": "composition (irreg.): 8 7/16 x 5 3/4\" (21.4 x 14.6 cm); page: 13 3/8 \u00d7 10 7/16\" (34 \u00d7 26.5 cm)",
+            "Credit": "John B. Turner Fund",
+            "Object number": "487.1992.1",
+            "Copyright": "\u00a9 2023 Bruce Conner / Artists Rights Society (ARS), New York",
+            "Illustrated book": "The Adventures of a Novel in Four Chapters",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1215"
+    },
+    {
+        "Artist": "Bruce Conner",
+        "Title": "The Adventures of a Novel in Four Chapters",
+        "Year": "1991",
+        "ObjectID": "17922",
+        "Work": "https://www.moma.org/collection/works/17922",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzNzIyNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=42acf7c184afc97f",
+        "Details": {
+            "Author": "Michael McClure",
+            "Medium": "Illustrated book with fourteen line blocks and one ink drawing",
+            "Dimensions": "page (each, approx.): 13 3/8 x 10 7/16\" (34 x 26.5 cm); overall (closed): 13 3/4 \u00d7 10 11/16 \u00d7 9/16\" (35 \u00d7 27.1 \u00d7 1.5 cm)",
+            "Publisher": "Hine Editions, San Francisco",
+            "Printer": "Limestone Press, San Francisco",
+            "Edition": "110 (100 numbered 1/100-100/100; 10 proof copies)",
+            "Credit": "John B. Turner Fund",
+            "Object number": "487.1992.1-15",
+            "Copyright": "\u00a9 2023 Bruce Conner / Artists Rights Society (ARS), New York",
+            "Type": "Illustrated Book",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1215"
+    },
+    {
+        "Artist": "Bruce Conner",
+        "Title": "Plate (folio 15) from The Adventures of a Novel in Four Chapters",
+        "Year": "1991",
+        "ObjectID": "17923",
+        "Work": "https://www.moma.org/collection/works/17923",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzNzIyOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=62b9d73bb51916c8",
+        "Details": {
+            "Medium": "One from an illustrated book with fourteen line blocks and one ink drawing",
+            "Dimensions": "composition (irreg.): 8 7/16 x 5 5/8\" (21.5 x 14.3 cm); page: 13 3/8 \u00d7 10 7/16\" (34 \u00d7 26.5 cm)",
+            "Credit": "John B. Turner Fund",
+            "Object number": "487.1992.10",
+            "Copyright": "\u00a9 2023 Bruce Conner / Artists Rights Society (ARS), New York",
+            "Illustrated book": "The Adventures of a Novel in Four Chapters",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1215"
+    },
+    {
+        "Artist": "Bruce Conner",
+        "Title": "In-text plate (folio 16) from The Adventures of a Novel in Four Chapters",
+        "Year": "1991",
+        "ObjectID": "17924",
+        "Work": "https://www.moma.org/collection/works/17924",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzNzIzMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=13b16fa66e1b7fdf",
+        "Details": {
+            "Medium": "One from an illustrated book with fourteen line blocks and one ink drawing",
+            "Dimensions": "composition (irreg.): 8 9/16 x 5 11/16\" (21.8 x 14.5 cm); page: 13 3/8 \u00d7 10 7/16\" (34 \u00d7 26.5 cm)",
+            "Credit": "John B. Turner Fund",
+            "Object number": "487.1992.11",
+            "Copyright": "\u00a9 2023 Bruce Conner / Artists Rights Society (ARS), New York",
+            "Illustrated book": "The Adventures of a Novel in Four Chapters",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1215"
+    },
+    {
+        "Artist": "Bruce Conner",
+        "Title": "In-text plate (folio 17) from The Adventures of a Novel in Four Chapters",
+        "Year": "1991",
+        "ObjectID": "17925",
+        "Work": "https://www.moma.org/collection/works/17925",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzNzIzMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5ebe334c26ee3cda",
+        "Details": {
+            "Medium": "One from an illustrated book with fourteen line blocks and one ink drawing",
+            "Dimensions": "composition (irreg.): 8 1/8 x 5 11/16\" (20.6 x 14.5 cm); page: 13 3/8 \u00d7 10 7/16\" (34 \u00d7 26.5 cm)",
+            "Credit": "John B. Turner Fund",
+            "Object number": "487.1992.12",
+            "Copyright": "\u00a9 2023 Bruce Conner / Artists Rights Society (ARS), New York",
+            "Illustrated book": "The Adventures of a Novel in Four Chapters",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1215"
+    },
+    {
+        "Artist": "Bruce Conner",
+        "Title": "Plate (folio 18) from The Adventures of a Novel in Four Chapters",
+        "Year": "1991",
+        "ObjectID": "17926",
+        "Work": "https://www.moma.org/collection/works/17926",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzNzIzMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e9917f53ebc83ba8",
+        "Details": {
+            "Medium": "One from an illustrated book with fourteen line blocks and one ink drawing",
+            "Dimensions": "composition (irreg.): 8 7/16 x 5 1/2\" (21.5 x 13.9 cm); page: 13 3/8 \u00d7 10 7/16\" (34 \u00d7 26.5 cm)",
+            "Credit": "John B. Turner Fund",
+            "Object number": "487.1992.13",
+            "Copyright": "\u00a9 2023 Bruce Conner / Artists Rights Society (ARS), New York",
+            "Illustrated book": "The Adventures of a Novel in Four Chapters",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1215"
     }
 ]

@@ -1,876 +1,823 @@
 [
     {
-        "Artist": "Jacob August Riis",
-        "Title": "Talmud School in a Hester Street Tenement",
-        "Year": "1888-95",
-        "ObjectID": "51377",
-        "Work": "https://www.moma.org/collection/works/51377",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MjE4NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=14208de6e1d63002",
+        "Artist": "Kurt Schwitters, El Lissitzky",
+        "Title": "Merz no. 8/9: Nature (Nasci)",
+        "Year": "1924",
+        "ObjectID": "217726",
+        "Work": "https://www.moma.org/collection/works/217726",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ3MTI1NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4d509b84aac1122d",
         "Details": {
-            "Medium": "Gelatin silver print, printed 1957",
-            "Dimensions": "6 5/16 \u00d7 4 3/4\" (16 \u00d7 12.1 cm)",
-            "Credit": "Gift of the Museum of the City of New York",
-            "Object number": "346.1964",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/4928"
-    },
-    {
-        "Artist": "Jacob August Riis",
-        "Title": "The Street, their Playground",
-        "Year": "1888-1895",
-        "ObjectID": "51399",
-        "Work": "https://www.moma.org/collection/works/51399",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MDE0MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d7b4e8095f9be8d8",
-        "Details": {
-            "Medium": "Gelatin silver print, printed 1957",
-            "Dimensions": "6 1/2 \u00d7 4 3/4\" (16.5 \u00d7 12 cm)",
-            "Credit": "Gift of the Museum of the City of New York",
-            "Object number": "347.1964",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/4928"
-    },
-    {
-        "Artist": "Jacob August Riis",
-        "Title": "Sabbath Eve in a Coal Celler, Ludlow Street",
-        "Year": "1888-1895",
-        "ObjectID": "51436",
-        "Work": "https://www.moma.org/collection/works/51436",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MDE0MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0674b51893f5c009",
-        "Details": {
-            "Medium": "Gelatin silver print, printed 1957",
-            "Dimensions": "6 5/16 \u00d7 4 3/4\" (16 \u00d7 12.1 cm)",
-            "Credit": "Gift of the Museum of the City of New York",
-            "Object number": "348.1964",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/4928"
-    },
-    {
-        "Artist": "Jacob August Riis",
-        "Title": "Shoemaker, Broome Street",
-        "Year": "1888-1895",
-        "ObjectID": "51457",
-        "Work": "https://www.moma.org/collection/works/51457",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MDE0MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4b87cfeaf5870ebb",
-        "Details": {
-            "Medium": "Gelatin silver print, printed 1957",
-            "Dimensions": "6 1/16 \u00d7 4 3/4\" (15.4 \u00d7 12 cm)",
-            "Credit": "Gift of the Museum of the City of New York",
-            "Object number": "349.1964",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/4928"
-    },
-    {
-        "Artist": "Jacob August Riis",
-        "Title": "In a Dive",
-        "Year": "1895",
-        "ObjectID": "51476",
-        "Work": "https://www.moma.org/collection/works/51476",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MjQxMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f6ab4e7f1a94a4cf",
-        "Details": {
-            "Medium": "Gelatin silver print, printed 1957",
-            "Dimensions": "6 3/8 \u00d7 4 3/4\" (16.2 \u00d7 12 cm)",
-            "Credit": "Gift of the Museum of the City of New York",
-            "Object number": "350.1964",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/4928"
-    },
-    {
-        "Artist": "Auguste Rodin",
-        "Title": "The Walking Man",
-        "Year": "c. 1890-95 (cast c.1904)",
-        "ObjectID": "81085",
-        "Work": "https://www.moma.org/collection/works/81085",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2ODYxNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1e4971813b092e3f",
-        "Details": {
-            "Medium": "Bronze",
-            "Dimensions": "33 3/4 x 22 x 11\" (85.7 x 55.9 x 28 cm)",
-            "Credit": "Fractional and promised gift of Malcolm Wiener in memory of John Rewald",
-            "Object number": "183.1994",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/4978"
-    },
-    {
-        "Artist": "Auguste Rodin",
-        "Title": "Naked Figure Study for Balzac",
-        "Year": "c. 1894-95 (cast 1965)",
-        "ObjectID": "81470",
-        "Work": "https://www.moma.org/collection/works/81470",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMTM0NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=391534125bb26cf0",
-        "Details": {
-            "Medium": "Bronze",
-            "Dimensions": "11 1/2 x 3 1/4 x 3 1/4\" (29.3 x 8.4 x 8.4 cm)",
-            "Credit": "Gift of The Cantor, Fitzgerald Collection",
-            "Object number": "435.1975",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/4978"
-    },
-    {
-        "Artist": "Medardo Rosso",
-        "Title": "Woman with a Veil",
-        "Year": "1895",
-        "ObjectID": "284934",
-        "Work": "https://www.moma.org/collection/works/284934",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQzMDk3OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=83d3ab02fe3a64c7",
-        "Details": {
-            "Medium": "Wax over plaster",
-            "Dimensions": "28 1/4 x 22 1/4 x 11 3/4\" (71.8 x 56.5 x 29.8 cm)",
-            "Credit": "Promised gift of Emily Rauh Pulitzer and Margot Gottlieb Bequest (by exchange)",
-            "Object number": "735.2018",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/5036"
-    },
-    {
-        "Artist": "Gaston Roullet",
-        "Title": "Salon des Cent, exposition de l'\u0153uvre de Gaston Roullet du 8 au 28 fevrier 1895",
-        "Year": "1894-1895",
-        "ObjectID": "5516",
-        "Work": "https://www.moma.org/collection/works/5516",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5ODIxMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=532d241ebec2c861",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "23 5/8 x 15 3/4\" (60 x 40 cm)",
-            "Credit": "Gift of Ludwig Charell",
-            "Object number": "176.1956",
+            "Medium": "Letterpress",
+            "Dimensions": "12 \u00d7 9 1/4\" (30.5 \u00d7 23.5 cm)",
+            "Credit": "The Merrill C. Berman Collection. Gift of William A. Koshland (by exchange)",
+            "Object number": "643.2018",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Associated work": "The Merrill C. Berman Collection at MoMA",
             "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/5055"
+        "Profile": "https://www.moma.org/artists/5293"
     },
     {
-        "Artist": "Henri Rousseau",
-        "Title": "War",
-        "Year": "published January 1895",
-        "ObjectID": "73119",
-        "Work": "https://www.moma.org/collection/works/73119",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MjgyOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ca304a2c0c7ce2c9",
+        "Artist": "Andre Dunoyer de Segonzac",
+        "Title": "The Apse of Notre Dame",
+        "Year": "(1924)",
+        "ObjectID": "71271",
+        "Work": "https://www.moma.org/collection/works/71271",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MTg5MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=50aaab2a8815d4e7",
         "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "composition: 8 3/4 x 13 1/16\" (22.2 x 33.1 cm)",
-            "Edition": "Impression:",
-            "Credit": "Given anonymously",
-            "Object number": "684.1943",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5056"
-    },
-    {
-        "Artist": "Ker-Xavier Roussel",
-        "Title": "Reclining Woman",
-        "Year": "c. 1895",
-        "ObjectID": "37002",
-        "Work": "https://www.moma.org/collection/works/37002",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMxMDE1OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1c4851cbad0faf86",
-        "Details": {
-            "Medium": "Pastel and charcoal on paper",
-            "Dimensions": "19 1/2 x 25 5/8\" (49.5 x 65 cm)",
-            "Credit": "Gift of Eli Wallach",
-            "Object number": "454.1972",
-            "Copyright": "\u00a9 2023 Ker-Xavier Roussel / Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5058"
-    },
-    {
-        "Artist": "Paul Serusier",
-        "Title": "Landscape in Brittany",
-        "Year": "March 1895",
-        "ObjectID": "70364",
-        "Work": "https://www.moma.org/collection/works/70364",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MjY4NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5c2282ba386a8e76",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "Sheet 14 15/16 x 11 3/16\" (38.0 x 28.4 cm)  Comp. 9 3/8 x 8 5/8\" (23.8 x 21.9 cm)",
-            "Edition": "200 in ordinary edition, 15 in deluxe edition",
-            "Credit": "Purchase",
-            "Object number": "516.1949",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5353"
-    },
-    {
-        "Artist": "Paul Signac",
-        "Title": "Boats at Flessingue",
-        "Year": "1895",
-        "ObjectID": "62843",
-        "Work": "https://www.moma.org/collection/works/62843",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMzAzNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a0bc2ddfb67463b4",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "composition: 12 11/16 x 15 13/16\" (32.3 x 40.1 cm); sheet: 16 x 20 11/16\" (40.6 x 52.6 cm)",
+            "Medium": "Etching and drypoint",
+            "Dimensions": "plate: 4 11/16 x 6 1/2\" (11.9 x 16.5 cm); sheet: 7 5/16 x 9 7/16\" (18.5 x 24 cm)",
             "Credit": "Gift of Abby Aldrich Rockefeller",
-            "Object number": "141.1947",
+            "Object number": "569.1940",
             "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/5421"
+        "Profile": "https://www.moma.org/artists/5318"
     },
     {
-        "Artist": "Paul Signac",
-        "Title": "Flessingue",
-        "Year": "1895",
-        "ObjectID": "66458",
-        "Work": "https://www.moma.org/collection/works/66458",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMTM5MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9417a5ff9319a128",
+        "Artist": "Victor Servranckx",
+        "Title": "Opus 16",
+        "Year": "1924",
+        "ObjectID": "80533",
+        "Work": "https://www.moma.org/collection/works/80533",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Oil on canvas",
+            "Dimensions": "27 1/8 x 17 3/4\" (69 x 45 cm)",
+            "Credit": "The Riklis Collection of McCrory Corporation",
+            "Object number": "1071.1983",
+            "Copyright": "\u00a9 2023 Victor Servranckx / Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/5354"
+    },
+    {
+        "Artist": "Charles Sheeler",
+        "Title": "Yachts",
+        "Year": "1924",
+        "ObjectID": "76225",
+        "Work": "https://www.moma.org/collection/works/76225",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNzI1NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9923563de7408d8b",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "composition: 9 7/16 x 15 7/8\" (24 x 40.4 cm); sheet: 16 x 20 7/8\" (40.6 x 53 cm)",
-            "Credit": "Gift of Otto M. Gerson",
-            "Object number": "302.1955",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Dimensions": "composition: 7 7/8 x 9 13/16\" (20 x 24.9 cm); sheet: 11 7/16 x 16\" (29 x 40.7 cm)",
+            "Publisher": "Charles Sheeler, New York",
+            "Printer": "George C. Miller, New York",
+            "Edition": "35",
+            "Credit": "Gift of Abby Aldrich Rockefeller",
+            "Object number": "1266.1940",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/5421"
+        "Profile": "https://www.moma.org/artists/5383"
     },
     {
-        "Artist": "Paul Signac",
-        "Title": "The Boats",
-        "Year": "1895",
-        "ObjectID": "67807",
-        "Work": "https://www.moma.org/collection/works/67807",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMzM1NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c6f247b3ac66d915",
+        "Artist": "Walter Richard Sickert",
+        "Title": "Vision, Volumes and Recession",
+        "Year": "1924",
+        "ObjectID": "62300",
+        "Work": "https://www.moma.org/collection/works/62300",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MjEwMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=aab4e15b271bc12a",
         "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "composition: 9 3/8 x 15 3/4\" (23.8 x 40 cm); sheet: 16 x 20 7/8\" (40.7 x 53.1 cm)",
-            "Credit": "Gift of Victor S. Riesenfeld",
-            "Object number": "365.1948",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5421"
-    },
-    {
-        "Artist": "Paul Signac",
-        "Title": "The Andelys",
-        "Year": "1895",
-        "ObjectID": "71013",
-        "Work": "https://www.moma.org/collection/works/71013",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMzU2NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f726e0dce26cdd5a",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "composition: 12 x 18 1/16\" (30.5 x 45.8 cm); sheet: 34 5/8 x 20 3/8\" (88 x 51.7 cm)",
-            "Edition": "60",
+            "Medium": "Etching",
+            "Dimensions": "plate: 7 13/16 x 4 3/8\" (19.9 x 11.1 cm); sheet: 10 1/4 x 6\" (26 x 15.2 cm)",
             "Credit": "Abby Aldrich Rockefeller Fund",
-            "Object number": "553.1949",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Object number": "126.1955",
+            "Copyright": "\u00a9 2023 Estate of Walter Richard Sickert / Artists Rights Society (ARS), New York / DACS, London",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/5421"
+        "Profile": "https://www.moma.org/artists/5414"
+    },
+    {
+        "Artist": "Nikolai Sokolov",
+        "Title": "Iugo LEF. Zhurnal levogo fronta iskusstv iuga S.S.S.R., no. 3",
+        "Year": "1924",
+        "ObjectID": "15079",
+        "Work": "https://www.moma.org/collection/works/15079",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMTAzMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4ef9100e912ea9d9",
+        "Details": {
+            "Author": "Leonid Nedolia",
+            "Medium": "Cover with letterpress lettering and typographic design",
+            "Dimensions": "Page (irreg.): 10 1/4 x 6 13/16\" (26 x 17.3 cm)",
+            "Publisher": "Iugo-Lef, Odessa",
+            "Edition": "3,000",
+            "Credit": "Gift of The Judith Rothschild Foundation",
+            "Object number": "306.2001.C",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/23956"
+    },
+    {
+        "Artist": "Chaim Soutine",
+        "Title": "Dead Fowl",
+        "Year": "c. 1924",
+        "ObjectID": "78750",
+        "Work": "https://www.moma.org/collection/works/78750",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1MTUyNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b5f585f787a757b7",
+        "Details": {
+            "Medium": "Oil on canvas",
+            "Dimensions": "43 1/2 x 32\" (110.4 x 81.1 cm)",
+            "Credit": "Gift of Mr. and Mrs. Justin K. Thannhauser",
+            "Object number": "93.1958",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/5543"
     },
     {
         "Artist": "Edward Steichen",
-        "Title": "My Little Sister",
-        "Year": "1895",
-        "ObjectID": "46811",
-        "Work": "https://www.moma.org/collection/works/46811",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNTkzOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=96f0aceed7fdcdc0",
+        "Title": "Beatrice Lilly \"Rule Britannia\"",
+        "Year": "1924",
+        "ObjectID": "47062",
+        "Work": "https://www.moma.org/collection/works/47062",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMDk1MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d7d86c750a013727",
         "Details": {
-            "Medium": "Gelatin silver printing-out-paper print",
-            "Dimensions": "1 9/16 \u00d7 1 15/16\" (3.9 \u00d7 5 cm)",
+            "Medium": "Gelatin silver print",
+            "Dimensions": "13 3/4 \u00d7 10 3/4\" (34.9 \u00d7 27.3 cm)",
             "Credit": "Gift of the artist",
-            "Object number": "139.1961",
+            "Object number": "161.1961",
             "Copyright": "\u00a9 2023 The Estate of Edward Steichen / Artists Rights Society (ARS), New York",
             "Department": "Photography"
         },
         "Profile": "https://www.moma.org/artists/5623"
     },
     {
-        "Artist": "Ella Steigelman",
-        "Title": "Sewing C.K.T.S. (Kindergarten material based on the educational theories of Friedrich Froebel)",
-        "Year": "c. 1890",
-        "ObjectID": "145075",
-        "Work": "https://www.moma.org/collection/works/145075",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNDk0NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b968cbef41c7409a",
+        "Artist": "Edward Steichen",
+        "Title": "George Arliss in \"Old English\"",
+        "Year": "1924",
+        "ObjectID": "47168",
+        "Work": "https://www.moma.org/collection/works/47168",
+        "Thumbnail": null,
         "Details": {
-            "Medium": "Various materials",
-            "Dimensions": "8 1/4 \u00d7 10 3/4 \u00d7 3/4\" (21 \u00d7 27.3 \u00d7 1.9 cm)",
-            "Credit": "Gift of Lawrence Benenson",
-            "Object number": "185.2011",
+            "Medium": "Gelatin silver print",
+            "Dimensions": "16 9/16 \u00d7 13 3/8\" (42.1 \u00d7 34 cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "167.1961",
+            "Copyright": "\u00a9 2023 The Estate of Edward Steichen / Artists Rights Society (ARS), New York",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/5623"
+    },
+    {
+        "Artist": "Edward Steichen",
+        "Title": "Lucien Vogel, Editor of \"VU\"",
+        "Year": "1924",
+        "ObjectID": "47975",
+        "Work": "https://www.moma.org/collection/works/47975",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE0Mzc2MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b298fb3dc624f3e3",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "13 3/4 \u00d7 10 3/4\" (34.9 \u00d7 27.3 cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "186.1961",
+            "Copyright": "\u00a9 2023 The Estate of Edward Steichen / Artists Rights Society (ARS), New York",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/5623"
+    },
+    {
+        "Artist": "Edward Steichen",
+        "Title": "Princess Youssoupoff",
+        "Year": "1924",
+        "ObjectID": "48579",
+        "Work": "https://www.moma.org/collection/works/48579",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "16 9/16 \u00d7 13 3/8\" (42 \u00d7 34 cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "211.1961",
+            "Copyright": "\u00a9 2023 The Estate of Edward Steichen / Artists Rights Society (ARS), New York",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/5623"
+    },
+    {
+        "Artist": "Edward Steichen",
+        "Title": "Gloria Swanson, New York",
+        "Year": "1924",
+        "ObjectID": "48855",
+        "Work": "https://www.moma.org/collection/works/48855",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MTk1NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3d43cf16d5803fc1",
+        "Details": {
+            "Medium": "Gelatin silver print, printed 1961",
+            "Dimensions": "16 9/16 \u00d7 13 7/16\" (42.1 \u00d7 34.2 cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "219.1961",
+            "Copyright": "\u00a9 2023 The Estate of Edward Steichen / Artists Rights Society (ARS), New York",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/5623"
+    },
+    {
+        "Artist": "Ralph Steiner",
+        "Title": "Eighth Avenue",
+        "Year": "1924",
+        "ObjectID": "55682",
+        "Work": "https://www.moma.org/collection/works/55682",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MTk5OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ef7e03eea19903cc",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "2 1/2 \u00d7 4 1/8\" (6.4 \u00d7 10.5 cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "629.1970",
+            "Copyright": "Courtesy of the Estate of Ralph Steiner",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/5631"
+    },
+    {
+        "Artist": "Ralph Steiner",
+        "Title": "Lexington Avenue",
+        "Year": "1924",
+        "ObjectID": "55688",
+        "Work": "https://www.moma.org/collection/works/55688",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NjAzOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1051b387fe29d467",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "3 7/8 \u00d7 4 3/4\" (10.0 \u00d7 12.1 cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "630.1970",
+            "Copyright": "Courtesy of the Estate of Ralph Steiner",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/5631"
+    },
+    {
+        "Artist": "Alfred Stieglitz",
+        "Title": "Equivalent",
+        "Year": "1924",
+        "ObjectID": "44450",
+        "Work": "https://www.moma.org/collection/works/44450",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNzc1MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=92ddb190bbd69454",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "3 5/8 \u00d7 4 5/8\" (9.2 \u00d7 11.8 cm)",
+            "Credit": "Alfred Stieglitz Collection. Gift of Georgia O'Keeffe",
+            "Object number": "38.1950",
+            "Copyright": "\u00a9 2023 The Museum of Modern Art / Artists Rights Society (ARS), New York",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/5664"
+    },
+    {
+        "Artist": "Alfred Stieglitz",
+        "Title": "Equivalent",
+        "Year": "1924",
+        "ObjectID": "44589",
+        "Work": "https://www.moma.org/collection/works/44589",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNzc3NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=05827e32afe4d887",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "3 3/8 \u00d7 4 1/2\" (8.6 \u00d7 11.5 cm)",
+            "Credit": "Alfred Stieglitz Collection. Gift of Georgia O'Keeffe",
+            "Object number": "42.1950",
+            "Copyright": "\u00a9 2023 The Museum of Modern Art / Artists Rights Society (ARS), New York",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/5664"
+    },
+    {
+        "Artist": "Mauritz Stiller",
+        "Title": "Gosta Berlings Saga",
+        "Year": "1924",
+        "ObjectID": "303484",
+        "Work": "https://www.moma.org/collection/works/303484",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMxMDI1OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0aa740145c3c8799",
+        "Details": {
+            "Object number": "W1473",
+            "Department": "Film"
+        },
+        "Profile": "https://www.moma.org/artists/31262"
+    },
+    {
+        "Artist": "Gunta Stolzl",
+        "Title": "Wall Hanging",
+        "Year": "1924",
+        "ObjectID": "1997",
+        "Work": "https://www.moma.org/collection/works/1997",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxODAxNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=31a6ef2c2846eda5",
+        "Details": {
+            "Medium": "Wool, silk, mercerized cotton, and metal thread",
+            "Dimensions": "68 1/2 x 42 1/2\" (174 x 108 cm)",
+            "Credit": "Phyllis B. Lambert Fund",
+            "Object number": "75.1958",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
             "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/39268"
+        "Profile": "https://www.moma.org/artists/5675"
     },
     {
-        "Artist": "Theophile-Alexandre Steinlen",
-        "Title": "Lait Pur de la Vingeanne Sterilise",
-        "Year": "1894-95",
-        "ObjectID": "7261",
-        "Work": "https://www.moma.org/collection/works/7261",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMTU0OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=983a28c01bcc0cae",
+        "Artist": "Gunta Stolzl",
+        "Title": "Design for Textile",
+        "Year": "1920-24",
+        "ObjectID": "3928",
+        "Work": "https://www.moma.org/collection/works/3928",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMTY0MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e24b40eedb5c2773",
         "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "53 1/4 x 38 1/4\" (135.3 x 97.2 cm)",
-            "Printer": "Charles Verneau, Paris",
-            "Credit": "Gift of the Swiss Government",
-            "Object number": "496.1951",
+            "Medium": "Watercolor, pen, ink, and pencil on square-ruled paper",
+            "Dimensions": "11 x 10 1/16\" (27.9 x 25.6 cm)",
+            "Credit": "Mrs. John D. Rockefeller 3rd Purchase Fund",
+            "Object number": "467.1983",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
             "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/5634"
+        "Profile": "https://www.moma.org/artists/5675"
     },
     {
-        "Artist": "Theophile-Alexandre Steinlen",
-        "Title": "Le Mirliton, no. 21",
-        "Year": "May 25, 1895",
-        "ObjectID": "183764",
-        "Work": "https://www.moma.org/collection/works/183764",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMxOTAzMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e59c98e08d1eeba9",
+        "Artist": "John Storrs",
+        "Title": "Forms in Space",
+        "Year": "c. 1924",
+        "ObjectID": "81954",
+        "Work": "https://www.moma.org/collection/works/81954",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzNjU4NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fc44cbc9b34c0939",
         "Details": {
-            "Medium": "Journal with relief halftone illustration",
-            "Dimensions": "page (each): 14 3/4 x 10 13/16\" (37.5 x 27.5 cm)",
-            "Publisher": "Le Mirliton",
-            "Printer": "Imprimerie Charles Blot, Paris",
-            "Credit": "Grace M. Mayer Bequest",
-            "Object number": "595.1997.163",
-            "Series": "Le Mirliton",
+            "Medium": "Brass, copper, and steel on marble base",
+            "Dimensions": "12 x 2 3/4 x 2 3/4\" (30.5 x 7 x 7 cm) including base",
+            "Credit": "The Riklis Collection of McCrory Corporation",
+            "Object number": "1074.1983",
+            "Copyright": "\u00a9 Estate of John Storrs",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/5681"
+    },
+    {
+        "Artist": "Nikolai Suetin",
+        "Title": "Untitled",
+        "Year": "(1922-24)",
+        "ObjectID": "36506",
+        "Work": "https://www.moma.org/collection/works/36506",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEwMDk3MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9df289b2fc60cdb1",
+        "Details": {
+            "Medium": "Watercolor and pencil on paper",
+            "Dimensions": "4 1/8 x 12\" (10.6 x 30.5 cm)",
+            "Credit": "Bequest of Marvin A. Sackner, M.D",
+            "Object number": "360.1991",
+            "Copyright": "\u00a9 2023 Nikolai Suetin / Artists Rights Society (ARS), New York / VG Bild-Kunst, Germany",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/5634"
+        "Profile": "https://www.moma.org/artists/5718"
     },
     {
-        "Artist": "Theophile-Alexandre Steinlen",
-        "Title": "Le Mirliton, no. 3",
-        "Year": "January 15, 1895",
-        "ObjectID": "183776",
-        "Work": "https://www.moma.org/collection/works/183776",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMxNzU3NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9940e3bbff89b02b",
+        "Artist": "H. Y. Summons",
+        "Title": "Untitled",
+        "Year": "c. 1919",
+        "ObjectID": "45780",
+        "Work": "https://www.moma.org/collection/works/45780",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNjcyOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=25a7bd46b9f44140",
         "Details": {
-            "Medium": "Journal with relief halftone illustration",
-            "Dimensions": "page (each): 10 13/16 x 7 1/8\" (27.5 x 18.1 cm)",
-            "Publisher": "Le Mirliton",
-            "Printer": "Imprimerie Charles Blot, Paris",
-            "Credit": "Grace M. Mayer Bequest",
-            "Object number": "595.1997.175",
-            "Series": "Le Mirliton",
-            "Department": "Drawings and Prints"
+            "Medium": "Gelatin silver print",
+            "Dimensions": "6 7/8 \u00d7 8 3/4\" (17.2 \u00d7 22.0 cm)",
+            "Credit": "Gift of Ruth Anderson Collins",
+            "Object number": "78.1976",
+            "Copyright": "\u00a9 2023 H. Y. S\u00fcmmons",
+            "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/5634"
+        "Profile": "https://www.moma.org/artists/5731"
     },
     {
-        "Artist": "Theophile-Alexandre Steinlen",
-        "Title": "Le Mirliton, no. 4",
-        "Year": "February 15, 1895",
-        "ObjectID": "183777",
-        "Work": "https://www.moma.org/collection/works/183777",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMxNzUyMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ec565e8e2ce5cc32",
+        "Artist": "Mieczys\u0142aw Szczuka, Teresa Zarnower",
+        "Title": "Blok no. 6-7",
+        "Year": "1924",
+        "ObjectID": "218661",
+        "Work": "https://www.moma.org/collection/works/218661",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ2NzM0NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1623269976c6c640",
         "Details": {
-            "Medium": "Journal with relief halftone illustration",
-            "Dimensions": "page (each): 10 13/16 x 7 9/16\" (27.5 x 19.2 cm)",
-            "Publisher": "Le Mirliton",
-            "Printer": "Imprimerie Charles Blot, Paris",
-            "Credit": "Grace M. Mayer Bequest",
-            "Object number": "595.1997.176",
-            "Series": "Le Mirliton",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5634"
-    },
-    {
-        "Artist": "Theophile-Alexandre Steinlen",
-        "Title": "Le Mirliton, no. 5",
-        "Year": "March 15, 1895",
-        "ObjectID": "183778",
-        "Work": "https://www.moma.org/collection/works/183778",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMxNzU4NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a1da02623a534de0",
-        "Details": {
-            "Medium": "Journal with relief halftone illustration",
-            "Dimensions": "page (each): 11 x 7 1/2\" (28 x 19 cm)",
-            "Publisher": "Le Mirliton",
-            "Printer": "Imprimerie Charles Blot, Paris",
-            "Credit": "Grace M. Mayer Bequest",
-            "Object number": "595.1997.177",
-            "Series": "Le Mirliton",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5634"
-    },
-    {
-        "Artist": "Theophile-Alexandre Steinlen",
-        "Title": "Le Mirliton, no. 6",
-        "Year": "April 15, 1895",
-        "ObjectID": "183779",
-        "Work": "https://www.moma.org/collection/works/183779",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMxNzU4NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=03ee4247e1b8d1a7",
-        "Details": {
-            "Medium": "Journal with relief halftone illustration",
-            "Dimensions": "page (each): 11 x 7 1/2\" (28 x 19 cm)",
-            "Publisher": "Le Mirliton",
-            "Printer": "Imprimerie Charles Blot, Paris",
-            "Credit": "Grace M. Mayer Bequest",
-            "Object number": "595.1997.178",
-            "Series": "Le Mirliton",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5634"
-    },
-    {
-        "Artist": "Theophile-Alexandre Steinlen",
-        "Title": "Le Mirliton, no. 7",
-        "Year": "May 15, 1895",
-        "ObjectID": "183780",
-        "Work": "https://www.moma.org/collection/works/183780",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMxOTAzNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b104016ac282aea3",
-        "Details": {
-            "Medium": "Journal with relief halftone illustration",
-            "Dimensions": "page (each): 11 x 7 1/2\" (28 x 19 cm)",
-            "Publisher": "Le Mirliton",
-            "Printer": "Imprimerie Charles Blot, Paris",
-            "Credit": "Grace M. Mayer Bequest",
-            "Object number": "595.1997.179",
-            "Series": "Le Mirliton",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5634"
-    },
-    {
-        "Artist": "Theophile-Alexandre Steinlen",
-        "Title": "Le Mirliton, no. 8",
-        "Year": "June 15, 1895",
-        "ObjectID": "183781",
-        "Work": "https://www.moma.org/collection/works/183781",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMxOTAzNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=dd206403a7388095",
-        "Details": {
-            "Medium": "Journal with relief halftone illustration",
-            "Dimensions": "page (each): 11 x 7 1/2\" (28 x 19 cm)",
-            "Publisher": "Le Mirliton",
-            "Printer": "Imprimerie Charles Blot, Paris",
-            "Credit": "Grace M. Mayer Bequest",
-            "Object number": "595.1997.180",
-            "Series": "Le Mirliton",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5634"
-    },
-    {
-        "Artist": "Theophile-Alexandre Steinlen",
-        "Title": "Le Mirliton, no. 9",
-        "Year": "July 15, 1895",
-        "ObjectID": "183782",
-        "Work": "https://www.moma.org/collection/works/183782",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMxOTAzNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a0127c28c1570b38",
-        "Details": {
-            "Medium": "Journal with relief halftone illustration",
-            "Dimensions": "page (each): 11 x 7 1/2\" (28 x 19 cm)",
-            "Publisher": "Le Mirliton",
-            "Printer": "Imprimerie Charles Blot, Paris",
-            "Credit": "Grace M. Mayer Bequest",
-            "Object number": "595.1997.181",
-            "Series": "Le Mirliton",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5634"
-    },
-    {
-        "Artist": "Theophile-Alexandre Steinlen",
-        "Title": "Le Mirliton, no. 12",
-        "Year": "October 15, 1895",
-        "ObjectID": "183785",
-        "Work": "https://www.moma.org/collection/works/183785",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMxOTA0MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=927ef89a34e24098",
-        "Details": {
-            "Medium": "Journal with relief halftone illustration",
-            "Dimensions": "page (each): 11 x 7 1/2\" (28 x 19 cm)",
-            "Publisher": "Le Mirliton",
-            "Printer": "Imprimerie Charles Blot, Paris",
-            "Credit": "Grace M. Mayer Bequest",
-            "Object number": "595.1997.184",
-            "Series": "Le Mirliton",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5634"
-    },
-    {
-        "Artist": "Theophile-Alexandre Steinlen",
-        "Title": "Le Mirliton, no. 13",
-        "Year": "November 15, 1895",
-        "ObjectID": "183786",
-        "Work": "https://www.moma.org/collection/works/183786",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMxOTA0MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cbbab135acdd64bd",
-        "Details": {
-            "Medium": "Journal with relief halftone illustration",
-            "Dimensions": "page (each): 11 x 7 1/2\" (28 x 19 cm)",
-            "Publisher": "Le Mirliton",
-            "Printer": "Imprimerie Charles Blot, Paris",
-            "Credit": "Grace M. Mayer Bequest",
-            "Object number": "595.1997.185",
-            "Series": "Le Mirliton",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5634"
-    },
-    {
-        "Artist": "Theophile-Alexandre Steinlen",
-        "Title": "Le Mirliton, no. 14",
-        "Year": "December 15, 1895",
-        "ObjectID": "183787",
-        "Work": "https://www.moma.org/collection/works/183787",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMxOTA0MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=df13285b2b59afc5",
-        "Details": {
-            "Medium": "Journal with relief halftone illustration",
-            "Dimensions": "page (each): 11 x 7 1/2\" (28 x 19 cm)",
-            "Publisher": "Le Mirliton",
-            "Printer": "Imprimerie Charles Blot, Paris",
-            "Credit": "Grace M. Mayer Bequest",
-            "Object number": "595.1997.186",
-            "Series": "Le Mirliton",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5634"
-    },
-    {
-        "Artist": "Louis Sullivan",
-        "Title": "Door Hardware",
-        "Year": "1895",
-        "ObjectID": "3348",
-        "Work": "https://www.moma.org/collection/works/3348",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMTExOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3528feacb3567c33",
-        "Details": {
-            "Manufacturer": "The Yale & Towne Mfg. Co., Stamford, CT",
-            "Medium": "Cast bronze",
-            "Dimensions": ".1 (door plate): 14 x 4 1/4\" (35.5 x 10.8 cm)\r\n.2 (knobs): 8 x 2 1/2\" (20.3 x 6.3 cm)\r\n.3 (key): 2 1/4 x 1 1/2\" (5.7 x 3.8 cm)",
-            "Credit": "Gift of John Bedenkapp",
-            "Object number": "345.1961.1-3",
+            "Medium": "Letterpress",
+            "Dimensions": "13 1/2 \u00d7 9 3/4\" (34.3 \u00d7 24.8 cm)",
+            "Credit": "The Merrill C. Berman Collection. Acquired through the generosity of Alice and Tom Tisch, Jo Carole and Ronald S. Lauder, Sue and Edgar Wachenheim III, David Booth, Marlene Hess and James D. Zirin, Marie-Jos\u00e9e and Henry R. Kravis, Jack Shear, the Patricia Bonfield Endowed Acquisition Fund for the Design Collection, Daniel and Jane Och, The Orentreich Family Foundation, Emily Rauh Pulitzer, The Modern Women's Fund; and by exchange: Gift of Jean Dubuffet in honor of Mr. and Mrs. Ralph Colin, The Judith Rothschild Foundation Contemporary Drawings Collection, and the Richard S. Zeisler Bequest",
+            "Object number": "706.2018",
+            "Associated work": "The Merrill C. Berman Collection at MoMA",
             "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/5723"
+        "Profile": "https://www.moma.org/artists/62765"
     },
     {
-        "Artist": "Jan Toorop",
-        "Title": "Delftsche Slaolie (Advertising Poster for the Dutch oil company Nederlandse Olie Fabriek [NOF])",
-        "Year": "1895",
-        "ObjectID": "7927",
-        "Work": "https://www.moma.org/collection/works/7927",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxOTQ3NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7bbe4878425f6c84",
+        "Artist": "Sergei Vasilevich Tchekonine",
+        "Title": "Cover-Design",
+        "Year": "(c. 1924)",
+        "ObjectID": "38362",
+        "Work": "https://www.moma.org/collection/works/38362",
+        "Thumbnail": null,
         "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "36 1/4 x 24 3/8\" (92.1 x 61.9 cm)",
-            "Credit": "Acquired by exchange",
-            "Object number": "684.1966",
+            "Medium": "Gouache on paper",
+            "Dimensions": "12 1/2 x 9\" (31.8 x 22.9 cm)",
+            "Credit": "The Riklis Collection of McCrory Corporation",
+            "Object number": "969.1983",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5820"
+    },
+    {
+        "Artist": "Pavel Tchelitchew",
+        "Title": "Jardin de Luxembourg",
+        "Year": "c. 1923-24",
+        "ObjectID": "34058",
+        "Work": "https://www.moma.org/collection/works/34058",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Pencil and crayon on paper",
+            "Dimensions": "8 1/4 x 6 1/4\" (21 x 16 cm)",
+            "Credit": "Gift of Mme Alexandra Zaousaileff",
+            "Object number": "111.1971",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5821"
+    },
+    {
+        "Artist": "Pavel Tchelitchew",
+        "Title": "Jardin de Luxembourg",
+        "Year": "c. 1923-24",
+        "ObjectID": "34071",
+        "Work": "https://www.moma.org/collection/works/34071",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Pencil on paper",
+            "Dimensions": "8 x 7\" (20.4 x 17.9 cm)",
+            "Credit": "Gift of Mme Alexandra Zaousaileff",
+            "Object number": "112.1971",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5821"
+    },
+    {
+        "Artist": "Pavel Tchelitchew",
+        "Title": "Jardin de Luxembourg",
+        "Year": "c. 1923-24",
+        "ObjectID": "34083",
+        "Work": "https://www.moma.org/collection/works/34083",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Pencil on paper",
+            "Dimensions": "8 1/4 x 7\" (21.1 x 17.9 cm)",
+            "Credit": "Gift of Mme Alexandra Zaousaileff",
+            "Object number": "113.1971",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5821"
+    },
+    {
+        "Artist": "Pavel Tchelitchew",
+        "Title": "Jardin de Luxembourg",
+        "Year": "c. 1923-24",
+        "ObjectID": "34094",
+        "Work": "https://www.moma.org/collection/works/34094",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Charcoal on paper",
+            "Dimensions": "7 x 8 1/8\" (17.9 x 20.8 cm)",
+            "Credit": "Gift of Mme Alexandra Zaousaileff",
+            "Object number": "114.1971",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5821"
+    },
+    {
+        "Artist": "Pavel Tchelitchew",
+        "Title": "Jardin de Luxembourg",
+        "Year": "c. 1923-24",
+        "ObjectID": "34106",
+        "Work": "https://www.moma.org/collection/works/34106",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Pencil and crayon on paper",
+            "Dimensions": "7 x 8 1/4\" (17.9 x 20.9 cm)",
+            "Credit": "Gift of Mme Alexandra Zaousaileff",
+            "Object number": "115.1971",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5821"
+    },
+    {
+        "Artist": "Pavel Tchelitchew",
+        "Title": "Boulevard de Montparnasse",
+        "Year": "c. 1923-24",
+        "ObjectID": "34120",
+        "Work": "https://www.moma.org/collection/works/34120",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMyNDU5NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3295e2aa11badaf4",
+        "Details": {
+            "Medium": "Pencil and crayon on paper",
+            "Dimensions": "7 x 8 1/4\" (17.9 x 21.2 cm)",
+            "Credit": "Gift of Mme Alexandra Zaousaileff",
+            "Object number": "116.1971",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5821"
+    },
+    {
+        "Artist": "Times Wide World Photos",
+        "Title": "President Coolidge Opens the Baseball Season in Washington",
+        "Year": "April 20, 1924",
+        "ObjectID": "58721",
+        "Work": "https://www.moma.org/collection/works/58721",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNjQ2MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=16a9ffadd1d49f3d",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "8 \u00d7 10\" (20.4 \u00d7 25.4 cm)",
+            "Credit": "The New York Times Collection",
+            "Object number": "2128.2001",
+            "Copyright": "\u00a9 2023 Times Wide World Photos",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/8632"
+    },
+    {
+        "Artist": "Times Wide World Photos",
+        "Title": "\"President Coolidge Wears His Rubbers to Inspect One of the Round-the-World Planes on Their Arrival at the Capital\"",
+        "Year": "September 14, 1924",
+        "ObjectID": "58722",
+        "Work": "https://www.moma.org/collection/works/58722",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwOTY5MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9f03799103e91a79",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "8 \u00d7 10\" (20.4 \u00d7 25.4 cm)",
+            "Credit": "The New York Times Collection",
+            "Object number": "2129.2001",
+            "Copyright": "\u00a9 2023 Times Wide World Photos",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/8632"
+    },
+    {
+        "Artist": "Joaquin Torres-Garcia",
+        "Title": "Guitar",
+        "Year": "1924",
+        "ObjectID": "79701",
+        "Work": "https://www.moma.org/collection/works/79701",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMxMzg1NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8f4ef9481a56c7d3",
+        "Details": {
+            "Medium": "Painted wood",
+            "Dimensions": "12 1/2 x 4 x 3 1/8\" (37.7 x 10 x 7.7 cm)",
+            "Credit": "Abby Aldrich Rockefeller Fund",
+            "Object number": "433.1981",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/5907"
+    },
+    {
+        "Artist": "Unidentified Artist",
+        "Title": "Kreis der Freunde des Bauhauses",
+        "Year": "1924",
+        "ObjectID": "7622",
+        "Work": "https://www.moma.org/collection/works/7622",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDcxNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b24223a3ecb09382",
+        "Details": {
+            "Medium": "Letterpress",
+            "Dimensions": "11 1/4 x 8 7/8\" (28.6 x 22.5 cm)",
+            "Publisher": "Bauhaus Verlag, Weimar",
+            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
+            "Object number": "584.1999",
             "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/5901"
+        "Profile": "https://www.moma.org/artists/23390"
     },
     {
-        "Artist": "Henri de Toulouse-Lautrec",
-        "Title": "Adieu from Quatorze lithographies originales (Melodies de Desire Dihau)",
-        "Year": "1895, published 1935",
-        "ObjectID": "31192",
-        "Work": "https://www.moma.org/collection/works/31192",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NTUyMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fb94e5f5ec8412d8",
+        "Artist": "Unidentified Artist",
+        "Title": "C. L. Kruger, Dortmund, die guten Drucke",
+        "Year": "c. 1924",
+        "ObjectID": "7789",
+        "Work": "https://www.moma.org/collection/works/7789",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDc1NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3181c562b09fb15a",
         "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "composition (irreg.): 9 1/2 x 7 7/8\" (24.1 x 20cm); sheet: 12 13/16 x 9 13/16\" (32.5 x 25 cm)",
-            "Publisher": "A. Richard, Paris",
-            "Printer": "Unidentified",
-            "Edition": "100",
+            "Medium": "Letterpress",
+            "Dimensions": "11 11/16 x 8 5/16\" (29.7 x 21.1 cm)",
+            "Printer": "C.L. Kr\u00fcger GmbH, Dortmund",
+            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
+            "Object number": "625.1999",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/23390"
+    },
+    {
+        "Artist": "Unidentified Designer",
+        "Title": "Dr. H. P. Berlage letterhead (Letter to Jean Badovici)",
+        "Year": "1924",
+        "ObjectID": "198722",
+        "Work": "https://www.moma.org/collection/works/198722",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Letterpress",
+            "Dimensions": "10 1/2 \u00d7 8 1/4\" (26.7 \u00d7 21 cm)",
+            "Credit": "Elaine Lustig Cohen Collection, gift of Lawrence Benenson and the Committee on Architecture and Design Funds",
+            "Object number": "1505.2015",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/6015"
+    },
+    {
+        "Artist": "Unidentified Designer",
+        "Title": "Tony Garnier letterhead (Letter to Jean Badovici)",
+        "Year": "1924",
+        "ObjectID": "198595",
+        "Work": "https://www.moma.org/collection/works/198595",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0Mjg2NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=33d4976bd8b7aff5",
+        "Details": {
+            "Medium": "Letterpress",
+            "Dimensions": "10 5/8 \u00d7 8 1/4\" (27 \u00d7 21 cm)",
+            "Credit": "Elaine Lustig Cohen Collection, gift of Lawrence Benenson and the Committee on Architecture and Design Funds",
+            "Object number": "1484.2015",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/6013"
+    },
+    {
+        "Artist": "Unidentified Designer",
+        "Title": "Ernst Wasmuth letterhead (Letter to Jean Badovici from Wasmuth)",
+        "Year": "1924",
+        "ObjectID": "198374",
+        "Work": "https://www.moma.org/collection/works/198374",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0ODQ1NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cacccbffba887534",
+        "Details": {
+            "Medium": "Letterpress",
+            "Dimensions": "11 3/8 \u00d7 8 7/8\" (28.9 \u00d7 22.5 cm)",
+            "Credit": "Elaine Lustig Cohen Collection, gift of Lawrence Benenson and the Committee on Architecture and Design Funds",
+            "Object number": "1407.2015",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/6014"
+    },
+    {
+        "Artist": "Unidentified Designer",
+        "Title": "Mies van der Rohe letterhead (Letter to J.J.P. Oud from Mies)",
+        "Year": "1924",
+        "ObjectID": "198436",
+        "Work": "https://www.moma.org/collection/works/198436",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0ODQ1OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c39c925b1fa14823",
+        "Details": {
+            "Medium": "Letterpress",
+            "Dimensions": "8 \u00d7 12 3/4\" (20.3 \u00d7 32.4 cm)",
+            "Credit": "Elaine Lustig Cohen Collection, gift of Lawrence Benenson and the Committee on Architecture and Design Funds",
+            "Object number": "1408.2015",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/6014"
+    },
+    {
+        "Artist": "Unidentified Designer",
+        "Title": "Convegno Futurista letterhead",
+        "Year": "1924",
+        "ObjectID": "198549",
+        "Work": "https://www.moma.org/collection/works/198549",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0Mjg0OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8e868e52862c1c70",
+        "Details": {
+            "Medium": "Letterpress",
+            "Dimensions": "11 3/8 \u00d7 8 3/4\" (28.9 \u00d7 22.2 cm)",
+            "Credit": "Elaine Lustig Cohen Collection, gift of Lawrence Benenson and the Committee on Architecture and Design Funds",
+            "Object number": "1449.2015",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/6016"
+    },
+    {
+        "Artist": "Unidentified Designer",
+        "Title": "Movimento Futurista stationery postcard",
+        "Year": "1924",
+        "ObjectID": "198578",
+        "Work": "https://www.moma.org/collection/works/198578",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0MzI3OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0fc5bfca57b68b62",
+        "Details": {
+            "Medium": "Letterpress",
+            "Dimensions": "3 5/8 \u00d7 5 1/2\" (9.2 \u00d7 14 cm)",
+            "Credit": "Elaine Lustig Cohen Collection, gift of Lawrence Benenson and the Committee on Architecture and Design Funds",
+            "Object number": "1472.2015",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/6016"
+    },
+    {
+        "Artist": "James Van Der Zee",
+        "Title": "A member of Garvey's African legion with his family",
+        "Year": "1924",
+        "ObjectID": "124818",
+        "Work": "https://www.moma.org/collection/works/124818",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUwMTkxOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e89b23956e8be2b4",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "9 15/16 \u00d7 7 15/16\" (25.2 \u00d7 20.2 cm)",
+            "Credit": "Gift of Richard Benson",
+            "Object number": "SC2008.1.101",
+            "Copyright": "\u00a9 2023 Estate of James Van Der Zee",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/6074"
+    },
+    {
+        "Artist": "James Van Der Zee",
+        "Title": "Untitled",
+        "Year": "1924",
+        "ObjectID": "124819",
+        "Work": "https://www.moma.org/collection/works/124819",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzNzY0NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e7f412d58e5c7dbe",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "9 11/16 \u00d7 7 1/2\" (24.6 \u00d7 19.1 cm)",
+            "Credit": "Gift of Richard Benson",
+            "Object number": "SC2008.1.102",
+            "Copyright": "\u00a9 2023 Estate of James Van Der Zee",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/6074"
+    },
+    {
+        "Artist": "Various Artists, Marie Laurencin, Jean Cocteau, Francis Poulenc",
+        "Title": "Les Biches",
+        "Year": "1924",
+        "ObjectID": "26923",
+        "Work": "https://www.moma.org/collection/works/26923",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ3NjE1MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5d242564777e2df8",
+        "Details": {
+            "Author": "Jean Cocteau, Darius Milhaud",
+            "Collaborating artist": "Marie Laurencin, Jean Cocteau, Francis Poulenc",
+            "Medium": "Two volume illustrated book with forty-seven collotype reproductions",
+            "Dimensions": "page (each approx.): 11 \u00d7 8 7/8\" (28 \u00d7 22.5 cm); overall (vol. I closed): 11 1/4 \u00d7 9 1/16 \u00d7 1/2\" (28.6 \u00d7 23 \u00d7 1.3 cm); overall (vol. II closed): 11 1/4 \u00d7 9 1/16 \u00d7 9/16\" (28.6 \u00d7 23 \u00d7 1.5 cm)",
+            "Publisher": "\u00c9ditions des Quatre Chemins, Paris",
+            "Printer": "Daniel Jacomet et Cie., Paris",
+            "Edition": "260",
             "Credit": "The Louis E. Stern Collection",
-            "Object number": "1072.1964.A01",
-            "Portfolio": "Quatorze lithographies originales (M\u00e9lodies de D\u00e9sir\u00e9 Dihau)",
+            "Object number": "874.1964.A-B",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Type": "Illustrated Book",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/5910"
+        "Profile": "https://www.moma.org/artists/24409"
     },
     {
-        "Artist": "Henri de Toulouse-Lautrec",
-        "Title": "Christmas Ballad (Ballade de Noel) from Quatorze lithographies originales (Melodies de Desire Dihau)",
-        "Year": "1895, published 1935",
-        "ObjectID": "31193",
-        "Work": "https://www.moma.org/collection/works/31193",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NTUyMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9791315d3b1f03c9",
+        "Artist": "Various Artists, Marie Laurencin, Jean Cocteau, Francis Poulenc",
+        "Title": "Les Biches, vol. II",
+        "Year": "1924",
+        "ObjectID": "403468",
+        "Work": "https://www.moma.org/collection/works/403468",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ3NjE3MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9b5a62e48ca12626",
         "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "composition (irreg.): 9 5/16 x 7 9/16\" (23.6 x 19.2cm); sheet: 12 3/4 x 9 13/16\" (32.4 x 25 cm)",
-            "Publisher": "A. Richard, Paris",
-            "Printer": "Unidentified",
-            "Edition": "100",
+            "Author": "Jean Cocteau, Darius Milhaud",
+            "Collaborating artist": "Marie Laurencin, Jean Cocteau, Francis Poulenc",
+            "Medium": "Illustrated book with twenty-nine collotype reproductions (including cover)",
+            "Dimensions": "page (each approx.): 11 \u00d7 8 7/8\" (28 \u00d7 22.5 cm); overall (closed): 11 1/4 \u00d7 9 1/16 \u00d7 9/16\" (28.6 \u00d7 23 \u00d7 1.5 cm)",
+            "Publisher": "\u00c9ditions des Quatre Chemins, Paris",
+            "Printer": "Daniel Jacomet et Cie., Paris",
+            "Edition": "260",
             "Credit": "The Louis E. Stern Collection",
-            "Object number": "1072.1964.A02",
-            "Portfolio": "Quatorze lithographies originales (M\u00e9lodies de D\u00e9sir\u00e9 Dihau)",
+            "Object number": "874.1964.B",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Illustrated book": "Les Biches",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/5910"
+        "Profile": "https://www.moma.org/artists/24409"
     },
     {
-        "Artist": "Henri de Toulouse-Lautrec",
-        "Title": "What the Rain Says (Ce que dit la pluie) from Quatorze lithographies originales (Melodies de Desire Dihau)",
-        "Year": "1895, published 1935",
-        "ObjectID": "31194",
-        "Work": "https://www.moma.org/collection/works/31194",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NTUyNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cb4900ed5dbb7766",
+        "Artist": "Various Artists, Marie Laurencin, Jean Cocteau, Francis Poulenc",
+        "Title": "Les Biches, vol. I",
+        "Year": "1924",
+        "ObjectID": "403507",
+        "Work": "https://www.moma.org/collection/works/403507",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ3NjE1MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5d242564777e2df8",
         "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "composition (irreg.): 6 1/2 x 7 11/16\" (16.5 x 19.5 cm); sheet: 12 3/4 x 9 13/16\" (32.4 x 25 cm)",
-            "Publisher": "A. Richard, Paris",
-            "Printer": "Unidentified",
-            "Edition": "100",
+            "Author": "Jean Cocteau, Darius Milhaud",
+            "Collaborating artist": "Marie Laurencin, Jean Cocteau, Francis Poulenc",
+            "Medium": "Illustrated book with eighteen collotype reproductions (including cover)",
+            "Dimensions": "page (each approx.): 11 \u00d7 8 7/8\" (28 \u00d7 22.5 cm); overall (closed): 11 1/4 \u00d7 9 1/16 \u00d7 1/2\" (28.6 \u00d7 23 \u00d7 1.3 cm)",
+            "Publisher": "\u00c9ditions des Quatre Chemins, Paris",
+            "Printer": "Daniel Jacomet et Cie., Paris",
+            "Edition": "260",
             "Credit": "The Louis E. Stern Collection",
-            "Object number": "1072.1964.A03",
-            "Portfolio": "Quatorze lithographies originales (M\u00e9lodies de D\u00e9sir\u00e9 Dihau)",
+            "Object number": "874.1964.A",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Illustrated book": "Les Biches",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/5910"
+        "Profile": "https://www.moma.org/artists/24409"
     },
     {
-        "Artist": "Henri de Toulouse-Lautrec",
-        "Title": "The Madman (Le fou) from Quatorze lithographies originales (Melodies de Desire Dihau)",
-        "Year": "1895, published 1935",
-        "ObjectID": "31195",
-        "Work": "https://www.moma.org/collection/works/31195",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NTUyNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6864db5e8abe3f90",
+        "Artist": "Henry Clemens van de Velde",
+        "Title": "Henry van de Velde letterhead (Letter to Jean Badovici)",
+        "Year": "1924",
+        "ObjectID": "198734",
+        "Work": "https://www.moma.org/collection/works/198734",
+        "Thumbnail": null,
         "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "composition (irreg.): 8 5/16 x 5 11/16\" (21.1 x 14.5 cm); sheet: 12 3/4 x 9 13/16\" (32.4 x 25 cm)",
-            "Publisher": "A. Richard, Paris",
-            "Printer": "Unidentified",
-            "Edition": "100",
-            "Credit": "The Louis E. Stern Collection",
-            "Object number": "1072.1964.A04",
-            "Portfolio": "Quatorze lithographies originales (M\u00e9lodies de D\u00e9sir\u00e9 Dihau)",
-            "Department": "Drawings and Prints"
+            "Medium": "Letterpress",
+            "Dimensions": "10 1/2 \u00d7 8 1/8\" (26.7 \u00d7 20.6 cm)",
+            "Credit": "Elaine Lustig Cohen Collection, gift of Lawrence Benenson and the Committee on Architecture and Design Funds",
+            "Object number": "1515.2015",
+            "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/5910"
+        "Profile": "https://www.moma.org/artists/6068"
     },
     {
-        "Artist": "Henri de Toulouse-Lautrec",
-        "Title": "The Butterflies (Les papillons) from Quatorze lithographies originales (Melodies de Desire Dihau)",
-        "Year": "1895, published 1935",
-        "ObjectID": "31196",
-        "Work": "https://www.moma.org/collection/works/31196",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NTUyNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6a4eb0e6055a80e1",
+        "Artist": "Friedrich Vordemberge-Gildewart",
+        "Title": "Untitled",
+        "Year": "1924",
+        "ObjectID": "280316",
+        "Work": "https://www.moma.org/collection/works/280316",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQzNzY3MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=47980ce0add8997e",
         "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "composition (irreg.): 8 1/16 x 7 3/16\" (20.5 x 18.3cm); sheet: 12 13/16 x 9 13/16\" (32.5 x 25 cm)",
-            "Publisher": "A. Richard, Paris",
-            "Printer": "Unidentified",
-            "Edition": "100",
-            "Credit": "The Louis E. Stern Collection",
-            "Object number": "1072.1964.A05",
-            "Portfolio": "Quatorze lithographies originales (M\u00e9lodies de D\u00e9sir\u00e9 Dihau)",
+            "Medium": "Cut-and-pasted printed paper, corrugated board, watercolor, and pencil on paper",
+            "Dimensions": "20 9/16 \u00d7 15 5/16\" (52.2 \u00d7 38.9 cm)",
+            "Credit": "The Merrill C. Berman Collection. Acquired through the generosity of Alice and Tom Tisch, Jo Carole and Ronald S. Lauder, Sue and Edgar Wachenheim III, David Booth, Marlene Hess and James D. Zirin, Marie-Jos\u00e9e and Henry R. Kravis, Jack Shear, the Patricia Bonfield Endowed Acquisition Fund for the Design Collection, Daniel and Jane Och, The Orentreich Family Foundation, Emily Rauh Pulitzer, The Modern Women's Fund; and by exchange: Gift of Jean Dubuffet in honor of Mr. and Mrs. Ralph Colin, The Judith Rothschild Foundation Contemporary Drawings Collection, and the Richard S. Zeisler Bequest",
+            "Object number": "524.2018",
+            "Copyright": "Vordemberge Gildewart Foundation, Rapperswil / Switzerland",
+            "Associated work": "The Merrill C. Berman Collection at MoMA",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/5910"
-    },
-    {
-        "Artist": "Henri de Toulouse-Lautrec",
-        "Title": "The Red Herring (L'Hareng saur) from Quatorze lithographies originales (Melodies de Desire Dihau)",
-        "Year": "1895, published 1935",
-        "ObjectID": "31197",
-        "Work": "https://www.moma.org/collection/works/31197",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NTUyNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=837cc6e60f2becaa",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "composition (irreg.): 9 1/8 x 8 3/8\" (23.2 x 21.2cm); sheet: 12 13/16 x 9 13/16\" (32.5 x 25 cm)",
-            "Publisher": "A. Richard, Paris",
-            "Printer": "Unidentified, Paris",
-            "Edition": "100",
-            "Credit": "The Louis E. Stern Collection",
-            "Object number": "1072.1964.A06",
-            "Portfolio": "Quatorze lithographies originales (M\u00e9lodies de D\u00e9sir\u00e9 Dihau)",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5910"
-    },
-    {
-        "Artist": "Henri de Toulouse-Lautrec",
-        "Title": "The Secret (Le secret) from Quatorze lithographies originales (Melodies de Desire Dihau)",
-        "Year": "1895, published 1935",
-        "ObjectID": "31198",
-        "Work": "https://www.moma.org/collection/works/31198",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NTUyOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=56c6c03d012de0b0",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "composition (irreg.): 9 1/8 x 7 5/16\" (23.1 x 18.5cm); sheet: 12 3/4 x 9 7/8\" (32.4 x 25.1 cm)",
-            "Publisher": "A. Richard, Paris",
-            "Printer": "Unidentified",
-            "Edition": "100",
-            "Credit": "The Louis E. Stern Collection",
-            "Object number": "1072.1964.A07",
-            "Portfolio": "Quatorze lithographies originales (M\u00e9lodies de D\u00e9sir\u00e9 Dihau)",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5910"
-    },
-    {
-        "Artist": "Henri de Toulouse-Lautrec",
-        "Title": "Shooting Stars (Etoiles filantes) from Quatorze lithographies originales (Melodies de Desire Dihau)",
-        "Year": "1895, published 1935",
-        "ObjectID": "31199",
-        "Work": "https://www.moma.org/collection/works/31199",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NTUyOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3d10970dbd1212c9",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "composition (irreg.): 10 1/4 x 8 1/8\" (26 x 20.6 cm); sheet: 12 3/4 x 9 13/16\" (32.4 x 25 cm)",
-            "Publisher": "A. Richard, Paris",
-            "Printer": "Unidentified",
-            "Edition": "100",
-            "Credit": "The Louis E. Stern Collection",
-            "Object number": "1072.1964.A08",
-            "Portfolio": "Quatorze lithographies originales (M\u00e9lodies de D\u00e9sir\u00e9 Dihau)",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5910"
-    },
-    {
-        "Artist": "Henri de Toulouse-Lautrec",
-        "Title": "Night at Sea (Oceano nox) from Quatorze lithographies originales (Melodies de Desire Dihau)",
-        "Year": "1895, published 1935",
-        "ObjectID": "31200",
-        "Work": "https://www.moma.org/collection/works/31200",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NTUzMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=661f751dfab05f53",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "composition (irreg.): 10 5/16 x 8 1/16\" (26.2 x 20.5 cm); sheet: 12 3/4 x 9 13/16\" (32.4 x 25 cm)",
-            "Publisher": "A. Richard, Paris",
-            "Printer": "Unidentified",
-            "Edition": "100",
-            "Credit": "The Louis E. Stern Collection",
-            "Object number": "1072.1964.A09",
-            "Portfolio": "Quatorze lithographies originales (M\u00e9lodies de D\u00e9sir\u00e9 Dihau)",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5910"
-    },
-    {
-        "Artist": "Henri de Toulouse-Lautrec",
-        "Title": "The Sea Swallows (Les hirondelles de mer) from- Quatorze lithographies originales (Melodies de Desire Dihau)",
-        "Year": "1895, published 1935",
-        "ObjectID": "31201",
-        "Work": "https://www.moma.org/collection/works/31201",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NTUzMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4996fc1d8b74a73d",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "composition (irreg.): 7 7/8 x 7 15/16\" (20 x 20.2cm); sheet: 12 3/4 x 9 13/16\" (32.4 x 25 cm)",
-            "Publisher": "A. Richard, Paris",
-            "Printer": "Unidentified",
-            "Edition": "100",
-            "Credit": "The Louis E. Stern Collection",
-            "Object number": "1072.1964.A10",
-            "Portfolio": "Quatorze lithographies originales (M\u00e9lodies de D\u00e9sir\u00e9 Dihau)",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5910"
-    },
-    {
-        "Artist": "Henri de Toulouse-Lautrec",
-        "Title": "Floreal from Quatorze lithographies originales (Melodies de Desire Dihau)",
-        "Year": "1895, published 1935",
-        "ObjectID": "31202",
-        "Work": "https://www.moma.org/collection/works/31202",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NTUzMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=13289eca84bc85bd",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "composition (irreg.): 9 1/16 x 7 5/16\" (23 x 18.6cm); sheet: 12 3/4 x 9 13/16\" (32.4 x 25 cm)",
-            "Publisher": "A. Richard, Paris",
-            "Printer": "Unidentified",
-            "Edition": "100",
-            "Credit": "The Louis E. Stern Collection",
-            "Object number": "1072.1964.A11",
-            "Portfolio": "Quatorze lithographies originales (M\u00e9lodies de D\u00e9sir\u00e9 Dihau)",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5910"
-    },
-    {
-        "Artist": "Henri de Toulouse-Lautrec",
-        "Title": "Buy My Beautiful Violets (Achetez mes belles violettes) from Quatorze lithographies originales (Melodies de Desire Dihau)",
-        "Year": "1895, published 1935",
-        "ObjectID": "31203",
-        "Work": "https://www.moma.org/collection/works/31203",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NTUzMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3f0703fbec45bc8b",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "composition (irreg.): 9 1/8 \u00d7 6 11/16\" (23.2 \u00d7 17 cm); sheet: 12 3/4 \u00d7 9 13/16\" (32.4 \u00d7 24.9 cm)",
-            "Publisher": "A. Richard, Paris",
-            "Printer": "Unidentified",
-            "Edition": "100",
-            "Credit": "The Louis E. Stern Collection",
-            "Object number": "1072.1964.A12",
-            "Portfolio": "Quatorze lithographies originales (M\u00e9lodies de D\u00e9sir\u00e9 Dihau)",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5910"
-    },
-    {
-        "Artist": "Henri de Toulouse-Lautrec",
-        "Title": "Lullaby (Berceuse) from Quatorze lithographies originales (Melodies de Desire Dihau)",
-        "Year": "1895, published 1935",
-        "ObjectID": "31204",
-        "Work": "https://www.moma.org/collection/works/31204",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NTUzNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0ad0e47736431d77",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "composition (irreg.): 9 1/2 x 8 1/16\" (24.1 x 20.4cm); sheet: 12 13/16 x 9 13/16\" (32.5 x 25 cm)",
-            "Publisher": "A. Richard, Paris",
-            "Printer": "Unidentified",
-            "Edition": "100",
-            "Credit": "The Louis E. Stern Collection",
-            "Object number": "1072.1964.A13",
-            "Portfolio": "Quatorze lithographies originales (M\u00e9lodies de D\u00e9sir\u00e9 Dihau)",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5910"
-    },
-    {
-        "Artist": "Henri de Toulouse-Lautrec",
-        "Title": "The Old Butterflies (Les vieux papillons) from Quatorze lithographies originales (Melodies de Desire Dihau)",
-        "Year": "1895, published 1935",
-        "ObjectID": "31205",
-        "Work": "https://www.moma.org/collection/works/31205",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NTUzNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=73a45fba9a88fe5e",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "composition (irreg.): 8 3/4 x 7 11/16\" (22.2 x 19.5cm); sheet: 12 13/16 x 9 13/16\" (32.5 x 25 cm)",
-            "Publisher": "A. Richard, Paris",
-            "Printer": "Unidentified",
-            "Edition": "100",
-            "Credit": "The Louis E. Stern Collection",
-            "Object number": "1072.1964.A14",
-            "Portfolio": "Quatorze lithographies originales (M\u00e9lodies de D\u00e9sir\u00e9 Dihau)",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5910"
-    },
-    {
-        "Artist": "Henri de Toulouse-Lautrec",
-        "Title": "Mademoiselle Marcelle Lender, Standing (Mademoiselle Marcelle Lender, debout)",
-        "Year": "1895",
-        "ObjectID": "62962",
-        "Work": "https://www.moma.org/collection/works/62962",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3NjI5OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8ed3730df0c16664",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "composition and sheet: 14 3/8 x 9 1/2\" (36.5 x 24.2 cm)",
-            "Publisher": "probably Henri de Toulouse-Lautrec, Paris",
-            "Printer": "Unidentified",
-            "Edition": "12",
-            "Credit": "Gift of Abby Aldrich Rockefeller",
-            "Object number": "150.1946",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5910"
-    },
-    {
-        "Artist": "Henri de Toulouse-Lautrec",
-        "Title": "Lender, Fontal View, in \"Chilperic\" (Lender de face, dans \"Chilperic\")",
-        "Year": "1895",
-        "ObjectID": "62979",
-        "Work": "https://www.moma.org/collection/works/62979",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMzA1NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=23de14cd214e26ee",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "composition: 14 5/16 x 10 5/8\" (36.4 x 27 cm); sheet: 21 7/16 x 11 7/8\" (54.5 x 30.1 cm)",
-            "Publisher": "probably Henri de Toulouse-Lautrec, Paris",
-            "Printer": "Edward Ancourt, Paris",
-            "Edition": "25",
-            "Credit": "Gift of Abby Aldrich Rockefeller",
-            "Object number": "151.1946",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5910"
+        "Profile": "https://www.moma.org/artists/6189"
     }
 ]

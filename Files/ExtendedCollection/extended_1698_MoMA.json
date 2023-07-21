@@ -1,869 +1,853 @@
 [
     {
-        "Artist": "Paul Klee",
-        "Title": "Perseus (Wit Has Triumphed over Grief) (Perseus [Der Witz hat uber das Leid gesiegt]) from the series Inventions (Inventionen)",
-        "Year": "1904",
-        "ObjectID": "70122",
-        "Work": "https://www.moma.org/collection/works/70122",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyOTI4OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8f6cf0f49a9d17ea",
-        "Details": {
-            "Medium": "Etching and aquatint",
-            "Dimensions": "plate: 5 x 5 5/8\" (12.7 x 14.3 cm); sheet: 16 9/16 x 12 1/2\" (42 x 31.8 cm)",
-            "Publisher": "Paul Klee, Bern",
-            "Printer": "Max Girardet, Bern",
-            "Edition": "one of 9 known proofs outside the edition of 30; plus 2 known trial proofs",
-            "Credit": "Purchase",
-            "Object number": "496.1949",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/3130"
-    },
-    {
-        "Artist": "Max Klinger",
-        "Title": "Plague (Pest) (plate 5) for the portfolio On Death, Part II, Opus XIII (Vom Tode, Zweiter Teil, Opus XIII)",
-        "Year": "1903 (published 1904)",
-        "ObjectID": "61512",
-        "Work": "https://www.moma.org/collection/works/61512",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNzIwOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3d3b7a491c784756",
-        "Details": {
-            "Medium": "Etching",
-            "Dimensions": "composition: 14 1/4 x 12 3/8\" (36.2 x 31.5 cm); plate: 19 7/16 x 13 3/8\" (49.4 x 34 cm); sheet: 23 1/16 x 16 3/4\" (58.5 x 42.5 cm)",
-            "Publisher": "Verbindung f\u00fcr historische Kunst, Berlin, Amsler & Ruthardt, Berlin",
-            "Printer": "Otto Felsing, Berlin",
-            "Edition": "State proof before the edition of 280",
-            "Credit": "Purchase",
-            "Object number": "80.1955",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/3149"
-    },
-    {
-        "Artist": "Heinrich Kuhn",
-        "Title": "Alfred Stieglitz",
-        "Year": "1904",
-        "ObjectID": "45837",
-        "Work": "https://www.moma.org/collection/works/45837",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3Mjg4OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=db440d44e4f94f8c",
-        "Details": {
-            "Sitter": "Alfred Stieglitz",
-            "Medium": "Platinum print",
-            "Dimensions": "10 1/16 \u00d7 8 1/8\" (25.5 \u00d7 20.7 cm)",
-            "Credit": "Gift of Edward Steichen",
-            "Object number": "81.1964",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/3287"
-    },
-    {
-        "Artist": "Heinrich Kuhn",
-        "Title": "Alfred Stieglitz",
-        "Year": "1904",
-        "ObjectID": "45857",
-        "Work": "https://www.moma.org/collection/works/45857",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxODU2NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e0448d855dc32be6",
-        "Details": {
-            "Sitter": "Alfred Stieglitz",
-            "Medium": "Gum bichromate print",
-            "Dimensions": "10 \u00d7 8 1/16\" (25.5 \u00d7 20.5 cm)",
-            "Credit": "Gift of Edward Steichen",
-            "Object number": "82.1964",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/3287"
-    },
-    {
-        "Artist": "Jacques-Henri Lartigue",
-        "Title": "My Hydroplane with Aerial Propellor",
-        "Year": "1904",
-        "ObjectID": "55654",
-        "Work": "https://www.moma.org/collection/works/55654",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxOTA5NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=dbfe3af39db6c633",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "6 1/4 \u00d7 8 9/16\" (15.9 \u00d7 21.8 cm)",
-            "Credit": "Gift of Howard Stein",
-            "Object number": "623.1997",
-            "Copyright": "\u00a9 2023 Association des Amis de Jacques Henri Lartigue",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/3394"
-    },
-    {
-        "Artist": "Hugo Leven",
-        "Title": "Biscuit Jar No.4505",
-        "Year": "1902",
-        "ObjectID": "1626",
-        "Work": "https://www.moma.org/collection/works/1626",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNjU0NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b8c35f6bce05aea0",
-        "Details": {
-            "Manufacturer": "J.P. Kayser Sohn, Cologne",
-            "Medium": "Silver-plated pewter",
-            "Dimensions": "Overall: 17 x 27 x 27\" (43.2 x 68.6 x 68.6 cm)",
-            "Credit": "Gift of Faber Donoughe",
-            "Object number": "26.1997.a-b",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/3506"
-    },
-    {
-        "Artist": "Hugo Leven, Hermann Fauser",
-        "Title": "Jardiniere",
-        "Year": "1902-04",
-        "ObjectID": "3013",
-        "Work": "https://www.moma.org/collection/works/3013",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyODk4NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d33a274052864939",
-        "Details": {
-            "Manufacturer": "J.P. Kayser-Sohn Krefeld-Brockman, Germany",
-            "Medium": "Pewter",
-            "Dimensions": "8 1/2 x 17 1/4 x 8 1/4\" (21.6 x 43.8 x 21 cm)",
-            "Credit": "Est\u00e9e and Joseph Lauder Design Fund",
-            "Object number": "244.1986",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/3506"
-    },
-    {
-        "Artist": "Liberty & Co., Ltd., London",
-        "Title": "Inkstand",
-        "Year": "c. 1903-04",
-        "ObjectID": "2124",
-        "Work": "https://www.moma.org/collection/works/2124",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNzkzOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6267934638200b0b",
-        "Details": {
-            "Manufacturer": "Liberty & Co., Ltd., London",
-            "Medium": "Pewter and enameled copper decoration",
-            "Dimensions": "3 1/2 x 6 x 6\" (8.9 x 15.2 x 15.2 cm)",
-            "Credit": "Purchase Fund",
-            "Object number": "105.1957",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/9678"
-    },
-    {
-        "Artist": "Adolph Loos, J. & J. Kohn, Vienna",
-        "Title": "Side Chair",
-        "Year": "c. 1898",
-        "ObjectID": "4156",
-        "Work": "https://www.moma.org/collection/works/4156",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMjIzNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9b8e39b0a6687ad5",
-        "Details": {
-            "Manufacturer": "J. & J. Kohn, Vienna",
-            "Medium": "Bent beech wood and cane",
-            "Dimensions": "34 x 17 7/16 x 20 7/16\" (86.4 x 44.3 x 51.9 cm), seat h. 17 13/16\" (45.2 cm)",
-            "Credit": "Est\u00e9e and Joseph Lauder Design Fund",
-            "Object number": "640.1980",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VBK, Vienna",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/3595"
-    },
-    {
-        "Artist": "Charles Rennie Mackintosh",
-        "Title": "Tea Table",
-        "Year": "1904",
-        "ObjectID": "4015",
-        "Work": "https://www.moma.org/collection/works/4015",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMTUwNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=af87b14b7aaf2a53",
-        "Details": {
-            "Medium": "Ebonized wood",
-            "Dimensions": "24 x 36 3/4 x 19 3/4\" (61 x 93.3 x 50.2 cm)",
-            "Credit": "Guimard Fund",
-            "Object number": "477.1978",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/3671"
-    },
-    {
-        "Artist": "Albert Marquet",
-        "Title": "Woman with Umbrella",
-        "Year": "1900-04",
-        "ObjectID": "33253",
-        "Work": "https://www.moma.org/collection/works/33253",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNjE4NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=05e761756c752036",
-        "Details": {
-            "Medium": "Ink on paper",
-            "Dimensions": "11 1/8 x 7 1/2\" (28.3 x 19 cm)",
-            "Credit": "Purchase",
-            "Object number": "19.1953",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/3782"
-    },
-    {
-        "Artist": "Martel",
-        "Title": "Le Mirliton, no. 19",
-        "Year": "March 1904",
-        "ObjectID": "183792",
-        "Work": "https://www.moma.org/collection/works/183792",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMxOTA0NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1ab75c031c53b4b6",
-        "Details": {
-            "Medium": "Journal with relief halftone illustration",
-            "Dimensions": "page (each): 11 x 7 1/2\" (28 x 19 cm)",
-            "Publisher": "Le Mirliton",
-            "Printer": "Imprimerie Pairault et Cie.",
-            "Credit": "Grace M. Mayer Bequest",
-            "Object number": "595.1997.191",
-            "Series": "Le Mirliton",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/48107"
-    },
-    {
         "Artist": "Henri Matisse",
-        "Title": "Study for \"Luxe, calme et volupte\"",
-        "Year": "1904",
-        "ObjectID": "80016",
-        "Work": "https://www.moma.org/collection/works/80016",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzODYxNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d68d8428abbc9a4e",
+        "Title": "Untitled from Ten Dancers (Dix Danseuses)",
+        "Year": "1927",
+        "ObjectID": "60067",
+        "Work": "https://www.moma.org/collection/works/60067",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NDA5NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7e9c619a89cd7eb4",
         "Details": {
-            "Medium": "Oil on canvas",
-            "Dimensions": "12 13/16 \u00d7 15 15/16\" (32.5 \u00d7 40.5 cm)",
-            "Credit": "Mrs. John Hay Whitney Bequest",
-            "Object number": "582.1998",
+            "Medium": "One from a portfolio of ten lithographs",
+            "Dimensions": "composition (irreg.): 17 15/16 \u00d7 10 5/16\" (45.5 \u00d7 26.2 cm); sheet: 19 13/16 \u00d7 13\" (50.3 \u00d7 33 cm)",
+            "Publisher": "\u00c9ditions de la Galerie d'Art Contemporain, Paris",
+            "Printer": "Atelier Duch\u00e2tel, Paris",
+            "Edition": "130",
+            "Credit": "Gift of Mrs. Saidie A. May",
+            "Object number": "19.1932.4",
             "Copyright": "\u00a9 2023 Succession H. Matisse / Artists Rights Society (ARS), New York",
-            "Department": "Painting and Sculpture"
+            "Portfolio": "Ten Dancers (Dix danseuses)",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/3832"
     },
     {
         "Artist": "Henri Matisse",
-        "Title": "The Serf",
-        "Year": "Paris, 1900-1904",
-        "ObjectID": "81582",
-        "Work": "https://www.moma.org/collection/works/81582",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMTY0MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=44ed14d864c18ac3",
+        "Title": "Untitled from Ten Dancers (Dix Danseuses)",
+        "Year": "1927",
+        "ObjectID": "60068",
+        "Work": "https://www.moma.org/collection/works/60068",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NDA5NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c59690c61fd5db99",
         "Details": {
-            "Medium": "Bronze",
-            "Dimensions": "37 7/8 x 13 5/8 x 13\" (92.3 x 34.5 x 33 cm)",
-            "Credit": "Mr. and Mrs. Sam Salz Fund",
-            "Object number": "553.1956",
+            "Medium": "One from a portfolio of ten lithographs",
+            "Dimensions": "composition (irreg.): 10 15/16 \u00d7 18\" (27.8 \u00d7 45.7 cm); sheet: 12 15/16 \u00d7 19 13/16\" (32.8 \u00d7 50.4 cm)",
+            "Publisher": "\u00c9ditions de la Galerie d'Art Contemporain, Paris",
+            "Printer": "Atelier Duch\u00e2tel, Paris",
+            "Edition": "130",
+            "Credit": "Gift of Mrs. Saidie A. May",
+            "Object number": "19.1932.5",
             "Copyright": "\u00a9 2023 Succession H. Matisse / Artists Rights Society (ARS), New York",
-            "Department": "Painting and Sculpture"
+            "Portfolio": "Ten Dancers (Dix danseuses)",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/3832"
     },
     {
-        "Artist": "Metall-Arbeit Wiener Werkstatte",
-        "Title": "Candleholder",
-        "Year": "c. 1903-04",
-        "ObjectID": "4457",
-        "Work": "https://www.moma.org/collection/works/4457",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMDU1NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4debadd35a7a8715",
+        "Artist": "Henri Matisse",
+        "Title": "Untitled from Ten Dancers (Dix Danseuses)",
+        "Year": "1927",
+        "ObjectID": "60069",
+        "Work": "https://www.moma.org/collection/works/60069",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NDA5OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f2c374931d85678d",
         "Details": {
-            "Manufacturer": "Metall-Arbeit Wiener Werkst\u00e4tte, Vienna, Austria",
-            "Medium": "Hammered silver",
-            "Dimensions": "7 5/8 x 6 3/8\" (19.4 x 16.2 cm)",
-            "Credit": "Gift of Edgar Kaufmann, Jr.",
-            "Object number": "801.1941",
-            "Department": "Architecture and Design"
+            "Medium": "One from a portfolio of ten lithographs",
+            "Dimensions": "composition (irreg.): 11 \u00d7 18 1/8\" (28 \u00d7 46 cm); sheet: 12 13/16 \u00d7 19 13/16\" (32.6 \u00d7 50.4 cm)",
+            "Publisher": "\u00c9ditions de la Galerie d'Art Contemporain, Paris",
+            "Printer": "Atelier Duch\u00e2tel, Paris",
+            "Edition": "130",
+            "Credit": "Gift of Mrs. Saidie A. May",
+            "Object number": "19.1932.6",
+            "Copyright": "\u00a9 2023 Succession H. Matisse / Artists Rights Society (ARS), New York",
+            "Portfolio": "Ten Dancers (Dix danseuses)",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/6356"
+        "Profile": "https://www.moma.org/artists/3832"
     },
     {
-        "Artist": "Emil Orlik",
-        "Title": "Scene from Michael Kramer (Szenenbild zu Michael Kramer)",
-        "Year": "1904",
-        "ObjectID": "63441",
-        "Work": "https://www.moma.org/collection/works/63441",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyMjgwNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=63d81388ba6f2d80",
+        "Artist": "Henri Matisse",
+        "Title": "Untitled from Ten Dancers (Dix Danseuses)",
+        "Year": "1927",
+        "ObjectID": "60070",
+        "Work": "https://www.moma.org/collection/works/60070",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NDA5OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=87a5e61308830eff",
+        "Details": {
+            "Medium": "One from a portfolio of ten lithographs",
+            "Dimensions": "composition (irreg.): 17 1/16 \u00d7 10 7/8\" (43.4 \u00d7 27.7 cm); sheet: 19 7/8 \u00d7 12 7/8\" (50.5 \u00d7 32.7 cm)",
+            "Publisher": "\u00c9ditions de la Galerie d'Art Contemporain, Paris",
+            "Printer": "Atelier Duch\u00e2tel, Paris",
+            "Edition": "130",
+            "Credit": "Gift of Mrs. Saidie A. May",
+            "Object number": "19.1932.7",
+            "Copyright": "\u00a9 2023 Succession H. Matisse / Artists Rights Society (ARS), New York",
+            "Portfolio": "Ten Dancers (Dix danseuses)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3832"
+    },
+    {
+        "Artist": "Henri Matisse",
+        "Title": "Untitled from Ten Dancers (Dix Danseuses)",
+        "Year": "1927",
+        "ObjectID": "60071",
+        "Work": "https://www.moma.org/collection/works/60071",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NDEwMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8632594b5236e9aa",
+        "Details": {
+            "Medium": "One from a portfolio of ten lithographs",
+            "Dimensions": "composition (irreg.): 18 1/8 \u00d7 11\" (46 \u00d7 28 cm); sheet: 19 13/16 \u00d7 12 15/16\" (50.3 \u00d7 32.8 cm)",
+            "Publisher": "\u00c9ditions de la Galerie d'Art Contemporain, Paris",
+            "Printer": "Atelier Duch\u00e2tel, Paris",
+            "Edition": "130",
+            "Credit": "Gift of Mrs. Saidie A. May",
+            "Object number": "19.1932.8",
+            "Copyright": "\u00a9 2023 Succession H. Matisse / Artists Rights Society (ARS), New York",
+            "Portfolio": "Ten Dancers (Dix danseuses)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3832"
+    },
+    {
+        "Artist": "Henri Matisse",
+        "Title": "Untitled from Ten Dancers (Dix Danseuses)",
+        "Year": "1927",
+        "ObjectID": "60072",
+        "Work": "https://www.moma.org/collection/works/60072",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NDEwMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6b7a639749c132df",
+        "Details": {
+            "Medium": "One from a portfolio of ten lithographs",
+            "Dimensions": "composition (irreg.): 9 15/16 \u00d7 16 5/16\" (25.2 \u00d7 41.4 cm); sheet: 12 15/16 \u00d7 19 7/8\" (32.8 \u00d7 50.5 cm)",
+            "Publisher": "\u00c9ditions de la Galerie d'Art Contemporain, Paris",
+            "Printer": "Atelier Duch\u00e2tel, Paris",
+            "Edition": "130",
+            "Credit": "Gift of Mrs. Saidie A. May",
+            "Object number": "19.1932.9",
+            "Copyright": "\u00a9 2023 Succession H. Matisse / Artists Rights Society (ARS), New York",
+            "Portfolio": "Ten Dancers (Dix danseuses)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3832"
+    },
+    {
+        "Artist": "Henri Matisse",
+        "Title": "The Pianist Alfred Cortot (Le Pianiste Alfred Cortot)",
+        "Year": "1927",
+        "ObjectID": "61593",
+        "Work": "https://www.moma.org/collection/works/61593",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NDM0MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f19498f7120fcade",
+        "Details": {
+            "Medium": "Drypoint with chine coll\u00e9",
+            "Dimensions": "plate: 5 7/16 x 3 3/8\" (13.8 x 8.6cm); sheet: 14 15/16 x 11 3/16\" (38 x 28.4cm)",
+            "Edition": "trial before the edition of 15",
+            "Credit": "Stephen C. Clark Fund",
+            "Object number": "85.1951",
+            "Copyright": "\u00a9 2023 Succession H. Matisse / Artists Rights Society (ARS), New York",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3832"
+    },
+    {
+        "Artist": "Henri Matisse",
+        "Title": "View of Paris - Pont St. Michel (Vue de Paris - Le Pont St-Michel) from the portfolio Pictures of Paris (Tableaux de Paris)",
+        "Year": "1927",
+        "ObjectID": "67722",
+        "Work": "https://www.moma.org/collection/works/67722",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NDE1OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=26fb22f885b28632",
         "Details": {
             "Medium": "Etching",
-            "Dimensions": "Plate 7 15/16 x 11 9/16\" (20.1 x 29.3  cm) Sheet 12 3/8 x 17 7/8\" (31.4 x 45.5  cm) Comp. 5 13/16 x 8 3/8\" (14  .7 x 23.0 cm)",
-            "Publisher": "Unidentified",
-            "Printer": "Unidentified",
-            "Edition": "unknown (approx. 15)",
-            "Credit": "Gift of Mr. and Mrs. Carroll Cartwright",
-            "Object number": "167.1960",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/4427"
-    },
-    {
-        "Artist": "Pablo Picasso",
-        "Title": "Brooding Woman (recto); Three Children (verso)",
-        "Year": "1904",
-        "ObjectID": "33008",
-        "Work": "https://www.moma.org/collection/works/33008",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwOTk5MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=bc145ad50b56dab1",
-        "Details": {
-            "Medium": "Watercolor on paper (recto and verso)",
-            "Dimensions": "sheet (recto): 10 5/8 \u00d7 14 1/2\" (27 \u00d7 36.8 cm); verso orientation varies",
-            "Credit": "Gift of Mr. and Mrs. Werner E. Josten",
-            "Object number": "4.1956.a-b",
-            "Copyright": "\u00a9 2023 Estate of Pablo Picasso / Artists Rights Society (ARS), New York",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/4609"
-    },
-    {
-        "Artist": "Pablo Picasso",
-        "Title": "Meditation (Contemplation)",
-        "Year": "(late 1904)",
-        "ObjectID": "33823",
-        "Work": "https://www.moma.org/collection/works/33823",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMDIzMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=be5f3818d3534926",
-        "Details": {
-            "Medium": "Watercolor and ink on paper",
-            "Dimensions": "14 1/2 x 10 1/2\" (36.9 x 26.7 cm)",
-            "Credit": "Louise Reinhardt Smith Bequest",
-            "Object number": "90.1996",
-            "Copyright": "\u00a9 2023 Estate of Pablo Picasso / Artists Rights Society (ARS), New York",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/4609"
-    },
-    {
-        "Artist": "Pablo Picasso",
-        "Title": "La belle qui passe",
-        "Year": "(1904)",
-        "ObjectID": "36462",
-        "Work": "https://www.moma.org/collection/works/36462",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2ODgzOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5326fdaa41296e9a",
-        "Details": {
-            "Medium": "Ink on paper",
-            "Dimensions": "11 1/2 x 15 3/4\" (29.2 x 40.0 cm)",
-            "Credit": "Gift of Mr. and Mrs. Daniel Saidenberg",
-            "Object number": "348.1977",
-            "Copyright": "\u00a9 2023 Estate of Pablo Picasso / Artists Rights Society (ARS), New York",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/4609"
-    },
-    {
-        "Artist": "Pablo Picasso",
-        "Title": "The Frugal Repast (Le Repas frugal) from the Saltimbanques series",
-        "Year": "1904, published 1913",
-        "ObjectID": "70203",
-        "Work": "https://www.moma.org/collection/works/70203",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MzIwMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=389477e955f2f475",
-        "Details": {
-            "Medium": "Etching",
-            "Dimensions": "plate: 18 1/4 x 14 13/16\" (46.3 x 37.7 cm)",
-            "Publisher": "Vollard, Paris",
-            "Printer": "Louis Fort",
-            "Edition": "250",
-            "Credit": "Gift of Abby Aldrich Rockefeller",
-            "Object number": "503.1940",
-            "Copyright": "\u00a9 2023 Estate of Pablo Picasso / Artists Rights Society (ARS), New York",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/4609"
-    },
-    {
-        "Artist": "Pablo Picasso",
-        "Title": "The Frugal Repast (Le Repas frugal ) from the Saltimbanques series",
-        "Year": "1904",
-        "ObjectID": "73115",
-        "Work": "https://www.moma.org/collection/works/73115",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMTgyOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e235fec7d409652c",
-        "Details": {
-            "Medium": "Etching",
-            "Dimensions": "plate: 18 3/16 x 14 7/8\" (46.2 x 37.8 cm); sheet: 24 3/16 x 17 5/16\" (61 x 44 cm)",
-            "Publisher": "unpublished",
-            "Printer": "Auguste Del\u00e2tre, Paris",
-            "Edition": "approx. 30 proofs before the edition of 250",
-            "Credit": "Gift of Thomas T. Solley with Mary Ellen Meehan, and purchase through the Vincent d'Aquila and Harry Soviak Bequest, and with contributions from Lily Auchincloss, The Associates Fund, The Philip and Lynn Straus Foundation Fund, and John S. Newberry (by exchange)",
-            "Object number": "683.1993",
-            "Copyright": "\u00a9 2023 Estate of Pablo Picasso / Artists Rights Society (ARS), New York",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/4609"
-    },
-    {
-        "Artist": "Odilon Redon",
-        "Title": "Mlle. Juliette Dodu",
-        "Year": "1904",
-        "ObjectID": "63043",
-        "Work": "https://www.moma.org/collection/works/63043",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjk3MjA4Il0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNTEyeDUxMlx1MDAzZSJdXQ.jpg?sha=52da9fbfd16f2974",
-        "Details": {
-            "Medium": "Lithograph on chine appliqu\u00e9",
-            "Dimensions": "composition: 5 11/16 x 3 9/16\" (14.5 x 9 cm); sheet: 18 3/4 x 14 1/8\" (47.6 x 35.8 cm)",
-            "Publisher": "probably Odilon Redon, Paris",
-            "Printer": "Clot, Paris",
-            "Edition": "40",
-            "Credit": "Purchase",
-            "Object number": "154.1954",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/4840"
-    },
-    {
-        "Artist": "Pierre-Auguste Renoir",
-        "Title": "Ambroise Vollard from Twelve Original Lithographs by Pierre-Auguste Renoir (Douze lithographies originales de Pierre-Auguste Renoir)",
-        "Year": "c. 1904, published 1919",
-        "ObjectID": "30165",
-        "Work": "https://www.moma.org/collection/works/30165",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzNTc0MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3388bb52fe220cfb",
-        "Details": {
-            "Medium": "One from a portfolio of twelve lithographs",
-            "Dimensions": "composition (irreg.): 9 1/16 \u00d7 6 13/16\" (23 \u00d7 17.3 cm); sheet: 13 \u00d7 9 13/16\" (33 \u00d7 25 cm)",
-            "Publisher": "Ambroise Vollard, Paris",
-            "Printer": "Auguste Clot, Paris",
-            "Edition": "1,000",
-            "Credit": "The Louis E. Stern Collection",
-            "Object number": "1032.1964.1",
-            "Portfolio": "Twelve Original Lithographs by Pierre-Auguste Renoir (Douze lithographies originales de Pierre-Auguste Renoir)",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/4869"
-    },
-    {
-        "Artist": "Pierre-Auguste Renoir",
-        "Title": "Woman by the Grapevine, Second Variant (Femme au cep de vigne, 2e variante) from Twelve Original Lithographs by Pierre-Auguste Renoir (Douze lithographies originales de Pierre-Auguste Renoir)",
-        "Year": "c. 1904, published 1919",
-        "ObjectID": "30167",
-        "Work": "https://www.moma.org/collection/works/30167",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzNTc0MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c5b8b0a98a9d9f0e",
-        "Details": {
-            "Medium": "One from a portfolio of twelve lithographs",
-            "Dimensions": "composition (irreg.): 4 1/2 x 3 3/8\" (11.5 x 8.6 cm); sheet: 13 \u00d7 9 13/16\" (33 \u00d7 25 cm)",
-            "Publisher": "Ambroise Vollard, Paris",
-            "Printer": "Auguste Clot, Paris",
-            "Edition": "1,000",
-            "Credit": "The Louis E. Stern Collection",
-            "Object number": "1032.1964.10",
-            "Portfolio": "Twelve Original Lithographs by Pierre-Auguste Renoir (Douze lithographies originales de Pierre-Auguste Renoir)",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/4869"
-    },
-    {
-        "Artist": "Pierre-Auguste Renoir",
-        "Title": "Woman by the Grapevine, Third Variant (Femme au cep de vigne, 3e variante) from Twelve Original Lithographs by Pierre-Auguste Renoir (Douze lithographies originales de Pierre-Auguste Renoir)",
-        "Year": "c. 1904, published 1919",
-        "ObjectID": "30168",
-        "Work": "https://www.moma.org/collection/works/30168",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzNTc0NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a9efc2eb6c1e43db",
-        "Details": {
-            "Medium": "One from a portfolio of twelve lithographs",
-            "Dimensions": "composition (irreg.): 6 1/2 x 4 1/8\" (16.5 x 10.4 cm); sheet: 13 \u00d7 9 13/16\" (33 \u00d7 25 cm)",
-            "Publisher": "Ambroise Vollard",
-            "Printer": "Auguste Clot, Paris",
-            "Edition": "1,000",
-            "Credit": "The Louis E. Stern Collection",
-            "Object number": "1032.1964.11",
-            "Portfolio": "Twelve Original Lithographs by Pierre-Auguste Renoir (Douze lithographies originales de Pierre-Auguste Renoir)",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/4869"
-    },
-    {
-        "Artist": "Pierre-Auguste Renoir",
-        "Title": "Woman by the Grapevine, Fourth Variant (Femme au cep de vigne, 4e variante) from Twelve Original Lithographs by Pierre-Auguste Renoir (Douze lithographies originales de Pierre-Auguste Renoir)",
-        "Year": "c. 1904, published 1919",
-        "ObjectID": "30169",
-        "Work": "https://www.moma.org/collection/works/30169",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzNTc0NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8c0c2e61370f4609",
-        "Details": {
-            "Medium": "One from a portfolio of twelve lithographs",
-            "Dimensions": "composition (irreg.): 5 9/16 x 3 13/16\" (14.2 x 9.7 cm); sheet: 13 \u00d7 9 13/16\" (33 \u00d7 25 cm)",
-            "Publisher": "Ambroise Vollard, Paris",
-            "Printer": "Auguste Clot, Paris",
-            "Edition": "1,000",
-            "Credit": "The Louis E. Stern Collection",
-            "Object number": "1032.1964.12",
-            "Portfolio": "Twelve Original Lithographs by Pierre-Auguste Renoir (Douze lithographies originales de Pierre-Auguste Renoir)",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/4869"
-    },
-    {
-        "Artist": "Pierre-Auguste Renoir",
-        "Title": "Louis Valtat from Twelve Original Lithographs by Pierre-Auguste Renoir (Douze lithographies originales de Pierre-Auguste Renoir)",
-        "Year": "c. 1904, published 1919",
-        "ObjectID": "30170",
-        "Work": "https://www.moma.org/collection/works/30170",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzNTc0NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5b2f5dbf1f110480",
-        "Details": {
-            "Medium": "One from a portfolio of twelve lithographs",
-            "Dimensions": "composition (irreg.): 11 3/4 x 9 3/8\" (29.8 x 23.8 cm); sheet: 13 \u00d7 9 13/16\" (33 \u00d7 25 cm)",
-            "Publisher": "Ambroise Vollard, Paris",
-            "Printer": "Auguste Clot, Paris",
-            "Edition": "1,000",
-            "Credit": "The Louis E. Stern Collection",
-            "Object number": "1032.1964.2",
-            "Portfolio": "Twelve Original Lithographs by Pierre-Auguste Renoir (Douze lithographies originales de Pierre-Auguste Renoir)",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/4869"
-    },
-    {
-        "Artist": "Pierre-Auguste Renoir",
-        "Title": "Claude Renoir, Looking Down (La Tete baissee) from Twelve Original Lithographs by Pierre-Auguste Renoir (Douze lithographies originales de Pierre-Auguste Renoir)",
-        "Year": "c. 1904, published 1919",
-        "ObjectID": "30171",
-        "Work": "https://www.moma.org/collection/works/30171",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzNTc0NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6031e489c031be84",
-        "Details": {
-            "Medium": "One from a portfolio of twelve lithographs",
-            "Dimensions": "composition (irreg.): 7 11/16 x 7 11/16\" (19.6 x 19.5 cm); sheet: 13 \u00d7 9 13/16\" (33 \u00d7 25 cm)",
-            "Publisher": "Ambroise Vollard, Paris",
-            "Printer": "Auguste Clot, Paris",
-            "Edition": "1,000",
-            "Credit": "The Louis E. Stern Collection",
-            "Object number": "1032.1964.3",
-            "Portfolio": "Twelve Original Lithographs by Pierre-Auguste Renoir (Douze lithographies originales de Pierre-Auguste Renoir)",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/4869"
-    },
-    {
-        "Artist": "Pierre-Auguste Renoir",
-        "Title": "Claude Renoir, Facing Left (Claude Renoir, Tourne a gauche) from Twelve Original Lithographs by Pierre-Auguste Renoir (Douze lithographies originales de Pierre-Auguste Renoir)",
-        "Year": "c. 1904, published 1919",
-        "ObjectID": "30172",
-        "Work": "https://www.moma.org/collection/works/30172",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzNTc0OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0c85c3e303d7675b",
-        "Details": {
-            "Medium": "One from a portfolio of twelve lithographs",
-            "Dimensions": "composition (irreg.): 5 1/16 x 4 5/8\" (12.8 x 11.8 cm); sheet: 13 \u00d7 9 13/16\" (33 \u00d7 25 cm)",
-            "Publisher": "Ambroise Vollard, Paris",
-            "Printer": "Auguste Clot, Paris",
-            "Edition": "1,000",
-            "Credit": "The Louis E. Stern Collection",
-            "Object number": "1032.1964.4",
-            "Portfolio": "Twelve Original Lithographs by Pierre-Auguste Renoir (Douze lithographies originales de Pierre-Auguste Renoir)",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/4869"
-    },
-    {
-        "Artist": "Pierre-Auguste Renoir",
-        "Title": "Stone with Three Sketches (La Pierre au trois croquis) from Twelve Original Lithographs by Pierre-Auguste Renoir (Douze lithographies originales de Pierre-Auguste Renoir)",
-        "Year": "c. 1904, published 1919",
-        "ObjectID": "30173",
-        "Work": "https://www.moma.org/collection/works/30173",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzNTc0OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0d1b6b8b43608f36",
-        "Details": {
-            "Medium": "One from a portfolio of twelve lithographs",
-            "Dimensions": "composition (irreg.): 8 15/16 x 11 5/16\" (22.7 x 28.8 cm); sheet: 9 13/16 \u00d7 13\" (25 \u00d7 33 cm)",
-            "Publisher": "Ambroise Vollard, Paris",
-            "Printer": "Auguste Clot, Paris",
-            "Edition": "1,000",
-            "Credit": "The Louis E. Stern Collection",
-            "Object number": "1032.1964.5",
-            "Portfolio": "Twelve Original Lithographs by Pierre-Auguste Renoir (Douze lithographies originales de Pierre-Auguste Renoir)",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/4869"
-    },
-    {
-        "Artist": "Pierre-Auguste Renoir",
-        "Title": "Study of a Nude Woman, Seated (Etude de femme nue, assise) from Twelve Original Lithographs by Pierre-Auguste Renoir (Douze lithographies originales de Pierre-Auguste Renoir)",
-        "Year": "c. 1904, published 1919",
-        "ObjectID": "30174",
-        "Work": "https://www.moma.org/collection/works/30174",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzNTc1MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4fdd430feb4b5b72",
-        "Details": {
-            "Medium": "One from a portfolio of twelve lithographs",
-            "Dimensions": "composition (irreg.): 7 9/16 x 6 7/16\" (19.2 x 16.3 cm); sheet: 13 \u00d7 9 13/16\" (33 \u00d7 25 cm)",
-            "Publisher": "Ambroise Vollard, Paris",
-            "Printer": "Auguste Clot, Paris",
-            "Edition": "1,000",
-            "Credit": "The Louis E. Stern Collection",
-            "Object number": "1032.1964.6",
-            "Portfolio": "Twelve Original Lithographs by Pierre-Auguste Renoir (Douze lithographies originales de Pierre-Auguste Renoir)",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/4869"
-    },
-    {
-        "Artist": "Pierre-Auguste Renoir",
-        "Title": "Study of a Nude Woman, Seated, Variant (Etude de femme nue, assise, variante) from Twelve Original Lithographs by Pierre-Auguste Renoir (Douze lithographies originales de Pierre-Auguste Renoir)",
-        "Year": "c. 1904, published 1919",
-        "ObjectID": "30175",
-        "Work": "https://www.moma.org/collection/works/30175",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzNTc1MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5d789191c4172677",
-        "Details": {
-            "Medium": "One from a portfolio of twelve lithographs",
-            "Dimensions": "composition (irreg.): 6 5/16 x 6 1/2\" (16 x 16.5 cm); sheet: 13 \u00d7 9 13/16\" (33 \u00d7 25 cm)",
-            "Publisher": "Ambroise Vollard, Paris",
-            "Printer": "Auguste Clot, Paris",
-            "Edition": "1,000",
-            "Credit": "The Louis E. Stern Collection",
-            "Object number": "1032.1964.7",
-            "Portfolio": "Twelve Original Lithographs by Pierre-Auguste Renoir (Douze lithographies originales de Pierre-Auguste Renoir)",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/4869"
-    },
-    {
-        "Artist": "Pierre-Auguste Renoir",
-        "Title": "Woman by the Grapevine (Femme au cep de vigne) from Twelve Original Lithographs by Pierre-Auguste Renoir (Douze lithographies originales de Pierre-Auguste Renoir)",
-        "Year": "c. 1904, published 1919",
-        "ObjectID": "30176",
-        "Work": "https://www.moma.org/collection/works/30176",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzNTc1MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=169570b22f9917da",
-        "Details": {
-            "Medium": "One from a portfolio of twelve lithographs",
-            "Dimensions": "composition (irreg.): 6 15/16 x 4 13/16\" (17.6 x 12.2 cm); sheet: 13 \u00d7 9 13/16\" (33 \u00d7 25 cm)",
-            "Publisher": "Ambroise Vollard, Paris",
-            "Printer": "Auguste Clot, Paris",
-            "Edition": "1,000",
-            "Credit": "The Louis E. Stern Collection",
-            "Object number": "1032.1964.8",
-            "Portfolio": "Twelve Original Lithographs by Pierre-Auguste Renoir (Douze lithographies originales de Pierre-Auguste Renoir)",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/4869"
-    },
-    {
-        "Artist": "Pierre-Auguste Renoir",
-        "Title": "Woman by the Grapevine, First Variant (Femme au cep de vigne, 1re variante) from Twelve Original Lithographs by Pierre-Auguste Renoir (Douze lithographies originales de Pierre-Auguste Renoir)",
-        "Year": "c. 1904, published 1919",
-        "ObjectID": "30177",
-        "Work": "https://www.moma.org/collection/works/30177",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzNTc1MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f375b84df58e1afd",
-        "Details": {
-            "Medium": "One from a portfolio of twelve lithographs",
-            "Dimensions": "composition (irreg.): 6 7/8 x 4 5/8\" (17.5 x 11.8 cm); sheet: 13 \u00d7 9 13/16\" (33 \u00d7 25 cm)",
-            "Publisher": "Ambroise Vollard, Paris",
-            "Printer": "Auguste Clot, Paris",
-            "Edition": "1,000",
-            "Credit": "The Louis E. Stern Collection",
-            "Object number": "1032.1964.9",
-            "Portfolio": "Twelve Original Lithographs by Pierre-Auguste Renoir (Douze lithographies originales de Pierre-Auguste Renoir)",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/4869"
-    },
-    {
-        "Artist": "Walter Richard Sickert",
-        "Title": "Gondolas",
-        "Year": "(c. 1900-1904)",
-        "ObjectID": "68344",
-        "Work": "https://www.moma.org/collection/works/68344",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MjQ5NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fbf3a6f94d35ed51",
-        "Details": {
-            "Medium": "Etching",
-            "Dimensions": "plate: 4 15/16 x 6 7/16\" (12.6 x 16.3 cm); sheet: 6 5/16 x 9 1/4\" (16 x 23.5 cm)",
+            "Dimensions": "plate: 5 7/8 x 7 11/16\" (15 x 19.6 cm); sheet: 9 5/8 x 13\" (24.5 x 33 cm)",
+            "Publisher": "Emile-Paul Fr\u00e8res, Paris",
             "Credit": "Abby Aldrich Rockefeller Fund",
-            "Object number": "392.1958",
-            "Copyright": "\u00a9 2023 Estate of Walter Richard Sickert / Artists Rights Society (ARS), New York / DACS, London",
+            "Object number": "362.1963",
+            "Copyright": "\u00a9 2023 Succession H. Matisse / Artists Rights Society (ARS), New York",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/5414"
+        "Profile": "https://www.moma.org/artists/3832"
     },
     {
-        "Artist": "Paul Signac",
-        "Title": "Les Alyscamps, Arles",
-        "Year": "1904",
-        "ObjectID": "33324",
-        "Work": "https://www.moma.org/collection/works/33324",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2Mjc1NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5edebf770e74778e",
-        "Details": {
-            "Medium": "Watercolor and charcoal on paper",
-            "Dimensions": "16 x 10 1/2\" (40.6 x 26.7 cm)",
-            "Credit": "Acquired through the Lillie P. Bliss Bequest (by exchange)",
-            "Object number": "24.1951",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5421"
-    },
-    {
-        "Artist": "Max Slevogt",
-        "Title": "Duel (Zweikampf) (plate 5) for the portfolio Black Scenes (Schwarze Szenen)",
-        "Year": "1904 (published 1905)",
-        "ObjectID": "78226",
-        "Work": "https://www.moma.org/collection/works/78226",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExODM4MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fa09f5ae56122bc5",
-        "Details": {
-            "Medium": "Etching",
-            "Dimensions": "plate: 12 1/2 x 9 5/8\" (31.7 x 24.4 cm); sheet: 15 3/8 x 11 3/4\" (39 x 29.8 cm)",
-            "Publisher": "Verlag Bruno Cassirer, Berlin",
-            "Printer": "Otto Felsing, Berlin",
-            "Edition": "proof before the portfolio edition of 50 on Japan paper",
-            "Credit": "Donald Karshan Fund",
-            "Object number": "2484.1967",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5469"
-    },
-    {
-        "Artist": "J. Sluijters",
-        "Title": "Zegepraal",
-        "Year": "1904",
-        "ObjectID": "6397",
-        "Work": "https://www.moma.org/collection/works/6397",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyNDA1MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a2565c0b6c9a7449",
+        "Artist": "Henri Matisse",
+        "Title": "Dancer Reflected in the Mirror (Danseuse refletee dans la glace)",
+        "Year": "1927",
+        "ObjectID": "68975",
+        "Work": "https://www.moma.org/collection/works/68975",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NDE3OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=39475c0a19a52741",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "47 3/4 x 28\" (121.3 x 71.1 cm)",
-            "Credit": "Gift of The Lauder Foundation, Leonard and Evelyn Lauder Fund",
-            "Object number": "343.1984",
+            "Dimensions": "composition: 15 9/16 x 11\" (39.5 x 28 cm); sheet: 20 9/16 \u00d7 14 3/8\" (52.2 \u00d7 36.5 cm)",
+            "Publisher": "Unidentified",
+            "Printer": "probably Atelier Duch\u00e2tel, Paris",
+            "Edition": "50",
+            "Credit": "Gift of Abby Aldrich Rockefeller",
+            "Object number": "429.1940",
+            "Copyright": "\u00a9 2023 Succession H. Matisse / Artists Rights Society (ARS), New York",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3832"
+    },
+    {
+        "Artist": "Henri Matisse",
+        "Title": "Woman with a Veil",
+        "Year": "Nice, winter-spring 1927",
+        "ObjectID": "83411",
+        "Work": "https://www.moma.org/collection/works/83411",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMTg2MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=384d85c0a79cbf7d",
+        "Details": {
+            "Medium": "Oil on canvas",
+            "Dimensions": "24 1/4 x 19 3/4\" (61.6 x 50.2 cm)",
+            "Credit": "The William S. Paley Collection",
+            "Object number": "SPC22.1990",
+            "Copyright": "\u00a9 2023 Succession H. Matisse / Artists Rights Society (ARS), New York",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/3832"
+    },
+    {
+        "Artist": "Jan Matulka",
+        "Title": "Figure Composition - Working Men",
+        "Year": "(c. 1927)",
+        "ObjectID": "36969",
+        "Work": "https://www.moma.org/collection/works/36969",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4MTg3MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9f1f3bd9cf987c7a",
+        "Details": {
+            "Medium": "Ink, crayon, and pencil on paper",
+            "Dimensions": "22 x 15\" (55.9 x 38.3 cm)",
+            "Credit": "Gift of Mrs. Jan Matulka",
+            "Object number": "449.1981",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3848"
+    },
+    {
+        "Artist": "Alfred H. Maurer",
+        "Title": "Self-Portrait",
+        "Year": "c. 1927",
+        "ObjectID": "79427",
+        "Work": "https://www.moma.org/collection/works/79427",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MzIzNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a046619ef3fa2e3e",
+        "Details": {
+            "Medium": "Oil on board",
+            "Dimensions": "21 1/2 x 18\" (54.6 x 45.7 cm)",
+            "Credit": "Bertram F. and Susie Brummer Foundation Fund",
+            "Object number": "290.1961",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/3853"
+    },
+    {
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "MR Armchair",
+        "Year": "1927",
+        "ObjectID": "1563",
+        "Work": "https://www.moma.org/collection/works/1563",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNjUxNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=dbb9cfb5daac2bf9",
+        "Details": {
+            "Manufacturer": "Estler-Regale G.m.b.H., Berlin",
+            "Medium": "Chrome-plated steel tubing and leather",
+            "Dimensions": "31 x 20 7/16 x 32 1/4\" (78.7 x 51.9 x 81.9 cm)",
+            "Credit": "Gift of Edgar Kaufmann, Jr.",
+            "Object number": "20.1949",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
             "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/5473"
+        "Profile": "https://www.moma.org/artists/7166"
     },
     {
-        "Artist": "Edward Steichen",
-        "Title": "Richard Strauss",
-        "Year": "1904",
-        "ObjectID": "46263",
-        "Work": "https://www.moma.org/collection/works/46263",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MjA1NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=21a935826b0f98e3",
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "MR Side Chair",
+        "Year": "1927",
+        "ObjectID": "1584",
+        "Work": "https://www.moma.org/collection/works/1584",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMDA0NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7a1750a5791a1775",
         "Details": {
-            "Medium": "Pigment print",
-            "Dimensions": "16 3/4 \u00d7 13 3/4\" (42.5 \u00d7 35 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "99.1962",
-            "Copyright": "\u00a9 2023 The Estate of Edward Steichen / Artists Rights Society (ARS), New York",
-            "Department": "Photography"
+            "Manufacturer": "Estler-Regale G.m.b.H., Berlin",
+            "Medium": "Chrome-plated steel tubing and leather",
+            "Dimensions": "31 x 18 1/2 x 28 5/16\" (78.8 x 47 x 71.9 cm)",
+            "Credit": "Gift of Edgar Kaufmann, Jr.",
+            "Object number": "22.1949",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/5623"
+        "Profile": "https://www.moma.org/artists/7166"
     },
     {
-        "Artist": "Edward Steichen",
-        "Title": "Horse-Chestnut Blossoms, Long Island",
-        "Year": "1904",
-        "ObjectID": "46924",
-        "Work": "https://www.moma.org/collection/works/46924",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NzQ4OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=71fc69525585e6bd",
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "MR Side Chair",
+        "Year": "1927",
+        "ObjectID": "1595",
+        "Work": "https://www.moma.org/collection/works/1595",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNjUyNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a491239034ce0d23",
         "Details": {
-            "Medium": "Platinum print",
-            "Dimensions": "15 5/16 \u00d7 19 1/4\" (38.9 \u00d7 48.9 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "151.1961",
-            "Copyright": "\u00a9 2023 The Estate of Edward Steichen / Artists Rights Society (ARS), New York",
-            "Department": "Photography"
+            "Manufacturer": "Estler-Regale G.m.b.H., Berlin",
+            "Medium": "Chrome-plated steel tubing and leather",
+            "Dimensions": "31 1/8 x 19 7/8 x 28 3/8\" (79.1 x 50.5 x 72.1 cm)",
+            "Credit": "Gift of Edgar Kaufmann, Jr.",
+            "Object number": "23.1949",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/5623"
+        "Profile": "https://www.moma.org/artists/7166"
     },
     {
-        "Artist": "Edward Steichen",
-        "Title": "In Memoriam",
-        "Year": "1904",
-        "ObjectID": "51768",
-        "Work": "https://www.moma.org/collection/works/51768",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NzU0MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=40c3f8cdc6689ee5",
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "MR Side Chair",
+        "Year": "1927",
+        "ObjectID": "2097",
+        "Work": "https://www.moma.org/collection/works/2097",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMDI2MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=72f2014edf81c52f",
         "Details": {
-            "Medium": "Platinum print",
-            "Credit": "Gift of the artist",
-            "Object number": "362.1964",
-            "Copyright": "\u00a9 2023 The Estate of Edward Steichen / Artists Rights Society (ARS), New York",
-            "Department": "Photography"
+            "Manufacturer": "Gebr\u00fcder Thonet, Vienna, Austria",
+            "Medium": "Chrome-plated tubular steel and cane",
+            "Dimensions": "30 3/4 x 18 5/8 x 25 3/4\" (78.1 x 47.3 x 65.4 cm)",
+            "Credit": "Gift of Alfred H. Barr, Jr.",
+            "Object number": "99.1943",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/5623"
+        "Profile": "https://www.moma.org/artists/7166"
     },
     {
-        "Artist": "Edward Steichen",
-        "Title": "Moonrise\u2014Mamaroneck, New York",
-        "Year": "1904",
-        "ObjectID": "51812",
-        "Work": "https://www.moma.org/collection/works/51812",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5MTcwNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=14715014bb369687",
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "MR Coffee Table",
+        "Year": "1927",
+        "ObjectID": "3979",
+        "Work": "https://www.moma.org/collection/works/3979",
+        "Thumbnail": null,
         "Details": {
-            "Medium": "Platinum and ferroprussiate print",
-            "Dimensions": "15 1/4 \u00d7 19\" (38.7 \u00d7 48.2 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "364.1964",
-            "Copyright": "\u00a9 2023 The Estate of Edward Steichen / Artists Rights Society (ARS), New York",
-            "Department": "Photography"
+            "Manufacturer": "Berliner Metallgewerbe Joseph M\u00fcller, Germany",
+            "Medium": "Chrome plated tubular steel and painted wood",
+            "Dimensions": "23 9/16 x 23 9/16\" (59.8 x 59.8 cm)",
+            "Credit": "Gift of Alfred H. Barr, Jr.",
+            "Object number": "474.1970",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/5623"
+        "Profile": "https://www.moma.org/artists/7166"
     },
     {
-        "Artist": "Edward Steichen",
-        "Title": "Rodin - Le Penseur",
-        "Year": "1904",
-        "ObjectID": "51835",
-        "Work": "https://www.moma.org/collection/works/51835",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMTEzNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6369040c29a796be",
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "MR Side Chair",
+        "Year": "1927",
+        "ObjectID": "4120",
+        "Work": "https://www.moma.org/collection/works/4120",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMTY3MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d572156c8ed50e42",
         "Details": {
-            "Medium": "Gelatin silver print, printed c. 1961 by Rolf Petersen",
-            "Dimensions": "13 1/2 \u00d7 16 1/2\" (34.3 \u00d7 41.9 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "365.1964",
-            "Copyright": "\u00a9 2023 The Estate of Edward Steichen / Artists Rights Society (ARS), New York",
-            "Department": "Photography"
+            "Manufacturer": "Unidentified",
+            "Medium": "Chrome-plated steel tubing and leather",
+            "Dimensions": "30 1/2 x 22 1/2 x 33 1/2\" (77.4 x 57.1 x 85.1 cm)",
+            "Credit": "Gift of Philip Johnson",
+            "Object number": "575.1963",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/5623"
+        "Profile": "https://www.moma.org/artists/7166"
     },
     {
-        "Artist": "Alfred Stieglitz",
-        "Title": "Portrait of Miss S.R.",
-        "Year": "1904",
-        "ObjectID": "51884",
-        "Work": "https://www.moma.org/collection/works/51884",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMDE4NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c6b025bf07109ea6",
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "MR20 Armchair",
+        "Year": "1927",
+        "ObjectID": "84197",
+        "Work": "https://www.moma.org/collection/works/84197",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDM3OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=411719b409d73f8d",
         "Details": {
-            "Medium": "Photogravure",
-            "Dimensions": "8 1/8 \u00d7 5 1/2\" (20.6 \u00d7 14 cm)",
-            "Credit": "Transferred from The Museum of Modern Art Library, New York",
-            "Object number": "367.1976",
-            "Copyright": "\u00a9 2023 Estate of Alfred Stieglitz / Artists Rights Society (ARS), New York",
-            "Department": "Photography"
+            "Manufacturer": "Berliner Metallgewerbe Joseph M\u00fcller, Germany",
+            "Medium": "Chrome-plated tubular steel and cane",
+            "Dimensions": "32 1/4 x 33 x 22\" (81.9 x 83.8 x 55.9 cm)",
+            "Credit": "Rob Beyer Purchase Fund",
+            "Object number": "153.2002",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/5664"
+        "Profile": "https://www.moma.org/artists/7166"
     },
     {
-        "Artist": "Alfred Stieglitz",
-        "Title": "Horses",
-        "Year": "1904",
-        "ObjectID": "52152",
-        "Work": "https://www.moma.org/collection/works/52152",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMDE5MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=92c2e639e4114632",
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "Wolf House, Gubin, Poland, Plan. Roof, partial detail.",
+        "Year": "1925-1927",
+        "ObjectID": "87504",
+        "Work": "https://www.moma.org/collection/works/87504",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMzU4NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e4edd05d3c6ba3c6",
         "Details": {
-            "Medium": "Photogravure",
-            "Dimensions": "7 1/8 \u00d7 9 1/8\" (18.1 \u00d7 23.1 cm)",
-            "Credit": "Transferred from The Museum of Modern Art Library, New York",
-            "Object number": "379.1976",
-            "Copyright": "\u00a9 2023 Estate of Alfred Stieglitz / Artists Rights Society (ARS), New York",
-            "Department": "Photography"
+            "Medium": "Pencil and colored pencil on tracing paper",
+            "Dimensions": "22 x 21 1/4\" (55.9 x 54 cm)",
+            "Credit": "Mies van der Rohe Archive, gift of the architect",
+            "Object number": "MR30.14",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/5664"
+        "Profile": "https://www.moma.org/artists/7166"
     },
     {
-        "Artist": "Alfred Stieglitz",
-        "Title": "Going to the Post, Morris Park",
-        "Year": "1904",
-        "ObjectID": "52572",
-        "Work": "https://www.moma.org/collection/works/52572",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMDE5NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6114eed58e326e18",
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "Wolf House, Gubin, Poland, Site plan",
+        "Year": "1925-1927",
+        "ObjectID": "87505",
+        "Work": "https://www.moma.org/collection/works/87505",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMzU4NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=450d519f84e84945",
         "Details": {
-            "Medium": "Photogravure on Japanese paper",
-            "Dimensions": "12 1/8 \u00d7 10 3/8\" (30.8 \u00d7 26.4 cm)",
-            "Credit": "Purchase",
-            "Object number": "398.1976",
-            "Copyright": "\u00a9 2023 Estate of Alfred Stieglitz / Artists Rights Society (ARS), New York",
-            "Department": "Photography"
+            "Medium": "Diazotype with pencil and ink",
+            "Dimensions": "12 1/4 x 24 1/2\" (31.1 x 62.3 cm)",
+            "Credit": "Mies van der Rohe Archive, gift of the architect",
+            "Object number": "MR30.21",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/5664"
+        "Profile": "https://www.moma.org/artists/7166"
     },
     {
-        "Artist": "Alfred Stieglitz",
-        "Title": "Miss R. from Camera Work magazine, no. 12, October 1905",
-        "Year": "1904",
-        "ObjectID": "124877",
-        "Work": "https://www.moma.org/collection/works/124877",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUwMDMwOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=dddf740b1b25ddac",
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "Wolf House, Gubin, Poland",
+        "Year": "1925-1927",
+        "ObjectID": "87506",
+        "Work": "https://www.moma.org/collection/works/87506",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE0ODI4OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c443010748651871",
         "Details": {
-            "Medium": "Photogravure, printed 1904",
-            "Dimensions": "8 1/8 \u00d7 5 1/2\" (20.7 \u00d7 14 cm)",
-            "Credit": "Gift of Richard Benson",
-            "Object number": "SC2008.1.160.1",
-            "Department": "Photography"
+            "Medium": "Diazotype with pencil, colored pencil and chalk",
+            "Dimensions": "16 1/4 x 16 1/2\" (41.2 x 41.9 cm)",
+            "Credit": "Mies van der Rohe Archive, gift of the architect",
+            "Object number": "MR30.38",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/5664"
+        "Profile": "https://www.moma.org/artists/7166"
     },
     {
-        "Artist": "Alfred Stieglitz",
-        "Title": "Miss R. from Camera Work magazine, no. 41, January 1913",
-        "Year": "1904",
-        "ObjectID": "125076",
-        "Work": "https://www.moma.org/collection/works/125076",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUwMDMxMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1a8c52be6591fd59",
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "Wolf House, Gubin, Poland",
+        "Year": "1925-1927",
+        "ObjectID": "87507",
+        "Work": "https://www.moma.org/collection/works/87507",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE0ODI5MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=453d3c7088d7c26a",
         "Details": {
-            "Medium": "Photogravure, printed 1913",
-            "Dimensions": "8 1/8 \u00d7 5 1/2\" (20.7 \u00d7 14 cm)",
-            "Credit": "Gift of Richard Benson",
-            "Object number": "SC2008.1.160.2",
-            "Department": "Photography"
+            "Medium": "Pencil on paper",
+            "Dimensions": "8 1/4 x 11 1/2\" (20.9 x 29.2 cm)",
+            "Credit": "Mies van der Rohe Archive, gift of the architect",
+            "Object number": "MR30.99",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/5664"
+        "Profile": "https://www.moma.org/artists/7166"
+    },
+    {
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "Weissenhof Housing Colony Master Plan, \"The Dwelling,\" Stuttgart, Germany (Site plan)",
+        "Year": "1926-1927",
+        "ObjectID": "87509",
+        "Work": "https://www.moma.org/collection/works/87509",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMzk1NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=47f71abf2945909f",
+        "Details": {
+            "Medium": "Pencil and colored crayon on paper",
+            "Dimensions": "27 1/2 x 58 3/4\" (69.8 x 149.2 cm)",
+            "Credit": "Mies van der Rohe Archive, gift of the architect",
+            "Object number": "MR4.85",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7166"
+    },
+    {
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "Weissenhof Housing Colony Master Plan, \"The Dwelling,\" Stuttgart, Germany (Site plan)",
+        "Year": "1926-1927",
+        "ObjectID": "87510",
+        "Work": "https://www.moma.org/collection/works/87510",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMzU5MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=149e1a7a9f3bb9ef",
+        "Details": {
+            "Medium": "Pencil and colored pencil on paper",
+            "Dimensions": "41 1/2 x 59\" (105.4 x 149.9 cm)",
+            "Credit": "Mies van der Rohe Archive, gift of the architect",
+            "Object number": "MR4.91",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7166"
+    },
+    {
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "Weissenhof Housing Colony Master Plan, \"The Dwelling,\" Stuttgart, Germany (Plan)",
+        "Year": "1926-1927",
+        "ObjectID": "87511",
+        "Work": "https://www.moma.org/collection/works/87511",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMzU5MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=408115dca278140c",
+        "Details": {
+            "Medium": "Diazotype with colored pencil and charcoal",
+            "Dimensions": "17 1/4 x 21\" (43.8 x 53.4 cm)",
+            "Credit": "Mies van der Rohe Archive, gift of the architect",
+            "Object number": "MR4.195",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7166"
+    },
+    {
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "Weissenhof Apartment House, \"The Dwelling\" Exhibition, Stuttgart, Germany, West elevation",
+        "Year": "1926-1927",
+        "ObjectID": "87512",
+        "Work": "https://www.moma.org/collection/works/87512",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMjk1NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=aeb221273d3c6d26",
+        "Details": {
+            "Medium": "Pencil on tracing paper",
+            "Dimensions": "29 1/2 x 35 1/2\" (74.9 x 90.1 cm)",
+            "Credit": "Mies van der Rohe Archive, gift of the architect",
+            "Object number": "MR4.73",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7166"
+    },
+    {
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "Weissenhof Apartment House, \"The Dwelling\" Exhibition, Stuttgart, Germany, East elevation",
+        "Year": "1926-1927",
+        "ObjectID": "87513",
+        "Work": "https://www.moma.org/collection/works/87513",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMjk1NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c46937707bc0783e",
+        "Details": {
+            "Medium": "Pencil on tracing paper",
+            "Dimensions": "14 1/2 x 23 3/4\" (36.8 x 60.3 cm)",
+            "Credit": "Mies van der Rohe Archive, gift of the architect",
+            "Object number": "MR4.71",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7166"
+    },
+    {
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "Wolf House, Gubin, Germany, Landscape model",
+        "Year": "1925-1927 (model 2001)",
+        "ObjectID": "88160",
+        "Work": "https://www.moma.org/collection/works/88160",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjY3MzQ4Il0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNTEyeDUxMlx1MDAzZSJdXQ.jpg?sha=0cabf35dbe84b742",
+        "Details": {
+            "Medium": "Laser cut and scored acrylic, styrene, wood veneer, wire, paint, birch-veneer plywood",
+            "Dimensions": "23 x 80 x 24\" (58.4 x 203.2 x 61 cm)",
+            "Model maker": "Environ Architectural Modelbuilders Inc., Tempe, AZ",
+            "Credit": "Mies van der Rohe Archive, Mies in Berlin Exhibition Fund",
+            "Object number": "106.2003",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7166"
+    },
+    {
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "Weissenhof Apartment House, \"The Dwelling\" Exhibition, Stuttgart, Germany, Floor plan",
+        "Year": "1926-1927",
+        "ObjectID": "107254",
+        "Work": "https://www.moma.org/collection/works/107254",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5Mzg1NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=60df84d71a48491c",
+        "Details": {
+            "Medium": "Pencil on tracing paper",
+            "Dimensions": "12 x 23 1/2\" (30.5 x 59.7 cm)",
+            "Credit": "Mies van der Rohe Archive, gift of the architect",
+            "Object number": "MR4.74",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7166"
+    },
+    {
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "Wolf House, Gubin, Poland, Plan",
+        "Year": "1925-1927",
+        "ObjectID": "119049",
+        "Work": "https://www.moma.org/collection/works/119049",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE0MDUzNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9dc1b2ca84c18f8e",
+        "Details": {
+            "Medium": "Pencil on tracing paper",
+            "Dimensions": "17 1/4 x 18 3/4\" (43.8 x 47.6 cm)",
+            "Credit": "Mies van der Rohe Archive, gift of the architect",
+            "Object number": "MR30.68",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7166"
+    },
+    {
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "Wolf House, Gubin, Poland, Ground-floor plan",
+        "Year": "1925-1927",
+        "ObjectID": "119050",
+        "Work": "https://www.moma.org/collection/works/119050",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE0MDUzMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e4c8c8c952052ba4",
+        "Details": {
+            "Medium": "Architectural print",
+            "Dimensions": "16 x 16\" (40.6 x 40.6 cm)",
+            "Credit": "Mies van der Rohe Archive, gift of the architect",
+            "Object number": "MR30.34",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7166"
+    },
+    {
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "Wolf House, Gubin, Poland, North and west elevations",
+        "Year": "1925-1927",
+        "ObjectID": "119052",
+        "Work": "https://www.moma.org/collection/works/119052",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE0MDUzNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=22b054a62358eb4e",
+        "Details": {
+            "Medium": "Architectural print",
+            "Dimensions": "16 1/4 x 16 1/4\" (41.3 x 41.3 cm)",
+            "Credit": "Mies van der Rohe Archive, gift of the architect",
+            "Object number": "MR30.39",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7166"
+    },
+    {
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "Wolf House, Gubin, Poland (Elevation, plan, section)",
+        "Year": "1925-1927",
+        "ObjectID": "119053",
+        "Work": "https://www.moma.org/collection/works/119053",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE0MDQwNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=82ac0194b634d70a",
+        "Details": {
+            "Medium": "Pencil and colored pencil on tracing paper",
+            "Dimensions": "24 3/4 x 30 3/4\" (62.9 x 78.1 cm)",
+            "Credit": "Mies van der Rohe Archive, gift of the architect",
+            "Object number": "MR30.7",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7166"
+    },
+    {
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "Wolf House, Gubin, Poland, Two sections",
+        "Year": "1925-1927",
+        "ObjectID": "119054",
+        "Work": "https://www.moma.org/collection/works/119054",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE0MDUzNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d3500aca7d63090c",
+        "Details": {
+            "Medium": "Architectural print",
+            "Dimensions": "16 x 16 1/4\" (40.6 x 41.3 cm)",
+            "Credit": "Mies van der Rohe Archive, gift of the architect",
+            "Object number": "MR30.53",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7166"
+    },
+    {
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "Wolf House, Gubin, Poland, Balcony and playground railing. Two elevations, sections.",
+        "Year": "1925-1927",
+        "ObjectID": "142664",
+        "Work": "https://www.moma.org/collection/works/142664",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4MTg4NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ce302db6eba43388",
+        "Details": {
+            "Medium": "Pencil on tracing paper",
+            "Dimensions": "25 x 29\" (63.5 x 73.7 cm)",
+            "Credit": "Mies van der Rohe Archive, gift of the architect",
+            "Object number": "MR30.98",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7166"
+    },
+    {
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "Wolf House, Gubin, Poland (Elevation, two sections. Garden shed door and and fastening of pergola trellis)",
+        "Year": "1925-1927",
+        "ObjectID": "142961",
+        "Work": "https://www.moma.org/collection/works/142961",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMyMTY0NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b13ac4ae2e70969d",
+        "Details": {
+            "Medium": "Pencil on tracing paper",
+            "Dimensions": "14 1/4 x 25 1/2\" (36.2 x 64.8 cm)",
+            "Credit": "Mies van der Rohe Archive, gift of the architect",
+            "Object number": "MR30.5",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7166"
+    },
+    {
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "Weissenhof Apartment House, \"The Dwelling\" Exhibition, Stuttgart, Germany, Section. Roof garden door",
+        "Year": "1926-1927",
+        "ObjectID": "142966",
+        "Work": "https://www.moma.org/collection/works/142966",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4MTg4NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0b49b5afd25bf319",
+        "Details": {
+            "Medium": "Pencil on tracing paper",
+            "Dimensions": "28 1/4 x 18 3/4\" (71.8 x 47.6 cm)",
+            "Credit": "Mies van der Rohe Archive, gift of the architect",
+            "Object number": "MR4.49",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7166"
+    },
+    {
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "Weissenhof Apartment House, \"The Dwelling\" Exhibition, Stuttgart, Germany, Section. Retaining wall",
+        "Year": "1926-1927",
+        "ObjectID": "142967",
+        "Work": "https://www.moma.org/collection/works/142967",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMyNDU0OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=79e6bf126c8800d3",
+        "Details": {
+            "Medium": "Pencil on tracing paper",
+            "Dimensions": "38 x 33 3/4\" (96.5 x 85.7 cm)",
+            "Credit": "Mies van der Rohe Archive, gift of the architect",
+            "Object number": "MR4.145",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7166"
+    },
+    {
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "Weissenhof Apartment House, \"The Dwelling\" Exhibition, Stuttgart, Germany (Plan, block A1-A4, second and third floors.)",
+        "Year": "1926-1927",
+        "ObjectID": "162591",
+        "Work": "https://www.moma.org/collection/works/162591",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1MjYyNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=403c8f2376945a4e",
+        "Details": {
+            "Medium": "Pencil on print",
+            "Dimensions": "11 1/2 x 35 3/4\" (29.2 x 90.8 cm)",
+            "Credit": "Mies van der Rohe Archive, gift of the architect",
+            "Object number": "MR4.196c",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7166"
+    },
+    {
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "Weissenhof Apartment House, \"The Dwelling\" Exhibition, Stuttgart, Germany (Plan, block A1-A4, ground floor.)",
+        "Year": "1926-1927",
+        "ObjectID": "162592",
+        "Work": "https://www.moma.org/collection/works/162592",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1MjYyNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=189145091df72d42",
+        "Details": {
+            "Medium": "Pencil on print",
+            "Dimensions": "11 1/2 x 35 3/4\" (29.2 x 90.8 cm)",
+            "Credit": "Mies van der Rohe Archive, gift of the architect",
+            "Object number": "MR4.196d",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7166"
+    },
+    {
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "Wolf House, Gubin, Poland (South wall elevation)",
+        "Year": "1925-1927",
+        "ObjectID": "185356",
+        "Work": "https://www.moma.org/collection/works/185356",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMyMTY1NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cc3f2ac3ffde37a7",
+        "Details": {
+            "Medium": "Pencil on tracing paper",
+            "Dimensions": "16 3/4 x 28 3/4\" (42.5 x 73 cm)",
+            "Credit": "Mies van der Rohe Archive, gift of the architect",
+            "Object number": "MR30.8",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7166"
+    },
+    {
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "Wolf House, Gubin, Poland (Ground floor plan [final version])",
+        "Year": "1925-1927",
+        "ObjectID": "185357",
+        "Work": "https://www.moma.org/collection/works/185357",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMyMTY2MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0da54e98a4ef0716",
+        "Details": {
+            "Medium": "Pencil on tracing paper",
+            "Dimensions": "26 1/4 x 28\" (66.7 x 71.1 cm)",
+            "Credit": "Mies van der Rohe Archive, gift of the architect",
+            "Object number": "MR30.9",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7166"
+    },
+    {
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "Wolf House, Gubin, Poland (Second and third floor plans [final version])",
+        "Year": "1925-1927",
+        "ObjectID": "185358",
+        "Work": "https://www.moma.org/collection/works/185358",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMyMTY0MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b438d4b5d979931a",
+        "Details": {
+            "Medium": "Pencil on tracing paper",
+            "Dimensions": "16 1/4 x 17 3/4\" (41.3 x 45.1 cm)",
+            "Credit": "Mies van der Rohe Archive, gift of the architect",
+            "Object number": "MR30.10",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7166"
+    },
+    {
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "Wolf House, Gubin, Poland (Basement plan [final version])",
+        "Year": "1925-1927",
+        "ObjectID": "185359",
+        "Work": "https://www.moma.org/collection/works/185359",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMyMTY0MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=54f400ddc2d4c7e9",
+        "Details": {
+            "Medium": "Pencil on tracing paper",
+            "Dimensions": "27 3/4 x 28 1/2\" (70.5 x 72.4 cm)",
+            "Credit": "Mies van der Rohe Archive, gift of the architect",
+            "Object number": "MR30.15",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7166"
+    },
+    {
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "Wolf House, Gubin, Poland (Second floor plan [final version])",
+        "Year": "1925-1927",
+        "ObjectID": "185360",
+        "Work": "https://www.moma.org/collection/works/185360",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMyMTY0MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=52141c4238313ba2",
+        "Details": {
+            "Medium": "Print",
+            "Dimensions": "21 1/4 x 20 1/4\" (54 x 51.4 cm)",
+            "Credit": "Mies van der Rohe Archive, gift of the architect",
+            "Object number": "MR30.18",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7166"
+    },
+    {
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "Wolf House, Gubin, Poland (Third floor plan [final version])",
+        "Year": "1925-1927",
+        "ObjectID": "185361",
+        "Work": "https://www.moma.org/collection/works/185361",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMyMTY0MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8506f1b4ac2c6f0d",
+        "Details": {
+            "Medium": "Print",
+            "Dimensions": "13 3/4 x 13 1/4\" (34.9 x 33.7 cm)",
+            "Credit": "Mies van der Rohe Archive, gift of the architect",
+            "Object number": "MR30.19",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7166"
+    },
+    {
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "Wolf House, Gubin, Poland (Basement plan)",
+        "Year": "1925-1927",
+        "ObjectID": "185362",
+        "Work": "https://www.moma.org/collection/works/185362",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMyMTY0NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a4b6dabd7b0e5459",
+        "Details": {
+            "Medium": "Print",
+            "Dimensions": "16 x 16\" (40.6 x 40.6 cm)",
+            "Credit": "Mies van der Rohe Archive, gift of the architect",
+            "Object number": "MR30.20",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7166"
     }
 ]

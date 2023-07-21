@@ -1,879 +1,945 @@
 [
     {
-        "Artist": "Pablo Picasso",
-        "Title": "Galerie Louise Leiris, Picasso",
-        "Year": "1971",
-        "ObjectID": "7126",
-        "Work": "https://www.moma.org/collection/works/7126",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMDIzMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2eecf9ad1c79d9b2",
+        "Artist": "Larry Rivers",
+        "Title": "Bread and Butter",
+        "Year": "1974",
+        "ObjectID": "63153",
+        "Work": "https://www.moma.org/collection/works/63153",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NzQ4NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cb2b9373e6d0d03d",
+        "Details": {
+            "Medium": "Etching and screenprint, with varnish additions",
+            "Dimensions": "plate  10 15/16 x 13 15/16\" (27.9 x 35.4 cm)\r\nsheet  14 5/16 x 17 1/2\" (36.3 x 44.4 cm)",
+            "Edition": "25",
+            "Credit": "Gift of the artist",
+            "Object number": "146.1975",
+            "Copyright": "\u00a9 2023 Estate of Larry Rivers/Licensed by VAGA, New York, NY",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4945"
+    },
+    {
+        "Artist": "Larry Rivers",
+        "Title": "Diane Raised IV (Polish Vocabulary)",
+        "Year": "1970-74",
+        "ObjectID": "65520",
+        "Work": "https://www.moma.org/collection/works/65520",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph, with paper collage additions",
+            "Dimensions": "Comp (irreg):  11 7/8 x 24 3/4\" (30.2 x 62.9 cm) Sheet (top):  20 1/4 x 28 7/16\" (51.4 x 72.2 cm) Sheet (bottom): 25 1/4 x 32 3/4\" (64.1 x 83.2 cm)",
+            "Publisher": "Universal Limited Art Editions, West Islip, New York",
+            "Printer": "Universal Limited Art Editions, West Islip, New York",
+            "Edition": "38",
+            "Credit": "Gift of Celeste Bartos",
+            "Object number": "263.1974",
+            "Copyright": "\u00a9 2023 Estate of Larry Rivers/Licensed by VAGA, New York, NY",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4945"
+    },
+    {
+        "Artist": "Dorothea Rockburne",
+        "Title": "Golden Section Painting: Square Separated by Parallelogram",
+        "Year": "August 1974",
+        "ObjectID": "80645",
+        "Work": "https://www.moma.org/collection/works/80645",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3ODc4OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d404dff60338ea10",
+        "Details": {
+            "Medium": "Gesso and pencil on sized, glued, and folded linen",
+            "Dimensions": "64 3/8\" x 8' 8 1/2\" (163.6 x 265.5 cm)",
+            "Credit": "Purchased with the aid of funds from the National Endowment for the Arts and an anonymous donor",
+            "Object number": "1353.1974",
+            "Copyright": "\u00a9 2023 Dorothea Rockburne / Artists Rights Society (ARS), New York",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/4972"
+    },
+    {
+        "Artist": "Varvara Rodchenko",
+        "Title": "Cover for Evgenii Vinkour",
+        "Year": "1974",
+        "ObjectID": "32319",
+        "Work": "https://www.moma.org/collection/works/32319",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0Nzk2NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=db14c0c74e49c7c9",
+        "Details": {
+            "Author": "A. I. Mikhailov",
+            "Medium": "Lithograph",
+            "Dimensions": "sheet: 8 x 5 3/8\" (20.3 x 13.7 cm)",
+            "Publisher": "Sovetskii pisatel', Moscow",
+            "Edition": "unknown",
+            "Credit": "Gift of The Judith Rothschild Foundation",
+            "Object number": "1519.2001",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/8476"
+    },
+    {
+        "Artist": "Thomas Roma",
+        "Title": "Untitled",
+        "Year": "1974",
+        "ObjectID": "56007",
+        "Work": "https://www.moma.org/collection/works/56007",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MDYxMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=feac99ec01e2d90d",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "7 5/16 \u00d7 11 15/16\" (21.2 \u00d7 30.4 cm)",
+            "Credit": "The Family of Man Fund",
+            "Object number": "678.1978",
+            "Copyright": "\u00a9 2023 Thomas Roma",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/5006"
+    },
+    {
+        "Artist": "Thomas Roma",
+        "Title": "Gus, Bay Ridge, Brooklyn",
+        "Year": "1974",
+        "ObjectID": "92568",
+        "Work": "https://www.moma.org/collection/works/92568",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4MjA5NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6be92226b291b4ba",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Credit": "Gift of the artist",
+            "Object number": "219.1989.5",
+            "Copyright": "\u00a9 2023 Thomas Roma",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/5006"
+    },
+    {
+        "Artist": "Thomas Roma",
+        "Title": "Kelso, Coney Island, Brooklyn",
+        "Year": "1974",
+        "ObjectID": "92571",
+        "Work": "https://www.moma.org/collection/works/92571",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4MjA5OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1c04820794830b12",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Credit": "Gift of the artist",
+            "Object number": "219.1989.8",
+            "Copyright": "\u00a9 2023 Thomas Roma",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/5006"
+    },
+    {
+        "Artist": "Thomas Roma",
+        "Title": "Speedy, Sheepshead Bay, Brooklyn",
+        "Year": "1974",
+        "ObjectID": "92576",
+        "Work": "https://www.moma.org/collection/works/92576",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4MjA4MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3b20ba5ec911e36c",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Credit": "Gift of the artist",
+            "Object number": "219.1989.13",
+            "Copyright": "\u00a9 2023 Thomas Roma",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/5006"
+    },
+    {
+        "Artist": "Thomas Roma",
+        "Title": "Moses and Stymie, Park Slope, Brooklyn",
+        "Year": "1974",
+        "ObjectID": "92577",
+        "Work": "https://www.moma.org/collection/works/92577",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4MjA4NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b0833ec5a6a4bd87",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Credit": "Gift of the artist",
+            "Object number": "219.1989.14",
+            "Copyright": "\u00a9 2023 Thomas Roma",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/5006"
+    },
+    {
+        "Artist": "James Rosenquist",
+        "Title": "Time Flowers from the series Nails",
+        "Year": "1974",
+        "ObjectID": "62254",
+        "Work": "https://www.moma.org/collection/works/62254",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3NjI4MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8009233463270ac1",
+        "Details": {
+            "Medium": "Screenprint",
+            "Dimensions": "(irreg.) composition  19 5/16 x 24 9/16\" (49.1 x 62.4 cm)\r\nsheet  23 1/8 x 31 7/16\" (58 x 79.9 cm)",
+            "Publisher": "Castelli Graphics and Multiples, Inc., New York",
+            "Printer": "Styria Studio, Inc., New York",
+            "Edition": "80",
+            "Credit": "Gift of Harry Kahn",
+            "Object number": "123.1991",
+            "Copyright": "\u00a9 2023 James Rosenquist/Licensed by VAGA, New York, NY",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5021"
+    },
+    {
+        "Artist": "James Rosenquist",
+        "Title": "Off the Continental Divide",
+        "Year": "1973-74",
+        "ObjectID": "68173",
+        "Work": "https://www.moma.org/collection/works/68173",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5Mzk5MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=474e2bf9deffceb8",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "29 13/16 x 19 3/4\" (75.8 x 50.2 cm)",
-            "Credit": "Peter Stone Collection of Posters by Artists",
-            "Object number": "465.1976",
-            "Copyright": "\u00a9 2023 Estate of Pablo Picasso / Artists Rights Society (ARS), New York",
+            "Dimensions": "irreg composition  37 1/16 x 78 5/16\" (94.1 x 199 cm)\r\napprox sheet  42 15/16 x 79 3/16\" (109 x 201.2 cm)",
+            "Publisher": "Universal Limited Art Editions, West Islip, New York",
+            "Printer": "Universal Limited Art Editions, West Islip, New York",
+            "Edition": "43",
+            "Credit": "Gift of Celeste Bartos",
+            "Object number": "383.1974",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5021"
+    },
+    {
+        "Artist": "James Rosenquist",
+        "Title": "Marilyn",
+        "Year": "1974",
+        "ObjectID": "69332",
+        "Work": "https://www.moma.org/collection/works/69332",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwODk1OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=16b33bb9d5ac6388",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition  35 11/16 x 27 3/8\" (90.6 x 69.5 cm)\r\nsheet  41 11/16 x 29 3/8\" (105.9 x 74.6 cm)",
+            "Publisher": "Petersburg Press, London and New York",
+            "Printer": "Petersburg Press, London",
+            "Edition": "75; plus 20 A.P., 5 T.P., 1 B.A.T., 5 Workshop, and an unknown number of color T.P",
+            "Credit": "Gift of Peterburg Press, Inc. in memory of Myron Orlofsky",
+            "Object number": "450.1978",
+            "Copyright": "\u00a9 2023 James Rosenquist/Licensed by VAGA, New York, NY",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5021"
+    },
+    {
+        "Artist": "James Rosenquist",
+        "Title": "Paper Clip",
+        "Year": "1974",
+        "ObjectID": "69359",
+        "Work": "https://www.moma.org/collection/works/69359",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "Composition (slightly irreg.): 33 11/16 x 61 3/4\" (85.5 x 156.9 cm)\r\nSheet: 36 1/4 x 69\" (92 x 175.3 cm)",
+            "Publisher": "Petersburg Press, London",
+            "Printer": "Petersburg Press, London",
+            "Edition": "one of 5 proofs outside an edition of 75",
+            "Credit": "Gift of the artist in memory of Monroe Wheeler",
+            "Object number": "452.1990",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5021"
+    },
+    {
+        "Artist": "James Rosenquist",
+        "Title": "F-111 (South, West, North, East)",
+        "Year": "1974",
+        "ObjectID": "73082",
+        "Work": "https://www.moma.org/collection/works/73082",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph and screenprint",
+            "Dimensions": "Comp (a, irreg):  34 11/16 x 68 15/16\" (88.1 x 175.2 cm)  Sheet (a):  36 1/2 x 70 1/16\" 992.8 x (79.8 x 175.9 cm)  Sheet (c):  36 9/16 x 69 15/16\" (92.9 x 177.6 cm)  Comp (d, irreg):  30 x 73 7/8\" (76.2 x 187.7 cm)  Sheet (d):  36 5/16 x 75\" (92.3 x 190.6 cm).",
+            "Publisher": "Petersburg Press, London and New York",
+            "Printer": "Styria Studio, Inc., New York",
+            "Edition": "EditioN: 75",
+            "Credit": "Gift of Dr. and Mrs. Francis L'Esperance",
+            "Object number": "680.1981.a-d",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5021"
+    },
+    {
+        "Artist": "James Rosenquist",
+        "Title": "1/2 Sunglass/Landing Net/Triangle from the series Nail",
+        "Year": "1974",
+        "ObjectID": "74527",
+        "Work": "https://www.moma.org/collection/works/74527",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Etching and aquatint",
+            "Dimensions": "plate  17 15/16 x 35 7/16\" (45.6 x 90 cm)\r\nsheet  28 1/8 x 40 7/16\" (71.4 x 102.7 cm)",
+            "Publisher": "Multiples, Inc., New York",
+            "Printer": "Styria Studio, Inc., New York",
+            "Edition": "80, plus 24 artist's proofs",
+            "Credit": "Gift of Mr. and Mrs. Harry Kahn",
+            "Object number": "869.1978",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5021"
+    },
+    {
+        "Artist": "Martha Rosler",
+        "Title": "A Budding Gourmet",
+        "Year": "1974",
+        "ObjectID": "159785",
+        "Work": "https://www.moma.org/collection/works/159785",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NTAyOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4d8400f2042ec022",
+        "Details": {
+            "Medium": "Video (black and white, sound)",
+            "Duration": "17:45 min.",
+            "Credit": "Gift of the artist and Galerie Nagel, Berlin",
+            "Object number": "581.2012",
+            "Copyright": "\u00a9 2023 Martha Rosler",
+            "Department": "Media and Performance"
+        },
+        "Profile": "https://www.moma.org/artists/6832"
+    },
+    {
+        "Artist": "Martha Rosler",
+        "Title": "Super-8 Shorts: Backyard Economy I, Backyard Economy II (Diane Germaine mowing), Flower Fields",
+        "Year": "1974",
+        "ObjectID": "159786",
+        "Work": "https://www.moma.org/collection/works/159786",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NTAzMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f5abc32e8602595f",
+        "Details": {
+            "Medium": "Super 8mm film transferred to video (color, silent)",
+            "Duration": "14:50 min.",
+            "Credit": "Gift of the artist and Galerie Nagel, Berlin",
+            "Object number": "582.2012",
+            "Copyright": "\u00a9 2023 Martha Rosler",
+            "Department": "Media and Performance"
+        },
+        "Profile": "https://www.moma.org/artists/6832"
+    },
+    {
+        "Artist": "Ed Rossbach",
+        "Title": "Paper Work",
+        "Year": "1974",
+        "ObjectID": "2167",
+        "Work": "https://www.moma.org/collection/works/2167",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMDMwMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=64cc8d35638de46a",
+        "Details": {
+            "Manufacturer": "Ed Rossbach",
+            "Medium": "Newspaper and paint",
+            "Dimensions": "15 1/2 x 2\" (39.4 x 5.1 cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "112.1989",
             "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/4609"
+        "Profile": "https://www.moma.org/artists/5032"
     },
     {
-        "Artist": "Pablo Picasso",
-        "Title": "At Work",
-        "Year": "August 15, 1971",
-        "ObjectID": "79503",
-        "Work": "https://www.moma.org/collection/works/79503",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ3NTM5OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=538961b2e3f30e1e",
+        "Artist": "Aldo Rossi, Gianni Braghieri, M. Bosshard",
+        "Title": "Regional Administrative Center, project \"Trieste e una Donna.\" , Trieste, Italy, Competition design: Elevation and section",
+        "Year": "1974",
+        "ObjectID": "100",
+        "Work": "https://www.moma.org/collection/works/100",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMDkwMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=dc9c2767108abf02",
         "Details": {
-            "Medium": "Oil on canvas",
-            "Dimensions": "63 3/4 x 51 1/4\" (161.9 x 130.2 cm)",
-            "Credit": "Gift of Jacqueline Picasso in honor of the Museum's continuous commitment to Pablo Picasso's art",
-            "Object number": "344.1985",
-            "Copyright": "\u00a9 2023 Estate of Pablo Picasso / Artists Rights Society (ARS), New York",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/4609"
-    },
-    {
-        "Artist": "Pablo Picasso",
-        "Title": "La Celestine",
-        "Year": "1971",
-        "ObjectID": "162387",
-        "Work": "https://www.moma.org/collection/works/162387",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MDE0NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=868e891cd1af9c25",
-        "Details": {
-            "Author": "Fernando de Rojas",
-            "Medium": "Illustrated book with 66 etching and aquatints",
-            "Dimensions": "page (each, approx.): 8 1/4 x 6 7/16\" (21 x 16.3 cm); overall (closed): 8 11/16 x 7 3/16 x 1 9/16\" (22 x 18.3 x 4 cm); case: 9 x 7 3/8 x 1 7/8\" (22.8 x 18.7 x 4.8 cm)",
-            "Publisher": "Atelier Crommelynck, Paris",
-            "Printer": "Atelier Crommelynck, Paris",
-            "Edition": "350",
-            "Credit": "Committee on Prints and Illustrated Books Fund",
-            "Object number": "1659.2012.1-66",
-            "Copyright": "\u00a9 2023 Estate of Pablo Picasso / Artists Rights Society (ARS), New York",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/4609"
-    },
-    {
-        "Artist": "Edouard Pignon",
-        "Title": "Untitled from Flight, _Untitled from _Flight",
-        "Year": "1967, published 1971",
-        "ObjectID": "89328",
-        "Work": "https://www.moma.org/collection/works/89328",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwNjMyNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=dddd333d2085c45d",
-        "Details": {
-            "Medium": "Lithograph from a portfolio of eleven lithographs and one screenprint",
-            "Dimensions": "composition (irreg.): 15 11/16 \u00d7 21 9/16\" (39.9 \u00d7 54.8 cm); sheet: 19 13/16 \u00d7 25 11/16\" (50.4 \u00d7 65.2 cm)",
-            "Publisher": "International Rescue Committee, New York",
-            "Printer": "Mourlot, Paris",
-            "Edition": "artist's proof before the edition of 300",
-            "Credit": "Gift of Jerry I. Speyer and Katherine Farley",
-            "Object number": "367.2003.11",
-            "Copyright": "\u00a9 2023 \u00c9douard Pignon / Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Portfolio": "Flight",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/4620"
-    },
-    {
-        "Artist": "PIKO, Sonneberg, Germany",
-        "Title": "Pikotron Electronic Circuit toy",
-        "Year": "1971",
-        "ObjectID": "146162",
-        "Work": "https://www.moma.org/collection/works/146162",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMzQ0MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9d414724ca711955",
-        "Details": {
-            "Manufacturer": "PIKO, Sonneberg, Germany",
-            "Medium": "Various materials",
-            "Dimensions": "2 3/16 x 13 3/4 x 9 1/16\" (5.5 x 35 x 23 cm)",
-            "Credit": "Gift of Christian Zoellner",
-            "Object number": "360.2011.1-2",
+            "Medium": "Rubbed ink and pastel on whiteprint",
+            "Dimensions": "28 1/2 x 36\" (72.4 x 91.4 cm)",
+            "Credit": "Philip Johnson Fund",
+            "Object number": "28.1980",
             "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/39187"
+        "Profile": "https://www.moma.org/artists/7661"
     },
     {
-        "Artist": "Adrian Piper",
-        "Title": "Food for the Spirit #1",
-        "Year": "1971",
-        "ObjectID": "52049",
-        "Work": "https://www.moma.org/collection/works/52049",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1NjYzMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9c5cb61dead0189a",
+        "Artist": "Dieter Roth",
+        "Title": "Doublehead Viewing Horizon",
+        "Year": "(1974)",
+        "ObjectID": "89770",
+        "Work": "https://www.moma.org/collection/works/89770",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDQ1OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1823f2e6360b432c",
         "Details": {
-            "Sitter": "Adrian Piper",
-            "Medium": "Gelatin silver print, printed 1997",
-            "Dimensions": "14 9/16 \u00d7 14 13/16\" (37 \u00d7 37.7 cm)",
-            "Credit": "The Family of Man Fund",
-            "Object number": "374.1998.1",
-            "Copyright": "\u00a9 2023 Adrian Piper",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/7017"
-    },
-    {
-        "Artist": "Adrian Piper",
-        "Title": "Food for the Spirit #10",
-        "Year": "1971",
-        "ObjectID": "52051",
-        "Work": "https://www.moma.org/collection/works/52051",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1NjYxOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=990bd6f92c2121c3",
-        "Details": {
-            "Sitter": "Adrian Piper",
-            "Medium": "Gelatin silver print, printed 1997",
-            "Dimensions": "14 9/16 \u00d7 15\" (37 \u00d7 38.1 cm)",
-            "Credit": "The Family of Man Fund",
-            "Object number": "374.1998.10",
-            "Copyright": "\u00a9 2023 Adrian Piper",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/7017"
-    },
-    {
-        "Artist": "Adrian Piper",
-        "Title": "Food for the Spirit #11",
-        "Year": "1971",
-        "ObjectID": "52052",
-        "Work": "https://www.moma.org/collection/works/52052",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1NjYxOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=03daa5b1f04659ca",
-        "Details": {
-            "Sitter": "Adrian Piper",
-            "Medium": "Gelatin silver print, printed 1997",
-            "Dimensions": "14 9/16 \u00d7 15\" (37 \u00d7 38.1 cm)",
-            "Credit": "The Family of Man Fund",
-            "Object number": "374.1998.11",
-            "Copyright": "\u00a9 2023 Adrian Piper",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/7017"
-    },
-    {
-        "Artist": "Adrian Piper",
-        "Title": "Food for the Spirit #12",
-        "Year": "1971",
-        "ObjectID": "52053",
-        "Work": "https://www.moma.org/collection/works/52053",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1NjYyMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e6d33a992b11c71c",
-        "Details": {
-            "Sitter": "Adrian Piper",
-            "Medium": "Gelatin silver print, printed 1997",
-            "Dimensions": "14 9/16 \u00d7 15\" (37 \u00d7 38.1 cm)",
-            "Credit": "The Family of Man Fund",
-            "Object number": "374.1998.12",
-            "Copyright": "\u00a9 2023 Adrian Piper",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/7017"
-    },
-    {
-        "Artist": "Adrian Piper",
-        "Title": "Food for the Spirit #13",
-        "Year": "1971",
-        "ObjectID": "52054",
-        "Work": "https://www.moma.org/collection/works/52054",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1NjYyMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6250bf4df44ce576",
-        "Details": {
-            "Sitter": "Adrian Piper",
-            "Medium": "Gelatin silver print, printed 1997",
-            "Dimensions": "14 9/16 \u00d7 14 15/16\" (37 \u00d7 38 cm)",
-            "Credit": "The Family of Man Fund",
-            "Object number": "374.1998.13",
-            "Copyright": "\u00a9 2023 Adrian Piper",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/7017"
-    },
-    {
-        "Artist": "Adrian Piper",
-        "Title": "Food for the Spirit #14",
-        "Year": "1971",
-        "ObjectID": "52055",
-        "Work": "https://www.moma.org/collection/works/52055",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1NjYzMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3112d86f39a64f03",
-        "Details": {
-            "Sitter": "Adrian Piper",
-            "Medium": "Gelatin silver print, printed 1997",
-            "Dimensions": "14 9/16 \u00d7 15\" (37 \u00d7 38.1 cm)",
-            "Credit": "The Family of Man Fund",
-            "Object number": "374.1998.14",
-            "Copyright": "\u00a9 2023 Adrian Piper",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/7017"
-    },
-    {
-        "Artist": "Adrian Piper",
-        "Title": "Food for the Spirit #2",
-        "Year": "1971",
-        "ObjectID": "52056",
-        "Work": "https://www.moma.org/collection/works/52056",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1NjYzNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a6276244236294d5",
-        "Details": {
-            "Sitter": "Adrian Piper",
-            "Medium": "Gelatin silver print, printed 1997",
-            "Dimensions": "14 9/16 \u00d7 15\" (37 \u00d7 38.1 cm)",
-            "Credit": "The Family of Man Fund",
-            "Object number": "374.1998.2",
-            "Copyright": "\u00a9 2023 Adrian Piper",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/7017"
-    },
-    {
-        "Artist": "Adrian Piper",
-        "Title": "Food for the Spirit #3",
-        "Year": "1971",
-        "ObjectID": "52057",
-        "Work": "https://www.moma.org/collection/works/52057",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1NjYzNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=83cc8232151c498b",
-        "Details": {
-            "Sitter": "Adrian Piper",
-            "Medium": "Gelatin silver print, printed 1997",
-            "Dimensions": "14 9/16 \u00d7 14 15/16\" (37 \u00d7 38 cm)",
-            "Credit": "The Family of Man Fund",
-            "Object number": "374.1998.3",
-            "Copyright": "\u00a9 2023 Adrian Piper",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/7017"
-    },
-    {
-        "Artist": "Adrian Piper",
-        "Title": "Food for the Spirit #4",
-        "Year": "1971",
-        "ObjectID": "52058",
-        "Work": "https://www.moma.org/collection/works/52058",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1NjYzNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cca38914cb562a9e",
-        "Details": {
-            "Sitter": "Adrian Piper",
-            "Medium": "Gelatin silver print, printed 1997",
-            "Dimensions": "14 9/16 \u00d7 14 15/16\" (37 \u00d7 38 cm)",
-            "Credit": "The Family of Man Fund",
-            "Object number": "374.1998.4",
-            "Copyright": "\u00a9 2023 Adrian Piper",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/7017"
-    },
-    {
-        "Artist": "Adrian Piper",
-        "Title": "Food for the Spirit #5",
-        "Year": "1971",
-        "ObjectID": "52059",
-        "Work": "https://www.moma.org/collection/works/52059",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1NjYzNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5d97c562288553a8",
-        "Details": {
-            "Sitter": "Adrian Piper",
-            "Medium": "Gelatin silver print, printed 1997",
-            "Dimensions": "14 9/16 \u00d7 14 13/16\" (37 \u00d7 37.6 cm)",
-            "Credit": "The Family of Man Fund",
-            "Object number": "374.1998.5",
-            "Copyright": "\u00a9 2023 Adrian Piper",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/7017"
-    },
-    {
-        "Artist": "Adrian Piper",
-        "Title": "Food for the Spirit #6",
-        "Year": "1971",
-        "ObjectID": "52060",
-        "Work": "https://www.moma.org/collection/works/52060",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1NjYzOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9061bc2509189d44",
-        "Details": {
-            "Sitter": "Adrian Piper",
-            "Medium": "Gelatin silver print, printed 1997",
-            "Dimensions": "14 9/16 \u00d7 14 15/16\" (37 \u00d7 38 cm)",
-            "Credit": "The Family of Man Fund",
-            "Object number": "374.1998.6",
-            "Copyright": "\u00a9 2023 Adrian Piper",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/7017"
-    },
-    {
-        "Artist": "Adrian Piper",
-        "Title": "Food for the Spirit #7",
-        "Year": "1971",
-        "ObjectID": "52061",
-        "Work": "https://www.moma.org/collection/works/52061",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1NjYzOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=55afb249a83479f3",
-        "Details": {
-            "Sitter": "Adrian Piper",
-            "Medium": "Gelatin silver print, printed 1997",
-            "Dimensions": "14 9/16 \u00d7 14 15/16\" (37 \u00d7 38 cm)",
-            "Credit": "The Family of Man Fund",
-            "Object number": "374.1998.7",
-            "Copyright": "\u00a9 2023 Adrian Piper",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/7017"
-    },
-    {
-        "Artist": "Adrian Piper",
-        "Title": "Food for the Spirit #8",
-        "Year": "1971",
-        "ObjectID": "52062",
-        "Work": "https://www.moma.org/collection/works/52062",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1NjY0MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2ab57692fea8ae2f",
-        "Details": {
-            "Sitter": "Adrian Piper",
-            "Medium": "Gelatin silver print, printed 1997",
-            "Dimensions": "14 9/16 \u00d7 14 15/16\" (37 \u00d7 38 cm)",
-            "Credit": "The Family of Man Fund",
-            "Object number": "374.1998.8",
-            "Copyright": "\u00a9 2023 Adrian Piper",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/7017"
-    },
-    {
-        "Artist": "Adrian Piper",
-        "Title": "Food for the Spirit #9",
-        "Year": "1971",
-        "ObjectID": "52063",
-        "Work": "https://www.moma.org/collection/works/52063",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1NjY0MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5bfcd46c3ada1e92",
-        "Details": {
-            "Sitter": "Adrian Piper",
-            "Medium": "Gelatin silver print, printed 1997",
-            "Dimensions": "14 9/16 \u00d7 14 13/16\" (37 \u00d7 37.6 cm)",
-            "Credit": "The Family of Man Fund",
-            "Object number": "374.1998.9",
-            "Copyright": "\u00a9 2023 Adrian Piper",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/7017"
-    },
-    {
-        "Artist": "Plastic Ono Band, Yoko Ono, John Lennon",
-        "Title": "Happy Xmas (war is over) / Listen, The Snow is Falling",
-        "Year": "1971",
-        "ObjectID": "184206",
-        "Work": "https://www.moma.org/collection/works/184206",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQyNTYyMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e3cdc26208570840",
-        "Details": {
-            "Collaborating artist": "Yoko Ono, John Lennon",
-            "Medium": "7-inch vinyl record",
-            "Dimensions": "dimensions vary",
-            "Publisher": "Apple Records, New York",
-            "Credit": "Committee on Prints and Illustrated Books Fund",
-            "Object number": "854.2013.217.a-b",
-            "Associated work": "Steven Leiber Audio Collection",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/46569"
-    },
-    {
-        "Artist": "Sigmar Polke",
-        "Title": "Self Portrait (Selbstbildnis) from Graphics of Capitalist Realism (Grafik des Kapitalistischen Realismus)",
-        "Year": "1971",
-        "ObjectID": "9044",
-        "Work": "https://www.moma.org/collection/works/9044",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NjYyNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3de3658e9e3b4716",
-        "Details": {
-            "Medium": "Offset lithograph from an illustrated book with suite of three screenprints, two offset lithographs, and one etching",
-            "Dimensions": "composition: 6 15/16 x 7 5/8\" (17.7 x 19.3 cm); sheet: 8 1/4 x 9 1/16\" (21 x 23 cm)",
-            "Publisher": "Edition Ren\u00e9 Block, Berlin",
-            "Printer": "Hertrick, Berlin",
-            "Edition": "120",
-            "Credit": "Seiden and de Cuevas Foundation Fund",
-            "Object number": "2.1973.4",
-            "Copyright": "\u00a9 2023 Estate of Sigmar Polke / Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn, Germany",
-            "Illustrated book": "Grafik des Kapitalistischen Realismus (Graphics of Capitalist Realism)",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/4671"
-    },
-    {
-        "Artist": "Sigmar Polke",
-        "Title": "TV Picture (Soccer Player) I (Fernsehbild (Kicker) _I)",
-        "Year": "1971",
-        "ObjectID": "63946",
-        "Work": "https://www.moma.org/collection/works/63946",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEwMDkwMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a30f94fd5af5b7bf",
-        "Details": {
-            "Medium": "Photolithograph",
-            "Dimensions": "composition and sheet: 25 3/16 x 32 13/16\" (64 x 83.3 cm)",
-            "Publisher": "Griffelkunst-Vereinigung, Hamburg",
-            "Printer": "Ferdinand Baruth, Reinbek, Germany",
-            "Edition": "120 (on green paper), 640 (on all papers)",
-            "Credit": "Walter Bareiss Fund",
-            "Object number": "183.1988",
-            "Copyright": "\u00a9 2023 Estate of Sigmar Polke / Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn, Germany",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/4671"
-    },
-    {
-        "Artist": "Sigmar Polke",
-        "Title": "Untitled",
-        "Year": "1971",
-        "ObjectID": "79106",
-        "Work": "https://www.moma.org/collection/works/79106",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1MTA5NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a5d298e2007ade0f",
-        "Details": {
-            "Medium": "Watercolor, gouache, and synthetic polymer paint on paper mounted on canvas",
-            "Dimensions": "7' 9 1/4\" x 69 3/4\" (236.9 x  177.2 cm)",
-            "Credit": "Gift of the Dannheisser Foundation",
-            "Object number": "196.1996",
-            "Copyright": "\u00a9 2023 Estate of Sigmar Polke / Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn, Germany",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/4671"
-    },
-    {
-        "Artist": "Sigmar Polke",
-        "Title": "Untitled",
-        "Year": "1969",
-        "ObjectID": "79110",
-        "Work": "https://www.moma.org/collection/works/79110",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MjE1OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0ea5c8453509b68b",
-        "Details": {
-            "Medium": "Synthetic polymer paint on canvas",
-            "Dimensions": "59 1/8 x 49 3/8\" (150.2 x 125.4 cm)",
-            "Credit": "Gift of Werner and Elaine Dannheisser",
-            "Object number": "197.1996",
-            "Copyright": "\u00a9 2023 Estate of Sigmar Polke / Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn, Germany",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/4671"
-    },
-    {
-        "Artist": "Sigmar Polke",
-        "Title": "TV Picture (Soccer Player) I (Fernsehbild (Kicker) _I)",
-        "Year": "1971",
-        "ObjectID": "103126",
-        "Work": "https://www.moma.org/collection/works/103126",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NjYxNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=33fb0ac8c84b6ea4",
-        "Details": {
-            "Medium": "Photolithograph",
-            "Dimensions": "composition and sheet: 25 1/8 x 33 1/16\" (63.8 x 84 cm)",
-            "Publisher": "Griffelkunst-Vereinigung, Hamburg",
-            "Printer": "Ferdinand Baruth, Reinbek, Germany",
-            "Edition": "237 (on gray paper), 640 (on all papers)",
-            "Credit": "Linda Barth Goldstein Fund",
-            "Object number": "501.2006",
-            "Copyright": "\u00a9 2023 Estate of Sigmar Polke / Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn, Germany",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/4671"
-    },
-    {
-        "Artist": "Sigmar Polke",
-        "Title": "TV Picture (Soccer Player) I (Fernsehbild (Kicker) _I)",
-        "Year": "1971",
-        "ObjectID": "105709",
-        "Work": "https://www.moma.org/collection/works/105709",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1Njg2OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=85fcfd6f63e65c98",
-        "Details": {
-            "Medium": "Photolithograph",
-            "Dimensions": "composition and sheet: 25 3/16 x 33 1/16\" (64 x 84 cm)",
-            "Publisher": "Griffelkunst-Vereinigung, Hamburg",
-            "Printer": "Ferdinand Baruth, Reinbek, Germany",
-            "Edition": "142 (on blue paper), 640 (on all papers)",
-            "Credit": "Roxanne H. Frank Fund",
-            "Object number": "739.2006",
-            "Copyright": "\u00a9 2023 Estate of Sigmar Polke / Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn, Germany",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/4671"
-    },
-    {
-        "Artist": "Sigmar Polke",
-        "Title": "Untitled",
-        "Year": "1971",
-        "ObjectID": "149065",
-        "Work": "https://www.moma.org/collection/works/149065",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0MTA2NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=88eec1cb85b2554b",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "6 3/4 \u00d7 9 7/16\" (17.2 \u00d7 24 cm) (irregular)",
-            "Credit": "Acquired through the generosity of Edgar Wachenheim III and Ronald S. Lauder",
-            "Object number": "912.2011",
-            "Copyright": "\u00a9 2023 Estate of Sigmar Polke / Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn, Germany",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/4671"
-    },
-    {
-        "Artist": "Sigmar Polke",
-        "Title": "Untitled from the series Paris",
-        "Year": "1971",
-        "ObjectID": "149066",
-        "Work": "https://www.moma.org/collection/works/149066",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NDMxMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c55476be165dd351",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "9 7/16 \u00d7 11 5/8\" (24 \u00d7 29.5 cm)",
-            "Credit": "Acquired through the generosity of Edgar Wachenheim III and Ronald S. Lauder",
-            "Object number": "913.2011",
-            "Copyright": "\u00a9 2023 Estate of Sigmar Polke / Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn, Germany",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/4671"
-    },
-    {
-        "Artist": "Sigmar Polke",
-        "Title": "Untitled from the series Paris",
-        "Year": "1971",
-        "ObjectID": "149067",
-        "Work": "https://www.moma.org/collection/works/149067",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NDEwMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3b09c105c8389603",
-        "Details": {
-            "Medium": "Gelatin silver print, with applied color",
-            "Dimensions": "9 7/16 \u00d7 7 1/16\" (24 \u00d7 18 cm)",
-            "Credit": "Acquired through the generosity of Edgar Wachenheim III and Ronald S. Lauder",
-            "Object number": "914.2011",
-            "Copyright": "\u00a9 2023 Estate of Sigmar Polke / Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn, Germany",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/4671"
-    },
-    {
-        "Artist": "Sigmar Polke",
-        "Title": "Untitled from the series Paris",
-        "Year": "1971",
-        "ObjectID": "149068",
-        "Work": "https://www.moma.org/collection/works/149068",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0MzU1MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c40bbd4161614d48",
-        "Details": {
-            "Medium": "Gelatin silver print, with applied color",
-            "Dimensions": "9 7/16 \u00d7 11 11/16\" (24 \u00d7 29.7 cm)",
-            "Credit": "Acquired through the generosity of Edgar Wachenheim III and Ronald S. Lauder",
-            "Object number": "915.2011",
-            "Copyright": "\u00a9 2023 Estate of Sigmar Polke / Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn, Germany",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/4671"
-    },
-    {
-        "Artist": "Sigmar Polke",
-        "Title": "Untitled from the series Paris",
-        "Year": "1971",
-        "ObjectID": "149069",
-        "Work": "https://www.moma.org/collection/works/149069",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MzU1MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f130bccfc4b8266b",
-        "Details": {
-            "Medium": "Gelatin silver print, with applied color",
-            "Dimensions": "7 1/16 \u00d7 9 7/16\" (18 \u00d7 23.9 cm)",
-            "Credit": "Acquired through the generosity of Edgar Wachenheim III and Ronald S. Lauder",
-            "Object number": "916.2011",
-            "Copyright": "\u00a9 2023 Estate of Sigmar Polke / Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn, Germany",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/4671"
-    },
-    {
-        "Artist": "Sigmar Polke",
-        "Title": "Untitled from the series Paris",
-        "Year": "1971",
-        "ObjectID": "149070",
-        "Work": "https://www.moma.org/collection/works/149070",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0MzU1NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=39329ddd39cc6bbb",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "9 7/16 \u00d7 11 13/16\" (24 \u00d7 30 cm)",
-            "Credit": "Acquired through the generosity of Edgar Wachenheim III and Ronald S. Lauder",
-            "Object number": "917.2011",
-            "Copyright": "\u00a9 2023 Estate of Sigmar Polke / Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn, Germany",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/4671"
-    },
-    {
-        "Artist": "Sigmar Polke",
-        "Title": "Untitled from the series Paris",
-        "Year": "1971",
-        "ObjectID": "149071",
-        "Work": "https://www.moma.org/collection/works/149071",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0MTA2NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=59c88e723a284338",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "9 3/8 \u00d7 7 1/16\" (23.8 \u00d7 18 cm)",
-            "Credit": "Acquired through the generosity of Edgar Wachenheim III and Ronald S. Lauder",
-            "Object number": "918.2011",
-            "Copyright": "\u00a9 2023 Estate of Sigmar Polke / Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn, Germany",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/4671"
-    },
-    {
-        "Artist": "Sigmar Polke",
-        "Title": "Untitled from the series Paris",
-        "Year": "1971",
-        "ObjectID": "149072",
-        "Work": "https://www.moma.org/collection/works/149072",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMTEyOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=194be25d874be2e4",
-        "Details": {
-            "Medium": "Gelatin silver print, with applied color",
-            "Dimensions": "7 1/16 \u00d7 9 7/16\" (18 \u00d7 24 cm)",
-            "Credit": "Acquired through the generosity of Edgar Wachenheim III and Ronald S. Lauder",
-            "Object number": "919.2011",
-            "Copyright": "\u00a9 2023 Estate of Sigmar Polke / Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn, Germany",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/4671"
-    },
-    {
-        "Artist": "Fairfield Porter",
-        "Title": "The Dog at the Door from Ten Lithographs by Ten Artists",
-        "Year": "1971",
-        "ObjectID": "69548",
-        "Work": "https://www.moma.org/collection/works/69548",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NjczOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0e99a34ba4485741",
-        "Details": {
-            "Medium": "One from a portfolio of ten lithographs",
-            "Dimensions": "composition and sheet: 30 x 22 1/16\" (76.2 x 56 cm)",
-            "Publisher": "Shorewood-Bank Street Atelier for the Skowhegan School of Painting and Sculpture",
-            "Printer": "Bank Street Atelier, New York",
-            "Edition": "120",
-            "Credit": "Given anonymously",
-            "Object number": "460.1988.10",
-            "Portfolio": "Ten Lithographs by Ten Artists",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/4701"
-    },
-    {
-        "Artist": "Pandit Pran Nath, Marian Zazeela",
-        "Title": "Ragas",
-        "Year": "1971",
-        "ObjectID": "184636",
-        "Work": "https://www.moma.org/collection/works/184636",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM4MDYwMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f4076b882ca4147d",
-        "Details": {
-            "Collaborating artist": "(cover) Marian Zazeela",
-            "Medium": "12-inch vinyl record",
-            "Dimensions": "cover: 12 1/4 \u00d7 12 1/8\" (31.1 \u00d7 30.8 cm)",
-            "Publisher": "Shandar",
-            "Credit": "Committee on Prints and Illustrated Books Fund",
-            "Object number": "854.2013.348",
-            "Associated work": "Steven Leiber Audio Collection",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/43300"
-    },
-    {
-        "Artist": "Peter Raacke",
-        "Title": "Bottle Opener",
-        "Year": "1971",
-        "ObjectID": "1874",
-        "Work": "https://www.moma.org/collection/works/1874",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMDEzNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7ab81d2499af0d27",
-        "Details": {
-            "Manufacturer": "Hessische Metallwerke (now mono GmbH), Germany",
-            "Medium": "Stainless steel, cast aluminum, and plastic",
-            "Dimensions": "diam. 2 3/4\" (7 cm)",
-            "Credit": "Gift of Bonniers",
-            "Object number": "55.1972",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/4777"
-    },
-    {
-        "Artist": "Edward Ranney",
-        "Title": "Intihuatana, Machu Picchu",
-        "Year": "1971",
-        "ObjectID": "48569",
-        "Work": "https://www.moma.org/collection/works/48569",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5ODU5OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5c2bd3079e18a4b2",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "8 \u00d7 10 3/4\" (20.3 \u00d7 27.3 cm)",
-            "Credit": "John Parkinson III Fund",
-            "Object number": "210.1979",
-            "Copyright": "\u00a9 2023 Edward Ranney",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/4813"
-    },
-    {
-        "Artist": "Edward Ranney",
-        "Title": "Machu Picchu",
-        "Year": "1971",
-        "ObjectID": "48622",
-        "Work": "https://www.moma.org/collection/works/48622",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5ODYwMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=684395cfc77f8af3",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "8 5/16 \u00d7 11 1/8\" (21.1 \u00d7 28.2 cm)",
-            "Credit": "David H. McAlpin Fund",
-            "Object number": "213.1979",
-            "Copyright": "\u00a9 2023 Edward Ranney",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/4813"
-    },
-    {
-        "Artist": "Robert Rauschenberg",
-        "Title": "Cardbird Door from Cardbird Series",
-        "Year": "1971",
-        "ObjectID": "73004",
-        "Work": "https://www.moma.org/collection/works/73004",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1MjgzNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=36399e122a85af97",
-        "Details": {
-            "Medium": "Photolithograph and screenprint on corrugated cardboard with Kraft paper, tape, wood and metal additions",
-            "Dimensions": "overall (irreg.): 79 1/2 x 38 3/16 x 8 11/16\" (202 x 97 x 22 cm)",
-            "Publisher": "Gemini G.E.L., Los Angeles",
-            "Printer": "Gemini G.E.L., Los Angeles",
-            "Edition": "25",
-            "Credit": "Gift of Frederick M. Myers",
-            "Object number": "675.1981",
-            "Copyright": "\u00a9 2023 Robert Rauschenberg Foundation",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/4823"
-    },
-    {
-        "Artist": "Robert Rauschenberg",
-        "Title": "Cardbird VI from Cardbird Series",
-        "Year": "1971",
-        "ObjectID": "73026",
-        "Work": "https://www.moma.org/collection/works/73026",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1MjgzNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=35977d26b2aad567",
-        "Details": {
-            "Medium": "Photolithograph and screenprint on corrugated cardboard with tape additions",
-            "Dimensions": "overall (irreg.): 26 x 27 3/16\" (66 x 69.1 cm)",
-            "Publisher": "Gemini G.E.L., Los Angeles",
-            "Printer": "Gemini G.E.L., Los Angeles",
-            "Edition": "75",
-            "Credit": "Gift of Frederick M. Myers",
-            "Object number": "676.1981",
-            "Copyright": "\u00a9 2023 Robert Rauschenberg Foundation",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/4823"
-    },
-    {
-        "Artist": "Robert Rauschenberg",
-        "Title": "Nabisco (Shredded Wheat)",
-        "Year": "1971",
-        "ObjectID": "174932",
-        "Work": "https://www.moma.org/collection/works/174932",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM3OTIwMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e1563d9735d5a3a4",
-        "Details": {
-            "Medium": "Cardboard packing boxes and metal nails",
-            "Dimensions": "70 x 95 x 11\" (177.8 x 241.3 x 27.9 cm)",
-            "Credit": "Gift of Robert Rauschenberg Foundation, and Committee on Painting and Sculpture Funds",
-            "Object number": "1197.2013",
-            "Copyright": "\u00a9 2023 Robert Rauschenberg Foundation",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/4823"
-    },
-    {
-        "Artist": "Ad Reinhardt",
-        "Title": "Abstract Painting",
-        "Year": "c. 1966",
-        "ObjectID": "37889",
-        "Work": "https://www.moma.org/collection/works/37889",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0MjgxMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=14c6caf80b98836f",
-        "Details": {
-            "Medium": "Gouache on photographic paper",
-            "Dimensions": "8 7/8 x 4 5/8\" (22.6 x 11.7 cm)",
-            "Credit": "Gift of Agnes Gund",
-            "Object number": "728.1993",
-            "Copyright": "\u00a9 2023 Estate of Ad Reinhardt / Artists Rights Society (ARS), New York",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/4856"
-    },
-    {
-        "Artist": "Nancy Rexroth",
-        "Title": "Pictorial Tree, Galapolis, Ohio",
-        "Year": "1971",
-        "ObjectID": "47943",
-        "Work": "https://www.moma.org/collection/works/47943",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwNzUwNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4f9c25ef9f031717",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "4 1/8 \u00d7 4 1/8\" (10.5 \u00d7 10.5 cm)",
+            "Medium": "Pencil and ink on paper",
+            "Dimensions": "24 x 33 3/4\" (61 x 85.7 cm)",
             "Credit": "Purchase",
-            "Object number": "184.1974",
-            "Copyright": "\u00a9 2023 Nancy Rextroth",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/4882"
-    },
-    {
-        "Artist": "Gerhard Richter",
-        "Title": "Self Portrait (Selbstbildnis) from Graphics of Capitalist Realism (Grafik des Kapitalistischen Realismus)",
-        "Year": "1971",
-        "ObjectID": "9045",
-        "Work": "https://www.moma.org/collection/works/9045",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NjI2MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1713eb3775766128",
-        "Details": {
-            "Medium": "Offset lithograph from an illustrated book with suite of three screenprints, two offset lithographs, and one etching",
-            "Dimensions": "composition: 4 1/8 x 3 5/16\" (10.5 x 8.4 cm); sheet: 8 1/4 x 9 1/16\" (21 x 23 cm)",
-            "Publisher": "Edition Ren\u00e9 Block, Berlin",
-            "Printer": "Hertrick, Berlin",
-            "Edition": "120",
-            "Credit": "Seiden and de Cuevas Foundation Fund",
-            "Object number": "2.1973.5",
-            "Copyright": "\u00a9 2023 Gerhard Richter",
-            "Illustrated book": "Grafik des Kapitalistischen Realismus (Graphics of Capitalist Realism)",
+            "Object number": "168.2004",
+            "Copyright": "\u00a9 2023 Estate of Dieter Roth",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/4907"
+        "Profile": "https://www.moma.org/artists/5042"
     },
     {
-        "Artist": "Gerhard Richter",
-        "Title": "Sea Landscape",
-        "Year": "1971",
-        "ObjectID": "60285",
-        "Work": "https://www.moma.org/collection/works/60285",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzNDk3MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4126aeacded1f5e3",
+        "Artist": "Dieter Roth",
+        "Title": "Surtsey",
+        "Year": "1973-74, published 1974",
+        "ObjectID": "90740",
+        "Work": "https://www.moma.org/collection/works/90740",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwNjM1MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6445c6e0dda1bc38",
         "Details": {
-            "Medium": "Photogravure",
-            "Dimensions": "plate: 9 5/16 \u00d7 8 13/16\" (23.6 \u00d7 22.4 cm); sheet: 21 1/4 \u00d7 15 1/8\" (54 \u00d7 38.4 cm)",
-            "Publisher": "Galerie Heiner Friedrich, Munich/New York",
-            "Printer": "Max Dunkes, Munich",
-            "Edition": "100",
-            "Credit": "Gift of Mr. and Mrs. Wolfgang Schoenborn",
-            "Object number": "23.1972",
-            "Copyright": "\u00a9 2023 Gerhard Richter",
+            "Medium": "Portfolio of eighteen collotypes",
+            "Dimensions": "composition (see child records): dimensions vary; sheet (see child records): dimensions vary",
+            "Publisher": "Frank Kicherer, Stuttgart, Uwe Lohrer, Stuttgart, Dieter Roth Pictures, Zug",
+            "Printer": "Eberhard Schreiber, Stuttgart",
+            "Edition": "70",
+            "Credit": "Linda Barth Goldstein Fund and Anna Marie and Robert F. Shapiro Fund",
+            "Object number": "48.2004.1-18",
+            "Copyright": "\u00a9 2023 Estate of Dieter Roth",
+            "Type": "Portfolio",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/4907"
+        "Profile": "https://www.moma.org/artists/5042"
     },
     {
-        "Artist": "Gerhard Richter",
-        "Title": "Inpainting (Grey) (Vermalung [grau])",
-        "Year": "1971",
-        "ObjectID": "62558",
-        "Work": "https://www.moma.org/collection/works/62558",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxOTg2MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=526ee75ca1550cad",
+        "Artist": "Dieter Roth",
+        "Title": "22 Doubleheads",
+        "Year": "1974",
+        "ObjectID": "90741",
+        "Work": "https://www.moma.org/collection/works/90741",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MjY0MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2ed565a230417ea5",
         "Details": {
-            "Medium": "Oil on paper",
-            "Dimensions": "composition and sheet: 15 11/16 x 15 11/16\" (39.9 x 39.9 cm)",
-            "Publisher": "Gerhard Richter",
-            "Edition": "150",
-            "Credit": "Gift of Cosmopolitan Arts Foundation",
-            "Object number": "135.1982",
-            "Copyright": "\u00a9 2023 Gerhard Richter",
+            "Medium": "Portfolio of twenty-two etching and drypoints",
+            "Dimensions": "sheet (each approx.): 21 x 15 3/8\" (53.3 x 39.1 cm)",
+            "Publisher": "Dieter Roth Pictures, Zug, Germany",
+            "Printer": "Karl Schulz, Braunschweig, Germany",
+            "Edition": "23",
+            "Credit": "Alexandra Herzan Fund and Virgina Cowles Schroth Fund",
+            "Object number": "49.2004.1-22",
+            "Copyright": "\u00a9 2023 Estate of Dieter Roth",
+            "Type": "Portfolio",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/4907"
+        "Profile": "https://www.moma.org/artists/5042"
     },
     {
-        "Artist": "Gerhard Richter",
-        "Title": "Untitled from Canary Landscapes (Kanarische Landschaften)",
-        "Year": "1970-71",
-        "ObjectID": "66503",
-        "Work": "https://www.moma.org/collection/works/66503",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MDA3MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2b468984bac1578a",
+        "Artist": "Dieter Roth",
+        "Title": "Untitled from Surtsey",
+        "Year": "1973-74, published 1974",
+        "ObjectID": "91899",
+        "Work": "https://www.moma.org/collection/works/91899",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwNjM1MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=03c2d2b784f425e2",
         "Details": {
-            "Medium": "One from a portfolio of six photogravure and aquatints",
-            "Dimensions": "composition: 11 13/16 \u00d7 15 13/16\" (30 \u00d7 40.1 cm); sheet: 15 9/16 \u00d7 19 13/16\" (39.5 \u00d7 50.3 cm)",
-            "Publisher": "Galerie Heiner Friedrich, Munich/New York",
-            "Printer": "Max Dunkes, Munich",
-            "Edition": "100",
-            "Credit": "Gift of Carol O. Selle",
-            "Object number": "304.1972.1",
-            "Copyright": "\u00a9 2023 Gerhard Richter",
-            "Portfolio": "Canary Islands Landscapes (Kanarische Landshaften)",
+            "Medium": "One from a portfolio of eighteen collotypes",
+            "Dimensions": "composition (irreg.): 15 9/16 \u00d7 19 1/2\" (39.5 \u00d7 49.6 cm); sheet: 19 5/16 \u00d7 25 11/16\" (49 \u00d7 65.2 cm)",
+            "Publisher": "Frank Kicherer, Stuttgart, Uwe Lohrer, Stuttgart, Dieter Roth Pictures, Zug",
+            "Printer": "Eberhard Schreiber, Stuttgart",
+            "Edition": "70",
+            "Credit": "Linda Barth Goldstein Fund and Anna Marie and Robert F. Shapiro Fund",
+            "Object number": "48.2004.1",
+            "Copyright": "\u00a9 2023 Estate of Dieter Roth",
+            "Portfolio": "Surtsey",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/4907"
+        "Profile": "https://www.moma.org/artists/5042"
+    },
+    {
+        "Artist": "Dieter Roth",
+        "Title": "Untitled from Surtsey",
+        "Year": "1973-74, published 1974",
+        "ObjectID": "91900",
+        "Work": "https://www.moma.org/collection/works/91900",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwNjM2MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0c88b44ec34c4f72",
+        "Details": {
+            "Medium": "One from a portfolio of eighteen collotypes",
+            "Dimensions": "composition: 15 7/16 \u00d7 19 1/2\" (39.2 \u00d7 49.5 cm); sheet: 19 5/16 \u00d7 25 5/8\" (49 \u00d7 65.1 cm)",
+            "Publisher": "Frank Kicherer, Stuttgart, Uwe Lohrer, Stuttgart, Dieter Roth Pictures, Zug",
+            "Printer": "Eberhard Schreiber, Stuttgart",
+            "Edition": "70",
+            "Credit": "Linda Barth Goldstein Fund and Anna Marie and Robert F. Shapiro Fund",
+            "Object number": "48.2004.2",
+            "Copyright": "\u00a9 2023 Estate of Dieter Roth",
+            "Portfolio": "Surtsey",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5042"
+    },
+    {
+        "Artist": "Dieter Roth",
+        "Title": "Untitled from Surtsey",
+        "Year": "1973-74, published 1974",
+        "ObjectID": "91901",
+        "Work": "https://www.moma.org/collection/works/91901",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwNjM2MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4d20c44a2b8d1504",
+        "Details": {
+            "Medium": "One from a portfolio of eighteen collotypes",
+            "Dimensions": "composition (irreg.): 18 11/16 \u00d7 23\" (47.4 \u00d7 58.4 cm); sheet: 19 7/16 \u00d7 26 7/8\" (49.3 \u00d7 68.3 cm)",
+            "Publisher": "Frank Kicherer, Stuttgart, Uwe Lohrer, Stuttgart, Dieter Roth Pictures, Zug",
+            "Printer": "Eberhard Schreiber, Stuttgart",
+            "Edition": "70",
+            "Credit": "Linda Barth Goldstein Fund and Anna Marie and Robert F. Shapiro Fund",
+            "Object number": "48.2004.3",
+            "Copyright": "\u00a9 2023 Estate of Dieter Roth",
+            "Portfolio": "Surtsey",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5042"
+    },
+    {
+        "Artist": "Dieter Roth",
+        "Title": "Untitled from Surtsey",
+        "Year": "1973-74, published 1974",
+        "ObjectID": "91902",
+        "Work": "https://www.moma.org/collection/works/91902",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwNjM2NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6410ef789f6e645c",
+        "Details": {
+            "Medium": "One from a portfolio of eighteen collotypes",
+            "Dimensions": "composition (irreg.): 18 1/8 \u00d7 23 1/4\" (46 \u00d7 59.1 cm); sheet: 19 5/16 \u00d7 27 1/8\" (49.1 \u00d7 68.9 cm)",
+            "Publisher": "Frank Kicherer, Stuttgart, Uwe Lohrer, Stuttgart, Dieter Roth Pictures, Zug",
+            "Printer": "Eberhard Schreiber, Stuttgart",
+            "Edition": "70",
+            "Credit": "Linda Barth Goldstein Fund and Anna Marie and Robert F. Shapiro Fund",
+            "Object number": "48.2004.4",
+            "Copyright": "\u00a9 2023 Estate of Dieter Roth",
+            "Portfolio": "Surtsey",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5042"
+    },
+    {
+        "Artist": "Dieter Roth",
+        "Title": "Untitled from Surtsey",
+        "Year": "1973-74, published 1974",
+        "ObjectID": "91903",
+        "Work": "https://www.moma.org/collection/works/91903",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwNjM2NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=03d900fdf31f18d7",
+        "Details": {
+            "Medium": "One from a portfolio of eighteen collotypes",
+            "Dimensions": "composition (irreg.): 19 1/8 \u00d7 22 9/16\" (48.5 \u00d7 57.3 cm); sheet: 19 5/16 \u00d7 27 3/16\" (49 \u00d7 69.1 cm)",
+            "Publisher": "Frank Kicherer, Stuttgart, Uwe Lohrer, Stuttgart, Dieter Roth Pictures, Zug",
+            "Printer": "Eberhard Schreiber, Stuttgart",
+            "Edition": "70",
+            "Credit": "Linda Barth Goldstein Fund and Anna Marie and Robert F. Shapiro Fund",
+            "Object number": "48.2004.5",
+            "Copyright": "\u00a9 2023 Estate of Dieter Roth",
+            "Portfolio": "Surtsey",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5042"
+    },
+    {
+        "Artist": "Dieter Roth",
+        "Title": "Untitled from Surtsey",
+        "Year": "1973-74, published 1974",
+        "ObjectID": "91904",
+        "Work": "https://www.moma.org/collection/works/91904",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwNjM2NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d1d30d0231632868",
+        "Details": {
+            "Medium": "One from a portfolio of eighteen collotypes",
+            "Dimensions": "composition (irreg.): 17 11/16 \u00d7 22 13/16\" (45 \u00d7 58 cm); sheet: 19 5/16 \u00d7 27 1/4\" (49.1 \u00d7 69.2 cm)",
+            "Publisher": "Frank Kicherer, Stuttgart, Uwe Lohrer, Stuttgart, Dieter Roth Pictures, Zug",
+            "Printer": "Eberhard Schreiber, Stuttgart",
+            "Edition": "70",
+            "Credit": "Linda Barth Goldstein Fund and Anna Marie and Robert F. Shapiro Fund",
+            "Object number": "48.2004.6",
+            "Copyright": "\u00a9 2023 Estate of Dieter Roth",
+            "Portfolio": "Surtsey",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5042"
+    },
+    {
+        "Artist": "Dieter Roth",
+        "Title": "Untitled from Surtsey",
+        "Year": "1973-74, published 1974",
+        "ObjectID": "91905",
+        "Work": "https://www.moma.org/collection/works/91905",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwNjM2NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fc0a2e71fd720cad",
+        "Details": {
+            "Medium": "One from a portfolio of eighteen collotypes",
+            "Dimensions": "composition (irreg.): 16 1/4 \u00d7 19 5/8\" (41.2 \u00d7 49.9 cm); sheet: 19 5/16 \u00d7 25 5/8\" (49.1 \u00d7 65.1 cm)",
+            "Publisher": "Frank Kicherer, Stuttgart, Uwe Lohrer, Stuttgart, Dieter Roth Pictures, Zug",
+            "Printer": "Eberhard Schreiber, Stuttgart",
+            "Edition": "70",
+            "Credit": "Linda Barth Goldstein Fund and Anna Marie and Robert F. Shapiro Fund",
+            "Object number": "48.2004.7",
+            "Copyright": "\u00a9 2023 Estate of Dieter Roth",
+            "Portfolio": "Surtsey",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5042"
+    },
+    {
+        "Artist": "Dieter Roth",
+        "Title": "Untitled from Surtsey",
+        "Year": "1973-74, published 1974",
+        "ObjectID": "91906",
+        "Work": "https://www.moma.org/collection/works/91906",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwNjM2OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=87fc8604b6602307",
+        "Details": {
+            "Medium": "One from a portfolio of eighteen collotypes",
+            "Dimensions": "composition (irreg.): 18 1/4 \u00d7 21 7/16\" (46.4 \u00d7 54.5 cm); sheet: 19 5/16 \u00d7 27 5/16\" (49.1 \u00d7 69.3 cm)",
+            "Publisher": "Frank Kicherer, Stuttgart, Uwe Lohrer, Stuttgart, Dieter Roth Pictures, Zug",
+            "Printer": "Eberhard Schreiber, Stuttgart",
+            "Edition": "70",
+            "Credit": "Linda Barth Goldstein Fund and Anna Marie and Robert F. Shapiro Fund",
+            "Object number": "48.2004.8",
+            "Copyright": "\u00a9 2023 Estate of Dieter Roth",
+            "Portfolio": "Surtsey",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5042"
+    },
+    {
+        "Artist": "Dieter Roth",
+        "Title": "Untitled from Surtsey",
+        "Year": "1973-74, published 1974",
+        "ObjectID": "91907",
+        "Work": "https://www.moma.org/collection/works/91907",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwNjM2OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4f53df7a9e445725",
+        "Details": {
+            "Medium": "One from a portfolio of eighteen collotypes",
+            "Dimensions": "composition (irreg.): 17 15/16 \u00d7 21 7/16\" (45.6 \u00d7 54.5 cm); sheet: 19 5/16 \u00d7 27 1/8\" (49.1 \u00d7 68.9 cm)",
+            "Publisher": "Frank Kicherer, Stuttgart, Uwe Lohrer, Stuttgart, Dieter Roth Pictures, Zug",
+            "Printer": "Eberhard Schreiber, Stuttgart",
+            "Edition": "70",
+            "Credit": "Linda Barth Goldstein Fund and Anna Marie and Robert F. Shapiro Fund",
+            "Object number": "48.2004.9",
+            "Copyright": "\u00a9 2023 Estate of Dieter Roth",
+            "Portfolio": "Surtsey",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5042"
+    },
+    {
+        "Artist": "Dieter Roth",
+        "Title": "Untitled from Surtsey",
+        "Year": "1973-74, published 1974",
+        "ObjectID": "91908",
+        "Work": "https://www.moma.org/collection/works/91908",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwNjM1NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=223728a94cff5d34",
+        "Details": {
+            "Medium": "One from a portfolio of eighteen collotypes",
+            "Dimensions": "composition (irreg.): 17 11/16 \u00d7 22 1/4\" (45 \u00d7 56.5 cm); sheet: 19 5/16 \u00d7 27 1/8\" (49.1 \u00d7 68.9 cm)",
+            "Publisher": "Frank Kicherer, Stuttgart, Uwe Lohrer, Stuttgart, Dieter Roth Pictures, Zug",
+            "Printer": "Eberhard Schreiber, Stuttgart",
+            "Edition": "70",
+            "Credit": "Linda Barth Goldstein Fund and Anna Marie and Robert F. Shapiro Fund",
+            "Object number": "48.2004.10",
+            "Copyright": "\u00a9 2023 Estate of Dieter Roth",
+            "Portfolio": "Surtsey",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5042"
+    },
+    {
+        "Artist": "Dieter Roth",
+        "Title": "Untitled from Surtsey",
+        "Year": "1973-74, published 1974",
+        "ObjectID": "91909",
+        "Work": "https://www.moma.org/collection/works/91909",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwNTIwNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=86679bb9f151b3e4",
+        "Details": {
+            "Medium": "One from a portfolio of eighteen collotypes",
+            "Dimensions": "composition (irreg.): 17 15/16 \u00d7 22 1/4\" (45.5 \u00d7 56.5 cm); sheet: 19 5/16 \u00d7 27 1/8\" (49.1 \u00d7 68.9 cm)",
+            "Publisher": "Frank Kicherer, Stuttgart, Uwe Lohrer, Stuttgart, Dieter Roth Pictures, Zug",
+            "Printer": "Eberhard Schreiber, Stuttgart",
+            "Edition": "70",
+            "Credit": "Linda Barth Goldstein Fund and Anna Marie and Robert F. Shapiro Fund",
+            "Object number": "48.2004.11",
+            "Copyright": "\u00a9 2023 Estate of Dieter Roth",
+            "Portfolio": "Surtsey",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5042"
+    },
+    {
+        "Artist": "Dieter Roth",
+        "Title": "Untitled from Surtsey",
+        "Year": "1973-74, published 1974",
+        "ObjectID": "91910",
+        "Work": "https://www.moma.org/collection/works/91910",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwNjM1NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9f84251bea1c2fdb",
+        "Details": {
+            "Medium": "One from a portfolio of eighteen collotypes",
+            "Dimensions": "composition: 16 1/4 \u00d7 19 7/8\" (41.2 \u00d7 50.5 cm); sheet: 19 3/8 \u00d7 25 5/8\" (49.2 \u00d7 65.1 cm)",
+            "Publisher": "Frank Kicherer, Stuttgart, Uwe Lohrer, Stuttgart, Dieter Roth Pictures, Zug",
+            "Printer": "Eberhard Schreiber, Stuttgart",
+            "Edition": "70",
+            "Credit": "Linda Barth Goldstein Fund and Anna Marie and Robert F. Shapiro Fund",
+            "Object number": "48.2004.12",
+            "Copyright": "\u00a9 2023 Estate of Dieter Roth",
+            "Portfolio": "Surtsey",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5042"
+    },
+    {
+        "Artist": "Dieter Roth",
+        "Title": "Untitled from Surtsey",
+        "Year": "1973-74, published 1974",
+        "ObjectID": "91911",
+        "Work": "https://www.moma.org/collection/works/91911",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwNjM1NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=99aac4342c5805ae",
+        "Details": {
+            "Medium": "One from a portfolio of eighteen collotypes",
+            "Dimensions": "composition: 16 1/8 \u00d7 19 3/4\" (41 \u00d7 50.2 cm); sheet: 19 5/16 \u00d7 25 7/16\" (49 \u00d7 64.6 cm)",
+            "Publisher": "Frank Kicherer, Stuttgart, Uwe Lohrer, Stuttgart, Dieter Roth Pictures, Zug",
+            "Printer": "Eberhard Schreiber, Stuttgart",
+            "Edition": "70",
+            "Credit": "Linda Barth Goldstein Fund and Anna Marie and Robert F. Shapiro Fund",
+            "Object number": "48.2004.13",
+            "Copyright": "\u00a9 2023 Estate of Dieter Roth",
+            "Portfolio": "Surtsey",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5042"
+    },
+    {
+        "Artist": "Dieter Roth",
+        "Title": "Untitled from Surtsey",
+        "Year": "1973-74, published 1974",
+        "ObjectID": "91912",
+        "Work": "https://www.moma.org/collection/works/91912",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwNjM1NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fef2a121e1f8ef7a",
+        "Details": {
+            "Medium": "One from a portfolio of eighteen collotypes",
+            "Dimensions": "composition (irreg.): 18 1/8 \u00d7 22 5/8\" (46.1 \u00d7 57.4 cm); sheet: 19 3/8 \u00d7 27 1/16\" (49.2 \u00d7 68.8 cm)",
+            "Publisher": "Frank Kicherer, Stuttgart, Uwe Lohrer, Stuttgart, Dieter Roth Pictures, Zug",
+            "Printer": "Eberhard Schreiber, Stuttgart",
+            "Edition": "70",
+            "Credit": "Linda Barth Goldstein Fund and Anna Marie and Robert F. Shapiro Fund",
+            "Object number": "48.2004.14",
+            "Copyright": "\u00a9 2023 Estate of Dieter Roth",
+            "Portfolio": "Surtsey",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5042"
+    },
+    {
+        "Artist": "Dieter Roth",
+        "Title": "Untitled from Surtsey",
+        "Year": "1973-74, published 1974",
+        "ObjectID": "91913",
+        "Work": "https://www.moma.org/collection/works/91913",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwNjM1OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d35ce379eed1f93d",
+        "Details": {
+            "Medium": "One from a portfolio of eighteen collotypes",
+            "Dimensions": "composition (irreg.): 18 3/8 \u00d7 22 3/8\" (46.6 \u00d7 56.8 cm); sheet: 19 5/16 \u00d7 27 1/8\" (49.1 \u00d7 68.9 cm)",
+            "Publisher": "Frank Kicherer, Stuttgart, Uwe Lohrer, Stuttgart, Dieter Roth Pictures, Zug",
+            "Printer": "Eberhard Schreiber, Stuttgart",
+            "Edition": "70",
+            "Credit": "Linda Barth Goldstein Fund and Anna Marie and Robert F. Shapiro Fund",
+            "Object number": "48.2004.15",
+            "Copyright": "\u00a9 2023 Estate of Dieter Roth",
+            "Portfolio": "Surtsey",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5042"
+    },
+    {
+        "Artist": "Dieter Roth",
+        "Title": "Untitled from Surtsey",
+        "Year": "1973-74, published 1974",
+        "ObjectID": "91914",
+        "Work": "https://www.moma.org/collection/works/91914",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwNjM1OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3d2ff547c44ffe7e",
+        "Details": {
+            "Medium": "One from a portfolio of eighteen collotypes",
+            "Dimensions": "composition (irreg.): 17 15/16 \u00d7 23 7/16\" (45.5 \u00d7 59.6 cm); sheet: 19 5/16 \u00d7 27 3/16\" (49.1 \u00d7 69.1 cm)",
+            "Publisher": "Frank Kicherer, Stuttgart, Uwe Lohrer, Stuttgart, Dieter Roth Pictures, Zug",
+            "Printer": "Eberhard Schreiber, Stuttgart",
+            "Edition": "70",
+            "Credit": "Linda Barth Goldstein Fund and Anna Marie and Robert F. Shapiro Fund",
+            "Object number": "48.2004.16",
+            "Copyright": "\u00a9 2023 Estate of Dieter Roth",
+            "Portfolio": "Surtsey",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5042"
+    },
+    {
+        "Artist": "Dieter Roth",
+        "Title": "Untitled from Surtsey",
+        "Year": "1973-74, published 1974",
+        "ObjectID": "91915",
+        "Work": "https://www.moma.org/collection/works/91915",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwNjM2MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4cc927c8a4d6958e",
+        "Details": {
+            "Medium": "One from a portfolio of eighteen collotypes",
+            "Dimensions": "composition (irreg.): 18 1/8 \u00d7 21 3/4\" (46 \u00d7 55.3 cm); sheet: 19 5/16 \u00d7 27 1/8\" (49 \u00d7 68.9 cm)",
+            "Publisher": "Frank Kicherer, Stuttgart, Uwe Lohrer, Stuttgart, Dieter Roth Pictures, Zug",
+            "Printer": "Eberhard Schreiber, Stuttgart",
+            "Edition": "70",
+            "Credit": "Linda Barth Goldstein Fund and Anna Marie and Robert F. Shapiro Fund",
+            "Object number": "48.2004.17",
+            "Copyright": "\u00a9 2023 Estate of Dieter Roth",
+            "Portfolio": "Surtsey",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5042"
+    },
+    {
+        "Artist": "Dieter Roth",
+        "Title": "Untitled from Surtsey",
+        "Year": "1973-74, published 1974",
+        "ObjectID": "91916",
+        "Work": "https://www.moma.org/collection/works/91916",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwNjM2MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fb11ca9d7cca68a9",
+        "Details": {
+            "Medium": "One from a portfolio of eighteen collotypes",
+            "Dimensions": "composition (irreg.): 18 5/16 \u00d7 24 1/8\" (46.5 \u00d7 61.2 cm); sheet: 19 5/16 \u00d7 25 9/16\" (49 \u00d7 65 cm)",
+            "Publisher": "Frank Kicherer, Stuttgart, Uwe Lohrer, Stuttgart, Dieter Roth Pictures, Zug",
+            "Printer": "Eberhard Schreiber, Stuttgart",
+            "Edition": "70",
+            "Credit": "Linda Barth Goldstein Fund and Anna Marie and Robert F. Shapiro Fund",
+            "Object number": "48.2004.18",
+            "Copyright": "\u00a9 2023 Estate of Dieter Roth",
+            "Portfolio": "Surtsey",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5042"
+    },
+    {
+        "Artist": "Dieter Roth",
+        "Title": "Untitled from 22 Doubleheads",
+        "Year": "1974",
+        "ObjectID": "98989",
+        "Work": "https://www.moma.org/collection/works/98989",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MjY0MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2a52fccf31d826f9",
+        "Details": {
+            "Medium": "One from a portfolio of twenty-two etching and drypoints",
+            "Dimensions": "plate: 7 3/8 x 5\" (18.8 x 12.7 cm); sheet: 20 7/8 x 15 3/8\" (53 x 39.1 cm)",
+            "Publisher": "Dieter Roth Pictures, Zug, Germany",
+            "Printer": "Karl Schulz, Braunschweig, Germany",
+            "Edition": "23",
+            "Credit": "Alexandra Herzan Fund and Virgina Cowles Schroth Fund",
+            "Object number": "49.2004.1",
+            "Copyright": "\u00a9 2023 Estate of Dieter Roth",
+            "Portfolio": "22 Doubleheads",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5042"
+    },
+    {
+        "Artist": "Dieter Roth",
+        "Title": "Untitled from 22 Doubleheads",
+        "Year": "1974",
+        "ObjectID": "98990",
+        "Work": "https://www.moma.org/collection/works/98990",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MjY1MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=659b189d38583bf2",
+        "Details": {
+            "Medium": "One from a portfolio of twenty-two etching and drypoints",
+            "Dimensions": "plate: 5 1/4 x 7 1/4\" (13.3 x 18.4 cm); sheet: 20 15/16 x 15 3/8\" (53.2 x 39 cm)",
+            "Publisher": "Dieter Roth Pictures, Zug, Germany",
+            "Printer": "Karl Schulz, Braunschweig, Germany",
+            "Edition": "23",
+            "Credit": "Alexandra Herzan Fund and Virgina Cowles Schroth Fund",
+            "Object number": "49.2004.2",
+            "Copyright": "\u00a9 2023 Estate of Dieter Roth",
+            "Portfolio": "22 Doubleheads",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5042"
+    },
+    {
+        "Artist": "Dieter Roth",
+        "Title": "Untitled from 22 Doubleheads",
+        "Year": "1974",
+        "ObjectID": "98991",
+        "Work": "https://www.moma.org/collection/works/98991",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MDM2NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f362a6fddea8428c",
+        "Details": {
+            "Medium": "One from a portfolio of twenty-two etching and drypoints",
+            "Dimensions": "plate: 7 3/16 x 6 5/8\" (18.3 x 16.9 cm); sheet: 20 7/8 x 15 3/8\" (53 x 39 cm)",
+            "Publisher": "Dieter Roth Pictures, Zug, Germany",
+            "Printer": "Karl Schulz, Braunschweig ,Germany",
+            "Edition": "23",
+            "Credit": "Alexandra Herzan Fund and Virgina Cowles Schroth Fund",
+            "Object number": "49.2004.3",
+            "Copyright": "\u00a9 2023 Estate of Dieter Roth",
+            "Portfolio": "22 Doubleheads",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5042"
+    },
+    {
+        "Artist": "Dieter Roth",
+        "Title": "Untitled from 22 Doubleheads",
+        "Year": "1974",
+        "ObjectID": "98992",
+        "Work": "https://www.moma.org/collection/works/98992",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MjY1NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e9054f3c6864e8bc",
+        "Details": {
+            "Medium": "One from a portfolio of twenty-two etching and drypoints",
+            "Dimensions": "plate: 6 1/8 x 6 1/2\" (15.6 x 16.5 cm); sheet: 20 3/4 x 15 3/8\" (52.7 x 39 cm)",
+            "Publisher": "Dieter Roth Pictures, Zug, Germany",
+            "Printer": "Karl Schulz, Braunschweig, Germany",
+            "Edition": "23",
+            "Credit": "Alexandra Herzan Fund and Virgina Cowles Schroth Fund",
+            "Object number": "49.2004.4",
+            "Copyright": "\u00a9 2023 Estate of Dieter Roth",
+            "Portfolio": "22 Doubleheads",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5042"
+    },
+    {
+        "Artist": "Dieter Roth",
+        "Title": "Untitled from 22 Doubleheads",
+        "Year": "1974",
+        "ObjectID": "98993",
+        "Work": "https://www.moma.org/collection/works/98993",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MjY1OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8303d68566c52800",
+        "Details": {
+            "Medium": "One from a portfolio of twenty-two etching and drypoints",
+            "Dimensions": "plate: 7 3/8 x 9 1/2\" (18.7 x 24.2 cm); sheet: 20 7/8 x 15 3/8\" (53 x 39 cm)",
+            "Publisher": "Dieter Roth Pictures, Zug, Germany",
+            "Printer": "Karl Schulz, Braunschweig, Germany",
+            "Edition": "23",
+            "Credit": "Alexandra Herzan Fund and Virgina Cowles Schroth Fund",
+            "Object number": "49.2004.5",
+            "Copyright": "\u00a9 2023 Estate of Dieter Roth",
+            "Portfolio": "22 Doubleheads",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5042"
+    },
+    {
+        "Artist": "Dieter Roth",
+        "Title": "Untitled from 22 Doubleheads",
+        "Year": "1974",
+        "ObjectID": "98994",
+        "Work": "https://www.moma.org/collection/works/98994",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MDM2NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3a2a8945362e8efb",
+        "Details": {
+            "Medium": "One from a portfolio of twenty-two etching and drypoints",
+            "Dimensions": "plate: 7 1/16 x 7 5/16\" (18 x 18.6 cm); sheet: 20 7/8 x 15 1/2\" (53.1 x 39.3 cm)",
+            "Publisher": "Dieter Roth Pictures, Zug, Germany",
+            "Printer": "Karl Schulz, Braunschweig, Germany",
+            "Edition": "23",
+            "Credit": "Alexandra Herzan Fund and Virgina Cowles Schroth Fund",
+            "Object number": "49.2004.6",
+            "Copyright": "\u00a9 2023 Estate of Dieter Roth",
+            "Portfolio": "22 Doubleheads",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5042"
+    },
+    {
+        "Artist": "Dieter Roth",
+        "Title": "Untitled from 22 Doubleheads",
+        "Year": "1974",
+        "ObjectID": "98995",
+        "Work": "https://www.moma.org/collection/works/98995",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MDM2NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=04643babc14a201d",
+        "Details": {
+            "Medium": "One from a portfolio of twenty-two etching and drypoints",
+            "Dimensions": "plate: 7 7/8 x 6 13/16\" (20 x 17.3 cm); sheet: 20 13/16 x 15 3/8\" (52.8 x 39.1 cm)",
+            "Publisher": "Dieter Roth Pictures, Zug, Germany",
+            "Printer": "Karl Schulz, Braunschweig, Germany",
+            "Edition": "23",
+            "Credit": "Alexandra Herzan Fund and Virgina Cowles Schroth Fund",
+            "Object number": "49.2004.7",
+            "Copyright": "\u00a9 2023 Estate of Dieter Roth",
+            "Portfolio": "22 Doubleheads",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5042"
+    },
+    {
+        "Artist": "Dieter Roth",
+        "Title": "Untitled from 22 Doubleheads",
+        "Year": "1974",
+        "ObjectID": "98996",
+        "Work": "https://www.moma.org/collection/works/98996",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MDM2OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1d1ea3175983df15",
+        "Details": {
+            "Medium": "One from a portfolio of twenty-two etching and drypoints",
+            "Dimensions": "plate: 6 5/16 x 6 1/8\" (16 x 15.6 cm); sheet: 20 7/8 x 15 1/4\" (53.1 x 38.8 cm)",
+            "Publisher": "Dieter Roth Pictures, Zug, Germany",
+            "Printer": "Karl Schulz, Braunschweig, Germany",
+            "Edition": "23",
+            "Credit": "Alexandra Herzan Fund and Virgina Cowles Schroth Fund",
+            "Object number": "49.2004.8",
+            "Copyright": "\u00a9 2023 Estate of Dieter Roth",
+            "Portfolio": "22 Doubleheads",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5042"
     }
 ]

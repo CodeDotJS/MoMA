@@ -1,770 +1,825 @@
 [
     {
-        "Artist": "SITE, James Wines",
-        "Title": "Ghost Parking Lot, National Shopping Centers Parking Lot, Hamden, CT (Hamden, Connecticut)",
-        "Year": "1977",
-        "ObjectID": "407321",
-        "Work": "https://www.moma.org/collection/works/407321",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMzM3MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b9c656750cbcf0cd",
+        "Artist": "Howard Hodgkin",
+        "Title": "Red Bermudas",
+        "Year": "1978-80",
+        "ObjectID": "79662",
+        "Work": "https://www.moma.org/collection/works/79662",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4MzU1MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=01c9083cd62c683f",
         "Details": {
-            "Medium": "Wood, plaster, paint, and toy cars",
-            "Dimensions": "7 1/4 \u00d7 23 1/2 \u00d7 33 1/2\" (18.4 \u00d7 59.7 \u00d7 85.1 cm)",
+            "Medium": "Oil on wood",
+            "Dimensions": "27 3/4 x 27 3/4\" (70.5 x 70.5 cm)",
+            "Credit": "Gift of Mr. and Mrs. Gerrit Lansing",
+            "Object number": "420.1981",
+            "Copyright": "\u00a9 2023 Howard Hodgkin",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/2679"
+    },
+    {
+        "Artist": "Arlene Hoffman",
+        "Title": "Jamaica",
+        "Year": "1980",
+        "ObjectID": "7902",
+        "Work": "https://www.moma.org/collection/works/7902",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMDk1MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0f1ebe3814e162d3",
+        "Details": {
+            "Medium": "Offset lithograph",
+            "Dimensions": "40 x 27\" (101.7 x 68.7 cm)",
+            "Printer": "S.D. Scott Printing Co., Inc., New York",
+            "Credit": "Gift of Hoffman Mann, Inc.",
+            "Object number": "675.1980",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/2688"
+    },
+    {
+        "Artist": "Tom Holland",
+        "Title": "Dome Series No. 25",
+        "Year": "1980",
+        "ObjectID": "36913",
+        "Work": "https://www.moma.org/collection/works/36913",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5OTU4NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f3aaea54f616de61",
+        "Details": {
+            "Medium": "Synthetic polymer paint on paper",
+            "Dimensions": "35 x 46 x 1 3/4\" (89 x 116.9 x 4.4 cm)",
+            "Credit": "Purchase",
+            "Object number": "440.1982",
+            "Copyright": "\u00a9 2023 Thomas Holland",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/2703"
+    },
+    {
+        "Artist": "Gordon Holler",
+        "Title": "Figure Series 52, Approaching Figure",
+        "Year": "(1980)",
+        "ObjectID": "71635",
+        "Work": "https://www.moma.org/collection/works/71635",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Screenprint, printed on two sheets with crayon and pastel additions",
+            "Dimensions": "composition  30 x 22 7/16\" (76.2 x 57 cm); sheet  30 x 22 7/16\" (76 x 57 cm)",
+            "Printer": "Gordon Holler",
+            "Edition": "Unique impression",
+            "Credit": "John B. Turner Fund",
+            "Object number": "595.1980",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/2707"
+    },
+    {
+        "Artist": "Pieter Holstein",
+        "Title": "Number 220",
+        "Year": "1979-80",
+        "ObjectID": "71657",
+        "Work": "https://www.moma.org/collection/works/71657",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMTQ3MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f03f4337d2d30ce1",
+        "Details": {
+            "Medium": "Etching and aquatint",
+            "Dimensions": "plate: 9 3/16 x 14 3/8\" (23.3 x 36.5 cm); sheet: 19 7/8 x 25 13/16\" (50.5 x 65.6 cm)",
+            "Credit": "Purchase",
+            "Object number": "597.1980",
+            "Copyright": "\u00a9 2023 Pieter Holstein / Artists Rights Society (ARS), New York / PICTORIGHT, Amsterdam",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/2712"
+    },
+    {
+        "Artist": "Jenny Holzer",
+        "Title": "Abuse of Power Comes As No Surprise from the series Truisms T-shirts",
+        "Year": "(1980-)",
+        "ObjectID": "73847",
+        "Work": "https://www.moma.org/collection/works/73847",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Multiple of screenprint on T-shirt",
+            "Publisher": "Jenny Holzer, New York",
+            "Printer": "Artisan Silkscreen, New York",
+            "Edition": "unlimited",
+            "Credit": "Gift of the artist",
+            "Object number": "SC758.1995",
+            "Copyright": "\u00a9 2023 Jenny Holzer / Artists Rights Society (ARS), New York",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/2714"
+    },
+    {
+        "Artist": "Jenny Holzer",
+        "Title": "Raise Boys and Girls the Same Way from the series Truisms T-Shirts",
+        "Year": "(1980-)",
+        "ObjectID": "73985",
+        "Work": "https://www.moma.org/collection/works/73985",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Multiple of screenprint on T-shirt",
+            "Publisher": "Jenny Holzer, New York",
+            "Printer": "Artisan Silkscreen, New York",
+            "Edition": "unlimited",
+            "Credit": "Gift of the artist",
+            "Object number": "SC772.1995",
+            "Copyright": "\u00a9 2023 Jenny Holzer / Artists Rights Society (ARS), New York",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/2714"
+    },
+    {
+        "Artist": "Peter Hujar",
+        "Title": "Pascal (Paris)",
+        "Year": "1980",
+        "ObjectID": "51347",
+        "Work": "https://www.moma.org/collection/works/51347",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MjE4MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d31fd2f94c782fb7",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "14 5/8 \u00d7 14 11/16\" (37.1 \u00d7 37.3 cm)",
+            "Credit": "Gift of David Wojnarowicz",
+            "Object number": "344.1992",
+            "Copyright": "\u00a9 2023 Peter Hujar Archive",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/7159"
+    },
+    {
+        "Artist": "Bryan Hunt",
+        "Title": "Black Falls XXX",
+        "Year": "1980",
+        "ObjectID": "105034",
+        "Work": "https://www.moma.org/collection/works/105034",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzOTAxMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=25862d94f4dc8dbe",
+        "Details": {
+            "Medium": "Graphite and linseed with colored pencil on paper",
+            "Dimensions": "81 x 23 5/8\" (205.7 x 60 cm) (sight)",
+            "Credit": "Gift of the artist in honor Edward R. Broida",
+            "Object number": "588.2006",
+            "Copyright": "\u00a9 2023 Bryan Hunt / Artists Rights Society (ARS), New York",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/2767"
+    },
+    {
+        "Artist": "Alice Hutchins",
+        "Title": "Flux Moon",
+        "Year": "1968/1980",
+        "ObjectID": "132031",
+        "Work": "https://www.moma.org/collection/works/132031",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQwMDIyNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f653740b04d7ef31",
+        "Details": {
+            "Medium": "Metal base with magnets and plexiglass globe",
+            "Dimensions": "overall: 11 1/8 x 6 1/4 x 4 15/16\" (28.2 x 15.8 x 12.5 cm)",
+            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
+            "Object number": "3700.2008",
+            "Copyright": "\u00a9 2023 Alice Hutchins. Courtesy of the Artist's Estate.",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/37002"
+    },
+    {
+        "Artist": "Alice Hutchins",
+        "Title": "Jewelry Fluxkit",
+        "Year": "1980",
+        "ObjectID": "132099",
+        "Work": "https://www.moma.org/collection/works/132099",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0Mjk1MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7c71ae0e5ff0f499",
+        "Details": {
+            "Medium": "Plastic box with offset label containing magnet, springs, and bells",
+            "Dimensions": "overall (closed): 2 15/16 x 2 5/8 x 2\" (7.5 x 6.7 x 5.1 cm)",
+            "Publisher": "ReFlux Editions",
+            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
+            "Object number": "3284.2008.a-q",
+            "Copyright": "\u00a9 2023 Alice Hutchins. Courtesy of the Artist's Estate.",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/37002"
+    },
+    {
+        "Artist": "Takenobu Igarashi",
+        "Title": "12th Summer Jazz Festival",
+        "Year": "1980",
+        "ObjectID": "190198",
+        "Work": "https://www.moma.org/collection/works/190198",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzMTg3NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=aa3b87b69548a5ff",
+        "Details": {
+            "Medium": "Silkscreen",
+            "Dimensions": "28 3/4 \u00d7 20 1/4\" (73 \u00d7 51.4 cm)",
+            "Credit": "Anonymous gift",
+            "Object number": "818.2015",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/2797"
+    },
+    {
+        "Artist": "Mirko Ilic",
+        "Title": "Marks i Frojd za pocetnike (Marx and Freud for Beginners) (Poster for the book)",
+        "Year": "1980",
+        "ObjectID": "192404",
+        "Work": "https://www.moma.org/collection/works/192404",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyOTYzNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=be5b0344c20b7763",
+        "Details": {
+            "Medium": "Silkscreen",
+            "Dimensions": "27 1/2 x 39\" (69.9 x 99.1 cm)",
+            "Credit": "Gift of Kre\u0161imir Penavi\u0107",
+            "Object number": "832.2015",
+            "Copyright": "\u00a9 2023 Mirko Ili\u0107",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/47983"
+    },
+    {
+        "Artist": "Mirko Ilic",
+        "Title": "Nove patnje mladog W. (The New Sufferings of Young Werther) (Poster for the Zagreb Student Theater production of the play by Ulrich Plenzdorf)",
+        "Year": "1980",
+        "ObjectID": "192405",
+        "Work": "https://www.moma.org/collection/works/192405",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMTA0OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=679c15651922cbca",
+        "Details": {
+            "Medium": "Silkscreen",
+            "Dimensions": "38 3/4 x 27\" (98.4 x 68.6 cm)",
+            "Credit": "Gift of Kre\u0161imir Penavi\u0107",
+            "Object number": "833.2015",
+            "Copyright": "\u00a9 2023 Mirko Ili\u0107",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/47983"
+    },
+    {
+        "Artist": "Mirko Ilic, Marko Colic",
+        "Title": "Cover for Prljavo kazaliste (Dirty theater) single \u2018Crno-bijeli svijet\u2019 (\u2019Black and White World\u2019)",
+        "Year": "1980",
+        "ObjectID": "192415",
+        "Work": "https://www.moma.org/collection/works/192415",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "7 1/8 x 7 1/8\" (18.1 x 18.1 cm)",
+            "Credit": "Gift of Kre\u0161imir Penavi\u0107",
+            "Object number": "830.2015",
+            "Copyright": "\u00a9 2023 Mirko Ili\u0107",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/47983"
+    },
+    {
+        "Artist": "Mirko Ilic, Drazen Kalenic",
+        "Title": "Album cover for Various Artists, Novi Val (New Wave)",
+        "Year": "1980",
+        "ObjectID": "193610",
+        "Work": "https://www.moma.org/collection/works/193610",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "12 1/4 \u00d7 12 3/8\" (31.1 \u00d7 31.4 cm)",
+            "Credit": "Gift of Kre\u0161imir Penavi\u0107",
+            "Object number": "829.2015",
+            "Copyright": "\u00a9 2023 Mirko Ili\u0107",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/47983"
+    },
+    {
+        "Artist": "Mirko Ilic, Zeljko Stojanovic",
+        "Title": "Vrucica (Fever), Poster for a Zagreb Student Theater Club production of the play by  Anton Pashku",
+        "Year": "1980",
+        "ObjectID": "192406",
+        "Work": "https://www.moma.org/collection/works/192406",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMTA1MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6aab406d9f784d42",
+        "Details": {
+            "Medium": "Silkscreen",
+            "Dimensions": "26 3/8 x 37 7/8\" (67 x 96.2 cm)",
+            "Publisher": "Theater &TD, Zagreb, Croatia",
+            "Credit": "Gift of Kre\u0161imir Penavi\u0107",
+            "Object number": "834.2015",
+            "Copyright": "\u00a9 2023 Mirko Ili\u0107",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/47983"
+    },
+    {
+        "Artist": "Mirko Ilic, Zeljko Stojanovic",
+        "Title": "Album cover for Bijelo dugme, Dozivjeti stotu (Live To Be a 100)",
+        "Year": "1980",
+        "ObjectID": "194742",
+        "Work": "https://www.moma.org/collection/works/194742",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "12 1/4 x 12 1/4\" (31.1 x 31.1 cm)",
+            "Credit": "Gift of Kre\u0161imir Penavi\u0107",
+            "Object number": "828.2015.1",
+            "Copyright": "\u00a9 2023 Mirko Ili\u0107",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/47983"
+    },
+    {
+        "Artist": "Mirko Ilic, Zeljko Stojanovic",
+        "Title": "Album cover for Bijelo dugme, Dozivjeti stotu (Live To Be a 100)",
+        "Year": "1980",
+        "ObjectID": "194743",
+        "Work": "https://www.moma.org/collection/works/194743",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "12 1/4 x 12 1/4\" (31.1 x 31.1 cm)",
+            "Credit": "Gift of Kre\u0161imir Penavi\u0107",
+            "Object number": "828.2015.2",
+            "Copyright": "\u00a9 2023 Mirko Ili\u0107",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/47983"
+    },
+    {
+        "Artist": "Mirko Ilic, Zeljko Stojanovic",
+        "Title": "Album cover for Bijelo dugme, Dozivjeti stotu (Live To Be a 100)",
+        "Year": "1980",
+        "ObjectID": "194744",
+        "Work": "https://www.moma.org/collection/works/194744",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "12 1/4 x 12 1/4\" (31.1 x 31.1 cm)",
+            "Credit": "Gift of Kre\u0161imir Penavi\u0107",
+            "Object number": "828.2015.3",
+            "Copyright": "\u00a9 2023 Mirko Ili\u0107",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/47983"
+    },
+    {
+        "Artist": "Mirko Ilic, Slobodan Tadic",
+        "Title": "KUD (Cultural-Artistic Society) Veljko Vlahovic",
+        "Year": "1980",
+        "ObjectID": "192392",
+        "Work": "https://www.moma.org/collection/works/192392",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMTA0NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=80ff45bf91c83008",
+        "Details": {
+            "Medium": "Silkscreen",
+            "Dimensions": "27 x 37 5/8\" (68.6 x 95.6 cm)",
+            "Credit": "Gift of Kre\u0161imir Penavi\u0107",
+            "Object number": "831.2015",
+            "Copyright": "\u00a9 2023 Mirko Ili\u0107",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/47983"
+    },
+    {
+        "Artist": "Birney Imes III",
+        "Title": "Prairie Chapel Baptism, Lowndes County, Mississippi",
+        "Year": "1980",
+        "ObjectID": "44129",
+        "Work": "https://www.moma.org/collection/works/44129",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMzk1MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8217c59fb5dd55eb",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "9 7/16 \u00d7 9 7/16\" (24 \u00d7 24 cm)",
+            "Credit": "Acquired through the generosity of Pierre N. Leval",
+            "Object number": "24.1984",
+            "Copyright": "\u00a9 2023 Birney Imes III",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/2806"
+    },
+    {
+        "Artist": "Jorg Immendorff",
+        "Title": "Cafe Deutschland (Style War)",
+        "Year": "1980",
+        "ObjectID": "80069",
+        "Work": "https://www.moma.org/collection/works/80069",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MTEzNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e925e1eaa817f17a",
+        "Details": {
+            "Medium": "Acrylic on canvas",
+            "Dimensions": "9' 2 1/4\" x 11' 6\" (280 x 350.7 cm)",
+            "Credit": "Gift of Emily and Jerry Spiegel",
+            "Object number": "608.1994",
+            "Copyright": "\u00a9 2023 J\u00f6rg Immendorff",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/2807"
+    },
+    {
+        "Artist": "Heinz Isler",
+        "Title": "Model for a concrete shell",
+        "Year": "c.1975",
+        "ObjectID": "436170",
+        "Work": "https://www.moma.org/collection/works/436170",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Fiberglass",
+            "Dimensions": "2 \u00d7 15 1/8 \u00d7 9 3/4\" (5.1 \u00d7 38.4 \u00d7 24.8 cm)",
+            "Credit": "Gift of Rob Beyer",
+            "Object number": "736.2022",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/134989"
+    },
+    {
+        "Artist": "Heinz Isler",
+        "Title": "Model for a concrete shell",
+        "Year": "1960-1980",
+        "ObjectID": "436171",
+        "Work": "https://www.moma.org/collection/works/436171",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Fiberglass",
+            "Dimensions": "7 5/8 \u00d7 10 3/4 \u00d7 10 3/4\" (19.4 \u00d7 27.3 \u00d7 27.3 cm)",
+            "Credit": "Gift of Rob Beyer",
+            "Object number": "737.2022",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/134989"
+    },
+    {
+        "Artist": "Heinz Isler",
+        "Title": "Model for a concrete shell",
+        "Year": "1960-1980",
+        "ObjectID": "436172",
+        "Work": "https://www.moma.org/collection/works/436172",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Fiberglass",
+            "Dimensions": "3 1/8 \u00d7 8 1/4 \u00d7 6 1/2\" (8 \u00d7 21 \u00d7 16.5 cm)",
+            "Credit": "Gift of Rob Beyer",
+            "Object number": "738.2022",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/134989"
+    },
+    {
+        "Artist": "Arata Isozaki",
+        "Title": "\"AIKO MIYAWAKI/1960-1980\"",
+        "Year": "1980",
+        "ObjectID": "5910",
+        "Work": "https://www.moma.org/collection/works/5910",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMDkxOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=aeca4e9ec791ed21",
+        "Details": {
+            "Medium": "Silkscreen on silver paper",
+            "Dimensions": "34 7/16 x 24 3/8\"  (87.5 x 62 cm)",
+            "Credit": "Gift of the designer",
+            "Object number": "261.1981",
+            "Copyright": "\u00a9 2023 Arata Isozaki",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/2837"
+    },
+    {
+        "Artist": "Toru Iwatani",
+        "Title": "Pac-Man",
+        "Year": "1980",
+        "ObjectID": "164917",
+        "Work": "https://www.moma.org/collection/works/164917",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NTc5MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=eed5585c1821282a",
+        "Details": {
+            "Medium": "Video game software",
+            "Publisher": "NAMCO LTD. (currently BANDAI NAMCO Entertainment Inc.)",
+            "Credit": "Gift of BANDAI NAMCO Entertainment Inc.",
+            "Object number": "1745.2012",
+            "Copyright": "PAC-MAN TM & \u00a9 1980 BANDAI NAMCO Entertainment Inc.",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/42596"
+    },
+    {
+        "Artist": "Yvonne Jacquette",
+        "Title": "Verrazano Composite I",
+        "Year": "1980",
+        "ObjectID": "33660",
+        "Work": "https://www.moma.org/collection/works/33660",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwODE1MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4754c833cf0b9ac2",
+        "Details": {
+            "Medium": "Crayon and pencil on board",
+            "Dimensions": "64 x 47 3/4\" (162.5 x 121.4 cm)",
+            "Credit": "Gift of Donald B. Marron",
+            "Object number": "75.1981",
+            "Copyright": "\u00a9 2023 Yvonne Jacquette",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/2875"
+    },
+    {
+        "Artist": "Yvonne Jacquette",
+        "Title": "Diptych: Two Views from the Empire State Building",
+        "Year": "(1980)",
+        "ObjectID": "37831",
+        "Work": "https://www.moma.org/collection/works/37831",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM1Mjk4MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=75088f79adf93732",
+        "Details": {
+            "Medium": "Each: Pastel on plastic vellum",
+            "Dimensions": "each: 47 x 37 1/2\" (119.4 x 95.2 cm)",
+            "Credit": "Gift of Lily Auchincloss",
+            "Object number": "708.1980.a-b",
+            "Copyright": "\u00a9 2023 Yvonne Jacquette",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/2875"
+    },
+    {
+        "Artist": "G. Peter Jemison",
+        "Title": "Number One",
+        "Year": "1980",
+        "ObjectID": "429202",
+        "Work": "https://www.moma.org/collection/works/429202",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMDcxNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=28d6caaa417d3e89",
+        "Details": {
+            "Medium": "Gouache, crayon, metallic paint, and pencil on printed brown paper bag with a corn husk inside",
+            "Dimensions": "13 3/4 \u00d7 7 1/16 \u00d7 4 1/8\" (35 \u00d7 18 \u00d7 10.5 cm)",
+            "Credit": "Acquired through the generosity of Agnes Gund",
+            "Object number": "423.2022",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/133650"
+    },
+    {
+        "Artist": "G. Peter Jemison",
+        "Title": "Art Bag",
+        "Year": "1980",
+        "ObjectID": "429203",
+        "Work": "https://www.moma.org/collection/works/429203",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMDY4NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c8b877c5b9a174e4",
+        "Details": {
+            "Medium": "Crayon, oil pastel, fabric, rope, plastic tag, jigsaw puzzle piece, and ticket with oil paint on printed brown paper bag with three printed metal pins and a business card inside",
+            "Dimensions": "20 \u00d7 13 \u00d7 7\" (50.8 \u00d7 33 \u00d7 17.8 cm)",
+            "Credit": "Frances Keech Fund",
+            "Object number": "422.2022",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/133650"
+    },
+    {
+        "Artist": "John Jesurun",
+        "Title": "Last Days Of Pompeii",
+        "Year": "1980",
+        "ObjectID": "315292",
+        "Work": "https://www.moma.org/collection/works/315292",
+        "Thumbnail": null,
+        "Details": {
+            "Object number": "W23281",
+            "Department": "Film"
+        },
+        "Profile": "https://www.moma.org/artists/75045"
+    },
+    {
+        "Artist": "Jasper Johns",
+        "Title": "Usuyuki",
+        "Year": "1980",
+        "ObjectID": "59750",
+        "Work": "https://www.moma.org/collection/works/59750",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMDAwNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=18e01433fe65ca27",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition (irreg.): 46 7/8 x 18 7/8\" (119 x 48 cm); sheet: 52 13/16 x 20 7/16\" (134.2 x 51.9 cm)",
+            "Publisher": "Universal Limited Art Editions, West Islip, New York",
+            "Printer": "Universal Limited Art Editions, West Islip, New York",
+            "Edition": "57",
+            "Credit": "Gift of Celeste Bartos",
+            "Object number": "8.1981",
+            "Copyright": "\u00a9 2023 Jasper Johns / Licensed by VAGA at Artists Rights Society (ARS), NY",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/2923"
+    },
+    {
+        "Artist": "Allen Jones",
+        "Title": "Box",
+        "Year": "1980",
+        "ObjectID": "59771",
+        "Work": "https://www.moma.org/collection/works/59771",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Four-part lithograph",
+            "Credit": "Purchase",
+            "Object number": "9.1981",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/2931"
+    },
+    {
+        "Artist": "Joe Jones",
+        "Title": "Music Machine",
+        "Year": "1980",
+        "ObjectID": "136285",
+        "Work": "https://www.moma.org/collection/works/136285",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NTAwOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8db7d2979b3a414e",
+        "Details": {
+            "Medium": "Ballpoint pen on paper",
+            "Dimensions": "sheet: 15 3/4 \u00d7 11 13/16\" (40 \u00d7 30 cm)",
+            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
+            "Object number": "3787.2008",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/2934"
+    },
+    {
+        "Artist": "Gerald Jupitter-Larsen, The Haters",
+        "Title": "A Song for Nihilism Now",
+        "Year": "1980",
+        "ObjectID": "183999",
+        "Work": "https://www.moma.org/collection/works/183999",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQwMDI0NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=472cd3112a6b6c39",
+        "Details": {
+            "Medium": "7-inch vinyl record",
+            "Dimensions": "cover: 7 1/4 \u00d7 7 1/4\" (18.4 \u00d7 18.4 cm)",
+            "Publisher": "Jupitter-Larsen",
+            "Credit": "Committee on Prints and Illustrated Books Fund",
+            "Object number": "854.2013.131",
+            "Associated work": "Steven Leiber Audio Collection",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/47583"
+    },
+    {
+        "Artist": "Tibor Kalman, Talking Heads, Tina Weymouth, Chris Frantz",
+        "Title": "Album cover for Talking Heads, Remain in Light",
+        "Year": "1980",
+        "ObjectID": "185421",
+        "Work": "https://www.moma.org/collection/works/185421",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwNTQ3NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f8f6de0499fb8c62",
+        "Details": {
+            "Graphic design firm": "M&Co",
+            "Medium": "Lithograph",
+            "Dimensions": "12 x 12\" (30.5 x 30.5 cm)",
             "Credit": "Committee on Architecture and Design Funds",
-            "Object number": "391.2022",
+            "Object number": "814.2014",
             "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/5457"
+        "Profile": "https://www.moma.org/artists/23028"
     },
     {
-        "Artist": "Alvaro Siza",
-        "Title": "SAAL S. Victor Social Housing, Porto, Portugal (Plan and perspective sketches)",
-        "Year": "1974-1977",
-        "ObjectID": "161429",
-        "Work": "https://www.moma.org/collection/works/161429",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NjA3MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=102626a12573da49",
+        "Artist": "Tibor Kalman, Tina Weymouth, Chris Frantz",
+        "Title": "Talking Heads, Remain in Light",
+        "Year": "1980",
+        "ObjectID": "156156",
+        "Work": "https://www.moma.org/collection/works/156156",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1MjA3OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f6c710f2286eabbd",
         "Details": {
-            "Medium": "Ballpoint pen on paper",
-            "Dimensions": "8 1/4 x 5 7/8\" (21 x 15 cm)",
-            "Credit": "Architecture & Design Purchase Fund",
-            "Object number": "848.2012",
+            "Graphic design firm": "M&Co",
+            "Medium": "Lithograph",
+            "Dimensions": "36 x 19\" (91.4 x 48.3 cm)",
+            "Credit": "Gift of Lawrence Benenson",
+            "Object number": "305.2012",
             "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/29732"
+        "Profile": "https://www.moma.org/artists/23028"
     },
     {
-        "Artist": "Alvaro Siza",
-        "Title": "SAAL S. Victor Social Housing, Porto, Portugal (Perspective sketches)",
-        "Year": "1974-1977",
-        "ObjectID": "161430",
-        "Work": "https://www.moma.org/collection/works/161430",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NjA3MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a7435e67418149c2",
+        "Artist": "Alex Katz",
+        "Title": "Design for the dance Water Music",
+        "Year": "(c. 1980)",
+        "ObjectID": "36923",
+        "Work": "https://www.moma.org/collection/works/36923",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NDg1MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f761f024f6cafdd7",
         "Details": {
-            "Medium": "Ballpoint pen on paper",
-            "Dimensions": "8 1/4 x 5 7/8\" (21 x 15 cm)",
-            "Credit": "Architecture & Design Purchase Fund",
-            "Object number": "849.2012",
-            "Department": "Architecture and Design"
+            "Medium": "Felt-tip pen and crayon on transparentized paper",
+            "Dimensions": "16 1/4 x 16 3/4\" (41.2 x 42.4 cm)",
+            "Credit": "Gift of R.L.B. Tobin",
+            "Object number": "442.1981",
+            "Copyright": "\u00a9 2023 Alex Katz / Licensed by VAGA at Artists Rights Society (ARS), NY",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/29732"
+        "Profile": "https://www.moma.org/artists/3016"
     },
     {
-        "Artist": "Alvaro Siza",
-        "Title": "SAAL S. Victor Social Housing, Porto, Portugal, Notes",
-        "Year": "1974-1977",
-        "ObjectID": "161431",
-        "Work": "https://www.moma.org/collection/works/161431",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NjA3MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c6f9614b5bbaaadd",
+        "Artist": "Alex Katz",
+        "Title": "The Striped Shirt",
+        "Year": "1980",
+        "ObjectID": "64059",
+        "Work": "https://www.moma.org/collection/works/64059",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ3NzM4OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8285aad40b2a7fd9",
         "Details": {
-            "Medium": "Ink on paper",
-            "Dimensions": "8 1/4 x 5 7/8\" (21 x 15 cm)",
-            "Credit": "Architecture & Design Purchase Fund",
-            "Object number": "850.2012",
-            "Department": "Architecture and Design"
+            "Medium": "Aquatint",
+            "Dimensions": "Sheet: 46 x 21 1/8\" (116.8 x 53.7 cm)",
+            "Publisher": "The Metropolitan Museum of Art, New York",
+            "Printer": "Prawat Laucheron, New York",
+            "Edition": "80",
+            "Credit": "Gift of Mrs. Henry I. Cobb and Purchase",
+            "Object number": "189.1990",
+            "Copyright": "\u00a9 2023 Alex Katz / Licensed by VAGA at Artists Rights Society (ARS), NY",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/29732"
+        "Profile": "https://www.moma.org/artists/3016"
     },
     {
-        "Artist": "Alvaro Siza",
-        "Title": "SAAL S. Victor Social Housing, Porto, Portugal (recto), SAAL Bouca Social Housing, Porto, Portugal (verso) (Plan and perspective sketches)",
-        "Year": "1974-1977",
-        "ObjectID": "161432",
-        "Work": "https://www.moma.org/collection/works/161432",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NjA3MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c1145d62f93180b7",
+        "Artist": "Alex Katz",
+        "Title": "The Orange Band",
+        "Year": "1979, printed 1980",
+        "ObjectID": "75490",
+        "Work": "https://www.moma.org/collection/works/75490",
+        "Thumbnail": null,
         "Details": {
-            "Medium": "Ballpoint pen on paper",
-            "Dimensions": "11 11/16 x 8 1/4\" (29.7 x 21 cm)",
-            "Credit": "Architecture & Design Purchase Fund",
-            "Object number": "851.2012",
-            "Department": "Architecture and Design"
+            "Medium": "Screenprint",
+            "Dimensions": "composition: 40 x 28 3/16\" (101.6 x 71.6 cm); sheet: 40 x 28 3/16\" (101.6 x 71.6 cm)",
+            "Publisher": "Alex Katz and Simca Print Artists Inc., New York, Simca Print Artists Inc., New York",
+            "Edition": "80",
+            "Credit": "Gift of Mr. and Mrs. Robert Shapiro",
+            "Object number": "1071.1979",
+            "Copyright": "\u00a9 2023 Alex Katz / Licensed by VAGA at Artists Rights Society (ARS), NY",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/29732"
+        "Profile": "https://www.moma.org/artists/3016"
     },
     {
-        "Artist": "Alvaro Siza",
-        "Title": "SAAL S. Victor Social Housing, Porto, Portugal (Perspective sketches with figures)",
-        "Year": "1974-1977",
-        "ObjectID": "161433",
-        "Work": "https://www.moma.org/collection/works/161433",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5Nzk2NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=617edb6e602ca7ad",
+        "Artist": "Craig Kauffman",
+        "Title": "Untitled",
+        "Year": "1980",
+        "ObjectID": "63294",
+        "Work": "https://www.moma.org/collection/works/63294",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5MDE0OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a428debd82a3b19b",
         "Details": {
-            "Medium": "Ink on paper",
-            "Dimensions": "11 x 8 1/4\" (28 x 21 cm)",
-            "Credit": "Architecture & Design Purchase Fund",
-            "Object number": "852.2012",
-            "Department": "Architecture and Design"
+            "Medium": "Lithograph and screenprint",
+            "Dimensions": "irreg composition  30 11/16 x 20 13/16\" (77.9 x 52.8 cm)\r\nirreg sheet  33 1/2 x 23 5/8\" (85.1 x 60 cm)",
+            "Publisher": "Cirrus Editions, Ltd., Los Angeles",
+            "Printer": "Cirrus Editions, Ltd., Los Angeles",
+            "Credit": "John B. Turner Fund",
+            "Object number": "160.1981",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/29732"
+        "Profile": "https://www.moma.org/artists/3021"
     },
     {
-        "Artist": "Alvaro Siza",
-        "Title": "SAAL S. Victor Social Housing, Porto, Portugal (Perspective sketches)",
-        "Year": "1974-1977",
-        "ObjectID": "161434",
-        "Work": "https://www.moma.org/collection/works/161434",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NTg0NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=811dd5245cb6eff6",
-        "Details": {
-            "Medium": "Ink on paper",
-            "Dimensions": "11 x 8 1/4\" (28 x 21 cm)",
-            "Credit": "Architecture & Design Purchase Fund",
-            "Object number": "853.2012",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/29732"
-    },
-    {
-        "Artist": "Alvaro Siza",
-        "Title": "SAAL S. Victor Social Housing, Porto, Portugal (Perspective sketches)",
-        "Year": "1974-1977",
-        "ObjectID": "161435",
-        "Work": "https://www.moma.org/collection/works/161435",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5Nzk2NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=026adf088901283c",
-        "Details": {
-            "Medium": "Ink on paper",
-            "Dimensions": "11 7/16 x 8 1/4\" (29 x 21 cm)",
-            "Credit": "Architecture & Design Purchase Fund",
-            "Object number": "854.2012",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/29732"
-    },
-    {
-        "Artist": "Alvaro Siza",
-        "Title": "SAAL S. Victor Social Housing, Porto, Portugal (Perspective sketch)",
-        "Year": "1974-1977",
-        "ObjectID": "161436",
-        "Work": "https://www.moma.org/collection/works/161436",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NTg0OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a18318f1c884b023",
-        "Details": {
-            "Medium": "Ink on paper",
-            "Dimensions": "11 7/16 x 8 1/4\" (29 x 21 cm)",
-            "Credit": "Architecture & Design Purchase Fund",
-            "Object number": "855.2012",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/29732"
-    },
-    {
-        "Artist": "Alvaro Siza",
-        "Title": "SAAL S. Victor Social Housing, Porto, Portugal (Perspective sketch)",
-        "Year": "1974-1977",
-        "ObjectID": "161437",
-        "Work": "https://www.moma.org/collection/works/161437",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NTg0OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4d8c853641083d3f",
-        "Details": {
-            "Medium": "Ballpoint pen on paper",
-            "Dimensions": "11 7/16 x 8 1/4\" (29 x 21 cm)",
-            "Credit": "Architecture & Design Purchase Fund",
-            "Object number": "856.2012",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/29732"
-    },
-    {
-        "Artist": "Alvaro Siza",
-        "Title": "SAAL S. Victor Social Housing, Porto, Portugal (Elevation and perspective sketches)",
-        "Year": "1974-1977",
-        "ObjectID": "161438",
-        "Work": "https://www.moma.org/collection/works/161438",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NTg1MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4b77403789a79551",
-        "Details": {
-            "Medium": "Ballpoint pen and pencil on paper",
-            "Dimensions": "11 7/16 x 8 1/4\" (29 x 21 cm)",
-            "Credit": "Architecture & Design Purchase Fund",
-            "Object number": "857.2012",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/29732"
-    },
-    {
-        "Artist": "Alvaro Siza",
-        "Title": "SAAL S. Victor Social Housing, Porto, Portugal (Perspective sketches)",
-        "Year": "1974-1977",
-        "ObjectID": "161439",
-        "Work": "https://www.moma.org/collection/works/161439",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NTg1MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c333e6edaa33b90a",
-        "Details": {
-            "Medium": "Ink on paper",
-            "Dimensions": "8 1/4 x 11 11/16\" (21 x 29.7 cm)",
-            "Credit": "Architecture & Design Purchase Fund",
-            "Object number": "858.2012",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/29732"
-    },
-    {
-        "Artist": "Alvaro Siza",
-        "Title": "SAAL S. Victor Social Housing, Porto, Portugal (Perspective sketch)",
-        "Year": "1974-1977",
-        "ObjectID": "161440",
-        "Work": "https://www.moma.org/collection/works/161440",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NTg1MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f06bb9510dd608c4",
-        "Details": {
-            "Medium": "Ballpoint pen on paper",
-            "Dimensions": "11 7/16 x 8 1/4\" (29 x 21 cm)",
-            "Credit": "Architecture & Design Purchase Fund",
-            "Object number": "859.2012",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/29732"
-    },
-    {
-        "Artist": "Alvaro Siza",
-        "Title": "SAAL S. Victor Social Housing, Porto, Portugal (Perspective sketch)",
-        "Year": "1974-1977",
-        "ObjectID": "161441",
-        "Work": "https://www.moma.org/collection/works/161441",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NTg1MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e39723789bc5fbed",
-        "Details": {
-            "Medium": "Ink on paper",
-            "Dimensions": "11 7/16 x 8 1/4\" (29 x 21 cm)",
-            "Credit": "Architecture & Design Purchase Fund",
-            "Object number": "860.2012",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/29732"
-    },
-    {
-        "Artist": "Alvaro Siza",
-        "Title": "SAAL S. Victor Social Housing, Porto, Portugal (Perspective sketch with figures)",
-        "Year": "1974-1977",
-        "ObjectID": "161442",
-        "Work": "https://www.moma.org/collection/works/161442",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NTg1NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=23e659d9035afa1b",
-        "Details": {
-            "Medium": "Ballpoint pen on paper",
-            "Dimensions": "11 7/16 x 8 1/4\" (29 x 21 cm)",
-            "Credit": "Architecture & Design Purchase Fund",
-            "Object number": "861.2012",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/29732"
-    },
-    {
-        "Artist": "Alvaro Siza",
-        "Title": "SAAL S. Victor Social Housing, Porto, Portugal (Perspective sketches)",
-        "Year": "1974-1977",
-        "ObjectID": "161443",
-        "Work": "https://www.moma.org/collection/works/161443",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NjA3NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=476750c8e330a247",
-        "Details": {
-            "Medium": "Ink on paper",
-            "Dimensions": "11 7/16 x 8 1/4\" (29 x 21 cm)",
-            "Credit": "Architecture & Design Purchase Fund",
-            "Object number": "862.2012",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/29732"
-    },
-    {
-        "Artist": "Alvaro Siza",
-        "Title": "SAAL S. Victor Social Housing, Porto, Portugal (Perspective sketches)",
-        "Year": "1974-1977",
-        "ObjectID": "161444",
-        "Work": "https://www.moma.org/collection/works/161444",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NjA3NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9a9454791e673fbd",
-        "Details": {
-            "Medium": "Ink on paper",
-            "Dimensions": "11 11/16 x 8 1/4\" (29.7 x 21 cm)",
-            "Credit": "Architecture & Design Purchase Fund",
-            "Object number": "863.2012",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/29732"
-    },
-    {
-        "Artist": "Alvaro Siza",
-        "Title": "SAAL S. Victor Social Housing, Porto, Portugal (Perspective sketch, detail sketch)",
-        "Year": "1974-1977",
-        "ObjectID": "161445",
-        "Work": "https://www.moma.org/collection/works/161445",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NjA3NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b8674a12099ce2f9",
+        "Artist": "Ellsworth Kelly",
+        "Title": "Tulip",
+        "Year": "1980",
+        "ObjectID": "33675",
+        "Work": "https://www.moma.org/collection/works/33675",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwNjQxMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f9cb264df0712ddb",
         "Details": {
             "Medium": "Pencil on paper",
-            "Dimensions": "11 11/16 x 8 1/4\" (29.7 x 21 cm)",
-            "Credit": "Architecture & Design Purchase Fund",
-            "Object number": "864.2012",
-            "Department": "Architecture and Design"
+            "Dimensions": "30 1/8 x 22 1/8\" (76.2 x 56.2 cm)",
+            "Credit": "Gift of R. L. B. Tobin",
+            "Object number": "77.1981",
+            "Copyright": "\u00a9 2023 Ellsworth Kelly",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/29732"
+        "Profile": "https://www.moma.org/artists/3048"
     },
     {
-        "Artist": "Alvaro Siza",
-        "Title": "SAAL S. Victor Social Housing, Porto, Portugal (Aerial perspective sketch)",
-        "Year": "1974-1977",
-        "ObjectID": "161446",
-        "Work": "https://www.moma.org/collection/works/161446",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NjA3OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=26384058e167180e",
+        "Artist": "William Kentridge",
+        "Title": "Security",
+        "Year": "1980",
+        "ObjectID": "128445",
+        "Work": "https://www.moma.org/collection/works/128445",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MzQ1MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2688be437a5304cf",
         "Details": {
-            "Medium": "Pencil on paper",
-            "Dimensions": "11 11/16 x 8 1/4\" (29.7 x 21 cm)",
-            "Credit": "Architecture & Design Purchase Fund",
-            "Object number": "865.2012",
-            "Department": "Architecture and Design"
+            "Medium": "Screenprinted poster",
+            "Dimensions": "composition (irreg.): 22 9/16 x 14 3/8\" (57.3 x 36.5 cm); sheet: 32 7/8 x 17 15/16\" (83.5 x 45.5 cm)",
+            "Publisher": "Junction Avenue Theatre Company, Johannesburg",
+            "Printer": "William Kentridge, Johannesburg",
+            "Edition": "less than 50",
+            "Credit": "General Print Fund",
+            "Object number": "343.2009",
+            "Copyright": "\u00a9 2023 William Kentridge",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/29732"
+        "Profile": "https://www.moma.org/artists/7919"
     },
     {
-        "Artist": "Alvaro Siza",
-        "Title": "SAAL S. Victor Social Housing, Porto, Portugal (Perspective, plan, section, and detail sketches)",
-        "Year": "1974-1977",
-        "ObjectID": "161447",
-        "Work": "https://www.moma.org/collection/works/161447",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NjA3OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=af3976e3161c58b8",
+        "Artist": "Anselm Kiefer",
+        "Title": "Ride to the Vistula",
+        "Year": "1980",
+        "ObjectID": "79068",
+        "Work": "https://www.moma.org/collection/works/79068",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MzIzMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=de07adcb759cbe7c",
         "Details": {
-            "Medium": "Ink on paper",
-            "Dimensions": "11 11/16 x 8 1/4\" (29.7 x 21 cm)",
-            "Credit": "Architecture & Design Purchase Fund",
-            "Object number": "866.2012",
-            "Department": "Architecture and Design"
+            "Medium": "Oil on canvas",
+            "Dimensions": "51 1/8 x 67\" (129.95 x 170.1 cm)",
+            "Credit": "Gift of Werner and Elaine Dannheisser",
+            "Object number": "184.1996",
+            "Copyright": "\u00a9 2023 Anselm Kiefer",
+            "Department": "Painting and Sculpture"
         },
-        "Profile": "https://www.moma.org/artists/29732"
+        "Profile": "https://www.moma.org/artists/3086"
     },
     {
-        "Artist": "Alvaro Siza",
-        "Title": "SAAL S. Victor Social Housing, Porto, Portugal (Perspective sketches)",
-        "Year": "1974-1977",
-        "ObjectID": "161448",
-        "Work": "https://www.moma.org/collection/works/161448",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NjA4MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e292bbef712d8fab",
+        "Artist": "Anselm Kiefer",
+        "Title": "Midsummer Night III",
+        "Year": "1980",
+        "ObjectID": "80904",
+        "Work": "https://www.moma.org/collection/works/80904",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNjQwMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=427f69707c7db06f",
         "Details": {
-            "Medium": "Ballpoint pen on paper",
-            "Dimensions": "4 3/4 x 7 7/8\" (12 x 20 cm)",
-            "Credit": "Architecture & Design Purchase Fund",
-            "Object number": "867.2012",
-            "Department": "Architecture and Design"
+            "Medium": "Book of twenty-three double page photographs with synthetic polymer paint and graphite mounted on cardboard, and cover of graphite and synthetic polymer paint on paper mounted on cardboard, bound cloth, on a steel lectern designed by the artist",
+            "Dimensions": "Book 23 3/4 x 17 3/4 x 5\" (60.4 x 45.1 x 12.7 cm), lectern 61 x 35 x 27 1/2\" (155 x 88.9 x  69.9 cm)",
+            "Credit": "Gift of Agnes Gund",
+            "Object number": "75.1991.a-b",
+            "Copyright": "\u00a9 2023 Anselm Kiefer",
+            "Department": "Painting and Sculpture"
         },
-        "Profile": "https://www.moma.org/artists/29732"
+        "Profile": "https://www.moma.org/artists/3086"
     },
     {
-        "Artist": "Alvaro Siza",
-        "Title": "SAAL S. Victor Social Housing, Porto, Portugal (Plan and perspective sketches)",
-        "Year": "1974-1977",
-        "ObjectID": "161449",
-        "Work": "https://www.moma.org/collection/works/161449",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NjA4MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cecaef8a989f58bb",
+        "Artist": "Anselm Kiefer",
+        "Title": "Des Malers Atelier",
+        "Year": "(1980)",
+        "ObjectID": "96342",
+        "Work": "https://www.moma.org/collection/works/96342",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNzk5NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c8830f00d87e846d",
         "Details": {
-            "Medium": "Ballpoint pen on paper",
-            "Dimensions": "5 7/8 x 11\" (15 x 28 cm)",
-            "Credit": "Architecture & Design Purchase Fund",
-            "Object number": "868.2012",
-            "Department": "Architecture and Design"
+            "Medium": "Synthetic polymer paint, oil stick, watercolor, pencil, and gouache on paper",
+            "Dimensions": "19 1/2 x 25 1/8\" (49.5 x 63.8 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "2047.2005",
+            "Copyright": "\u00a9 2023 Anselm Kiefer",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/29732"
-    },
-    {
-        "Artist": "Alvaro Siza",
-        "Title": "SAAL S. Victor Social Housing, Porto, Portugal (Plan and perspective sketches)",
-        "Year": "1974-1977",
-        "ObjectID": "161450",
-        "Work": "https://www.moma.org/collection/works/161450",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NjA4MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fecd6a3dc6f07177",
-        "Details": {
-            "Medium": "Ink on paper envelope",
-            "Dimensions": "4 7/16 x 6 5/16\" (11.2 x 16 cm)",
-            "Credit": "Architecture & Design Purchase Fund",
-            "Object number": "869.2012",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/29732"
-    },
-    {
-        "Artist": "Alvaro Siza",
-        "Title": "SAAL S. Victor Social Housing, Porto, Portugal (Elevation and perspective sketches)",
-        "Year": "1974-1977",
-        "ObjectID": "161451",
-        "Work": "https://www.moma.org/collection/works/161451",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5Mzg0MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=70a3bc11baedf7ea",
-        "Details": {
-            "Medium": "Pencil on paper",
-            "Dimensions": "12 x 43 1/8\" (30.5 x 109.5 cm)",
-            "Credit": "Architecture & Design Purchase Fund",
-            "Object number": "870.2012",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/29732"
-    },
-    {
-        "Artist": "Alvaro Siza",
-        "Title": "SAAL S. Victor Social Housing, Porto, Portugal (Perspective sketches)",
-        "Year": "1974-1977",
-        "ObjectID": "161452",
-        "Work": "https://www.moma.org/collection/works/161452",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5Mzg0MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f13c3da9aabb1044",
-        "Details": {
-            "Medium": "Ink on paper",
-            "Dimensions": "Overall: 12 x 37 3/8\" (30.5 x 95 cm)\r\n.a: 11 11/16 x 8 1/4\" (29.7 x 21 cm)\r\n.b: 11 11/16 x 8 1/4\" (29.7 x 21 cm)\r\n.c: 11 11/16 x 5 11/16\" (29.7 x 14.5 cm)\r\n.d: 12 x 6 7/8\" (30.5 x 17.5 cm)\r\n.e: 11 11/16 x 8 1/4\" (29.7 x 21 cm)",
-            "Credit": "Architecture & Design Purchase Fund",
-            "Object number": "871.2012.a-e",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/29732"
-    },
-    {
-        "Artist": "Alvaro Siza",
-        "Title": "SAAL S. Victor Social Housing, Porto, Portugal (Site plan)",
-        "Year": "1974-1977",
-        "ObjectID": "161453",
-        "Work": "https://www.moma.org/collection/works/161453",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5Mzg0MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ed8befe7c1753dbd",
-        "Details": {
-            "Medium": "Ink on paper",
-            "Dimensions": "18 7/8 x 24 13/16\" (48 x 63 cm)",
-            "Credit": "Architecture & Design Purchase Fund",
-            "Object number": "872.2012",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/29732"
-    },
-    {
-        "Artist": "Alvaro Siza",
-        "Title": "SAAL S. Victor Social Housing, Porto, Portugal (Elevations and plans)",
-        "Year": "1974-1977",
-        "ObjectID": "161454",
-        "Work": "https://www.moma.org/collection/works/161454",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5Mzg0NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=73ca15d35bec7a19",
-        "Details": {
-            "Medium": "ink on paper",
-            "Dimensions": "23 5/8 x 51 15/16\" (60 x 132 cm)",
-            "Credit": "Architecture & Design Purchase Fund",
-            "Object number": "873.2012",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/29732"
-    },
-    {
-        "Artist": "Alvaro Siza",
-        "Title": "SAAL S. Victor Social Housing, Porto, Portugal (Elevations)",
-        "Year": "1974-1977",
-        "ObjectID": "161455",
-        "Work": "https://www.moma.org/collection/works/161455",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5Mzg0NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7f8f7c87f8453099",
-        "Details": {
-            "Medium": "Ink on paper",
-            "Dimensions": "29 1/2 x 53 1/8\" (75 x 135 cm)",
-            "Credit": "Architecture & Design Purchase Fund",
-            "Object number": "874.2012",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/29732"
-    },
-    {
-        "Artist": "Alvaro Siza",
-        "Title": "SAAL S. Victor Social Housing, Porto, Portugal (Axonometric)",
-        "Year": "1974-1977",
-        "ObjectID": "161456",
-        "Work": "https://www.moma.org/collection/works/161456",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5Mzg0NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9906d82aeb6efadd",
-        "Details": {
-            "Medium": "Ink on paper",
-            "Dimensions": "22 7/16 x 34 1/4\" (57 x 87 cm)",
-            "Credit": "Architecture & Design Purchase Fund",
-            "Object number": "875.2012",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/29732"
-    },
-    {
-        "Artist": "Alvaro Siza",
-        "Title": "SAAL S. Victor Social Housing, Porto, Portugal (Site plan)",
-        "Year": "1974-1977",
-        "ObjectID": "161457",
-        "Work": "https://www.moma.org/collection/works/161457",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5Mzg0NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=96fb815b5359963e",
-        "Details": {
-            "Medium": "Diazotype with ink on paper",
-            "Dimensions": "11 11/16 x 16 9/16\" (29.7 x 42 cm)",
-            "Credit": "Architecture & Design Purchase Fund",
-            "Object number": "876.2012",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/29732"
-    },
-    {
-        "Artist": "Alvaro Siza",
-        "Title": "SAAL S. Victor Social Housing, Porto, Portugal",
-        "Year": "1974-1977",
-        "ObjectID": "161458",
-        "Work": "https://www.moma.org/collection/works/161458",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NDk0NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5b422b0fd5113fcc",
-        "Details": {
-            "Medium": "Diazotype print",
-            "Dimensions": "75 9/16 x 37\" (192 x 94 cm)",
-            "Credit": "Architecture & Design Purchase Fund",
-            "Object number": "877.2012",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/29732"
-    },
-    {
-        "Artist": "Alvaro Siza",
-        "Title": "SAAL S. Victor Social Housing, Porto, Portugal (View of the model)",
-        "Year": "1974-1977",
-        "ObjectID": "161459",
-        "Work": "https://www.moma.org/collection/works/161459",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NjEwMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2fa540f6a51c84da",
-        "Details": {
-            "Medium": "Inkjet print",
-            "Dimensions": "5 1/8 x 7 1/2\" (13 x 19.1 cm)",
-            "Credit": "Architecture & Design Purchase Fund",
-            "Object number": "951.2012",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/29732"
-    },
-    {
-        "Artist": "Alvaro Siza",
-        "Title": "SAAL S. Victor Social Housing, Porto, Portugal (View of the model)",
-        "Year": "1974-1977",
-        "ObjectID": "161460",
-        "Work": "https://www.moma.org/collection/works/161460",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NjEwMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fdfdd67b0035d99f",
-        "Details": {
-            "Medium": "Inkjet print",
-            "Dimensions": "5 1/8 x 7 1/2\" (13 x 19.1 cm)",
-            "Credit": "Architecture & Design Purchase Fund",
-            "Object number": "952.2012",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/29732"
-    },
-    {
-        "Artist": "Alvaro Siza",
-        "Title": "SAAL S. Victor Social Housing, Porto, Portugal (View of the model)",
-        "Year": "1974-1977",
-        "ObjectID": "161461",
-        "Work": "https://www.moma.org/collection/works/161461",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NjEwNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=14256a20c40590a9",
-        "Details": {
-            "Medium": "Inkjet print",
-            "Dimensions": "5 1/8 x 7 1/2\" (13 x 19.1 cm)",
-            "Credit": "Architecture & Design Purchase Fund",
-            "Object number": "953.2012",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/29732"
-    },
-    {
-        "Artist": "Alvaro Siza",
-        "Title": "SAAL S. Victor Social Housing, Porto, Portugal (View of the site before construction)",
-        "Year": "1974-1977",
-        "ObjectID": "161462",
-        "Work": "https://www.moma.org/collection/works/161462",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NjEwNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1cf9e4c0002c54cd",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "4 15/16 x 6 7/8\" (12.5 x 17.5 cm)",
-            "Credit": "Architecture & Design Purchase Fund",
-            "Object number": "954.2012",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/29732"
-    },
-    {
-        "Artist": "Alvaro Siza",
-        "Title": "SAAL S. Victor Social Housing, Porto, Portugal (View of the site before construction)",
-        "Year": "1974-1977",
-        "ObjectID": "161463",
-        "Work": "https://www.moma.org/collection/works/161463",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NjEwNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=bb80eb58fb165f96",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "3 9/16 x 5 1/8\" (9 x 13 cm)",
-            "Credit": "Architecture & Design Purchase Fund",
-            "Object number": "955.2012",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/29732"
-    },
-    {
-        "Artist": "Alvaro Siza",
-        "Title": "SAAL S. Victor Social Housing, Porto, Portugal",
-        "Year": "1974-1977",
-        "ObjectID": "161464",
-        "Work": "https://www.moma.org/collection/works/161464",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NjEwOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=38dd441b9dc3573d",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "7 x 9 1/2\" (17.8 x 24.1 cm)",
-            "Credit": "Architecture & Design Purchase Fund",
-            "Object number": "956.2012",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/29732"
-    },
-    {
-        "Artist": "Alvaro Siza",
-        "Title": "SAAL S. Victor Social Housing, Porto, Portugal",
-        "Year": "1974-1977",
-        "ObjectID": "161465",
-        "Work": "https://www.moma.org/collection/works/161465",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NjEwOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=78bf814c270b18d3",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "4 15/16 x 6 7/8\" (12.5 x 17.5 cm)",
-            "Credit": "Architecture & Design Purchase Fund",
-            "Object number": "957.2012",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/29732"
-    },
-    {
-        "Artist": "Alvaro Siza",
-        "Title": "SAAL S. Victor Social Housing, Porto, Portugal",
-        "Year": "1974-1977",
-        "ObjectID": "161466",
-        "Work": "https://www.moma.org/collection/works/161466",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NjExMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=92838cf9bbe0b70e",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "9 7/16 x 7 1/16\" (24 x 18 cm)",
-            "Credit": "Architecture & Design Purchase Fund",
-            "Object number": "958.2012",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/29732"
-    },
-    {
-        "Artist": "Alvaro Siza",
-        "Title": "SAAL S. Victor Social Housing, Porto, Portugal",
-        "Year": "1974-1977",
-        "ObjectID": "161467",
-        "Work": "https://www.moma.org/collection/works/161467",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NjExMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d30d82ad81b722b4",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "4 15/16 x 6 7/8\" (12.5 x 17.5 cm)",
-            "Credit": "Architecture & Design Purchase Fund",
-            "Object number": "959.2012",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/29732"
-    },
-    {
-        "Artist": "Alvaro Siza",
-        "Title": "SAAL S. Victor Social Housing, Porto, Portugal",
-        "Year": "1974-1977",
-        "ObjectID": "161468",
-        "Work": "https://www.moma.org/collection/works/161468",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NjExMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8578c782c0d35dfb",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "4 15/16 x 6 7/8\" (12.5 x 17.5 cm)",
-            "Credit": "Architecture & Design Purchase Fund",
-            "Object number": "960.2012",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/29732"
-    },
-    {
-        "Artist": "Alvaro Siza",
-        "Title": "SAAL S. Victor Social Housing, Porto, Portugal",
-        "Year": "1974-1977",
-        "ObjectID": "161469",
-        "Work": "https://www.moma.org/collection/works/161469",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NTg1NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=dff3885622314c3e",
-        "Details": {
-            "Medium": "Photograph",
-            "Dimensions": "5 5/16 x 3 9/16\" (13.5 x 9 cm)",
-            "Credit": "Architecture & Design Purchase Fund",
-            "Object number": "961.2012",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/29732"
-    },
-    {
-        "Artist": "Alvaro Siza",
-        "Title": "SAAL S. Victor Social Housing, Porto, Portugal",
-        "Year": "1974-1977",
-        "ObjectID": "161470",
-        "Work": "https://www.moma.org/collection/works/161470",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NjExMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=72cdc44dbd69f420",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "5 7/8 x 9 1/4\" (15 x 23.5 cm)",
-            "Credit": "Architecture & Design Purchase Fund",
-            "Object number": "962.2012",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/29732"
-    },
-    {
-        "Artist": "Alvaro Siza",
-        "Title": "SAAL S. Victor Social Housing, Porto, Portugal",
-        "Year": "1974-1977",
-        "ObjectID": "161471",
-        "Work": "https://www.moma.org/collection/works/161471",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NjExNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=65f3ead82f178dfd",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "4 3/4 x 7 1/16\" (12 x 18 cm)",
-            "Credit": "Architecture & Design Purchase Fund",
-            "Object number": "963.2012",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/29732"
-    },
-    {
-        "Artist": "Alvaro Siza",
-        "Title": "SAAL S. Victor Social Housing, Porto, Portugal",
-        "Year": "1974-1977",
-        "ObjectID": "161472",
-        "Work": "https://www.moma.org/collection/works/161472",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NjExNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f7cc22411249d21e",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "9 7/16 x 7 1/16\" (24 x 18 cm)",
-            "Credit": "Architecture & Design Purchase Fund",
-            "Object number": "964.2012",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/29732"
-    },
-    {
-        "Artist": "Alvaro Siza",
-        "Title": "SAAL S. Victor Social Housing, Porto, Portugal",
-        "Year": "1974-1977",
-        "ObjectID": "161473",
-        "Work": "https://www.moma.org/collection/works/161473",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NjExNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ad9c288d452404d2",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "4 3/4 x 7 1/16\" (12 x 18 cm)",
-            "Credit": "Architecture & Design Purchase Fund",
-            "Object number": "965.2012",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/29732"
-    },
-    {
-        "Artist": "Alvaro Siza",
-        "Title": "SAAL S. Victor Social Housing, Porto, Portugal",
-        "Year": "1974-1977",
-        "ObjectID": "161474",
-        "Work": "https://www.moma.org/collection/works/161474",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NjExNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=354d22cabf18ba8e",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "5 7/8 x 9 1/16\" (15 x 23 cm)",
-            "Credit": "Architecture & Design Purchase Fund",
-            "Object number": "966.2012",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/29732"
-    },
-    {
-        "Artist": "Alvaro Siza",
-        "Title": "SAAL S. Victor Social Housing, Porto, Portugal",
-        "Year": "1974-1977",
-        "ObjectID": "161475",
-        "Work": "https://www.moma.org/collection/works/161475",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NjExOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ccb12e4aa62bbce8",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "4 1/8 x 5 7/8\" (10.5 x 15 cm)",
-            "Credit": "Architecture & Design Purchase Fund",
-            "Object number": "967.2012",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/29732"
+        "Profile": "https://www.moma.org/artists/3086"
     }
 ]

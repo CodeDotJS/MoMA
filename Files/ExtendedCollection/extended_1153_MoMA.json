@@ -1,822 +1,860 @@
 [
     {
-        "Artist": "Jackson Pollock",
-        "Title": "Untitled from an untitled portfolio",
-        "Year": "1951",
-        "ObjectID": "75970",
-        "Work": "https://www.moma.org/collection/works/75970",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4MDg4MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=bef715162d852a3e",
+        "Artist": "Nanny Still",
+        "Title": "Platter",
+        "Year": "c. 1950-62",
+        "ObjectID": "3122",
+        "Work": "https://www.moma.org/collection/works/3122",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMDkyNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=89350c305f95deef",
         "Details": {
-            "Medium": "One from a portfolio of six screenprints",
-            "Dimensions": "composition: 19 1/8 x 16 9/16\" (48.5 x 42.1 cm); sheet: 28 3/4 x 23 1/16\" (73 x 58.5 cm)",
-            "Printer": "Sanford McCoy",
-            "Edition": "25",
-            "Credit": "Gift of Lee Krasner Pollock",
-            "Object number": "1188.1969.4",
-            "Copyright": "\u00a9 2023 Pollock-Krasner Foundation / Artists Rights Society (ARS), New York",
-            "Portfolio": "Untitled",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/4675"
-    },
-    {
-        "Artist": "Jackson Pollock",
-        "Title": "Untitled from an untitled portfolio",
-        "Year": "1951",
-        "ObjectID": "75971",
-        "Work": "https://www.moma.org/collection/works/75971",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4MDg5MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2b8af64136a7cea1",
-        "Details": {
-            "Medium": "One from a portfolio of six screenprints",
-            "Dimensions": "composition: 21 11/16 x 16 3/4\" (55.1 x 42.5 cm); sheet: 28 3/4 x 23 1/16\" (73 x 58.5 cm)",
-            "Printer": "Sanford McCoy",
-            "Edition": "25",
-            "Credit": "Gift of Lee Krasner Pollock",
-            "Object number": "1188.1969.5",
-            "Copyright": "\u00a9 2023 Pollock-Krasner Foundation / Artists Rights Society (ARS), New York",
-            "Portfolio": "Untitled",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/4675"
-    },
-    {
-        "Artist": "Jackson Pollock",
-        "Title": "Untitled from an untitled portfolio",
-        "Year": "1951",
-        "ObjectID": "75972",
-        "Work": "https://www.moma.org/collection/works/75972",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzMzc5NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7136dc7121edfe2d",
-        "Details": {
-            "Medium": "One from a portfolio of six screenprints",
-            "Dimensions": "composition: 16 3/4 x 21 15/16\" (42.5 x 55.7 cm); sheet: 28 3/4 x 23 1/16\" (73 x 58.5 cm)",
-            "Printer": "Sanford McCoy",
-            "Edition": "25",
-            "Credit": "Gift of Lee Krasner Pollock",
-            "Object number": "1188.1969.6",
-            "Copyright": "\u00a9 2023 Pollock-Krasner Foundation / Artists Rights Society (ARS), New York",
-            "Portfolio": "Untitled",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/4675"
-    },
-    {
-        "Artist": "Jackson Pollock",
-        "Title": "Echo: Number 25, 1951",
-        "Year": "1951",
-        "ObjectID": "79251",
-        "Work": "https://www.moma.org/collection/works/79251",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MjA0NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=981e1e2b92fe22c6",
-        "Details": {
-            "Medium": "Enamel paint on canvas",
-            "Dimensions": "7' 7 7/8\" x 7' 2\" (233.4 x 218.4 cm)",
-            "Credit": "Acquired through the Lillie P. Bliss Bequest (by exchange) and the Mr. and Mrs. David Rockefeller Fund",
-            "Object number": "241.1969",
-            "Copyright": "\u00a9 2023 Pollock-Krasner Foundation / Artists Rights Society (ARS), New York",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/4675"
-    },
-    {
-        "Artist": "Richard Pousette-Dart",
-        "Title": "Chavade",
-        "Year": "1951",
-        "ObjectID": "79845",
-        "Work": "https://www.moma.org/collection/works/79845",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1MTM1MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3e451b3d82b42a57",
-        "Details": {
-            "Medium": "Oil and pencil on canvas",
-            "Dimensions": "53 3/8\" x 8' 1/2\" (135.6 x 245 cm)",
-            "Credit": "Philip Johnson Fund",
-            "Object number": "503.1969",
-            "Copyright": "\u00a9 2023 Richard Pousette-Dart",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/4716"
-    },
-    {
-        "Artist": "Lidy Prati",
-        "Title": "Vibrational Structure from a Circle, Series B",
-        "Year": "1951",
-        "ObjectID": "146845",
-        "Work": "https://www.moma.org/collection/works/146845",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ2MjY1NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2cdae8ecfabe2806",
-        "Details": {
-            "Medium": "Oil on canvas",
-            "Dimensions": "31 1/2 x 11 13/16\" (80 x 30 cm)",
-            "Credit": "Latin American and Caribbean Fund",
-            "Object number": "224.2011",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/39621"
-    },
-    {
-        "Artist": "Lidy Prati",
-        "Title": "Study for Vibrational Structure from a Circle, Series B",
-        "Year": "1951",
-        "ObjectID": "146846",
-        "Work": "https://www.moma.org/collection/works/146846",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMzM3MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4c0ddd2734377f5f",
-        "Details": {
-            "Medium": "Colored ink, pencil, and gouache on paper",
-            "Dimensions": "7 1/4 x 15 7/8\" (18.4 x 40.3 cm)",
-            "Credit": "Latin American and Caribbean Fund through gift of Patricia Phelps de Cisneros in honor of Milan Hughston",
-            "Object number": "214.2011",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/39621"
-    },
-    {
-        "Artist": "Jean Prouve",
-        "Title": "\"Direction\" Office Armchair no. 352",
-        "Year": "1951",
-        "ObjectID": "2696",
-        "Work": "https://www.moma.org/collection/works/2696",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyODc4MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=26f69cb1e8665f25",
-        "Details": {
-            "Manufacturer": "Ateliers Jean Prouv\u00e9, Nancy, France",
-            "Medium": "Enameled steel, leather, foam, and wood",
-            "Dimensions": "31 1/2 x 25 3/16 x 22 5/8\" (80 x 64 x 57.5 cm)",
-            "Credit": "Gift of Judith Price",
-            "Object number": "212.1998",
+            "Medium": "Teak",
+            "Dimensions": "1 9/16 x 11 3/4\" (4 x 29.9 cm)",
+            "Credit": "Phyllis B. Lambert Fund",
+            "Object number": "262.1962",
             "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/7982"
+        "Profile": "https://www.moma.org/artists/5666"
     },
     {
-        "Artist": "Gertrude Quastler",
-        "Title": "Counterpoint",
-        "Year": "(1951)",
-        "ObjectID": "61782",
-        "Work": "https://www.moma.org/collection/works/61782",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxOTg1NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=006c921ff9b81a03",
-        "Details": {
-            "Medium": "Woodcut",
-            "Dimensions": "composition: 14 x 21 1/4\" (35.6 x 54cm); sheet: 16 3/4 x 23 5/8\" (42.5 x 60cm)",
-            "Edition": "25 impressions",
-            "Credit": "Purchase",
-            "Object number": "100.1952",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/4766"
-    },
-    {
-        "Artist": "Fanny Rabel",
-        "Title": "Three Girls before the Prison (Juvente a la galera)",
-        "Year": "1952",
-        "ObjectID": "63207",
-        "Work": "https://www.moma.org/collection/works/63207",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxOTUwMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=33a1d5d933d510e1",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "composition (irreg.): 17 1/8 \u00d7 14 9/16\" (43.5 \u00d7 37 cm); sheet: 22 15/16 \u00d7 17 5/8\" (58.2 \u00d7 44.8 cm)",
-            "Publisher": "Taller de Gr\u00e1fica Popular, Mexico City",
-            "Edition": "unknown",
-            "Credit": "Inter-American Fund",
-            "Object number": "147.1954",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/4778"
-    },
-    {
-        "Artist": "Paul Rand",
-        "Title": "Abacus (Furnishing fabric)",
-        "Year": "c.1946",
-        "ObjectID": "1494",
-        "Work": "https://www.moma.org/collection/works/1494",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQyNDg0NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6769e3f93c4a7621",
-        "Details": {
-            "Manufacturer": "L. Anton Maix Fabrics, New York, NY",
-            "Medium": "Printed linen",
-            "Dimensions": "53 1/2 x 44 1/2\" (135.9 x 113 cm)",
-            "Credit": "Gift of the manufacturer",
-            "Object number": "500.1975",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/4809"
-    },
-    {
-        "Artist": "Paul Rand",
-        "Title": "Interfaith Day - Sunday Oct. 19",
-        "Year": "1951",
-        "ObjectID": "6355",
-        "Work": "https://www.moma.org/collection/works/6355",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNzY1NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=799574ffcbc4e09f",
-        "Details": {
-            "Medium": "Photolithograph",
-            "Dimensions": "44 3/4 x 30 1/8\" (113.7 x 76.5 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "338.1953",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/4809"
-    },
-    {
-        "Artist": "Robert Rauschenberg",
-        "Title": "Cy Twombly",
-        "Year": "c. 1949",
-        "ObjectID": "52423",
-        "Work": "https://www.moma.org/collection/works/52423",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwNzU5MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c76bbd89b345f35d",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "10 1/8 \u00d7 9 7/8\" (25.7 \u00d7 25.1 cm)",
-            "Credit": "Nelson A. Rockefeller Fund, 1952",
-            "Object number": "392.1978",
-            "Copyright": "\u00a9 2023 Robert Rauschenberg Foundation",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/4823"
-    },
-    {
-        "Artist": "Mark Rothko",
+        "Artist": "Walter Stohrer",
         "Title": "Untitled",
-        "Year": "c. 1951",
-        "ObjectID": "66867",
-        "Work": "https://www.moma.org/collection/works/66867",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMxNjA2NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=96a326b695e51497",
+        "Year": "1962",
+        "ObjectID": "64566",
+        "Work": "https://www.moma.org/collection/works/64566",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0OTQyMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ac7d135233386843",
         "Details": {
             "Medium": "Etching",
-            "Dimensions": "plate: 6 15/16 x 4 7/8\" (17.7 x 12.4 cm); sheet: 9 5/8 x 10\" (24.5 x 25.4 cm)",
-            "Publisher": "unpublished",
-            "Printer": "The Art Students League of New York",
-            "Edition": "unique",
-            "Credit": "Gift of The Mark Rothko Foundation",
-            "Object number": "319.1985",
-            "Copyright": "\u00a9 2023 Kate Rothko Prizel & Christopher Rothko / Artists Rights Society (ARS), New York",
+            "Dimensions": "plate (irreg.): 20 9/16 x 30 5/16\" (52.3 x 77cm)",
+            "Credit": "Law Foundation Fund",
+            "Object number": "216.1965",
+            "Copyright": "\u00a9 2023 Walter St\u00f6hrer / Artists Rights Society (ARS), New York / VG Bild-Kunst, Germany",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/5047"
+        "Profile": "https://www.moma.org/artists/5673"
     },
     {
-        "Artist": "Anne Ryan",
-        "Title": "Number 141",
-        "Year": "1951",
-        "ObjectID": "37975",
-        "Work": "https://www.moma.org/collection/works/37975",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMxOTgyNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5dfdfa9e863d0717",
-        "Details": {
-            "Medium": "Cut-and-pasted colored and printed paper and cloth on paper",
-            "Dimensions": "6 7/8 x 5 1/4\" (17.6 x 13.4 cm)",
-            "Credit": "Gift of Elizabeth McFadden",
-            "Object number": "753.1978",
-            "Copyright": "\u00a9 Estate of Anne Ryan, Courtesy Washburn Gallery, New York.",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5097"
-    },
-    {
-        "Artist": "Anne Ryan",
-        "Title": "Number 79",
-        "Year": "1951",
-        "ObjectID": "37984",
-        "Work": "https://www.moma.org/collection/works/37984",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMxODgyMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1dc7664b24ad813a",
-        "Details": {
-            "Medium": "Cut-and-pasted colored and printed paper and cloth on colored paper",
-            "Dimensions": "5 7/8 x 4\" (13 x 10.3 cm)",
-            "Credit": "Gift of Elizabeth McFadden",
-            "Object number": "755.1978",
-            "Copyright": "\u00a9 Estate of Anne Ryan, Courtesy Washburn Gallery, New York.",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5097"
-    },
-    {
-        "Artist": "Anne Ryan",
-        "Title": "Number 164",
-        "Year": "1951",
-        "ObjectID": "37994",
-        "Work": "https://www.moma.org/collection/works/37994",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMxODgyMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=faff098c3e08d4ff",
-        "Details": {
-            "Medium": "Cut-and-pasted colored and painted paper and cloth on board",
-            "Dimensions": "4 x 3 3/4\" (10.4 x 9.7 cm)",
-            "Credit": "Gift of Elizabeth McFadden",
-            "Object number": "758.1978",
-            "Copyright": "\u00a9 Estate of Anne Ryan, Courtesy Washburn Gallery, New York.",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5097"
-    },
-    {
-        "Artist": "Anne Ryan",
-        "Title": "Number 412",
-        "Year": "1951",
-        "ObjectID": "38015",
-        "Work": "https://www.moma.org/collection/works/38015",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NDk0MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4ef63243b9cc219a",
-        "Details": {
-            "Medium": "Cut-and-pasted colored and painted paper and cloth on colored paper",
-            "Dimensions": "6 3/4 x 5\" (17.2 x 12.9 cm)",
-            "Credit": "Gift of Elizabeth McFadden",
-            "Object number": "764.1978",
-            "Copyright": "\u00a9 Estate of Anne Ryan, Courtesy Washburn Gallery, New York.",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5097"
-    },
-    {
-        "Artist": "Anne Ryan",
-        "Title": "Number 413",
-        "Year": "1951",
-        "ObjectID": "38018",
-        "Work": "https://www.moma.org/collection/works/38018",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NDk0MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b4f6266a9857f96b",
-        "Details": {
-            "Medium": "Cut-and-pasted paper, colored paper, cloth, and foil on paper",
-            "Dimensions": "6 3/4 x 5 1/8\" (17.2 x 13 cm)",
-            "Credit": "Gift of Elizabeth McFadden",
-            "Object number": "765.1978",
-            "Copyright": "\u00a9 Estate of Anne Ryan, Courtesy Washburn Gallery, New York.",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5097"
-    },
-    {
-        "Artist": "Anne Ryan",
-        "Title": "Number 495",
-        "Year": "1951",
-        "ObjectID": "38025",
-        "Work": "https://www.moma.org/collection/works/38025",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMxODgzMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0fecf9bd4d011afb",
-        "Details": {
-            "Medium": "Cut-and-pasted colored and printed paper and cloth on colored paper",
-            "Dimensions": "6 3/4 x 10\" (17.2 x 25.4 cm)",
-            "Credit": "Gift of Elizabeth McFadden",
-            "Object number": "767.1978",
-            "Copyright": "\u00a9 Estate of Anne Ryan, Courtesy Washburn Gallery, New York.",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5097"
-    },
-    {
-        "Artist": "Anne Ryan",
-        "Title": "The Sea Path",
-        "Year": "1951",
-        "ObjectID": "61425",
-        "Work": "https://www.moma.org/collection/works/61425",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMTUwOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d7e85b690653e93a",
-        "Details": {
-            "Medium": "Woodcut on black paper",
-            "Dimensions": "sheet: 16 1/4 \u00d7 23 5/16\" (41.3 \u00d7 59.2 cm); plate: 11 5/8 \u00d7 20 3/8\" (29.5 \u00d7 51.8 cm)",
-            "Credit": "Gift of the International Program",
-            "Object number": "64.1984",
-            "Copyright": "\u00a9 Estate of Anne Ryan, Courtesy Washburn Gallery, New York.",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5097"
-    },
-    {
-        "Artist": "Kiyoshi Saito",
-        "Title": "Sea Shells",
-        "Year": "1951",
-        "ObjectID": "63359",
-        "Work": "https://www.moma.org/collection/works/63359",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0NjMwOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c2c356cb17d50aac",
-        "Details": {
-            "Medium": "Woodcut",
-            "Dimensions": "composition: 16 1/4 x 26\" (41.3 x 66cm); sheet: 21 15/16 x 31 7/16\" (55.8 x 79.9cm)",
-            "Edition": "30",
-            "Credit": "Purchase",
-            "Object number": "163.1954",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5116"
-    },
-    {
-        "Artist": "Willem Jacob Henri Berend Sandberg",
-        "Title": "Photographie, Stedelijk Museum A'dam",
-        "Year": "1951",
-        "ObjectID": "6387",
-        "Work": "https://www.moma.org/collection/works/6387",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNzk3NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=549450c7aaa9456e",
-        "Details": {
-            "Medium": "Photolithograph",
-            "Dimensions": "18 3/4 x 27 3/4\" (47.6 x 70.4 cm)",
-            "Credit": "Gift of the Stedelijk Museum, Amsterdam",
-            "Object number": "342.1957",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/5144"
-    },
-    {
-        "Artist": "Willem Jacob Henri Berend Sandberg",
-        "Title": "Franse en Belgische Grafici",
-        "Year": "1950-51",
-        "ObjectID": "7679",
-        "Work": "https://www.moma.org/collection/works/7679",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNzg0OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d4771d37f4895c97",
-        "Details": {
-            "Medium": "Photolithograph",
-            "Dimensions": "27 3/4 x 39 1/2\"",
-            "Printer": "Stadsdrukkerij van Amsterdam",
-            "Credit": "Gift of the artist",
-            "Object number": "598.1951",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/5144"
-    },
-    {
-        "Artist": "Willem Jacob Henri Berend Sandberg",
-        "Title": "Goed Maar Mooi, 21 Jaar Bond Voor Kunst in Industrie",
-        "Year": "1951",
-        "ObjectID": "7687",
-        "Work": "https://www.moma.org/collection/works/7687",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNzg0OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f233cedaae90b7eb",
-        "Details": {
-            "Medium": "Photolithograph",
-            "Dimensions": "39 1/4 \u00d7 25\" (99.7 \u00d7 63.5 cm)",
-            "Printer": "Stadsdrukkerij van Amsterdam",
-            "Credit": "Gift of the artist",
-            "Object number": "599.1951",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/5144"
-    },
-    {
-        "Artist": "Willem Jacob Henri Berend Sandberg",
-        "Title": "Stedelijk Museum Amsterdam, Tien Belgische Beeldhouwers",
-        "Year": "1951",
-        "ObjectID": "7691",
-        "Work": "https://www.moma.org/collection/works/7691",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNzg1MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ef0c11c6467070c9",
-        "Details": {
-            "Medium": "Photolithograph",
-            "Dimensions": "39 1/2 \u00d7 27 1/2\" (100.3 \u00d7 69.9 cm)",
-            "Printer": "Stadsdrukkerij van Amsterdam",
-            "Credit": "Gift of the artist",
-            "Object number": "600.1951",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/5144"
-    },
-    {
-        "Artist": "August Sander",
-        "Title": "Mother of God from the Altar Tabernacle (Muttergottes aus dem Alteraufsatz)",
-        "Year": "1951",
-        "ObjectID": "52165",
-        "Work": "https://www.moma.org/collection/works/52165",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQzMzA2MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e35e96367dc02aaf",
+        "Artist": "Christer Stromholm",
+        "Title": "Untitled",
+        "Year": "1962",
+        "ObjectID": "202757",
+        "Work": "https://www.moma.org/collection/works/202757",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM3NTMyOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fbda2bf8b8e4da5f",
         "Details": {
             "Medium": "Gelatin silver print",
-            "Dimensions": "11 6/16 \u00d7 7 3/16\" (28.8 \u00d7 18.3 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "380.1953",
-            "Copyright": "\u00a9 2023 Die Photographische Sammlung / SK Stiftung Kultur - August Sander Archiv, Cologne / ARS, NY",
+            "Dimensions": "20 \u00d7 24\" (50.8 \u00d7 61 cm)",
+            "Credit": "Committee on Photography Fund",
+            "Object number": "373.2016",
+            "Copyright": "\u00a9 2023 Christer Str\u00f6mholm Estate",
             "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/5145"
+        "Profile": "https://www.moma.org/artists/7660"
     },
     {
-        "Artist": "August Sander",
-        "Title": "Ecce Homo from the Altar Tabernacle (Ecce Homo aus dem Altaraufsatz)",
-        "Year": "1951",
-        "ObjectID": "52186",
-        "Work": "https://www.moma.org/collection/works/52186",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQzMzA2MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8ed64877dc6577db",
+        "Artist": "Christer Stromholm",
+        "Title": "Untitled",
+        "Year": "1962",
+        "ObjectID": "202759",
+        "Work": "https://www.moma.org/collection/works/202759",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM3NTMyOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=289094489db4fe69",
         "Details": {
             "Medium": "Gelatin silver print",
-            "Dimensions": "11 \u00d7 8 15/16\" (28 \u00d7 22.8 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "381.1953",
-            "Copyright": "\u00a9 2023 Die Photographische Sammlung / SK Stiftung Kultur - August Sander Archiv, Cologne / ARS, NY",
+            "Dimensions": "20 \u00d7 24\" (50.8 \u00d7 61 cm)",
+            "Credit": "Committee on Photography Fund",
+            "Object number": "374.2016",
+            "Copyright": "\u00a9 2023 Christer Str\u00f6mholm Estate",
             "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/5145"
+        "Profile": "https://www.moma.org/artists/7660"
     },
     {
-        "Artist": "Timo Sarpaneva",
-        "Title": "Devil's Churn Object",
-        "Year": "1951",
-        "ObjectID": "4227",
-        "Work": "https://www.moma.org/collection/works/4227",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyNzcyNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=548d2587977f8464",
+        "Artist": "Christer Stromholm",
+        "Title": "Untitled",
+        "Year": "1962",
+        "ObjectID": "202760",
+        "Work": "https://www.moma.org/collection/works/202760",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM3NDM5NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2ee6f71862e27dcf",
         "Details": {
-            "Manufacturer": "Iittala Glassworks, Iittala, Finland",
-            "Medium": "Hand-shaped, sand-blasted, and acid-polished glass",
-            "Dimensions": "h. 2 3/8\" (6 cm), diam. 2 7/8\" (7.3 cm)",
-            "Credit": "Gift from the collection of Mr. and Mrs. Albert Greene",
-            "Object number": "690.1995",
-            "Department": "Architecture and Design"
+            "Medium": "Gelatin silver print",
+            "Dimensions": "20 \u00d7 24\" (50.8 \u00d7 61 cm)",
+            "Credit": "Committee on Photography Fund",
+            "Object number": "375.2016",
+            "Copyright": "\u00a9 2023 Christer Str\u00f6mholm Estate",
+            "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/5168"
+        "Profile": "https://www.moma.org/artists/7660"
     },
     {
-        "Artist": "Raymond Savignac",
-        "Title": "Cinzano",
-        "Year": "1951",
-        "ObjectID": "7842",
-        "Work": "https://www.moma.org/collection/works/7842",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMTc0NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=79feb008e81be23b",
+        "Artist": "Leopold Survage",
+        "Title": "Plate 16 from l'Avanguardia Internazionale, Volume 4/l'Avant-Garde Internationale, Volume 4/The International Avant-Garde, Volume 4",
+        "Year": "1962, published 1962",
+        "ObjectID": "24966",
+        "Work": "https://www.moma.org/collection/works/24966",
+        "Thumbnail": null,
         "Details": {
-            "Medium": "Offset lithograph",
-            "Dimensions": "46 x 58 1/2\" (117 x 148.6 cm)",
-            "Printer": "De Plas",
-            "Credit": "Gift of the designer",
-            "Object number": "646.1981",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/5185"
-    },
-    {
-        "Artist": "Xanti Schawinsky",
-        "Title": "The Twins",
-        "Year": "1951",
-        "ObjectID": "69325",
-        "Work": "https://www.moma.org/collection/works/69325",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMzQ2NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=dd4df3cd16409674",
-        "Details": {
+            "Author": "Franco Russoli",
             "Medium": "Etching",
-            "Dimensions": "plate: 13 13/16 x 9 7/8\" (35.1 x 25.1cm); sheet: 25 3/8 x 19 1/2\" (64.5 x 49.6cm)",
-            "Credit": "Purchase",
-            "Object number": "450.1953",
+            "Dimensions": "plate: 5 7/8 \u00d7 4 7/16\" (15 \u00d7 11.3 cm)",
+            "Publisher": "Galleria Schwarz, Milan",
+            "Credit": "Gift of Peter H. Deitsch",
+            "Object number": "803.1963.16",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/5208"
+        "Profile": "https://www.moma.org/artists/5735"
     },
     {
-        "Artist": "Peter Schlumbohm",
-        "Title": "Filterjet Fan",
-        "Year": "1951",
-        "ObjectID": "4371",
-        "Work": "https://www.moma.org/collection/works/4371",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMDMwNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8d346c5ea7d10988",
-        "Details": {
-            "Manufacturer": "Chemex Corp., New York, NY",
-            "Medium": "Plastic casing",
-            "Dimensions": "6 x 17\" (15.3 x 43.2 cm)",
-            "Credit": "Gift of the manufacturer",
-            "Object number": "552.1964.a-b",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/5225"
-    },
-    {
-        "Artist": "Sonja Sekula",
-        "Title": "The Town of the Poor",
-        "Year": "1951",
-        "ObjectID": "280438",
-        "Work": "https://www.moma.org/collection/works/280438",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ2MDcxMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7d1918f081e4102c",
-        "Details": {
-            "Medium": "Oil on canvas",
-            "Dimensions": "66 \u00d7 90\" (167.6 \u00d7 228.6 cm)",
-            "Credit": "Committee on Painting and Sculpture Funds",
-            "Object number": "212.2018",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/5332"
-    },
-    {
-        "Artist": "Ben Shahn",
-        "Title": "To Give Them A Break...Register, Vote",
-        "Year": "c. 1946",
-        "ObjectID": "5063",
-        "Work": "https://www.moma.org/collection/works/5063",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNzYxOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9328f49d751b02a7",
+        "Artist": "Max Walter Svanberg",
+        "Title": "Lunds Konsthall",
+        "Year": "1962",
+        "ObjectID": "8975",
+        "Work": "https://www.moma.org/collection/works/8975",
+        "Thumbnail": null,
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "Sheet: 39 3/4 x 29 3/4\" (101 x 75.6cm)",
-            "Credit": "Gift of S. S. Spivack",
-            "Object number": "98.1947",
+            "Dimensions": "39 x 27 1/2\" (99.0 x 69.8 cm)",
+            "Credit": "Gift of Mr. and Mrs. Leo Farland",
+            "Object number": "2272.1967",
             "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/5366"
+        "Profile": "https://www.moma.org/artists/5747"
     },
     {
-        "Artist": "Charles Sheeler",
-        "Title": "United Nations Secretariat",
-        "Year": "1951",
-        "ObjectID": "58377",
-        "Work": "https://www.moma.org/collection/works/58377",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MTk0NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c6fc07534778fc6a",
+        "Artist": "John Szarkowski",
+        "Title": "Sarah Lake",
+        "Year": "1962",
+        "ObjectID": "108166",
+        "Work": "https://www.moma.org/collection/works/108166",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4NTA1MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=445aac22e57794a0",
         "Details": {
             "Medium": "Gelatin silver print",
-            "Dimensions": "9 3/8 \u00d7 6 1/4\" (23.8 \u00d7 15.9 cm)",
-            "Credit": "Gift of David H. McAlpin",
-            "Object number": "1794.1968",
-            "Copyright": "\u00a9 2023 The Lane Collection",
+            "Dimensions": "7 3/16 \u00d7 9 5/16\" (18.3 \u00d7 23.7 cm)",
+            "Credit": "Gift of Susan and Peter MacGill",
+            "Object number": "1044.2013",
+            "Copyright": "\u00a9 2023 Estate of John Szarkowski",
             "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/5383"
+        "Profile": "https://www.moma.org/artists/8084"
     },
     {
-        "Artist": "Charles Sheeler",
-        "Title": "Shaker House, Lebanon, New York",
-        "Year": "1951",
-        "ObjectID": "58378",
-        "Work": "https://www.moma.org/collection/works/58378",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MTk0OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d2c2cc2cc293cb4d",
+        "Artist": "Ivan Tabakovic",
+        "Title": "Escape to Universe",
+        "Year": "1962",
+        "ObjectID": "37584",
+        "Work": "https://www.moma.org/collection/works/37584",
+        "Thumbnail": null,
         "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "7 7/16 \u00d7 9 1/2\" (18.9 \u00d7 24.2 cm)",
-            "Credit": "Gift of David H. McAlpin",
-            "Object number": "1795.1968",
-            "Copyright": "\u00a9 2023 The Lane Collection",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/5383"
-    },
-    {
-        "Artist": "Charles Sheeler",
-        "Title": "Beech Tree",
-        "Year": "1951",
-        "ObjectID": "58381",
-        "Work": "https://www.moma.org/collection/works/58381",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MTk1MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5d6631e172c8b0d6",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "8 \u00d7 5 3/16\" (20.4 \u00d7 13.2 cm)",
-            "Credit": "Gift of David H. McAlpin",
-            "Object number": "1798.1968",
-            "Copyright": "\u00a9 2023 The Lane Collection",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/5383"
-    },
-    {
-        "Artist": "Charles Sheeler",
-        "Title": "Beech Tree",
-        "Year": "1951",
-        "ObjectID": "58383",
-        "Work": "https://www.moma.org/collection/works/58383",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MjExMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c813176b07eb775a",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "7 15/16 \u00d7 5 3/8\" (20.1 \u00d7 13.6 cm)",
-            "Credit": "Gift of David H. McAlpin",
-            "Object number": "1800.1968",
-            "Copyright": "\u00a9 2023 The Lane Collection",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/5383"
-    },
-    {
-        "Artist": "Aaron Siskind",
-        "Title": "New York I",
-        "Year": "1951",
-        "ObjectID": "44436",
-        "Work": "https://www.moma.org/collection/works/44436",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NTM2MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0e34e406749b2a8d",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "9 \u00d7 12 7/16\" (22.9 \u00d7 31.6 cm)",
-            "Credit": "Gift of Frances F. L. Beatty",
-            "Object number": "37.1984",
-            "Copyright": "\u00a9 2023 Estate of Aaron Siskind",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/5456"
-    },
-    {
-        "Artist": "Aaron Siskind",
-        "Title": "New York 6",
-        "Year": "1951",
-        "ObjectID": "46917",
-        "Work": "https://www.moma.org/collection/works/46917",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4MzUyMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a8cfdcb01b3ed8fb",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "13 1/8 \u00d7 10 3/8\" (33.3 \u00d7 26.4 cm)",
-            "Credit": "David H. McAlpin Fund",
-            "Object number": "150.1972",
-            "Copyright": "\u00a9 2023 Estate of Aaron Siskind",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/5456"
-    },
-    {
-        "Artist": "Aaron Siskind",
-        "Title": "Kentucky",
-        "Year": "1951",
-        "ObjectID": "46952",
-        "Work": "https://www.moma.org/collection/works/46952",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MTkzOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=22c52eb71ad167aa",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "13 5/8 \u00d7 16 1/2\" (34.6 \u00d7 41.9 cm)",
-            "Credit": "David H. McAlpin Fund",
-            "Object number": "153.1972",
-            "Copyright": "\u00a9 2023 Estate of Aaron Siskind",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/5456"
-    },
-    {
-        "Artist": "Aaron Siskind",
-        "Title": "Chicago 8",
-        "Year": "1951",
-        "ObjectID": "49274",
-        "Work": "https://www.moma.org/collection/works/49274",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4NDE4NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=195598a9260c6177",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "13 1/2 \u00d7 9 9/16\" (34.3 \u00d7 24.3 cm)",
-            "Credit": "Gift of Robert and Joyce Menschel",
-            "Object number": "233.1979",
-            "Copyright": "\u00a9 2023 Estate of Aaron Siskind",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/5456"
-    },
-    {
-        "Artist": "Trudi Sitterle, Harold Sitterle",
-        "Title": "Ashtray",
-        "Year": "1951",
-        "ObjectID": "104733",
-        "Work": "https://www.moma.org/collection/works/104733",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyOTc0MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ed63f4e3278cbd36",
-        "Details": {
-            "Manufacturer": "Manufactured by Sitterle Ceramics, Croton Falls, NY",
-            "Medium": "Glazed porcelain and black oxidized steel",
-            "Dimensions": "1 x 8 1/4 x 8 1/4\" (2.5 x 21 x 21 cm)",
-            "Credit": "Gift of the manufacturer",
-            "Object number": "462.1956.a-b",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/5460"
-    },
-    {
-        "Artist": "Trudi Sitterle, Harold Sitterle, Keith Hovis",
-        "Title": "Ladle",
-        "Year": "1951",
-        "ObjectID": "104732",
-        "Work": "https://www.moma.org/collection/works/104732",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNzY4NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=659f1c9b7818e1a3",
-        "Details": {
-            "Manufacturer": "Manufactured by Sitterle Ceramics, Croton Falls, NY",
-            "Medium": "Glazed porcelain and Brazilian rosewood",
-            "Dimensions": "15 3/4 x 4 1/4\" (40 x 10.8 cm)",
-            "Credit": "Gift of the manufacturer",
-            "Object number": "133.1952",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/5460"
-    },
-    {
-        "Artist": "David Smith",
-        "Title": "Australia",
-        "Year": "1951",
-        "ObjectID": "82047",
-        "Work": "https://www.moma.org/collection/works/82047",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzMjU0NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b74ebf9581a5d180",
-        "Details": {
-            "Medium": "Painted steel on cinder-block base",
-            "Dimensions": "6' 7 1/2\" x 8' 11 7/8\" x 16 1/8\" (202 x 274 x 41 cm), on cinder block base 17 1/2 x 16 3/4 x 15 1/4\" (44.5 x 42.5 x 38.7 cm)",
-            "Credit": "Gift of William Rubin",
-            "Object number": "1533.1968",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/5480"
-    },
-    {
-        "Artist": "David Smith",
-        "Title": "Untitled (Delta Sigma)",
-        "Year": "1951",
-        "ObjectID": "143668",
-        "Work": "https://www.moma.org/collection/works/143668",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwNzcyOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e65b46a2e8ccaf01",
-        "Details": {
-            "Medium": "Ink, colored ink, and gouache on paper",
-            "Dimensions": "18 1/4 x 22 3/4\" (46.4 x 57.8 cm)",
-            "Credit": "Promised gift of Tony Ganz",
-            "Object number": "PG37.2011",
+            "Medium": "Pasted photomechanical reproductions, gouache, pencil, ink footprint, and ink on paper",
+            "Dimensions": "37 7/8 x 26 7/8\" (96.2 x 68.0 cm)",
+            "Credit": "Gift of Mr. and Mrs. Samuel Dorsky",
+            "Object number": "611.1966",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/5480"
+        "Profile": "https://www.moma.org/artists/5768"
     },
     {
-        "Artist": "Paolo Soleri, Mark Mills",
-        "Title": "Dome House, Cave Creek, Arizona",
-        "Year": "1949-50",
-        "ObjectID": "82506",
-        "Work": "https://www.moma.org/collection/works/82506",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMTIzMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3060f2468d6ee3f9",
+        "Artist": "Peter Takal",
+        "Title": "Winter Vine",
+        "Year": "1962",
+        "ObjectID": "36577",
+        "Work": "https://www.moma.org/collection/works/36577",
+        "Thumbnail": null,
         "Details": {
-            "Collaborating artist": "Mark Mills",
-            "Medium": "Plaster and plastic",
-            "Dimensions": "4 1/2 x 17\" (11.4 x 43.2 cm)",
-            "Credit": "Gift of the architect",
-            "Object number": "ASCM 8",
+            "Medium": "Ink on paper",
+            "Dimensions": "31 x 22\" (78.6 x 55.8 cm)",
+            "Credit": "Gift of Jean Mali Noyes",
+            "Object number": "378.1966",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5784"
+    },
+    {
+        "Artist": "Ikko Tanaka",
+        "Title": "3rd International Biennial Exhibition of Prints in Tokyo",
+        "Year": "1962",
+        "ObjectID": "5253",
+        "Work": "https://www.moma.org/collection/works/5253",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxODQ2NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=694539c4fdddbc44",
+        "Details": {
+            "Medium": "Photolithograph",
+            "Dimensions": "28 1/2 x 40\" (72.4 x 101.5 cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "146.1963",
             "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/8101"
+        "Profile": "https://www.moma.org/artists/5800"
     },
     {
-        "Artist": "Frederick Sommer",
-        "Title": "Weeds",
-        "Year": "1951",
-        "ObjectID": "46408",
-        "Work": "https://www.moma.org/collection/works/46408",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMDE5NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8cfdf84a743f311d",
+        "Artist": "Dorothea Tanning",
+        "Title": "Personne (Nobody)",
+        "Year": "published 1962 (prints executed 1959-61)",
+        "ObjectID": "11057",
+        "Work": "https://www.moma.org/collection/works/11057",
+        "Thumbnail": null,
         "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "7 5/8 \u00d7 9 1/2\" (19.4 \u00d7 24.1 cm)",
-            "Credit": "Purchase",
-            "Object number": "110.1964",
+            "Author": "(of text) L\u00e9na Leclercq",
+            "Medium": "Illustrated book with nine etchings, two with aquatint, and one with drypoint (eight pages cut horizontally into thirds)",
+            "Dimensions": "plate (each, uncut): 7 5/8 x 6\" (19.4 x 15.3 cm); page (each, uncut): 12 x 9 3/4\" (30.5 x 24.7 cm); overall: 12 5/16 x 10 1/8 x 3/8\" (31.2 x 25.7 x 1 cm)",
+            "Publisher": "\u00c9ditions Georges Visat & Cie., Paris",
+            "Printer": "\u00c9ditions Georges Visat & Cie., Paris",
+            "Edition": "91",
+            "Credit": "Gift of the Curt Valentin Estate (by exchange)",
+            "Object number": "78.1967.1-9",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5806"
+    },
+    {
+        "Artist": "Antoni Tapies",
+        "Title": "Saint Gall",
+        "Year": "(1962)",
+        "ObjectID": "68660",
+        "Work": "https://www.moma.org/collection/works/68660",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMzM5NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1ca7a49991f613f6",
+        "Details": {
+            "Medium": "Lithograph",
+            "Credit": "Gift of Paul F. Walter",
+            "Object number": "412.1975",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5809"
+    },
+    {
+        "Artist": "Lenore Tawney",
+        "Title": "Dark River",
+        "Year": "1962",
+        "ObjectID": "2267",
+        "Work": "https://www.moma.org/collection/works/2267",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4NDc1MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=beec7d30e216364f",
+        "Details": {
+            "Medium": "Linen and wood",
+            "Dimensions": "164 x 22 1/2\" (416.6 x 57.2 cm)",
+            "Credit": "Greta Daniel Design Fund",
+            "Object number": "133.1963",
+            "Copyright": "\u00a9 2023 Lenore Tawney",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/5814"
+    },
+    {
+        "Artist": "Jerzy Tchorzewski",
+        "Title": "Plate 17 from l'Avanguardia Internazionale, Volume 4/l'Avant-Garde Internationale, Volume 4/The International Avant-Garde, Volume 4",
+        "Year": "1961, published 1962",
+        "ObjectID": "24967",
+        "Work": "https://www.moma.org/collection/works/24967",
+        "Thumbnail": null,
+        "Details": {
+            "Author": "Franco Russoli",
+            "Medium": "Etching",
+            "Dimensions": "plate: 5 7/8 \u00d7 4 7/16\" (14.9 \u00d7 11.3 cm)",
+            "Publisher": "Galleria Schwarz, Milan",
+            "Credit": "Gift of Peter H. Deitsch",
+            "Object number": "803.1963.17",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5823"
+    },
+    {
+        "Artist": "Jesus Tenreiro-Degwitz",
+        "Title": "House at Cumbres de Curumo, Venezuela, Vivienda Cumbres de Curumo",
+        "Year": "1962",
+        "ObjectID": "176753",
+        "Work": "https://www.moma.org/collection/works/176753",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Pencil and ink on paper",
+            "Dimensions": "10 5/8 x 16 9/16\" (27 x 42 cm)",
+            "Credit": "Gift of Ana Diaz de Tenreiro",
+            "Object number": "58.2015",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/44060"
+    },
+    {
+        "Artist": "Rouben Ter-Arutunian",
+        "Title": "Angels of the Iconostasis. Design for the television dance drama Noah and the Flood",
+        "Year": "(1962)",
+        "ObjectID": "37610",
+        "Work": "https://www.moma.org/collection/works/37610",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Pencil on transparentized paper",
+            "Dimensions": "19 x 24\" (48.3 x 60.9 cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "618.1963",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5832"
+    },
+    {
+        "Artist": "George A. Tice",
+        "Title": "One Room Schoolhouse, Lancaster, Pennsylvania",
+        "Year": "1962",
+        "ObjectID": "51270",
+        "Work": "https://www.moma.org/collection/works/51270",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4OTkzMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0648aad72936ccd8",
+        "Details": {
+            "Medium": "Platinum print",
+            "Dimensions": "4 5/8 \u00d7 9 3/8\" (11.8 \u00d7 23.9 cm)",
+            "Credit": "Gift of Sergei John Roux",
+            "Object number": "341.1975",
+            "Copyright": "\u00a9 2023 George A. Tice",
             "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/5520"
+        "Profile": "https://www.moma.org/artists/5873"
+    },
+    {
+        "Artist": "Shomei Tomatsu",
+        "Title": "Sandwich Men, Tokyo",
+        "Year": "1962",
+        "ObjectID": "52726",
+        "Work": "https://www.moma.org/collection/works/52726",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMTE2MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=41e6c000d3ff0d92",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "12 15/16 \u00d7 18 13/16\" (33 \u00d7 47.8 cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "405.1977",
+            "Copyright": "\u00a9 2023 Shomei Tomatsu",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/5895"
+    },
+    {
+        "Artist": "Shomei Tomatsu",
+        "Title": "Hibakusha Senji Yamaguchi, Nagasaki",
+        "Year": "1962",
+        "ObjectID": "56197",
+        "Work": "https://www.moma.org/collection/works/56197",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwOTI0NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=822edf6513a9ae0b",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "12 15/16 \u00d7 8 13/16\" (33 \u00d7 22.4 cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "700.1978",
+            "Copyright": "\u00a9 2023 Shomei Tomatsu",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/5895"
+    },
+    {
+        "Artist": "Shomei Tomatsu",
+        "Title": "Sandwich Men, Tokyo",
+        "Year": "1962",
+        "ObjectID": "56241",
+        "Work": "https://www.moma.org/collection/works/56241",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMDQ4NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=54e89d1076f10314",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "12 15/16 \u00d7 16 7/16\" (33 \u00d7 41.8 cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "709.1978",
+            "Copyright": "\u00a9 2023 Shomei Tomatsu",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/5895"
+    },
+    {
+        "Artist": "Shomei Tomatsu",
+        "Title": "Sandwich Men, Tokyo",
+        "Year": "1962",
+        "ObjectID": "56247",
+        "Work": "https://www.moma.org/collection/works/56247",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMTI0OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=dfc34d609e26ad2e",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "16 1/8 \u00d7 22 15/16\" (40.9 \u00d7 58.3 cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "711.1978",
+            "Copyright": "\u00a9 2023 Shomei Tomatsu",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/5895"
+    },
+    {
+        "Artist": "Shomei Tomatsu",
+        "Title": "Sandwich Men, Tokyo",
+        "Year": "1962",
+        "ObjectID": "56250",
+        "Work": "https://www.moma.org/collection/works/56250",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMDQ4NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8acab51735d02586",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "16 1/8 \u00d7 22 15/16\" (40.9 \u00d7 58.3 cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "712.1978",
+            "Copyright": "\u00a9 2023 Shomei Tomatsu",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/5895"
+    },
+    {
+        "Artist": "Anne Truitt",
+        "Title": "Catawba",
+        "Year": "1962",
+        "ObjectID": "80969",
+        "Work": "https://www.moma.org/collection/works/80969",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMDExNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=67e017fa6d13fbef",
+        "Details": {
+            "Medium": "Painted wood",
+            "Dimensions": "42 1/2 x 60 x 11\" (106.6 x 152.4 x 27.9 cm)",
+            "Credit": "Given anonymously",
+            "Object number": "115.1973",
+            "Copyright": "\u00a9 2023 Anne Truitt",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/5945"
+    },
+    {
+        "Artist": "Anne Truitt",
+        "Title": "Untitled",
+        "Year": "1962",
+        "ObjectID": "92909",
+        "Work": "https://www.moma.org/collection/works/92909",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjk3NTE2Il0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNTEyeDUxMlx1MDAzZSJdXQ.jpg?sha=cce0aae3a656b401",
+        "Details": {
+            "Medium": "Pencil on paper",
+            "Dimensions": "24 x 18\" (61 x 45.7 cm)",
+            "Credit": "Purchase",
+            "Object number": "440.2004",
+            "Copyright": "\u00a9 2023 Anne Truitt",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5945"
+    },
+    {
+        "Artist": "Giulio Turcato",
+        "Title": "Plate 18 from l'Avanguardia Internazionale, Volume 4/l'Avant-Garde Internationale, Volume 4/The International Avant-Garde, Volume 4",
+        "Year": "1962",
+        "ObjectID": "24968",
+        "Work": "https://www.moma.org/collection/works/24968",
+        "Thumbnail": null,
+        "Details": {
+            "Author": "Franco Russoli",
+            "Medium": "Etching",
+            "Dimensions": "plate: 5 13/16 \u00d7 4 1/2\" (14.8 \u00d7 11.4 cm)",
+            "Publisher": "Galleria Schwarz, Milan",
+            "Credit": "Gift of Peter H. Deitsch",
+            "Object number": "803.1963.18",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5972"
+    },
+    {
+        "Artist": "Marko Turk",
+        "Title": "Microphone (model MD8-C)",
+        "Year": "1962",
+        "ObjectID": "3919",
+        "Work": "https://www.moma.org/collection/works/3919",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyOTc2MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=14fc0ec746df4cd2",
+        "Details": {
+            "Manufacturer": "Elektroakusticni Laboratorij, Ljubljana, Yugoslavia for Iskra, Kranj, Yugoslavia",
+            "Medium": "Chrome-plated and enameled metal",
+            "Dimensions": "5 1/2 x 4\" (14 x 10.2 cm)",
+            "Credit": "Gift of the designer",
+            "Object number": "466.1964",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/5974"
+    },
+    {
+        "Artist": "Cy Twombly",
+        "Title": "Leda and the Swan",
+        "Year": "Rome 1962",
+        "ObjectID": "80083",
+        "Work": "https://www.moma.org/collection/works/80083",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1MTQxMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=80cf370100610f93",
+        "Details": {
+            "Medium": "Oil, pencil, and crayon on canvas",
+            "Dimensions": "6' 3\" x 6' 6 3/4\" (190.5 x 200 cm)",
+            "Credit": "Acquired through the Lillie P. Bliss Bequest and The Sidney and Harriet Janis Collection (both by exchange)",
+            "Object number": "612.1994",
+            "Copyright": "\u00a9 2023 Cy Twombly Foundation",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/5988"
+    },
+    {
+        "Artist": "Jerry Uelsmann",
+        "Title": "Bless Our Home and Eagle",
+        "Year": "1962",
+        "ObjectID": "57276",
+        "Work": "https://www.moma.org/collection/works/57276",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4OTk5MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7768c0eea1e7ea62",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "13 5/8 \u00d7 10 5/8\" (34.6 \u00d7 27 cm)",
+            "Credit": "Purchase",
+            "Object number": "893.1965",
+            "Copyright": "\u00a9 2023 Jerry Uelsmann_",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/6001"
+    },
+    {
+        "Artist": "Per Olof Ultvedt",
+        "Title": "Drawing for Project",
+        "Year": "1962",
+        "ObjectID": "288690",
+        "Work": "https://www.moma.org/collection/works/288690",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ0MjQ1OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=456e6427d0b9e09d",
+        "Details": {
+            "Medium": "Pencil on paper",
+            "Dimensions": "19 3/8 \u00d7 22 3/4\" (49.2 \u00d7 57.8 cm)",
+            "Credit": "Gift of Irving Stenn Jr.",
+            "Object number": "1207.2018",
+            "Copyright": "\u00a9 2023 Artists Right Society (ARS), NY/Bildupphovsr\u00e4tt",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/43108"
+    },
+    {
+        "Artist": "Unidentified Designer",
+        "Title": "Greetings of the Season with Very Best Wishes for a Happy and Beautiful New Year, Cumberland Furniture Corporation",
+        "Year": "1962",
+        "ObjectID": "6094",
+        "Work": "https://www.moma.org/collection/works/6094",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxODQ4NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2327055c30e10e76",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "23 x 18\" (58.4 x 45.7 cm)",
+            "Credit": "Given anonymously",
+            "Object number": "288.1962",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/6021"
+    },
+    {
+        "Artist": "Unidentified photographer, George Maciunas, Arthus Carlheinz Caspari",
+        "Title": "Arthus C. Caspari reading George Maciunas' manifesto Neo-Dada in Music, Theater, Poetry, Art, during Kleines Sommerfest: Apres John Cage, Galerie Parnass, Wuppertal, West Germany, June 9, 1962",
+        "Year": "1962",
+        "ObjectID": "128219",
+        "Work": "https://www.moma.org/collection/works/128219",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NjIxMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6b40f2466b54b85d",
+        "Details": {
+            "Collaborating artist": "George Maciunas, Arthus Carlheinz Caspari",
+            "Medium": "Gelatin silver print",
+            "Dimensions": "image: 9 1/16 x 13 9/16\" (23 x 34.4 cm); sheet: 10 7/8 x 13 15/16\" (27.6 x 35.4 cm)",
+            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
+            "Object number": "2264.2008",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/8595"
+    },
+    {
+        "Artist": "Reva Urban",
+        "Title": "Title page from the portfolio Trembling Then...",
+        "Year": "1962",
+        "ObjectID": "75444",
+        "Work": "https://www.moma.org/collection/works/75444",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "One from a portfolio of fourteen lithographs",
+            "Dimensions": "composition (irreg.): 25 5/16 \u00d7 26 1/8\" (64.3 \u00d7 66.3 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1065.1967.1",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6037"
+    },
+    {
+        "Artist": "Reva Urban",
+        "Title": "Trembling Then...",
+        "Year": "1962",
+        "ObjectID": "75445",
+        "Work": "https://www.moma.org/collection/works/75445",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Portfolio of fourteen lithographs",
+            "Dimensions": "various composition dimensions. sheet (each approx.): 29 5/8 \u00d7 33 3/8\" (75.3 \u00d7 84.8 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1065.1967.1-14",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6037"
+    },
+    {
+        "Artist": "Reva Urban",
+        "Title": "With Heart of Sethoscope Beat from the portfolio Trembling Then...",
+        "Year": "1962",
+        "ObjectID": "75446",
+        "Work": "https://www.moma.org/collection/works/75446",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "One from a portfolio of fourteen lithographs",
+            "Dimensions": "composition (irreg.): 26 1/8 \u00d7 26 1/8\" (66.4 \u00d7 66.3 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1065.1967.10",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6037"
+    },
+    {
+        "Artist": "Reva Urban",
+        "Title": "Descending Helix from the portfolio Trembling Then...",
+        "Year": "1962",
+        "ObjectID": "75447",
+        "Work": "https://www.moma.org/collection/works/75447",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "One from a portfolio of fourteen lithographs",
+            "Dimensions": "composition (irreg.): 26 5/16 \u00d7 27 3/16\" (66.8 \u00d7 69 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1065.1967.11",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6037"
+    },
+    {
+        "Artist": "Reva Urban",
+        "Title": "Red City - A Child's World from the portfolio Trembling Then...",
+        "Year": "1962",
+        "ObjectID": "75448",
+        "Work": "https://www.moma.org/collection/works/75448",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "One from a portfolio of fourteen lithographs",
+            "Dimensions": "composition (irreg.): 26 5/8 \u00d7 28 1/8\" (67.7 \u00d7 71.4 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1065.1967.12",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6037"
+    },
+    {
+        "Artist": "Reva Urban",
+        "Title": "Tic-Tac-Toe #2 from the portfolio Trembling Then...",
+        "Year": "1962",
+        "ObjectID": "75449",
+        "Work": "https://www.moma.org/collection/works/75449",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "One from a portfolio of fourteen lithographs",
+            "Dimensions": "composition (irreg.): 25 3/8 \u00d7 29 1/2\" (64.4 \u00d7 75 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1065.1967.13",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6037"
+    },
+    {
+        "Artist": "Reva Urban",
+        "Title": "Colophon page from the portfolio Trembling Then...",
+        "Year": "1962",
+        "ObjectID": "75450",
+        "Work": "https://www.moma.org/collection/works/75450",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "One from a portfolio of fourteen lithographs",
+            "Dimensions": "composition (irreg.): 17 3/16 \u00d7 30 3/4\" (43.6 \u00d7 78.2 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1065.1967.14",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6037"
+    },
+    {
+        "Artist": "Reva Urban",
+        "Title": "Untitled (Poetry page) from the portfolio Trembling Then...",
+        "Year": "1962",
+        "ObjectID": "75451",
+        "Work": "https://www.moma.org/collection/works/75451",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "One from a portfolio of fourteen lithographs",
+            "Dimensions": "composition (irreg.): 20 1/4 \u00d7 10 3/8\" (51.4 \u00d7 26.4 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1065.1967.2",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6037"
+    },
+    {
+        "Artist": "Reva Urban",
+        "Title": "Untitled (Poetry page) from the portfolio Trembling Then...",
+        "Year": "1962",
+        "ObjectID": "75452",
+        "Work": "https://www.moma.org/collection/works/75452",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "One from a portfolio of fourteen lithographs",
+            "Dimensions": "composition (irreg.): 9 15/16 \u00d7 6 15/16\" (25.2 \u00d7 17.6 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1065.1967.3",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6037"
+    },
+    {
+        "Artist": "Reva Urban",
+        "Title": "Untitled (Poetry page) from the portfolio Trembling Then...",
+        "Year": "1962",
+        "ObjectID": "75453",
+        "Work": "https://www.moma.org/collection/works/75453",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "One from a portfolio of fourteen lithographs",
+            "Dimensions": "composition (irreg.): 14 1/2 \u00d7 11 3/4\" (36.8 \u00d7 29.8 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1065.1967.4",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6037"
+    },
+    {
+        "Artist": "Reva Urban",
+        "Title": "Untitled (Poetry page) from the portfolio Trembling Then...",
+        "Year": "1962",
+        "ObjectID": "75454",
+        "Work": "https://www.moma.org/collection/works/75454",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "One from a portfolio of fourteen lithographs",
+            "Dimensions": "composition (irreg.): 8 9/16 \u00d7 8 9/16\" (21.7 \u00d7 21.7 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1065.1967.5",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6037"
+    },
+    {
+        "Artist": "Reva Urban",
+        "Title": "Dawn is the Morning from the portfolio Trembling Then...",
+        "Year": "1962",
+        "ObjectID": "75455",
+        "Work": "https://www.moma.org/collection/works/75455",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "One from a portfolio of fourteen lithographs",
+            "Dimensions": "composition (irreg.): 25 5/8 \u00d7 27\" (65.1 \u00d7 68.6 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1065.1967.6",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6037"
+    },
+    {
+        "Artist": "Reva Urban",
+        "Title": "Purple Concrete from the portfolio Trembling Then...",
+        "Year": "1962",
+        "ObjectID": "75456",
+        "Work": "https://www.moma.org/collection/works/75456",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "One from a portfolio of fourteen lithographs",
+            "Dimensions": "composition (irreg.): 25 \u00d7 28 7/16\" (63.6 \u00d7 72.2 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1065.1967.7",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6037"
+    },
+    {
+        "Artist": "Reva Urban",
+        "Title": "Returned to Ancient Islands from the portfolio Trembling Then...",
+        "Year": "1962",
+        "ObjectID": "75457",
+        "Work": "https://www.moma.org/collection/works/75457",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "One from a portfolio of fourteen lithographs",
+            "Dimensions": "composition (irreg.): 26 15/16 \u00d7 20 11/16\" (68.5 \u00d7 52.5 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1065.1967.8",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6037"
+    },
+    {
+        "Artist": "Reva Urban",
+        "Title": "Those Walls of Stone from the portfolio Trembling Then...",
+        "Year": "1962",
+        "ObjectID": "75458",
+        "Work": "https://www.moma.org/collection/works/75458",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "One from a portfolio of fourteen lithographs",
+            "Dimensions": "composition (irreg.): 22 15/16 \u00d7 25 11/16\" (58.3 \u00d7 65.3 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1065.1967.9",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6037"
+    },
+    {
+        "Artist": "Karel Vaca",
+        "Title": "Zavrat (Vertigo) (Poster for Czechoslovak film directed by Karel Kachyna)",
+        "Year": "1962",
+        "ObjectID": "180798",
+        "Work": "https://www.moma.org/collection/works/180798",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5OTQ3OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e2856198abe55bfa",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "32 \u00d7 22 3/4\" (81.3 \u00d7 57.8 cm)",
+            "Credit": "Gift of the designer",
+            "Object number": "393.2014",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/44648"
     }
 ]

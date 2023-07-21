@@ -1,817 +1,806 @@
 [
     {
-        "Artist": "Harold Eugene Edgerton",
-        "Title": "Milk Drop",
-        "Year": "c. 1936",
-        "ObjectID": "49722",
-        "Work": "https://www.moma.org/collection/works/49722",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyNDM0MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f54721ba3415eaef",
+        "Artist": "Timo Sarpaneva",
+        "Title": "Carafe",
+        "Year": "1956",
+        "ObjectID": "3169",
+        "Work": "https://www.moma.org/collection/works/3169",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMDk1NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=74f7bc2d71b2910d",
+        "Details": {
+            "Manufacturer": "Iittala Glassworks, Iittala, Finland",
+            "Medium": "Glass",
+            "Dimensions": "7 5/8 x 3 5/8\" (19.4 x 9.2 cm)",
+            "Credit": "Phyllis B. Lambert Fund",
+            "Object number": "276.1958",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/5168"
+    },
+    {
+        "Artist": "Timo Sarpaneva",
+        "Title": "Tumbler (model i-103)",
+        "Year": "1956",
+        "ObjectID": "4437",
+        "Work": "https://www.moma.org/collection/works/4437",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMTg3NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=58baf2f4a542d37b",
+        "Details": {
+            "Manufacturer": "Iittala Glassworks, Iittala, Finland",
+            "Medium": "Blown glass",
+            "Dimensions": "2 13/16 x 2 1/4\" (7.1 x 5.7 cm)",
+            "Credit": "Purchase",
+            "Object number": "742.1983",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/5168"
+    },
+    {
+        "Artist": "Timo Sarpaneva",
+        "Title": "Tumblers (model i-104)",
+        "Year": "1956",
+        "ObjectID": "4438",
+        "Work": "https://www.moma.org/collection/works/4438",
+        "Thumbnail": null,
+        "Details": {
+            "Manufacturer": "Iittala Glassworks, Iittala, Finland",
+            "Medium": "Blown glass",
+            "Dimensions": "2 1/2 x 2 3/4\" (6.4 x 7 cm)",
+            "Credit": "Purchase",
+            "Object number": "743.1983.1-6",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/5168"
+    },
+    {
+        "Artist": "Peter Schlumbohm",
+        "Title": "Tellid",
+        "Year": "1956",
+        "ObjectID": "4687",
+        "Work": "https://www.moma.org/collection/works/4687",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDIyNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=01eb9ae9c9a3dd6b",
+        "Details": {
+            "Manufacturer": "Chemex Corp., New York, NY",
+            "Medium": "Glass and plastic",
+            "Dimensions": "7 5/8 x 8 1/2\" (19.4 x 21.6cm)",
+            "Credit": "Gift of the manufacturer",
+            "Object number": "1324.2001",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/5225"
+    },
+    {
+        "Artist": "Peter Schlumbohm",
+        "Title": "Flask",
+        "Year": "1956",
+        "ObjectID": "4689",
+        "Work": "https://www.moma.org/collection/works/4689",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMjAyNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9f20cae5a0b2a802",
+        "Details": {
+            "Manufacturer": "Chemex Corp., New York, NY",
+            "Medium": "Glass and cork",
+            "Dimensions": ".a (flask): 10 1/8 x 4\" (25.7 x 10.2 cm)\r\n.b (stopper): 1 1/2 x 2 1/2\" (3.8 x 6.4 cm)",
+            "Credit": "Gift of the manufacturer",
+            "Object number": "1326.2001.a-b",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/5225"
+    },
+    {
+        "Artist": "William Scott",
+        "Title": "Still Life with Strainer",
+        "Year": "1956",
+        "ObjectID": "36533",
+        "Work": "https://www.moma.org/collection/works/36533",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4MjY4OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=29e9cff07299a416",
+        "Details": {
+            "Medium": "Charcoal on paper",
+            "Dimensions": "22 x 30\" (55.9 x 76.0 cm)",
+            "Credit": "Gift of Mrs. Gilbert W. Chapman",
+            "Object number": "368.1975",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5303"
+    },
+    {
+        "Artist": "Sonja Sekula",
+        "Title": "The Voyage",
+        "Year": "1956",
+        "ObjectID": "407904",
+        "Work": "https://www.moma.org/collection/works/407904",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ4ODk0NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fa9e191f3ecfb335",
+        "Details": {
+            "Medium": "Ink and watercolor on paper",
+            "Dimensions": "12 1/2 \u00d7 9 1/2\" (31.8 \u00d7 24.1 cm)",
+            "Credit": "Acquired through the generosity of the Contemporary Drawing and Print Associates",
+            "Object number": "24.2020",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5332"
+    },
+    {
+        "Artist": "Luis Seoane",
+        "Title": "Suerte de Toros",
+        "Year": "1925",
+        "ObjectID": "74233",
+        "Work": "https://www.moma.org/collection/works/74233",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ3MjA5NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0376a8d715984aaf",
+        "Details": {
+            "Medium": "Wood engraving",
+            "Dimensions": "composition: 5 13/16 \u00d7 7 9/16\" (14.8 \u00d7 19.2 cm); sheet: 15 1/4 \u00d7 12 7/8\" (38.8 \u00d7 32.7 cm)",
+            "Edition": "unknown",
+            "Credit": "Inter-American Fund",
+            "Object number": "807.1956",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5343"
+    },
+    {
+        "Artist": "Josef Shaftel",
+        "Title": "No Place to Hide",
+        "Year": "1956",
+        "ObjectID": "303561",
+        "Work": "https://www.moma.org/collection/works/303561",
+        "Thumbnail": null,
+        "Details": {
+            "Producer": "Josef Shaftel",
+            "Object number": "W1550",
+            "Department": "Film"
+        },
+        "Profile": "https://www.moma.org/artists/121118"
+    },
+    {
+        "Artist": "Ben Shahn",
+        "Title": "Cartoon for mosaic mural for William E. Grady Vocational High School, Brooklyn, New York",
+        "Year": "(1956)",
+        "ObjectID": "37776",
+        "Work": "https://www.moma.org/collection/works/37776",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Tempera on paper",
+            "Dimensions": "7' 8 1/2\" x 49' 2 1/4\" (2.34 x 15 m.)",
+            "Credit": "Gift of the artist",
+            "Object number": "674.1959",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5366"
+    },
+    {
+        "Artist": "Ben Shahn",
+        "Title": "Mine Building",
+        "Year": "1956",
+        "ObjectID": "66101",
+        "Work": "https://www.moma.org/collection/works/66101",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3NjM4MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=edfc4dc3045908f9",
+        "Details": {
+            "Medium": "Screenprint with hand additions",
+            "Dimensions": "composition (irreg.): 17 3/8 x 28 9/16\" (44.2 x 72.5 cm); sheet: 21 1/8 x 30 7/8\" (53.7 x 78.4 cm)",
+            "Publisher": "probably Ben Shahn",
+            "Printer": "probably Ben Shahn",
+            "Edition": "unknown",
+            "Credit": "Junior Council Fund",
+            "Object number": "288.1967",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5366"
+    },
+    {
+        "Artist": "Robert F. Sheehan, 3rd",
+        "Title": "Switch Points, Port Jefferson, Lond Island",
+        "Year": "August 1956",
+        "ObjectID": "51091",
+        "Work": "https://www.moma.org/collection/works/51091",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMzUxMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7c34cd8907df6621",
+        "Details": {
+            "Medium": "Silver dye bleach",
+            "Dimensions": "6 1/4 \u00d7 9 5/16\" (15.8 \u00d7 23.6 cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "336.1959",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/18151"
+    },
+    {
+        "Artist": "Robert F. Sheehan, 3rd",
+        "Title": "Sawn Tree, Cross River",
+        "Year": "October 1956",
+        "ObjectID": "51217",
+        "Work": "https://www.moma.org/collection/works/51217",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMzUyMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=908a70091c6317b9",
+        "Details": {
+            "Medium": "Silver dye bleach",
+            "Dimensions": "6 1/4 \u00d7 9 3/8\" (15.9 \u00d7 23.8 cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "339.1959",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/18151"
+    },
+    {
+        "Artist": "Ellen Siegel",
+        "Title": "Casement Cloth",
+        "Year": "1956",
+        "ObjectID": "2036",
+        "Work": "https://www.moma.org/collection/works/2036",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ3Nzk1MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0296ff6cdf7050ef",
+        "Details": {
+            "Manufacturer": "J.H. Thorp & Co., Inc., New York, NY",
+            "Medium": "Saran",
+            "Dimensions": "42 x 50 1/2\" (106.7 x 128.2 cm)",
+            "Credit": "Given anonymously",
+            "Object number": "505.1975",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7360"
+    },
+    {
+        "Artist": "Aaron Siskind",
+        "Title": "Pleasures and Terrors of Levitation 55",
+        "Year": "1956",
+        "ObjectID": "48676",
+        "Work": "https://www.moma.org/collection/works/48676",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMDI5OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fb7ff1d310620525",
         "Details": {
             "Medium": "Gelatin silver print",
-            "Dimensions": "9 9/16 \u00d7 7 5/8\" (24.3 \u00d7 19.4 cm)",
-            "Credit": "Gift of the Harold and Esther Edgerton Family Foundation",
-            "Object number": "263.1996",
-            "Copyright": "\u00a9 2023 Estate of Harold Edgerton",
+            "Dimensions": "9 7/8 \u00d7 9 1/2\" (25.1 \u00d7 24.2 cm)",
+            "Credit": "Gift of Robert and Joyce Menschel",
+            "Object number": "216.1979",
+            "Copyright": "\u00a9 2023 Estate of Aaron Siskind",
             "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/1681"
+        "Profile": "https://www.moma.org/artists/5456"
     },
     {
-        "Artist": "Marli Ehrman",
-        "Title": "Upholstery fabric sample (no. 13304)",
-        "Year": "1941",
-        "ObjectID": "4506",
-        "Work": "https://www.moma.org/collection/works/4506",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNzU5NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b1495a07ed0c143f",
-        "Details": {
-            "Manufacturer": "Moss Rose Manufacturing Co., Philadelphia, PA",
-            "Medium": "Woven cotton, twine, and rug wool",
-            "Dimensions": "53 x 27\" (134.7 x 68.6 cm)",
-            "Credit": "Purchase Fund",
-            "Object number": "880.1942",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/1694"
-    },
-    {
-        "Artist": "Marli Ehrman",
-        "Title": "Fabric Upholstery (no. 13304)",
-        "Year": "c. 1940",
-        "ObjectID": "4507",
-        "Work": "https://www.moma.org/collection/works/4507",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNzU5NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=562bde4d44e1e664",
-        "Details": {
-            "Manufacturer": "Moss Rose Manufacturing Co., Philadelphia, PA",
-            "Medium": "Woven cotton, twine, and rug wool",
-            "Dimensions": "52 x 25\" (132 x 63.5 cm)",
-            "Credit": "Purchase Fund",
-            "Object number": "881.1942",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/1694"
-    },
-    {
-        "Artist": "Marli Ehrman",
-        "Title": "Upholstery fabric sample (No.13307)",
-        "Year": "c. 1940",
-        "ObjectID": "4509",
-        "Work": "https://www.moma.org/collection/works/4509",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNzU5OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c02a0c4c84180391",
-        "Details": {
-            "Medium": "Woven cotton and chenille",
-            "Dimensions": "24 x 24\" (61 x 61 cm)",
-            "Credit": "Gift of the designer",
-            "Object number": "883.1942",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/1694"
-    },
-    {
-        "Artist": "Marli Ehrman",
-        "Title": "Upholstery fabric sample (no.13308)",
-        "Year": "c. 1940",
-        "ObjectID": "4510",
-        "Work": "https://www.moma.org/collection/works/4510",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMDU5NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=50e87a2a6a5bfcd5",
-        "Details": {
-            "Medium": "Woven cotton and wool",
-            "Dimensions": "23 x 22 1/2\" (58.4 x 57.1 cm)",
-            "Credit": "Gift of the designer",
-            "Object number": "884.1942",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/1694"
-    },
-    {
-        "Artist": "Marli Ehrman",
-        "Title": "Fabric sample (no. 13309)",
-        "Year": "1941",
-        "ObjectID": "4511",
-        "Work": "https://www.moma.org/collection/works/4511",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMTkzNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1704a554e9a4e8d9",
-        "Details": {
-            "Medium": "Woven cotton",
-            "Dimensions": "24 5/8 x 24 5/8\" (62.5 x 62.5 cm) (framed)",
-            "Credit": "Gift of the designer",
-            "Object number": "885.1942",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/1694"
-    },
-    {
-        "Artist": "Marli Ehrman",
-        "Title": "Upholstery fabric",
-        "Year": "1941",
-        "ObjectID": "4512",
-        "Work": "https://www.moma.org/collection/works/4512",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMTkzNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9733e18ec54e404e",
-        "Details": {
-            "Medium": "Woven cotton",
-            "Dimensions": "31 1/2 x 26\" (80 x 66 cm)",
-            "Credit": "Gift of the designer",
-            "Object number": "886.1942",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/1694"
-    },
-    {
-        "Artist": "Marli Ehrman",
-        "Title": "Upholstery fabric sample (no.13305)",
-        "Year": "c. 1940",
-        "ObjectID": "4513",
-        "Work": "https://www.moma.org/collection/works/4513",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMTkzNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=89bb41657dadc1d5",
-        "Details": {
-            "Medium": "Woven cotton",
-            "Dimensions": "23 x 17\" (58.4 x 43.2 cm)",
-            "Credit": "Gift of the designer",
-            "Object number": "887.1942",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/1694"
-    },
-    {
-        "Artist": "Marli Ehrman",
-        "Title": "Upholstery fabric sample (no. 13306)",
-        "Year": "c. 1940",
-        "ObjectID": "4514",
-        "Work": "https://www.moma.org/collection/works/4514",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMTkzOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ddcab0a9800f20b5",
-        "Details": {
-            "Medium": "Woven cotton",
-            "Dimensions": "23 1/4 x 20\" (59 x 50.8 cm)",
-            "Credit": "Gift of the designer",
-            "Object number": "888.1942",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/1694"
-    },
-    {
-        "Artist": "Marli Ehrman",
-        "Title": "Fabric (no. 13309)",
-        "Year": "c. 1940",
-        "ObjectID": "4516",
-        "Work": "https://www.moma.org/collection/works/4516",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNzYwMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fd030540aa316f42",
-        "Details": {
-            "Manufacturer": "Moss Rose Manufacturing Co., Philadelphia, PA",
-            "Medium": "Woven cotton",
-            "Dimensions": "81 x 52 1/2\" (205.7 x 133.3 cm)",
-            "Credit": "Purchase Fund",
-            "Object number": "890.1942",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/1694"
-    },
-    {
-        "Artist": "Marli Ehrman",
-        "Title": "Fabric (no. 13309)",
-        "Year": "c. 1940",
-        "ObjectID": "4517",
-        "Work": "https://www.moma.org/collection/works/4517",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMDU5OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3e6113bf2a801369",
-        "Details": {
-            "Manufacturer": "Moss Rose Manufacturing Co., Philadelphia, PA",
-            "Medium": "Woven cotton",
-            "Dimensions": "26 x 23 3/4\" (66 x 60.3 cm)",
-            "Credit": "Purchase Fund",
-            "Object number": "891.1942",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/1694"
-    },
-    {
-        "Artist": "Marli Ehrman",
-        "Title": "Fabric (no. 13308)",
-        "Year": "c. 1940",
-        "ObjectID": "4518",
-        "Work": "https://www.moma.org/collection/works/4518",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMDYwMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c27539fa67fc1f78",
-        "Details": {
-            "Manufacturer": "Moss Rose Manufacturing Co., Philadelphia, PA",
-            "Medium": "Cotton",
-            "Dimensions": "25 x 26\" (63.5 x 66 cm)",
-            "Credit": "Purchase",
-            "Object number": "892.1942",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/1694"
-    },
-    {
-        "Artist": "Marli Ehrman",
-        "Title": "Fabric (no. 13308)",
-        "Year": "c. 1940",
-        "ObjectID": "4519",
-        "Work": "https://www.moma.org/collection/works/4519",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMDYwMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=33cff63ade65ab23",
-        "Details": {
-            "Manufacturer": "Moss Rose Manufacturing Co., Philadelphia, PA",
-            "Medium": "Woven cotton",
-            "Dimensions": "27 x 26\" (68.6 x 66 cm)",
-            "Credit": "Purchase Fund",
-            "Object number": "893.1942",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/1694"
-    },
-    {
-        "Artist": "Marli Ehrman",
-        "Title": "Fabric (no. 13308)",
-        "Year": "c. 1940",
-        "ObjectID": "4520",
-        "Work": "https://www.moma.org/collection/works/4520",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMDYwNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=887eb1d702ca63e6",
-        "Details": {
-            "Manufacturer": "Moss Rose Manufacturing Co., Philadelphia, PA",
-            "Medium": "Cotton",
-            "Dimensions": "26 x 25 1/2\" (66 x 64.8 cm)",
-            "Credit": "Purchase Fund",
-            "Object number": "894.1942",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/1694"
-    },
-    {
-        "Artist": "Marli Ehrman",
-        "Title": "Fabric (no. 13309)",
-        "Year": "c. 1940",
-        "ObjectID": "4521",
-        "Work": "https://www.moma.org/collection/works/4521",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMDYwNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=332e3bdf151401d6",
-        "Details": {
-            "Manufacturer": "Moss Rose Manufacturing Co., Philadelphia, PA",
-            "Medium": "Woven cotton",
-            "Dimensions": "28 x 25 3/4\" (71.1 x 65.4 cm)",
-            "Credit": "Purchase Fund",
-            "Object number": "895.1942",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/1694"
-    },
-    {
-        "Artist": "Marli Ehrman",
-        "Title": "Fabric (no. 13305)",
-        "Year": "c. 1940",
-        "ObjectID": "4522",
-        "Work": "https://www.moma.org/collection/works/4522",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMDYwOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=039aa4f5f75783ae",
-        "Details": {
-            "Manufacturer": "Moss Rose Manufacturing Co., Philadelphia, PA",
-            "Medium": "Woven cotton",
-            "Dimensions": "49 1/2 x 29\" (125.7 x 73.7)",
-            "Credit": "Purchase Fund",
-            "Object number": "896.1942",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/1694"
-    },
-    {
-        "Artist": "Marli Ehrman",
-        "Title": "Fabric (no. 13305)",
-        "Year": "c. 1940",
-        "ObjectID": "4523",
-        "Work": "https://www.moma.org/collection/works/4523",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNzYwMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=99bca00a8ac94a36",
-        "Details": {
-            "Manufacturer": "Moss Rose Manufacturing Co., Philadelphia, PA",
-            "Medium": "Cotton",
-            "Dimensions": "84 x 50\" (213.4 x 127 cm)",
-            "Credit": "Purchase Fund",
-            "Object number": "897.1942",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/1694"
-    },
-    {
-        "Artist": "Ei-Q (Hideo Sugita)",
-        "Title": "Untitled Photo-Dessin",
-        "Year": "c. 1936",
-        "ObjectID": "284031",
-        "Work": "https://www.moma.org/collection/works/284031",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQzODExMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=46c56a526f3810f5",
-        "Details": {
-            "Medium": "Gelatin silver print with applied color",
-            "Dimensions": "10 \u00d7 12\" (25.4 \u00d7 30.5 cm)",
-            "Credit": "Carl Jacobs Fund",
-            "Object number": "950.2018",
-            "Copyright": "\u00a9 2023 Estate of Ei-Q",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/74353"
-    },
-    {
-        "Artist": "Mildred Elfman",
-        "Title": "Summer Outlet No. 1",
-        "Year": "1941",
-        "ObjectID": "181410",
-        "Work": "https://www.moma.org/collection/works/181410",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ3MDUxNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7eaadf4886ac328c",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "composition (irreg.): 10 7/16 \u00d7 14\" (26.5 \u00d7 35.5 cm); sheet: 12 3/8 \u00d7 19 3/16\" (31.5 \u00d7 48.7 cm)",
-            "Publisher": "Works Progress Administration (WPA), Federal Art Project, Philadelphia",
-            "Printer": "Works Progress Administration (WPA), Federal Art Project, Philadelphia",
-            "Edition": "35",
-            "Credit": "Extended loan from the United States WPA Art Program. Fine Arts Collection, Public Buildings Service, General Services Administration",
-            "Object number": "EL1957.958",
-            "Associated work": "Works Progress Administration (WPA), Federal Art Project, Graphic Arts Division, Philadelphia",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/46085"
-    },
-    {
-        "Artist": "V. M. Elin",
-        "Title": "Zheleznodorozhnyi transportt\u2014rodnoi brat krasnoi armii (Railroad Transport\u2014The Red Army's Brother)",
-        "Year": "1941",
-        "ObjectID": "31980",
-        "Work": "https://www.moma.org/collection/works/31980",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMDM0NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=25b9159c13d95984",
-        "Details": {
-            "Medium": "Letterpress",
-            "Dimensions": "sheet: 13 9/16 x 27 3/8\" (34.5 x 69.5 cm)",
-            "Publisher": "Ogiz-Gospolitizdat, Moscow",
-            "Edition": "25,000",
-            "Credit": "Gift of The Judith Rothschild Foundation",
-            "Object number": "1112.2001",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/24016"
-    },
-    {
-        "Artist": "Edward Enlin",
-        "Title": "Democratism, Coney Island",
-        "Year": "1941",
-        "ObjectID": "55841",
-        "Work": "https://www.moma.org/collection/works/55841",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1MjU3OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=42f5c985a6174895",
+        "Artist": "Aaron Siskind",
+        "Title": "Chicago",
+        "Year": "1956",
+        "ObjectID": "49256",
+        "Work": "https://www.moma.org/collection/works/49256",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4NDE4MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0305fafed1d6e588",
         "Details": {
             "Medium": "Gelatin silver print",
-            "Dimensions": "10 3/8 \u00d7 13 3/8\" (26.4 \u00d7 34 cm)",
-            "Credit": "Purchase",
-            "Object number": "652.1941",
+            "Dimensions": "13 3/8 \u00d7 10 1/2\" (34.0 \u00d7 26.5 cm)",
+            "Credit": "Gift of Robert and Joyce Menschel",
+            "Object number": "232.1979",
+            "Copyright": "\u00a9 2023 Estate of Aaron Siskind",
             "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/1740"
+        "Profile": "https://www.moma.org/artists/5456"
     },
     {
-        "Artist": "Hans Erni",
-        "Title": "XX. Nationale Kunstausstellung Luzern",
-        "Year": "1941",
-        "ObjectID": "5331",
-        "Work": "https://www.moma.org/collection/works/5331",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMDQ4MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=177a5660a4eb7909",
+        "Artist": "David Smith",
+        "Title": "History of LeRoy Borton",
+        "Year": "February 17, 1956",
+        "ObjectID": "81048",
+        "Work": "https://www.moma.org/collection/works/81048",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwNjIwMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6720807b76727cac",
         "Details": {
-            "Medium": "Photolithograph",
-            "Dimensions": "50 x 35 1/4\" (127.5 x 89.6 cm)",
-            "Printer": "J. C. M\u00fcller A.G., Z\u00fcrich",
-            "Credit": "Gift of G.E. Kidder Smith",
-            "Object number": "154.1952",
-            "Department": "Architecture and Design"
+            "Medium": "Painted steel and found metal elements",
+            "Dimensions": "7' 4 1/4\" x 26 3/4\" x 24 1/2\" (224.1 x 67.9 x 62.2 cm)",
+            "Credit": "Mrs. Simon Guggenheim Fund",
+            "Object number": "159.1957",
+            "Department": "Painting and Sculpture"
         },
-        "Profile": "https://www.moma.org/artists/1750"
+        "Profile": "https://www.moma.org/artists/5480"
     },
     {
-        "Artist": "Hans Erni",
-        "Title": "Plate (folio 12) from 5 Constructionen + 5 Compositionen",
-        "Year": "1941",
-        "ObjectID": "19627",
-        "Work": "https://www.moma.org/collection/works/19627",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ3NzIwOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8fcfc69dd65682e5",
+        "Artist": "David Smith",
+        "Title": "Chicago Circle",
+        "Year": "1955-56",
+        "ObjectID": "81257",
+        "Work": "https://www.moma.org/collection/works/81257",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2ODYyOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=09874dc08ac29dc6",
         "Details": {
-            "Medium": "Linoleum cut from a portfolio of four woodcuts, four linoleum cuts, and two lithographs",
-            "Dimensions": "composition: 11 15/16 \u00d7 12 5/8\" (30.4 \u00d7 32 cm); sheet: 12 \u00d7 12 5/8\" (30.5 \u00d7 32 cm)",
-            "Publisher": "Allianz-Verlag, Z\u00fcrich",
-            "Printer": "Unidentified",
-            "Edition": "100",
-            "Credit": "Purchase",
-            "Object number": "615.1949.7",
-            "Illustrated book": "5 Constructionen + 5 Compositionen",
-            "Department": "Drawings and Prints"
+            "Medium": "Bronze",
+            "Dimensions": "11 (27.9 cm) in diameter x 3/4\" (1.9 cm) in depth",
+            "Credit": "Given anonymously",
+            "Object number": "268.1957",
+            "Department": "Painting and Sculpture"
         },
-        "Profile": "https://www.moma.org/artists/1750"
+        "Profile": "https://www.moma.org/artists/5480"
     },
     {
-        "Artist": "Max Ernst",
-        "Title": "Alice in 1941",
-        "Year": "1941",
-        "ObjectID": "38542",
-        "Work": "https://www.moma.org/collection/works/38542",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEwMDU3NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4464dec6ebfe7b11",
+        "Artist": "Jesus Rafael Soto",
+        "Title": "Double Transparency",
+        "Year": "1956",
+        "ObjectID": "205998",
+        "Work": "https://www.moma.org/collection/works/205998",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQzNDEwOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f807858c60ac2a88",
         "Details": {
-            "Medium": "Oil on paper on canvas",
-            "Dimensions": "15 3/4 x 12 3/4\" (40.0 x 32.3 cm)",
-            "Credit": "James Thrall Soby Bequest",
-            "Object number": "1220.1979",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Department": "Drawings and Prints"
+            "Medium": "Oil on plexiglass and wood with metal rods and bolts",
+            "Dimensions": "21 5/8 \u00d7 21 5/8 \u00d7 12 5/8\" (55 \u00d7 55 \u00d7 32 cm)",
+            "Credit": "Gift of Patricia Phelps de Cisneros through the Latin American and Caribbean Fund in honor of Ana Teresa Arismendi",
+            "Object number": "872.2016",
+            "Copyright": "\u00a9 2023 / Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Department": "Painting and Sculpture"
         },
-        "Profile": "https://www.moma.org/artists/1752"
+        "Profile": "https://www.moma.org/artists/5535"
     },
     {
-        "Artist": "Max Ernst",
-        "Title": "Napoleon in the Wilderness",
-        "Year": "1941",
-        "ObjectID": "78423",
-        "Work": "https://www.moma.org/collection/works/78423",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNzQzMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=17c9cc2161b6b9cc",
+        "Artist": "Pierre Soulages",
+        "Title": "Painting",
+        "Year": "August 1, 1956",
+        "ObjectID": "78497",
+        "Work": "https://www.moma.org/collection/works/78497",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3NTk4MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=380973db634458f2",
         "Details": {
             "Medium": "Oil on canvas",
-            "Dimensions": "18 1/4 x 15\" (46.3 x 38.1 cm)",
-            "Credit": "Purchase and exchange",
-            "Object number": "12.1942",
+            "Dimensions": "59 1/4\" x 6' 4 3/4\" (150.5 x 195 cm)",
+            "Credit": "Gift of Mr. and Mrs. Samuel M. Kootz",
+            "Object number": "23.1959",
             "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
             "Department": "Painting and Sculpture"
         },
-        "Profile": "https://www.moma.org/artists/1752"
+        "Profile": "https://www.moma.org/artists/5538"
     },
     {
-        "Artist": "Walker Evans",
-        "Title": "A Cypress Swamp",
-        "Year": "1941",
-        "ObjectID": "52424",
-        "Work": "https://www.moma.org/collection/works/52424",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNzQ0MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b4ba768c51b65f29",
+        "Artist": "Elizabeth Sparhawk-Jones",
+        "Title": "Startled Woman",
+        "Year": "c. 1956?",
+        "ObjectID": "79778",
+        "Work": "https://www.moma.org/collection/works/79778",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4Njc1NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=642048ebfeea4281",
         "Details": {
-            "Medium": "Gelatin silver print, printed 1979",
-            "Dimensions": "8 13/16 \u00d7 6 7/8\" (22.4 \u00d7 17.5 cm)",
-            "Credit": "Gift of Joel Snyder",
-            "Object number": "392.1980",
-            "Copyright": "\u00a9 2023 Walker Evans Archive, The Metropolitan Museum of Art",
-            "Department": "Photography"
+            "Medium": "Oil on canvas",
+            "Dimensions": "19 x 26 1/8\" (48.2 x 66.2 cm)",
+            "Credit": "Larry Aldrich Foundation Fund",
+            "Object number": "455.1964",
+            "Department": "Painting and Sculpture"
         },
-        "Profile": "https://www.moma.org/artists/1777"
+        "Profile": "https://www.moma.org/artists/5556"
     },
     {
-        "Artist": "Walker Evans",
-        "Title": "Street Musician, Chicago",
-        "Year": "1941",
-        "ObjectID": "52470",
-        "Work": "https://www.moma.org/collection/works/52470",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNTkyMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=93f4a3c173ced26f",
+        "Artist": "Richard Stankiewicz",
+        "Title": "Urchin in the Grass",
+        "Year": "1956",
+        "ObjectID": "81879",
+        "Work": "https://www.moma.org/collection/works/81879",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwOTMwMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1b5b87cd7295bf7e",
         "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "4 7/16 \u00d7 6 7/16\" (11.2 \u00d7 16.4 cm)",
-            "Credit": "Purchase",
-            "Object number": "394.1956",
-            "Copyright": "\u00a9 2023 Walker Evans Archive, The Metropolitan Museum of Art",
-            "Department": "Photography"
+            "Medium": "Iron and steel",
+            "Dimensions": "23 5/8 x 16 1/2 x 13\" (59.9 x 41.7 x  32.8 cm) including steel base",
+            "Credit": "Gift of Philip Johnson",
+            "Object number": "797.1969",
+            "Department": "Painting and Sculpture"
         },
-        "Profile": "https://www.moma.org/artists/1777"
+        "Profile": "https://www.moma.org/artists/5601"
     },
     {
-        "Artist": "Walker Evans",
-        "Title": "Banyan Tree, Florida",
-        "Year": "1941",
-        "ObjectID": "52524",
-        "Work": "https://www.moma.org/collection/works/52524",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNzQ0NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=09bea4fe9e3dd8d8",
-        "Details": {
-            "Medium": "Gelatin silver print, printed 1979",
-            "Dimensions": "8 7/8 \u00d7 7 1/8\" (22.5 \u00d7 18.1 cm)",
-            "Credit": "Gift of Joel Snyder",
-            "Object number": "396.1980",
-            "Copyright": "\u00a9 2023 Walker Evans Archive, The Metropolitan Museum of Art",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/1777"
-    },
-    {
-        "Artist": "Walker Evans",
-        "Title": "John R. North House, Sarasota",
-        "Year": "1941",
-        "ObjectID": "52628",
-        "Work": "https://www.moma.org/collection/works/52628",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNzQ1MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=302d1628d4d6f293",
-        "Details": {
-            "Medium": "Gelatin silver print, printed 1979",
-            "Dimensions": "6 7/8 \u00d7 8 11/16\" (17.4 \u00d7 22.1 cm)",
-            "Credit": "Gift of Joel Snyder",
-            "Object number": "401.1980",
-            "Copyright": "\u00a9 2023 Walker Evans Archive, The Metropolitan Museum of Art",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/1777"
-    },
-    {
-        "Artist": "Walker Evans",
-        "Title": "Subway Portrait",
-        "Year": "1938-41",
-        "ObjectID": "53690",
-        "Work": "https://www.moma.org/collection/works/53690",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4ODM3MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=01d9d9e114e7cce3",
+        "Artist": "Louis Stettner",
+        "Title": "Street Signs, Saratoga Springs",
+        "Year": "1956",
+        "ObjectID": "55118",
+        "Work": "https://www.moma.org/collection/works/55118",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1Mjk1NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b18e34e17c39af86",
         "Details": {
             "Medium": "Gelatin silver print",
-            "Dimensions": "6 1/2 \u00d7 8\" (16.5 \u00d7 20.4 cm)",
-            "Credit": "Purchase",
-            "Object number": "461.1966",
-            "Copyright": "\u00a9 2023 Walker Evans Archive, The Metropolitan Museum of Art",
+            "Dimensions": "10 3/4 \u00d7 7\" (27.5 \u00d7 17.8 cm)",
+            "Credit": "The Family of Man Fund",
+            "Object number": "558.1973",
+            "Copyright": "\u00a9 2023 Estate of Louis Stettner",
             "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/1777"
+        "Profile": "https://www.moma.org/artists/5658"
     },
     {
-        "Artist": "Walker Evans",
-        "Title": "Subway Portrait",
-        "Year": "1938-41",
-        "ObjectID": "53703",
-        "Work": "https://www.moma.org/collection/works/53703",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4ODU5OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=bac030e74089a147",
+        "Artist": "Nanny Still",
+        "Title": "Ashtray",
+        "Year": "1956",
+        "ObjectID": "3093",
+        "Work": "https://www.moma.org/collection/works/3093",
+        "Thumbnail": null,
         "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "7 \u00d7 7 3/8\" (17.8 \u00d7 18.7 cm)",
-            "Credit": "Purchase",
-            "Object number": "462.1966",
-            "Copyright": "\u00a9 2023 Walker Evans Archive, The Metropolitan Museum of Art",
-            "Department": "Photography"
+            "Manufacturer": "Riihim\u00e4en Lasi Oy, Riihim\u00e4ki, Finland",
+            "Medium": "Glass",
+            "Dimensions": "1 3/4 x 6 1/4\" (4.4 x 15.9 cm)",
+            "Credit": "Phyllis B. Lambert Fund",
+            "Object number": "257.1958",
+            "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/1777"
+        "Profile": "https://www.moma.org/artists/5666"
     },
     {
-        "Artist": "Walker Evans",
-        "Title": "Subway Portrait",
-        "Year": "January 26, 1941",
-        "ObjectID": "53715",
-        "Work": "https://www.moma.org/collection/works/53715",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4ODYwMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1ec794c7c1503f53",
+        "Artist": "Richard Sussmuth",
+        "Title": "Straw Glass Series Champagne Glass",
+        "Year": "1956",
+        "ObjectID": "4702",
+        "Work": "https://www.moma.org/collection/works/4702",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDIzMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=10706d06f3e20d82",
         "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "6 13/16 \u00d7 7 9/16\" (17.3 \u00d7 19.3 cm)",
-            "Credit": "Purchase",
-            "Object number": "463.1966",
-            "Copyright": "\u00a9 2023 Walker Evans Archive, The Metropolitan Museum of Art",
-            "Department": "Photography"
+            "Manufacturer": "Richard S\u00fcssmuth Glash\u00fctte, Immenhausen, Germany",
+            "Medium": "Glass",
+            "Dimensions": "3 5/8 x 3 3/4\" (9.2 x 9.5 cm)",
+            "Credit": "Gift of the manufacturer",
+            "Object number": "1339.2001.1",
+            "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/1777"
+        "Profile": "https://www.moma.org/artists/5736"
     },
     {
-        "Artist": "Walker Evans",
-        "Title": "Subway Portrait",
-        "Year": "May 27, 1938",
-        "ObjectID": "53727",
-        "Work": "https://www.moma.org/collection/works/53727",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4ODYwMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e1451795ecefe79e",
+        "Artist": "Richard Sussmuth",
+        "Title": "Straw Glass Series Glasses",
+        "Year": "1956",
+        "ObjectID": "4703",
+        "Work": "https://www.moma.org/collection/works/4703",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDIzNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=682886fc8d6e755b",
         "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "3 3/4 \u00d7 5 1/4\" (9.6 \u00d7 13.4 cm)",
-            "Credit": "Purchase",
-            "Object number": "464.1966",
-            "Copyright": "\u00a9 2023 Walker Evans Archive, The Metropolitan Museum of Art",
-            "Department": "Photography"
+            "Manufacturer": "Richard S\u00fcssmuth Glash\u00fctte, Immenhausen, Germany",
+            "Medium": "Glass",
+            "Dimensions": ".1 (champagne glass): 3 5/8 x 3 3/4\" (9.2 x 9.5 cm)\r\n.2 (wine glass): 5 1/4 x 3\" (13.4 x 7.6 cm)",
+            "Credit": "Gift of the manufacturer",
+            "Object number": "1339.2001.1-2",
+            "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/1777"
+        "Profile": "https://www.moma.org/artists/5736"
     },
     {
-        "Artist": "Walker Evans",
-        "Title": "Subway Portrait",
-        "Year": "1938-41",
-        "ObjectID": "53739",
-        "Work": "https://www.moma.org/collection/works/53739",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4ODYwMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c16d2a0958cc96e3",
+        "Artist": "Richard Sussmuth",
+        "Title": "Straw Glass Series Wine Glass",
+        "Year": "1956",
+        "ObjectID": "4704",
+        "Work": "https://www.moma.org/collection/works/4704",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDIzNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0d8fa284724fd229",
         "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "7 3/16 \u00d7 7\" (18.2 \u00d7 17.8 cm)",
-            "Credit": "Purchase",
-            "Object number": "465.1966",
-            "Copyright": "\u00a9 2023 Walker Evans Archive, The Metropolitan Museum of Art",
-            "Department": "Photography"
+            "Manufacturer": "Richard S\u00fcssmuth Glash\u00fctte, Immenhausen, Germany",
+            "Medium": "Glass",
+            "Dimensions": "5 1/4 x 3\" (13.3 x 7.6 cm)",
+            "Credit": "Gift of the manufacturer",
+            "Object number": "1339.2001.2",
+            "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/1777"
+        "Profile": "https://www.moma.org/artists/5736"
     },
     {
-        "Artist": "Walker Evans",
-        "Title": "Subway Portrait",
-        "Year": "January 17, 1941",
-        "ObjectID": "53751",
-        "Work": "https://www.moma.org/collection/works/53751",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4ODYwMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=24280095b04763ef",
+        "Artist": "Ladislav Sutnar",
+        "Title": "Carr's",
+        "Year": "1956",
+        "ObjectID": "6008",
+        "Work": "https://www.moma.org/collection/works/6008",
+        "Thumbnail": null,
         "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "6 15/16 \u00d7 7 1/2\" (17.6 \u00d7 19.1 cm)",
-            "Credit": "Purchase",
-            "Object number": "466.1966",
-            "Copyright": "\u00a9 2023 Walker Evans Archive, The Metropolitan Museum of Art",
-            "Department": "Photography"
+            "Medium": "Offset lithograph",
+            "Dimensions": "12 1/8 x 8 1/2\" (30.7 x  21.6 cm)",
+            "Credit": "Gift of Michael Sheehe",
+            "Object number": "275.1994",
+            "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/1777"
+        "Profile": "https://www.moma.org/artists/5740"
     },
     {
-        "Artist": "Walker Evans",
-        "Title": "Subway Portrait",
-        "Year": "1938-41",
-        "ObjectID": "53905",
-        "Work": "https://www.moma.org/collection/works/53905",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4ODYwNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4d636d4850b92de1",
+        "Artist": "Takis",
+        "Title": "Head in Space",
+        "Year": "1956",
+        "ObjectID": "81392",
+        "Work": "https://www.moma.org/collection/works/81392",
+        "Thumbnail": null,
         "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "5 \u00d7 5\" (12.7 \u00d7 12.8 cm)",
-            "Credit": "Purchase",
-            "Object number": "467.1966",
-            "Copyright": "\u00a9 2023 Walker Evans Archive, The Metropolitan Museum of Art",
-            "Department": "Photography"
+            "Medium": "Bronze",
+            "Dimensions": "12 1/2 x 8 1/8 x 7\" (31.7 x 20.6 x 17.8 cm) including base",
+            "Credit": "Gift of D. and J. de Menil",
+            "Object number": "368.1960",
+            "Copyright": "\u00a9 2023 Takis / Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Department": "Painting and Sculpture"
         },
-        "Profile": "https://www.moma.org/artists/1777"
+        "Profile": "https://www.moma.org/artists/5789"
     },
     {
-        "Artist": "Walker Evans",
-        "Title": "Subway Portrait",
-        "Year": "1938-41",
-        "ObjectID": "53917",
-        "Work": "https://www.moma.org/collection/works/53917",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4ODYwNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0dc747702af36ae6",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "6 7/8 \u00d7 6 1/16\" (17.5 \u00d7 15.4 cm)",
-            "Credit": "Purchase",
-            "Object number": "468.1966",
-            "Copyright": "\u00a9 2023 Walker Evans Archive, The Metropolitan Museum of Art",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/1777"
-    },
-    {
-        "Artist": "Walker Evans",
-        "Title": "Subway Portrait",
-        "Year": "January 17, 1941",
-        "ObjectID": "53929",
-        "Work": "https://www.moma.org/collection/works/53929",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4ODYwNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8c1be155c969a999",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "7 5/16 \u00d7 7 7/8\" (18.6 \u00d7 20 cm)",
-            "Credit": "Purchase",
-            "Object number": "469.1966",
-            "Copyright": "\u00a9 2023 Walker Evans Archive, The Metropolitan Museum of Art",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/1777"
-    },
-    {
-        "Artist": "Walker Evans",
-        "Title": "Subway Portrait",
-        "Year": "1938-41",
-        "ObjectID": "53941",
-        "Work": "https://www.moma.org/collection/works/53941",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwODk4MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=56f7c524bc697257",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "7 \u00d7 6 7/16\" (17.8 \u00d7 16.3 cm)",
-            "Credit": "Purchase",
-            "Object number": "470.1966",
-            "Copyright": "\u00a9 2023 Walker Evans Archive, The Metropolitan Museum of Art",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/1777"
-    },
-    {
-        "Artist": "Walker Evans",
-        "Title": "Subway Portrait",
-        "Year": "1938-41",
-        "ObjectID": "53953",
-        "Work": "https://www.moma.org/collection/works/53953",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4ODYwOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=623e64cbc9871962",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "5 \u00d7 3 15/16\" (12.8 \u00d7 10 cm)",
-            "Credit": "Purchase",
-            "Object number": "471.1966",
-            "Copyright": "\u00a9 2023 Walker Evans Archive, The Metropolitan Museum of Art",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/1777"
-    },
-    {
-        "Artist": "Walker Evans",
-        "Title": "Subway Portrait",
-        "Year": "January 17, 1941",
-        "ObjectID": "53965",
-        "Work": "https://www.moma.org/collection/works/53965",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0MjU1MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=869d2ba667dbd8e3",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "6 11/16 \u00d7 5\" (17 \u00d7 12.7 cm)",
-            "Credit": "Purchase",
-            "Object number": "472.1966",
-            "Copyright": "\u00a9 2023 Walker Evans Archive, The Metropolitan Museum of Art",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/1777"
-    },
-    {
-        "Artist": "Walker Evans",
-        "Title": "Resorters at St. Petersburg",
-        "Year": "1941",
-        "ObjectID": "119311",
-        "Work": "https://www.moma.org/collection/works/119311",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzNTc3OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6aa32045e4ef40c7",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "5 5/16 \u00d7 6 9/16\" (13.5 \u00d7 16.6 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "425.2015",
-            "Copyright": "\u00a9 2023 Walker Evans Archive, The Metropolitan Museum of Art",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/1777"
-    },
-    {
-        "Artist": "Walker Evans",
-        "Title": "Bridgeport Street Portrait",
-        "Year": "1941",
-        "ObjectID": "187341",
-        "Work": "https://www.moma.org/collection/works/187341",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMxOTc4MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b69aedb7800d5cda",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "8 5/16 \u00d7 4 5/8\" (21.1 \u00d7 11.8 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "423.2015",
-            "Copyright": "\u00a9 2023 Walker Evans Archive, The Metropolitan Museum of Art",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/1777"
-    },
-    {
-        "Artist": "Walker Evans",
-        "Title": "Bridgeport Street Portrait",
-        "Year": "1941",
-        "ObjectID": "187342",
-        "Work": "https://www.moma.org/collection/works/187342",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMxOTc4MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a6f42c777d299604",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "8 15/16 \u00d7 6 3/8\" (22.7 \u00d7 16.2 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "424.2015",
-            "Copyright": "\u00a9 2023 Walker Evans Archive, The Metropolitan Museum of Art",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/1777"
-    },
-    {
-        "Artist": "Walker Evans",
-        "Title": "Winter Resorter",
-        "Year": "1941",
-        "ObjectID": "187351",
-        "Work": "https://www.moma.org/collection/works/187351",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMyNDIzMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b4aa9c4e8923d49c",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "6 7/8 \u00d7 7 1/16\" (17.5 \u00d7 18 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "427.2015",
-            "Copyright": "\u00a9 2023 Walker Evans Archive, The Metropolitan Museum of Art",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/1777"
-    },
-    {
-        "Artist": "Walker Evans",
+        "Artist": "Atsuko Tanaka",
         "Title": "Untitled",
-        "Year": "1941",
-        "ObjectID": "187353",
-        "Work": "https://www.moma.org/collection/works/187353",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMyNDI3NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3aeac1b75d5ad0d0",
+        "Year": "1956",
+        "ObjectID": "128480",
+        "Work": "https://www.moma.org/collection/works/128480",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4MjY2OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d75dfc92460a379e",
         "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "6 \u00d7 5 3/8\" (15.2 \u00d7 13.6 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "426.2015",
-            "Copyright": "\u00a9 2023 Walker Evans Archive, The Metropolitan Museum of Art",
-            "Department": "Photography"
+            "Medium": "Crayon, watercolor, and felt-tip pen on paper",
+            "Dimensions": "42 7/8 x 30 3/8\" (108.9 x 77.2 cm)",
+            "Credit": "Purchased with funds provided by the Edward John Noble Foundation, Frances Keech Fund, and Committee on Drawings Funds",
+            "Object number": "21.2010",
+            "Copyright": "\u00a9 2023 Ryoji Ito",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/1777"
+        "Profile": "https://www.moma.org/artists/5799"
     },
     {
-        "Artist": "Walker Evans",
-        "Title": "Winter Resorters",
-        "Year": "1941",
-        "ObjectID": "187384",
-        "Work": "https://www.moma.org/collection/works/187384",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMyNDI3OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b3166d1f1ebf36a5",
+        "Artist": "Yves Tanguy",
+        "Title": "Tailpiece from Un Poeme dans chaque livre",
+        "Year": "1956",
+        "ObjectID": "31669",
+        "Work": "https://www.moma.org/collection/works/31669",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQwMTk1NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=bff1a46d2fd4ac3a",
         "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "4 11/16 \u00d7 5 1/4\" (11.9 \u00d7 13.4 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "428.2015",
-            "Copyright": "\u00a9 2023 Walker Evans Archive, The Metropolitan Museum of Art",
-            "Department": "Photography"
+            "Author": "Paul \u00c9luard",
+            "Medium": "Etching from an illustrated book with seven etchings (three with aquatint, one with aquatint, drypoint, engraving, and roulette), three drypoints (one with engraving), two aquatints, two woodcuts, one engraving, and one lithograph",
+            "Dimensions": "composition (irreg.): 3 1/2 \u00d7 4 11/16\" (8.9 \u00d7 11.9 cm); page: 7 1/2 \u00d7 7 1/16\" (19 \u00d7 18 cm)",
+            "Publisher": "Louis Broder, Paris",
+            "Printer": "Roger Lacouri\u00e8re",
+            "Edition": "100",
+            "Credit": "The Louis E. Stern Collection",
+            "Object number": "1100.1964.16",
+            "Copyright": "\u00a9 2023 Estate of Yves Tanguy / Artists Rights Society (ARS), New York",
+            "Illustrated book": "Un Po\u00e8me dans chaque livre",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/1777"
+        "Profile": "https://www.moma.org/artists/5804"
     },
     {
-        "Artist": "Walter Farynk",
-        "Title": "Mr. Average American on an American Holiday",
-        "Year": "1941",
-        "ObjectID": "55847",
-        "Work": "https://www.moma.org/collection/works/55847",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1Mzk4MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=92ce56b2c4b3e587",
+        "Artist": "Antoni Tapies",
+        "Title": "Space",
+        "Year": "1956",
+        "ObjectID": "78522",
+        "Work": "https://www.moma.org/collection/works/78522",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MTQwNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9a6f0cbfde793c20",
+        "Details": {
+            "Medium": "Latex paint with marble dust on canvas",
+            "Dimensions": "6' 4 5/8\" x 67\" (194.6 x 170 cm)",
+            "Credit": "Gift of Mrs. Martha Jackson",
+            "Object number": "27.1959",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/5809"
+    },
+    {
+        "Artist": "Steven Trefonides",
+        "Title": "Life and Death in the Home for the Aged: Number 3",
+        "Year": "1941-56",
+        "ObjectID": "51878",
+        "Work": "https://www.moma.org/collection/works/51878",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMTEzOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5035a0cce4fbe30b",
         "Details": {
             "Medium": "Gelatin silver print",
-            "Dimensions": "13 1/4 \u00d7 10 1/2\" (33.7 \u00d7 26.7 cm)",
+            "Dimensions": "13 1/2 \u00d7 13 3/4\" (34.5 \u00d7 35.1 cm)",
             "Credit": "Purchase",
-            "Object number": "653.1941",
+            "Object number": "367.1959",
+            "Copyright": "\u00a9 2023 Steven Trefonides",
             "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/1806"
+        "Profile": "https://www.moma.org/artists/5925"
+    },
+    {
+        "Artist": "Tri-State Plastic Molding Co., Henderson, KY",
+        "Title": "Canister with Cover",
+        "Year": "c. 1953",
+        "ObjectID": "4331",
+        "Work": "https://www.moma.org/collection/works/4331",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMTYyMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2f3b34b3c1c2f6ab",
+        "Details": {
+            "Manufacturer": "Tri-State Plastic Molding Co., Henderson, KY",
+            "Medium": "Clear and opaque yellow plastic",
+            "Dimensions": "overall: 6 1/4 x 5 3/8\" (15.9 x 13.7 cm)",
+            "Credit": "Purchase",
+            "Object number": "530.1956.a-b",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/10999"
+    },
+    {
+        "Artist": "Tri-State Plastic Molding Co., Henderson, KY",
+        "Title": "Covered Containers",
+        "Year": "c. 1954",
+        "ObjectID": "4340",
+        "Work": "https://www.moma.org/collection/works/4340",
+        "Thumbnail": null,
+        "Details": {
+            "Manufacturer": "Tri-State Plastic Molding Co., Henderson, KY",
+            "Medium": "Plastic",
+            "Dimensions": "Each: 1 1/2 x 3 3/4\" (3.8 x 9.5 cm)",
+            "Credit": "Purchase",
+            "Object number": "534.1956.1-6",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/10999"
+    },
+    {
+        "Artist": "Earl S. Tupper",
+        "Title": "Spice Container",
+        "Year": "c. 1954",
+        "ObjectID": "4285",
+        "Work": "https://www.moma.org/collection/works/4285",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxODAwMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ceaf9c1f6e308533",
+        "Details": {
+            "Manufacturer": "Tupper Corporation, Farnumsville, MA",
+            "Medium": "Polyethylene",
+            "Dimensions": "2 1/2 x 2 1/8\" (6.4 x 5.4 cm)",
+            "Credit": "Gift of the manufacturer",
+            "Object number": "516.1956.a-b",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/5970"
+    },
+    {
+        "Artist": "Unidentified Designer",
+        "Title": "Album cover for The Art of Jazz Piano",
+        "Year": "1956",
+        "ObjectID": "184706",
+        "Work": "https://www.moma.org/collection/works/184706",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzMTg3OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ade50f6125a02c95",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "12 x 12\" (30.5 x 30.5 cm)",
+            "Credit": "Committee on Architecture and Design Funds",
+            "Object number": "844.2014",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/6011"
+    },
+    {
+        "Artist": "Unidentified Designer",
+        "Title": "Blanket Pin",
+        "Year": "Before 1956",
+        "ObjectID": "4363",
+        "Work": "https://www.moma.org/collection/works/4363",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMTYzOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c776c517baf1a1d9",
+        "Details": {
+            "Manufacturer": "Unidentified American Manufacturer",
+            "Medium": "Steel",
+            "Dimensions": "3 3/4\" (9.5 cm)",
+            "Credit": "Department Purchase",
+            "Object number": "549.1956",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/6021"
+    },
+    {
+        "Artist": "Unidentified Designer",
+        "Title": "Tumbler",
+        "Year": "Before 1954",
+        "ObjectID": "4356",
+        "Work": "https://www.moma.org/collection/works/4356",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMTYzMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=35af76d39e4f4bc1",
+        "Details": {
+            "Manufacturer": "Unidentified Netherlandish Manufacturer",
+            "Medium": "Polyethylene",
+            "Dimensions": "3 1/2 x 2 3/4\" (8.9 x 7 cm)",
+            "Credit": "Gift of Philip Johnson",
+            "Object number": "542.1956",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/6015"
+    },
+    {
+        "Artist": "Unidentified Designer",
+        "Title": "Tumbler",
+        "Year": "Before 1954",
+        "ObjectID": "4357",
+        "Work": "https://www.moma.org/collection/works/4357",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMTYzNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=70029cd6eab83cd2",
+        "Details": {
+            "Manufacturer": "Unidentified Netherlandish Manufacturer",
+            "Medium": "Plastic",
+            "Dimensions": "3 1/2 x 2 3/4\" (8.9 x 7 cm)",
+            "Credit": "Gift of Philip Johnson",
+            "Object number": "543.1956",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/6015"
+    },
+    {
+        "Artist": "Unidentified Designer",
+        "Title": "Measuring Spoon and Scale (Ladle and Stand)",
+        "Year": "c.1955",
+        "ObjectID": "4268",
+        "Work": "https://www.moma.org/collection/works/4268",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMTU4MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2d4ab9f99f4ff0c2",
+        "Details": {
+            "Manufacturer": "Unidentified French Manufacturer",
+            "Medium": "Cast aluminum",
+            "Dimensions": "Overall: h. 3 1/4 x l. 13\" (h. 8.2 x l. 33 cm)\r\n.a (stand): h. 3 1/4\" (8.3 cm)\r\n.b (ladle): l. 13 x w. 4 1/2\" (33 x 11.4 cm)",
+            "Credit": "Gift of H. A. Mack & Co. Inc.",
+            "Object number": "508.1956.a-b",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/6013"
+    },
+    {
+        "Artist": "Unidentified Designer",
+        "Title": "Chestnut Parer",
+        "Year": "Before 1956",
+        "ObjectID": "4021",
+        "Work": "https://www.moma.org/collection/works/4021",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMTUxMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=39d6673e21d2391b",
+        "Details": {
+            "Manufacturer": "Unidentified Swiss Manufacturer",
+            "Medium": "Stainless steel blade and rosewood handle",
+            "Dimensions": "5\" (12.7 cm)",
+            "Credit": "Gift of Philip Johnson",
+            "Object number": "479.1956",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/6019"
+    },
+    {
+        "Artist": "Unidentified photographer",
+        "Title": "Scene from Bigger Than Life Twentieth Century Fox 1956",
+        "Year": "1956",
+        "ObjectID": "58040",
+        "Work": "https://www.moma.org/collection/works/58040",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0MTQ2NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8015a7904b88646e",
+        "Details": {
+            "Medium": "Silver dye bleach print, printed 1982",
+            "Dimensions": "17 5/8 \u00d7 22 1/2\" (44.8 \u00d7 57.2 cm)",
+            "Credit": "Gift of Marvin Heiferman",
+            "Object number": "1286.2001",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/8595"
+    },
+    {
+        "Artist": "Unidentified photographer",
+        "Title": "Untitled",
+        "Year": "1956",
+        "ObjectID": "111498",
+        "Work": "https://www.moma.org/collection/works/111498",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0NDYxNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=deaebffcd7f9420e",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "3 \u00d7 2 15/16\" (7.6 \u00d7 7.5 cm)",
+            "Credit": "Gift of Jeffrey Fraenkel",
+            "Object number": "679.2007",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/8595"
+    },
+    {
+        "Artist": "Unidentified photographer",
+        "Title": "Untitled",
+        "Year": "1956",
+        "ObjectID": "111499",
+        "Work": "https://www.moma.org/collection/works/111499",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0NDYxNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a2229c69baab4878",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "3 \u00d7 2 15/16\" (7.6 \u00d7 7.5 cm)",
+            "Credit": "Gift of Jeffrey Fraenkel",
+            "Object number": "680.2007",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/8595"
+    },
+    {
+        "Artist": "Paolo Venini",
+        "Title": "Bottle Vase",
+        "Year": "1956",
+        "ObjectID": "2239",
+        "Work": "https://www.moma.org/collection/works/2239",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMDM1NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2aaed368aa759ea9",
+        "Details": {
+            "Manufacturer": "Venini & Co., Murano, Italy",
+            "Medium": "Glass",
+            "Dimensions": "17 x 4 3/4\" (43.2 x 12.1 cm)",
+            "Credit": "Purchase Fund",
+            "Object number": "127.1957",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/6129"
+    },
+    {
+        "Artist": "David Vestal",
+        "Title": "Fiddler Crab, Cape Cod",
+        "Year": "1956",
+        "ObjectID": "44203",
+        "Work": "https://www.moma.org/collection/works/44203",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1OTQ0OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a0e3df9b9477fc52",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "9 \u00d7 13 1/2\" (22.9 \u00d7 34.3 cm)",
+            "Credit": "Purchase",
+            "Object number": "28.1965",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/6142"
+    },
+    {
+        "Artist": "Esteban Vicente",
+        "Title": "Number Four",
+        "Year": "1956",
+        "ObjectID": "79859",
+        "Work": "https://www.moma.org/collection/works/79859",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwOTAyNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b995161c517240a3",
+        "Details": {
+            "Medium": "Oil on canvas",
+            "Dimensions": "52 3/8 x 64 1/8\" (132.8 x 162.7 cm)",
+            "Credit": "Gift of Mrs. Esteban Vicente",
+            "Object number": "505.1969",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/6147"
     }
 ]

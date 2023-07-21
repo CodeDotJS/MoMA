@@ -1,876 +1,797 @@
 [
     {
-        "Artist": "Robert Delaunay",
-        "Title": "Tour Eiffel",
-        "Year": "1918",
-        "ObjectID": "10690",
-        "Work": "https://www.moma.org/collection/works/10690",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwODA3MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fdfbe3c756a07c72",
+        "Artist": "Ralph Steiner",
+        "Title": "Saratoga Billboard",
+        "Year": "c. 1929",
+        "ObjectID": "55806",
+        "Work": "https://www.moma.org/collection/works/55806",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NzY3OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a3be79404f0a682a",
         "Details": {
-            "Author": "Vincent Huidobro",
-            "Medium": "Illustrated book with one pochoir",
-            "Dimensions": "page (each approx.): 12 5/8 \u00d7 9 5/8\" (32 \u00d7 24.4 cm); overall (closed): 13 13/16 \u00d7 10 1/4 \u00d7 1/8\" (35.1 \u00d7 26 \u00d7 0.3 cm); composition (irreg.): 8 1/16 \u00d7 7 3/16\" (20.4 \u00d7 18.2 cm)",
-            "Publisher": "Impr. de J. Pueyo, Madrid",
-            "Edition": "unknown",
-            "Credit": "Mrs. Stanley Resor Fund",
-            "Object number": "44.1979",
-            "Department": "Drawings and Prints"
+            "Medium": "Gelatin silver print",
+            "Dimensions": "9 1/2 \u00d7 7 3/4\" (24.1 \u00d7 19.6 cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "646.1970",
+            "Copyright": "Courtesy of the Estate of Ralph Steiner",
+            "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/1479"
+        "Profile": "https://www.moma.org/artists/5631"
     },
     {
-        "Artist": "Adolf De Meyer",
-        "Title": "Ruth St. Denis",
-        "Year": "1918",
-        "ObjectID": "46172",
-        "Work": "https://www.moma.org/collection/works/46172",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMjUxMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8583f4cd13e19455",
+        "Artist": "Gunta Stolzl",
+        "Title": "Waffel Curtain Material for a Photo Studio",
+        "Year": "1934",
+        "ObjectID": "3989",
+        "Work": "https://www.moma.org/collection/works/3989",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyOTgxMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0e613bff2f908283",
+        "Details": {
+            "Medium": "Cellophane and cotton",
+            "Dimensions": "25 x 22\" (63.5 x 55.9 cm)",
+            "Credit": "Gift of Jack Lenor Larsen",
+            "Object number": "477.1970.11",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/5675"
+    },
+    {
+        "Artist": "Henri Storck, Joris Ivens",
+        "Title": "Misere au Borinage (Misery in Borinage)",
+        "Year": "1934",
+        "ObjectID": "305792",
+        "Work": "https://www.moma.org/collection/works/305792",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExMzAyNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=bc9abfe0b4e6db0f",
+        "Details": {
+            "Object number": "W877",
+            "Department": "Film"
+        },
+        "Profile": "https://www.moma.org/artists/100434"
+    },
+    {
+        "Artist": "Wladyslaw Strzeminski",
+        "Title": "Untitled",
+        "Year": "1934",
+        "ObjectID": "38355",
+        "Work": "https://www.moma.org/collection/works/38355",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Gouache on board",
+            "Dimensions": "7 7/8 x 9 7/8\" (20 x 25.1 cm)",
+            "Credit": "The Riklis Collection of McCrory Corporation",
+            "Object number": "963.1983",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5700"
+    },
+    {
+        "Artist": "Wladyslaw Strzeminski",
+        "Title": "a.r. Group stationery postcard (Addressed to Jan Tschichold)",
+        "Year": "1934",
+        "ObjectID": "198537",
+        "Work": "https://www.moma.org/collection/works/198537",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Letterpress",
+            "Dimensions": "3 3/4 \u00d7 5 3/4\" (9.5 \u00d7 14.6 cm)",
+            "Credit": "Elaine Lustig Cohen Collection, gift of Lawrence Benenson and the Committee on Architecture and Design Funds",
+            "Object number": "1360.2015",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/5700"
+    },
+    {
+        "Artist": "Gerald Summers",
+        "Title": "Lounge Chair",
+        "Year": "1934",
+        "ObjectID": "4729",
+        "Work": "https://www.moma.org/collection/works/4729",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMDE5MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d1759637c11040d1",
+        "Details": {
+            "Manufacturer": "Makers of Simple Furniture, Ltd., London",
+            "Medium": "Bent birch plywood with pigmented lacquer",
+            "Dimensions": "29 5/8 x 23 1/2 x 35\" (75.2 x 59.7 x 88.9 cm)",
+            "Credit": "Gift of Barbara Jakobson, Robert and Joyce Menschel and the Peter Norton Family Foundation",
+            "Object number": "1434.2000",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/8435"
+    },
+    {
+        "Artist": "Graham Sutherland",
+        "Title": "Doctors Prefer Shell - You Can Be Sure of Shell",
+        "Year": "1934",
+        "ObjectID": "6635",
+        "Work": "https://www.moma.org/collection/works/6635",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "30 x 45\" (76.2 x 114.3cm)",
+            "Printer": "Vincent Brooks, Day & Son, Ltd., London",
+            "Credit": "Gift of Shell - Mex B P",
+            "Object number": "413.1937",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/5739"
+    },
+    {
+        "Artist": "Sophie Taeuber-Arp",
+        "Title": "Echelonnement desaxe",
+        "Year": "1934",
+        "ObjectID": "38360",
+        "Work": "https://www.moma.org/collection/works/38360",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Gouache and pencil on paper",
+            "Dimensions": "13 7/8 x 10 5/8\" (35.2 x 27 cm)",
+            "Credit": "The Riklis Collection of McCrory Corporation",
+            "Object number": "967.1983",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5777"
+    },
+    {
+        "Artist": "Yves Tanguy",
+        "Title": "Untitled",
+        "Year": "1934",
+        "ObjectID": "36823",
+        "Work": "https://www.moma.org/collection/works/36823",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzOTI5MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a441461d92f4b0b7",
+        "Details": {
+            "Medium": "Ink on paper",
+            "Dimensions": "12 7/8 x 8 1/2\" (32.7 x 21.8 cm)",
+            "Credit": "Kay Sage Tanguy Bequest",
+            "Object number": "422.1963",
+            "Copyright": "\u00a9 2023 Estate of Yves Tanguy / Artists Rights Society (ARS), New York",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5804"
+    },
+    {
+        "Artist": "Pavel Tchelitchew",
+        "Title": "Tree in Sussex (Study for Hide-and-Seek)",
+        "Year": "1934",
+        "ObjectID": "36701",
+        "Work": "https://www.moma.org/collection/works/36701",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMyMzMzMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1552821e4c58f091",
+        "Details": {
+            "Medium": "Colored ink on paper",
+            "Dimensions": "12 x 15 3/4\" (30.5 x 40 cm)",
+            "Credit": "Mrs. Simon Guggenheim Fund",
+            "Object number": "345.1942",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5821"
+    },
+    {
+        "Artist": "Pavel Tchelitchew",
+        "Title": "Monroe Wheeler",
+        "Year": "1934",
+        "ObjectID": "37205",
+        "Work": "https://www.moma.org/collection/works/37205",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Gouache on paper",
+            "Dimensions": "26 x 19 3/4\" (66 x 50.2 cm)",
+            "Credit": "Gift of Monroe Wheeler",
+            "Object number": "501.1976",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5821"
+    },
+    {
+        "Artist": "Walter Dorwin Teague",
+        "Title": "Bowl",
+        "Year": "c. 1934",
+        "ObjectID": "3127",
+        "Work": "https://www.moma.org/collection/works/3127",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMDkzMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b8184463ce3c13f4",
+        "Details": {
+            "Manufacturer": "Corning Glass Works, Corning, NY",
+            "Medium": "Glass",
+            "Dimensions": "2 3/8 x 12\" (6 x 30.5 cm)",
+            "Credit": "Gift of the manufacturer",
+            "Object number": "264.1934",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/5824"
+    },
+    {
+        "Artist": "Solomon Telingater",
+        "Title": "1914-i. Dokumental'nyi pamflet (The Year 1914: A Documentary Lampoon)",
+        "Year": "1934",
+        "ObjectID": "26062",
+        "Work": "https://www.moma.org/collection/works/26062",
+        "Thumbnail": null,
+        "Details": {
+            "Author": "Il'ia Feinberg",
+            "Medium": "Book, letterpress printed, including cover with embossing",
+            "Dimensions": "page (each approx.): 9 3/4 \u00d7 6 11/16\" (24.7 \u00d7 17 cm); overall (closed): 10 1/8 \u00d7 6 15/16 \u00d7 9/16\" (25.7 \u00d7 17.7 \u00d7 1.5 cm)",
+            "Publisher": "Internatsional'naia, Moscow",
+            "Edition": "10,000",
+            "Credit": "Gift of The Judith Rothschild Foundation",
+            "Object number": "833.2001",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/8255"
+    },
+    {
+        "Artist": "Solomon Telingater",
+        "Title": "_\u001fUntitled",
+        "Year": "c. 1929",
+        "ObjectID": "217752",
+        "Work": "https://www.moma.org/collection/works/217752",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQzNzc1OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=862076d6f346d0f3",
+        "Details": {
+            "Medium": "Cut-and-pasted printed and painted paper on paper with gouache and pencil",
+            "Dimensions": "17 11/16 \u00d7 15\" (45 \u00d7 38.1 cm)",
+            "Credit": "The Merrill C. Berman Collection. Acquired through the generosity of Alice and Tom Tisch, Jo Carole and Ronald S. Lauder, Sue and Edgar Wachenheim III, David Booth, Marlene Hess and James D. Zirin, Marie-Jos\u00e9e and Henry R. Kravis, Jack Shear, the Patricia Bonfield Endowed Acquisition Fund for the Design Collection, Daniel and Jane Och, The Orentreich Family Foundation, Emily Rauh Pulitzer, The Modern Women's Fund; and by exchange: Gift of Jean Dubuffet in honor of Mr. and Mrs. Ralph Colin, The Judith Rothschild Foundation Contemporary Drawings Collection, and the Richard S. Zeisler Bequest",
+            "Object number": "506.2018",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / UPRAVIS, Moscow",
+            "Associated work": "The Merrill C. Berman Collection at MoMA",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/8255"
+    },
+    {
+        "Artist": "Solomon Telingater",
+        "Title": "Untitled from the series 10 Posters of Exercise and Sports (Plakatov zaniatiia fizkultoroi i sportom)",
+        "Year": "c. 1929",
+        "ObjectID": "280311",
+        "Work": "https://www.moma.org/collection/works/280311",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQzNjgwOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=dfda4746d0b028b8",
+        "Details": {
+            "Medium": "Cut-and-pasted printed and painted paper on paper with gouache",
+            "Dimensions": "12 1/4 \u00d7 9 13/16\" (31.1 \u00d7 24.9 cm)",
+            "Credit": "The Merrill C. Berman Collection. Acquired through the generosity of Alice and Tom Tisch, Jo Carole and Ronald S. Lauder, Sue and Edgar Wachenheim III, David Booth, Marlene Hess and James D. Zirin, Marie-Jos\u00e9e and Henry R. Kravis, Jack Shear, the Patricia Bonfield Endowed Acquisition Fund for the Design Collection, Daniel and Jane Och, The Orentreich Family Foundation, Emily Rauh Pulitzer, The Modern Women's Fund; and by exchange: Gift of Jean Dubuffet in honor of Mr. and Mrs. Ralph Colin, The Judith Rothschild Foundation Contemporary Drawings Collection, and the Richard S. Zeisler Bequest",
+            "Object number": "507.2018",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / UPRAVIS, Moscow",
+            "Associated work": "The Merrill C. Berman Collection at MoMA",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/8255"
+    },
+    {
+        "Artist": "Times Wide World Photos",
+        "Title": "\"Chancellor Adolf Hilter Engaged in Earnest Conversation with Dr. Goebbles\"",
+        "Year": "1934",
+        "ObjectID": "58760",
+        "Work": "https://www.moma.org/collection/works/58760",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNjc4NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9a30ca02b85e601f",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "9 1/2 \u00d7 7 3/16\" (24.1 \u00d7 18.2 cm)",
+            "Credit": "The New York Times Collection",
+            "Object number": "2167.2001",
+            "Copyright": "\u00a9 2023 Times Wide World Photos",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/8632"
+    },
+    {
+        "Artist": "Times Wide World Photos",
+        "Title": "\"The Hull that Carries the Hopes of British Yachtsmen\"",
+        "Year": "1934",
+        "ObjectID": "58761",
+        "Work": "https://www.moma.org/collection/works/58761",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNjc4NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=319e9c64606e8a0b",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "7 11/16 \u00d7 9 7/16\" (19.5 \u00d7 24 cm)",
+            "Credit": "The New York Times Collection",
+            "Object number": "2168.2001",
+            "Copyright": "\u00a9 2023 Times Wide World Photos",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/8632"
+    },
+    {
+        "Artist": "Times Wide World Photos",
+        "Title": "\"The Poor Children of Berlin Share in Hitler's Birthday Party\"",
+        "Year": "April 20, 1934",
+        "ObjectID": "58762",
+        "Work": "https://www.moma.org/collection/works/58762",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNjc4OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4fa2c2fb4cd65978",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "9 1/2 \u00d7 7 3/16\" (24.1 \u00d7 18.2 cm)",
+            "Credit": "The New York Times Collection",
+            "Object number": "2169.2001",
+            "Copyright": "\u00a9 2023 Times Wide World Photos",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/8632"
+    },
+    {
+        "Artist": "Times Wide World Photos",
+        "Title": "\"A Unanimous 'Ja' for the Leader\"",
+        "Year": "August 19, 1934",
+        "ObjectID": "58763",
+        "Work": "https://www.moma.org/collection/works/58763",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNjc4OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=359e7d3a4a7ddacb",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "9 1/2 \u00d7 7 1/8\" (24.1 \u00d7 18.1 cm)",
+            "Credit": "The New York Times Collection",
+            "Object number": "2170.2001",
+            "Copyright": "\u00a9 2023 Times Wide World Photos",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/8632"
+    },
+    {
+        "Artist": "Times Wide World Photos",
+        "Title": "\"Giant Liner Launched Named 'Queen Mary'\"",
+        "Year": "September 26, 1934",
+        "ObjectID": "58764",
+        "Work": "https://www.moma.org/collection/works/58764",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNjc5MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7cfe7b87dd804d3a",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "11 3/16 \u00d7 9 5/16\" (28.4 \u00d7 23.6 cm)",
+            "Credit": "The New York Times Collection",
+            "Object number": "2171.2001",
+            "Copyright": "\u00a9 2023 Times Wide World Photos",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/8632"
+    },
+    {
+        "Artist": "Times Wide World Photos",
+        "Title": "Mayor La Guardia Giving the Axe to Slot Machines Which Were Dumped in Waters off Scotland Light",
+        "Year": "October 13, 1934",
+        "ObjectID": "58765",
+        "Work": "https://www.moma.org/collection/works/58765",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNjc5MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=dfc52309098fd2dc",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "6 11/16 \u00d7 8 9/16\" (17 \u00d7 21.8 cm)",
+            "Credit": "The New York Times Collection",
+            "Object number": "2172.2001",
+            "Copyright": "\u00a9 2023 Times Wide World Photos",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/8632"
+    },
+    {
+        "Artist": "Karl Trabert",
+        "Title": "Desk Lamp",
+        "Year": "c. 1930",
+        "ObjectID": "4149",
+        "Work": "https://www.moma.org/collection/works/4149",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMDk0NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ac4d61dfc6ff33bc",
+        "Details": {
+            "Manufacturer": "G. Schanzenbach, Germany",
+            "Medium": "Metal and chrome-plated tubular stem",
+            "Dimensions": "h. 17 7/8\" (45.4 cm); shade diam. 12 15/16\" (32.9 cm); base diam. 7\" (17.8 cm)",
+            "Credit": "Philip Johnson Fund",
+            "Object number": "633.1980",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/5918"
+    },
+    {
+        "Artist": "Georg Trump",
+        "Title": "Deutsche Schriften der Schriftgiesserei H. Berthold A.G. Berlin SW 61, Bismarck-Fraktur, Probe Nr. 279",
+        "Year": "1933-34",
+        "ObjectID": "8481",
+        "Work": "https://www.moma.org/collection/works/8481",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyOTg5NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0e9291d5d01b088d",
+        "Details": {
+            "Medium": "Letterpress",
+            "Dimensions": "11 5/8 x 8 5/16\" (29.5 x 21.1 cm)",
+            "Printer": "H. Berthold AG, Berlin",
+            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
+            "Object number": "1007.1999",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/5947"
+    },
+    {
+        "Artist": "Georg Trump",
+        "Title": "Deutsche Schriften der Schriftgiesserei H. Berthold A.G. Berlin SW 61, Selbaldus-Gotisch, Probe Nr. 281",
+        "Year": "1933-34",
+        "ObjectID": "8482",
+        "Work": "https://www.moma.org/collection/works/8482",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyOTg5NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f0b17043da06e391",
+        "Details": {
+            "Medium": "Letterpress",
+            "Dimensions": "11 11/16 x 8 1/4\" (29.7 x 21 cm)",
+            "Printer": "H. Berthold AG, Berlin",
+            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
+            "Object number": "1008.1999",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/5947"
+    },
+    {
+        "Artist": "Doris Ulmann",
+        "Title": "Portrait of a Young Boy",
+        "Year": "n.d.",
+        "ObjectID": "52885",
+        "Work": "https://www.moma.org/collection/works/52885",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MjU0MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9caa7f1588d3c621",
         "Details": {
             "Medium": "Platinum print",
-            "Dimensions": "9 1/2 \u00d7 5 15/16\" (24.2 \u00d7 15.1 cm)",
-            "Credit": "Gift of Paul F. Walter",
-            "Object number": "94.1999",
-            "Copyright": "\u00a9 Baron Adolph De Meyer Estate",
+            "Dimensions": "8 1/8 \u00d7 6 3/16\" (20.6 \u00d7 15.7 cm)",
+            "Credit": "Purchase",
+            "Object number": "411.1974",
             "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/1434"
+        "Profile": "https://www.moma.org/artists/6004"
     },
     {
-        "Artist": "Adolf De Meyer",
-        "Title": "Dolores",
-        "Year": "1918",
-        "ObjectID": "49164",
-        "Work": "https://www.moma.org/collection/works/49164",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMTAzNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2fc08065877403cc",
+        "Artist": "Doris Ulmann",
+        "Title": "Portrait of Old Man",
+        "Year": "n.d.",
+        "ObjectID": "52900",
+        "Work": "https://www.moma.org/collection/works/52900",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MjU0MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c582a8f28750c160",
+        "Details": {
+            "Medium": "Platinum print",
+            "Dimensions": "8 \u00d7 6 3/16\" (20.3 \u00d7 15.7 cm)",
+            "Credit": "Purchase",
+            "Object number": "412.1974",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/6004"
+    },
+    {
+        "Artist": "Unidentified Artist",
+        "Title": "Neue Kunst Fides Abteilung fur neuzeitliche Wohnungskultur",
+        "Year": "1926",
+        "ObjectID": "7709",
+        "Work": "https://www.moma.org/collection/works/7709",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMDQ1MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=643932656d8104c1",
+        "Details": {
+            "Medium": "Letterpress",
+            "Dimensions": "5 13/16 x 4 3/16\" (14.8 x 10.6 cm)",
+            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
+            "Object number": "604.1977",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/23390"
+    },
+    {
+        "Artist": "Unidentified Artist",
+        "Title": "Handweberei Kathe Schmidt Rechnung (Kathe Schmidt Handweaving Invoice)",
+        "Year": "1934",
+        "ObjectID": "7717",
+        "Work": "https://www.moma.org/collection/works/7717",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMDQ1NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4fba6c6f338d458a",
+        "Details": {
+            "Medium": "Letterpress",
+            "Dimensions": "11 11/16 x 8 5/16\" (29.7 x 21.1 cm)",
+            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
+            "Object number": "606.1977",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/23390"
+    },
+    {
+        "Artist": "Unidentified Artist",
+        "Title": "Dr. Steinitz, Postkarte",
+        "Year": "c. 1929",
+        "ObjectID": "8401",
+        "Work": "https://www.moma.org/collection/works/8401",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMTE2MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=60a2e1a8dc75d9ba",
+        "Details": {
+            "Medium": "Letterpress",
+            "Dimensions": "4 1/8 x 5 13/16\" (10.5 x 14.8 cm)",
+            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
+            "Object number": "934.1999",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/23390"
+    },
+    {
+        "Artist": "Unidentified Artist",
+        "Title": "I. Maskarny Festival absolventov skoly umeleckych remesiel",
+        "Year": "1934",
+        "ObjectID": "8575",
+        "Work": "https://www.moma.org/collection/works/8575",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyOTk3OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a8c1d96341f03430",
+        "Details": {
+            "Medium": "Letterpress",
+            "Dimensions": "8 7/16 x 5 7/8\" (21.5 x 15 cm)",
+            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
+            "Object number": "1100.1999",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/23390"
+    },
+    {
+        "Artist": "Unidentified Artist",
+        "Title": "Handweberei Kathe Schmidt",
+        "Year": "1934",
+        "ObjectID": "8620",
+        "Work": "https://www.moma.org/collection/works/8620",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDAyMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8d5a570bfedf470e",
+        "Details": {
+            "Medium": "Letterpress",
+            "Dimensions": "11 11/16 x 8 5/16\" (29.7 x 21.1 cm)",
+            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
+            "Object number": "1141.1999",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/23390"
+    },
+    {
+        "Artist": "Unidentified designer",
+        "Title": "Celjuskin v zajeti ledu (Trapped in the Ice)",
+        "Year": "1934",
+        "ObjectID": "8578",
+        "Work": "https://www.moma.org/collection/works/8578",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyOTk4MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=88ecae32c1cac789",
+        "Details": {
+            "Medium": "Letterpress",
+            "Dimensions": "9 3/16 x 6 5/16\" (23.4 x 16.1 cm)",
+            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
+            "Object number": "1103.1999",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/48691"
+    },
+    {
+        "Artist": "Unidentified Designer",
+        "Title": "Measuring Flasks",
+        "Year": "Before 1934",
+        "ObjectID": "2795",
+        "Work": "https://www.moma.org/collection/works/2795",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMDc1NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=50a399abc1c285b0",
+        "Details": {
+            "Manufacturer": "Unidentified German Manufacturer",
+            "Medium": "Glass",
+            "Dimensions": ".a (flask): 6 3/4\" (17.1 cm)\r\n.b (stopper): 1\" (2.5 cm)",
+            "Credit": "Gift of Eimer & Amend",
+            "Object number": "223.1934.1-2",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/6011"
+    },
+    {
+        "Artist": "Unidentified Designer",
+        "Title": "Hydrometer Jar",
+        "Year": "Before 1934",
+        "ObjectID": "2859",
+        "Work": "https://www.moma.org/collection/works/2859",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMDc4NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=29fc8fbcfa04e19a",
+        "Details": {
+            "Manufacturer": "Unidentified German Manufacturer",
+            "Medium": "Glass",
+            "Dimensions": "h. 10\" (25.4 cm), diam. 11/16\" (1.8 cm); base diam. 1 15/16\" (4.9 cm)",
+            "Credit": "Gift of Eimer & Amend",
+            "Object number": "230.1934",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/6011"
+    },
+    {
+        "Artist": "Unidentified Designer",
+        "Title": "Weighing Bottles and Stoppers",
+        "Year": "Before 1934",
+        "ObjectID": "2868",
+        "Work": "https://www.moma.org/collection/works/2868",
+        "Thumbnail": null,
+        "Details": {
+            "Manufacturer": "Unidentified German Manufacturer",
+            "Medium": "Glass",
+            "Dimensions": ".1a: 2 x 1\" (5.1 x 2.5 cm)\r\n.1b: 1 1/8 x 7/8\" (2.8 x 2.2 cm)\r\n.2a: 4\" (10.2 cm)\r\n.2b: 1 3/8\" (3.5 cm)",
+            "Credit": "Gift of Eimer & Amend",
+            "Object number": "231.1934.1-2",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/6011"
+    },
+    {
+        "Artist": "Unidentified Designer",
+        "Title": "Hydrometer Jar",
+        "Year": "Before 1934",
+        "ObjectID": "2890",
+        "Work": "https://www.moma.org/collection/works/2890",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMDgwOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c8e47db1af3b2ce2",
+        "Details": {
+            "Medium": "Glass",
+            "Dimensions": "6 3/4 x 1 5/8\" (17.2 x 4.2 cm)",
+            "Credit": "Gift of Eimer & Amend",
+            "Object number": "233.1934",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/6011"
+    },
+    {
+        "Artist": "Unidentified Designer",
+        "Title": "Crystallizing Dishes",
+        "Year": "Before 1934",
+        "ObjectID": "2900",
+        "Work": "https://www.moma.org/collection/works/2900",
+        "Thumbnail": null,
+        "Details": {
+            "Manufacturer": "Unidentified Czechoslovakian Manufacturer",
+            "Medium": "Glass",
+            "Dimensions": ".1: 3 7/8 x 7 1/2\" (9.8 x 19 cm)\r\n.2: 3 7/8 x 7 1/2\" (9.8 x 19 cm)\r\n.3: 3 x 5 7/8\" (7.6 x 14.9 cm)",
+            "Credit": "Gift of Eimer & Amend",
+            "Object number": "234.1934.1-3",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/6011"
+    },
+    {
+        "Artist": "Unidentified Designer",
+        "Title": "Clock-face Glasses",
+        "Year": "Before 1934",
+        "ObjectID": "2928",
+        "Work": "https://www.moma.org/collection/works/2928",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMDgyOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d61f276fe0d7004a",
+        "Details": {
+            "Manufacturer": "Unidentified",
+            "Medium": "Glass",
+            "Dimensions": "Each: diam. 10\" (25.4 cm)",
+            "Credit": "Gift of Eimer & Amend",
+            "Object number": "236.1934.1-2",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/6011"
+    },
+    {
+        "Artist": "Unidentified Designer",
+        "Title": "Moist Chambers",
+        "Year": "Before 1934",
+        "ObjectID": "2938",
+        "Work": "https://www.moma.org/collection/works/2938",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyODkzOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d8cdba2e66f6935f",
+        "Details": {
+            "Manufacturer": "Unidentified German Manufacturer",
+            "Medium": "Glass",
+            "Dimensions": ".1 (overall): 3 1/4 x 9 7/8\" (8.3 x 25.1 cm)\r\n.1a: 3 1/8 x 9 1/4\" (7.9 x 23.5 cm)\r\n.1b: 2 1/8 x 9 7/8\" (5.4 x 25.1 cm)\r\n.2 (overall): 3 x 8\" (7.6 x 20.3 cm)\r\n.2a: 2 3/4 x 7 3/8\" (7 x 18.7 cm)\r\n.2b: 2 x 8\" (5.1 x 20.3 cm)\r\n.3 (overall): 2 3/8 x 6\" (6 x 15.2 cm)\r\n.3a: 2 1/4 x 5 5/8\" (5.7 x 14.3 cm)\r\n.3b: 1 1/2 x 6\" (3.8 x 15.2 cm)\r\n.4: 3 x 9 1/4\" (7.6 x 23.5 cm)\r\n.5: 2 3/4 x 7 3/8\" (7 x 18.7 cm)",
+            "Credit": "Gift of Eimer & Amend",
+            "Object number": "237.1934.1-5",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/6011"
+    },
+    {
+        "Artist": "Unidentified Designer",
+        "Title": "Scorifiers",
+        "Year": "Before 1934",
+        "ObjectID": "2947",
+        "Work": "https://www.moma.org/collection/works/2947",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Clay",
+            "Dimensions": "1 x 2 1/2\" (2.5 x 6.4 cm)",
+            "Credit": "Gift of Eimer & Amend",
+            "Object number": "238.1934.1-2",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/6011"
+    },
+    {
+        "Artist": "Unidentified Designer",
+        "Title": "Weighing Bottle and Stopper",
+        "Year": "Before 1934",
+        "ObjectID": "91410",
+        "Work": "https://www.moma.org/collection/works/91410",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0NDE5MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ca0c8a9993d19aaf",
+        "Details": {
+            "Manufacturer": "Unidentified German Manufacturer",
+            "Medium": "Glass",
+            "Dimensions": "Part: 2 3/4 x 1\" (7 x 2.5 cm)\r\n.1a: 2 x 1\" (5.1 x 2.5 cm)\r\n.1b: 1 1/8 x 7/8\" (2.8 x 2.2 cm)\r\n.2a: 4\" (10.2 cm)\r\n.2b: 1 3/8\" (3.5 cm)",
+            "Credit": "Gift of Eimer & Amend",
+            "Object number": "231.1934.1a-b",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/6011"
+    },
+    {
+        "Artist": "Unidentified Designer",
+        "Title": "Letters to Auguste Herbin from Georges Herbiet",
+        "Year": "1934",
+        "ObjectID": "198609",
+        "Work": "https://www.moma.org/collection/works/198609",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0MzExNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=03f8ed3bd4d4956f",
+        "Details": {
+            "Medium": "Carbon copy on paper",
+            "Dimensions": "10 3/4 \u00d7 8 1/8\" (27.3 \u00d7 20.6 cm)",
+            "Credit": "Elaine Lustig Cohen Collection, gift of Lawrence Benenson and the Committee on Architecture and Design Funds",
+            "Object number": "1493.2015.1-2",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/6011"
+    },
+    {
+        "Artist": "Unidentified Designer",
+        "Title": "Brandy Inhaler",
+        "Year": "Before 1934",
+        "ObjectID": "2753",
+        "Work": "https://www.moma.org/collection/works/2753",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMDczNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ada2f05c0deb87ba",
+        "Details": {
+            "Medium": "Holland glass",
+            "Dimensions": "4 1/2 x 4\" (11.4 x 10.2 cm)",
+            "Credit": "Gift of Ovington's",
+            "Object number": "219.1934",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/6015"
+    },
+    {
+        "Artist": "Unidentified Designer",
+        "Title": "Abstraction Creation Magazine letterhead (Letter from Herbin)",
+        "Year": "1934",
+        "ObjectID": "198589",
+        "Work": "https://www.moma.org/collection/works/198589",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0MzA5NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=abd428e5396dab08",
+        "Details": {
+            "Medium": "Letterpress",
+            "Dimensions": "10 1/8 \u00d7 8 1/4\" (25.7 \u00d7 21 cm)",
+            "Credit": "Elaine Lustig Cohen Collection, gift of Lawrence Benenson and the Committee on Architecture and Design Funds",
+            "Object number": "1478.2015",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/6013"
+    },
+    {
+        "Artist": "Unidentified Designer",
+        "Title": "Abstraction Creation Magazine letterhead (Letter from Herbin)",
+        "Year": "1934",
+        "ObjectID": "198590",
+        "Work": "https://www.moma.org/collection/works/198590",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0Mjk3NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=595a9e096ca466ab",
+        "Details": {
+            "Medium": "Letterpress",
+            "Dimensions": "10 1/8 \u00d7 8 1/4\" (25.7 \u00d7 21 cm)",
+            "Credit": "Elaine Lustig Cohen Collection, gift of Lawrence Benenson and the Committee on Architecture and Design Funds",
+            "Object number": "1479.2015",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/6013"
+    },
+    {
+        "Artist": "Unidentified Designer",
+        "Title": "Cartolina Futurista Tipo-Conguillo postcard (Addressed to Angelo Rognoni from Marinetti)",
+        "Year": "1934",
+        "ObjectID": "198579",
+        "Work": "https://www.moma.org/collection/works/198579",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0MzI4MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b7e24cf005a554c8",
+        "Details": {
+            "Medium": "Letterpress",
+            "Dimensions": "3 1/2 \u00d7 5 1/2\" (8.9 \u00d7 14 cm)",
+            "Credit": "Elaine Lustig Cohen Collection, gift of Lawrence Benenson and the Committee on Architecture and Design Funds",
+            "Object number": "1473.2015",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/6016"
+    },
+    {
+        "Artist": "Unidentified photographer",
+        "Title": "\"Car in which Clyde Barrow and Bonnie Parker Were Riddled with Bullets\"",
+        "Year": "1934",
+        "ObjectID": "58812",
+        "Work": "https://www.moma.org/collection/works/58812",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNTU0NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5e3d63caeeea29a1",
         "Details": {
             "Medium": "Gelatin silver print",
-            "Dimensions": "8 3/4 \u00d7 7 1/2\" (22.2 \u00d7 19 cm)",
-            "Credit": "Gift of Anne Ehrenkranz in honor of Samuel J. Wagstaff, Jr.",
-            "Object number": "228.1993",
-            "Copyright": "\u00a9 Baron Adolph De Meyer Estate",
+            "Dimensions": "4 7/16 \u00d7 7 9/16\" (11.3 \u00d7 19.2 cm)",
+            "Credit": "The New York Times Collection",
+            "Object number": "2219.2001",
             "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/1434"
+        "Profile": "https://www.moma.org/artists/8595"
     },
     {
-        "Artist": "Charles Demuth",
-        "Title": "Early Houses, Provincetown",
-        "Year": "1918",
-        "ObjectID": "32987",
-        "Work": "https://www.moma.org/collection/works/32987",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNTg2NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6c01a686d543e08f",
+        "Artist": "Unidentified photographer",
+        "Title": "This is how it looks from the top of the hill",
+        "Year": "February 12, 1934",
+        "ObjectID": "98183",
+        "Work": "https://www.moma.org/collection/works/98183",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4OTk0NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=dd38d2fa6121ddba",
         "Details": {
-            "Medium": "Watercolor on paper",
-            "Dimensions": "14 x 10\" (35.5 x 25.4 cm)",
-            "Credit": "Gift of Philip L. Goodwin",
-            "Object number": "3.1949",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/1490"
-    },
-    {
-        "Artist": "Charles Demuth",
-        "Title": "At a House in Harley Street",
-        "Year": "1918",
-        "ObjectID": "33552",
-        "Work": "https://www.moma.org/collection/works/33552",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2ODY4OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1a9ccda4f947e1bd",
-        "Details": {
-            "Medium": "Watercolor and pencil on paper",
-            "Dimensions": "8 x 11\" (20.3 x 27.9 cm)",
-            "Credit": "Gift of Abby Aldrich Rockefeller",
-            "Object number": "56.1935",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/1490"
-    },
-    {
-        "Artist": "Charles Demuth",
-        "Title": "Dancing Sailors",
-        "Year": "1918",
-        "ObjectID": "34760",
-        "Work": "https://www.moma.org/collection/works/34760",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMzk2NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=20ac4235e9f91bde",
-        "Details": {
-            "Medium": "Watercolor and pencil on paper",
-            "Dimensions": "8 x 10\" (20.3 x 25.4 cm)",
-            "Credit": "Abby Aldrich Rockefeller Fund",
-            "Object number": "147.1945",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/1490"
-    },
-    {
-        "Artist": "Charles Demuth",
-        "Title": "Vaudeville Dancers",
-        "Year": "1918",
-        "ObjectID": "34787",
-        "Work": "https://www.moma.org/collection/works/34787",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MzE5MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=55c4c754f13b7eb4",
-        "Details": {
-            "Medium": "Watercolor and pencil on paper",
-            "Dimensions": "8 x 11 1/2\" (20.4 x 29.2 cm)",
-            "Credit": "Purchase",
-            "Object number": "149.1945",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/1490"
-    },
-    {
-        "Artist": "Theo van Doesburg",
-        "Title": "Rhythm of a Russian Dance",
-        "Year": "June 1918",
-        "ObjectID": "78948",
-        "Work": "https://www.moma.org/collection/works/78948",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1MTAxOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c17ddc5c6067ac61",
-        "Details": {
-            "Medium": "Oil on canvas",
-            "Dimensions": "53 1/2 x 24 1/4\" (135.9 x 61.6 cm)",
-            "Credit": "Acquired through the Lillie P. Bliss Bequest (by exchange)",
-            "Object number": "135.1946",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/6076"
-    },
-    {
-        "Artist": "Theo van Doesburg",
-        "Title": "Composition VIII (The Cow)",
-        "Year": "c. 1918",
-        "ObjectID": "79189",
-        "Work": "https://www.moma.org/collection/works/79189",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0MjM3MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=bc4e3bba9e1211de",
-        "Details": {
-            "Medium": "Oil on canvas",
-            "Dimensions": "14 3/4 x 25\" (37.5 x 63.5 cm)",
-            "Credit": "Purchase",
-            "Object number": "225.1948",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/6076"
-    },
-    {
-        "Artist": "Theo van Doesburg",
-        "Title": "Study for Rhythm of a Russian Dance",
-        "Year": "1917-18",
-        "ObjectID": "399911",
-        "Work": "https://www.moma.org/collection/works/399911",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNjU0MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=39882c5de890124b",
-        "Details": {
-            "Medium": "Pencil and ink on paper",
-            "Dimensions": "3 1/8 \u00d7 2 1/2\" (8 \u00d7 6.4 cm)",
-            "Credit": "Gift of Nelly van Doesburg",
-            "Object number": "26.1969.1",
-            "Series": "Seven preparatory studies for Rhythm of a Russian Dance",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/6076"
-    },
-    {
-        "Artist": "Theo van Doesburg",
-        "Title": "Study for Rhythm of a Russian Dance",
-        "Year": "1917-18",
-        "ObjectID": "399912",
-        "Work": "https://www.moma.org/collection/works/399912",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNjU0MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e536d0d2ae7a366d",
-        "Details": {
-            "Medium": "Pencil and ink on paper",
-            "Dimensions": "3 \u00d7 2 1/16\" (7.6 \u00d7 5.3 cm)",
-            "Credit": "Gift of Nelly van Doesburg",
-            "Object number": "26.1969.2",
-            "Series": "Seven preparatory studies for Rhythm of a Russian Dance",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/6076"
-    },
-    {
-        "Artist": "Theo van Doesburg",
-        "Title": "Study for Rhythm of a Russian Dance",
-        "Year": "1917-18",
-        "ObjectID": "399913",
-        "Work": "https://www.moma.org/collection/works/399913",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNjU0MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9517363e2ac64d31",
-        "Details": {
-            "Medium": "Pencil and ink on paper",
-            "Dimensions": "3 3/8 \u00d7 1 11/16\" (8.5 \u00d7 4.3 cm)",
-            "Credit": "Gift of Nelly van Doesburg",
-            "Object number": "26.1969.3",
-            "Series": "Seven preparatory studies for Rhythm of a Russian Dance",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/6076"
-    },
-    {
-        "Artist": "Theo van Doesburg",
-        "Title": "Study for Rhythm of a Russian Dance",
-        "Year": "1917-18",
-        "ObjectID": "399914",
-        "Work": "https://www.moma.org/collection/works/399914",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNjU0MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b7c2e1e8ec13e7d9",
-        "Details": {
-            "Medium": "Pencil and ink on paper",
-            "Dimensions": "3 1/8 \u00d7 2 11/16\" (8 \u00d7 6.8 cm)",
-            "Credit": "Gift of Nelly van Doesburg",
-            "Object number": "26.1969.4",
-            "Series": "Seven preparatory studies for Rhythm of a Russian Dance",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/6076"
-    },
-    {
-        "Artist": "Theo van Doesburg",
-        "Title": "Study for Rhythm of a Russian Dance",
-        "Year": "1917-18",
-        "ObjectID": "399915",
-        "Work": "https://www.moma.org/collection/works/399915",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNjU0NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b5169fdadbd0ceb9",
-        "Details": {
-            "Medium": "Pencil and ink on paper",
-            "Dimensions": "5 3/8 \u00d7 4 3/16\" (13.7 \u00d7 10.6 cm)",
-            "Credit": "Gift of Nelly van Doesburg",
-            "Object number": "26.1969.5",
-            "Series": "Seven preparatory studies for Rhythm of a Russian Dance",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/6076"
-    },
-    {
-        "Artist": "Theo van Doesburg",
-        "Title": "Study for Rhythm of a Russian Dance",
-        "Year": "1917-18",
-        "ObjectID": "399916",
-        "Work": "https://www.moma.org/collection/works/399916",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNjU0NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0c284c6379139401",
-        "Details": {
-            "Medium": "Pencil and ink on paper",
-            "Dimensions": "7 15/16 \u00d7 5 3/16\" (20.1 \u00d7 13.1 cm)",
-            "Credit": "Gift of Nelly van Doesburg",
-            "Object number": "26.1969.6",
-            "Series": "Seven preparatory studies for Rhythm of a Russian Dance",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/6076"
-    },
-    {
-        "Artist": "Theo van Doesburg",
-        "Title": "Study for Rhythm of a Russian Dance",
-        "Year": "1917-18",
-        "ObjectID": "399917",
-        "Work": "https://www.moma.org/collection/works/399917",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNjU0NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b23ea158226309cd",
-        "Details": {
-            "Medium": "Pencil, colored pencil, and ink on graph paper",
-            "Dimensions": "6 1/4 \u00d7 4 1/8\" (15.8 \u00d7 10.5 cm)",
-            "Credit": "Gift of Nelly van Doesburg",
-            "Object number": "26.1969.7",
-            "Series": "Seven preparatory studies for Rhythm of a Russian Dance",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/6076"
-    },
-    {
-        "Artist": "Katherine S. Dreier",
-        "Title": "Abstract Portrait of Marcel Duchamp",
-        "Year": "1918",
-        "ObjectID": "79378",
-        "Work": "https://www.moma.org/collection/works/79378",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4MzU0NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9bdd08155044cf26",
-        "Details": {
-            "Medium": "Oil on canvas",
-            "Dimensions": "18 x 32\" (45.7 x 81.3 cm)",
-            "Credit": "Abby Aldrich Rockefeller Fund",
-            "Object number": "279.1949",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/16479"
-    },
-    {
-        "Artist": "Marcel Duchamp",
-        "Title": "To Be Looked at (from the Other Side of the Glass) with One Eye, Close to, for Almost an Hour",
-        "Year": "Buenos Aires 1918",
-        "ObjectID": "78993",
-        "Work": "https://www.moma.org/collection/works/78993",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0MzI3MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3f22b3aecd31b5fc",
-        "Details": {
-            "Medium": "Oil, silver leaf, lead wire, and magnifying lens on glass (cracked), mounted between panes of glass in a standing metal frame, 20 1/8 x 16 1/4 x 1 1/2\" (51 x 41.2 x 3.7 cm), on painted wood base, 1 7/8 x 17 7/8 x 4 1/2\" (4.8 x 45.3 x 11.4 cm)",
-            "Dimensions": "Overall 22\" (55.8 cm) high",
-            "Credit": "Katherine S. Dreier Bequest",
-            "Object number": "150.1953",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris / Estate of Marcel Duchamp",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/1634"
-    },
-    {
-        "Artist": "Josef Eberz",
-        "Title": "Die Aktion, vol. 8, no. 29/30",
-        "Year": "July 27, 1918",
-        "ObjectID": "144444",
-        "Work": "https://www.moma.org/collection/works/144444",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0NTQ3NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=56c160972bde11e4",
-        "Details": {
-            "Medium": "Periodical with reproduction on cover and three woodcuts by Josef Eberz",
-            "Dimensions": "page (each approx.): 12 1/8 x 9 1/8\" (30.8 x 23.2 cm)",
-            "Publisher": "Verlag der Wochenschrift DIE AKTION, Berlin",
-            "Printer": "F.E. Haag, Melle in Hannover",
-            "Edition": "several thousand",
-            "Credit": "Committee on Prints and Illustrated Books Fund and The Library Council",
-            "Object number": "947.2010.239.1-3",
-            "Periodical": "Die Aktion (vol. 2, no. 3-vol. 11, no. 11/12)",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/1673"
-    },
-    {
-        "Artist": "Hugo Erfurth",
-        "Title": "Lovis Corinth",
-        "Year": "1918",
-        "ObjectID": "52766",
-        "Work": "https://www.moma.org/collection/works/52766",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEwNTgzNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8f1870ed7e2a27ee",
-        "Details": {
-            "Sitter": "Lovis Corinth",
             "Medium": "Gelatin silver print",
-            "Dimensions": "10 15/16 \u00d7 8 1/2\" (27.9 \u00d7 21.7 cm)",
-            "Credit": "Acquired through the generosity of Blanchette Hooker Rockefeller",
-            "Object number": "407.1986",
-            "Copyright": "\u00a9 2023 Hugo Erfurth / Artists Rights Society (ARS), New York",
+            "Dimensions": "3 3/8 \u00d7 5 1/2\" (8.6 \u00d7 14 cm)",
+            "Credit": "Gift of Thomas Walther",
+            "Object number": "462.2005",
             "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/1744"
-    },
-    {
-        "Artist": "Vera Ermolaeva",
-        "Title": "Myshata (Baby Mice)",
-        "Year": "1918",
-        "ObjectID": "11725",
-        "Work": "https://www.moma.org/collection/works/11725",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMDQ0OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6f7bb050eb1dade2",
-        "Details": {
-            "Author": "Natan Vengrov",
-            "Medium": "Book with three linoleum cuts with watercolor additions (including cover)",
-            "Dimensions": "page (each): 8 3/16 \u00d7 5 15/16\" (20.8 \u00d7 15.1 cm); overall (closed): 8 1/8 \u00d7 6 \u00d7 1/16\" (20.7 \u00d7 15.2 \u00d7 0.1 cm)",
-            "Publisher": "Segodnia, Petrograd",
-            "Edition": "1,000 (125 with watercolor additions)",
-            "Credit": "Gift of The Judith Rothschild Foundation",
-            "Object number": "145.2001.1-3",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/1749"
-    },
-    {
-        "Artist": "Vera Ermolaeva",
-        "Title": "Pionery (Pioneers)",
-        "Year": "1918",
-        "ObjectID": "11901",
-        "Work": "https://www.moma.org/collection/works/11901",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDMzMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8a528ee000ffd5b7",
-        "Details": {
-            "Author": "Walt Whitman",
-            "Medium": "Book with four linoleum cuts with watercolor additions (including cover)",
-            "Dimensions": "page (each): 7 15/16 \u00d7 5 15/16\" (20.2 \u00d7 15.1 cm); overall (closed): 8 \u00d7 6 \u00d7 1/16\" (20.3 \u00d7 15.2 \u00d7 0.1 cm)",
-            "Publisher": "Segodnia, Petrograd",
-            "Edition": "1,000 (125 with watercolor additions)",
-            "Credit": "Gift of The Judith Rothschild Foundation",
-            "Object number": "149.2001.1-4",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/1749"
-    },
-    {
-        "Artist": "Vera Ermolaeva",
-        "Title": "Segodnia (Today)",
-        "Year": "1918",
-        "ObjectID": "12005",
-        "Work": "https://www.moma.org/collection/works/12005",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMDQ3NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c4529054d6a99156",
-        "Details": {
-            "Author": "Natan Vengrov",
-            "Medium": "Book with four linoleum cuts (including cover)",
-            "Dimensions": "page (each): 7 15/16 x 5 7/8\" (20.2 x 14.9 cm)",
-            "Publisher": "Segodnia, Petrograd",
-            "Edition": "1,000 (125 with watercolor additions)",
-            "Credit": "Gift of The Judith Rothschild Foundation",
-            "Object number": "151.2001",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/1749"
-    },
-    {
-        "Artist": "Vera Ermolaeva",
-        "Title": "Petukh (The Rooster)",
-        "Year": "1918",
-        "ObjectID": "16314",
-        "Work": "https://www.moma.org/collection/works/16314",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMTIwMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=59a3f1f2abaed0a6",
-        "Details": {
-            "Author": "Natan Vengrov",
-            "Medium": "Linoleum cut with watercolor additions",
-            "Dimensions": "sheet (irreg.): 15 7/8 x 11 7/8\" (40.4 x 30.1 cm)",
-            "Publisher": "Segodnia, Petrograd",
-            "Edition": "unknown",
-            "Credit": "Gift of The Judith Rothschild Foundation",
-            "Object number": "371.2001",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/1749"
-    },
-    {
-        "Artist": "Lyonel Feininger",
-        "Title": "People on the Jetty (Leute auf See-Steg)",
-        "Year": "1918",
-        "ObjectID": "34461",
-        "Work": "https://www.moma.org/collection/works/34461",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyMDA0NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ca6dd966244e3c82",
-        "Details": {
-            "Medium": "Watercolor and ink on paper",
-            "Dimensions": "7 5/8 x 11 1/2\" (19.4 x 29.2 cm)",
-            "Credit": "Gift of Julia Feininger",
-            "Object number": "127.1966",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/1832"
-    },
-    {
-        "Artist": "Lyonel Feininger",
-        "Title": "The Rainbow (Der Regenbogen)",
-        "Year": "1918",
-        "ObjectID": "34488",
-        "Work": "https://www.moma.org/collection/works/34488",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNTU3NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=edf5d02ae7112d74",
-        "Details": {
-            "Medium": "Watercolor and ink on paper",
-            "Dimensions": "9 3/8 x 12 1/4\" (23.8 x 31.1 cm)",
-            "Credit": "Gift of Julia Feininger",
-            "Object number": "128.1966",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/1832"
-    },
-    {
-        "Artist": "Lyonel Feininger",
-        "Title": "Euphoric Victory (Siegesrausch)",
-        "Year": "(1918)",
-        "ObjectID": "34505",
-        "Work": "https://www.moma.org/collection/works/34505",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyMDA2NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5a398bf13eb743c5",
-        "Details": {
-            "Medium": "Watercolor, opaque watercolor and ink on paper",
-            "Dimensions": "(irreg.): 14 3/8 x 12 5/8\" (36.5 x 32 cm)",
-            "Credit": "Gift of Julia Feininger",
-            "Object number": "129.1966",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/1832"
-    },
-    {
-        "Artist": "Lyonel Feininger",
-        "Title": "Euphoric Victory (Siegesrausch)",
-        "Year": "1918",
-        "ObjectID": "34519",
-        "Work": "https://www.moma.org/collection/works/34519",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNzI3MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b537bc3f187eb8fe",
-        "Details": {
-            "Medium": "Watercolor, opaque watercolor and ink on paper",
-            "Dimensions": "13 5/8 x 12 1/8\" (34.6 x 30.6 cm)",
-            "Credit": "Gift of Julia Feininger",
-            "Object number": "130.1966",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/1832"
-    },
-    {
-        "Artist": "Lyonel Feininger",
-        "Title": "Marine",
-        "Year": "1918",
-        "ObjectID": "59646",
-        "Work": "https://www.moma.org/collection/works/59646",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNDcxOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=23ae5ac3d7ff297a",
-        "Details": {
-            "Medium": "Woodcut",
-            "Dimensions": "composition (irreg.): 6 5/8 x 8 7/8\" (16.8 x 22.5 cm); sheet: 8 5/8 x 11 1/16\" (21.9 x 28.1 cm)",
-            "Publisher": "unpublished",
-            "Printer": "Lyonel Feininger",
-            "Edition": "state I: approx. 6-15 [this ex.]; state II: an unknown number (including deluxe edition of 100 on handmade paper) in the periodical Die Rote Erde, vol. 1, no. 1 (June 1919)",
-            "Credit": "Gift of Paul J. Sachs",
-            "Object number": "5.1929",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/1832"
-    },
-    {
-        "Artist": "Lyonel Feininger",
-        "Title": "The Gate (Das Tor) from the portfolio Die Schaffenden, vol. 1, no. 1",
-        "Year": "(1912, published 1918)",
-        "ObjectID": "60665",
-        "Work": "https://www.moma.org/collection/works/60665",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNzk4OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3d0706d83df66c7d",
-        "Details": {
-            "Medium": "Etching and drypoint",
-            "Dimensions": "plate: 10 11/16 x 7 13/16\" (27.2 x 19.9 cm); sheet 16 1/2 x 12 9/16\" (42.0 x 32.0 cm)",
-            "Publisher": "Verlag Gustav Kiepenheuer, Weimar",
-            "Printer": "Unidentified",
-            "Edition": "125 (including deluxe edition of 25 on Japan paper and regular edition of 100 on wove paper [this ex.]); plus 1 known proof",
-            "Credit": "Gift of Mrs. Donald B. Straus",
-            "Object number": "39.1959",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/1832"
-    },
-    {
-        "Artist": "Lyonel Feininger",
-        "Title": "Trumpeter (with Hat) (Trompeter [mit Hut])",
-        "Year": "1918",
-        "ObjectID": "63443",
-        "Work": "https://www.moma.org/collection/works/63443",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNDc0MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6da0714493e62784",
-        "Details": {
-            "Medium": "Woodcut",
-            "Dimensions": "composition: 8 9/16 x 6 15/16\" (21.8 x 17.6 cm); sheet: 11 1/8 x 8 11/16\" (28.2 x 22 cm); mount: 12 3/8 x 9 13/16\" (31.4 x 25 cm)",
-            "Publisher": "unpublished",
-            "Printer": "Lyonel Feininger",
-            "Edition": "state I: 1 known impression; state II: 2 known impressions [this ex.]",
-            "Credit": "Gift of Julia Feininger",
-            "Object number": "167.1966",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/1832"
-    },
-    {
-        "Artist": "Lyonel Feininger",
-        "Title": "Trumpeter (Trompeter)",
-        "Year": "1918",
-        "ObjectID": "63468",
-        "Work": "https://www.moma.org/collection/works/63468",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNDc0MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=48ea3577c087d890",
-        "Details": {
-            "Medium": "Woodcut",
-            "Dimensions": "composition: 8 1/2 x 7 5/16\" (21.6 x 18.6 cm); sheet: 11 5/8 x 9 1/16\" (29.5 x 23 cm)",
-            "Publisher": "unpublished",
-            "Printer": "Lyonel Feininger",
-            "Edition": "2 known impressions",
-            "Credit": "Gift of Julia Feininger",
-            "Object number": "168.1966",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/1832"
-    },
-    {
-        "Artist": "Lyonel Feininger",
-        "Title": "Woodblock for Fishing Boats (Fischerboote)",
-        "Year": "1918",
-        "ObjectID": "63490",
-        "Work": "https://www.moma.org/collection/works/63490",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE0MDEzNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4d91c1f222f18f9c",
-        "Details": {
-            "Medium": "Woodblock",
-            "Dimensions": "overall: 4 7/8 x 6 3/8 x 3/8\" (12.4 x 16.2 x 0.9 cm)",
-            "Credit": "Gift of Julia Feininger",
-            "Object number": "169.1966",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/1832"
-    },
-    {
-        "Artist": "Lyonel Feininger",
-        "Title": "Baltic Steamer (Ostsee Dampfer)",
-        "Year": "1918",
-        "ObjectID": "63524",
-        "Work": "https://www.moma.org/collection/works/63524",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyODk0NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6ebe34d8110a0dee",
-        "Details": {
-            "Medium": "Woodcut",
-            "Dimensions": "composition (irreg.): 12 15/16 x 16 13/16\" (32.9 x 42.7 cm); sheet: 19 7/16 x 27 1/2\" (49.4 x 69.8 cm)",
-            "Publisher": "unpublished",
-            "Printer": "Lyonel Feininger",
-            "Edition": "state I: 1 known impressions; state II: approx. 6-15 [this ex.]",
-            "Credit": "Gift of Julia Feininger",
-            "Object number": "170.1966",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/1832"
-    },
-    {
-        "Artist": "Lyonel Feininger",
-        "Title": "Woodblock forThe Yacht Race (Wettsegeln)",
-        "Year": "1918",
-        "ObjectID": "64546",
-        "Work": "https://www.moma.org/collection/works/64546",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MTAwNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fb0e66c03c39dbda",
-        "Details": {
-            "Medium": "Woodblock",
-            "Dimensions": "overall: 5 9/16 x 7 1/2 x 1/4\" (14.2 x 19 x 0.6 cm)",
-            "Credit": "Gift of Julia Feininger",
-            "Object number": "214.1984",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/1832"
-    },
-    {
-        "Artist": "Lyonel Feininger",
-        "Title": "Woodblock for The Harbor (Hafen)",
-        "Year": "1918",
-        "ObjectID": "64558",
-        "Work": "https://www.moma.org/collection/works/64558",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE0MDE0NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cdfd192e1fa8eeb9",
-        "Details": {
-            "Medium": "Woodblock",
-            "Dimensions": "overall: 6 5/16 x 8 11/16 x 3/8\" (16 x 22 x 1 cm)",
-            "Credit": "Gift of Julia Feininger",
-            "Object number": "215.1984",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/1832"
-    },
-    {
-        "Artist": "Lyonel Feininger",
-        "Title": "Wagon Crossing a Bridge (Wagen auf einer Brucke)",
-        "Year": "(1918)",
-        "ObjectID": "65349",
-        "Work": "https://www.moma.org/collection/works/65349",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExODQyOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d8c20e4ade5858e6",
-        "Details": {
-            "Medium": "Woodcut",
-            "Dimensions": "composition: 3 1/8 x 4 5/16\" (8 x 10.9 cm); sheet: 4 7/16 x 5 1/2\" (11.2 x 14 cm)",
-            "Publisher": "unpublished",
-            "Printer": "Lyonel Feininger",
-            "Edition": "approx. 6-15 printed 1918; plus 30 in the portfolio Ten Woodcuts by Lyonel Feininger published by Buchholz Gallery (Curt Valentin), New York, 1941; plus some proofs used as letterhead [this ex.]",
-            "Credit": "Given anonymously",
-            "Object number": "SC255.1975",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/1832"
-    },
-    {
-        "Artist": "Lyonel Feininger",
-        "Title": "The Green Bridge (recto); Zirchow (verso)",
-        "Year": "1910-11 (recto); 1917-18 (verso)",
-        "ObjectID": "68275",
-        "Work": "https://www.moma.org/collection/works/68275",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5NDE2MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e8259d2ae0c7e69f",
-        "Details": {
-            "Medium": "Etching (recto and verso)",
-            "Dimensions": "plate (.a): 10 9/16 x 7 11/16\" (26.8 x 19.6 cm); plate (.b): 4 1/4 x 5 7/16\" (10.8 x 13.8 cm); sheet: 12 3/4 x 9 11/16\" (32.4 x 24.6 cm)",
-            "Publisher": "unpublished (recto), unpublished (verso)",
-            "Printer": "Unidentified",
-            "Edition": "(recto): 6 known impressions printed in 1910\u201311, before the edition of 275 published in 1922 in the Second Annual Portfolio of the Kreis graphischer K\u00fcnstler und Sammler; (verso): 3 known impressions",
-            "Credit": "Gift of the artist and his wife",
-            "Object number": "388.1955.a-b",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/1832"
-    },
-    {
-        "Artist": "Lyonel Feininger",
-        "Title": "The Yacht Race (Wettsegeln)",
-        "Year": "1918",
-        "ObjectID": "68355",
-        "Work": "https://www.moma.org/collection/works/68355",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNDc1MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=70bfec75b29d3613",
-        "Details": {
-            "Medium": "Woodcut",
-            "Dimensions": "composition (irreg.): 5 5/8 x 7 5/8\" (14.3 x 19.3 cm); sheet: 7 7/8 x 10\" (20 x 25.4 cm)",
-            "Publisher": "unpublished",
-            "Printer": "Lyonel Feininger",
-            "Edition": "4 known impressions [this ex.]; plus a posthumous edition of 100 (plus 2 printer's proofs) printed 1964",
-            "Credit": "Gift of Julia Feininger",
-            "Object number": "393.1955",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/1832"
-    },
-    {
-        "Artist": "Lyonel Feininger",
-        "Title": "Town Gate, Ribnitz (Das Tor, Ribnitz)",
-        "Year": "1918",
-        "ObjectID": "68367",
-        "Work": "https://www.moma.org/collection/works/68367",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNDc1NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=33b96f8e4054b3d9",
-        "Details": {
-            "Medium": "Woodcut",
-            "Dimensions": "composition (irreg.): 5 11/16 x 5 5/8\" (14.5 x 14.3 cm); sheet: 9 1/16 x 8 3/16\" (23 x 20.8 cm); \r\nmount: 11 9/16 x 9 13/16\" (29.4 x 25 cm)",
-            "Publisher": "Emil Richter, Dresden",
-            "Printer": "Lyonel Feininger",
-            "Edition": "state I: 5 known impressions printed 1918 [this ex.]; plus an unknown number in the periodical Neue Bl\u00e4tter f\u00fcr Kunst und Dichtung, vol. 2, no. 7 (1919); state II: 5 known impressions",
-            "Credit": "Gift of Julia Feininger",
-            "Object number": "394.1955",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/1832"
-    },
-    {
-        "Artist": "Lyonel Feininger",
-        "Title": "Rainy Day on the Beach (Regentag am Strande) for the portfolio Twelve Woodcuts by Lyonel Feininger",
-        "Year": "1918",
-        "ObjectID": "68378",
-        "Work": "https://www.moma.org/collection/works/68378",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNDc1NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=42d33ade55a702c8",
-        "Details": {
-            "Medium": "Woodcut",
-            "Dimensions": "composition: 5 3/8 x 8 7/16\" (13.7 x 21.5 cm); sheet (irreg.): 7 3/8 x 9 13/16\" (18.7 x 25 cm)",
-            "Publisher": "unpublished",
-            "Printer": "Lyonel Feininger",
-            "Edition": "state I: approx. 6-15 printed 1918 [this ex.]; plus 50 in the portfolio Twelve Woodcuts by Lyonel Feininger, published by the Staatliches Bauhaus, Weimar, 1920; state II: 1 known impression",
-            "Credit": "Gift of Julia Feininger",
-            "Object number": "395.1955",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/1832"
-    },
-    {
-        "Artist": "Lyonel Feininger",
-        "Title": "Gelmeroda (with the Fir Tree) (Gelmeroda [mit Tanne])",
-        "Year": "1918",
-        "ObjectID": "68391",
-        "Work": "https://www.moma.org/collection/works/68391",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNDc1NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b6895d3365fc77fc",
-        "Details": {
-            "Medium": "Woodcut",
-            "Dimensions": "composition: 8 11/16 x 6 3/4\" (22 x 17.2 cm); sheet (irreg.): 14 15/16 x 11 7/16\" (38 x 29 cm)",
-            "Publisher": "Staatliches Bauhaus, Weimar",
-            "Printer": "Lyonel Feininger",
-            "Edition": "state I: approx. 6-15 printed 1918; state II: approx. 6-15 printed 1918 [this ex.]; plus 50 in the portfolio Twelve Woodcuts by Lyonel Feininger, published by the Staatliches Bauhaus, Weimar, 1920",
-            "Credit": "Gift of Julia Feininger",
-            "Object number": "396.1955",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/1832"
-    },
-    {
-        "Artist": "Lyonel Feininger",
-        "Title": ".a Da-Da, 1 (frontispiece) for the illustrated book Dada and _.b Da-Da, 2\n\n_",
-        "Year": "1918",
-        "ObjectID": "68406",
-        "Work": "https://www.moma.org/collection/works/68406",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNDc1NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=11d77f987c898f48",
-        "Details": {
-            "Medium": "Two woodcuts, printed on one sheet",
-            "Dimensions": "composition (.a; irreg.): 4 5/8 x 3 1/2\" (11.8 x 8.9 cm); composition (.b): 3 1/2 x 4 13/16\" (8.9 x 12.2 cm); sheet: 9 15/16 x 7 3/8\" (25.2 x 18.8 cm)",
-            "Publisher": "Kurt Wolff Verlag, Leipzig",
-            "Printer": "Lyonel Feininger",
-            "Edition": "4 known impressions",
-            "Credit": "Gift of the artist and his wife",
-            "Object number": "397.1955.a-b",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/1832"
-    },
-    {
-        "Artist": "Lyonel Feininger",
-        "Title": "Street in Paris (Strasse in Paris)",
-        "Year": "1918",
-        "ObjectID": "68420",
-        "Work": "https://www.moma.org/collection/works/68420",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NzU2MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6c70af925b39f8e5",
-        "Details": {
-            "Medium": "Woodcut",
-            "Dimensions": "composition: 21 7/16 x 16 3/16\" (54.4 x 41.1 cm); sheet: 26 7/8 x 19 1/2\" (68.2 x 49.6 cm)",
-            "Publisher": "unpublished",
-            "Printer": "Lyonel Feininger",
-            "Edition": "state I: 5 known proofs; state II: approx. 6-15 [this ex.]",
-            "Credit": "Gift of Mrs. Julia Feininger",
-            "Object number": "398.1955",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/1832"
-    },
-    {
-        "Artist": "Lyonel Feininger",
-        "Title": "Fishing Boats (Fischerboote)",
-        "Year": "1918",
-        "ObjectID": "68439",
-        "Work": "https://www.moma.org/collection/works/68439",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNDc1OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a75e25fd73e4b0b9",
-        "Details": {
-            "Medium": "Woodcut",
-            "Dimensions": "composition: 4 15/16 x 6 1/2\" (12.6 x 16.5 cm); sheet: 8 9/16 x 11\" (21.8 x 27.9 cm)",
-            "Publisher": "unpublished",
-            "Printer": "Lyonel Feininger",
-            "Edition": "state I: approx. 6-15 printed 1918 [this ex.]; state II: approx. 6-15 printed in 1918; plus approx. 14 (50 announced) in the portfolio 10 Woodcuts by Lyonel Feininger published by Euphorion Verlag, Berlin, c. 1926",
-            "Credit": "Gift of the artist and his wife",
-            "Object number": "399.1955",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/1832"
-    },
-    {
-        "Artist": "Lyonel Feininger",
-        "Title": "Night (Nacht)",
-        "Year": "1918",
-        "ObjectID": "68465",
-        "Work": "https://www.moma.org/collection/works/68465",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNDc2MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e12db8056e87b681",
-        "Details": {
-            "Medium": "Woodcut",
-            "Dimensions": "composition: 4 5/8 x 6 7/8\" (11.7 x 17.5 cm); sheet (irreg.): 7 1/2 x 9 3/4\" (19.1 x 24.8 cm)",
-            "Publisher": "unpublished",
-            "Printer": "Lyonel Feininger",
-            "Edition": "approx. 6-15",
-            "Credit": "Gift of the artist and his wife",
-            "Object number": "401.1955",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/1832"
-    },
-    {
-        "Artist": "Lyonel Feininger",
-        "Title": "Mountain Village (Gebirgsdorf) for the portfolio 10 Woodcuts by Lyonel Feininger (10 Holzschnitte von Lyonel Feininger)",
-        "Year": "(1918)",
-        "ObjectID": "68620",
-        "Work": "https://www.moma.org/collection/works/68620",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNDc2OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=974ec03135220a99",
-        "Details": {
-            "Medium": "Woodcut",
-            "Dimensions": "composition: 4 7/16 x 6 1/4\" (11.2 x 15.8 cm); sheet: 7 15/16 x 9 9/16\" (20.2 x 24.3 cm)",
-            "Publisher": "Euphorion Verlag, Berlin",
-            "Printer": "Lyonel Feininger",
-            "Edition": "22 impressions printed 1918 [this ex.]; plus at least 14 (50 announced in the portfolio Ten Woodcuts by Lyonel Feininger, published by Euphorion Verlag, Berlin, c. 1926)",
-            "Credit": "Gift of Julia Feininger",
-            "Object number": "410.1955",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/1832"
-    },
-    {
-        "Artist": "Lyonel Feininger",
-        "Title": "Street Lantern (Die Laterne)",
-        "Year": "(1918)",
-        "ObjectID": "68668",
-        "Work": "https://www.moma.org/collection/works/68668",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNDc3MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1699c0965a8ada8f",
-        "Details": {
-            "Medium": "Woodcut",
-            "Dimensions": "composition: 6 11/16 x 9 15/16\" (17 x 25.2 cm); sheet: 9 7/16 x 11 15/16\" (24 x 30.3 cm)",
-            "Publisher": "unpublished",
-            "Printer": "Lyonel Feininger",
-            "Edition": "approx. 6-15",
-            "Credit": "Gift of Julia Feininger",
-            "Object number": "413.1955",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/1832"
+        "Profile": "https://www.moma.org/artists/8595"
     }
 ]

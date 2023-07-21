@@ -1,841 +1,910 @@
 [
     {
-        "Artist": "Pablo Picasso",
-        "Title": "Woman's Head",
-        "Year": "(1950)",
-        "ObjectID": "60279",
-        "Work": "https://www.moma.org/collection/works/60279",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1OTA3NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=adcf14b0ff87212c",
-        "Details": {
-            "Medium": "Etching",
-            "Dimensions": "plate: 9 7/16 x 7 3/8\" (24 x 18.7 cm); sheet: 11 x 8 11/16\" (28 x 22.1 cm)",
-            "Credit": "Gift of Larry Aldrich",
-            "Object number": "23.1952",
-            "Copyright": "\u00a9 2023 Estate of Pablo Picasso / Artists Rights Society (ARS), New York",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/4609"
-    },
-    {
-        "Artist": "Pablo Picasso",
-        "Title": "Vase of Flowers",
-        "Year": "1950",
-        "ObjectID": "61920",
-        "Work": "https://www.moma.org/collection/works/61920",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MjcwMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b2ad5516e48f960f",
+        "Artist": "Misch Kohn",
+        "Title": "Head",
+        "Year": "1961",
+        "ObjectID": "74628",
+        "Work": "https://www.moma.org/collection/works/74628",
+        "Thumbnail": null,
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "composition: 9 11/16 x 6 3/8\" (24.6 x 16.2 cm); sheet: 9 3/4 x 8 1/8\" (24.8 x 20.6 cm)",
-            "Printer": "Mourlot, Paris",
+            "Dimensions": "composition (slightly irreg.): 12 7/8 \u00d7 9 3/4\" (32.7 \u00d7 24.7 cm); sheet: 22 5/16 \u00d7 15 3/16\" (56.7 \u00d7 38.5 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "14, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "883.1967",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3193"
+    },
+    {
+        "Artist": "Misch Kohn",
+        "Title": "Black Beast",
+        "Year": "1961",
+        "ObjectID": "74632",
+        "Work": "https://www.moma.org/collection/works/74632",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition (irreg.): 24 1/2 \u00d7 30 3/4\" (62.3 \u00d7 78.1 cm); sheet: 29 5/16 \u00d7 41 1/4\" (74.5 \u00d7 104.8 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "884.1967",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3193"
+    },
+    {
+        "Artist": "Misch Kohn",
+        "Title": "Stranger",
+        "Year": "1961",
+        "ObjectID": "74636",
+        "Work": "https://www.moma.org/collection/works/74636",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition (irreg.): 13 5/16 \u00d7 10 7/16\" (33.8 \u00d7 26.5 cm); sheet: 22 5/16 \u00d7 15 1/4\" (56.6 \u00d7 38.7 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "885.1967",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3193"
+    },
+    {
+        "Artist": "Misch Kohn",
+        "Title": "Stranger II",
+        "Year": "1961",
+        "ObjectID": "74640",
+        "Work": "https://www.moma.org/collection/works/74640",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition (irreg.): 13 1/4 \u00d7 10 1/16\" (33.7 \u00d7 25.6 cm); sheet: 22 5/16 \u00d7 14 15/16\" (56.7 \u00d7 37.9 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "18, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "886.1967",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3193"
+    },
+    {
+        "Artist": "Misch Kohn",
+        "Title": "Patriarch",
+        "Year": "1961",
+        "ObjectID": "74644",
+        "Work": "https://www.moma.org/collection/works/74644",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition (irreg.): 27 3/16 \u00d7 19 1/8\" (69.1 \u00d7 48.6 cm); sheet: 29 15/16 \u00d7 22 5/16\" (76.1 \u00d7 56.7 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "887.1967",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3193"
+    },
+    {
+        "Artist": "Misch Kohn",
+        "Title": "Procession",
+        "Year": "1961",
+        "ObjectID": "74648",
+        "Work": "https://www.moma.org/collection/works/74648",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition (irreg.): 23 1/16 \u00d7 34 5/16\" (58.5 \u00d7 87.1 cm); sheet: 25 7/8 \u00d7 37 1/8\" (65.7 \u00d7 94.3 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "888.1967",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3193"
+    },
+    {
+        "Artist": "Misch Kohn",
+        "Title": "Soldiers",
+        "Year": "1961",
+        "ObjectID": "74652",
+        "Work": "https://www.moma.org/collection/works/74652",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition (irreg.): 15 13/16 \u00d7 11 1/4\" (40.1 \u00d7 28.6 cm); sheet: 22 5/16 \u00d7 15 1/16\" (56.7 \u00d7 38.2 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "889.1967",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3193"
+    },
+    {
+        "Artist": "Misch Kohn",
+        "Title": "Spotted Beast",
+        "Year": "1961",
+        "ObjectID": "74656",
+        "Work": "https://www.moma.org/collection/works/74656",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition (irreg.): 16 9/16 \u00d7 24 3/4\" (42 \u00d7 62.9 cm); sheet: 22 1/4 \u00d7 30 1/16\" (56.5 \u00d7 76.3 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "890.1967",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3193"
+    },
+    {
+        "Artist": "Misch Kohn",
+        "Title": "Figure",
+        "Year": "1961",
+        "ObjectID": "74660",
+        "Work": "https://www.moma.org/collection/works/74660",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition (slightly irreg.): 24 5/8 \u00d7 16 1/8\" (62.5 \u00d7 41 cm); sheet: 30 1/8 \u00d7 22 3/8\" (76.5 \u00d7 56.8 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "11, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "891.1967",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3193"
+    },
+    {
+        "Artist": "Misch Kohn",
+        "Title": "Grand Canyon",
+        "Year": "1961",
+        "ObjectID": "74664",
+        "Work": "https://www.moma.org/collection/works/74664",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition (slightly irreg.): 9 11/16 \u00d7 13 1/16\" (24.6 \u00d7 33.2 cm); sheet: 15 1/16 \u00d7 20 1/16\" (38.3 \u00d7 51 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "892.1967",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3193"
+    },
+    {
+        "Artist": "Misch Kohn",
+        "Title": "Landscape",
+        "Year": "1961",
+        "ObjectID": "74668",
+        "Work": "https://www.moma.org/collection/works/74668",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition (slightly irreg.): 7 15/16 \u00d7 12 5/16\" (20.1 \u00d7 31.2 cm); sheet (slightly irreg.): 11 7/8 \u00d7 16\" (30.1 \u00d7 40.6 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "893.1967",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3193"
+    },
+    {
+        "Artist": "Misch Kohn",
+        "Title": "Simon",
+        "Year": "1961",
+        "ObjectID": "74672",
+        "Work": "https://www.moma.org/collection/works/74672",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition (irreg.): 20 7/8 \u00d7 15 11/16\" (53.1 \u00d7 39.9 cm); sheet: 30 3/16 \u00d7 22 1/4\" (76.7 \u00d7 56.5 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "894.1967",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3193"
+    },
+    {
+        "Artist": "Misch Kohn",
+        "Title": "Three Generals",
+        "Year": "1961",
+        "ObjectID": "74676",
+        "Work": "https://www.moma.org/collection/works/74676",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition (irreg.): 27 9/16 \u00d7 20 3/16\" (70 \u00d7 51.3 cm); sheet: 34 3/4 \u00d7 26 5/8\" (88.3 \u00d7 67.7 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "895.1967",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3193"
+    },
+    {
+        "Artist": "Misch Kohn",
+        "Title": "Figure",
+        "Year": "1961",
+        "ObjectID": "74680",
+        "Work": "https://www.moma.org/collection/works/74680",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition (irreg.): 23 9/16 \u00d7 16 5/16\" (59.9 \u00d7 41.5 cm); sheet: 30 1/4 \u00d7 22 5/16\" (76.8 \u00d7 56.7 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "896.1967",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3193"
+    },
+    {
+        "Artist": "Misch Kohn",
+        "Title": "Beast",
+        "Year": "1961",
+        "ObjectID": "74684",
+        "Work": "https://www.moma.org/collection/works/74684",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition (irreg.): 19 3/4 \u00d7 28 1/2\" (50.2 \u00d7 72.4 cm); sheet: 27 5/16 \u00d7 39 1/8\" (69.3 \u00d7 99.3 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "897.1967",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3193"
+    },
+    {
+        "Artist": "Misch Kohn",
+        "Title": "Giant",
+        "Year": "1961",
+        "ObjectID": "74688",
+        "Work": "https://www.moma.org/collection/works/74688",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition (irreg.): 37 3/16 \u00d7 27 3/8\" (94.5 \u00d7 69.5 cm); sheet (slightly irreg.): 41 5/8 \u00d7 29 1/8\" (105.8 \u00d7 73.9 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "30, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "898.1967",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3193"
+    },
+    {
+        "Artist": "Misch Kohn",
+        "Title": "Woman",
+        "Year": "1961",
+        "ObjectID": "74692",
+        "Work": "https://www.moma.org/collection/works/74692",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition (irreg.): 38 9/16 \u00d7 27 1/4\" (98 \u00d7 69.2 cm); sheet: 41 5/16 \u00d7 29 7/16\" (104.9 \u00d7 74.7 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "30, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "899.1967",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3193"
+    },
+    {
+        "Artist": "Ivan Kozaric, Gorgona artists group",
+        "Title": "Gorgona no. 5",
+        "Year": "1961",
+        "ObjectID": "155101",
+        "Work": "https://www.moma.org/collection/works/155101",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0MDU3MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c0e5181c8e61dda1",
+        "Details": {
+            "Medium": "Periodical with screenprinted cover and relief half-tone plate",
+            "Dimensions": "page (each): 8 1/4 x 7 9/16\" (21 x 19.2 cm)",
+            "Publisher": "Ivan Ko\u017eari\u0107",
+            "Edition": "165",
+            "Credit": "Committee on Prints and Illustrated Books Fund",
+            "Object number": "122.2012.5a-b",
+            "Copyright": "\u00a9 2023 Courtesy Ivan Kozaric",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/41554"
+    },
+    {
+        "Artist": "Harold Krisel",
+        "Title": "Untitled",
+        "Year": "1961",
+        "ObjectID": "36230",
+        "Work": "https://www.moma.org/collection/works/36230",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Ink on paper",
+            "Dimensions": "30 1/8 x 22 1/8\" (76.4 x 56.0 cm)",
+            "Credit": "Purchase",
+            "Object number": "314.1961",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3254"
+    },
+    {
+        "Artist": "Jerome Kuhl",
+        "Title": "Album cover for Bartok : Mikrokosmos, performed by Gyorgy Sandor",
+        "Year": "c.1956",
+        "ObjectID": "184656",
+        "Work": "https://www.moma.org/collection/works/184656",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzMTg3MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=80918a52fe5e8abe",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "12 1/4 x 12 1/4\" (31.1 x 31.1 cm)",
+            "Credit": "Committee on Architecture and Design Funds",
+            "Object number": "816.2014",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/46326"
+    },
+    {
+        "Artist": "William Kurelek",
+        "Title": "Hailstorm in Alberta",
+        "Year": "1961",
+        "ObjectID": "79564",
+        "Work": "https://www.moma.org/collection/works/79564",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2ODY1MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cd7010928de1e220",
+        "Details": {
+            "Medium": "Oil on board",
+            "Dimensions": "27 1/4 x 19\" (69.3 x 48.2 cm)",
+            "Credit": "Gift of the Women's Committee of the Art Gallery of Toronto",
+            "Object number": "380.1961",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/3305"
+    },
+    {
+        "Artist": "Kisho Kurokawa",
+        "Title": "Helix City Project, Tokyo, Japan (Plan)",
+        "Year": "1961",
+        "ObjectID": "621",
+        "Work": "https://www.moma.org/collection/works/621",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyNzY2NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f557a7d8d4f7fb0c",
+        "Details": {
+            "Medium": "Cut-and-pasted gelatin silver photographs and ink on cut-and-pasted tracing paper on paper",
+            "Dimensions": "21 1/2 x 17 1/2\" (54.6 x 44.5 cm)",
+            "Credit": "Gift of the architect",
+            "Object number": "427.1992",
+            "Copyright": "\u00a9 2023 Kisho Kurokawa",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/6967"
+    },
+    {
+        "Artist": "Kisho Kurokawa",
+        "Title": "Floating City project, Kasumigaura, Japan (Plan)",
+        "Year": "1961",
+        "ObjectID": "623",
+        "Work": "https://www.moma.org/collection/works/623",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1MTE5OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8a935654d086da0b",
+        "Details": {
+            "Medium": "Ink and graphite on printed map",
+            "Dimensions": "32 1/2 x 22 5/8\" (82.6 x 57.5 cm)",
+            "Credit": "Gift of the architect",
+            "Object number": "428.1992",
+            "Copyright": "\u00a9 2023 Kisho Kurokawa",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/6967"
+    },
+    {
+        "Artist": "Wifredo Lam",
+        "Title": "Portrait of Iris Clert (Portrait d\u2019Iris Clert)",
+        "Year": "1961",
+        "ObjectID": "431707",
+        "Work": "https://www.moma.org/collection/works/431707",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzNzU1MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=27fbddeb2b0d0e59",
+        "Details": {
+            "Medium": "Charcoal on paper",
+            "Dimensions": "24 13/16 \u00d7 18 7/8\" (63 \u00d7 47.9 cm)",
+            "Credit": "Gift of Joshua and Filipa Fink",
+            "Object number": "377.2022",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3349"
+    },
+    {
+        "Artist": "Jacob Landau",
+        "Title": "Funhouse from 11 Prints by 11 Printmakers",
+        "Year": "1961",
+        "ObjectID": "67974",
+        "Work": "https://www.moma.org/collection/works/67974",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwNTc2OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5b8ae5aa10f2aa10",
+        "Details": {
+            "Medium": "Woodcut with wood engraving from a portfolio of four woodcuts (one with wood engraving), two etchings (one with aquatint), two engravings, one wood engraving, one screenprint, and one lithograph",
+            "Dimensions": "composition (irreg.): 16 7/16 \u00d7 12 5/16\" (41.8 \u00d7 31.3 cm); sheet: 20 1/16 \u00d7 14\" (51 \u00d7 35.5 cm)",
+            "Publisher": "Pratt Graphics Center, New York",
+            "Printer": "Pratt Graphics Center, New York",
+            "Edition": "100",
             "Credit": "Given anonymously",
-            "Object number": "109.1955",
-            "Copyright": "\u00a9 2023 Estate of Pablo Picasso / Artists Rights Society (ARS), New York",
+            "Object number": "372.1963.6",
+            "Portfolio": "11 Prints by 11 Printmakers",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/4609"
+        "Profile": "https://www.moma.org/artists/3357"
     },
     {
-        "Artist": "Pablo Picasso",
-        "Title": "Flowers in Glass, No. 6 (frontispiece) from Picasso Lithographe, Volume II",
-        "Year": "April 22, 1947, published 1950",
-        "ObjectID": "64401",
-        "Work": "https://www.moma.org/collection/works/64401",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MjczMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cc57136eaa82ea7c",
+        "Artist": "Dorothea Lange",
+        "Title": "Spring in Berkeley",
+        "Year": "1961",
+        "ObjectID": "55658",
+        "Work": "https://www.moma.org/collection/works/55658",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNzM1NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0230392e6ed29a27",
         "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "composition: 9 1/4 x 6 1/8\" (23.5 x 15.5 cm); sheet: 12 5/8 x 9 5/8\" (32 x 24.5 cm)",
-            "Publisher": "\u00c9ditions du Livre, Monte Carlo (Andr\u00e9 Sauret)",
-            "Edition": "2,000",
-            "Credit": "Transferred from The Museum of Modern Art Library, New York",
-            "Object number": "208.1951.2",
-            "Copyright": "\u00a9 2023 Estate of Pablo Picasso / Artists Rights Society (ARS), New York",
+            "Medium": "Gelatin silver print, printed 1965",
+            "Dimensions": "9 5/16 \u00d7 12 9/16\" (23.6 \u00d7 31.9 cm)",
+            "Credit": "Purchase",
+            "Object number": "624.1995",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/3373"
+    },
+    {
+        "Artist": "Helmut Lang",
+        "Title": "Southsea Boats",
+        "Year": "1961",
+        "ObjectID": "35070",
+        "Work": "https://www.moma.org/collection/works/35070",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Charcoal on paper",
+            "Dimensions": "43 5/8 x 28\" (110.5 x 70.9 cm)",
+            "Credit": "John S. Newberry Fund",
+            "Object number": "177.1967",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/4609"
+        "Profile": "https://www.moma.org/artists/3371"
     },
     {
-        "Artist": "Pablo Picasso",
-        "Title": "To Pablo Picasso (Paul Eluard)",
-        "Year": "1945, printed 1950",
-        "ObjectID": "65951",
-        "Work": "https://www.moma.org/collection/works/65951",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1OTA3MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=207e85be96bd3fb8",
+        "Artist": "Mauricio Lasansky",
+        "Title": "Portrait of an Artist",
+        "Year": "1961",
+        "ObjectID": "72733",
+        "Work": "https://www.moma.org/collection/works/72733",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNzkwNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=87fb0a22b2f49413",
         "Details": {
-            "Medium": "Etching",
-            "Dimensions": "plate: 7 15/16 x 6 3/8\" (20.2 x 16.2 cm); sheet (irreg.): 16 15/16 x 11 1/4\" (43 x 28.6 cm)",
-            "Edition": "125",
-            "Credit": "Gift of Mrs. Gilbert W. Chapman",
-            "Object number": "281.1975",
-            "Copyright": "\u00a9 2023 Estate of Pablo Picasso / Artists Rights Society (ARS), New York",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/4609"
-    },
-    {
-        "Artist": "Pablo Picasso",
-        "Title": "The Pike (La Pique)",
-        "Year": "1950",
-        "ObjectID": "72156",
-        "Work": "https://www.moma.org/collection/works/72156",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5Mjc3NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=66aa55c326fb4ae6",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "composition: 17 1/2 x 23 3/4\" (44.5 x 60.4 cm); sheet: 19 11/16 x 25 13/16\" (50 x 65.5 cm)",
+            "Medium": "Etching and engraving",
+            "Dimensions": "plate: 20 3/16 x 17\" (51.3 x 43.2cm); sheet: 21 7/8 x 18 7/8\" (55.5 x 48cm)",
             "Edition": "50",
-            "Credit": "Gift of Mr. and Mrs. Armand P. Bartos",
-            "Object number": "630.1959",
-            "Copyright": "\u00a9 2023 Estate of Pablo Picasso / Artists Rights Society (ARS), New York",
+            "Credit": "Inter-American Fund",
+            "Object number": "659.1963",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/4609"
+        "Profile": "https://www.moma.org/artists/3395"
     },
     {
-        "Artist": "Pablo Picasso",
-        "Title": "She-Goat",
-        "Year": "Vallauris, 1950 (cast 1952)",
-        "ObjectID": "81670",
-        "Work": "https://www.moma.org/collection/works/81670",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMxMDI5OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ca74c1ae74d4f278",
+        "Artist": "Jan Lebenstein",
+        "Title": "Axial Figure",
+        "Year": "1961",
+        "ObjectID": "33172",
+        "Work": "https://www.moma.org/collection/works/33172",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0MTk3OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ad96710f9c58e430",
         "Details": {
-            "Medium": "Bronze",
-            "Dimensions": "46 3/8 x 56 3/8 x 28 1/8\" (117.7 x 143.1 x 71.4 cm)",
-            "Credit": "Mrs. Simon Guggenheim Fund",
-            "Object number": "611.1959",
-            "Copyright": "\u00a9 2023 Estate of Pablo Picasso / Artists Rights Society (ARS), New York",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/4609"
-    },
-    {
-        "Artist": "Pablo Picasso",
-        "Title": "Pregnant Woman",
-        "Year": "Vallauris, 1950",
-        "ObjectID": "89184",
-        "Work": "https://www.moma.org/collection/works/89184",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyOTQ4NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=00187fba8d5d84c2",
-        "Details": {
-            "Medium": "Plaster with metal armature, wood, ceramic vessel, and pottery jars",
-            "Dimensions": "43 1/4 x 8 5/8 x 12 1/2\" (110 x 22 x 32 cm)",
-            "Credit": "Gift of Louise Reinhardt Smith and gift of Jacqueline Picasso (both by exchange)",
-            "Object number": "376.2003",
-            "Copyright": "\u00a9 2023 Estate of Pablo Picasso / Artists Rights Society (ARS), New York",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/4609"
-    },
-    {
-        "Artist": "Pablo Picasso",
-        "Title": "Paloma and Claude (cover) from Picasso Lithographe, Volume II",
-        "Year": "April 16, 1950, published 1950",
-        "ObjectID": "129192",
-        "Work": "https://www.moma.org/collection/works/129192",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3NTAwNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f31299f2870a6124",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "composition (irreg.): 13 3/16 x 20 7/8\" (33.5 x 53 cm); sheet (irreg.): 19 11/16 x 25 9/16\" (50 x 65 cm)",
-            "Publisher": "\u00c9ditions du Livre, Monte Carlo (Andr\u00e9 Sauret)",
-            "Edition": "2,000",
-            "Credit": "Transferred from The Museum of Modern Art Library, New York",
-            "Object number": "208.1951.1",
-            "Copyright": "\u00a9 2023 Estate of Pablo Picasso / Artists Rights Society (ARS), New York",
+            "Medium": "Felt-tip pen on paper on board",
+            "Dimensions": "51 3/4 x 37 1/4\" (131.2 x 94.6 cm)",
+            "Credit": "Gift of Dr. and Mrs. Arthur Lejwa",
+            "Object number": "14.1962",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/4609"
+        "Profile": "https://www.moma.org/artists/3444"
     },
     {
-        "Artist": "Edouard Pignon",
-        "Title": "Ostend",
-        "Year": "(1950)",
-        "ObjectID": "63825",
-        "Work": "https://www.moma.org/collection/works/63825",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxOTg3NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=12b11ffe8ea03a12",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "composition: 10 3/4 x 16 3/4\" (27.3 x 42.6 cm); sheet: 15 3/16 x 22 1/4\" (38.5 x 56.5 cm)",
-            "Credit": "Gift of Mrs. Bertha M. Slattery",
-            "Object number": "181.1951",
-            "Copyright": "\u00a9 2023 \u00c9douard Pignon / Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/4620"
-    },
-    {
-        "Artist": "John Piper",
-        "Title": "Cwn Tryfan Rock",
-        "Year": "1950",
-        "ObjectID": "78477",
-        "Work": "https://www.moma.org/collection/works/78477",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3NDgyNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3d6ed10210ea3fb3",
+        "Artist": "Jan Lebenstein",
+        "Title": "Axial Figure, 110",
+        "Year": "1961",
+        "ObjectID": "79351",
+        "Work": "https://www.moma.org/collection/works/79351",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0MjQ2NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=30698cf104d7c8be",
         "Details": {
             "Medium": "Oil on canvas",
-            "Dimensions": "25 1/8 x 30\" (63.8 x 76.2 cm)",
-            "Credit": "Purchase",
-            "Object number": "19.1951",
+            "Dimensions": "7' 1 1/2\" x 46 3/4\" (217.2 x 118.7 cm) at top, 7' 1 1/2\" x 31 1/2\" (217.2 x 80 cm) at bottom",
+            "Credit": "Blanchette Hooker Rockefeller Fund",
+            "Object number": "273.1961",
             "Department": "Painting and Sculpture"
         },
-        "Profile": "https://www.moma.org/artists/4633"
+        "Profile": "https://www.moma.org/artists/3444"
     },
     {
-        "Artist": "Fausto Pirandello",
-        "Title": "Women's Quarters (Gineceo)",
-        "Year": "1950",
-        "ObjectID": "36231",
-        "Work": "https://www.moma.org/collection/works/36231",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxODU4NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5bc6ca45ad1079c3",
+        "Artist": "Rico Lebrun",
+        "Title": "Inferno Series - B",
+        "Year": "1961",
+        "ObjectID": "74696",
+        "Work": "https://www.moma.org/collection/works/74696",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5NzA3MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6a945047c1bf7370",
         "Details": {
-            "Medium": "Oil on cardboard",
-            "Dimensions": "28 1/4 x 34 1/8\" (71.7 x 86.6 cm)",
-            "Credit": "Gift of Mrs. Leo Gerstenzang",
-            "Object number": "314.1962",
-            "Copyright": "\u00a9 2023 Fausto Pirandello / Artists Rights Society (ARS), New York / SIAE, Rome",
+            "Medium": "Lithograph",
+            "Dimensions": "composition and sheet: 29 7/8 \u00d7 22 3/16\" (75.9 \u00d7 56.4 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "10, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "900.1967",
+            "Associated work": "Tamarind Lithography Workshop Archive",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/4637"
+        "Profile": "https://www.moma.org/artists/3447"
     },
     {
-        "Artist": "Jackson Pollock",
+        "Artist": "Rico Lebrun",
+        "Title": "Brecht's Three-Penny Novel B",
+        "Year": "1961",
+        "ObjectID": "74700",
+        "Work": "https://www.moma.org/collection/works/74700",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5NDQxNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a78565690668d816",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition and sheet: 22 3/16 \u00d7 29 13/16\" (56.4 \u00d7 75.8 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "11, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "901.1967",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3447"
+    },
+    {
+        "Artist": "Rico Lebrun",
+        "Title": "Inferno Series - E",
+        "Year": "1961",
+        "ObjectID": "74704",
+        "Work": "https://www.moma.org/collection/works/74704",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition (slightly irreg.): 13 1/2 \u00d7 8 7/16\" (34.3 \u00d7 21.4 cm); sheet: 22 3/4 \u00d7 15 1/8\" (57.8 \u00d7 38.5 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "3, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "902.1967",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3447"
+    },
+    {
+        "Artist": "Rico Lebrun",
+        "Title": "Inferno Series - C",
+        "Year": "1961",
+        "ObjectID": "74708",
+        "Work": "https://www.moma.org/collection/works/74708",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition: 7 3/8 \u00d7 9 1/2\" (18.7 \u00d7 24.1 cm); sheet: 22 1/4 \u00d7 14 15/16\" (56.6 \u00d7 38 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "6, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "903.1967",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3447"
+    },
+    {
+        "Artist": "Rico Lebrun",
+        "Title": "Inferno Series - D",
+        "Year": "1961",
+        "ObjectID": "74712",
+        "Work": "https://www.moma.org/collection/works/74712",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5MTg3MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1548fb488bb6cc52",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition: 7 3/8 \u00d7 9 1/2\" (18.8 \u00d7 24.1 cm); sheet: 22 1/4 \u00d7 14 15/16\" (56.5 \u00d7 37.9 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "3, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "904.1967",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3447"
+    },
+    {
+        "Artist": "Rico Lebrun",
+        "Title": "Grunewald Study",
+        "Year": "1961",
+        "ObjectID": "74716",
+        "Work": "https://www.moma.org/collection/works/74716",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5NDQxOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b1a2b871c1d30050",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition and sheet: 24 9/16 \u00d7 30 1/2\" (62.4 \u00d7 77.4 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "905.1967",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3447"
+    },
+    {
+        "Artist": "Rico Lebrun",
+        "Title": "Study for figures in Flood",
+        "Year": "1961",
+        "ObjectID": "74720",
+        "Work": "https://www.moma.org/collection/works/74720",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition: 28 11/16 \u00d7 36 3/4\" (72.9 \u00d7 93.4 cm); sheet: 28 11/16 \u00d7 36 3/4\" (72.9 \u00d7 93.4 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "8, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "906.1967",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3447"
+    },
+    {
+        "Artist": "Rico Lebrun",
+        "Title": "Brecht's Three-Penny Novel - A",
+        "Year": "1961",
+        "ObjectID": "74724",
+        "Work": "https://www.moma.org/collection/works/74724",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition (irreg.): 13 1/4 \u00d7 17 1/8\" (33.7 \u00d7 43.5 cm); sheet: 14 15/16 \u00d7 20\" (38 \u00d7 50.8 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "5, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "907.1967",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3447"
+    },
+    {
+        "Artist": "Rico Lebrun",
+        "Title": "Grunewald Study II",
+        "Year": "1961",
+        "ObjectID": "74728",
+        "Work": "https://www.moma.org/collection/works/74728",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition: 25 15/16 \u00d7 35 9/16\" (66 \u00d7 90.3 cm); sheet: 25 15/16 \u00d7 35 9/16\" (66 \u00d7 90.3 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "908.1967",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3447"
+    },
+    {
+        "Artist": "Rico Lebrun",
+        "Title": "Dark Figures",
+        "Year": "1961",
+        "ObjectID": "74732",
+        "Work": "https://www.moma.org/collection/works/74732",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition (irreg.) 26 7/8 \u00d7 34 1/4\" (68.2 \u00d7 87 cm); sheet: 29 \u00d7 36 7/16\" (73.7 \u00d7 92.6 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "14, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "909.1967",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3447"
+    },
+    {
+        "Artist": "Rico Lebrun",
+        "Title": "Centaur and Woman",
+        "Year": "1961",
+        "ObjectID": "74736",
+        "Work": "https://www.moma.org/collection/works/74736",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition and sheet: 12 7/16 \u00d7 15 15/16\" (31.6 \u00d7 40.6 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "8, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "910.1967",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3447"
+    },
+    {
+        "Artist": "Rico Lebrun",
+        "Title": "Poster for Marionette Theatre",
+        "Year": "1961",
+        "ObjectID": "74740",
+        "Work": "https://www.moma.org/collection/works/74740",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition (irreg.): 34 1/16 \u00d7 25 3/4\" (86.6 \u00d7 65.5 cm); sheet: 34 1/16 \u00d7 26\" (86.6 \u00d7 66.1 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "10, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "911.1967",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3447"
+    },
+    {
+        "Artist": "Rico Lebrun",
         "Title": "Untitled",
-        "Year": "c. 1950",
-        "ObjectID": "36965",
-        "Work": "https://www.moma.org/collection/works/36965",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ4NzgwNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1c9b0e07839cccff",
+        "Year": "1961",
+        "ObjectID": "74774",
+        "Work": "https://www.moma.org/collection/works/74774",
+        "Thumbnail": null,
         "Details": {
-            "Medium": "Ink on paper",
-            "Dimensions": "17 1/2 x 22 1/4\" (44.5 x 56.6 cm)",
-            "Credit": "Gift of Jo Carole and Ronald S. Lauder in honor of Eliza Parkinson Cobb",
-            "Object number": "448.1982",
-            "Copyright": "\u00a9 2023 Pollock-Krasner Foundation / Artists Rights Society (ARS), New York",
+            "Medium": "Lithograph",
+            "Dimensions": "composition and sheet: 26 5/16 \u00d7 36 7/16\" (66.8 \u00d7 92.5 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "one of 9 experimental Tamarind proofs",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "915.1967",
+            "Associated work": "Tamarind Lithography Workshop Archive",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/4675"
+        "Profile": "https://www.moma.org/artists/3447"
     },
     {
-        "Artist": "Jackson Pollock",
-        "Title": "Untitled",
-        "Year": "c. 1950",
-        "ObjectID": "37760",
-        "Work": "https://www.moma.org/collection/works/37760",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzMjA3OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=30e7adb6363d19f9",
-        "Details": {
-            "Medium": "Ink on paper",
-            "Dimensions": "18 7/8 x 24 3/4\" (47.9 x 63.1 cm)",
-            "Credit": "The Joan and Lester Avnet Fund",
-            "Object number": "663.1983",
-            "Copyright": "\u00a9 2023 Pollock-Krasner Foundation / Artists Rights Society (ARS), New York",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/4675"
-    },
-    {
-        "Artist": "Jackson Pollock",
-        "Title": "Untitled",
-        "Year": "c. 1950",
-        "ObjectID": "37761",
-        "Work": "https://www.moma.org/collection/works/37761",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzMjA4MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=74a048f9e98f1a39",
-        "Details": {
-            "Medium": "Ink on paper",
-            "Dimensions": "19 x 24\" (48.5 x 61.1 cm)",
-            "Credit": "Purchase",
-            "Object number": "664.1983",
-            "Copyright": "\u00a9 2023 Pollock-Krasner Foundation / Artists Rights Society (ARS), New York",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/4675"
-    },
-    {
-        "Artist": "Jackson Pollock",
-        "Title": "One: Number 31, 1950",
-        "Year": "1950",
-        "ObjectID": "78386",
-        "Work": "https://www.moma.org/collection/works/78386",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ3ODMxNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=91729909abfd8b02",
-        "Details": {
-            "Medium": "Oil and enamel paint on canvas",
-            "Dimensions": "8' 10\" x 17' 5 5/8\" (269.5 x 530.8 cm)",
-            "Credit": "Sidney and Harriet Janis Collection Fund (by exchange)",
-            "Object number": "7.1968",
-            "Copyright": "\u00a9 2023 Pollock-Krasner Foundation / Artists Rights Society (ARS), New York",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/4675"
-    },
-    {
-        "Artist": "Jackson Pollock",
-        "Title": "Number 7, 1950",
-        "Year": "1950",
-        "ObjectID": "80310",
-        "Work": "https://www.moma.org/collection/works/80310",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNjAwNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8fad39e2cd33b270",
-        "Details": {
-            "Medium": "Oil, enamel, and aluminum paint on canvas",
-            "Dimensions": "23 1/16\" x 8' 9 3/4\" (58.5 x 268.6 cm)",
-            "Credit": "Gift of Sylvia Slifka in honor of William Rubin",
-            "Object number": "719.1993",
-            "Copyright": "\u00a9 2023 Pollock-Krasner Foundation / Artists Rights Society (ARS), New York",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/4675"
-    },
-    {
-        "Artist": "Richard Pousette-Dart",
-        "Title": "Title page from Taos Quartet in Three Movements by Merle Armitage",
-        "Year": "1950",
-        "ObjectID": "288427",
-        "Work": "https://www.moma.org/collection/works/288427",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQzNDU1MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=21c6f82b8892c356",
-        "Details": {
-            "Author": "Merle Armitage",
-            "Medium": "Letterpress from an illustrated book with five letterpress illustrations",
-            "Dimensions": "sheet: 10 11/16 \u00d7 8 1/16\" (27.1 \u00d7 20.4 cm)",
-            "Publisher": "Merle Armitage",
-            "Edition": "16",
-            "Credit": "John B. Turner Fund",
-            "Object number": "370.2018.2",
-            "Copyright": "\u00a9 2023 / Artists Rights Society (ARS), New York",
-            "Illustrated book": "Taos Quartet in Three Movements by Merle Armitage",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/4716"
-    },
-    {
-        "Artist": "Richard Pousette-Dart",
-        "Title": "Headpiece from Taos Quartet in Three Movements by Merle Armitage",
-        "Year": "1950",
-        "ObjectID": "288428",
-        "Work": "https://www.moma.org/collection/works/288428",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQzNDU1MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=abdba8cc80212a9f",
-        "Details": {
-            "Author": "Merle Armitage",
-            "Medium": "Letterpress from an illustrated book with five letterpress illustrations",
-            "Dimensions": "sheet: 10 11/16 \u00d7 8 1/16\" (27.1 \u00d7 20.4 cm)",
-            "Publisher": "Merle Armitage",
-            "Edition": "16",
-            "Credit": "John B. Turner Fund",
-            "Object number": "370.2018.3",
-            "Copyright": "\u00a9 2023 / Artists Rights Society (ARS), New York",
-            "Illustrated book": "Taos Quartet in Three Movements by Merle Armitage",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/4716"
-    },
-    {
-        "Artist": "Richard Pousette-Dart",
-        "Title": "Headpiece from Taos Quartet in Three Movements by Merle Armitage",
-        "Year": "1950",
-        "ObjectID": "288429",
-        "Work": "https://www.moma.org/collection/works/288429",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQzNDU1MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3cabf0ac1698dcab",
-        "Details": {
-            "Author": "Merle Armitage",
-            "Medium": "Letterpress from an illustrated book with five letterpress illustrations",
-            "Dimensions": "sheet: 10 11/16 \u00d7 8 1/16\" (27.1 \u00d7 20.4 cm)",
-            "Publisher": "Merle Armitage",
-            "Edition": "16",
-            "Credit": "John B. Turner Fund",
-            "Object number": "370.2018.4",
-            "Copyright": "\u00a9 2023 / Artists Rights Society (ARS), New York",
-            "Illustrated book": "Taos Quartet in Three Movements by Merle Armitage",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/4716"
-    },
-    {
-        "Artist": "Richard Pousette-Dart",
-        "Title": "Headpiece from Taos Quartet in Three Movements by Merle Armitage",
-        "Year": "1950",
-        "ObjectID": "288430",
-        "Work": "https://www.moma.org/collection/works/288430",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQzNDU1MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a20b32eff0524c05",
-        "Details": {
-            "Author": "Merle Armitage",
-            "Medium": "Letterpress from an illustrated book with five letterpress illustrations",
-            "Dimensions": "sheet: 10 11/16 \u00d7 8 1/16\" (27.1 \u00d7 20.4 cm)",
-            "Publisher": "Merle Armitage",
-            "Edition": "16",
-            "Credit": "John B. Turner Fund",
-            "Object number": "370.2018.5",
-            "Copyright": "\u00a9 2023 / Artists Rights Society (ARS), New York",
-            "Illustrated book": "Taos Quartet in Three Movements by Merle Armitage",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/4716"
-    },
-    {
-        "Artist": "Richard Pousette-Dart, Merle Armitage",
-        "Title": "Taos Quartet in Three Movements by Merle Armitage",
-        "Year": "1950",
-        "ObjectID": "284525",
-        "Work": "https://www.moma.org/collection/works/284525",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQzNDU0OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a7d69e17be588376",
-        "Details": {
-            "Author": "Merle Armitage",
-            "Medium": "Illustrated book with five letterpress illustrations",
-            "Dimensions": "overall (closed): 11 \u00d7 8 11/16 \u00d7 1/4\" (27.9 \u00d7 22 \u00d7 0.6 cm); sheet (each): 10 11/16 \u00d7 8 1/16\" (27.1 \u00d7 20.4 cm)",
-            "Publisher": "Merle Armitage",
-            "Edition": "16",
-            "Credit": "John B. Turner Fund",
-            "Object number": "370.2018.1-5",
-            "Copyright": "\u00a9 2023 / Artists Rights Society (ARS), New York",
-            "Type": "Illustrated Book",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/4716"
-    },
-    {
-        "Artist": "Rudy Pozzatti",
-        "Title": "Serenade",
-        "Year": "1950",
-        "ObjectID": "61769",
-        "Work": "https://www.moma.org/collection/works/61769",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMDE2MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2c160f4010168576",
-        "Details": {
-            "Medium": "Engraving",
-            "Dimensions": "plate: 23 1/16 x 14 3/4\" (58.5 x 37.4cm); sheet: 23 1/16 x 14 3/4\" (58.5 x 37.4cm)",
-            "Edition": "20",
-            "Credit": "Purchase",
-            "Object number": "99.1952",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/4718"
-    },
-    {
-        "Artist": "James Prestini",
-        "Title": "Platter (no. 206)",
-        "Year": "c. 1945",
-        "ObjectID": "2173",
-        "Work": "https://www.moma.org/collection/works/2173",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNzk5MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cd682e839417ef00",
-        "Details": {
-            "Manufacturer": "James Prestini",
-            "Medium": "Macassar ebony",
-            "Dimensions": "1 3/16 x 7 1/4\" (3 x 18.4 cm)",
-            "Credit": "Gift of Dorothy Liebes",
-            "Object number": "114.1957",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/4729"
-    },
-    {
-        "Artist": "James Prestini",
-        "Title": "Dish (no. 268)",
-        "Year": "c. 1945",
-        "ObjectID": "2178",
-        "Work": "https://www.moma.org/collection/works/2178",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNzk5NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e6be477d7d5d96f5",
-        "Details": {
-            "Manufacturer": "James Prestini",
-            "Medium": "Siamese teak",
-            "Dimensions": "1 x 6 7/8\" (2.5 x 17.5 cm)",
-            "Credit": "Gift of Dorothy Liebes",
-            "Object number": "115.1957",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/4729"
-    },
-    {
-        "Artist": "James Prestini",
-        "Title": "Bowl (no. 265)",
-        "Year": "c. 1945",
-        "ObjectID": "2183",
-        "Work": "https://www.moma.org/collection/works/2183",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwMTYzMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ca07e5ef5b45f468",
-        "Details": {
-            "Manufacturer": "James Prestini",
-            "Medium": "Mottled Honduras mahogany",
-            "Dimensions": "1 x 5 3/4\" (2.5 x 14.6 cm)",
-            "Credit": "Gift of Dorothy Liebes",
-            "Object number": "116.1957",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/4729"
-    },
-    {
-        "Artist": "James Prestini",
-        "Title": "Bowl (No. 327)",
-        "Year": "c. 1945",
-        "ObjectID": "2188",
-        "Work": "https://www.moma.org/collection/works/2188",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNzg5NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9bcd73aa572eccfa",
-        "Details": {
-            "Manufacturer": "James Prestini",
-            "Medium": "Austrian beechwood",
-            "Dimensions": "1 3/4 x 6 7/8\" (4.4 x 17.5 cm)",
-            "Credit": "Gift of Dorothy Liebes",
-            "Object number": "117.1957",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/4729"
-    },
-    {
-        "Artist": "James Prestini",
-        "Title": "Bowl (no. 329)",
-        "Year": "c. 1945",
-        "ObjectID": "2193",
-        "Work": "https://www.moma.org/collection/works/2193",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMzk5OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4edf5f612e3376c4",
-        "Details": {
-            "Manufacturer": "James Prestini",
-            "Medium": "Cherry wood",
-            "Dimensions": "1 5/8 x 6 1/2\" (4.1 x 16.5 cm)",
-            "Credit": "Gift of Dorothy Liebes",
-            "Object number": "118.1957",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/4729"
-    },
-    {
-        "Artist": "James Prestini",
-        "Title": "Bowl (no. 294)",
-        "Year": "c. 1945",
-        "ObjectID": "2198",
-        "Work": "https://www.moma.org/collection/works/2198",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMDMyOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=93cb9d7b53bb6bf9",
-        "Details": {
-            "Manufacturer": "James Prestini",
-            "Medium": "Ash wood",
-            "Dimensions": "1 3/4 x 4 5/8\" (4.4 x 11.8 cm)",
-            "Credit": "Gift of Dorothy Liebes",
-            "Object number": "119.1957",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/4729"
-    },
-    {
-        "Artist": "James Prestini",
-        "Title": "Bowl (no. 333)",
-        "Year": "c. 1945",
-        "ObjectID": "2203",
-        "Work": "https://www.moma.org/collection/works/2203",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMDMzMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e9d01720a024fde6",
-        "Details": {
-            "Manufacturer": "James Prestini",
-            "Medium": "Cuban mahogany",
-            "Dimensions": "1 3/4 x 5 1/4\" (4.4 x 13.3 cm)",
-            "Credit": "Gift of Dorothy Liebes",
-            "Object number": "120.1957",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/4729"
-    },
-    {
-        "Artist": "James Prestini",
-        "Title": "Bowl",
-        "Year": "c. 1945",
-        "ObjectID": "2208",
-        "Work": "https://www.moma.org/collection/works/2208",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMDMzMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ed5c98dd2c03371f",
-        "Details": {
-            "Manufacturer": "James Prestini",
-            "Medium": "Birch wood",
-            "Dimensions": "1 3/4 x 7\" (4.4 x 17.8 cm)",
-            "Credit": "Gift of Dorothy Liebes",
-            "Object number": "121.1957",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/4729"
-    },
-    {
-        "Artist": "James Prestini",
-        "Title": "Bowl",
-        "Year": "c. 1945",
-        "ObjectID": "2213",
-        "Work": "https://www.moma.org/collection/works/2213",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNzg5OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9f5ed561bee896fc",
-        "Details": {
-            "Manufacturer": "James Prestini",
-            "Medium": "Light-colored wood",
-            "Dimensions": "1 3/4 x 6 1/2\" (4.4 x 16.5 cm)",
-            "Credit": "Gift of Dorothy Liebes",
-            "Object number": "122.1957",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/4729"
-    },
-    {
-        "Artist": "James Prestini",
-        "Title": "Bowl",
-        "Year": "c. 1945",
-        "ObjectID": "2222",
-        "Work": "https://www.moma.org/collection/works/2222",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyODAyNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=bbedea522d41f94c",
-        "Details": {
-            "Manufacturer": "James Prestini",
-            "Medium": "Light-colored wood",
-            "Dimensions": "1 1/2 x 5 1/4\" (3.8 x 13.3 cm)",
-            "Credit": "Gift of Dorothy Liebes",
-            "Object number": "124.1957",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/4729"
-    },
-    {
-        "Artist": "James Prestini",
-        "Title": "Bowl",
-        "Year": "c. 1945",
-        "ObjectID": "2227",
-        "Work": "https://www.moma.org/collection/works/2227",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyODAyOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=89960a932241ddaa",
-        "Details": {
-            "Manufacturer": "James Prestini",
-            "Medium": "Mahogany",
-            "Dimensions": "4 x 14\" (10.2 x 35.6 cm)",
-            "Credit": "Gift of Dorothy Liebes",
-            "Object number": "125.1957",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/4729"
-    },
-    {
-        "Artist": "James Prestini",
-        "Title": "Platter (no. 258)",
-        "Year": "c. 1945",
-        "ObjectID": "3760",
-        "Work": "https://www.moma.org/collection/works/3760",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMjE5MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f663f3cebd119133",
-        "Details": {
-            "Manufacturer": "James Prestini",
-            "Medium": "Watered gum",
-            "Dimensions": "1/2 x 7 1/4\" (1.3 x 18.4 cm)",
-            "Credit": "Gift of Dorothy Liebes",
-            "Object number": "402.1960",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/4729"
-    },
-    {
-        "Artist": "James Prestini",
-        "Title": "Platter (no. 253)",
-        "Year": "c. 1945",
-        "ObjectID": "3764",
-        "Work": "https://www.moma.org/collection/works/3764",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMjE5NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4277f63784f3e5b8",
-        "Details": {
-            "Manufacturer": "James Prestini",
-            "Medium": "Curly cherry",
-            "Dimensions": "3/4 x 8\" (1.9 x 20.3 cm)",
-            "Credit": "Gift of Dorothy Liebes",
-            "Object number": "403.1960",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/4729"
-    },
-    {
-        "Artist": "James Prestini",
-        "Title": "Tray",
-        "Year": "c. 1945",
-        "ObjectID": "3768",
-        "Work": "https://www.moma.org/collection/works/3768",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMjE5NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=780b154310aa43e5",
-        "Details": {
-            "Manufacturer": "James Prestini",
-            "Medium": "Sycamore",
-            "Dimensions": "1/2 x 9 1/4\" (1.3 x 23.5 cm)",
-            "Credit": "Gift of Dorothy Liebes",
-            "Object number": "404.1960",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/4729"
-    },
-    {
-        "Artist": "Ad Reinhardt",
-        "Title": "Number 107",
-        "Year": "1950",
-        "ObjectID": "80269",
-        "Work": "https://www.moma.org/collection/works/80269",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwNjM5OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a0b3bbf767382d98",
-        "Details": {
-            "Medium": "Oil on canvas",
-            "Dimensions": "6' 8\" x 36\" (203.2 x 91.4 cm)",
-            "Credit": "Given anonymously",
-            "Object number": "693.1980",
-            "Copyright": "\u00a9 2023 Estate of Ad Reinhardt / Artists Rights Society (ARS), New York",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/4856"
-    },
-    {
-        "Artist": "Jeanne Reynal",
-        "Title": "A Good Circular God",
-        "Year": "1948-50",
-        "ObjectID": "78482",
-        "Work": "https://www.moma.org/collection/works/78482",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3NDgyOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f0934d53a8501cab",
-        "Details": {
-            "Medium": "Mixed media",
-            "Dimensions": "37 x 24 3/8 x 1\" (94 x 61.9 x 2.5 cm)",
-            "Credit": "Katharine Cornell Fund",
-            "Object number": "20.1951",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/4884"
-    },
-    {
-        "Artist": "Lucie Rie, Hans Coper",
-        "Title": "Casserole",
-        "Year": "c. 1948",
-        "ObjectID": "4088",
-        "Work": "https://www.moma.org/collection/works/4088",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMDMyNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5928a3ce858fa553",
-        "Details": {
-            "Medium": "Glazed stoneware",
-            "Dimensions": "Overall: 6 1/2 x 11 1/4 x 10\" (16.5 x 28.6 x 25.4 cm)\r\n.a (dish): 4 x 11 1/4 x 10\" (10.2 x 28.6 x 25.4 cm)\r\n.b (cover): 2 1/2 x 9 1/2\" (6.4 x 24.1 cm)",
-            "Credit": "Gift of Georg Jensen, Inc.",
-            "Object number": "559.1953.a-b",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/4915"
-    },
-    {
-        "Artist": "Z. Robaszek",
-        "Title": "Fernand Leger, Kompozycja",
-        "Year": "Unknown",
-        "ObjectID": "8636",
-        "Work": "https://www.moma.org/collection/works/8636",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDA0MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9d68f6a3230e9a4e",
+        "Artist": "Le Corbusier (Charles-Edouard Jeanneret)",
+        "Title": "Exhibition Pavilion, Z.H.L.C., Zurich, Switzerland, Ground-floor plan",
+        "Year": "1961",
+        "ObjectID": "88929",
+        "Work": "https://www.moma.org/collection/works/88929",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0NzExNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a624f752e0dc32a2",
         "Details": {
             "Medium": "Letterpress",
-            "Dimensions": "3 3/4 x 5 11/16\" (9.5 x 14.5 cm)",
-            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
-            "Object number": "1157.1999",
+            "Dimensions": "12 x 17\" (30.5 x 43.2 cm)",
+            "Delineator": "Jullian",
+            "Credit": "Takeo Ohbayashi Purchase Fund",
+            "Object number": "209.2003.1",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris / FLC",
             "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/8246"
+        "Profile": "https://www.moma.org/artists/3426"
     },
     {
-        "Artist": "T. H. Robsjohn-Gibbings",
-        "Title": "Table Lamp (model 170)",
-        "Year": "1950",
-        "ObjectID": "2242",
-        "Work": "https://www.moma.org/collection/works/2242",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMDM2MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8c7a60e931fe902a",
+        "Artist": "Le Corbusier (Charles-Edouard Jeanneret)",
+        "Title": "Exhibition Pavilion, Z.H.L.C., Zurich, Switzerland, Second-floor plan",
+        "Year": "1961",
+        "ObjectID": "88949",
+        "Work": "https://www.moma.org/collection/works/88949",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0NzExOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c1c8c8336d2806eb",
         "Details": {
-            "Manufacturer": "Widdicomb Furniture Co., New York, NY",
-            "Medium": "Metal and linen",
-            "Dimensions": "21 1/2 x 17\" (54.7 x 43.2 cm)",
-            "Credit": "Gift of the manufacturer",
-            "Object number": "128.1952",
+            "Medium": "Letterpress",
+            "Dimensions": "12 x 17\" (30.5 x 43.2 cm)",
+            "Delineator": "Jullian",
+            "Credit": "Takeo Ohbayashi Purchase Fund",
+            "Object number": "209.2003.2",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris / FLC",
             "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/4967"
+        "Profile": "https://www.moma.org/artists/3426"
     },
     {
-        "Artist": "Mark Rothko",
-        "Title": "No. 10",
-        "Year": "1950",
-        "ObjectID": "78594",
-        "Work": "https://www.moma.org/collection/works/78594",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3OTMzMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4c5961ac3afa375d",
+        "Artist": "Le Corbusier (Charles-Edouard Jeanneret)",
+        "Title": "Exhibition Pavilion, Z.H.L.C., Zurich, Switzerland, Third-floor plan",
+        "Year": "1961",
+        "ObjectID": "88950",
+        "Work": "https://www.moma.org/collection/works/88950",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0NzExOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f400b540e4e259c9",
         "Details": {
-            "Medium": "Oil on canvas",
-            "Dimensions": "7' 6 3/8\" x 57 1/8\" (229.6 x 145.1 cm)",
-            "Credit": "Gift of Philip Johnson",
-            "Object number": "38.1952",
-            "Copyright": "\u00a9 1998 Kate Rothko Prizel & Christopher Rothko / Artists Rights Society (ARS), New York",
-            "Department": "Painting and Sculpture"
+            "Medium": "Letterpress",
+            "Dimensions": "12 x 17\" (30.5 x 43.2 cm)",
+            "Delineator": "Jullian",
+            "Credit": "Takeo Ohbayashi Purchase Fund",
+            "Object number": "209.2003.3",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris / FLC",
+            "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/5047"
+        "Profile": "https://www.moma.org/artists/3426"
     },
     {
-        "Artist": "Mark Rothko",
-        "Title": "No. 5/No.  22",
-        "Year": "1950 (dated on reverse 1949)",
-        "ObjectID": "80566",
-        "Work": "https://www.moma.org/collection/works/80566",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMzM2OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0384366f972be1fb",
+        "Artist": "Le Corbusier (Charles-Edouard Jeanneret)",
+        "Title": "Exhibition Pavilion, Z.H.L.C., Zurich, Switzerland, Longitudinal section",
+        "Year": "1961",
+        "ObjectID": "88951",
+        "Work": "https://www.moma.org/collection/works/88951",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0NzEyMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=deb9edc2da1d7725",
         "Details": {
-            "Medium": "Oil on canvas",
-            "Dimensions": "9' 9\" x 8' 11 1/8\" (297 x 272 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "1108.1969",
-            "Copyright": "\u00a9 1998 Kate Rothko Prizel & Christopher Rothko / Artists Rights Society (ARS), New York",
-            "Department": "Painting and Sculpture"
+            "Medium": "Letterpress",
+            "Dimensions": "12 x 17\" (30.5 x 43.2 cm)",
+            "Delineator": "Jullian",
+            "Credit": "Takeo Ohbayashi Purchase Fund",
+            "Object number": "209.2003.4",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris / FLC",
+            "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/5047"
+        "Profile": "https://www.moma.org/artists/3426"
     },
     {
-        "Artist": "Anne Ryan",
-        "Title": "Number 48",
-        "Year": "1950",
-        "ObjectID": "33299",
-        "Work": "https://www.moma.org/collection/works/33299",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NDc3MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=981ffddf43c1b461",
+        "Artist": "Le Corbusier (Charles-Edouard Jeanneret)",
+        "Title": "Exhibition Pavilion, Z.H.L.C., Zurich, Switzerland, Cross section",
+        "Year": "1961",
+        "ObjectID": "88952",
+        "Work": "https://www.moma.org/collection/works/88952",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0NzEyMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a3bcc4df9556049e",
         "Details": {
-            "Medium": "Cut-and-pasted paper, printed paper, cloth, and metal leaf on board",
-            "Dimensions": "15 7/8 x 12 1/2\" (40.3 x 31.8 cm)",
-            "Credit": "Katharine Cornell Fund",
-            "Object number": "22.1951",
-            "Copyright": "\u00a9 Estate of Anne Ryan, Courtesy Washburn Gallery, New York.",
-            "Department": "Drawings and Prints"
+            "Medium": "Letterpress",
+            "Dimensions": "12 x 17\" (30.5 x 43.2 cm)",
+            "Delineator": "Jullian",
+            "Credit": "Takeo Ohbayashi Purchase Fund",
+            "Object number": "209.2003.5",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris / FLC",
+            "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/5097"
-    },
-    {
-        "Artist": "Anne Ryan",
-        "Title": "Number 156",
-        "Year": "1950",
-        "ObjectID": "37990",
-        "Work": "https://www.moma.org/collection/works/37990",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMxODgyMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4726094de200bc49",
-        "Details": {
-            "Medium": "Cut-and-pasted colored paper and cloth on paper",
-            "Dimensions": "5 5/8 x 4 1/8\" (14.4 x 10.7 cm)",
-            "Credit": "Gift of Elizabeth McFadden",
-            "Object number": "757.1978",
-            "Copyright": "\u00a9 Estate of Anne Ryan, Courtesy Washburn Gallery, New York.",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5097"
-    },
-    {
-        "Artist": "Anne Ryan",
-        "Title": "Number 225",
-        "Year": "1950",
-        "ObjectID": "37998",
-        "Work": "https://www.moma.org/collection/works/37998",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMxODgyNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8edc28263a07ea2a",
-        "Details": {
-            "Medium": "Cut-and-pasted colored paper, cloth, string, and sandpaper on paper",
-            "Dimensions": "7 x 5 7/8\" (18 x 14.9 cm)",
-            "Credit": "Gift of Elizabeth McFadden",
-            "Object number": "759.1978",
-            "Copyright": "\u00a9 Estate of Anne Ryan, Courtesy Washburn Gallery, New York.",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5097"
-    },
-    {
-        "Artist": "Anne Ryan",
-        "Title": "Number 241",
-        "Year": "1950",
-        "ObjectID": "38002",
-        "Work": "https://www.moma.org/collection/works/38002",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMxODgyNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b27c90e235b10597",
-        "Details": {
-            "Medium": "Cut-and-pasted colored paper, cloth, string, and gold foil on paper on fabric on board",
-            "Dimensions": "sheet: 5 1/8 \u00d7 4 1/8\" (13 \u00d7 10.5 cm); mount: 9 1/2 \u00d7 8 1/2\" (24.2 \u00d7 21.6 cm)",
-            "Credit": "Gift of Elizabeth McFadden",
-            "Object number": "760.1978",
-            "Copyright": "\u00a9 Estate of Anne Ryan, Courtesy Washburn Gallery, New York.",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5097"
-    },
-    {
-        "Artist": "Anne Ryan",
-        "Title": "Number 362",
-        "Year": "1950",
-        "ObjectID": "38012",
-        "Work": "https://www.moma.org/collection/works/38012",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMxODgyOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=956fb0ef3e981205",
-        "Details": {
-            "Medium": "Cut-and-pasted colored paper and string on paper",
-            "Dimensions": "7 3/4 x 5 1/4\" (19.7 x 13.3 cm)",
-            "Credit": "Gift of Elizabeth McFadden",
-            "Object number": "763.1978",
-            "Copyright": "\u00a9 Estate of Anne Ryan, Courtesy Washburn Gallery, New York.",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5097"
+        "Profile": "https://www.moma.org/artists/3426"
     }
 ]

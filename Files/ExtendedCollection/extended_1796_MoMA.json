@@ -1,776 +1,908 @@
 [
     {
-        "Artist": "Charles Thurston Thompson",
-        "Title": "English Mirror, c. 1730, from Cumberland Lodge, Windsor Forest",
-        "Year": "1853",
-        "ObjectID": "177846",
-        "Work": "https://www.moma.org/collection/works/177846",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5ODI2MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=375a1582e0325f85",
+        "Artist": "Naum Gabo, Antoine Pevsner",
+        "Title": "Realistic Manifesto (Realisticheskii Manifest)",
+        "Year": "1920",
+        "ObjectID": "173291",
+        "Work": "https://www.moma.org/collection/works/173291",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwOTQ0OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f12ea4cd2a220a4d",
         "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "9 1/8 \u00d7 6 1/8\" (23.1 \u00d7 15.6 cm)",
-            "Credit": "Acquired through the generosity of Jon L. Stryker",
-            "Object number": "194.2014",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/8070"
-    },
-    {
-        "Artist": "Charles Thurston Thompson",
-        "Title": "Late seventeenth-century silver repousse mirror, attributed to Gerrit Jensen, d. 1715",
-        "Year": "1853",
-        "ObjectID": "177874",
-        "Work": "https://www.moma.org/collection/works/177874",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5MjExOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4d471148d7ccfa07",
-        "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "8 1/2 \u00d7 5 13/16\" (21.6 \u00d7 14.7 cm)",
-            "Credit": "Acquired through the generosity of Jon L. Stryker",
-            "Object number": "195.2014",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/8070"
-    },
-    {
-        "Artist": "Charles Thurston Thompson",
-        "Title": "Mirror from the King's Bedroom, Knole House, Kent",
-        "Year": "1853",
-        "ObjectID": "177875",
-        "Work": "https://www.moma.org/collection/works/177875",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5MjExOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=efa44feea6a4e170",
-        "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "9 \u00d7 6 3/8\" (22.9 \u00d7 16.2 cm)",
-            "Credit": "Acquired through the generosity of Jon L. Stryker",
-            "Object number": "196.2014",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/8070"
-    },
-    {
-        "Artist": "Charles Thurston Thompson",
-        "Title": "Venetian Mirror, c. 1700, from the Collection of John Webb",
-        "Year": "1853",
-        "ObjectID": "177876",
-        "Work": "https://www.moma.org/collection/works/177876",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5MjEyMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=35c5bec837ed5e4c",
-        "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "8 7/8 \u00d7 6 3/16\" (22.5 \u00d7 15.7 cm)",
-            "Credit": "Acquired through the generosity of Jon L. Stryker",
-            "Object number": "197.2014",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/8070"
-    },
-    {
-        "Artist": "Charles Thurston Thompson",
-        "Title": "Venetian Mirror, c. 1700, from the Collection of John Webb",
-        "Year": "1853",
-        "ObjectID": "177877",
-        "Work": "https://www.moma.org/collection/works/177877",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5MjEyMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e4bc0fb6b1499d30",
-        "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "6 15/16 \u00d7 8 1/16\" (17.6 \u00d7 20.5 cm)",
-            "Credit": "Acquired through the generosity of Jon L. Stryker",
-            "Object number": "198.2014",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/8070"
-    },
-    {
-        "Artist": "Auguste Vacquerie",
-        "Title": "Victor Hugo",
-        "Year": "1853",
-        "ObjectID": "127208",
-        "Work": "https://www.moma.org/collection/works/127208",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MzMzOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3855420e742ae716",
-        "Details": {
-            "Medium": "Salted paper print",
-            "Dimensions": "3 13/16 \u00d7 3\" (9.7 \u00d7 7.6 cm)",
-            "Credit": "Suzanne Winsberg Collection. Gift of Suzanne Winsberg",
-            "Object number": "567.2009",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/36930"
-    },
-    {
-        "Artist": "Auguste Vacquerie",
-        "Title": "Victor Hugo",
-        "Year": "1853",
-        "ObjectID": "127209",
-        "Work": "https://www.moma.org/collection/works/127209",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MzMzOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5e8b9e75b4db840a",
-        "Details": {
-            "Medium": "Salted paper print",
-            "Dimensions": "3 3/4 \u00d7 3\" (9.5 \u00d7 7.6 cm)",
-            "Credit": "Suzanne Winsberg Collection. Gift of Suzanne Winsberg",
-            "Object number": "568.2009",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/36930"
-    },
-    {
-        "Artist": "F. Bacon",
-        "Title": "Thomas Bewick after James Ramsey (double page inlay between pages xxiv and 1) from The Fables of Aesop",
-        "Year": "1852",
-        "ObjectID": "21228",
-        "Work": "https://www.moma.org/collection/works/21228",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3NzE3OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fcf846451078e2dc",
-        "Details": {
-            "Author": "Aesop",
-            "Medium": "Etching and engraving from an illustrated book with 323 wood engravings and one etching and engraving",
-            "Dimensions": "plate: 7 15/16 \u00d7 6 1/8\" (20.1 \u00d7 15.6 cm); page (irreg.): 8 1/4 \u00d7 5 5/16\" (21 \u00d7 13.5 cm)",
-            "Publisher": "T. Bewick and Son, Newcastle, England",
-            "Printer": "Edward Walker",
-            "Edition": "unknown",
-            "Credit": "The Louis E. Stern Collection",
-            "Object number": "680.1964.7",
-            "Copyright": "\u00a9 2023 Estate of Francis Bacon / Artists Rights Society (ARS), New York / DACS, London",
-            "Illustrated book": "The Fables of Aesop",
+            "Collaborating artist": "Antoine Pevsner",
+            "Medium": "Broadside",
+            "Dimensions": "sheet: 23 1/8 x 29\" (58.8 x 73.6 cm)",
+            "Publisher": "Second State Printing House, Moscow",
+            "Printer": "Second State Printing House, Moscow",
+            "Edition": "unknown (4 known impressions in public collections)",
+            "Credit": "Gift of David S. Orentreich, M.D.",
+            "Object number": "768.2013",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/40561"
+        "Profile": "https://www.moma.org/artists/2043"
     },
     {
-        "Artist": "Hippolyte Bayard",
-        "Title": "Self-Portrait in the Garden",
-        "Year": "c.1847",
-        "ObjectID": "275931",
-        "Work": "https://www.moma.org/collection/works/275931",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQyNjM2MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e5a3f3306cb3f0d8",
+        "Artist": "August Gaul",
+        "Title": "Goats (Ziegen) (plate 5) from the illustrated book Deutsche Graphiker der Gegenwart (German Printmakers of Our Time)",
+        "Year": "c. 1916, published 1920",
+        "ObjectID": "9040",
+        "Work": "https://www.moma.org/collection/works/9040",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzMzM0OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=dbe2f4ab9beb34c3",
         "Details": {
-            "Medium": "Salted paper print",
-            "Dimensions": "6 15/16 \u00d7 9 1/16\" (17.7 \u00d7 23 cm)",
-            "Credit": "Acquired through the generosity of Jo Carole and Ronald S. Lauder",
-            "Object number": "924.2018",
-            "Department": "Photography"
+            "Medium": "Lithograph from an illustrated book with fifteen lithographs, eight woodcuts, eight reproductions and one lithographed cover",
+            "Dimensions": "composition (irreg.): 9 1/2 x 8 3/4\" (24.2 x 22.2 cm); page: 13 7/16 x 9 1/2\" (34.2 x 24.2 cm)",
+            "Publisher": "Klinkhardt & Biermann, Leipzig",
+            "Printer": "Unidentified",
+            "Edition": "600 (including deluxe edition of 100, numbered 1-100, with a drypoint by Max Beckmann; and a regular edition of 500 [this ex.])",
+            "Credit": "Purchase",
+            "Object number": "2.1942.4",
+            "Illustrated book": "Deutsche Graphiker der Gegenwart (German Printmakers of Our Time)",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/398"
+        "Profile": "https://www.moma.org/artists/2099"
     },
     {
-        "Artist": "Alfred Capel Cure",
-        "Title": "My Beasts",
-        "Year": "February 1, 1852",
-        "ObjectID": "88166",
-        "Work": "https://www.moma.org/collection/works/88166",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5MzY5NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0a7782c76acbd70b",
+        "Artist": "Erich Gehre",
+        "Title": "Die Aktion, vol. 10, no. 43/44",
+        "Year": "October 30, 1920",
+        "ObjectID": "144506",
+        "Work": "https://www.moma.org/collection/works/144506",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0MzY3NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4b933ad6cbfde4ae",
         "Details": {
-            "Medium": "Paper negative",
-            "Dimensions": "7 3/4 \u00d7 6 1/4\" (19.7 \u00d7 15.9 cm)",
-            "Credit": "Gift of Paul F. Walter",
-            "Object number": "9.2019",
-            "Department": "Photography"
+            "Medium": "Periodical with one woodcut (cover) by Erich Gehre",
+            "Dimensions": "page (each approx.): 12 1/8 x 9 1/8\" (30.8 x 23.2 cm)",
+            "Publisher": "Verlag der Wochenschrift DIE AKTION, Berlin",
+            "Printer": "F.E. Haag, Melle in Hannover",
+            "Edition": "several thousand",
+            "Credit": "Committee on Prints and Illustrated Books Fund and The Library Council",
+            "Object number": "947.2010.301",
+            "Periodical": "Die Aktion (vol. 2, no. 3-vol. 11, no. 11/12)",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/959"
+        "Profile": "https://www.moma.org/artists/41151"
     },
     {
-        "Artist": "Maxime Du Camp",
-        "Title": "Temple de Dakkeh, Naos",
-        "Year": "1852",
-        "ObjectID": "55760",
-        "Work": "https://www.moma.org/collection/works/55760",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4NjU2OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a1316940fc60b2e7",
+        "Artist": "Albert Gleizes",
+        "Title": "Action, Premiere Annee, Numero 1, Fevrier 1920",
+        "Year": "1920",
+        "ObjectID": "10705",
+        "Work": "https://www.moma.org/collection/works/10705",
+        "Thumbnail": null,
         "Details": {
-            "Medium": "Calotype",
-            "Dimensions": "6 5/8 \u00d7 8 5/8\" (16.8 \u00d7 21.9 cm)",
-            "Credit": "Gift of Warner Communications, Inc.",
-            "Object number": "639.1977",
-            "Department": "Photography"
+            "Author": "Various Authors",
+            "Medium": "1 pochoir (front cover) and 16 wood engraved ornaments and reproductions",
+            "Dimensions": "irreg. composition  8 7/8 x 7 3/8\" (22.5 x 18.8 cm)\r\nirreg. page  9 1/16 x 7 1/2\" (23 x 19 cm)",
+            "Publisher": "Florent Fels, Paris, Marcel Sauvage, Paris",
+            "Edition": "unknown",
+            "Credit": "Mrs. Stanley Resor Fund",
+            "Object number": "45.1979",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/1629"
+        "Profile": "https://www.moma.org/artists/2191"
     },
     {
-        "Artist": "Maxime Du Camp",
-        "Title": "Mosquee et Tombeau des Ayoubites",
-        "Year": "1837-1852",
-        "ObjectID": "56714",
-        "Work": "https://www.moma.org/collection/works/56714",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4NjU5MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f7df511a42f0910c",
+        "Artist": "Albert Gleizes",
+        "Title": "Au Pays du Mufle",
+        "Year": "1920",
+        "ObjectID": "12082",
+        "Work": "https://www.moma.org/collection/works/12082",
+        "Thumbnail": null,
         "Details": {
-            "Medium": "Calotype, printed 1852",
-            "Dimensions": "5 7/8 \u00d7 8 1/4\" (15.1 \u00d7 21.0 cm)",
-            "Credit": "Gift of Warner Communications, Inc.",
-            "Object number": "844.1978",
-            "Department": "Photography"
+            "Author": "Laurent Tailhade",
+            "Medium": "Illustrated Book with 11 woodcuts and 1 woodcut variant",
+            "Dimensions": "Prints: various dimensions. Page (irreg.):  6 7/16 x 4 7/16-5/1/16\" (16.4 x 11.3-12.9 cm)",
+            "Publisher": "Edouard-Joseph, Paris",
+            "Printer": "Imprimerie Nouvelle, Paris",
+            "Edition": "1000 (30 on Japan; 70 on Van Gelder; 100 on yellow paper; 800 on Arches)",
+            "Credit": "Mary Ellen Meehan Fund",
+            "Object number": "155.1992.1-12",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/1629"
+        "Profile": "https://www.moma.org/artists/2191"
     },
     {
-        "Artist": "Maxime Du Camp",
-        "Title": "Mosquee de Sultan Kansou-El-Gouri",
-        "Year": "1837-1852",
-        "ObjectID": "56721",
-        "Work": "https://www.moma.org/collection/works/56721",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4NjU5MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9a1fda680c908bb6",
+        "Artist": "Anne Goldthwaite",
+        "Title": "Dr. Joseph Berry",
+        "Year": "c. 1918",
+        "ObjectID": "74711",
+        "Work": "https://www.moma.org/collection/works/74711",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM2NDkyMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e5d7098e0bed691e",
         "Details": {
-            "Medium": "Calotype, printed 1852",
-            "Dimensions": "6 5/16 \u00d7 8 7/16\" (16.0 \u00d7 21.5 cm)",
-            "Credit": "Gift of Warner Communications, Inc.",
-            "Object number": "845.1978",
-            "Department": "Photography"
+            "Medium": "Etching and drypoint",
+            "Dimensions": "plate: 10 7/8 x 10 1/16\" (27.7 x 25.5 cm); sheet: 16 7/16 \u00d7 12 5/16\" (41.8 \u00d7 31.3 cm)",
+            "Publisher": "Unidentified",
+            "Printer": "Unidentified",
+            "Edition": "unknown",
+            "Credit": "Gift of Abby Aldrich Rockefeller",
+            "Object number": "904.1940",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/1629"
+        "Profile": "https://www.moma.org/artists/2221"
     },
     {
-        "Artist": "Frederic A. Flacheron",
-        "Title": "Ponte Nomentano, Rome",
-        "Year": "1852",
-        "ObjectID": "127204",
-        "Work": "https://www.moma.org/collection/works/127204",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MzkxNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ab419837731eb5a3",
+        "Artist": "Natalia Goncharova",
+        "Title": "Composition",
+        "Year": "1920",
+        "ObjectID": "33638",
+        "Work": "https://www.moma.org/collection/works/33638",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzMzA5NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c2a2bd1d6eb327b1",
         "Details": {
-            "Medium": "Salted paper print",
-            "Dimensions": "10 3/8 \u00d7 13 1/16\" (26.4 \u00d7 33.2 cm)",
-            "Credit": "Suzanne Winsberg Collection. Gift of Suzanne Winsberg",
-            "Object number": "525.2009",
-            "Department": "Photography"
+            "Medium": "Watercolor and graphite on paper",
+            "Dimensions": "11 x 7 7/8\" (27.9 x 20 cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "73.1936",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/36927"
+        "Profile": "https://www.moma.org/artists/2229"
     },
     {
-        "Artist": "Gustave Le Gray",
+        "Artist": "Natalia Goncharova",
+        "Title": "Composition",
+        "Year": "1920",
+        "ObjectID": "33825",
+        "Work": "https://www.moma.org/collection/works/33825",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3ODM5OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=25ce3572a7193ce8",
+        "Details": {
+            "Medium": "Watercolor on paper",
+            "Dimensions": "11 1/8 x 7 7/8\" (28.3 x 20 cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "91.1936",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/2229"
+    },
+    {
+        "Artist": "Natalia Goncharova",
         "Title": "Untitled",
-        "Year": "1852",
-        "ObjectID": "127212",
-        "Work": "https://www.moma.org/collection/works/127212",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MzMyNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=268777f0b9e8ac8b",
+        "Year": "(n.d.)",
+        "ObjectID": "35997",
+        "Work": "https://www.moma.org/collection/works/35997",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEwNTA1MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0aa9a98f35622eab",
         "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "11 3/4 \u00d7 14 13/16\" (29.8 \u00d7 37.7 cm)",
-            "Credit": "Suzanne Winsberg Collection. Gift of Suzanne Winsberg",
-            "Object number": "532.2009",
-            "Department": "Photography"
+            "Medium": "Colored pencil and crayon on paper",
+            "Dimensions": "26 1/4 x 20\" (66.5 x 50.8 cm)",
+            "Credit": "Gift of Mrs. Alfred P. Shaw",
+            "Object number": "SC285.1974",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/3429"
+        "Profile": "https://www.moma.org/artists/2229"
     },
     {
-        "Artist": "Henri Le Secq",
-        "Title": "Portal Sculptures, Amiens Cathedral, France",
-        "Year": "1852",
-        "ObjectID": "127273",
-        "Work": "https://www.moma.org/collection/works/127273",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MjMyMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5bf5b7efc978ed4c",
+        "Artist": "Natalia Goncharova",
+        "Title": "Untitled",
+        "Year": "(n.d.)",
+        "ObjectID": "36017",
+        "Work": "https://www.moma.org/collection/works/36017",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEwNDMwNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0d0ff839e3a9df85",
         "Details": {
-            "Medium": "Salted paper print",
-            "Dimensions": "12 15/16 \u00d7 9\" (32.8 \u00d7 22.8 cm)",
-            "Credit": "Suzanne Winsberg Collection. Gift of Suzanne Winsberg",
-            "Object number": "537.2009",
-            "Department": "Photography"
+            "Medium": "Pencil on paper",
+            "Dimensions": "20 5/8 x 14 5/8\" (52.0 x 37.0 cm)",
+            "Credit": "Gift of Mrs. Alfred P. Shaw",
+            "Object number": "SC288.1974",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/3434"
+        "Profile": "https://www.moma.org/artists/2229"
     },
     {
-        "Artist": "Charles Marville",
-        "Title": "Chapel of the College Saint Dizier, Haute Marne, France",
-        "Year": "1852",
-        "ObjectID": "127275",
-        "Work": "https://www.moma.org/collection/works/127275",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MzMyNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e2ebee51dd2202a5",
+        "Artist": "Gottfried Graf",
+        "Title": "Plate (facing page 10) from Das graphische Jahrbuch (The Print Yearbook)",
+        "Year": "(1920, print executed 1919)",
+        "ObjectID": "11575",
+        "Work": "https://www.moma.org/collection/works/11575",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyNzg5MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=45f2a66d864847ea",
         "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "14 1/16 \u00d7 10 5/16\" (35.7 \u00d7 26.2 cm)",
-            "Credit": "Suzanne Winsberg Collection. Gift of Suzanne Winsberg",
-            "Object number": "539.2009",
-            "Department": "Photography"
+            "Author": "Various Authors",
+            "Medium": "Woodcut from an illustrated book with two woodcuts, one lithograph and thirty-two full page reproductions",
+            "Dimensions": "composition (irreg.): 6 1/8 x 3 13/16\" (15.6 x 9.7 cm); page: 8 1/4 x 6 3/16\" (21 x 15.7 cm)",
+            "Publisher": "Verlag Karl Lang, Darmstadt",
+            "Printer": "Unidentified",
+            "Edition": "Regular edition: unknown [this ex.]; plus deluxe edition of 80 (with supplementary portfolio of three prints issued hors text)",
+            "Credit": "Curt Valentin Bequest",
+            "Object number": "141.1956.2",
+            "Illustrated book": "Das graphische Jahrbuch (The Print Yearbook)",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/3810"
+        "Profile": "https://www.moma.org/artists/2279"
     },
     {
-        "Artist": "Charles Negre",
-        "Title": "The Chimney Sweeps",
-        "Year": "1852",
-        "ObjectID": "54147",
-        "Work": "https://www.moma.org/collection/works/54147",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0NTExNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9a122a5e5480a38c",
+        "Artist": "Alexis Gritchenko",
+        "Title": "Saltimbanques Turcs",
+        "Year": "1920",
+        "ObjectID": "35449",
+        "Work": "https://www.moma.org/collection/works/35449",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ4MDAzNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d67788861df06b49",
         "Details": {
-            "Medium": "Collotype",
-            "Dimensions": "5 7/8 \u00d7 7 1/2\" (15 \u00d7 19.1 cm)",
-            "Credit": "Gift of Andr\u00e9 Jammes",
-            "Object number": "481.1964",
-            "Department": "Photography"
+            "Medium": "Pencil on paper",
+            "Dimensions": "11 5/8 x 12 3/8\" (29.6 x 31.5 cm)",
+            "Credit": "Given anonymously",
+            "Object number": "235.1968",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/4254"
+        "Profile": "https://www.moma.org/artists/2352"
     },
     {
-        "Artist": "Charles Negre",
-        "Title": "Arles, Church of Saint-Trophime, Left Side of the Portal",
-        "Year": "1852",
-        "ObjectID": "127290",
-        "Work": "https://www.moma.org/collection/works/127290",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MzMzMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3f5da5d3b5f8f069",
+        "Artist": "Rudolf Grossmann",
+        "Title": "The Boxers (Die Boxer) (plate 7) from the illustrated book Deutsche Graphiker der Gegenwart (German Printmakers of Our Time)",
+        "Year": "1920",
+        "ObjectID": "9041",
+        "Work": "https://www.moma.org/collection/works/9041",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2OTA5OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6d6b3ad75c923168",
         "Details": {
-            "Medium": "Salted paper print",
-            "Dimensions": "12 13/16 \u00d7 9 1/8\" (32.6 \u00d7 23.2 cm)",
-            "Credit": "Suzanne Winsberg Collection. Gift of Suzanne Winsberg",
-            "Object number": "550.2009",
-            "Department": "Photography"
+            "Medium": "Lithograph from an illustrated book with fifteen lithographs, eight woodcuts, eight reproductions and one lithographed cover",
+            "Dimensions": "composition (irreg.): 8 7/16 x 7 3/8\" (21.5 x 18.8 cm); page: 12 11/16 x 9 9/16\" (32.3 x 24.3 cm)",
+            "Publisher": "Klinkhardt & Biermann, Leipzig",
+            "Printer": "Unidentified",
+            "Edition": "600 (including deluxe edition of 100, numbered 1-100, with a drypoint by Max Beckmann; and a regular edition of 500 [this ex.])",
+            "Credit": "Purchase",
+            "Object number": "2.1942.5",
+            "Illustrated book": "Deutsche Graphiker der Gegenwart (German Printmakers of Our Time)",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/4254"
+        "Profile": "https://www.moma.org/artists/2372"
     },
     {
-        "Artist": "Eugene Piot",
-        "Title": "L'acropole d'athenes, les Propylees, Aile Gauche ou Pinacotheque",
-        "Year": "1852",
-        "ObjectID": "54645",
-        "Work": "https://www.moma.org/collection/works/54645",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNjUyMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=65cf8bebaf64bde0",
+        "Artist": "George Grosz",
+        "Title": "He Made Fun of Hindenburg (Er hat Hindenburg verspottet) (plate 11) from the illustrated book Deutsche Graphiker der Gegenwart (German Printmakers of Our Time)",
+        "Year": "1920",
+        "ObjectID": "9011",
+        "Work": "https://www.moma.org/collection/works/9011",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2OTEwMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f310282968f4c048",
         "Details": {
-            "Medium": "Salted paper print from a paper negative",
-            "Dimensions": "8 7/8 \u00d7 12 15/16\" (22.6 \u00d7 32.8 cm)",
-            "Credit": "Acquired through the generosity of John Parkinson III",
-            "Object number": "519.1981",
-            "Department": "Photography"
+            "Medium": "Lithograph from an illustrated book with fifteen lithographs, eight woodcuts, eight reproductions and one lithographed cover",
+            "Dimensions": "composition (irreg.): 9 5/16 x 6 7/8\" (23.7 x 17.5 cm); page: 13 1/2 x 9 1/2\" (34.3 x 24.2 cm)",
+            "Publisher": "Klinkhardt & Biermann, Leipzig",
+            "Printer": "Unidentified",
+            "Edition": "600 (including deluxe edition of 100, numbered 1-100, with a drypoint by Max Beckmann; and a regular edition of 500 [this ex.])",
+            "Credit": "Purchase",
+            "Object number": "2.1942.8",
+            "Copyright": "\u00a9 2023 Estate of George Grosz",
+            "Illustrated book": "Deutsche Graphiker der Gegenwart (German Printmakers of Our Time)",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/4631"
+        "Profile": "https://www.moma.org/artists/2374"
     },
     {
-        "Artist": "Henri Plaut",
-        "Title": "View of the Apse of Notre Dame, Paris",
-        "Year": "1852",
-        "ObjectID": "50438",
-        "Work": "https://www.moma.org/collection/works/50438",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMzQyMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7fbee246a27ac682",
+        "Artist": "George Grosz",
+        "Title": "Dispute by Moonlight (Disput bei Mondschein) (recto); Two Men (verso)",
+        "Year": "c. 1920",
+        "ObjectID": "33002",
+        "Work": "https://www.moma.org/collection/works/33002",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NjM2MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3b3f3c687b0a3406",
         "Details": {
-            "Medium": "Salted paper print",
-            "Dimensions": "6 5/8 \u00d7 8 1/2\" (16.8 \u00d7 21.7 cm)",
-            "Credit": "Transferred from The Museum of Modern Art Library, New York",
-            "Object number": "309.1975.10",
-            "Department": "Photography"
+            "Medium": "Ink on paper (recto and verso)",
+            "Dimensions": "26 3/4 x 19 5/8\" (68 x 49.9 cm)",
+            "Credit": "A. Conger Goodyear Fund",
+            "Object number": "4.1948.a-b",
+            "Copyright": "\u00a9 2023 Estate of George Grosz",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/4652"
+        "Profile": "https://www.moma.org/artists/2374"
     },
     {
-        "Artist": "Felix Teynard",
-        "Title": "Es-Sebua. Temple, General View of the Pylon",
-        "Year": "1851-52",
-        "ObjectID": "45315",
-        "Work": "https://www.moma.org/collection/works/45315",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNTkwMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=95cb6237c6e55eff",
+        "Artist": "George Grosz",
+        "Title": "Republican Automatons (Republikanische Automaten)",
+        "Year": "1920",
+        "ObjectID": "34169",
+        "Work": "https://www.moma.org/collection/works/34169",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyMTk1OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6ec29ec3a2ae2bf5",
         "Details": {
-            "Medium": "Salted paper print from a paper negative",
-            "Dimensions": "9 3/8 \u00d7 11 15/16\" (23.8 \u00d7 30.4 cm)",
-            "Credit": "Gift of Paul F. Walter",
-            "Object number": "62.1989",
-            "Department": "Photography"
+            "Medium": "Watercolor and pencil on paper",
+            "Dimensions": "23 5/8 x 18 5/8\" (60 x 47.3 cm)",
+            "Credit": "Advisory Committee Fund",
+            "Object number": "120.1946",
+            "Copyright": "\u00a9 2023 Estate of George Grosz",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/5840"
+        "Profile": "https://www.moma.org/artists/2374"
     },
     {
-        "Artist": "Unidentified Designer",
-        "Title": "C.N. Robert stationery",
-        "Year": "1852",
-        "ObjectID": "198464",
-        "Work": "https://www.moma.org/collection/works/198464",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0OTg2MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f731a6aa21d8df10",
+        "Artist": "George Grosz",
+        "Title": "\"The Convict\" Monteur John Heartfield After Franz Jung's Attempt to Get Him Up on His Feet (\"Der Strafling\" Monteur John Heartfield nach Franz Jungs Versuch ihn auf die Beine zu stellen)",
+        "Year": "1920",
+        "ObjectID": "35058",
+        "Work": "https://www.moma.org/collection/works/35058",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNzcxMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=850e012a293d93a4",
         "Details": {
-            "Medium": "Letterpress",
-            "Dimensions": "10 1/2 \u00d7 8 1/4\" (26.7 \u00d7 21 cm)",
-            "Credit": "Elaine Lustig Cohen Collection, gift of Lawrence Benenson and the Committee on Architecture and Design Funds",
-            "Object number": "1417.2015",
+            "Medium": "Watercolor, ink, pencil, and cut-and-pasted printed paper on paper",
+            "Dimensions": "16 1/2 x 12\" (41.9 x 30.5 cm)",
+            "Credit": "Gift of A. Conger Goodyear",
+            "Object number": "176.1952",
+            "Copyright": "\u00a9 2023 Estate of George Grosz",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/2374"
+    },
+    {
+        "Artist": "George Grosz",
+        "Title": "God with Us (Gott mit uns) from the portfolio God with Us (Gott mit uns)",
+        "Year": "1919, published 1920",
+        "ObjectID": "67039",
+        "Work": "https://www.moma.org/collection/works/67039",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3OTk2MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=039ed3223a9502eb",
+        "Details": {
+            "Medium": "Offset lithograph",
+            "Dimensions": "composition (irreg.): 11 9/16 x 17\" (29.3 x 43.2 cm); sheet: 15 7/16 x 19\" (39.2 x 48.2 cm)",
+            "Publisher": "Malik-Verlag, Berlin",
+            "Printer": "Hermann Birkholz, Berlin",
+            "Edition": "125",
+            "Credit": "Abby Aldrich Rockefeller Fund",
+            "Object number": "329.1947",
+            "Copyright": "\u00a9 2023 Estate of George Grosz",
+            "Portfolio": "God with Us",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/2374"
+    },
+    {
+        "Artist": "George Grosz",
+        "Title": "God with Us (Gott mit uns) from the portfolio God with Us (Gott mit uns)",
+        "Year": "1919, published 1920",
+        "ObjectID": "69933",
+        "Work": "https://www.moma.org/collection/works/69933",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1Mzg1NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=651c0908fa053318",
+        "Details": {
+            "Medium": "Offset lithograph",
+            "Dimensions": "composition (irreg.): 11 9/16 x 16 7/8\" (29.3 x 42.8 cm); sheet: 15 7/16 x 18 7/8\" (39.2 x 48 cm)",
+            "Publisher": "Malik-Verlag, Berlin",
+            "Printer": "Hermann Birkholz, Berlin",
+            "Edition": "125",
+            "Credit": "Abby Aldrich Rockefeller Fund",
+            "Object number": "484.1949",
+            "Copyright": "\u00a9 2023 Estate of George Grosz",
+            "Portfolio": "God with Us",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/2374"
+    },
+    {
+        "Artist": "George Grosz",
+        "Title": "The Germans to the Front (Fur deutsches Recht und deutsche Sitte) from the portfolio God with Us (Gott mit uns)",
+        "Year": "1919, published 1920",
+        "ObjectID": "69946",
+        "Work": "https://www.moma.org/collection/works/69946",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzNDg4NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=79b14febf5072513",
+        "Details": {
+            "Medium": "Offset lithograph",
+            "Dimensions": "composition (irreg.): 15 x 12 5/16\" (38.1 x 31.3 cm); sheet: 19 x 15 3/8\" (48.2 x 39.1 cm)",
+            "Publisher": "Malik-Verlag, Berlin",
+            "Printer": "Hermann Birkholz, Berlin",
+            "Edition": "125",
+            "Credit": "Abby Aldrich Rockefeller Fund",
+            "Object number": "485.1949",
+            "Copyright": "\u00a9 2023 Estate of George Grosz",
+            "Portfolio": "God with Us",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/2374"
+    },
+    {
+        "Artist": "George Grosz",
+        "Title": "Ich dien (Feierabend) from the portfolio God with Us (Gott mit uns)",
+        "Year": "1919, published 1920",
+        "ObjectID": "69965",
+        "Work": "https://www.moma.org/collection/works/69965",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzNDg4NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=944640394c646a10",
+        "Details": {
+            "Medium": "Offset lithograph",
+            "Dimensions": "composition: 15 1/4 x 11 3/4\" (38.7 x 29.8 cm); sheet: 19 x 15 1/2\" (48.3 x 39.3 cm)",
+            "Publisher": "Malik-Verlag, Berlin",
+            "Printer": "Hermann Birkholz, Berlin",
+            "Edition": "125",
+            "Credit": "Abby Aldrich Rockefeller Fund",
+            "Object number": "486.1949",
+            "Copyright": "\u00a9 2023 Estate of George Grosz",
+            "Portfolio": "God with Us",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/2374"
+    },
+    {
+        "Artist": "George Grosz",
+        "Title": "German Doctors Fighting the Blockade (Die Gesundbeter) from the portfolio God with Us (Gott mit uns)",
+        "Year": "1918, published 1920",
+        "ObjectID": "69984",
+        "Work": "https://www.moma.org/collection/works/69984",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzNDg4OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=67a1ded6dbb35410",
+        "Details": {
+            "Medium": "Offset lithograph",
+            "Dimensions": "composition: 12 11/16 x 11 11/16\" (32.3 x 29.7 cm); sheet: 18 7/8 x 15 1/4\" (48 x 38.8 cm)",
+            "Publisher": "Malik-Verlag, Berlin",
+            "Printer": "Hermann Birkholz, Berlin",
+            "Edition": "125",
+            "Credit": "Abby Aldrich Rockefeller Fund",
+            "Object number": "487.1949",
+            "Copyright": "\u00a9 2023 Estate of George Grosz",
+            "Portfolio": "God with Us",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/2374"
+    },
+    {
+        "Artist": "George Grosz",
+        "Title": "The World Made Safe for Democracy (Die vollendete Demokratie) from the portfolio God with Us (Gott mit uns)",
+        "Year": "1919, published 1920",
+        "ObjectID": "69993",
+        "Work": "https://www.moma.org/collection/works/69993",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjk3Njc0Il0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNTEyeDUxMlx1MDAzZSJdXQ.jpg?sha=563ca203c8bc32e7",
+        "Details": {
+            "Medium": "Offset lithograph",
+            "Dimensions": "composition (irreg.): 17 3/8 x 11 7/8\" (44.1 x 30.2 cm); sheet (irreg.): 18 7/8 x 15 1/2\" (48 x 39.4 cm)",
+            "Publisher": "Malik-Verlag, Berlin",
+            "Printer": "Hermann Birkholz, Berlin",
+            "Edition": "125",
+            "Credit": "Abby Aldrich Rockefeller Fund",
+            "Object number": "488.1949",
+            "Copyright": "\u00a9 2023 Estate of George Grosz",
+            "Portfolio": "God with Us",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/2374"
+    },
+    {
+        "Artist": "George Grosz",
+        "Title": "Blood Is the Best Sauce (Die Kommunisten fallen - und die Devisen steigen) from the portfolio God with Us (Gott mit uns)",
+        "Year": "1919, published 1920",
+        "ObjectID": "70002",
+        "Work": "https://www.moma.org/collection/works/70002",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjk3Njc1Il0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNTEyeDUxMlx1MDAzZSJdXQ.jpg?sha=739d1bd3776cd7ce",
+        "Details": {
+            "Medium": "Offset lithograph",
+            "Dimensions": "composition (irreg.): 12 1/8 x 17 3/4\" (30.8 x 45.1 cm); sheet: 15 1/4 x 19\" (38.7 x 48.3 cm)",
+            "Publisher": "Malik-Verlag, Berlin",
+            "Printer": "Hermann Birkholz, Berlin",
+            "Edition": "125",
+            "Credit": "Abby Aldrich Rockefeller Fund",
+            "Object number": "489.1949",
+            "Copyright": "\u00a9 2023 Estate of George Grosz",
+            "Portfolio": "God with Us",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/2374"
+    },
+    {
+        "Artist": "George Grosz",
+        "Title": "Made in Germany (Den macht uns keiner nach) from the portfolio God with Us (Gott mit uns)",
+        "Year": "1919, published 1920",
+        "ObjectID": "70025",
+        "Work": "https://www.moma.org/collection/works/70025",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzNDg5MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1605c3d4fabc4648",
+        "Details": {
+            "Medium": "Offset lithograph",
+            "Dimensions": "composition (irreg.): 11 3/16 x 9 9/16\" (28.4 x 24.3 cm); sheet: 19 x 15 3/8\" (48.3 x 39.1 cm)",
+            "Publisher": "Malik-Verlag, Berlin",
+            "Printer": "Hermann Birkholz, Berlin",
+            "Edition": "125 (Edition A: 20 signed, on Strathmore \"japan\" paper, issued in half-parchment bound portfolio, numbered 1-20; Edition B: 40, signed, on heavy B\u00fctten paper, issued in half-silk bound portfolio, numbered 21-60; Edition C: 65 on lighter B\u00fctten paper, issued in half-linen bound portfolio, numbered 61-125 [this ex.\"C 73\"])",
+            "Credit": "Abby Aldrich Rockefeller Fund",
+            "Object number": "490.1949",
+            "Copyright": "\u00a9 2023 Estate of George Grosz",
+            "Portfolio": "God with Us",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/2374"
+    },
+    {
+        "Artist": "George Grosz",
+        "Title": "Cover from the portfolio God with Us (Gott mit uns)",
+        "Year": "1919, published 1920",
+        "ObjectID": "99016",
+        "Work": "https://www.moma.org/collection/works/99016",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzNjMyNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=947313bcd1478164",
+        "Details": {
+            "Medium": "Letterpress and line block",
+            "Dimensions": "composition (front cover; irreg.): 16 1/4 x 8 1/8\" (41.3 x 20.6 cm); composition (back cover; irreg.): 5 7/8 x 3 15/16\" (14.9 x 10 cm); cover (closed): 19 3/8 x 15 3/4 x 7/16\" (49.2 x 40 x 1.1 cm); cover (open): 19 3/8 x 31 1/2\" (49.2 x 80 cm)",
+            "Designer": "John Heartfield (Helmut Herzfeld), George Grosz",
+            "Publisher": "Malik-Verlag, Berlin",
+            "Edition": "125",
+            "Credit": "Abby Aldrich Rockefeller Fund",
+            "Object number": "698.1949",
+            "Copyright": "\u00a9 2023 Estate of George Grosz",
+            "Portfolio": "God with Us",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/2374"
+    },
+    {
+        "Artist": "George Grosz",
+        "Title": "Table of contents from the portfolio Got mit uns (God with Us)",
+        "Year": "1920",
+        "ObjectID": "99017",
+        "Work": "https://www.moma.org/collection/works/99017",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExMTI2OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=77bb07bd41935d5a",
+        "Details": {
+            "Medium": "Letterpress and line block",
+            "Dimensions": "Page: 18 13/16 x 15 5/16\" (47.8 x 38.9 cm)",
+            "Publisher": "Malik-Verlag, Berlin",
+            "Printer": "Hermann Birkholz, Berlin",
+            "Edition": "125",
+            "Credit": "Abby Aldrich Rockefeller Fund",
+            "Object number": "699.1949",
+            "Copyright": "\u00a9 2023 Estate of George Grosz",
+            "Portfolio": "God with Us",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/2374"
+    },
+    {
+        "Artist": "Erich Heckel",
+        "Title": "Sick Girl (Krankes Madchen) (plate 19) from the illustrated book Deutsche Graphiker der Gegenwart (German Printmakers of Our Time)",
+        "Year": "1913, published 1920",
+        "ObjectID": "9025",
+        "Work": "https://www.moma.org/collection/works/9025",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNzA5OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ba226f0d5c588615",
+        "Details": {
+            "Medium": "Woodcut from an illustrated book with fifteen lithographs, eight woodcuts, eight reproductions and one lithographed cover",
+            "Dimensions": "composition: 7 1/2 x 5 1/2\" (19 x 14 cm); page: 12 11/16 x 9 7/16\" (32.3 x 24 cm)",
+            "Publisher": "Klinkhardt & Biermann, Leipzig",
+            "Printer": "Unidentified",
+            "Edition": "600 (including deluxe edition of 100, numbered 1-100, with a drypoint by Max Beckmann; and a regular edition of 500 [this ex.]); plus an unknown number of proofs outside the edition",
+            "Credit": "Purchase",
+            "Object number": "2.1942.12",
+            "Copyright": "\u00a9 2023 Erich Heckel / Artists Rights Society (ARS), New York / VG Bild-Kunst, Germany",
+            "Illustrated book": "Deutsche Graphiker der Gegenwart (German Printmakers of Our Time)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/2569"
+    },
+    {
+        "Artist": "Erich Heckel",
+        "Title": "Portrait of E.H. (Bildnis E.H.) for the portfolio accompanying the deluxe edition of the periodical Der Anbruch, 2 (no. 1-12)",
+        "Year": "1917 (published 1919/1920)",
+        "ObjectID": "66898",
+        "Work": "https://www.moma.org/collection/works/66898",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNDc5OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d6a2189af584601b",
+        "Details": {
+            "Medium": "Woodcut",
+            "Dimensions": "composition: 14 5/16 x 11 1/2\" (36.4 x 29.2 cm); sheet: 25 x 18 1/16\" (63.5 x 45.9 cm)",
+            "Publisher": "Graphisches Kabinett J. B. Neumann, Berlin",
+            "Printer": "Unidentified",
+            "Edition": "Impression outside the portfolio edition of 150",
+            "Credit": "Gift of Abby Aldrich Rockefeller",
+            "Object number": "322.1940",
+            "Copyright": "\u00a9 2023 Erich Heckel / Artists Rights Society (ARS), New York / VG Bild-Kunst, Germany",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/2569"
+    },
+    {
+        "Artist": "Erich Heckel",
+        "Title": "Portrait of E.G. (Bildnis E.G.)",
+        "Year": "1920",
+        "ObjectID": "66913",
+        "Work": "https://www.moma.org/collection/works/66913",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyMDA4MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b2b6e7b963afbed4",
+        "Details": {
+            "Medium": "Drypoint with roulette",
+            "Dimensions": "plate: 12 3/16 x 10 13/16\" (31 x 27.5 cm); sheet: 21 11/16 x 15 1/2\" (55.1 x 39.3 cm)",
+            "Publisher": "unpublished",
+            "Printer": "Unidentified",
+            "Edition": "80",
+            "Credit": "Gift of Abby Aldrich Rockefeller",
+            "Object number": "323.1940",
+            "Copyright": "\u00a9 2023 Erich Heckel / Artists Rights Society (ARS), New York / VG Bild-Kunst, Germany",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/2569"
+    },
+    {
+        "Artist": "Erich Heckel",
+        "Title": "Tubingen",
+        "Year": "1920",
+        "ObjectID": "78169",
+        "Work": "https://www.moma.org/collection/works/78169",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNDc5NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d9e68d727fa3475a",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition: 19 1/4 x 15 7/16\" (48.9 x 39.2 cm); sheet: 25 11/16 x 19 3/4\" (65.3 x 50.1 cm)",
+            "Publisher": "unpublished",
+            "Printer": "Unidentified",
+            "Edition": "unknown",
+            "Credit": "Donald H. Karshan Fund",
+            "Object number": "2441.1967",
+            "Copyright": "\u00a9 2023 Erich Heckel / Artists Rights Society (ARS), New York / VG Bild-Kunst, Germany",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/2569"
+    },
+    {
+        "Artist": "Erich Heckel",
+        "Title": "Tubingen",
+        "Year": "1920",
+        "ObjectID": "78170",
+        "Work": "https://www.moma.org/collection/works/78170",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNDc5NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=505688569af1a122",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition: 19 3/16 x 15 1/16\" (48.7 x 38.3 cm); sheet: 22 3/16 x 17 11/16\" (56.4 x 45 cm)",
+            "Publisher": "unpublished",
+            "Printer": "Unidentified",
+            "Edition": "unknown",
+            "Credit": "Donald H. Karshan Fund",
+            "Object number": "2442.1967",
+            "Copyright": "\u00a9 2023 Erich Heckel / Artists Rights Society (ARS), New York / VG Bild-Kunst, Germany",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/2569"
+    },
+    {
+        "Artist": "Lewis Wickes Hine",
+        "Title": "Steamfitter",
+        "Year": "1920",
+        "ObjectID": "44814",
+        "Work": "https://www.moma.org/collection/works/44814",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMDUwNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=03b8718a66175276",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "9 1/2 \u00d7 7\" (24.2 \u00d7 17.8 cm)",
+            "Credit": "Purchase",
+            "Object number": "49.1974",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/2657"
+    },
+    {
+        "Artist": "Josef Hoffmann",
+        "Title": "Goblets",
+        "Year": "c. 1915",
+        "ObjectID": "1397",
+        "Work": "https://www.moma.org/collection/works/1397",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMDk1NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0f73143ac1ffbb8b",
+        "Details": {
+            "Medium": "Glass",
+            "Dimensions": "Each: 5 7/8 x 3 15/16\" (15 x 10 cm)",
+            "Credit": "Gift of Lord & Taylor",
+            "Object number": "7.1980.1-2",
             "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/6013"
+        "Profile": "https://www.moma.org/artists/2694"
     },
     {
-        "Artist": "Louis-Jacques-Mande Daguerre",
-        "Title": "Jenny Lind",
-        "Year": "1840-51",
-        "ObjectID": "55431",
-        "Work": "https://www.moma.org/collection/works/55431",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ2NzkzOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7b50b4cc510d0dba",
+        "Artist": "Josef Hoffmann",
+        "Title": "Footed Vase",
+        "Year": "c. 1915",
+        "ObjectID": "1419",
+        "Work": "https://www.moma.org/collection/works/1419",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMDAwNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2693c726994e5ee1",
         "Details": {
-            "Medium": "Daguerreotype",
-            "Dimensions": "2 5/8 \u00d7 2 3/16\" (6.7 \u00d7 5.6 cm)",
-            "Credit": "Gift of A. Conger Goodyear",
-            "Object number": "591.1953",
-            "Department": "Photography"
+            "Medium": "Glass",
+            "Dimensions": "5 1/2 x 5 7/16\" (14 x 13.8 cm)",
+            "Credit": "Gift of Lord & Taylor",
+            "Object number": "8.1980",
+            "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/34418"
+        "Profile": "https://www.moma.org/artists/2694"
     },
     {
-        "Artist": "Maxime Du Camp",
-        "Title": "Louqsor, Vue Generale des Ruines",
-        "Year": "1849-51",
-        "ObjectID": "54195",
-        "Work": "https://www.moma.org/collection/works/54195",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4NjUxMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1403540efdb788ce",
+        "Artist": "Josef Hoffmann",
+        "Title": "The Patrician Stemware Service (no. 238)",
+        "Year": "1920",
+        "ObjectID": "2130",
+        "Work": "https://www.moma.org/collection/works/2130",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNzk0MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7fe94c35aaa71969",
         "Details": {
-            "Medium": "Salted paper print from a paper negative",
-            "Dimensions": "3 9/16 \u00d7 8 5/16\" (9.0 \u00d7 21.1 cm)",
-            "Credit": "Gift of Warner Communications, Inc.",
-            "Object number": "484.1981",
-            "Department": "Photography"
+            "Manufacturer": "J. & L. Lobmeyr, Vienna",
+            "Medium": "Hand-blown crystal",
+            "Dimensions": ".1 (Rhine wine glass): 7 1/8 x 3 3/8\" (18.1 x 8.6 cm)\r\n.3 (sherry glass): 5 5/16 x 2 3/4\" (13.5 x 7 cm)\r\n.4 (cordial glass): 4 15/16 x 2 1/2\" (12.5 x 6.4 cm)\r\n.5 (champagne glass): 6 3/8 x 4 1/4\" (16.2 x 10.8 cm)\r\n.6 (water goblet): 5 3/8 x 3 1/2\" (13.7 x 8.9 cm)\r\n.7 (finger bowl): 3 5/8 x 4 7/8\" (9.2 x 12.4 cm)\r\n.8 (ice cream cup): 3 x 4 1/8\" (7.6 x 10.5 cm)",
+            "Credit": "Gift of A. J. Van Dugteren & Sons, Inc.",
+            "Object number": "106.1948.1-9",
+            "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/1629"
+        "Profile": "https://www.moma.org/artists/2694"
     },
     {
-        "Artist": "Maxime Du Camp",
-        "Title": "Bois de Dattiers ed de Palmiers Doums",
-        "Year": "1849-51",
-        "ObjectID": "54210",
-        "Work": "https://www.moma.org/collection/works/54210",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4NjUxMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=111c8039fb92fd31",
+        "Artist": "Josef Hoffmann",
+        "Title": "Stemware",
+        "Year": "c. 1920",
+        "ObjectID": "109269",
+        "Work": "https://www.moma.org/collection/works/109269",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNzc3MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=851fab8a4ee4a0a5",
         "Details": {
-            "Medium": "Salted paper print from a paper negative",
-            "Dimensions": "6 9/16 \u00d7 8 1/4\" (16.7 \u00d7 20.9 cm)",
-            "Credit": "Gift of Warner Communications, Inc.",
-            "Object number": "485.1981",
-            "Department": "Photography"
+            "Manufacturer": "J. & L. Lobmeyr, Vienna",
+            "Medium": "Glass",
+            "Dimensions": ".1 wine: 5 5/8 x 3 1/8\" (14.3 x 7.9 cm)\r\n.2 cordial: 3 1/2 x 3/4\" (8.9 x 1.9 cm\r\n.3 tumbler: 5 1/4 x 1 1/16\" (13.3 x 2.8 cm)",
+            "Credit": "Gift of Andr\u00e9 Correa do Lago",
+            "Object number": "338.2007.1-3",
+            "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/1629"
+        "Profile": "https://www.moma.org/artists/2694"
     },
     {
-        "Artist": "Maxime Du Camp",
-        "Title": "Village de Hamameh",
-        "Year": "1849",
-        "ObjectID": "54225",
-        "Work": "https://www.moma.org/collection/works/54225",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4NjUxNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6d1ae321e11ca9e8",
+        "Artist": "Edward Hopper",
+        "Title": "Cow and Rocks",
+        "Year": "1920",
+        "ObjectID": "72004",
+        "Work": "https://www.moma.org/collection/works/72004",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NjkzOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3667826c6833ec4b",
         "Details": {
-            "Medium": "Salted paper print from a paper negative",
-            "Dimensions": "5 15/16 \u00d7 8 3/8\" (15.1 \u00d7 21.2 cm)",
-            "Credit": "Gift of Warner Communications, Inc.",
-            "Object number": "486.1981",
-            "Department": "Photography"
+            "Medium": "Etching",
+            "Dimensions": "plate: 6 15/16 x 7 7/8\" (17.6 x 20 cm); sheet: 11 1/8 x 12 11/16\" (28.2 x 32.2 cm)",
+            "Credit": "Mr. and Mrs. E. Powis Jones Fund",
+            "Object number": "623.1959",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/1629"
+        "Profile": "https://www.moma.org/artists/2726"
     },
     {
-        "Artist": "Maxime Du Camp",
-        "Title": "Grand Temple de Denderah, Sculptures de la Facade Posterieure",
-        "Year": "1849",
-        "ObjectID": "54240",
-        "Work": "https://www.moma.org/collection/works/54240",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4NjUxNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=11989bb33ea286dd",
+        "Artist": "Edward Hopper",
+        "Title": "American Landscape",
+        "Year": "1920",
+        "ObjectID": "74954",
+        "Work": "https://www.moma.org/collection/works/74954",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2Njk4MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9e64573f746f5598",
         "Details": {
-            "Medium": "Salted paper print from a paper negative",
-            "Dimensions": "5 11/16 \u00d7 8 3/8\" (14.4 \u00d7 21.3 cm)",
-            "Credit": "Gift of Warner Communications, Inc.",
-            "Object number": "487.1981",
-            "Department": "Photography"
+            "Medium": "Etching",
+            "Dimensions": "plate: 7 5/16 x 12 3/8\" (18.5 x 31.4 cm); sheet: 13 3/8 x 18 1/16\" (34 x 45.9 cm)",
+            "Publisher": "Edward Hopper, New York",
+            "Printer": "Edward Hopper, New York",
+            "Edition": "fewer than the 100 announced",
+            "Credit": "Gift of Abby Aldrich Rockefeller",
+            "Object number": "963.1940",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/1629"
+        "Profile": "https://www.moma.org/artists/2726"
     },
     {
-        "Artist": "Maxime Du Camp",
-        "Title": "Grand Temple De Denderah, Sculptures de la Facade Posterieure",
-        "Year": "1849",
-        "ObjectID": "54256",
-        "Work": "https://www.moma.org/collection/works/54256",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4NjUxNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=29a4439c671155d3",
+        "Artist": "Johannes Itten",
+        "Title": "House of the White Man (Haus des wei\u00dfen Mannes) from the portfolio New European Graphics, 1st Portfolio: Masters of the State Bauhaus, Weimar, 1921 (Neue europaische Graphik, 1. Mappe: Meister des Staatlichen Bauhauses in Weimar, 1921)",
+        "Year": "(1920, published 1921)",
+        "ObjectID": "72509",
+        "Work": "https://www.moma.org/collection/works/72509",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExOTM0NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8466843d57542ae9",
         "Details": {
-            "Medium": "Salted paper print from a paper negative",
-            "Dimensions": "6 1/16 \u00d7 8 11/16\" (15.5 \u00d7 22.2 cm)",
-            "Credit": "Gift of Warner Communications, Inc.",
-            "Object number": "488.1981",
-            "Department": "Photography"
+            "Medium": "Lithograph",
+            "Dimensions": "composition (irreg.): 9 7/8 x 9 7/16\" (25.1 x 24 cm); sheet: 13 3/4 x 11 1/8\" (35 x 28.2 cm)",
+            "Publisher": "M\u00fcller & Co. Verlag, Potsdam",
+            "Printer": "Staatliches Bauhaus, Weimar",
+            "Edition": "110 (including a deluxe edition of 10 on Japan paper and a regular edition of 100 on various German papers [this ex.]); plus 20 artist's proofs",
+            "Credit": "Gift of Peter Selz",
+            "Object number": "647.1965",
+            "Copyright": "\u00a9 2023 Johannes Itten / Artists Rights Society (ARS), New York / PROLITTERIS, Switzerland",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/1629"
+        "Profile": "https://www.moma.org/artists/2843"
     },
     {
-        "Artist": "Maxime Du Camp",
-        "Title": "Mosquee et Tombeau de Mourad Bey",
-        "Year": "1849-51",
-        "ObjectID": "54272",
-        "Work": "https://www.moma.org/collection/works/54272",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4NjUxNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=736a5bcf859556bc",
+        "Artist": "Solomon Iudovin",
+        "Title": "Idisher folks-ornament",
+        "Year": "1920",
+        "ObjectID": "12566",
+        "Work": "https://www.moma.org/collection/works/12566",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyODQ4MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=aaee2af220e04c49",
         "Details": {
-            "Medium": "Salted paper print from a paper negative",
-            "Dimensions": "6 3/16 \u00d7 8 5/8\" (15.8 \u00d7 21.9 cm)",
-            "Credit": "Gift of Warner Communications, Inc.",
-            "Object number": "489.1981",
-            "Department": "Photography"
+            "Medium": "Wrapper with linoleum cut illustration on front and inside of front; 27 linoleum cut illustrations",
+            "Dimensions": "Plate: 8 7/8 x 7 3/16\" (22.6 x 18.2 cm)",
+            "Publisher": "Vitebsker Y.L. Peretz Gezelshaft, Vitebsk",
+            "Edition": "100",
+            "Credit": "Gift of The Judith Rothschild Foundation",
+            "Object number": "164.2001.1-28",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/1629"
+        "Profile": "https://www.moma.org/artists/23665"
     },
     {
-        "Artist": "Maxime Du Camp",
-        "Title": "Necropole de Lycopolis",
-        "Year": "1849-52",
-        "ObjectID": "54288",
-        "Work": "https://www.moma.org/collection/works/54288",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4NjUxOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=52fb74164cb7a587",
+        "Artist": "Alexei Jawlensky",
+        "Title": "Seated Female Nude (With Right Hand on the Left Shoulder) (Sitzender weiblicher Dreiviertelakt (die rechte Hand auf der linken Schulter))",
+        "Year": "(c. 1920)",
+        "ObjectID": "65702",
+        "Work": "https://www.moma.org/collection/works/65702",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNzYzOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c2d41d6ffcf72b75",
         "Details": {
-            "Medium": "Salted paper print from a paper negative",
-            "Dimensions": "6 1/16 \u00d7 8 5/16\" (15.6 \u00d7 21.1 cm)",
-            "Credit": "Gift of Warner Communications, Inc.",
-            "Object number": "490.1981",
-            "Department": "Photography"
+            "Medium": "Lithograph",
+            "Dimensions": "composition (irreg.): 16 1/2 x 11 15/16\" (41.9 x 30.3 cm); sheet: 21 1/8 x 16 3/4\" (53.7 x 42.5 cm)",
+            "Publisher": "Fritz Gurlitt, Berlin",
+            "Printer": "Hermann Birkholz, Berlin",
+            "Edition": "75 (deluxe portfolio edition: deluxe edition: 10, signed and numbered, on Japan paper; regular portfolio edition: 25, signed and numbered, on B\u00fctten paper; 15, signed, on Japan paper; 25, signed, on B\u00fctten paper [this ex.])",
+            "Credit": "Gift of Mr. and Mrs. Justin K. Thannhauser",
+            "Object number": "270.1950",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/1629"
+        "Profile": "https://www.moma.org/artists/2896"
     },
     {
-        "Artist": "Maxime Du Camp",
-        "Title": "Grand Temple de Denderah, Hypetre Construit Sur la Terrasse",
-        "Year": "1849-51",
-        "ObjectID": "54304",
-        "Work": "https://www.moma.org/collection/works/54304",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4NjUxOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b135ae662a8008a7",
+        "Artist": "Gwen John",
+        "Title": "Girl with a Blue Scarf",
+        "Year": "c. 1915-20",
+        "ObjectID": "79624",
+        "Work": "https://www.moma.org/collection/works/79624",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1NjEyMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9ee71797cbeca7e0",
         "Details": {
-            "Medium": "Salted paper print from a paper negative",
-            "Dimensions": "6 3/8 \u00d7 8 9/16\" (16.1 \u00d7 21.7 cm)",
-            "Credit": "Gift of Warner Communications, Inc.",
-            "Object number": "491.1981",
-            "Department": "Photography"
+            "Medium": "Oil on canvas",
+            "Dimensions": "16 1/4 x 13\" (41.1 x 33 cm)",
+            "Credit": "Gift of Nelson A. Sears in memory of Mrs. Millicent A. Rogers",
+            "Object number": "400.1963",
+            "Department": "Painting and Sculpture"
         },
-        "Profile": "https://www.moma.org/artists/1629"
+        "Profile": "https://www.moma.org/artists/2921"
     },
     {
-        "Artist": "Maxime Du Camp",
-        "Title": "Grand Temple de Denderah, Facade Posterieure",
-        "Year": "1849-51",
-        "ObjectID": "54319",
-        "Work": "https://www.moma.org/collection/works/54319",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4NjUyMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c08f53c58fc969eb",
+        "Artist": "E. McKnight Kauffer",
+        "Title": "Group X, Mansard Gallery",
+        "Year": "1920",
+        "ObjectID": "6942",
+        "Work": "https://www.moma.org/collection/works/6942",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNzAzNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3a2f0785fa4c12f4",
         "Details": {
-            "Medium": "Salted paper print from a paper negative",
-            "Dimensions": "6 7/16 \u00d7 8 3/8\" (16.4 \u00d7 21.2 cm)",
-            "Credit": "Gift of Warner Communications, Inc.",
-            "Object number": "492.1981",
-            "Department": "Photography"
+            "Medium": "Lithograph",
+            "Dimensions": "29 7/8 x 19 7/8\" (75.9 x 50.5 cm)",
+            "Printer": "The Dangerfield Printing Co., Ltd., London",
+            "Credit": "Gift of the designer",
+            "Object number": "438.1939",
+            "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/1629"
+        "Profile": "https://www.moma.org/artists/3020"
     },
     {
-        "Artist": "Maxime Du Camp",
-        "Title": "Medinet Habou, Vue Generale des Ruines",
-        "Year": "1849-51",
-        "ObjectID": "54355",
-        "Work": "https://www.moma.org/collection/works/54355",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4NjUyMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f5117949d4cb3cc5",
+        "Artist": "Ernst Keller",
+        "Title": "Kleider von Bliss Haben Schmiss! (Clothes From Bliss Have Verve!)",
+        "Year": "1920",
+        "ObjectID": "7795",
+        "Work": "https://www.moma.org/collection/works/7795",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMTM5NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d3c2c99aaddfef99",
         "Details": {
-            "Medium": "Salted paper print from a paper negative",
-            "Dimensions": "6 1/2 \u00d7 8\" (16.5 \u00d7 20.3 cm)",
-            "Credit": "Gift of Warner Communications, Inc.",
-            "Object number": "494.1981",
-            "Department": "Photography"
+            "Medium": "Lithograph",
+            "Dimensions": "50 11/16 x 35 5/8\" (128.7 x 90.4 cm)",
+            "Printer": "J. C. M\u00fcller A.G., Z\u00fcrich",
+            "Credit": "Gift of Leslie J. Schreyer",
+            "Object number": "627.1981",
+            "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/1629"
+        "Profile": "https://www.moma.org/artists/3041"
     },
     {
-        "Artist": "Maxime Du Camp",
-        "Title": "Medinet Habou, Facade Septentrionale du Gynecee de Ramses Meiamoun",
-        "Year": "1849-51",
-        "ObjectID": "54371",
-        "Work": "https://www.moma.org/collection/works/54371",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4NjUyMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5ecbf9b0859ed9ef",
+        "Artist": "Andre Kertesz",
+        "Title": "Circus",
+        "Year": "1920",
+        "ObjectID": "57462",
+        "Work": "https://www.moma.org/collection/works/57462",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5OTUwMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3e8d01e8abac52b3",
         "Details": {
-            "Medium": "Salted paper print from a paper negative",
-            "Dimensions": "8 1/2 \u00d7 6 11/16\" (21.6 \u00d7 17.0 cm)",
-            "Credit": "Gift of Warner Communications, Inc.",
-            "Object number": "495.1981",
+            "Medium": "Gelatin silver print",
+            "Dimensions": "12 3/4 \u00d7 14 3/8\" (32.3 \u00d7 36.5 cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "1001.1969",
+            "Copyright": "\u00a9 2023 Estate of Andr\u00e9 Kert\u00e9sz",
             "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/1629"
+        "Profile": "https://www.moma.org/artists/3072"
     },
     {
-        "Artist": "Maxime Du Camp",
-        "Title": "Palais de Karnak, Promenoir de Tothmes III",
-        "Year": "1849-51",
-        "ObjectID": "54385",
-        "Work": "https://www.moma.org/collection/works/54385",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4NjUyNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=99d534eaea3ea3bb",
+        "Artist": "Keystone View Company",
+        "Title": "\"Coal Mines Being Dug Under the Streets of Scranton, Pennsylvania\"",
+        "Year": "1920",
+        "ObjectID": "58625",
+        "Work": "https://www.moma.org/collection/works/58625",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNTM0MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e01675f119f7aa12",
         "Details": {
-            "Medium": "Salted paper print from a paper negative",
-            "Dimensions": "6 7/16 \u00d7 8\" (16.4 \u00d7 20.3 cm)",
-            "Credit": "Gift of Warner Communications, Inc.",
-            "Object number": "496.1981",
+            "Medium": "Gelatin silver print",
+            "Dimensions": "6 \u00d7 8\" (15.3 \u00d7 20.4 cm)",
+            "Credit": "The New York Times Collection",
+            "Object number": "2032.2001",
+            "Copyright": "\u00a9 2023 Keystone View Company",
             "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/1629"
+        "Profile": "https://www.moma.org/artists/8567"
     },
     {
-        "Artist": "Maxime Du Camp",
-        "Title": "Palais de Karnak, Sculptures Exterieures du Sanctuaire de Granit",
-        "Year": "1849-51",
-        "ObjectID": "54398",
-        "Work": "https://www.moma.org/collection/works/54398",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4NjUyNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0f74a7d15480394a",
+        "Artist": "Ernst Ludwig Kirchner",
+        "Title": "White House in the Meadows (Weisses Haus in Wiesen)",
+        "Year": "(1920)",
+        "ObjectID": "67915",
+        "Work": "https://www.moma.org/collection/works/67915",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2ODY1MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4926048817562603",
         "Details": {
-            "Medium": "Salted paper print from a paper negative",
-            "Dimensions": "8 \u00d7 6 5/16\" (20.3 \u00d7 16.1 cm)",
-            "Credit": "Gift of Warner Communications, Inc.",
-            "Object number": "497.1981",
-            "Department": "Photography"
+            "Medium": "Woodcut",
+            "Dimensions": "composition (irreg.): 15 1/16 x 22 7/8\" (38.2 x 58.1 cm); sheet (irreg.): 17 1/16 x 25 1/16\" (43.4 x 63.6 cm)",
+            "Publisher": "unpublished",
+            "Printer": "Ernst Ludwig Kirchner, Davos, Switzerland",
+            "Edition": "9 known impressions",
+            "Credit": "Gift of Samuel A. Berger",
+            "Object number": "369.1954.a-b",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/1629"
-    },
-    {
-        "Artist": "Maxime Du Camp",
-        "Title": "Tombeau de Sultans Mamelouks",
-        "Year": "1849-51",
-        "ObjectID": "54410",
-        "Work": "https://www.moma.org/collection/works/54410",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4NjUyNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1cf0ea6c1b1e4ab0",
-        "Details": {
-            "Medium": "Salted paper print from a paper negative",
-            "Dimensions": "6 5/16 \u00d7 8 1/2\" (16.1 \u00d7 21.6 cm)",
-            "Credit": "Gift of Warner Communications, Inc.",
-            "Object number": "498.1981",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/1629"
-    },
-    {
-        "Artist": "Maxime Du Camp",
-        "Title": "Philoe, Vue Generale Prise a L'Angle Sud-Ouest",
-        "Year": "1849-51",
-        "ObjectID": "54422",
-        "Work": "https://www.moma.org/collection/works/54422",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4NjUyNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ede3075d7eff62bb",
-        "Details": {
-            "Medium": "Salted paper print from a paper negative",
-            "Dimensions": "6 7/16 \u00d7 8 5/8\" (16.3 \u00d7 20.9 cm)",
-            "Credit": "Gift of Warner Communications, Inc.",
-            "Object number": "499.1981",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/1629"
-    },
-    {
-        "Artist": "Maxime Du Camp",
-        "Title": "Grand Temple D'Isis, a Philoe, Galerie Orientale",
-        "Year": "1849-51",
-        "ObjectID": "54434",
-        "Work": "https://www.moma.org/collection/works/54434",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4NjUyOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6ef7926b665885a5",
-        "Details": {
-            "Medium": "Salted paper print from a paper negative",
-            "Dimensions": "6 1/2 \u00d7 8 3/4\" (16.6 \u00d7 22.2 cm)",
-            "Credit": "Gift of Warner Communications, Inc.",
-            "Object number": "500.1981",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/1629"
-    },
-    {
-        "Artist": "Maxime Du Camp",
-        "Title": "Grand Temple D'isis, a Philoe, Proscynema",
-        "Year": "1849-51",
-        "ObjectID": "54447",
-        "Work": "https://www.moma.org/collection/works/54447",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5ODIzMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a961b447a2481202",
-        "Details": {
-            "Medium": "Salted paper print from a paper negative",
-            "Dimensions": "6 5/16 \u00d7 8 7/8\" (16.1 \u00d7 22.5 cm)",
-            "Credit": "Gift of Warner Communications, Inc.",
-            "Object number": "501.1981",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/1629"
-    },
-    {
-        "Artist": "Maxime Du Camp",
-        "Title": "Grand Temple D'isis, A Philoe, Toth Ibiocephale",
-        "Year": "1849-51",
-        "ObjectID": "54459",
-        "Work": "https://www.moma.org/collection/works/54459",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4NjUzMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0928cb5c93b81e85",
-        "Details": {
-            "Medium": "Salted paper print from a paper negative",
-            "Dimensions": "8 3/4 \u00d7 6 5/8\" (22.3 \u00d7 16.8 cm)",
-            "Credit": "Gift of Warner Communications, Inc.",
-            "Object number": "502.1981",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/1629"
-    },
-    {
-        "Artist": "Maxime Du Camp",
-        "Title": "Baalbeck, Hemicycle, de L'enceinte des Temples du Soleil et de Jupiter",
-        "Year": "1849-51",
-        "ObjectID": "54471",
-        "Work": "https://www.moma.org/collection/works/54471",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4NjUzMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=41ca4c3301f0ef2c",
-        "Details": {
-            "Medium": "Salted paper print from a paper negative",
-            "Dimensions": "8 9/16 \u00d7 6 3/8\"(21.8 \u00d7 16.3 cm)",
-            "Credit": "Gift of Warner Communications, Inc.",
-            "Object number": "503.1981",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/1629"
-    },
-    {
-        "Artist": "Maxime Du Camp",
-        "Title": "Jerusalem, Quartier Oriental",
-        "Year": "1849-51",
-        "ObjectID": "54481",
-        "Work": "https://www.moma.org/collection/works/54481",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4NjUzMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c9f2fb962e327f43",
-        "Details": {
-            "Medium": "Salted paper print from a paper negative",
-            "Dimensions": "6 5/16 \u00d7 9 1/16\" (15.8 \u00d7 23.0 cm)",
-            "Credit": "Gift of Warner Communications, Inc.",
-            "Object number": "504.1981",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/1629"
-    },
-    {
-        "Artist": "Maxime Du Camp",
-        "Title": "Temple D'amada",
-        "Year": "1849-51",
-        "ObjectID": "54491",
-        "Work": "https://www.moma.org/collection/works/54491",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4NjUzMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=556113f0662975b7",
-        "Details": {
-            "Medium": "Salted paper print from a paper negative",
-            "Dimensions": "6 3/8 \u00d7 9 1/4\" (16.2 \u00d7 23.5 cm)",
-            "Credit": "Gift of Warner Communications, Inc.",
-            "Object number": "505.1981",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/1629"
-    },
-    {
-        "Artist": "Maxime Du Camp",
-        "Title": "Jerusalem, Porte Doree",
-        "Year": "1849-51",
-        "ObjectID": "54502",
-        "Work": "https://www.moma.org/collection/works/54502",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4NjUzNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8658aeec0bf8975b",
-        "Details": {
-            "Medium": "Salted paper print from a paper negative",
-            "Dimensions": "9 1/16 \u00d7 6 1/4\" (23.1 \u00d7 15.7 cm)",
-            "Credit": "Gift of Warner Communications, Inc.",
-            "Object number": "506.1981",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/1629"
-    },
-    {
-        "Artist": "Maxime Du Camp",
-        "Title": "Baalbeck, Interieur de L'enceinte des Temples du Soleil et de Jupiter",
-        "Year": "1849-51",
-        "ObjectID": "54514",
-        "Work": "https://www.moma.org/collection/works/54514",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4NjUzNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5642ba7df30e3018",
-        "Details": {
-            "Medium": "Salted paper print from a paper negative",
-            "Dimensions": "6 9/16 \u00d7 8 1/4\" (16.6 \u00d7 21.0 cm)",
-            "Credit": "Gift of Warner Communications, Inc.",
-            "Object number": "507.1981",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/1629"
-    },
-    {
-        "Artist": "Maxime Du Camp",
-        "Title": "Temple of Wady Kardassy",
-        "Year": "1849-51",
-        "ObjectID": "55646",
-        "Work": "https://www.moma.org/collection/works/55646",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEwNzg4NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b91ef813712fc4af",
-        "Details": {
-            "Medium": "Salted paper print from a paper negative",
-            "Dimensions": "6 1/2 \u00d7 8 9/16\" (16.5 \u00d7 21.8 cm)",
-            "Credit": "Gift of Warner Communications, Inc.",
-            "Object number": "622.1976",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/1629"
+        "Profile": "https://www.moma.org/artists/3115"
     }
 ]

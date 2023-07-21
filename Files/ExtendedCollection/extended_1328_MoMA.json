@@ -1,849 +1,943 @@
 [
     {
-        "Artist": "E. McKnight Kauffer",
-        "Title": "Stonehenge, See Britain First on Shell!",
-        "Year": "c. 1932",
-        "ObjectID": "6609",
-        "Work": "https://www.moma.org/collection/works/6609",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNzAyMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=70a59be74d4c9f4d",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "19 3/4 x 45\" (50.2 x 114.3 cm)",
-            "Publisher": "Shell - Mex., Ltd.",
-            "Printer": "Vincent Brooks, Day & Son, Ltd., London",
-            "Credit": "Gift of the designer",
-            "Object number": "409.1939",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/3020"
-    },
-    {
-        "Artist": "E. McKnight Kauffer",
-        "Title": "Study Success at the Advertising Exhibition",
-        "Year": "1937",
-        "ObjectID": "7092",
-        "Work": "https://www.moma.org/collection/works/7092",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNzA0OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6c19d8b07448be0c",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "29 7/8 x 19 7/8\" (75.9 x 50.5 cm)",
-            "Printer": "Haycock Press, London",
-            "Credit": "Gift of the designer",
-            "Object number": "459.1939",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/3020"
-    },
-    {
-        "Artist": "E. McKnight Kauffer",
-        "Title": "Study Success at the Advertising Exhibition",
-        "Year": "1937",
-        "ObjectID": "7098",
-        "Work": "https://www.moma.org/collection/works/7098",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNzA1MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fc1742c1ac5f9538",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "39 3/4 x 25\" (101 x 63.5 cm)",
-            "Credit": "Gift of the designer",
-            "Object number": "460.1939",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/3020"
-    },
-    {
-        "Artist": "Paul Kelpe",
-        "Title": "Untitled from American Abstract Artists",
-        "Year": "1937",
-        "ObjectID": "69812",
-        "Work": "https://www.moma.org/collection/works/69812",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNjQxNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7ef5fcb689c90951",
-        "Details": {
-            "Medium": "One from a portfolio of thirty-one lithographs",
-            "Dimensions": "composition (irreg.): 7 1/16 \u00d7 3 9/16\" (18 \u00d7 9 cm); sheet: 12 \u00d7 9 1/4\" (30.5 \u00d7 23.5 cm)",
-            "Publisher": "Squibb Galleries, New York",
-            "Printer": "Cane Press, New York",
-            "Edition": "500",
-            "Credit": "Gift of Stephen B. Browne in honor of Byron and Rosalind Browne",
-            "Object number": "480.1986.15",
-            "Portfolio": "American Abstract Artists",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/3053"
-    },
-    {
-        "Artist": "M. Kennedy",
-        "Title": "Untitled from American Abstract Artists",
-        "Year": "1937",
-        "ObjectID": "69813",
-        "Work": "https://www.moma.org/collection/works/69813",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNjQxOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e55a79ce270d4b2e",
-        "Details": {
-            "Medium": "One from a portfolio of thirty-one lithographs",
-            "Dimensions": "composition: 6 7/8 \u00d7 9 7/16\" (17.4 \u00d7 24 cm); sheet: 9 3/16 \u00d7 12\" (23.4 \u00d7 30.5 cm)",
-            "Publisher": "Squibb Galleries, New York",
-            "Printer": "Cane Press, New York",
-            "Edition": "500",
-            "Credit": "Gift of Stephen B. Browne in honor of Byron and Rosalind Browne",
-            "Object number": "480.1986.16",
-            "Portfolio": "American Abstract Artists",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/6734"
-    },
-    {
-        "Artist": "Andre Kertesz",
-        "Title": "Lost Cloud",
-        "Year": "1937",
-        "ObjectID": "50509",
-        "Work": "https://www.moma.org/collection/works/50509",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4NzM4OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b12cf1417500dc8d",
+        "Artist": "Harry Callahan",
+        "Title": "Eleanor, Chicago",
+        "Year": "1951",
+        "ObjectID": "128829",
+        "Work": "https://www.moma.org/collection/works/128829",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4Mzg3OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0365bd57ea16aa62",
         "Details": {
             "Medium": "Gelatin silver print",
-            "Dimensions": "8 1/2 \u00d7 5 3/8\" (21.6 \u00d7 13.7 cm)",
+            "Dimensions": "5 7/8 \u00d7 7 1/2\" (15 \u00d7 19 cm)",
             "Credit": "Gift of the artist",
-            "Object number": "312.1965",
-            "Copyright": "\u00a9 2023 Estate of Andr\u00e9 Kert\u00e9sz",
+            "Object number": "1195.2009",
+            "Copyright": "\u00a9 2023 The Estate of Harry Callahan",
             "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/3072"
+        "Profile": "https://www.moma.org/artists/924"
     },
     {
-        "Artist": "Andre Kertesz",
-        "Title": "Poughkeepsie, New York",
-        "Year": "1937",
-        "ObjectID": "50529",
-        "Work": "https://www.moma.org/collection/works/50529",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxOTI0NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=bf7d5cd00246302e",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "9 1/2 \u00d7 7 5/16\" (24.1 \u00d7 18.6 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "313.1965",
-            "Copyright": "\u00a9 2023 Estate of Andr\u00e9 Kert\u00e9sz",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/3072"
-    },
-    {
-        "Artist": "Andre Kertesz",
-        "Title": "Peace, Vermont",
-        "Year": "1937",
-        "ObjectID": "55963",
-        "Work": "https://www.moma.org/collection/works/55963",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MDU5NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b9c9cc4cab1339c7",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "7 1/2 \u00d7 9 3/8\" (19 \u00d7 23.8 cm)",
-            "Credit": "Photography Purchase Fund",
-            "Object number": "672.1941",
-            "Copyright": "\u00a9 2023 Estate of Andr\u00e9 Kert\u00e9sz",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/3072"
-    },
-    {
-        "Artist": "Paul Klee",
-        "Title": "Letter Ghost (Geist eines Briefes)",
-        "Year": "1937",
-        "ObjectID": "33063",
-        "Work": "https://www.moma.org/collection/works/33063",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzNjIwNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c3d64f9a8436cb8b",
-        "Details": {
-            "Medium": "Pigmented paste on newspaper",
-            "Dimensions": "13 x 19 1/8\" (33 x 48.6 cm)",
-            "Credit": "Purchase",
-            "Object number": "8.1939",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/3130"
-    },
-    {
-        "Artist": "Georg Kolbe",
-        "Title": "Male Figure (Mannliche Figur)",
-        "Year": "(c. 1927-37)",
-        "ObjectID": "33134",
-        "Work": "https://www.moma.org/collection/works/33134",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NjA1MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7b634c9e583b682a",
-        "Details": {
-            "Medium": "Crayon on paper",
-            "Dimensions": "15 3/8 x 11 1/2\" (39.1 x 29.2 cm)",
-            "Credit": "Gift of A. Conger Goodyear",
-            "Object number": "12.1954",
-            "Copyright": "\u00a9 2023 Georg Kolbe / Artists Rights Society (ARS), New York / VG Bild-Kunst, Germany",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/3199"
-    },
-    {
-        "Artist": "Kathe Kollwitz",
-        "Title": "Call of Death (Ruf des Todes) from the series Death (Tod)",
-        "Year": "c. 1937",
-        "ObjectID": "117571",
-        "Work": "https://www.moma.org/collection/works/117571",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MzM5OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3bd421ac9a6ca051",
+        "Artist": "Massimo Campigli",
+        "Title": "Woman at Loom",
+        "Year": "(1951)",
+        "ObjectID": "68067",
+        "Work": "https://www.moma.org/collection/works/68067",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNDIyMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fa67b995da94107b",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "composition (irreg.): 15 1/2 x 14 7/16\" (39.3 x 36.6 cm); sheet: 25 1/8 x 21 1/8\" (63.8 x 53.6 cm)",
-            "Publisher": "Alexander von der Becke, Verlag des graphischen Werkes von K\u00e4the Kollwitz, Berlin",
-            "Printer": "Unidentified",
-            "Edition": "proof before the edition of 100",
-            "Credit": "Purchase",
-            "Object number": "1655.1940.5",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York/VG Bild-Kunst, Bonn",
-            "Portfolio": "Death (Tod)",
+            "Dimensions": "composition: 19 1/4 x 13 7/8\" (48.9 x 35.3 cm); sheet: 22 7/16 x 15 1/16\" (57 x 38.3 cm)",
+            "Printer": "Guilde de la Gravure",
+            "Credit": "Gift of Abby Aldrich Rockefeller (by exchange)",
+            "Object number": "378.1951",
+            "Copyright": "\u00a9 2023 Massimo Campigli / Artists Rights Society (ARS), New York / SIAE, Rome",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/3201"
+        "Profile": "https://www.moma.org/artists/942"
     },
     {
-        "Artist": "Alfred Kubin",
-        "Title": "Untitled (title page) from Immer und Immer (Again and Again)",
-        "Year": "1937",
-        "ObjectID": "10057",
-        "Work": "https://www.moma.org/collection/works/10057",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyNzg5NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=be3539214dd49026",
-        "Details": {
-            "Author": "Max Roden",
-            "Medium": "One from an illustrated book with seven lithographs",
-            "Dimensions": "composition (irreg.): 6 1/2 x 5 9/16\" (16.5 x 14.2 cm); page: 11 3/4 x 8 9/16\" (29.8 x 21.7 cm)",
-            "Publisher": "Johannes Presse, Vienna",
-            "Printer": "Koch & Werner, Vienna",
-            "Edition": "43 (including 40 numbered 1-40 and 3 numbered I-III with 2 supplementary suites of trial proofs)",
-            "Credit": "Gift of the Author",
-            "Object number": "29.1966.1",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Illustrated book": "Immer und Immer (Again and Again)",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/3276"
-    },
-    {
-        "Artist": "Alfred Kubin",
-        "Title": "Immer und Immer (Again and Again)",
-        "Year": "1937",
-        "ObjectID": "10058",
-        "Work": "https://www.moma.org/collection/works/10058",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyNzg5NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=be3539214dd49026",
-        "Details": {
-            "Author": "Max Roden",
-            "Medium": "Illustrated book with seven lithographs",
-            "Dimensions": "page (each): 11 3/4 x 8 9/16\" (29.8 x 21.7 cm); overall: 8 13/16 x 7/16\" (22.4 x 1.1 cm)",
-            "Publisher": "Johannes Presse, Vienna",
-            "Printer": "Koch & Werner, Vienna",
-            "Edition": "43 (including 40 numbered 1-40 and 3 numbered I-III with 2 supplementary suites of trial proofs)",
-            "Credit": "Gift of the Author",
-            "Object number": "29.1966.1-7",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Type": "Illustrated Book",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/3276"
-    },
-    {
-        "Artist": "Alfred Kubin",
-        "Title": "Untitled (plate, folio 5) from Immer und Immer (Again and Again)",
-        "Year": "1937",
-        "ObjectID": "10059",
-        "Work": "https://www.moma.org/collection/works/10059",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyNzg5NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=55ad8ca0ef1ce6c9",
-        "Details": {
-            "Author": "Max Roden",
-            "Medium": "One from an illustrated book with seven lithographs",
-            "Dimensions": "composition (irreg.): 8 1/16 x 6\" (20.4 x 15.2 cm); page: 11 3/4 x 8 9/16\" (29.8 x 21.7 cm)",
-            "Publisher": "Johannes Presse, Vienna",
-            "Printer": "Koch & Werner, Vienna",
-            "Edition": "43 (including 40 numbered 1-40 and 3 numbered I-III with 2 supplementary suites of trial proofs)",
-            "Credit": "Gift of the Author",
-            "Object number": "29.1966.2",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Illustrated book": "Immer und Immer (Again and Again)",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/3276"
-    },
-    {
-        "Artist": "Alfred Kubin",
-        "Title": "Untitled (plate, folio 7) from Immer und Immer (Again and Again)",
-        "Year": "1937",
-        "ObjectID": "10060",
-        "Work": "https://www.moma.org/collection/works/10060",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyNzg5OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=41138f5fd69c1afa",
-        "Details": {
-            "Author": "Max Roden",
-            "Medium": "One from an illustrated book with seven lithographs",
-            "Dimensions": "composition (irreg.): 8 1/4 x 5 13/16\" (21 x 14.7 cm); page: 11 3/4 x 8 9/16\" (29.8 x 21.7 cm)",
-            "Publisher": "Johannes Presse, Vienna",
-            "Printer": "Koch & Werner, Vienna",
-            "Edition": "43 (including 40 numbered 1-40 and 3 numbered I-III with 2 supplementary suites of trial proofs)",
-            "Credit": "Gift of the Author",
-            "Object number": "29.1966.3",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Illustrated book": "Immer und Immer (Again and Again)",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/3276"
-    },
-    {
-        "Artist": "Alfred Kubin",
-        "Title": "Untitled (plate, folio 9) from Immer und Immer (Again and Again)",
-        "Year": "1937",
-        "ObjectID": "10061",
-        "Work": "https://www.moma.org/collection/works/10061",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyNzg5OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9941ef13ad478ec1",
-        "Details": {
-            "Author": "Max Roden",
-            "Medium": "One from an illustrated book with seven lithographs",
-            "Dimensions": "composition (irreg.): 8 1/16 x 5 13/16\" (20.4 x 14.8 cm); page: 11 3/4 x 8 9/16\" (29.8 x 21.7 cm)",
-            "Publisher": "Johannes Presse, Vienna",
-            "Printer": "Koch & Werner, Vienna",
-            "Edition": "43 (including 40 numbered 1-40 and 3 numbered I-III with 2 supplementary suites of trial proofs)",
-            "Credit": "Gift of the Author",
-            "Object number": "29.1966.4",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Illustrated book": "Immer und Immer (Again and Again)",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/3276"
-    },
-    {
-        "Artist": "Alfred Kubin",
-        "Title": "Untitled (plate, folio 11) from Immer und Immer (Again and Again)",
-        "Year": "1937",
-        "ObjectID": "10062",
-        "Work": "https://www.moma.org/collection/works/10062",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyNzkwMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=464f5182bf183984",
-        "Details": {
-            "Author": "Max Roden",
-            "Medium": "One from an illustrated book with seven lithographs",
-            "Dimensions": "composition (irreg.): 8 5/16 x 6 3/16\" (21.1 x 15.7 cm); page: 11 3/4 x 8 9/16\" (29.8 x 21.7 cm)",
-            "Publisher": "Johannes Presse, Vienna",
-            "Printer": "Koch & Werner, Vienna",
-            "Edition": "43 (including 40 numbered 1-40 and 3 numbered I-III with 2 supplementary suites of trial proofs)",
-            "Credit": "Gift of the Author",
-            "Object number": "29.1966.5",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Illustrated book": "Immer und Immer (Again and Again)",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/3276"
-    },
-    {
-        "Artist": "Alfred Kubin",
-        "Title": "Untitled (plate, folio 13) from Immer und Immer (Again and Again)",
-        "Year": "1937",
-        "ObjectID": "10063",
-        "Work": "https://www.moma.org/collection/works/10063",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyNzkzNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=66a01b4bb6d06e62",
-        "Details": {
-            "Author": "Max Roden",
-            "Medium": "One from an illustrated book with seven lithographs",
-            "Dimensions": "composition (irreg.): 7 1/2 x 5 15/16\" (19.1 x 15.1 cm); page: 11 3/4 x 8 9/16\" (29.8 x 21.7 cm)",
-            "Publisher": "Johannes Presse, Vienna",
-            "Printer": "Koch & Werner, Vienna",
-            "Edition": "43 (including 40 numbered 1-40 and 3 numbered I-III with 2 supplementary suites of trial proofs)",
-            "Credit": "Gift of the Author",
-            "Object number": "29.1966.6",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Illustrated book": "Immer und Immer (Again and Again)",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/3276"
-    },
-    {
-        "Artist": "Alfred Kubin",
-        "Title": "Untitled (vignette, folio 5) from Immer und Immer (Again and Again)",
-        "Year": "1937",
-        "ObjectID": "10064",
-        "Work": "https://www.moma.org/collection/works/10064",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyNzkzOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=bdd9d31cafe6fd13",
-        "Details": {
-            "Author": "Max Roden",
-            "Medium": "One from an illustrated book with seven lithographs",
-            "Dimensions": "composition (irreg.): 5 1/2 x 1 3/4\" (13.9 x 4.5 cm); page: 11 3/4\" (29.8 cm)",
-            "Publisher": "Johannes Presse, Vienna",
-            "Printer": "Koch & Werner, Vienna",
-            "Edition": "43 (including 40 numbered 1-40 and 3 numbered I-III with 2 supplementary suites of trial proofs)",
-            "Credit": "Gift of the Author",
-            "Object number": "29.1966.7",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Illustrated book": "Immer und Immer (Again and Again)",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/3276"
-    },
-    {
-        "Artist": "Dorothea Lange",
-        "Title": "Cotton Hoers",
-        "Year": "1937",
-        "ObjectID": "44265",
-        "Work": "https://www.moma.org/collection/works/44265",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMTQ4OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b7da352a3dd3c74a",
+        "Artist": "Andre Carneiro",
+        "Title": "Rails (Trilhos)",
+        "Year": "1951",
+        "ObjectID": "203212",
+        "Work": "https://www.moma.org/collection/works/203212",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM1MTE3MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=71b01b40d1ebdcc6",
         "Details": {
             "Medium": "Gelatin silver print",
-            "Dimensions": "7 7/8 \u00d7 7 5/8\" (20 \u00d7 19.4 cm)",
-            "Credit": "Gift of the Farm Security Administration",
-            "Object number": "31.1943",
+            "Dimensions": "11 5/8 \u00d7 15 9/16\" (29.6 \u00d7 39.6 cm)",
+            "Credit": "Acquired through the generosity of Jos\u00e9 Olympio da Veiga Pereira through the Latin American and Caribbean Fund",
+            "Object number": "278.2016",
             "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/3373"
+        "Profile": "https://www.moma.org/artists/49595"
     },
     {
-        "Artist": "Dorothea Lange",
-        "Title": "Ex-Tenant Farmer on Relief Grant in the Imperial Valley, California",
-        "Year": "March 1937",
-        "ObjectID": "44446",
-        "Work": "https://www.moma.org/collection/works/44446",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMTQ5MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0281dea6d80c4955",
+        "Artist": "Henri Cartier-Bresson",
+        "Title": "Scanno, Italy",
+        "Year": "1951",
+        "ObjectID": "110308",
+        "Work": "https://www.moma.org/collection/works/110308",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNjY4NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=205a803f657c0cca",
         "Details": {
             "Medium": "Gelatin silver print",
-            "Dimensions": "7 5/8 \u00d7 9 1/2\" (19.4 \u00d7 24.1 cm)",
-            "Credit": "Gift of the Farm Security Administration",
-            "Object number": "38.1941",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/3373"
-    },
-    {
-        "Artist": "Dorothea Lange",
-        "Title": "Drought Refugee, California",
-        "Year": "March 1937",
-        "ObjectID": "44495",
-        "Work": "https://www.moma.org/collection/works/44495",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMTQ5MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7ca6d0745fd7488c",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "9 1/2 \u00d7 7 1/2\" (24.1 \u00d7 19 cm)",
-            "Credit": "Gift of the Farm Security Administration",
-            "Object number": "40.1941",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/3373"
-    },
-    {
-        "Artist": "Dorothea Lange",
-        "Title": "On the Road to Los Angeles, California",
-        "Year": "March 1937",
-        "ObjectID": "44521",
-        "Work": "https://www.moma.org/collection/works/44521",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzMzc3NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0994eca4cfe57b89",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "8 1/16 \u00d7 7 3/4\" (20.4 \u00d7 19.7 cm)",
-            "Credit": "Gift of the Farm Security Administration",
-            "Object number": "41.1941",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/3373"
-    },
-    {
-        "Artist": "Dorothea Lange",
-        "Title": "Sharecropper's Family, Georgia",
-        "Year": "July 1937",
-        "ObjectID": "44637",
-        "Work": "https://www.moma.org/collection/works/44637",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMTQ5OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d2b54978b1e25057",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "7 1/2 \u00d7 9 1/2\" (19 \u00d7 24.1 cm)",
-            "Credit": "Gift of the Farm Security Administration",
-            "Object number": "44.1941",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/3373"
-    },
-    {
-        "Artist": "Dorothea Lange",
-        "Title": "Young Mother, a Migrant, California",
-        "Year": "March 1937",
-        "ObjectID": "44664",
-        "Work": "https://www.moma.org/collection/works/44664",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMTUwMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=af7dc54d541efae0",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "7 5/8 \u00d7 8 5/8\" (19.4 \u00d7 21.9 cm)",
-            "Credit": "Gift of the Farm Security Administration",
-            "Object number": "45.1941",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/3373"
-    },
-    {
-        "Artist": "Dorothea Lange",
-        "Title": "Ex-Tenant Farmer on Relief Grant in the Imperial Valley, California",
-        "Year": "March 1937",
-        "ObjectID": "46358",
-        "Work": "https://www.moma.org/collection/works/46358",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMjA0NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2eb7a442765224b3",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "12 \u00d7 9 7/8\" (30.5 \u00d7 25.1 cm)",
-            "Credit": "Gift of Albert M. Bender",
-            "Object number": "107.1940",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/3373"
-    },
-    {
-        "Artist": "Dorothea Lange",
-        "Title": "Kern County, California",
-        "Year": "1937",
-        "ObjectID": "51014",
-        "Work": "https://www.moma.org/collection/works/51014",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1OTQ4NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8c38cb132dab8a00",
-        "Details": {
-            "Medium": "Gelatin silver print, printed 1965",
-            "Dimensions": "12 1/2 \u00d7 13 13/16\" (31.7 \u00d7 35.1 cm)",
-            "Credit": "Purchase",
-            "Object number": "332.1995",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/3373"
-    },
-    {
-        "Artist": "Dorothea Lange",
-        "Title": "Calipatria, California",
-        "Year": "February 1937",
-        "ObjectID": "51134",
-        "Work": "https://www.moma.org/collection/works/51134",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzNzU4MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=58ca3d5545f5c71f",
-        "Details": {
-            "Medium": "Gelatin silver print, printed 1965",
-            "Dimensions": "11 1/4 \u00d7 13 5/16\" (28.6 \u00d7 33.9 cm)",
-            "Credit": "Purchase",
-            "Object number": "336.1995",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/3373"
-    },
-    {
-        "Artist": "Dorothea Lange",
-        "Title": "Jobless on the Edge of a Peafield, Imperial Valley, California",
-        "Year": "February 1937",
-        "ObjectID": "51211",
-        "Work": "https://www.moma.org/collection/works/51211",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzNzU4MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=af0a427734d272df",
-        "Details": {
-            "Medium": "Gelatin silver print, printed 1965",
-            "Dimensions": "16 15/16 \u00d7 15 3/4\" (43 \u00d7 40.1 cm)",
-            "Credit": "Purchase",
-            "Object number": "338.1995",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/3373"
-    },
-    {
-        "Artist": "Dorothea Lange",
-        "Title": "Hoeing, near Yazoo City, Mississippi",
-        "Year": "June 1937",
-        "ObjectID": "52347",
-        "Work": "https://www.moma.org/collection/works/52347",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzNzU4NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=349de9225142f845",
-        "Details": {
-            "Medium": "Gelatin silver print, printed 1965",
-            "Dimensions": "16 13/16 \u00d7 21 1/2\" (42.7 \u00d7 54.7 cm)",
-            "Credit": "Purchase",
-            "Object number": "388.1995",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/3373"
-    },
-    {
-        "Artist": "Dorothea Lange",
-        "Title": "Arkansas Sharecroppers",
-        "Year": "1936-37",
-        "ObjectID": "52614",
-        "Work": "https://www.moma.org/collection/works/52614",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1OTU1MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9997e377c9f28294",
-        "Details": {
-            "Medium": "Gelatin silver print, printed 1965",
-            "Dimensions": "12 3/4 \u00d7 15 7/16\" (32.4 \u00d7 39.2 cm)",
-            "Credit": "Purchase",
-            "Object number": "400.1995",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/3373"
-    },
-    {
-        "Artist": "Dorothea Lange",
-        "Title": "Unemployed Farm Workers, Stockton, California",
-        "Year": "1937",
-        "ObjectID": "52877",
-        "Work": "https://www.moma.org/collection/works/52877",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzNzU5MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=27c0a93091feaa7f",
-        "Details": {
-            "Medium": "Gelatin silver print, printed 1965",
-            "Dimensions": "18 3/4 \u00d7 15 7/8\" (47.7 \u00d7 40.4 cm)",
-            "Credit": "Purchase",
-            "Object number": "410.1995",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/3373"
-    },
-    {
-        "Artist": "Dorothea Lange",
-        "Title": "Unemployed Farm Workers, Stockton, California",
-        "Year": "1937",
-        "ObjectID": "52892",
-        "Work": "https://www.moma.org/collection/works/52892",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMDM5NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=362a74c7b6601537",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "10 3/8 \u00d7 13 5/16\" (26.3 \u00d7 33.9 cm)",
-            "Credit": "Purchase",
-            "Object number": "411.1995",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/3373"
-    },
-    {
-        "Artist": "Dorothea Lange",
-        "Title": "Unemployed Farm Workers, Stockton, California",
-        "Year": "1937",
-        "ObjectID": "52936",
-        "Work": "https://www.moma.org/collection/works/52936",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMTYyNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d21e26ed82f24c50",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "7 1/4 \u00d7 6 7/16\" (18.5 \u00d7 16.3 cm)",
-            "Credit": "Purchase",
-            "Object number": "412.1995",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/3373"
-    },
-    {
-        "Artist": "Dorothea Lange",
-        "Title": "Five Tenant Farmers without Farms, Hardeman County, Texas",
-        "Year": "1937",
-        "ObjectID": "53171",
-        "Work": "https://www.moma.org/collection/works/53171",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMjIxNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6648f26d15b6f2d7",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "10 1/8 \u00d7 12 15/16\" (25.8 \u00d7 32.9 cm)",
-            "Credit": "Purchase",
-            "Object number": "422.1995",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/3373"
-    },
-    {
-        "Artist": "Dorothea Lange",
-        "Title": "Unemployed Farm Workers, Stockton, California",
-        "Year": "1937",
-        "ObjectID": "55678",
-        "Work": "https://www.moma.org/collection/works/55678",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMDc3MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=eb04f99504cee00e",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "10 5/16 \u00d7 13 1/4\" (26.2 \u00d7 33.7 cm)",
-            "Credit": "Purchase",
-            "Object number": "628.1995",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/3373"
-    },
-    {
-        "Artist": "Dorothea Lange",
-        "Title": "Drought Refugee, California",
-        "Year": "March 1937",
-        "ObjectID": "55775",
-        "Work": "https://www.moma.org/collection/works/55775",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxOTEwNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ac8e8a8cf29d05fc",
-        "Details": {
-            "Medium": "Gelatin silver print, printed 1949",
-            "Dimensions": "13 9/16 \u00d7 10 9/16\" (34.5 \u00d7 26.8 cm)",
+            "Dimensions": "13 3/4 \u00d7 9 5/16\" (35 \u00d7 23.7 cm)",
             "Credit": "Gift of the artist",
-            "Object number": "641.1995",
+            "Object number": "140.2009",
+            "Copyright": "\u00a9 2023 Henri Cartier-Bresson/Magnum Photos, courtesy Fondation Henri Cartier-Bresson, Paris",
             "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/3373"
+        "Profile": "https://www.moma.org/artists/1000"
     },
     {
-        "Artist": "Dorothea Lange",
-        "Title": "Greene County, Georgia",
-        "Year": "July 1937",
-        "ObjectID": "56390",
-        "Work": "https://www.moma.org/collection/works/56390",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1OTMzNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=95b16f17644bd31a",
+        "Artist": "Henri Cartier-Bresson",
+        "Title": "Rome",
+        "Year": "1951",
+        "ObjectID": "110776",
+        "Work": "https://www.moma.org/collection/works/110776",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1OTM3MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b0e3521c7788d8c5",
         "Details": {
-            "Medium": "Gelatin silver print, printed 1965",
-            "Dimensions": "4 5/16 \u00d7 5 3/8\" (11 \u00d7 13.6 cm)",
-            "Credit": "Purchase",
-            "Object number": "782.1968",
+            "Medium": "Gelatin silver print, printed 1968",
+            "Dimensions": "15 3/16 \u00d7 10 1/4\" (38.6 \u00d7 26 cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "139.2009",
+            "Copyright": "\u00a9 2023 Henri Cartier-Bresson/Magnum Photos, courtesy Fondation Henri Cartier-Bresson, Paris",
             "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/3373"
+        "Profile": "https://www.moma.org/artists/1000"
     },
     {
-        "Artist": "Dorothea Lange",
-        "Title": "Jobless on the Edge of a Peafield, Imperial Valley, California",
-        "Year": "February 1937",
-        "ObjectID": "56444",
-        "Work": "https://www.moma.org/collection/works/56444",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4MjMwOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=eab7f1bae15c1c1a",
+        "Artist": "Henri Cartier-Bresson",
+        "Title": "Briancon",
+        "Year": "1951",
+        "ObjectID": "110787",
+        "Work": "https://www.moma.org/collection/works/110787",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1OTM3MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fb735d9756ef52d4",
         "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "9 15/16 \u00d7 9 5/8\" (25.2 \u00d7 24.5 cm)",
-            "Credit": "Purchase",
-            "Object number": "797.1968",
+            "Medium": "Gelatin silver print, printed 1968",
+            "Dimensions": "15 3/16 \u00d7 10 3/16\" (38.6 \u00d7 25.9 cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "138.2009",
+            "Copyright": "\u00a9 2023 Henri Cartier-Bresson/Magnum Photos, courtesy Fondation Henri Cartier-Bresson, Paris",
             "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/3373"
+        "Profile": "https://www.moma.org/artists/1000"
     },
     {
-        "Artist": "Dorothea Lange",
-        "Title": "A Half-Hour Later, Hardeman County, Texas",
-        "Year": "1937",
-        "ObjectID": "56543",
-        "Work": "https://www.moma.org/collection/works/56543",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjk4OTciXSxbInAiLCJjb252ZXJ0IiwiLXF1YWxpdHkgOTAgLXJlc2l6ZSA1MTJ4NTEyXHUwMDNlIl1d.jpg?sha=cc44fb0007cccd61",
+        "Artist": "Henri Cartier-Bresson",
+        "Title": "Scanno, Italy",
+        "Year": "1951",
+        "ObjectID": "128826",
+        "Work": "https://www.moma.org/collection/works/128826",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NTY5MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=47b698bafa357029",
         "Details": {
-            "Medium": "Gelatin silver print, printed 1965",
-            "Dimensions": "12 1/8 \u00d7 15 3/16\" (30.8 \u00d7 38.6 cm)",
-            "Credit": "Purchase",
-            "Object number": "817.1968",
+            "Medium": "Gelatin silver print, printed 1950s",
+            "Dimensions": "13 3/4 \u00d7 9 1/2\" (35 \u00d7 24.1 cm)",
+            "Credit": "Acquired through the generosity of Andrew P. Pilara, Jr.",
+            "Object number": "516.2009",
+            "Copyright": "\u00a9 2023 Henri Cartier-Bresson/Magnum Photos, courtesy Fondation Henri Cartier-Bresson, Paris",
             "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/3373"
+        "Profile": "https://www.moma.org/artists/1000"
     },
     {
-        "Artist": "Dorothea Lange",
-        "Title": "Young Sharecropper, Macon County, Georgia",
-        "Year": "July 1937",
-        "ObjectID": "56548",
-        "Work": "https://www.moma.org/collection/works/56548",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwOTMxNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e14d54b455028acd",
+        "Artist": "Henri Cartier-Bresson",
+        "Title": "Richard Avedon, Carmel Snow, and Marie-Louise Bousquet, Paris",
+        "Year": "1951",
+        "ObjectID": "129915",
+        "Work": "https://www.moma.org/collection/works/129915",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNzI3MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b7b733097a85abc6",
         "Details": {
-            "Medium": "Gelatin silver print, printed 1965",
-            "Dimensions": "11 3/4 \u00d7 11 3/4\" (29.8 \u00d7 29.9 cm)",
-            "Credit": "Purchase",
-            "Object number": "818.1968",
+            "Medium": "Gelatin silver print, printed 1980",
+            "Dimensions": "4 7/16 \u00d7 6 5/8\" (11.3 \u00d7 16.8 cm)",
+            "Credit": "Committee on Photography Fund",
+            "Object number": "1234.2009",
+            "Copyright": "\u00a9 2023 Henri Cartier-Bresson/Magnum Photos, courtesy Fondation Henri Cartier-Bresson, Paris",
             "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/3373"
+        "Profile": "https://www.moma.org/artists/1000"
     },
     {
-        "Artist": "Dorothea Lange",
-        "Title": "Six Tenant Farmers without Farms, Hardeman County, Texas",
-        "Year": "1937",
-        "ObjectID": "56657",
-        "Work": "https://www.moma.org/collection/works/56657",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwOTMyNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=24b9bf04ea1812d4",
+        "Artist": "Federico Castellon",
+        "Title": "Street Brawl",
+        "Year": "1951",
+        "ObjectID": "64703",
+        "Work": "https://www.moma.org/collection/works/64703",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5NTc4MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=24e3836f2848e88a",
         "Details": {
-            "Medium": "Gelatin silver print, printed 1965",
-            "Dimensions": "12 15/16 \u00d7 16 5/8\" (32.9 \u00d7 42.2 cm)",
-            "Credit": "Purchase",
-            "Object number": "836.1968",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/3373"
-    },
-    {
-        "Artist": "Dorothea Lange",
-        "Title": "One Man, One Mule, Greene County, Georgia",
-        "Year": "July 1937",
-        "ObjectID": "56890",
-        "Work": "https://www.moma.org/collection/works/56890",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwOTMzNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=44cbd705adeb7932",
-        "Details": {
-            "Medium": "Gelatin silver print, printed 1965",
-            "Dimensions": "16 15/16 \u00d7 21 5/8\" (43.1 \u00d7 55 cm)",
-            "Credit": "Purchase",
-            "Object number": "846.1968",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/3373"
-    },
-    {
-        "Artist": "Fritz Lang",
-        "Title": "You Only Live Once",
-        "Year": "1937",
-        "ObjectID": "300698",
-        "Work": "https://www.moma.org/collection/works/300698",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyNzE0OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=eb2761b8900fed6b",
-        "Details": {
-            "Producer": "Walter Wanger",
-            "Credit": "Preserved from original materials on loan from Walter Wanger",
-            "Object number": "W2076",
-            "Department": "Film"
-        },
-        "Profile": "https://www.moma.org/artists/32299"
-    },
-    {
-        "Artist": "Ibram Lassaw",
-        "Title": "Untitled from American Abstract Artists",
-        "Year": "1937",
-        "ObjectID": "69814",
-        "Work": "https://www.moma.org/collection/works/69814",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNjQxOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3647da351495d51a",
-        "Details": {
-            "Medium": "One from a portfolio of thirty-one lithographs",
-            "Dimensions": "composition (irreg.): 5 7/8 \u00d7 8 1/4\" (15 \u00d7 21 cm); sheet: 9 1/8 \u00d7 11 15/16\" (23.1 \u00d7 30.4 cm)",
-            "Publisher": "Squibb Galleries, New York",
-            "Printer": "Cane Press, New York",
-            "Edition": "500",
-            "Credit": "Gift of Stephen B. Browne in honor of Byron and Rosalind Browne",
-            "Object number": "480.1986.17",
-            "Portfolio": "American Abstract Artists",
+            "Medium": "Etching and aquatint",
+            "Dimensions": "plate: 10 15/16 x 9 3/16\" (27.8 x 23.4 cm); sheet: 13 3/8 x 12 11/16\" (34 x 32.2 cm)",
+            "Edition": "50",
+            "Credit": "Purchase fund",
+            "Object number": "224.1952",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/3400"
+        "Profile": "https://www.moma.org/artists/1027"
     },
     {
-        "Artist": "Marie Laurencin",
-        "Title": "Camille: La Dame aux camelias",
-        "Year": "1937",
-        "ObjectID": "26944",
-        "Work": "https://www.moma.org/collection/works/26944",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQzNDU3MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=79c145ca12d32a6d",
+        "Artist": "Marc Chagall",
+        "Title": "New Year's Card",
+        "Year": "1951",
+        "ObjectID": "61109",
+        "Work": "https://www.moma.org/collection/works/61109",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5NTg3MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1f180072fcf8f1ef",
         "Details": {
-            "Author": "Alexandre Dumas, Fils",
-            "Medium": "Illustrated book with twelve collotypes after watercolors",
-            "Dimensions": "page (each approx.): 10 5/8 \u00d7 8 1/4\" (27 \u00d7 21 cm)",
-            "Publisher": "The Limited Editions Club, New York",
-            "Printer": "Chiswick Press, London",
-            "Edition": "1500",
-            "Credit": "The Louis E. Stern Collection",
-            "Object number": "877.1964",
+            "Medium": "Lithograph",
+            "Dimensions": "composition: 10 1/4 x 7 7/8\" (26 x 20cm); sheet: 11 13/16 x 9 7/16\" (30 x 24cm)",
+            "Credit": "Given anonymously",
+            "Object number": "60.1952",
             "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/3408"
+        "Profile": "https://www.moma.org/artists/1055"
     },
     {
-        "Artist": "Le Corbusier (Charles-Edouard Jeanneret)",
-        "Title": "Le Corbusier, Oeuvre Plastique 1919-1937",
-        "Year": "1937",
-        "ObjectID": "5382",
-        "Work": "https://www.moma.org/collection/works/5382",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNzcwMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ab08daf3021b3f91",
+        "Artist": "Lygia Clark",
+        "Title": "Untitled",
+        "Year": "1951",
+        "ObjectID": "132509",
+        "Work": "https://www.moma.org/collection/works/132509",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQzMjkyMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=eb3edc2d93f8b342",
         "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "39 3/8 x 27 3/4\" (100 x 70.3 cm)",
-            "Printer": "J. C. M\u00fcller A.G., Z\u00fcrich",
-            "Credit": "Gift of the artist",
-            "Object number": "159.1952",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris / FLC",
+            "Medium": "Charcoal on notebook paper",
+            "Dimensions": "21 1/4 x 14 3/8\" (54 x 36.5 cm) (irreg)",
+            "Credit": "Gift of Alvaro Clark and Sandra Brito",
+            "Object number": "1672.2009",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/27445"
+    },
+    {
+        "Artist": "Ettore Colla",
+        "Title": "Continuity",
+        "Year": "1951",
+        "ObjectID": "81290",
+        "Work": "https://www.moma.org/collection/works/81290",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwODY3OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7001d51a5b25c585",
+        "Details": {
+            "Medium": "Iron",
+            "Dimensions": "7' 11 5/8\" x 56\" x 39\" (242.8 x 142.2 x 99 cm)",
+            "Credit": "Purchase",
+            "Object number": "285.1961",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/1187"
+    },
+    {
+        "Artist": "Edward Condak",
+        "Title": "Marco 8-cup Coffee Percolator",
+        "Year": "c.1946",
+        "ObjectID": "1972",
+        "Work": "https://www.moma.org/collection/works/1972",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNjM4MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1c602edc29afa40d",
+        "Details": {
+            "Manufacturer": "Mardigian Corp., Detroit, MI",
+            "Medium": "Aluminum",
+            "Dimensions": "7 1/2 x 5 3/8\" (19 x 13.7 cm)",
+            "Credit": "Gift of the manufacturer",
+            "Object number": "70.1948",
             "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/3426"
+        "Profile": "https://www.moma.org/artists/1207"
     },
     {
-        "Artist": "Russell Lee",
-        "Title": "Two of the Bodray Children in their Home near Tipler, Wisconsin, Farm Children, Cut-Over Regions, Wisconsin",
-        "Year": "May 1937",
-        "ObjectID": "44718",
-        "Work": "https://www.moma.org/collection/works/44718",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNzMwNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b569416e00cbe340",
+        "Artist": "Terence Conran",
+        "Title": "Chequers (Furnishing fabric)",
+        "Year": "1951",
+        "ObjectID": "196743",
+        "Work": "https://www.moma.org/collection/works/196743",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5NzM0OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=dce5e311a6ff5da9",
+        "Details": {
+            "Manufacturer": "David Whitehead Ltd., U.K.",
+            "Medium": "Screenprinted cotton satin",
+            "Dimensions": "40 \u00d7 44\" (101.6 \u00d7 111.8 cm)",
+            "Credit": "Jill A. Wiltse and H. Kirk Brown III Collection, Gift of the Committee on Architecture and Design Funds",
+            "Object number": "1083.2015",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/48787"
+    },
+    {
+        "Artist": "Edward Corbett",
+        "Title": "Number 15",
+        "Year": "1951",
+        "ObjectID": "33484",
+        "Work": "https://www.moma.org/collection/works/33484",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Chalk and casein on paper",
+            "Dimensions": "28 x 15\" (71.1 x 38.1 cm)",
+            "Credit": "Purchase",
+            "Object number": "43.1952",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1240"
+    },
+    {
+        "Artist": "Edward Corbett",
+        "Title": "Number 11",
+        "Year": "1951",
+        "ObjectID": "33491",
+        "Work": "https://www.moma.org/collection/works/33491",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3OTMwMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f7f1bbad767d1905",
+        "Details": {
+            "Medium": "Chalk  on paper",
+            "Dimensions": "36 x 24 1/8\" (91.4 x 61.3 cm)",
+            "Credit": "Katharine Cornell Fund",
+            "Object number": "44.1952",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1240"
+    },
+    {
+        "Artist": "Corning Glass Works, Corning, NY",
+        "Title": "Baking Dish",
+        "Year": "1949",
+        "ObjectID": "3038",
+        "Work": "https://www.moma.org/collection/works/3038",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMDg3NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0d404eb542d53695",
+        "Details": {
+            "Manufacturer": "Corning Glass Works, Corning, NY",
+            "Medium": "Borosilicate glass",
+            "Dimensions": "2 1/4 x 10 1/8 x 8 5/8\" (5.7 x 25.7 x 21.9 cm)",
+            "Credit": "Gift of Greta Daniel",
+            "Object number": "247.1953",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/1249"
+    },
+    {
+        "Artist": "Lucien Coutaud",
+        "Title": "Une Saison en Enfer",
+        "Year": "1951",
+        "ObjectID": "28440",
+        "Work": "https://www.moma.org/collection/works/28440",
+        "Thumbnail": null,
+        "Details": {
+            "Author": "Arthur Rimbaud",
+            "Medium": "Illustrated book with seven etchings",
+            "Dimensions": "page: 9 3/4 x 6 7/16\" (24.7 x 16.3 cm)",
+            "Publisher": "Bibliophiles de France, Paris, Overseas Book-Lovers, New York",
+            "Printer": "Ateliers Paul Haasen, Paris",
+            "Edition": "Book: 100 (numbered 1-100 on Arches); Portfolio: 50 (30 on filter-paper with remarques; 20 on black Canson)",
+            "Credit": "Purchase",
+            "Object number": "929.1969.1-7",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1276"
+    },
+    {
+        "Artist": "Rollin Crampton",
+        "Title": "Premise",
+        "Year": "c. 1950-51",
+        "ObjectID": "80709",
+        "Work": "https://www.moma.org/collection/works/80709",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MDAzNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=94e938db51c0b47b",
+        "Details": {
+            "Medium": "Oil on canvas",
+            "Dimensions": "50 1/8 x 36\" (127.1 x 91.4 cm)",
+            "Credit": "Larry Aldrich Foundation Fund",
+            "Object number": "2519.1967",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/1291"
+    },
+    {
+        "Artist": "Ralston Crawford",
+        "Title": "Cologne Landscape #6",
+        "Year": "1951",
+        "ObjectID": "61691",
+        "Work": "https://www.moma.org/collection/works/61691",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNDc2NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=161fbd916cc639d2",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition: 14 15/16 x 21 3/16\" (38 x 53.8cm); sheet: 19 3/4 x 25 3/4\" (50.2 x 65.4cm)",
+            "Printer": "Desjobert, Paris",
+            "Edition": "19",
+            "Credit": "Purchase",
+            "Object number": "92.1952",
+            "Copyright": "\u00a9 2023 Ralston Crawford Estate",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1298"
+    },
+    {
+        "Artist": "Imogen Cunningham",
+        "Title": "Effect at Sunset",
+        "Year": "1951",
+        "ObjectID": "47189",
+        "Work": "https://www.moma.org/collection/works/47189",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4NDAwMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c2f2403c5e81eb86",
         "Details": {
             "Medium": "Gelatin silver print",
-            "Dimensions": "7 3/8 \u00d7 9 5/8\" (18.7 \u00d7 24.4 cm)",
-            "Credit": "Gift of the Farm Security Administration",
-            "Object number": "47.1941",
+            "Dimensions": "9 1/2 \u00d7 7 3/8\" (24.1 \u00d7 18.7 cm)",
+            "Credit": "Gift of Robert M. Doty",
+            "Object number": "168.1969",
+            "Copyright": "\u00a9 2023 Estate of Imogen Cunningham",
             "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/3455"
+        "Profile": "https://www.moma.org/artists/1332"
+    },
+    {
+        "Artist": "Louise Dahl-Wolfe",
+        "Title": "Jamaica",
+        "Year": "1951",
+        "ObjectID": "58948",
+        "Work": "https://www.moma.org/collection/works/58948",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMTgwMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c8085c4f67378f9d",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "10 3/4 \u00d7 10 3/4\" (27.3 \u00d7 27.3 cm)",
+            "Credit": "The Ben Schultz Memorial Collection. Gift of the photographer",
+            "Object number": "2677.1967",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/1357"
+    },
+    {
+        "Artist": "Salvador Dali",
+        "Title": "Plate (supplementary suite) from Manifeste Mystique (Mystic Manifesto)",
+        "Year": "1951",
+        "ObjectID": "23634",
+        "Work": "https://www.moma.org/collection/works/23634",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MzMyOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e78f89e43e70fbc2",
+        "Details": {
+            "Author": "Salvador Dal\u00ed",
+            "Medium": "Etching from the supplementary suite of an illustrated book with twenty letterpress plates and a supplementary suite of ten etchings",
+            "Dimensions": "plate: 13 13/16 \u00d7 10 3/16\" (35.1 \u00d7 25.8 cm); sheet: 14 15/16 \u00d7 11 3/16\" (37.9 \u00d7 28.4 cm)",
+            "Publisher": "\u00c9ditions Robert-J. Godet, Paris",
+            "Printer": "Atelier Georges Leblanc, Paris",
+            "Edition": "175",
+            "Credit": "The Louis E. Stern Collection",
+            "Object number": "772.1964.B1",
+            "Copyright": "\u00a9 2023 Salvador Dal\u00ed, Gala-Salvador Dal\u00ed Foundation / Artists Rights Society (ARS), New York",
+            "Illustrated book": "Manifeste Mystique (Mystic Manifesto)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1364"
+    },
+    {
+        "Artist": "Salvador Dali",
+        "Title": "Plate (supplementary suite) from Manifeste Mystique (Mystic Manifesto)",
+        "Year": "1951",
+        "ObjectID": "23636",
+        "Work": "https://www.moma.org/collection/works/23636",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MzMzNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6dd17abbb011807e",
+        "Details": {
+            "Author": "Salvador Dal\u00ed",
+            "Medium": "Etching from the supplementary suite of an illustrated book with twenty letterpress plates and a supplementary suite of ten etchings",
+            "Dimensions": "plate: 5 3/4 \u00d7 8 1/8\" (14.6 \u00d7 20.6 cm); sheet: 15 1/16 \u00d7 11\" (38.2 \u00d7 28 cm)",
+            "Publisher": "\u00c9ditions Robert-J. Godet, Paris",
+            "Printer": "Atelier Georges Leblanc, Paris",
+            "Edition": "175",
+            "Credit": "The Louis E. Stern Collection",
+            "Object number": "772.1964.B10",
+            "Copyright": "\u00a9 2023 Salvador Dal\u00ed, Gala-Salvador Dal\u00ed Foundation / Artists Rights Society (ARS), New York",
+            "Illustrated book": "Manifeste Mystique (Mystic Manifesto)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1364"
+    },
+    {
+        "Artist": "Salvador Dali",
+        "Title": "Plate (supplementary suite) from Manifeste Mystique (Mystic Manifesto)",
+        "Year": "1951",
+        "ObjectID": "23637",
+        "Work": "https://www.moma.org/collection/works/23637",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MzMzNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0edd8bd9e62a8386",
+        "Details": {
+            "Author": "Salvador Dal\u00ed",
+            "Medium": "Etching from the supplementary suite of an illustrated book with twenty letterpress plates and a supplementary suite of ten etchings",
+            "Dimensions": "plate: 5 7/8 \u00d7 8 1/8\" (14.9 \u00d7 20.6 cm); sheet: 14 15/16 \u00d7 11 3/16\" (38 \u00d7 28.4 cm)",
+            "Publisher": "\u00c9ditions Robert-J. Godet, Paris",
+            "Printer": "Atelier Georges Leblanc, Paris",
+            "Edition": "175",
+            "Credit": "The Louis E. Stern Collection",
+            "Object number": "772.1964.B2",
+            "Copyright": "\u00a9 2023 Salvador Dal\u00ed, Gala-Salvador Dal\u00ed Foundation / Artists Rights Society (ARS), New York",
+            "Illustrated book": "Manifeste Mystique (Mystic Manifesto)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1364"
+    },
+    {
+        "Artist": "Salvador Dali",
+        "Title": "Plate (supplementary suite) from Manifeste Mystique (Mystic Manifesto)",
+        "Year": "1951",
+        "ObjectID": "23638",
+        "Work": "https://www.moma.org/collection/works/23638",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MzMzNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c508c063d24ff5fc",
+        "Details": {
+            "Author": "Salvador Dal\u00ed",
+            "Medium": "Etching from the supplementary suite of an illustrated book with twenty letterpress plates and a supplementary suite of ten etchings",
+            "Dimensions": "plate: 14 1/16 \u00d7 9 15/16\" (35.7 \u00d7 25.3 cm); sheet: 15 3/16 \u00d7 11 1/8\" (38.5 \u00d7 28.2 cm)",
+            "Publisher": "\u00c9ditions Robert-J. Godet, Paris",
+            "Printer": "Atelier Georges Leblanc, Paris",
+            "Edition": "175",
+            "Credit": "The Louis E. Stern Collection",
+            "Object number": "772.1964.B3",
+            "Copyright": "\u00a9 2023 Salvador Dal\u00ed, Gala-Salvador Dal\u00ed Foundation / Artists Rights Society (ARS), New York",
+            "Illustrated book": "Manifeste Mystique (Mystic Manifesto)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1364"
+    },
+    {
+        "Artist": "Salvador Dali",
+        "Title": "Plate (supplementary suite) from Manifeste Mystique (Mystic Manifesto)",
+        "Year": "1951",
+        "ObjectID": "23639",
+        "Work": "https://www.moma.org/collection/works/23639",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MzMzNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2429c01372779d7f",
+        "Details": {
+            "Author": "Salvador Dal\u00ed",
+            "Medium": "Etching from the supplementary suite of an illustrated book with twenty letterpress plates and a supplementary suite of ten etchings",
+            "Dimensions": "plate: 14 1/16 \u00d7 9 15/16\" (35.7 \u00d7 25.3 cm); sheet: 15 1/16 \u00d7 11\" (38.2 \u00d7 28 cm)",
+            "Publisher": "\u00c9ditions Robert-J. Godet, Paris",
+            "Printer": "Atelier Georges Leblanc, Paris",
+            "Edition": "175",
+            "Credit": "The Louis E. Stern Collection",
+            "Object number": "772.1964.B4",
+            "Copyright": "\u00a9 2023 Salvador Dal\u00ed, Gala-Salvador Dal\u00ed Foundation / Artists Rights Society (ARS), New York",
+            "Illustrated book": "Manifeste Mystique (Mystic Manifesto)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1364"
+    },
+    {
+        "Artist": "Salvador Dali",
+        "Title": "Plate (supplementary suite) from Manifeste Mystique (Mystic Manifesto)",
+        "Year": "1951",
+        "ObjectID": "23640",
+        "Work": "https://www.moma.org/collection/works/23640",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MzMzOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ae1a23b5c30cfa5a",
+        "Details": {
+            "Author": "Salvador Dal\u00ed",
+            "Medium": "Etching from the supplementary suite of an illustrated book with twenty letterpress plates and a supplementary suite of ten etchings",
+            "Dimensions": "plate: 14 1/16 \u00d7 9 15/16\" (35.7 \u00d7 25.2 cm); sheet: 14 15/16 \u00d7 11\" (38 \u00d7 28 cm)",
+            "Publisher": "\u00c9ditions Robert-J. Godet, Paris",
+            "Printer": "Atelier Georges Leblanc, Paris",
+            "Edition": "175",
+            "Credit": "The Louis E. Stern Collection",
+            "Object number": "772.1964.B5",
+            "Copyright": "\u00a9 2023 Salvador Dal\u00ed, Gala-Salvador Dal\u00ed Foundation / Artists Rights Society (ARS), New York",
+            "Illustrated book": "Manifeste Mystique (Mystic Manifesto)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1364"
+    },
+    {
+        "Artist": "Salvador Dali",
+        "Title": "Plate (supplementary suite) from Manifeste Mystique (Mystic Manifesto)",
+        "Year": "1951",
+        "ObjectID": "23641",
+        "Work": "https://www.moma.org/collection/works/23641",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MzMzOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5bbc929941fd8235",
+        "Details": {
+            "Author": "Salvador Dal\u00ed",
+            "Medium": "Etching from the supplementary suite of an illustrated book with twenty letterpress plates and a supplementary suite of ten etchings",
+            "Dimensions": "plate: 14 \u00d7 10 1/16\" (35.6 \u00d7 25.5 cm); sheet: 15 3/8 \u00d7 10 15/16\" (39 \u00d7 27.8 cm)",
+            "Publisher": "\u00c9ditions Robert-J. Godet, Paris",
+            "Printer": "Atelier Georges Leblanc, Paris",
+            "Edition": "175",
+            "Credit": "The Louis E. Stern Collection",
+            "Object number": "772.1964.B6",
+            "Copyright": "\u00a9 2023 Salvador Dal\u00ed, Gala-Salvador Dal\u00ed Foundation / Artists Rights Society (ARS), New York",
+            "Illustrated book": "Manifeste Mystique (Mystic Manifesto)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1364"
+    },
+    {
+        "Artist": "Salvador Dali",
+        "Title": "Plate (supplementary suite) from Manifeste Mystique (Mystic Manifesto)",
+        "Year": "1951",
+        "ObjectID": "23642",
+        "Work": "https://www.moma.org/collection/works/23642",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MzM0MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=32c67ea47f82cf23",
+        "Details": {
+            "Author": "Salvador Dal\u00ed",
+            "Medium": "Etching from the supplementary suite of an illustrated book with twenty letterpress plates and a supplementary suite of ten etchings",
+            "Dimensions": "plate: 5 13/16 \u00d7 8 1/16\" (14.8 \u00d7 20.5 cm); sheet: 14 15/16 \u00d7 11\" (38 \u00d7 27.9 cm)",
+            "Publisher": "\u00c9ditions Robert-J. Godet, Paris",
+            "Printer": "Atelier Georges Leblanc, Paris",
+            "Edition": "175",
+            "Credit": "The Louis E. Stern Collection",
+            "Object number": "772.1964.B7",
+            "Copyright": "\u00a9 2023 Salvador Dal\u00ed, Gala-Salvador Dal\u00ed Foundation / Artists Rights Society (ARS), New York",
+            "Illustrated book": "Manifeste Mystique (Mystic Manifesto)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1364"
+    },
+    {
+        "Artist": "Salvador Dali",
+        "Title": "Plate (supplementary suite) from Manifeste Mystique (Mystic Manifesto)",
+        "Year": "1951",
+        "ObjectID": "23643",
+        "Work": "https://www.moma.org/collection/works/23643",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MzM0MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=548c66745052ec88",
+        "Details": {
+            "Author": "Salvador Dal\u00ed",
+            "Medium": "Etching from the supplementary suite of an illustrated book with twenty letterpress plates and a supplementary suite of ten etchings",
+            "Dimensions": "plate: 5 13/16 \u00d7 8 1/16\" (14.8 \u00d7 20.5 cm); sheet: 15 \u00d7 10 15/16\" (38.1 \u00d7 27.8 cm)",
+            "Publisher": "\u00c9ditions Robert-J. Godet, Paris",
+            "Printer": "Atelier Georges Leblanc, Paris",
+            "Edition": "175",
+            "Credit": "The Louis E. Stern Collection",
+            "Object number": "772.1964.B8",
+            "Copyright": "\u00a9 2023 Salvador Dal\u00ed, Gala-Salvador Dal\u00ed Foundation / Artists Rights Society (ARS), New York",
+            "Illustrated book": "Manifeste Mystique (Mystic Manifesto)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1364"
+    },
+    {
+        "Artist": "Salvador Dali",
+        "Title": "Plate (supplementary suite) from Manifeste Mystique (Mystic Manifesto)",
+        "Year": "1951",
+        "ObjectID": "23644",
+        "Work": "https://www.moma.org/collection/works/23644",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MzM0MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=75857afc49aa9599",
+        "Details": {
+            "Author": "Salvador Dal\u00ed",
+            "Medium": "Etching from the supplementary suite of an illustrated book with twenty letterpress plates and a supplementary suite of ten etchings",
+            "Dimensions": "plate: 5 13/16 \u00d7 8 1/16\" (14.8 \u00d7 20.5 cm); sheet: 15 1/16 \u00d7 11\" (38.2 \u00d7 27.9 cm)",
+            "Publisher": "\u00c9ditions Robert-J. Godet, Paris",
+            "Printer": "Atelier Georges Leblanc, Paris",
+            "Edition": "175",
+            "Credit": "The Louis E. Stern Collection",
+            "Object number": "772.1964.B9",
+            "Copyright": "\u00a9 2023 Salvador Dal\u00ed, Gala-Salvador Dal\u00ed Foundation / Artists Rights Society (ARS), New York",
+            "Illustrated book": "Manifeste Mystique (Mystic Manifesto)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1364"
+    },
+    {
+        "Artist": "Salvador Dali",
+        "Title": "Mystic Manifesto (Manifeste mystique)",
+        "Year": "1951",
+        "ObjectID": "132616",
+        "Work": "https://www.moma.org/collection/works/132616",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2Mjc3NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5ee02350f01fc9b3",
+        "Details": {
+            "Medium": "Etching",
+            "Dimensions": "composition: 14 x 9 15/16\" (35.5 x 25.2 cm); sheet: 14 15/16 x 11\" (38 x 28 cm)",
+            "Publisher": "\u00c9ditions Robert-J. Godet, Paris",
+            "Printer": "Atelier Leblanc, Paris",
+            "Edition": "175",
+            "Credit": "Purchase",
+            "Object number": "27.1952.1",
+            "Copyright": "\u00a9 2023 Salvador Dal\u00ed, Gala-Salvador Dal\u00ed Foundation / Artists Rights Society (ARS), New York",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1364"
+    },
+    {
+        "Artist": "Salvador Dali",
+        "Title": "Mystic Manifesto (Manifeste mystique)",
+        "Year": "1951",
+        "ObjectID": "132617",
+        "Work": "https://www.moma.org/collection/works/132617",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2Mjc3NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=52a010355e747577",
+        "Details": {
+            "Medium": "Etching",
+            "Dimensions": "composition: 5 13/16 x 8 1/16\" (14.7 x 20.4 cm); sheet: 14 15/16 x 11\" (38 x 28 cm)",
+            "Publisher": "\u00c9ditions Robert-J. Godet, Paris",
+            "Printer": "Atelier Leblanc, Paris",
+            "Edition": "175",
+            "Credit": "Purchase",
+            "Object number": "27.1952.2",
+            "Copyright": "\u00a9 2023 Salvador Dal\u00ed, Gala-Salvador Dal\u00ed Foundation / Artists Rights Society (ARS), New York",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1364"
+    },
+    {
+        "Artist": "Salvador Dali",
+        "Title": "Manifeste Mystique (Mystic Manifesto)",
+        "Year": "1951",
+        "ObjectID": "139162",
+        "Work": "https://www.moma.org/collection/works/139162",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MzMyOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f7bebc37e4c055c6",
+        "Details": {
+            "Author": "Salvador Dal\u00ed",
+            "Medium": "Illustrated book with twenty letterpress plates and a supplementary suite of ten etchings",
+            "Dimensions": "page (each): 14 15/16 \u00d7 11 1/8\" (38 \u00d7 28.2 cm); overall (closed): 15 3/16 \u00d7 11 1/8 \u00d7 13/16\" (38.5 \u00d7 28.3 \u00d7 2 cm)",
+            "Publisher": "\u00c9ditions Robert-J. Godet, Paris",
+            "Printer": "Atelier Georges Leblanc, Paris",
+            "Edition": "175",
+            "Credit": "The Louis E. Stern Collection",
+            "Object number": "772.1964.A-B",
+            "Copyright": "\u00a9 2023 Salvador Dal\u00ed, Gala-Salvador Dal\u00ed Foundation / Artists Rights Society (ARS), New York",
+            "Type": "Illustrated Book",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1364"
+    },
+    {
+        "Artist": "Salvador Dali",
+        "Title": "Tailpiece (page 32) from Manifeste Mystique (Mystic Manifesto)",
+        "Year": "1951",
+        "ObjectID": "139163",
+        "Work": "https://www.moma.org/collection/works/139163",
+        "Thumbnail": null,
+        "Details": {
+            "Author": "Salvador Dal\u00ed",
+            "Medium": "One from an illustrated book with twenty letterpress plates and a supplementary suite of ten etchings",
+            "Dimensions": "composition (irreg.): 3 1/4 \u00d7 5 1/2\" (8.2 \u00d7 13.9 cm); page (each): 14 15/16 \u00d7 11 1/8\" (38 \u00d7 28.2 cm)",
+            "Publisher": "\u00c9ditions Robert-J. Godet, Paris",
+            "Printer": "Atelier Georges Leblanc, Paris",
+            "Edition": "175",
+            "Credit": "The Louis E. Stern Collection",
+            "Object number": "772.1964.A20",
+            "Copyright": "\u00a9 2023 Salvador Dal\u00ed, Gala-Salvador Dal\u00ed Foundation / Artists Rights Society (ARS), New York",
+            "Illustrated book": "Manifeste Mystique (Mystic Manifesto)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1364"
+    },
+    {
+        "Artist": "Salvador Dali",
+        "Title": "In-text plate (page 3) from Manifeste Mystique (Mystic Manifesto)",
+        "Year": "1951",
+        "ObjectID": "407823",
+        "Work": "https://www.moma.org/collection/works/407823",
+        "Thumbnail": null,
+        "Details": {
+            "Author": "Salvador Dal\u00ed",
+            "Medium": "One from an illustrated book with twenty letterpress plates and a supplementary suite of ten etchings",
+            "Dimensions": "composition (irreg.): 6 1/8 \u00d7 3 1/4\" (15.5 \u00d7 8.2 cm); page (each): 14 15/16 \u00d7 11 1/8\" (38 \u00d7 28.2 cm)",
+            "Publisher": "\u00c9ditions Robert-J. Godet, Paris",
+            "Printer": "Atelier Georges Leblanc, Paris",
+            "Edition": "175",
+            "Credit": "The Louis E. Stern Collection",
+            "Object number": "772.1964.A01",
+            "Copyright": "\u00a9 2023 Salvador Dal\u00ed, Gala-Salvador Dal\u00ed Foundation / Artists Rights Society (ARS), New York",
+            "Illustrated book": "Manifeste Mystique (Mystic Manifesto)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1364"
+    },
+    {
+        "Artist": "Salvador Dali",
+        "Title": "Vignette (page 5) from Manifeste Mystique (Mystic Manifesto)",
+        "Year": "1951",
+        "ObjectID": "407824",
+        "Work": "https://www.moma.org/collection/works/407824",
+        "Thumbnail": null,
+        "Details": {
+            "Author": "Salvador Dal\u00ed",
+            "Medium": "One from an illustrated book with twenty letterpress plates and a supplementary suite of ten etchings",
+            "Dimensions": "composition (irreg.): 6 1/8 \u00d7 3 1/4\" (15.5 \u00d7 8.2 cm); page (each): 14 15/16 \u00d7 11 1/8\" (38 \u00d7 28.2 cm)",
+            "Publisher": "\u00c9ditions Robert-J. Godet, Paris",
+            "Printer": "Atelier Georges Leblanc, Paris",
+            "Edition": "175",
+            "Credit": "The Louis E. Stern Collection",
+            "Object number": "772.1964.A02",
+            "Copyright": "\u00a9 2023 Salvador Dal\u00ed, Gala-Salvador Dal\u00ed Foundation / Artists Rights Society (ARS), New York",
+            "Illustrated book": "Manifeste Mystique (Mystic Manifesto)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1364"
+    },
+    {
+        "Artist": "Salvador Dali",
+        "Title": "Headpiece (page 9) from Manifeste Mystique (Mystic Manifesto)",
+        "Year": "1951",
+        "ObjectID": "407825",
+        "Work": "https://www.moma.org/collection/works/407825",
+        "Thumbnail": null,
+        "Details": {
+            "Author": "Salvador Dal\u00ed",
+            "Medium": "One from an illustrated book with twenty letterpress plates and a supplementary suite of ten etchings",
+            "Dimensions": "composition (irreg.): 4 3/4 \u00d7 4 1/16\" (12.1 \u00d7 10.3 cm); page (each): 14 15/16 \u00d7 11 1/8\" (38 \u00d7 28.2 cm)",
+            "Publisher": "\u00c9ditions Robert-J. Godet, Paris",
+            "Printer": "Atelier Georges Leblanc, Paris",
+            "Edition": "175",
+            "Credit": "The Louis E. Stern Collection",
+            "Object number": "772.1964.A03",
+            "Copyright": "\u00a9 2023 Salvador Dal\u00ed, Gala-Salvador Dal\u00ed Foundation / Artists Rights Society (ARS), New York",
+            "Illustrated book": "Manifeste Mystique (Mystic Manifesto)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1364"
+    },
+    {
+        "Artist": "Salvador Dali",
+        "Title": "Plate (page 10) from Manifeste Mystique (Mystic Manifesto)",
+        "Year": "1951",
+        "ObjectID": "407826",
+        "Work": "https://www.moma.org/collection/works/407826",
+        "Thumbnail": null,
+        "Details": {
+            "Author": "Salvador Dal\u00ed",
+            "Medium": "One from an illustrated book with twenty letterpress plates and a supplementary suite of ten etchings",
+            "Dimensions": "composition (irreg.): 6 11/16 \u00d7 8 1/8\" (17 \u00d7 20.7 cm); page (each): 14 15/16 \u00d7 11 1/8\" (38 \u00d7 28.2 cm)",
+            "Publisher": "\u00c9ditions Robert-J. Godet, Paris",
+            "Printer": "Atelier Georges Leblanc, Paris",
+            "Edition": "175",
+            "Credit": "The Louis E. Stern Collection",
+            "Object number": "772.1964.A04",
+            "Copyright": "\u00a9 2023 Salvador Dal\u00ed, Gala-Salvador Dal\u00ed Foundation / Artists Rights Society (ARS), New York",
+            "Illustrated book": "Manifeste Mystique (Mystic Manifesto)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1364"
+    },
+    {
+        "Artist": "Salvador Dali",
+        "Title": "Plate (page 12) from Manifeste Mystique (Mystic Manifesto)",
+        "Year": "1951",
+        "ObjectID": "407827",
+        "Work": "https://www.moma.org/collection/works/407827",
+        "Thumbnail": null,
+        "Details": {
+            "Author": "Salvador Dal\u00ed",
+            "Medium": "One from an illustrated book with twenty letterpress plates and a supplementary suite of ten etchings",
+            "Dimensions": "composition (irreg.): 10 7/8 \u00d7 7 7/16\" (27.6 \u00d7 18.9 cm); page (each): 14 15/16 \u00d7 11 1/8\" (38 \u00d7 28.2 cm)",
+            "Publisher": "\u00c9ditions Robert-J. Godet, Paris",
+            "Printer": "Atelier Georges Leblanc, Paris",
+            "Edition": "175",
+            "Credit": "The Louis E. Stern Collection",
+            "Object number": "772.1964.A05",
+            "Copyright": "\u00a9 2023 Salvador Dal\u00ed, Gala-Salvador Dal\u00ed Foundation / Artists Rights Society (ARS), New York",
+            "Illustrated book": "Manifeste Mystique (Mystic Manifesto)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1364"
+    },
+    {
+        "Artist": "Salvador Dali",
+        "Title": "Plate (page 14) from Manifeste Mystique (Mystic Manifesto)",
+        "Year": "1951",
+        "ObjectID": "407828",
+        "Work": "https://www.moma.org/collection/works/407828",
+        "Thumbnail": null,
+        "Details": {
+            "Author": "Salvador Dal\u00ed",
+            "Medium": "One from an illustrated book with twenty letterpress plates and a supplementary suite of ten etchings",
+            "Dimensions": "composition (irreg.): 12 1/2 \u00d7 6 15/16\" (31.8 \u00d7 17.6 cm); page (each): 14 15/16 \u00d7 11 1/8\" (38 \u00d7 28.2 cm)",
+            "Publisher": "\u00c9ditions Robert-J. Godet, Paris",
+            "Printer": "Atelier Georges Leblanc, Paris",
+            "Edition": "175",
+            "Credit": "The Louis E. Stern Collection",
+            "Object number": "772.1964.A06",
+            "Copyright": "\u00a9 2023 Salvador Dal\u00ed, Gala-Salvador Dal\u00ed Foundation / Artists Rights Society (ARS), New York",
+            "Illustrated book": "Manifeste Mystique (Mystic Manifesto)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1364"
+    },
+    {
+        "Artist": "Salvador Dali",
+        "Title": "In-text plate (page 15) from Manifeste Mystique (Mystic Manifesto)",
+        "Year": "1951",
+        "ObjectID": "407829",
+        "Work": "https://www.moma.org/collection/works/407829",
+        "Thumbnail": null,
+        "Details": {
+            "Author": "Salvador Dal\u00ed",
+            "Medium": "One from an illustrated book with twenty letterpress plates and a supplementary suite of ten etchings",
+            "Dimensions": "composition (irreg.): 1 1/8 \u00d7 3 7/8\" (2.9 \u00d7 9.9 cm); page (each): 14 15/16 \u00d7 11 1/8\" (38 \u00d7 28.2 cm)",
+            "Publisher": "\u00c9ditions Robert-J. Godet, Paris",
+            "Printer": "Atelier Georges Leblanc, Paris",
+            "Edition": "175",
+            "Credit": "The Louis E. Stern Collection",
+            "Object number": "772.1964.A07",
+            "Copyright": "\u00a9 2023 Salvador Dal\u00ed, Gala-Salvador Dal\u00ed Foundation / Artists Rights Society (ARS), New York",
+            "Illustrated book": "Manifeste Mystique (Mystic Manifesto)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1364"
+    },
+    {
+        "Artist": "Salvador Dali",
+        "Title": "Plate (page 16) from Manifeste Mystique (Mystic Manifesto)",
+        "Year": "1951",
+        "ObjectID": "407830",
+        "Work": "https://www.moma.org/collection/works/407830",
+        "Thumbnail": null,
+        "Details": {
+            "Author": "Salvador Dal\u00ed",
+            "Medium": "One from an illustrated book with twenty letterpress plates and a supplementary suite of ten etchings",
+            "Dimensions": "composition (irreg.): 10 7/16 \u00d7 7 5/16\" (26.5 \u00d7 18.5 cm); page (each): 14 15/16 \u00d7 11 1/8\" (38 \u00d7 28.2 cm)",
+            "Publisher": "\u00c9ditions Robert-J. Godet, Paris",
+            "Printer": "Atelier Georges Leblanc, Paris",
+            "Edition": "175",
+            "Credit": "The Louis E. Stern Collection",
+            "Object number": "772.1964.A08",
+            "Copyright": "\u00a9 2023 Salvador Dal\u00ed, Gala-Salvador Dal\u00ed Foundation / Artists Rights Society (ARS), New York",
+            "Illustrated book": "Manifeste Mystique (Mystic Manifesto)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1364"
+    },
+    {
+        "Artist": "Salvador Dali",
+        "Title": "Plate (page 18) from Manifeste Mystique (Mystic Manifesto)",
+        "Year": "1951",
+        "ObjectID": "407831",
+        "Work": "https://www.moma.org/collection/works/407831",
+        "Thumbnail": null,
+        "Details": {
+            "Author": "Salvador Dal\u00ed",
+            "Medium": "One from an illustrated book with twenty letterpress plates and a supplementary suite of ten etchings",
+            "Dimensions": "composition (irreg.): 7 3/16 \u00d7 6 7/8\" (18.3 \u00d7 17.5 cm); page (each): 14 15/16 \u00d7 11 1/8\" (38 \u00d7 28.2 cm)",
+            "Publisher": "\u00c9ditions Robert-J. Godet, Paris",
+            "Printer": "Atelier Georges Leblanc, Paris",
+            "Edition": "175",
+            "Credit": "The Louis E. Stern Collection",
+            "Object number": "772.1964.A09",
+            "Copyright": "\u00a9 2023 Salvador Dal\u00ed, Gala-Salvador Dal\u00ed Foundation / Artists Rights Society (ARS), New York",
+            "Illustrated book": "Manifeste Mystique (Mystic Manifesto)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1364"
+    },
+    {
+        "Artist": "Salvador Dali",
+        "Title": "Headpiece (page 19) from Manifeste Mystique (Mystic Manifesto)",
+        "Year": "1951",
+        "ObjectID": "407832",
+        "Work": "https://www.moma.org/collection/works/407832",
+        "Thumbnail": null,
+        "Details": {
+            "Author": "Salvador Dal\u00ed",
+            "Medium": "One from an illustrated book with twenty letterpress plates and a supplementary suite of ten etchings",
+            "Dimensions": "composition (irreg.): 2 1/4 \u00d7 4 1/2\" (5.7 \u00d7 11.4 cm); page (each): 14 15/16 \u00d7 11 1/8\" (38 \u00d7 28.2 cm)",
+            "Publisher": "\u00c9ditions Robert-J. Godet, Paris",
+            "Printer": "Atelier Georges Leblanc, Paris",
+            "Edition": "175",
+            "Credit": "The Louis E. Stern Collection",
+            "Object number": "772.1964.A10",
+            "Copyright": "\u00a9 2023 Salvador Dal\u00ed, Gala-Salvador Dal\u00ed Foundation / Artists Rights Society (ARS), New York",
+            "Illustrated book": "Manifeste Mystique (Mystic Manifesto)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1364"
+    },
+    {
+        "Artist": "Salvador Dali",
+        "Title": "Plate (page 20) from Manifeste Mystique (Mystic Manifesto)",
+        "Year": "1951",
+        "ObjectID": "407833",
+        "Work": "https://www.moma.org/collection/works/407833",
+        "Thumbnail": null,
+        "Details": {
+            "Author": "Salvador Dal\u00ed",
+            "Medium": "One from an illustrated book with twenty letterpress plates and a supplementary suite of ten etchings",
+            "Dimensions": "composition (irreg.): 6 7/16 \u00d7 7 3/8\" (16.3 \u00d7 18.7 cm); page (each): 14 15/16 \u00d7 11 1/8\" (38 \u00d7 28.2 cm)",
+            "Publisher": "\u00c9ditions Robert-J. Godet, Paris",
+            "Printer": "Atelier Georges Leblanc, Paris",
+            "Edition": "175",
+            "Credit": "The Louis E. Stern Collection",
+            "Object number": "772.1964.A11",
+            "Copyright": "\u00a9 2023 Salvador Dal\u00ed, Gala-Salvador Dal\u00ed Foundation / Artists Rights Society (ARS), New York",
+            "Illustrated book": "Manifeste Mystique (Mystic Manifesto)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1364"
+    },
+    {
+        "Artist": "Salvador Dali",
+        "Title": "Plate (page 22) from Manifeste Mystique (Mystic Manifesto)",
+        "Year": "1951",
+        "ObjectID": "407834",
+        "Work": "https://www.moma.org/collection/works/407834",
+        "Thumbnail": null,
+        "Details": {
+            "Author": "Salvador Dal\u00ed",
+            "Medium": "One from an illustrated book with twenty letterpress plates and a supplementary suite of ten etchings",
+            "Dimensions": "composition (irreg.): 9 1/4 \u00d7 6 1/2\" (23.5 \u00d7 16.5 cm); page (each): 14 15/16 \u00d7 11 1/8\" (38 \u00d7 28.2 cm)",
+            "Publisher": "\u00c9ditions Robert-J. Godet, Paris",
+            "Printer": "Atelier Georges Leblanc, Paris",
+            "Edition": "175",
+            "Credit": "The Louis E. Stern Collection",
+            "Object number": "772.1964.A12",
+            "Copyright": "\u00a9 2023 Salvador Dal\u00ed, Gala-Salvador Dal\u00ed Foundation / Artists Rights Society (ARS), New York",
+            "Illustrated book": "Manifeste Mystique (Mystic Manifesto)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1364"
     }
 ]

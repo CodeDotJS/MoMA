@@ -1,386 +1,386 @@
 [
     {
-        "Artist": "Lee Bontecou",
+        "Artist": "Lara Schnitger",
+        "Title": "Ciara",
+        "Year": "2000",
+        "ObjectID": "97318",
+        "Work": "https://www.moma.org/collection/works/97318",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE0ODM0MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=466417654d6865b2"
+    },
+    {
+        "Artist": "Joachim Schonfeldt",
+        "Title": "Untitled (Peafowl Hen)",
+        "Year": "2000",
+        "ObjectID": "103030",
+        "Work": "https://www.moma.org/collection/works/103030",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyMDI0MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=93b278d662f1f310"
+    },
+    {
+        "Artist": "Michelle Segre",
+        "Title": "These days...",
+        "Year": "2000",
+        "ObjectID": "97349",
+        "Work": "https://www.moma.org/collection/works/97349",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE0MDI1NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=538080cfcf915f4c"
+    },
+    {
+        "Artist": "Allan Sekula",
+        "Title": "Waiting for Tear Gas (white globe to black)",
+        "Year": "1999-2000",
+        "ObjectID": "167224",
+        "Work": "https://www.moma.org/collection/works/167224",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2OTUwOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9aa5b340198f1cb3"
+    },
+    {
+        "Artist": "Sheng Qi",
+        "Title": "Memories (Me)",
+        "Year": "2000",
+        "ObjectID": "117246",
+        "Work": "https://www.moma.org/collection/works/117246",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNzQxMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=55ac396a55469f8f"
+    },
+    {
+        "Artist": "Cindy Sherman",
+        "Title": "Untitled from 1989",
+        "Year": "2000",
+        "ObjectID": "101987",
+        "Work": "https://www.moma.org/collection/works/101987",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwNjE5OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7f657b0429572140"
+    },
+    {
+        "Artist": "Cindy Sherman",
+        "Title": "Untitled #351",
+        "Year": "2000",
+        "ObjectID": "199605",
+        "Work": "https://www.moma.org/collection/works/199605",
+        "Thumbnail": null
+    },
+    {
+        "Artist": "Yinka Shonibare",
+        "Title": "100 Years",
+        "Year": "2000",
+        "ObjectID": "216303",
+        "Work": "https://www.moma.org/collection/works/216303",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM4MzQ4NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=07a290f9908390e2"
+    },
+    {
+        "Artist": "SHoP Architects PC, William Sharples, Coren Sharples, Christopher R. Sharples, Kimberly J. Holden, Gregg A. Pasquarelli",
+        "Title": "Dunescape, Long Island City, New York (Scale model 1/4\" = 1'0\")",
+        "Year": "2000",
+        "ObjectID": "105159",
+        "Work": "https://www.moma.org/collection/works/105159",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ4MzY5NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=317833001501ec7a"
+    },
+    {
+        "Artist": "Romio Shrestha",
+        "Title": "The Wheel of Deluded Existence",
+        "Year": "c. 1995",
+        "ObjectID": "124945",
+        "Work": "https://www.moma.org/collection/works/124945",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ5OTIwNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9d2516e405c42aff"
+    },
+    {
+        "Artist": "David Shrigley",
         "Title": "Untitled",
-        "Year": "1998",
-        "ObjectID": "95583",
-        "Work": "https://www.moma.org/collection/works/95583",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNDQwOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e13eabb8dfdbd729"
+        "Year": "2000",
+        "ObjectID": "101062",
+        "Work": "https://www.moma.org/collection/works/101062",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNTEyMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6f2693ca2f883996"
     },
     {
-        "Artist": "Irma Boom",
-        "Title": "Vitra Workspirit Six",
-        "Year": "1998",
-        "ObjectID": "111017",
-        "Work": "https://www.moma.org/collection/works/111017",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMxMjczNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1027dec9fbedf50c"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "A Flower In the Forest, from the portfolio by various artists, The Geldzahler Portfolio",
-        "Year": "1998",
-        "ObjectID": "61371",
-        "Work": "https://www.moma.org/collection/works/61371",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NDIzNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9471348179fa611f"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "The Bad Mother",
-        "Year": "1998",
-        "ObjectID": "62391",
-        "Work": "https://www.moma.org/collection/works/62391",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NjA1MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=157ff67d022d39c0"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "Crochet I-V",
-        "Year": "1998",
-        "ObjectID": "62412",
-        "Work": "https://www.moma.org/collection/works/62412",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NDA2NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b1b6a8324cf12684"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "Henriette",
-        "Year": "1998",
-        "ObjectID": "62450",
-        "Work": "https://www.moma.org/collection/works/62450",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2OTA0OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d14b8150121c44a8"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "Jitterbug",
-        "Year": "1998",
-        "ObjectID": "62467",
-        "Work": "https://www.moma.org/collection/works/62467",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MDU3OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a1c3c756bc093218"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "The Faces of the Critic",
-        "Year": "1998",
-        "ObjectID": "64043",
-        "Work": "https://www.moma.org/collection/works/64043",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2Nzk0NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=54a5c0cb87fb3f02"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "Topiary: The Art of Improving Nature",
-        "Year": "1998",
-        "ObjectID": "68752",
-        "Work": "https://www.moma.org/collection/works/68752",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NDE2MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=762b3a2cb1523ca2"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "Le Lit, Gros Edredon, Bleu",
-        "Year": "1998",
-        "ObjectID": "84135",
-        "Work": "https://www.moma.org/collection/works/84135",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NDA3NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d613ea454bd4bbe9"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "Department of the Creuse (Aubusson)",
-        "Year": "1998",
-        "ObjectID": "84304",
-        "Work": "https://www.moma.org/collection/works/84304",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzOTAwMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0785b082ffe8a22b"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "Department of Creuse (Aubusson)",
-        "Year": "1998",
-        "ObjectID": "84305",
-        "Work": "https://www.moma.org/collection/works/84305",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NjQwMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3fa60fbed1c37090"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "Eight in Bed",
-        "Year": "1998",
-        "ObjectID": "84357",
-        "Work": "https://www.moma.org/collection/works/84357",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2ODA4NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=81137e8efb25f0ff"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "Eight in Bed",
-        "Year": "1998",
-        "ObjectID": "84361",
-        "Work": "https://www.moma.org/collection/works/84361",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2ODA4NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=513a5633a2e63931"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "Eight in Bed",
-        "Year": "1998",
-        "ObjectID": "84363",
-        "Work": "https://www.moma.org/collection/works/84363",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2ODA4NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c9dca3c2a93450b0"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "Eight in Bed",
-        "Year": "1998",
-        "ObjectID": "84364",
-        "Work": "https://www.moma.org/collection/works/84364",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2ODA4OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d65db56f32c4f9f8"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "Eight in Bed",
-        "Year": "1998",
-        "ObjectID": "84366",
-        "Work": "https://www.moma.org/collection/works/84366",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2ODA4OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e410b694f5dbd70f"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "Eight in Bed",
-        "Year": "1998",
-        "ObjectID": "84367",
-        "Work": "https://www.moma.org/collection/works/84367",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2ODA5MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4c75650955471301"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "Eight in Bed",
-        "Year": "1998",
-        "ObjectID": "84368",
-        "Work": "https://www.moma.org/collection/works/84368",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2OTI1MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=44b1e4c158568f2a"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "Eight in Bed",
-        "Year": "1998",
-        "ObjectID": "84370",
-        "Work": "https://www.moma.org/collection/works/84370",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2OTI3NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1dfb45447063b6ba"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "Eight in Bed",
-        "Year": "1998",
-        "ObjectID": "84371",
-        "Work": "https://www.moma.org/collection/works/84371",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2OTI1MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6f9451edac793ecf"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "Eight in Bed",
-        "Year": "1998",
-        "ObjectID": "84372",
-        "Work": "https://www.moma.org/collection/works/84372",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2OTI1MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=058e3046d8c98ae7"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "Eight in Bed",
-        "Year": "1998",
-        "ObjectID": "84373",
-        "Work": "https://www.moma.org/collection/works/84373",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2OTI3NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b5dd97a8887fe456"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "Eight in Bed",
-        "Year": "1998",
-        "ObjectID": "84374",
-        "Work": "https://www.moma.org/collection/works/84374",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2OTI3OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=92aa63b34a4765e8"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "Follow the Child within You",
-        "Year": "1998",
-        "ObjectID": "84376",
-        "Work": "https://www.moma.org/collection/works/84376",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwNDM1NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8887219e896aee43"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "Follow the Child within You",
-        "Year": "1998",
-        "ObjectID": "84378",
-        "Work": "https://www.moma.org/collection/works/84378",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwNDM1NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=581b40364915d7a5"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "Follow the Child within You",
-        "Year": "1998",
-        "ObjectID": "84381",
-        "Work": "https://www.moma.org/collection/works/84381",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwNDM1OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7c867cf457996143"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "Follow the Child within You",
-        "Year": "1998",
-        "ObjectID": "84383",
-        "Work": "https://www.moma.org/collection/works/84383",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3NDQyNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cc02873b4bca8a18"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "Follow the Child within You",
-        "Year": "1998",
-        "ObjectID": "84384",
-        "Work": "https://www.moma.org/collection/works/84384",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwNDM1OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=11d31ac8cf365b3c"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "Follow the Child within You",
-        "Year": "1998",
-        "ObjectID": "84385",
-        "Work": "https://www.moma.org/collection/works/84385",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3NDQyNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=eee3d564fe8ae99e"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "Follow the Child within You",
-        "Year": "1998",
-        "ObjectID": "84386",
-        "Work": "https://www.moma.org/collection/works/84386",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3NDQyNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b606aab05c6fdd04"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "Le Pere et les 3 Fils",
-        "Year": "1998",
-        "ObjectID": "84388",
-        "Work": "https://www.moma.org/collection/works/84388",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2ODExOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1c6a28f09000f534"
-    },
-    {
-        "Artist": "Louise Bourgeois",
+        "Artist": "David Shrigley",
         "Title": "Untitled",
-        "Year": "1998",
-        "ObjectID": "84433",
-        "Work": "https://www.moma.org/collection/works/84433",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NDIzNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b1e45aaa827b5ed3"
+        "Year": "2000",
+        "ObjectID": "101063",
+        "Work": "https://www.moma.org/collection/works/101063",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1OTIyNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4eb1c7956039e3a0"
     },
     {
-        "Artist": "Louise Bourgeois",
+        "Artist": "David Shrigley",
         "Title": "Untitled",
-        "Year": "1998",
-        "ObjectID": "84434",
-        "Work": "https://www.moma.org/collection/works/84434",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NDIzOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7ce225cd225ffb07"
+        "Year": "2000",
+        "ObjectID": "101064",
+        "Work": "https://www.moma.org/collection/works/101064",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1OTIyNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=616f615f917bbcd6"
     },
     {
-        "Artist": "Louise Bourgeois",
-        "Title": "Untitled (Double-Sided)",
-        "Year": "1998",
-        "ObjectID": "95599",
-        "Work": "https://www.moma.org/collection/works/95599",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNDQxNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=15ff37374061d9a7"
+        "Artist": "David Shrigley",
+        "Title": "Untitled",
+        "Year": "2000",
+        "ObjectID": "101065",
+        "Work": "https://www.moma.org/collection/works/101065",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNTEyMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fedf8b6626b7ba07"
     },
     {
-        "Artist": "Louise Bourgeois",
-        "Title": "Untitled, plate 1 of 9, from the portfolio, Topiary: The Art of Improving Nature",
-        "Year": "1998",
-        "ObjectID": "115691",
-        "Work": "https://www.moma.org/collection/works/115691",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NDE2NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=32409d8331946de8"
+        "Artist": "David Shrigley",
+        "Title": "Untitled",
+        "Year": "2000",
+        "ObjectID": "101066",
+        "Work": "https://www.moma.org/collection/works/101066",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1OTIyNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6940a0fe8fdf398a"
     },
     {
-        "Artist": "Louise Bourgeois",
-        "Title": "Untitled, plate 2 of 9, from the portfolio, Topiary: The Art of Improving Nature",
-        "Year": "1998",
-        "ObjectID": "115692",
-        "Work": "https://www.moma.org/collection/works/115692",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NDE2NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=05a7ae4ee982cea1"
+        "Artist": "David Shrigley",
+        "Title": "Untitled",
+        "Year": "2000",
+        "ObjectID": "101067",
+        "Work": "https://www.moma.org/collection/works/101067",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1OTIyNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f4a974d66f328949"
     },
     {
-        "Artist": "Louise Bourgeois",
-        "Title": "Untitled, plate 3 of 9, from the portfolio, Topiary: The Art of Improving Nature",
-        "Year": "1998",
-        "ObjectID": "115693",
-        "Work": "https://www.moma.org/collection/works/115693",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NDE2NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b148b6d6a2bceec7"
+        "Artist": "David Shrigley",
+        "Title": "Untitled",
+        "Year": "2000",
+        "ObjectID": "101068",
+        "Work": "https://www.moma.org/collection/works/101068",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNTEyNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=40214e230c7bb452"
     },
     {
-        "Artist": "Louise Bourgeois",
-        "Title": "Untitled, plate 4 of 9, from the portfolio, Topiary: The Art of Improving Nature",
-        "Year": "1998",
-        "ObjectID": "115694",
-        "Work": "https://www.moma.org/collection/works/115694",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NDE2NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cc6d81c9bfb446d6"
+        "Artist": "David Shrigley",
+        "Title": "Untitled",
+        "Year": "2000",
+        "ObjectID": "101069",
+        "Work": "https://www.moma.org/collection/works/101069",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNTEyNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e026ace48e7b60d6"
     },
     {
-        "Artist": "Louise Bourgeois",
-        "Title": "Untitled, plate 5 of 9, from the portfolio, Topiary: The Art of Improving Nature",
-        "Year": "1998",
-        "ObjectID": "115695",
-        "Work": "https://www.moma.org/collection/works/115695",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NDE2OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=db202fac16b89ea2"
+        "Artist": "David Shrigley",
+        "Title": "Untitled",
+        "Year": "2000",
+        "ObjectID": "101070",
+        "Work": "https://www.moma.org/collection/works/101070",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1OTIyOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a911363eaa20c343"
     },
     {
-        "Artist": "Louise Bourgeois",
-        "Title": "Untitled, plate 6 of 9, from the portfolio, Topiary: The Art of Improving Nature",
-        "Year": "1998",
-        "ObjectID": "115696",
-        "Work": "https://www.moma.org/collection/works/115696",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NDE2OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ba59ba3e405d9e17"
+        "Artist": "David Shrigley",
+        "Title": "Untitled",
+        "Year": "2000",
+        "ObjectID": "101071",
+        "Work": "https://www.moma.org/collection/works/101071",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1OTIyMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fd716f56fc905876"
     },
     {
-        "Artist": "Louise Bourgeois",
-        "Title": "Untitled, plate 7 of 9, from the portfolio, Topiary: The Art of Improving Nature",
-        "Year": "1998",
-        "ObjectID": "115697",
-        "Work": "https://www.moma.org/collection/works/115697",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NDE3MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2082364e0061f121"
+        "Artist": "David Shrigley",
+        "Title": "Untitled",
+        "Year": "2000",
+        "ObjectID": "101072",
+        "Work": "https://www.moma.org/collection/works/101072",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNTEyMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=89e397f7a8021f3d"
     },
     {
-        "Artist": "Louise Bourgeois",
-        "Title": "Untitled, plate 8 of 9, from the portfolio, Topiary: The Art of Improving Nature",
-        "Year": "1998",
-        "ObjectID": "115698",
-        "Work": "https://www.moma.org/collection/works/115698",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NDE3MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a25f2ce731e7438f"
+        "Artist": "David Shrigley",
+        "Title": "Untitled",
+        "Year": "2000",
+        "ObjectID": "101073",
+        "Work": "https://www.moma.org/collection/works/101073",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1OTIyMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6aec1793e37f2e7b"
     },
     {
-        "Artist": "Louise Bourgeois",
-        "Title": "Untitled, plate 9 of 9, from the portfolio, Topiary: The Art of Improving Nature",
-        "Year": "1998",
-        "ObjectID": "115699",
-        "Work": "https://www.moma.org/collection/works/115699",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NDE3MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=749fbfc1d4fdfd5d"
+        "Artist": "David Shrigley",
+        "Title": "Untitled",
+        "Year": "2000",
+        "ObjectID": "101074",
+        "Work": "https://www.moma.org/collection/works/101074",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1OTIyMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=00375121fc7ce024"
     },
     {
-        "Artist": "Louise Bourgeois",
-        "Title": "Crochet I, from the series, Crochet I-V",
-        "Year": "1998",
-        "ObjectID": "115702",
-        "Work": "https://www.moma.org/collection/works/115702",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NDA2NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b1b6a8324cf12684"
+        "Artist": "David Shrigley",
+        "Title": "Untitled",
+        "Year": "2000",
+        "ObjectID": "101075",
+        "Work": "https://www.moma.org/collection/works/101075",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NzUzNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5869c9bec77cffa7"
     },
     {
-        "Artist": "Louise Bourgeois",
-        "Title": "Crochet II, from the series, Crochet I-V",
-        "Year": "1998",
-        "ObjectID": "115703",
-        "Work": "https://www.moma.org/collection/works/115703",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NDA2OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d99e1d54884bec6a"
+        "Artist": "David Shrigley",
+        "Title": "Untitled",
+        "Year": "2000",
+        "ObjectID": "101076",
+        "Work": "https://www.moma.org/collection/works/101076",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1OTIyMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9d0d9f390e042e2e"
     },
     {
-        "Artist": "Louise Bourgeois",
-        "Title": "Crochet III, from the series, Crochet I-V",
-        "Year": "1998",
-        "ObjectID": "115704",
-        "Work": "https://www.moma.org/collection/works/115704",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NDA2OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=bed3fb24641ae046"
+        "Artist": "Sthembiso Sibisi",
+        "Title": "Nqandani Ig ciwana Nifundise Abantwana from Break the Silence!",
+        "Year": "2000",
+        "ObjectID": "136216",
+        "Work": "https://www.moma.org/collection/works/136216",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwNjE1NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3ea76a738f6641ae"
     },
     {
-        "Artist": "Louise Bourgeois",
-        "Title": "Crochet IV, from the series, Crochet I-V",
-        "Year": "1998",
-        "ObjectID": "115705",
-        "Work": "https://www.moma.org/collection/works/115705",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NDA3MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6fea5c214ef15790"
+        "Artist": "James Siena",
+        "Title": "Constant Window from Nine Prints",
+        "Year": "1999-2000",
+        "ObjectID": "82719",
+        "Work": "https://www.moma.org/collection/works/82719",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MjMwMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e509dec5b941ce2c"
+    },
+    {
+        "Artist": "James Siena",
+        "Title": "56787654 from Nine Prints",
+        "Year": "1999-2000",
+        "ObjectID": "82720",
+        "Work": "https://www.moma.org/collection/works/82720",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MjMwMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=dd7d9558f5aa98ad"
+    },
+    {
+        "Artist": "James Siena",
+        "Title": "Proton Saga from Nine Prints",
+        "Year": "1999-2000",
+        "ObjectID": "82721",
+        "Work": "https://www.moma.org/collection/works/82721",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MjMwMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=05c67912b7dd5bef"
+    },
+    {
+        "Artist": "James Siena",
+        "Title": "Base Three from Nine Prints",
+        "Year": "2000",
+        "ObjectID": "82722",
+        "Work": "https://www.moma.org/collection/works/82722",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MjMwMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d91e71668d3761d8"
+    },
+    {
+        "Artist": "James Siena",
+        "Title": "Etching After Untitled Yellow-Black from Nine Prints",
+        "Year": "2000",
+        "ObjectID": "82723",
+        "Work": "https://www.moma.org/collection/works/82723",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MjMwNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f5687498481144d5"
+    },
+    {
+        "Artist": "Laurie Simmons",
+        "Title": "Untitled from 1989",
+        "Year": "2000",
+        "ObjectID": "101988",
+        "Work": "https://www.moma.org/collection/works/101988",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwNjIwMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6172551ae10f4341"
+    },
+    {
+        "Artist": "Marc Singer",
+        "Title": "Dark Days",
+        "Year": "2000",
+        "ObjectID": "190939",
+        "Work": "https://www.moma.org/collection/works/190939",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMxNjYzOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cdce5fbb4998853d"
+    },
+    {
+        "Artist": "Kiki Smith",
+        "Title": "Pool of Tears 1",
+        "Year": "2000",
+        "ObjectID": "77077",
+        "Work": "https://www.moma.org/collection/works/77077",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDM3NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0661dbec0bc8139a"
+    },
+    {
+        "Artist": "Kiki Smith",
+        "Title": "Pool of Tears 2 (after Lewis Carroll)",
+        "Year": "2000",
+        "ObjectID": "77080",
+        "Work": "https://www.moma.org/collection/works/77080",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDM3NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1c2bc3e1f20f51e3"
+    },
+    {
+        "Artist": "Kiki Smith",
+        "Title": "The Vitreous Body, with adapted translation of \"The Way of Seeming\"",
+        "Year": "1999-2000",
+        "ObjectID": "82682",
+        "Work": "https://www.moma.org/collection/works/82682",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMDI5OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=03a9b711cf011ca9"
+    },
+    {
+        "Artist": "Kiki Smith",
+        "Title": "What Girls Know About Grids: For Leslie Gore, Mo Tucker, Laura Nyro, and Ma Cass",
+        "Year": "2000",
+        "ObjectID": "83747",
+        "Work": "https://www.moma.org/collection/works/83747",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNjQyMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=bded846ec30cdb6c"
+    },
+    {
+        "Artist": "Kiki Smith",
+        "Title": "Untitled from 1989",
+        "Year": "2000",
+        "ObjectID": "86606",
+        "Work": "https://www.moma.org/collection/works/86606",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwNjE5NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=16e704032f6ba727"
+    },
+    {
+        "Artist": "Kiki Smith",
+        "Title": "Plate (folio 6 verso) from The Vitreous Body",
+        "Year": "1999-2000",
+        "ObjectID": "86788",
+        "Work": "https://www.moma.org/collection/works/86788",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDU3OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2ff207c5d2ae9186"
+    },
+    {
+        "Artist": "Kiki Smith",
+        "Title": "Plate (folio 14) from The Vitreous Body",
+        "Year": "1999-2000",
+        "ObjectID": "86795",
+        "Work": "https://www.moma.org/collection/works/86795",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMDMwMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2a29f2c9c23dca59"
+    },
+    {
+        "Artist": "Philippe Starck",
+        "Title": "Ceci N'est Pas une Truelle Cake Server",
+        "Year": "1996",
+        "ObjectID": "1729",
+        "Work": "https://www.moma.org/collection/works/1729",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNjYxMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cc665c6d1bd72990"
+    },
+    {
+        "Artist": "Philippe Starck",
+        "Title": "Dadada Stool",
+        "Year": "1993",
+        "ObjectID": "1749",
+        "Work": "https://www.moma.org/collection/works/1749",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMDA4OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e406c718ba8bfd03"
+    },
+    {
+        "Artist": "Philippe Starck",
+        "Title": "W.W. Stool",
+        "Year": "1990",
+        "ObjectID": "1981",
+        "Work": "https://www.moma.org/collection/works/1981",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNjM5MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=980441b5185b8847"
+    },
+    {
+        "Artist": "Philippe Starck",
+        "Title": "Hudson Chair",
+        "Year": "2000",
+        "ObjectID": "4728",
+        "Work": "https://www.moma.org/collection/works/4728",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMDE5MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c3aef1e5612091ac"
+    },
+    {
+        "Artist": "Mark Steinmetz",
+        "Title": "Youngstown, Ohio",
+        "Year": "2000",
+        "ObjectID": "101513",
+        "Work": "https://www.moma.org/collection/works/101513",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMTIzMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b966d1af66c06ef1"
+    },
+    {
+        "Artist": "Jose Antonio Suarez Londono",
+        "Title": "Untitled #173",
+        "Year": "2000",
+        "ObjectID": "133137",
+        "Work": "https://www.moma.org/collection/works/133137",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MTQxOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cbe7a01a6a1854eb"
+    },
+    {
+        "Artist": "Jose Antonio Suarez Londono",
+        "Title": "Untitled #174",
+        "Year": "2000",
+        "ObjectID": "133138",
+        "Work": "https://www.moma.org/collection/works/133138",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MTQxOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cad276a504d813bb"
+    },
+    {
+        "Artist": "Jose Antonio Suarez Londono",
+        "Title": "Untitled #175",
+        "Year": "2000",
+        "ObjectID": "133139",
+        "Work": "https://www.moma.org/collection/works/133139",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MTQyMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a2340badb7709082"
     }
 ]

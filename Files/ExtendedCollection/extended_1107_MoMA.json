@@ -1,818 +1,879 @@
 [
     {
-        "Artist": "Leon Levinstein",
-        "Title": "Untitled",
-        "Year": "c. 1950",
-        "ObjectID": "49713",
-        "Work": "https://www.moma.org/collection/works/49713",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5ODYxNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=097c678520de82c7",
+        "Artist": "Garry Winogrand",
+        "Title": "El Paso",
+        "Year": "1964",
+        "ObjectID": "54277",
+        "Work": "https://www.moma.org/collection/works/54277",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzOTY3NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8f2770ca3bfb6c1f",
         "Details": {
             "Medium": "Gelatin silver print",
-            "Dimensions": "8 5/16 \u00d7 11 3/8\"  (21.2 \u00d7 28.8 cm)",
+            "Dimensions": "8 11/16 \u00d7 13 3/8\" (22.1 \u00d7 34 cm)",
+            "Credit": "Purchase and gift of Barbara Schwartz in memory of Eugene M. Schwartz",
+            "Object number": "489.1998",
+            "Copyright": "\u00a9 The Estate of Garry Winogrand, courtesy Fraenkel Gallery",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/6399"
+    },
+    {
+        "Artist": "Garry Winogrand",
+        "Title": "Los Angeles",
+        "Year": "1964",
+        "ObjectID": "54324",
+        "Work": "https://www.moma.org/collection/works/54324",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzOTY4MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d0fcaf35c823aa47",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "8 7/16 \u00d7 12 11/16\" (21.5 \u00d7 32.3 cm)",
+            "Credit": "Purchase and gift of Barbara Schwartz in memory of Eugene M. Schwartz",
+            "Object number": "492.1998",
+            "Copyright": "\u00a9 The Estate of Garry Winogrand, courtesy Fraenkel Gallery",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/6399"
+    },
+    {
+        "Artist": "Garry Winogrand",
+        "Title": "Dealey Plaza, Dallas",
+        "Year": "1964",
+        "ObjectID": "55282",
+        "Work": "https://www.moma.org/collection/works/55282",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzOTcwOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4a56d9017b649ec7",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "9 \u00d7 13 3/8\" (22.9 \u00d7 34 cm)",
             "Credit": "Purchase",
-            "Object number": "263.1959",
+            "Object number": "574.1973",
+            "Copyright": "\u00a9 The Estate of Garry Winogrand, courtesy Fraenkel Gallery",
             "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/3518"
+        "Profile": "https://www.moma.org/artists/6399"
     },
     {
-        "Artist": "Sol Libsohn",
-        "Title": "Quality Printing",
-        "Year": "1955",
-        "ObjectID": "46575",
-        "Work": "https://www.moma.org/collection/works/46575",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMzMxNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=67b42a5e21a65acf",
+        "Artist": "Garry Winogrand",
+        "Title": "Forest Lawn Cemetery, Los Angeles",
+        "Year": "1964",
+        "ObjectID": "55292",
+        "Work": "https://www.moma.org/collection/works/55292",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzOTcxMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d39ee979d7dcb884",
         "Details": {
             "Medium": "Gelatin silver print",
-            "Dimensions": "9 13/16 \u00d7 13 7/16\" (25 \u00d7 34.1 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "119.1967",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/3539"
-    },
-    {
-        "Artist": "Riccardo Licata",
-        "Title": "XXXII",
-        "Year": "1955",
-        "ObjectID": "70135",
-        "Work": "https://www.moma.org/collection/works/70135",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNzg1MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=13f7e243f77ce8b0",
-        "Details": {
-            "Medium": "Etching",
-            "Dimensions": "plate: 12 3/16 x 16\" (31 x 40.6cm); sheet: 19 9/16 x 27 11/16\" (49.7 x 70.4cm)",
-            "Credit": "International Graphic Arts Society Fund",
-            "Object number": "497.1967",
-            "Copyright": "\u00a9 2023 Riccardo Licata / Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/3540"
-    },
-    {
-        "Artist": "Jerome Liebling",
-        "Title": "Red Lake, Minnesota",
-        "Year": "1955",
-        "ObjectID": "46054",
-        "Work": "https://www.moma.org/collection/works/46054",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4ODQxNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b4ff14e7940ff1cd",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "9 1/2 \u00d7 12 5/8\" (24.2 \u00d7 32.1 cm)",
-            "Credit": "Exchange",
-            "Object number": "90.1977",
-            "Copyright": "\u00a9 2023 Jerome Liebling",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/3549"
-    },
-    {
-        "Artist": "O. Winston Link",
-        "Title": "Norfolk and Western Train No. 2, North through Lithia, Virginia",
-        "Year": "July 13, 1955, 7:11 P.M",
-        "ObjectID": "49845",
-        "Work": "https://www.moma.org/collection/works/49845",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3Mjc3MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=dfc000b87b4a29df",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "10 3/4 \u00d7 13 1/2\" (27.4 \u00d7 34.3 cm)",
+            "Dimensions": "8 7/8 \u00d7 13 7/16\" (22.6 \u00d7 34.1 cm)",
             "Credit": "Purchase",
-            "Object number": "274.1976",
+            "Object number": "575.1973",
+            "Copyright": "\u00a9 The Estate of Garry Winogrand, courtesy Fraenkel Gallery",
             "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/3561"
+        "Profile": "https://www.moma.org/artists/6399"
     },
     {
-        "Artist": "Seymour Lipton",
-        "Title": "Untitled",
-        "Year": "1955",
-        "ObjectID": "89949",
-        "Work": "https://www.moma.org/collection/works/89949",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQyNzA3NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ab466d5ebce7978a",
+        "Artist": "Garry Winogrand",
+        "Title": "Los Angeles",
+        "Year": "1964",
+        "ObjectID": "55337",
+        "Work": "https://www.moma.org/collection/works/55337",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzOTcxNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=15e0708d2baa808b",
         "Details": {
-            "Medium": "Crayon on paper",
-            "Dimensions": "8 1/2 x 11\" (21.6 x 27.9 cm)",
-            "Credit": "Gift of Carol Lipton",
-            "Object number": "418.2003",
-            "Department": "Drawings and Prints"
+            "Medium": "Gelatin silver print",
+            "Dimensions": "8 15/16 \u00d7 13 7/16\" (22.7 \u00d7 34.1 cm)",
+            "Credit": "Purchase and gift of Barbara Schwartz in memory of Eugene M. Schwartz",
+            "Object number": "579.1998",
+            "Copyright": "\u00a9 The Estate of Garry Winogrand, courtesy Fraenkel Gallery",
+            "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/3567"
+        "Profile": "https://www.moma.org/artists/6399"
     },
     {
-        "Artist": "Raymond Loewy",
-        "Title": "Lawn Chef Portable Grill",
-        "Year": "c.1950",
-        "ObjectID": "142443",
-        "Work": "https://www.moma.org/collection/works/142443",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5Mzg1MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c471fba9447a806a",
+        "Artist": "Garry Winogrand",
+        "Title": "New York's World Fair",
+        "Year": "1964",
+        "ObjectID": "56909",
+        "Work": "https://www.moma.org/collection/works/56909",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzOTc0NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2c0eff43b90dea26",
         "Details": {
-            "Manufacturer": "Raymond Loewy Associates",
-            "Medium": "Galvanized and enameled steel",
-            "Dimensions": "40 1/2 x 41 1/2 x 26 1/2\" (102.9 x 105.4 x 67.3 cm)",
-            "Credit": "Architecture & Design Purchase Fund",
-            "Object number": "976.2010",
-            "Department": "Architecture and Design"
+            "Medium": "Gelatin silver print, printed 1974",
+            "Dimensions": "8 9/16 \u00d7 12 15/16\" (21.8 \u00d7 32.8 cm)",
+            "Credit": "Gift of N. Carol Lipis",
+            "Object number": "847.1978.12",
+            "Copyright": "\u00a9 The Estate of Garry Winogrand, courtesy Fraenkel Gallery",
+            "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/9768"
+        "Profile": "https://www.moma.org/artists/6399"
     },
     {
-        "Artist": "Sam Lucente",
-        "Title": "Canned Transistors SMS Card",
-        "Year": "c. 1955.",
-        "ObjectID": "4247",
-        "Work": "https://www.moma.org/collection/works/4247",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyOTkxMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=dfa02ec364e0e1e9",
+        "Artist": "Garry Winogrand",
+        "Title": "Klamath River, California",
+        "Year": "1964",
+        "ObjectID": "56910",
+        "Work": "https://www.moma.org/collection/works/56910",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzOTc0OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=eaef8596f2a5beef",
         "Details": {
-            "Manufacturer": "IBM, East Fishkill, NY",
-            "Medium": "Metal and plastic",
-            "Dimensions": "4 1/2 x 2 5/8\" (11.5 x 6.6 cm)",
+            "Medium": "Gelatin silver print, printed 1974",
+            "Dimensions": "8 9/16 \u00d7 12 15/16\" (21.8 \u00d7 32.8 cm)",
+            "Credit": "Gift of N. Carol Lipis",
+            "Object number": "847.1978.13",
+            "Copyright": "\u00a9 The Estate of Garry Winogrand, courtesy Fraenkel Gallery",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/6399"
+    },
+    {
+        "Artist": "Garry Winogrand",
+        "Title": "American Legion Convention, Dallas",
+        "Year": "1964",
+        "ObjectID": "56911",
+        "Work": "https://www.moma.org/collection/works/56911",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzOTc0OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f0d01837fe30ddd3",
+        "Details": {
+            "Medium": "Gelatin silver print, printed 1974",
+            "Dimensions": "8 9/16 \u00d7 12 15/16\" (21.8 \u00d7 32.8 cm)",
+            "Credit": "Gift of N. Carol Lipis",
+            "Object number": "847.1978.14",
+            "Copyright": "\u00a9 The Estate of Garry Winogrand, courtesy Fraenkel Gallery",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/6399"
+    },
+    {
+        "Artist": "Garry Winogrand",
+        "Title": "State Fair of Texas, Dallas",
+        "Year": "1964",
+        "ObjectID": "56914",
+        "Work": "https://www.moma.org/collection/works/56914",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzOTczOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e02c859bcb234c52",
+        "Details": {
+            "Medium": "Gelatin silver print, printed 1974",
+            "Dimensions": "8 9/16 \u00d7 12 13/16\" (21.7 \u00d7 32.6 cm)",
+            "Credit": "Gift of N. Carol Lipis",
+            "Object number": "847.1978.3",
+            "Copyright": "\u00a9 The Estate of Garry Winogrand, courtesy Fraenkel Gallery",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/6399"
+    },
+    {
+        "Artist": "Garry Winogrand",
+        "Title": "San Marcos, Texas",
+        "Year": "1964",
+        "ObjectID": "56915",
+        "Work": "https://www.moma.org/collection/works/56915",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzOTczOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=11026d3f82f6877a",
+        "Details": {
+            "Medium": "Gelatin silver print, printed 1974",
+            "Dimensions": "8 9/16 \u00d7 12 3/4\" (21.7 \u00d7 32.4 cm)",
+            "Credit": "Gift of N. Carol Lipis",
+            "Object number": "847.1978.4",
+            "Copyright": "\u00a9 The Estate of Garry Winogrand, courtesy Fraenkel Gallery",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/6399"
+    },
+    {
+        "Artist": "Garry Winogrand",
+        "Title": "Dallas, Texas",
+        "Year": "1964",
+        "ObjectID": "56916",
+        "Work": "https://www.moma.org/collection/works/56916",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzOTc0MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=74a6c462a0914826",
+        "Details": {
+            "Medium": "Gelatin silver print, printed 1974",
+            "Dimensions": "8 9/16 \u00d7 12 7/8\" (21.7 \u00d7 32.7 cm)",
+            "Credit": "Gift of N. Carol Lipis",
+            "Object number": "847.1978.5",
+            "Copyright": "\u00a9 The Estate of Garry Winogrand, courtesy Fraenkel Gallery",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/6399"
+    },
+    {
+        "Artist": "Garry Winogrand",
+        "Title": "Los Angeles International Airport",
+        "Year": "1964",
+        "ObjectID": "111047",
+        "Work": "https://www.moma.org/collection/works/111047",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5Mjg2NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4daa84ad8916c28c",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "13 3/8 \u00d7 8 15/16\" (34 \u00d7 22.7 cm)",
+            "Credit": "Purchase",
+            "Object number": "751.2007",
+            "Copyright": "\u00a9 The Estate of Garry Winogrand, courtesy Fraenkel Gallery",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/6399"
+    },
+    {
+        "Artist": "Garry Winogrand",
+        "Title": "Los Angeles International Airport",
+        "Year": "1964",
+        "ObjectID": "111065",
+        "Work": "https://www.moma.org/collection/works/111065",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5Mjg2NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=eb1f18f3b424fd5d",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "8 15/16 \u00d7 13 1/4\" (22.7 \u00d7 33.7 cm)",
+            "Credit": "Purchase and gift of Barbara Schwartz in memory of Eugene M. Schwartz",
+            "Object number": "752.2007",
+            "Copyright": "\u00a9 The Estate of Garry Winogrand, courtesy Fraenkel Gallery",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/6399"
+    },
+    {
+        "Artist": "Garry Winogrand",
+        "Title": "New York from Women are Beautiful",
+        "Year": "1964",
+        "ObjectID": "111085",
+        "Work": "https://www.moma.org/collection/works/111085",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MDY3OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=318f6c74579d54d9",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "13 1/16 \u00d7 8 3/4\" (33.2 \u00d7 22.2 cm)",
+            "Credit": "Purchase and gift of Barbara Schwartz in memory of Eugene M. Schwartz",
+            "Object number": "754.2007",
+            "Copyright": "\u00a9 The Estate of Garry Winogrand, courtesy Fraenkel Gallery",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/6399"
+    },
+    {
+        "Artist": "Garry Winogrand",
+        "Title": "Beverly Hilton from Women are Beautiful",
+        "Year": "1964",
+        "ObjectID": "111119",
+        "Work": "https://www.moma.org/collection/works/111119",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5Mjk2NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=39b4d91ee7d92e0a",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "13 1/16 \u00d7 8 3/4\" (33.1 \u00d7 22.2 cm)",
+            "Credit": "Purchase and gift of Barbara Schwartz in memory of Eugene M. Schwartz",
+            "Object number": "838.2007",
+            "Copyright": "\u00a9 The Estate of Garry Winogrand, courtesy Fraenkel Gallery",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/6399"
+    },
+    {
+        "Artist": "Garry Winogrand",
+        "Title": "Wyoming",
+        "Year": "1964",
+        "ObjectID": "111140",
+        "Work": "https://www.moma.org/collection/works/111140",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMTI2NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=dd0125b733f7bc6d",
+        "Details": {
+            "Medium": "Gelatin silver print, printed 1987-88 by Tom Consilvio",
+            "Dimensions": "15 1/16 \u00d7 22 9/16\" (38.2 \u00d7 57.3 cm)",
+            "Credit": "Purchase",
+            "Object number": "755.2007",
+            "Copyright": "\u00a9 The Estate of Garry Winogrand, courtesy Fraenkel Gallery",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/6399"
+    },
+    {
+        "Artist": "Garry Winogrand",
+        "Title": "Los Angeles",
+        "Year": "1964",
+        "ObjectID": "111142",
+        "Work": "https://www.moma.org/collection/works/111142",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMTI2MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=481a6ed2cd96514b",
+        "Details": {
+            "Medium": "Gelatin silver print, printed 1987-88 by Tom Consilvio",
+            "Dimensions": "14 7/8 \u00d7 22 1/4\" (37.8 \u00d7 56.5 cm)",
+            "Credit": "Purchase",
+            "Object number": "753.2007",
+            "Copyright": "\u00a9 The Estate of Garry Winogrand, courtesy Fraenkel Gallery",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/6399"
+    },
+    {
+        "Artist": "Garry Winogrand",
+        "Title": "George Wallace, Cotton Bowl, Dallas from the portfolio Big Shots",
+        "Year": "1964",
+        "ObjectID": "113239",
+        "Work": "https://www.moma.org/collection/works/113239",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5NzQzNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3d991f3bd8ed701c",
+        "Details": {
+            "Medium": "Gelatin silver print, printed 1983",
+            "Dimensions": "12 3/8 \u00d7 18 1/2\" (31.4 \u00d7 47 cm)",
+            "Credit": "Purchase and gift of Barbara Schwartz in memory of Eugene M. Schwartz",
+            "Object number": "847.2007.11",
+            "Copyright": "\u00a9 The Estate of Garry Winogrand, courtesy Fraenkel Gallery",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/6399"
+    },
+    {
+        "Artist": "Tapio Wirkkala",
+        "Title": "Vase",
+        "Year": "1963",
+        "ObjectID": "3551",
+        "Work": "https://www.moma.org/collection/works/3551",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxOTI4OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a5711e2c52208125",
+        "Details": {
+            "Manufacturer": "Rosenthal Porzellan A.G., Selb, Germany",
+            "Medium": "Glazed porcelain",
+            "Dimensions": "6 3/8 x 2 3/8\" (16.2 x 6 cm)",
             "Credit": "Gift of the manufacturer",
-            "Object number": "498.1990",
+            "Object number": "425.1964",
             "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/6612"
+        "Profile": "https://www.moma.org/artists/6409"
     },
     {
-        "Artist": "Jean Lurcat",
-        "Title": "Pelouse",
-        "Year": "c. 1925",
-        "ObjectID": "79753",
-        "Work": "https://www.moma.org/collection/works/79753",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzOTkyMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5d6d397d6519db34",
-        "Details": {
-            "Manufacturer": "Myrbor",
-            "Medium": "Woven wool",
-            "Dimensions": "76 x 50\" (193 x 127 cm)",
-            "Credit": "Gift of Mr. and Mrs. John D. Rockefeller 3rd",
-            "Object number": "326.1955",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/3641"
-    },
-    {
-        "Artist": "George Maciunas",
-        "Title": "Untitled (for Leokadia Maciunas)",
-        "Year": "c. 1950",
-        "ObjectID": "127892",
-        "Work": "https://www.moma.org/collection/works/127892",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3MjIyMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9fcedf7d38b34f5a",
-        "Details": {
-            "Medium": "Ink, pencil, and watercolor on paper",
-            "Dimensions": "sheet: 7 7/8 \u00d7 4 15/16\" (20 \u00d7 12.5 cm)",
-            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
-            "Object number": "2323.2008",
-            "Copyright": "\u00a9 2023 George Maciunas",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/21398"
-    },
-    {
-        "Artist": "George Maciunas",
+        "Artist": "Dick Wray",
         "Title": "Untitled",
-        "Year": "Early 1950's",
-        "ObjectID": "127894",
-        "Work": "https://www.moma.org/collection/works/127894",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NTgwNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4b4e5668af6b1819",
-        "Details": {
-            "Medium": "Pencil on paper",
-            "Dimensions": "sheet: 7 x 4\" (17.8 x 10.2 cm)",
-            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
-            "Object number": "2325.2008",
-            "Copyright": "\u00a9 2023 George Maciunas",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/21398"
-    },
-    {
-        "Artist": "Alexander Mackendrick",
-        "Title": "The Ladykillers",
-        "Year": "1955",
-        "ObjectID": "316686",
-        "Work": "https://www.moma.org/collection/works/316686",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ4ODE2NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1007cbef41ac85ad",
-        "Details": {
-            "Producer": "Seth Holt",
-            "Object number": "W7576",
-            "Department": "Film"
-        },
-        "Profile": "https://www.moma.org/artists/33663"
-    },
-    {
-        "Artist": "Jackson Mac Low",
-        "Title": "21.21.29., The 5th Biblical Poem (for 3 Simultaneous Voices) The 1st Biblical Play",
-        "Year": "1955",
-        "ObjectID": "127452",
-        "Work": "https://www.moma.org/collection/works/127452",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5NjQ2NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=30c1833a0c223286",
-        "Details": {
-            "Medium": "Carbon copy, typewriting, ink, and pencil on paper",
-            "Dimensions": "sheet: 10 15/16 x 8 1/2\" (27.8 x 21.6 cm)",
-            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
-            "Object number": "2577.2008",
-            "Copyright": "\u00a9 2023 The Estate of Jackson Mac Low",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/34743"
-    },
-    {
-        "Artist": "Rene Magritte",
-        "Title": "Memory of a Voyage",
-        "Year": "1955",
-        "ObjectID": "80065",
-        "Work": "https://www.moma.org/collection/works/80065",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM3OTQwNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cb0d5240b58d0054",
-        "Details": {
-            "Medium": "Oil on canvas",
-            "Dimensions": "63 7/8 x 51 1/4\" (162.2 x 130.2 cm)",
-            "Credit": "Gift of D. and J. de Menil",
-            "Object number": "607.1959",
-            "Copyright": "\u00a9 2023 C. Herscovici, Brussels / Artists Rights Society (ARS), New York",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/3692"
-    },
-    {
-        "Artist": "Shoichi Makino",
-        "Title": "Crater and Flesh of Mt. Fuji",
-        "Year": "c. 1950",
-        "ObjectID": "48854",
-        "Work": "https://www.moma.org/collection/works/48854",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0MDcwNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6d28c24fe65fed1b",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "14 \u00d7 10 7/8\" (35.5 \u00d7 27.6 cm)",
-            "Credit": "Gift of Nihon Keizai Shimbun",
-            "Object number": "219.1959",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/3705"
-    },
-    {
-        "Artist": "Manolo (Manuel Martinez Hugue)",
-        "Title": "Nudes (Nus)",
-        "Year": "1891",
-        "ObjectID": "65119",
-        "Work": "https://www.moma.org/collection/works/65119",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQyNDM1MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=86cf95067be26a55",
-        "Details": {
-            "Medium": "Woodcut",
-            "Dimensions": "composition (irreg.): 4 3/4 \u00d7 7\" (12.1 \u00d7 17.8 cm); sheet: 9 \u00d7 12 5/8\" (22.8 \u00d7 32.1 cm)",
-            "Edition": "50",
-            "Credit": "Gift of Abby Aldrich Rockefeller (by exchange)",
-            "Object number": "245.1955",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/3733"
-    },
-    {
-        "Artist": "Manolo (Manuel Martinez Hugue)",
-        "Title": "Two Women (Deux femmes)",
-        "Year": "1891",
-        "ObjectID": "65137",
-        "Work": "https://www.moma.org/collection/works/65137",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQyNDM1NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ab8c0047ea7baaad",
-        "Details": {
-            "Medium": "Woodcut",
-            "Dimensions": "composition: 7 \u00d7 4 9/16\" (17.8 \u00d7 11.6 cm); sheet: 9 1/2 \u00d7 7 1/2\" (24.2 \u00d7 19 cm)",
-            "Edition": "unknown",
-            "Credit": "Gift of Abby Aldrich Rockefeller (by exchange)",
-            "Object number": "246.1955",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/3733"
-    },
-    {
-        "Artist": "Andre Masson",
-        "Title": "Panic",
-        "Year": "1955",
-        "ObjectID": "70187",
-        "Work": "https://www.moma.org/collection/works/70187",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3OTgxMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=09399b86f35901ed",
-        "Details": {
-            "Medium": "Etching",
-            "Dimensions": "plate: 2 3/8 x 11 3/16\" (6.1 x 28.4 cm); sheet: 4 5/8 x 15 1/4\" (11.8 x 38.7 cm)",
-            "Credit": "Gift of Mr. and Mrs. Walter Bareiss, in memory of Peter H. Deitsch",
-            "Object number": "502.1971",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/3821"
-    },
-    {
-        "Artist": "Andre Masson",
-        "Title": "Bones and Chrysalids",
-        "Year": "1955",
-        "ObjectID": "70872",
-        "Work": "https://www.moma.org/collection/works/70872",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNzg3OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7fbd278f7dba99bd",
+        "Year": "1964",
+        "ObjectID": "76661",
+        "Work": "https://www.moma.org/collection/works/76661",
+        "Thumbnail": null,
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "composition (irreg.): 22 3/16 x 14 13/16\" (56.4 x 37.6 cm); sheet (irreg.): 26 x 20\" (66 x 50.8 cm)",
-            "Credit": "Gift of the Saidenberg Gallery",
-            "Object number": "543.1960",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Dimensions": "composition and sheet: 29 5/8 \u00d7 41 5/16\" (75.3 \u00d7 105 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1393.1967",
+            "Associated work": "Tamarind Lithography Workshop Archive",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/3821"
+        "Profile": "https://www.moma.org/artists/6457"
     },
     {
-        "Artist": "Henri Matisse",
-        "Title": "Chasuble",
-        "Year": "1950-52 (manufactured 1955)",
-        "ObjectID": "79556",
-        "Work": "https://www.moma.org/collection/works/79556",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwODg0NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=eaac7c3a547f124e",
+        "Artist": "Dick Wray",
+        "Title": "Untitled",
+        "Year": "1964",
+        "ObjectID": "76690",
+        "Work": "https://www.moma.org/collection/works/76690",
+        "Thumbnail": null,
         "Details": {
-            "Medium": "Silk with appliqu\u00e9 of silk satin, shantung, and velvet, lined",
-            "Dimensions": "46 x 76\" (116.8 x 193 cm) front, 51 x 76\" (129.5 x 193 cm) back",
-            "Credit": "Gift of Mrs. Charles Suydam Cutting",
-            "Object number": "374.1955",
-            "Copyright": "\u00a9 2023 Succession H. Matisse / Artists Rights Society (ARS), New York",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/3832"
-    },
-    {
-        "Artist": "Henri Matisse",
-        "Title": "Maquette for a stole from a set of red and yellow liturgical vestments designed for the Chapel of the Rosary of the Dominican Nuns of Vence",
-        "Year": "c. 1950",
-        "ObjectID": "84965",
-        "Work": "https://www.moma.org/collection/works/84965",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4NjMzOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5ea1910a86899ad6",
-        "Details": {
-            "Medium": "Cut-and-pasted painted paper",
-            "Dimensions": "49 \u00d7 7 1/2\" (124.5 \u00d7 19 cm)",
-            "Credit": "Acquired through the Lillie P. Bliss Bequest (by exchange)",
-            "Object number": "176.1953.3",
-            "Copyright": "\u00a9 2023 Succession H. Matisse / Artists Rights Society (ARS), New York",
+            "Medium": "Lithograph",
+            "Dimensions": "composition and sheet: 17 1/16 \u00d7 21 7/16\" (43.3 \u00d7 54.4 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1394.1967",
+            "Associated work": "Tamarind Lithography Workshop Archive",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/3832"
+        "Profile": "https://www.moma.org/artists/6457"
     },
     {
-        "Artist": "Henri Matisse",
-        "Title": "Maquette for a chalice veil from a set of red and yellow liturgical vestments designed for the Chapel of the Rosary of the Dominican Nuns of Vence",
-        "Year": "c. 1950",
-        "ObjectID": "85305",
-        "Work": "https://www.moma.org/collection/works/85305",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4NTQxMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2c0135c4ff5e53e4",
+        "Artist": "Dick Wray",
+        "Title": "Untitled",
+        "Year": "1964",
+        "ObjectID": "76699",
+        "Work": "https://www.moma.org/collection/works/76699",
+        "Thumbnail": null,
         "Details": {
-            "Medium": "Cut-and-pasted painted paper on paper",
-            "Dimensions": "20 1/4 \u00d7 20 1/4\" (51.4 \u00d7 51.4 cm)",
-            "Credit": "Acquired through the Lillie P. Bliss Bequest (by exchange)",
-            "Object number": "176.1953.5",
-            "Copyright": "\u00a9 2023 Succession H. Matisse / Artists Rights Society (ARS), New York",
+            "Medium": "Lithograph",
+            "Dimensions": "composition and sheet: 14 9/16 \u00d7 19 7/16\" (37 \u00d7 49.4 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1395.1967",
+            "Associated work": "Tamarind Lithography Workshop Archive",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/3832"
+        "Profile": "https://www.moma.org/artists/6457"
     },
     {
-        "Artist": "Henri Matisse",
-        "Title": "Maquette for a burse from a set of red and yellow liturgical vestments designed for the Chapel of the Rosary of the Dominican Nuns of Vence",
-        "Year": "c. 1950",
-        "ObjectID": "85306",
-        "Work": "https://www.moma.org/collection/works/85306",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4NTAxOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=da0c170ab6a4144a",
+        "Artist": "Dick Wray",
+        "Title": "Untitled",
+        "Year": "1964",
+        "ObjectID": "76704",
+        "Work": "https://www.moma.org/collection/works/76704",
+        "Thumbnail": null,
         "Details": {
-            "Medium": "Cut-and-pasted painted paper on paper",
-            "Dimensions": "10 \u00d7 8 3/4\" (25.4 \u00d7 22.2 cm)",
-            "Credit": "Acquired through the Lillie P. Bliss Bequest (by exchange)",
-            "Object number": "176.1953.6",
-            "Copyright": "\u00a9 2023 Succession H. Matisse / Artists Rights Society (ARS), New York",
+            "Medium": "Lithograph",
+            "Dimensions": "composition and sheet: 19 5/16 \u00d7 14 7/16\" (49 \u00d7 36.6 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1396.1967",
+            "Associated work": "Tamarind Lithography Workshop Archive",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/3832"
+        "Profile": "https://www.moma.org/artists/6457"
     },
     {
-        "Artist": "Fujio Matsugi",
+        "Artist": "Dick Wray",
+        "Title": "Untitled",
+        "Year": "1964",
+        "ObjectID": "76708",
+        "Work": "https://www.moma.org/collection/works/76708",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition (irreg.): 18 9/16 \u00d7 26 9/16\" (47.2 \u00d7 67.5 cm); sheet: 19 \u00d7 26 13/16\" (48.2 \u00d7 68.1 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1397.1967",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6457"
+    },
+    {
+        "Artist": "Dick Wray",
+        "Title": "Untitled",
+        "Year": "1964",
+        "ObjectID": "76710",
+        "Work": "https://www.moma.org/collection/works/76710",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition and sheet: 28 3/8 \u00d7 40 3/16\" (72 \u00d7 102 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1398.1967",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6457"
+    },
+    {
+        "Artist": "Dick Wray",
+        "Title": "Untitled",
+        "Year": "1964",
+        "ObjectID": "76712",
+        "Work": "https://www.moma.org/collection/works/76712",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition and sheet: 28 1/4 \u00d7 38 1/8\" (71.8 \u00d7 96.8 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1399.1967",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6457"
+    },
+    {
+        "Artist": "Dick Wray",
+        "Title": "Untitled",
+        "Year": "1964",
+        "ObjectID": "76715",
+        "Work": "https://www.moma.org/collection/works/76715",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition and sheet: 15 1/8 \u00d7 16 1/16\" (38.4 \u00d7 40.8 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1400.1967",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6457"
+    },
+    {
+        "Artist": "Dick Wray",
+        "Title": "Untitled",
+        "Year": "1964",
+        "ObjectID": "76717",
+        "Work": "https://www.moma.org/collection/works/76717",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition and sheet: 28 9/16 \u00d7 32 7/8\" (72.5 \u00d7 83.5 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "12, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1401.1967",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6457"
+    },
+    {
+        "Artist": "Dick Wray",
+        "Title": "Untitled",
+        "Year": "1964",
+        "ObjectID": "76719",
+        "Work": "https://www.moma.org/collection/works/76719",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition and sheet: 27 15/16 \u00d7 37\" (70.9 \u00d7 94 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1402.1967",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6457"
+    },
+    {
+        "Artist": "Dick Wray",
+        "Title": "Untitled",
+        "Year": "1964",
+        "ObjectID": "76721",
+        "Work": "https://www.moma.org/collection/works/76721",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition and sheet: 22 1/4 \u00d7 29 15/16\" (56.5 \u00d7 76 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1403.1967",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6457"
+    },
+    {
+        "Artist": "Dick Wray",
+        "Title": "Untitled",
+        "Year": "1964",
+        "ObjectID": "76723",
+        "Work": "https://www.moma.org/collection/works/76723",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition and sheet: 22 3/16 \u00d7 29 15/16\" (56.4 \u00d7 76.1 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1404.1967",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6457"
+    },
+    {
+        "Artist": "Dick Wray",
+        "Title": "Untitled",
+        "Year": "1964",
+        "ObjectID": "76725",
+        "Work": "https://www.moma.org/collection/works/76725",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition and sheet: 22 1/4 \u00d7 14 7/8\" (56.5 \u00d7 37.8 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1405.1967",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6457"
+    },
+    {
+        "Artist": "Dick Wray",
+        "Title": "Untitled",
+        "Year": "1964",
+        "ObjectID": "76727",
+        "Work": "https://www.moma.org/collection/works/76727",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition and sheet: 21 \u00d7 25\" (53.4 \u00d7 63.5 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1406.1967",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6457"
+    },
+    {
+        "Artist": "Dick Wray",
+        "Title": "Untitled",
+        "Year": "1964",
+        "ObjectID": "76729",
+        "Work": "https://www.moma.org/collection/works/76729",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition and sheet: 22 1/8 \u00d7 30 1/16\" (56.2 \u00d7 76.3 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1407.1967",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6457"
+    },
+    {
+        "Artist": "Dick Wray",
+        "Title": "Untitled",
+        "Year": "1964",
+        "ObjectID": "76731",
+        "Work": "https://www.moma.org/collection/works/76731",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition and sheet: 20 3/16 \u00d7 14 15/16\" (51.2 \u00d7 38 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1408.1967",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6457"
+    },
+    {
+        "Artist": "Dick Wray",
+        "Title": "Untitled",
+        "Year": "1964",
+        "ObjectID": "76733",
+        "Work": "https://www.moma.org/collection/works/76733",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition (irreg.) and sheet: 27 5/8 \u00d7 34 1/16\" (70.2 \u00d7 86.5 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1409.1967",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6457"
+    },
+    {
+        "Artist": "Dick Wray",
+        "Title": "Untitled",
+        "Year": "1964",
+        "ObjectID": "76735",
+        "Work": "https://www.moma.org/collection/works/76735",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition and sheet: 14 15/16 \u00d7 20 1/8\" (37.9 \u00d7 51.1 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1410.1967",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6457"
+    },
+    {
+        "Artist": "Dick Wray",
+        "Title": "Untitled",
+        "Year": "1964",
+        "ObjectID": "76737",
+        "Work": "https://www.moma.org/collection/works/76737",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition (slightly irreg.): 8 1/4 \u00d7 9 3/4\" (20.9 \u00d7 24.7 cm); sheet: 11 1/8 \u00d7 12 9/16\" (28.2 \u00d7 31.9 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1411.1967",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6457"
+    },
+    {
+        "Artist": "Dick Wray",
+        "Title": "Untitled",
+        "Year": "1964",
+        "ObjectID": "76739",
+        "Work": "https://www.moma.org/collection/works/76739",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition (irreg.): 7 1/4 \u00d7 6 1/8\" (18.4 \u00d7 15.5 cm); sheet: 12 1/2 \u00d7 11 9/16\" (31.8 \u00d7 29.4 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1412.1967",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6457"
+    },
+    {
+        "Artist": "Dick Wray",
+        "Title": "Untitled",
+        "Year": "1964",
+        "ObjectID": "76741",
+        "Work": "https://www.moma.org/collection/works/76741",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition (irreg.): 12 1/8 \u00d7 12 15/16\" (30.8 \u00d7 32.8 cm); sheet: 20 1/16 \u00d7 15 5/8\" (51 \u00d7 39.7 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1413.1967",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6457"
+    },
+    {
+        "Artist": "Dick Wray",
+        "Title": "Untitled",
+        "Year": "1964",
+        "ObjectID": "76743",
+        "Work": "https://www.moma.org/collection/works/76743",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition (irreg.): 7 5/8 \u00d7 8 9/16\" (19.3 \u00d7 21.7 cm); sheet: 15 1/8 \u00d7 15\" (38.4 \u00d7 38.1 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1414.1967",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6457"
+    },
+    {
+        "Artist": "Sori Yanagi",
+        "Title": "Counter Scale",
+        "Year": "1964",
+        "ObjectID": "133821",
+        "Work": "https://www.moma.org/collection/works/133821",
+        "Thumbnail": null,
+        "Details": {
+            "Manufacturer": "Teraoka Seiko Co., Ltd., Japan",
+            "Medium": "Plastic, metal and glass",
+            "Dimensions": "12 3/8 x 20 1/2 x 8 5/8\" (31.4 x 52.1 x 21.9 cm)",
+            "Credit": "Gift of Moon Palace Daisuke Enomoto",
+            "Object number": "135.2010",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/6490"
+    },
+    {
+        "Artist": "Yasuhiro Ishimoto",
         "Title": "Untitled",
         "Year": "c. 1950",
-        "ObjectID": "48891",
-        "Work": "https://www.moma.org/collection/works/48891",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0MDcwOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b15d1263b859ee8d",
+        "ObjectID": "45729",
+        "Work": "https://www.moma.org/collection/works/45729",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0MjM2MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7b176f06e45ccaa3",
         "Details": {
             "Medium": "Gelatin silver print",
-            "Dimensions": "11 5/8 \u00d7 8 3/8\" (29.4 \u00d7 21.3 cm)",
-            "Credit": "Gift of Nihon Keizai Shimbun",
-            "Object number": "221.1959",
+            "Dimensions": "7 5/8 \u00d7 9 7/16\" (19.4 \u00d7 24 cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "76.1964",
             "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/3835"
+        "Profile": "https://www.moma.org/artists/2834"
     },
     {
-        "Artist": "Tosh Matsumoto",
-        "Title": "Untitled",
-        "Year": "c. 1950",
-        "ObjectID": "54920",
-        "Work": "https://www.moma.org/collection/works/54920",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1OTQ4MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9c3ca19e8c8c69ac",
+        "Artist": "Joseph E. Yoakum",
+        "Title": "Julian Alps Near Triest, Yugoslavia",
+        "Year": "1964",
+        "ObjectID": "89536",
+        "Work": "https://www.moma.org/collection/works/89536",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ2NDgzOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=742a9afa8bf09dca",
         "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "9 3/8 \u00d7 6 3/16\" (23.8 \u00d7 15.7 cm)",
-            "Credit": "Gift of Edward Steichen",
-            "Object number": "543.1959",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/75581"
-    },
-    {
-        "Artist": "Roger Mayne",
-        "Title": "Snow in Bethnal Green, London",
-        "Year": "1955",
-        "ObjectID": "45994",
-        "Work": "https://www.moma.org/collection/works/45994",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwNzcxMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f90ee3e3e953a7af",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "7 7/8 \u00d7 11 5/16\" (20 \u00d7 28.7 cm)",
-            "Credit": "Purchase",
-            "Object number": "88.1964",
-            "Copyright": "\u00a9 2023 Roger Mayne",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/3862"
-    },
-    {
-        "Artist": "Elizabeth McFadden",
-        "Title": "Banners of the Sun",
-        "Year": "(1955)",
-        "ObjectID": "37376",
-        "Work": "https://www.moma.org/collection/works/37376",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NTMyNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ef75879215393c5d",
-        "Details": {
-            "Medium": "Fabric and painted metallic-surfaced paper on corrugated cardboard",
-            "Dimensions": "18 1/4 x 16 1/8\" (46.4 x 40.7 cm)",
-            "Credit": "Purchase",
-            "Object number": "576.1956",
+            "Medium": "Ballpoint pen and pencil on colored paper",
+            "Dimensions": "12 x 18\" (30.5 x 45.7 cm)",
+            "Credit": "Gift of Jan Christiaan Braun in honor of Mrs. June Noble Larkin",
+            "Object number": "20.2004",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/3882"
+        "Profile": "https://www.moma.org/artists/26683"
     },
     {
-        "Artist": "Ludwig Mies van der Rohe",
-        "Title": "Morris Greenwald House, Weston, Connecticut, Elevations and sections",
-        "Year": "1955",
-        "ObjectID": "120831",
-        "Work": "https://www.moma.org/collection/works/120831",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE0Mjg3OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5fead20aa2f99085",
+        "Artist": "Joseph E. Yoakum",
+        "Title": "Big Hole Pass Jackson Montana",
+        "Year": "n.d.",
+        "ObjectID": "148099",
+        "Work": "https://www.moma.org/collection/works/148099",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQzNzU2MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=07cee10eeb57efbe",
         "Details": {
-            "Medium": "Colored pencil on blueprint",
-            "Dimensions": "24 x 42 1/2\" (61 x 108 cm)",
-            "Credit": "Mies van der Rohe Archive, gift of the architect",
-            "Object number": "MR5110.48",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/7166"
-    },
-    {
-        "Artist": "Ludwig Mies van der Rohe",
-        "Title": "Morris Greenwald House, Weston, Connecticut, Elevations",
-        "Year": "1955",
-        "ObjectID": "120832",
-        "Work": "https://www.moma.org/collection/works/120832",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE0Mjg4MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=99950c04d9468753",
-        "Details": {
-            "Medium": "Colored pencil on blueprint",
-            "Dimensions": "24 x 42 1/2\" (61 x 108 cm)",
-            "Credit": "Mies van der Rohe Archive, gift of the architect",
-            "Object number": "MR5110.49",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/7166"
-    },
-    {
-        "Artist": "Ludwig Mies van der Rohe",
-        "Title": "Morris Greenwald House, Weston, Connecticut, Floor plan",
-        "Year": "1955",
-        "ObjectID": "120833",
-        "Work": "https://www.moma.org/collection/works/120833",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE0Mjg4MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d3de15952d6ea21f",
-        "Details": {
-            "Medium": "Colored pencil on blueprint",
-            "Dimensions": "24 x 42 1/2\" (61 x 108 cm)",
-            "Credit": "Mies van der Rohe Archive, gift of the architect",
-            "Object number": "MR5110.50",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/7166"
-    },
-    {
-        "Artist": "Ludwig Mies van der Rohe",
-        "Title": "Morris Greenwald House, Weston, Connecticut, Site plan",
-        "Year": "1955",
-        "ObjectID": "120834",
-        "Work": "https://www.moma.org/collection/works/120834",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE0Mjg4MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d47ca3ea08541b45",
-        "Details": {
-            "Medium": "Colored pencil on blueprint",
-            "Dimensions": "24 x 42 1/2\" (61 x 108 cm)",
-            "Credit": "Mies van der Rohe Archive, gift of the architect",
-            "Object number": "MR5110.51",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/7166"
-    },
-    {
-        "Artist": "Ludwig Mies van der Rohe",
-        "Title": "Herbert Greenwald House Project, Lake Forest, Illinois, Plot plan",
-        "Year": "1955",
-        "ObjectID": "125830",
-        "Work": "https://www.moma.org/collection/works/125830",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NTc0NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f24339d9dcf1d4a0",
-        "Details": {
-            "Medium": "Pencil on paper",
-            "Dimensions": "21 x 51\" (53.3 x 129.5 cm)",
-            "Credit": "Mies van der Rohe Archive, gift of the architect",
-            "Object number": "MR5511.1",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/7166"
-    },
-    {
-        "Artist": "Ludwig Mies van der Rohe",
-        "Title": "Untitled (Sketch)",
-        "Year": "1955",
-        "ObjectID": "195859",
-        "Work": "https://www.moma.org/collection/works/195859",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0Mjg0MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=74bff12e3929028c",
-        "Details": {
-            "Medium": "Pencil on paper",
-            "Dimensions": "4 7/8 \u00d7 4\" (12.4 \u00d7 10.2 cm)",
-            "Credit": "Gift of Anderson Todd",
-            "Object number": "1058.2015",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/7166"
-    },
-    {
-        "Artist": "Ludwig Mies van der Rohe",
-        "Title": "Untitled (Sketch)",
-        "Year": "1955",
-        "ObjectID": "199089",
-        "Work": "https://www.moma.org/collection/works/199089",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0MjgyNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6eef34a09f3210bb",
-        "Details": {
-            "Medium": "Pencil on paper",
-            "Dimensions": "4 \u00d7 4 7/8\" (10.2 \u00d7 12.4 cm)",
-            "Credit": "Gift of Anderson Todd",
-            "Object number": "1059.2015",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/7166"
-    },
-    {
-        "Artist": "Ludwig Mies van der Rohe",
-        "Title": "German Pavilion, International Exposition, Barcelona, Spain (Sketch)",
-        "Year": "1929 (redrawn 1955)",
-        "ObjectID": "199090",
-        "Work": "https://www.moma.org/collection/works/199090",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0Mjg0NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=67ae5f451e059cec",
-        "Details": {
-            "Medium": "Pencil on paper",
-            "Dimensions": "4 \u00d7 4 7/8\" (10.2 \u00d7 12.4 cm)",
-            "Credit": "Gift of Anderson Todd",
-            "Object number": "1060.2015.a-b",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/7166"
-    },
-    {
-        "Artist": "Joan Miro",
-        "Title": "Galerie Maeght, 13 rue de Teheran, Miro, l'oiseau solaire, l'oiseau lunaire, etincelles",
-        "Year": "Unknown",
-        "ObjectID": "7084",
-        "Work": "https://www.moma.org/collection/works/7084",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMDIyNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e0c11555351c8ac4",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "25 5/16 x 18 13/16\" (64.3 x 47.8 cm)",
-            "Credit": "Peter Stone Collection of Posters by Artists",
-            "Object number": "457.1976",
-            "Copyright": "\u00a9 2023 Successi\u00f3  Mir\u00f3 / Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/4016"
-    },
-    {
-        "Artist": "Joan Miro",
-        "Title": "Galerie Maeght, Miro Artigas, Ceramiques Monumentales",
-        "Year": "Unknown",
-        "ObjectID": "7089",
-        "Work": "https://www.moma.org/collection/works/7089",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMDIyNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f98dabc437300398",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "26 5/16 x 19 9/16\" (66.9 x 49.7 cm)",
-            "Credit": "Peter Stone Collection of Posters by Artists",
-            "Object number": "458.1976",
-            "Copyright": "\u00a9 2023 Successi\u00f3  Mir\u00f3 / Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/4016"
-    },
-    {
-        "Artist": "Joan Miro",
-        "Title": "Beclouded Person",
-        "Year": "1955",
-        "ObjectID": "61061",
-        "Work": "https://www.moma.org/collection/works/61061",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMzQ4MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d18ea4e71fcf7f2d",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "composition: 29 3/4 x 21 3/4\" (75.6 x 55.3 cm); sheet: 29 15/16 x 22 1/16\" (76.1 x 56 cm)",
-            "Publisher": "Maeght, Paris",
-            "Printer": "Mourlot, Paris",
-            "Edition": "50",
-            "Credit": "Larry Aldrich Fund",
-            "Object number": "57.1957",
-            "Copyright": "\u00a9 2023 Successi\u00f3 Mir\u00f3 / Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Medium": "Graphite pencil and black and blue ballpoint pen on paper",
+            "Dimensions": "8 x 10\" (20.3 x 25.4 cm)",
+            "Credit": "Gift of the Raymond K. Yoshida Living Trust and Kohler Foundation, Inc.",
+            "Object number": "1173.2011",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/4016"
+        "Profile": "https://www.moma.org/artists/26683"
     },
     {
-        "Artist": "Joan Miro",
-        "Title": "Sun Eater",
-        "Year": "1955",
-        "ObjectID": "61382",
-        "Work": "https://www.moma.org/collection/works/61382",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3NTA3OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b928cfc3fc45cfcf",
+        "Artist": "Joseph E. Yoakum",
+        "Title": "The Great Mtn Range near Canberra Australia",
+        "Year": "stamped 1964",
+        "ObjectID": "396074",
+        "Work": "https://www.moma.org/collection/works/396074",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjU0MTQwMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1304c5efb3084554",
         "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "composition: 29 3/16 \u00d7 20 11/16\" (74.2 \u00d7 52.5 cm); sheet: 30 1/16 \u00d7 22 1/8\" (76.3 \u00d7 56.2 cm)",
-            "Publisher": "Maeght, Paris",
-            "Printer": "Mourlot, Paris",
-            "Edition": "50",
-            "Credit": "Larry Aldrich Fund",
-            "Object number": "62.1957",
-            "Copyright": "\u00a9 2023 Successi\u00f3 Mir\u00f3 / Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Medium": "Black and blue fountain pen and graphite pencil on paper",
+            "Dimensions": "12 \u00d7 17 15/16\" (30.5 \u00d7 45.5 cm)",
+            "Credit": "Gift of an anonymous donor",
+            "Object number": "549.2021",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/4016"
+        "Profile": "https://www.moma.org/artists/26683"
     },
     {
-        "Artist": "Joan Miro",
-        "Title": "Figure (Personnage)",
-        "Year": "1955",
-        "ObjectID": "61400",
-        "Work": "https://www.moma.org/collection/works/61400",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMzQ5OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=141ac0d72fa0139e",
+        "Artist": "Joseph E. Yoakum",
+        "Title": "English Channel between Southampton England and Le Havre France",
+        "Year": "1964",
+        "ObjectID": "396488",
+        "Work": "https://www.moma.org/collection/works/396488",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjU0MTQwMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4ac6c8cb24e07abc",
         "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "composition: 20 3/4 x 29\" (52.7 x 73.6 cm); sheet: 22 1/8 x 29 3/4\" (56.2 x 75.5 cm)",
-            "Publisher": "Maeght, Paris",
-            "Printer": "Mourlot, Paris",
-            "Edition": "50",
-            "Credit": "Larry Aldrich Fund",
-            "Object number": "63.1957",
-            "Copyright": "\u00a9 2023 Successi\u00f3 Mir\u00f3 / Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Medium": "Blue ballpoint pen, pastel, and colored pencil on paper",
+            "Dimensions": "11 15/16 \u00d7 19\" (30.4 \u00d7 48.2 cm)",
+            "Credit": "Gift of an anonymous donor",
+            "Object number": "547.2021",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/4016"
+        "Profile": "https://www.moma.org/artists/26683"
     },
     {
-        "Artist": "Joan Miro",
-        "Title": "Family of Bird Catchers",
-        "Year": "1955",
-        "ObjectID": "61417",
-        "Work": "https://www.moma.org/collection/works/61417",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMzUwMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5227fcf9c9f479a2",
+        "Artist": "Tadanori Yokoo",
+        "Title": "Smiling mouth with moustache, Recital at Kyoto Festival Hall",
+        "Year": "1964",
+        "ObjectID": "7946",
+        "Work": "https://www.moma.org/collection/works/7946",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxOTQ4MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=01862d00253c59a5",
         "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "composition: 27 1/4 x 21 7/8\" (69.2 x 55.5 cm); sheet: 29 3/4 x 22 1/8\" (75.6 x 56.2 cm)",
-            "Publisher": "Maeght, Paris",
-            "Printer": "Mourlot, Paris",
-            "Edition": "50",
-            "Credit": "Larry Aldrich Fund",
-            "Object number": "64.1957",
-            "Copyright": "\u00a9 2023 Successi\u00f3 Mir\u00f3 / Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/4016"
-    },
-    {
-        "Artist": "Inge Morath",
-        "Title": "Siesta of a Lottery Ticket Vendor, Plaza Mayor, Madrid",
-        "Year": "1955",
-        "ObjectID": "407387",
-        "Work": "https://www.moma.org/collection/works/407387",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ5MzIwNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=75ab5d979fdb849e",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "7 3/16 \u00d7 4 3/4\" (18.3 \u00d7 12.1 cm)",
-            "Credit": "Gift of Helen Kornblum in honor of Roxana Marcoci",
-            "Object number": "63.2020",
-            "Copyright": "\u00a9 The Inge Morath Foundation/Magnum Photos",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/38512"
-    },
-    {
-        "Artist": "Ibi Trier M\u00f8rch",
-        "Title": "Serving Pot",
-        "Year": "1955",
-        "ObjectID": "2949",
-        "Work": "https://www.moma.org/collection/works/2949",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMDgzNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fa977b8dec157cab",
-        "Details": {
-            "Manufacturer": "A. Michelsen Silversmith, Denmark",
-            "Medium": "Sterling silver and ebony",
-            "Dimensions": "2 3/4 x 10 7/8 x 4 7/8\" (7 x 27.6 x 12.4 cm)",
-            "Credit": "Purchase Fund",
-            "Object number": "238.1958",
+            "Medium": "Offset lithograph",
+            "Dimensions": "28 3/4 x 20 1/2\" (72.9 x 51.1 cm)",
+            "Credit": "Gift of the designer",
+            "Object number": "693.1966",
+            "Copyright": "\u00a9 2023 Tadanori Yokoo",
             "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/4080"
-    },
-    {
-        "Artist": "Masamitsu Moriwaki",
-        "Title": "White Rock",
-        "Year": "c. 1950",
-        "ObjectID": "49019",
-        "Work": "https://www.moma.org/collection/works/49019",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1OTQzNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=28b9a9c6776043ff",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "9 1/4 \u00d7 14\" (23.5 \u00d7 35.5 cm)",
-            "Credit": "Gift of Nihon Keizai Shimbun",
-            "Object number": "224.1959",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/4098"
-    },
-    {
-        "Artist": "Serge Mouille",
-        "Title": "Floor Lamp",
-        "Year": "c. 1950",
-        "ObjectID": "3916",
-        "Work": "https://www.moma.org/collection/works/3916",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyOTc1OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3a43b24c5ea48519",
-        "Details": {
-            "Manufacturer": "L'Atelier de Serge Mouille, France",
-            "Medium": "Painted brass and steel",
-            "Dimensions": "64 3/16 x 37 x 37 3/16\" (163 x 94 x 96 cm)",
-            "Credit": "Gift of Patricia Phelps de Cisneros",
-            "Object number": "465.1997",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/7981"
-    },
-    {
-        "Artist": "Lee Mullican",
-        "Title": "Presence",
-        "Year": "1955",
-        "ObjectID": "80839",
-        "Work": "https://www.moma.org/collection/works/80839",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwMjM2NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5222d7bb1db7e1fd",
-        "Details": {
-            "Medium": "Painted wood",
-            "Dimensions": "36 1/8 x 17 3/8 x 1 1/4\" (91.5 x 44.1 x 3.2 cm)",
-            "Credit": "Mr. and Mrs. Roy R. Neuberger Fund",
-            "Object number": "19.1956",
-            "Copyright": "\u00a9 2023 Estate of Lee Mullican",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/4159"
-    },
-    {
-        "Artist": "Zoran Music",
-        "Title": "Dalmatian Landscape (Paysage dalmate)",
-        "Year": "1955",
-        "ObjectID": "68516",
-        "Work": "https://www.moma.org/collection/works/68516",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxODU0OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1b856b1175dd644f",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "composition: 17 5/16 x 22 5/16\" (43.9 x 56.7cm); sheet: 19 11/16 x 25 13/16\" (50 x 65.5cm)",
-            "Edition": "95",
-            "Credit": "Larry Aldrich Fund",
-            "Object number": "404.1954",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/4189"
-    },
-    {
-        "Artist": "Juichi Nagano",
-        "Title": "Young Couple",
-        "Year": "c. 1950",
-        "ObjectID": "53505",
-        "Work": "https://www.moma.org/collection/works/53505",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNDA2MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1281b6893a9a124d",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "9 3/4 \u00d7 13 7/8\" (24.8 \u00d7 35.2 cm)",
-            "Credit": "Gift of Nihon Keizai Shimbun",
-            "Object number": "448.1959",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/4199"
+        "Profile": "https://www.moma.org/artists/6502"
     }
 ]

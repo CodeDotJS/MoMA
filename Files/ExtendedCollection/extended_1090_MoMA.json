@@ -1,844 +1,880 @@
 [
     {
-        "Artist": "Afro (Afro Basaldella)",
+        "Artist": "John Grillo",
+        "Title": "Illuminations of Time and Space",
+        "Year": "1964",
+        "ObjectID": "76358",
+        "Work": "https://www.moma.org/collection/works/76358",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Portfolio of ten lithographs (including title page and colophon)",
+            "Dimensions": "various composition and sheet dimensions.",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1325.1967.1-10",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/2344"
+    },
+    {
+        "Artist": "John Grillo",
+        "Title": "Colophon from the portfolio Illuminations of Time and Space",
+        "Year": "1964",
+        "ObjectID": "76359",
+        "Work": "https://www.moma.org/collection/works/76359",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "One from a portfolio of ten lithographs",
+            "Dimensions": "composition and sheet: 14 15/16 \u00d7 20 5/8\" (37.9 \u00d7 52.4 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1325.1967.10",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/2344"
+    },
+    {
+        "Artist": "John Grillo",
+        "Title": "I from the portfolio Illuminations of Time and Space",
+        "Year": "1964",
+        "ObjectID": "76360",
+        "Work": "https://www.moma.org/collection/works/76360",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "One from a portfolio of ten lithographs",
+            "Dimensions": "composition and sheet: 15 1/8 \u00d7 20 7/8\" (38.4 \u00d7 53 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1325.1967.2",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/2344"
+    },
+    {
+        "Artist": "John Grillo",
+        "Title": "II from the portfolio Illuminations of Time and Space",
+        "Year": "1964",
+        "ObjectID": "76361",
+        "Work": "https://www.moma.org/collection/works/76361",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "One from a portfolio of ten lithographs",
+            "Dimensions": "composition and sheet: 14 3/4 \u00d7 21\" (37.4 \u00d7 53.3 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1325.1967.3",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/2344"
+    },
+    {
+        "Artist": "John Grillo",
+        "Title": "III from the portfolio Illuminations of Time and Space",
+        "Year": "1964",
+        "ObjectID": "76362",
+        "Work": "https://www.moma.org/collection/works/76362",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "One from a portfolio of ten lithographs",
+            "Dimensions": "composition and sheet: 20 15/16 \u00d7 14 15/16\" (53.2 \u00d7 38 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1325.1967.4",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/2344"
+    },
+    {
+        "Artist": "John Grillo",
+        "Title": "IV from the portfolio Illuminations of Time and Space",
+        "Year": "1964",
+        "ObjectID": "76363",
+        "Work": "https://www.moma.org/collection/works/76363",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "One from a portfolio of ten lithographs",
+            "Dimensions": "composition and sheet: 20 13/16 \u00d7 15 1/16\" (52.8 \u00d7 38.3 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1325.1967.5",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/2344"
+    },
+    {
+        "Artist": "John Grillo",
+        "Title": "V from the portfolio Illuminations of Time and Space",
+        "Year": "1964",
+        "ObjectID": "76364",
+        "Work": "https://www.moma.org/collection/works/76364",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "One from a portfolio of ten lithographs",
+            "Dimensions": "composition and sheet: 14 13/16 \u00d7 20 13/16\" (37.6 \u00d7 52.8 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1325.1967.6",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/2344"
+    },
+    {
+        "Artist": "John Grillo",
+        "Title": "VI from the portfolio Illuminations of Time and Space",
+        "Year": "1964",
+        "ObjectID": "76365",
+        "Work": "https://www.moma.org/collection/works/76365",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "One from a portfolio of ten lithographs",
+            "Dimensions": "composition and sheet: 20 7/8 \u00d7 15 1/16\" (53 \u00d7 38.2 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1325.1967.7",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/2344"
+    },
+    {
+        "Artist": "John Grillo",
+        "Title": "VII from the portfolio Illuminations of Time and Space",
+        "Year": "1964",
+        "ObjectID": "76366",
+        "Work": "https://www.moma.org/collection/works/76366",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "One from a portfolio of ten lithographs",
+            "Dimensions": "composition (irreg.) and sheet: 15 1/16 \u00d7 20 13/16\" (38.2 \u00d7 52.8 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1325.1967.8",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/2344"
+    },
+    {
+        "Artist": "John Grillo",
+        "Title": "VIII from the portfolio Illuminations of Time and Space",
+        "Year": "1964",
+        "ObjectID": "76367",
+        "Work": "https://www.moma.org/collection/works/76367",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "One from a portfolio of ten lithographs",
+            "Dimensions": "composition and sheet: 20 13/16 \u00d7 15 1/16\" (52.9 \u00d7 38.3 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1325.1967.9",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/2344"
+    },
+    {
+        "Artist": "John Grillo",
         "Title": "Untitled",
-        "Year": "1956",
-        "ObjectID": "60467",
-        "Work": "https://www.moma.org/collection/works/60467",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNDE3NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c9eec203ae57eeae",
+        "Year": "1964",
+        "ObjectID": "76369",
+        "Work": "https://www.moma.org/collection/works/76369",
+        "Thumbnail": null,
         "Details": {
             "Medium": "Lithograph",
-            "Credit": "Gift of Emmit Noland",
-            "Object number": "30.1995",
-            "Copyright": "\u00a9 2023 / Artists Rights Society (ARS), New York / SIAE, Rome",
+            "Dimensions": "composition and sheet: 19 1/16 \u00d7 26 1/4\" (48.4 \u00d7 66.6 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1326.1967",
+            "Associated work": "Tamarind Lithography Workshop Archive",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/77"
+        "Profile": "https://www.moma.org/artists/2344"
     },
     {
-        "Artist": "Anni Albers",
-        "Title": "Woven Fabric Sample",
-        "Year": "c. 1951",
-        "ObjectID": "3777",
-        "Work": "https://www.moma.org/collection/works/3777",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMTM5NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e426a845cd7bc404",
-        "Details": {
-            "Medium": "Jute and gold metallic thread",
-            "Dimensions": "9 x 6 1/2\" (22.9 x 16.5 cm)",
-            "Credit": "Gift of Josef Albers",
-            "Object number": "450.1970.72",
-            "Copyright": "\u00a9 2023 The Josef and Anni Albers Foundation / Artists Rights Society (ARS), New York",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/96"
-    },
-    {
-        "Artist": "Anni Albers",
-        "Title": "Woven Fabric Sample",
-        "Year": "c. 1951",
-        "ObjectID": "3778",
-        "Work": "https://www.moma.org/collection/works/3778",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzNjAxNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=724f1a62b4b25229",
-        "Details": {
-            "Medium": "Linen and metallic thread",
-            "Dimensions": "9 3/4 x 6 1/2\" (24.8 x 16.5 cm)",
-            "Credit": "Gift of Josef Albers",
-            "Object number": "450.1970.73",
-            "Copyright": "\u00a9 2023 The Josef and Anni Albers Foundation / Artists Rights Society (ARS), New York",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/96"
-    },
-    {
-        "Artist": "Anni Albers",
-        "Title": "Woven Fabric Sample",
-        "Year": "c. 1951",
-        "ObjectID": "3779",
-        "Work": "https://www.moma.org/collection/works/3779",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzNjAxOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c0d86979e0a64b38",
-        "Details": {
-            "Medium": "Jute and metallic thread",
-            "Dimensions": "8 1/4 x 6 3/4\" (21 x 17.1 cm)",
-            "Credit": "Gift of Josef Albers",
-            "Object number": "450.1970.74",
-            "Copyright": "\u00a9 2023 The Josef and Anni Albers Foundation / Artists Rights Society (ARS), New York",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/96"
-    },
-    {
-        "Artist": "Anni Albers",
-        "Title": "Fabric Sample",
-        "Year": "c. 1951",
-        "ObjectID": "3780",
-        "Work": "https://www.moma.org/collection/works/3780",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxOTkzMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c2c670368627b7f4",
-        "Details": {
-            "Medium": "Linen and gold metallic thread",
-            "Dimensions": "5 3/4 x 3 1/4\" (14.6 x 8.3 cm)",
-            "Credit": "Gift of Josef Albers",
-            "Object number": "450.1970.75",
-            "Copyright": "\u00a9 2023 The Josef and Anni Albers Foundation / Artists Rights Society (ARS), New York",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/96"
-    },
-    {
-        "Artist": "Anni Albers",
-        "Title": "Woven Fabric Sample",
-        "Year": "c. 1951",
-        "ObjectID": "3781",
-        "Work": "https://www.moma.org/collection/works/3781",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM4OTQxNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=870dce4269b3ab76",
-        "Details": {
-            "Medium": "Linen and metallic thread",
-            "Dimensions": "3 1/2 x 3 1/2\" (8.9 x 8.9 cm)",
-            "Credit": "Gift of Josef Albers",
-            "Object number": "450.1970.76",
-            "Copyright": "\u00a9 2023 The Josef and Anni Albers Foundation / Artists Rights Society (ARS), New York",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/96"
-    },
-    {
-        "Artist": "Anni Albers",
-        "Title": "Fabric Sample",
-        "Year": "c. 1951",
-        "ObjectID": "3788",
-        "Work": "https://www.moma.org/collection/works/3788",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxOTkzMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=422a834375267c52",
-        "Details": {
-            "Medium": "Linen and gold metallic thread",
-            "Dimensions": "5 x 3 1/4\" (12.7 x 8.3 cm)",
-            "Credit": "Gift of Josef Albers",
-            "Object number": "450.1970.82",
-            "Copyright": "\u00a9 2023 The Josef and Anni Albers Foundation / Artists Rights Society (ARS), New York",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/96"
-    },
-    {
-        "Artist": "Anni Albers",
-        "Title": "Woven Fabric Sample",
-        "Year": "c. 1951",
-        "ObjectID": "104736",
-        "Work": "https://www.moma.org/collection/works/104736",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxOTkzMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=25b0820d1efc7c9d",
-        "Details": {
-            "Medium": "Linen and metallic thread",
-            "Dimensions": "11 x 6 1/4\" (28 x 15.9 cm)",
-            "Credit": "Gift of Josef Albers",
-            "Object number": "450.1970.79",
-            "Copyright": "\u00a9 2023 The Josef and Anni Albers Foundation / Artists Rights Society (ARS), New York",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/96"
-    },
-    {
-        "Artist": "Josef Albers",
-        "Title": "Study for Homage to the Square: Night Shades",
-        "Year": "1956",
-        "ObjectID": "79363",
-        "Work": "https://www.moma.org/collection/works/79363",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1NjY5MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5d12ebeddfba37a3",
-        "Details": {
-            "Medium": "Oil on board",
-            "Dimensions": "23 7/8 x 23 7/8\" (60.7 x 60.7 cm)",
-            "Credit": "Gift of Mrs. Bliss Parkinson",
-            "Object number": "275.1961",
-            "Copyright": "\u00a9 2023 The Josef and Anni Albers Foundation / Artists Rights Society (ARS), New York",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/97"
-    },
-    {
-        "Artist": "L. (Alfred Lewin Copley) Alcopley",
-        "Title": "Alcopley, Galerie Bing",
-        "Year": "1956",
-        "ObjectID": "5654",
-        "Work": "https://www.moma.org/collection/works/5654",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNzkyMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3ccede7a9d82b67f",
-        "Details": {
-            "Medium": "Silkscreen",
-            "Dimensions": "18 x 15\" (45.7 x 38.0 cm)",
-            "Credit": "Given anonymously",
-            "Object number": "200.1956",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/104"
-    },
-    {
-        "Artist": "Pierre Alechinsky",
-        "Title": "Study for The Snowman ([Etude] L'Homme des neiges)",
-        "Year": "1956",
-        "ObjectID": "35910",
-        "Work": "https://www.moma.org/collection/works/35910",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3NTQ0NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0e633a712e88c5d4",
-        "Details": {
-            "Medium": "Ink and watercolor on paper",
-            "Dimensions": "20 1/8 x 35 5/8\" (51.1 x 90.5 cm)",
-            "Credit": "Purchase",
-            "Object number": "278.1958",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/107"
-    },
-    {
-        "Artist": "Gerhard Altenbourg",
-        "Title": "Garden Behind the Spinnbahn, End of February (Gartenkolonie hinter der Spinnbahn, Ende Februar)",
-        "Year": "1956",
-        "ObjectID": "33952",
-        "Work": "https://www.moma.org/collection/works/33952",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ3ODg2MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cb460b6b3831ae35",
-        "Details": {
-            "Medium": "Ink, lithographic crayon, and watercolor on paper on canvas",
-            "Dimensions": "51 7/8 x 62\" (131.8 x 157.5 cm)",
-            "Credit": "Gift of Miss Eve Clendenin",
-            "Object number": "103.1962",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/127"
-    },
-    {
-        "Artist": "Karel Appel",
-        "Title": "Beast",
-        "Year": "1956",
-        "ObjectID": "32981",
-        "Work": "https://www.moma.org/collection/works/32981",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5NDYyOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a86157405e6bb69f",
-        "Details": {
-            "Medium": "Ink on paper",
-            "Dimensions": "9 3/8 x 12 5/8\" (23.8 x 32.1 cm)",
-            "Credit": "The Joan and Lester Avnet Collection",
-            "Object number": "2.1978",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / Van Lennep Producties, Amsterdam",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/203"
-    },
-    {
-        "Artist": "Karel Appel",
-        "Title": "Etienne-Martin",
-        "Year": "1956",
-        "ObjectID": "79066",
-        "Work": "https://www.moma.org/collection/works/79066",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzOTEzOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5f1c8195d6fd142b",
-        "Details": {
-            "Medium": "Oil on canvas",
-            "Dimensions": "6' 4 7/8\" x 51 1/4\" (195.1 x 130.1 cm)",
-            "Credit": "Purchase",
-            "Object number": "183.1966",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / Karel Appel Foundation",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/203"
-    },
-    {
-        "Artist": "Jean (Hans) Arp",
-        "Title": "Forbidden to Know (Defense de savoir) (plate) from Un Poeme dans chaque livre",
-        "Year": "1955, published 1956",
-        "ObjectID": "31676",
-        "Work": "https://www.moma.org/collection/works/31676",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQwMTk2MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a1010b5da7f179e6",
-        "Details": {
-            "Author": "Paul \u00c9luard",
-            "Medium": "Woodcut from an illustrated book with seven etchings (three with aquatint, one with aquatint, drypoint, engraving, and roulette), three drypoints (one with engraving), two aquatints, two woodcuts, one engraving, and one lithograph",
-            "Dimensions": "composition: 7 \u00d7 6 9/16\" (17.8 \u00d7 16.7 cm); page: 7 1/2 \u00d7 7 1/16\" (19 \u00d7 18 cm)",
-            "Publisher": "Louis Broder, Paris",
-            "Printer": "Fequet et Baudier, Paris",
-            "Edition": "100",
-            "Credit": "The Louis E. Stern Collection",
-            "Object number": "1100.1964.8",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Illustrated book": "Un Po\u00e8me dans chaque livre",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/11"
-    },
-    {
-        "Artist": "Jean (Hans) Arp, Andre Beaudin, Oscar Dominguez, Georges Braque, Marc Chagall, Max Ernst, Alberto Giacometti, Valentine Hugo, Henri Laurens, Fernand Leger, Andre Masson, Joan Miro, Pablo Picasso, Yves Tanguy, Jacques Villon, Various Artists",
-        "Title": "Un Poeme dans chaque livre",
-        "Year": "1953-56, published 1956",
-        "ObjectID": "31662",
-        "Work": "https://www.moma.org/collection/works/31662",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQwMTk0OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5490c7122818634e",
-        "Details": {
-            "Author": "Paul \u00c9luard",
-            "Collaborating artist": "Jean (Hans) Arp, Andr\u00e9 Beaudin, Oscar Dom\u00ednguez, Georges Braque, Marc Chagall, Max Ernst, Alberto Giacometti, Valentine Hugo, Henri Laurens, Fernand L\u00e9ger, Andr\u00e9 Masson, Joan Mir\u00f3, Pablo Picasso, Yves Tanguy, Jacques Villon",
-            "Medium": "Illustrated book with seven etchings (three with aquatint, one with aquatint, drypoint, engraving, and roulette), three drypoints (one with engraving), two aquatints, two woodcuts, one engraving, and one lithograph",
-            "Dimensions": "page (each approx.): 7 1/2 \u00d7 7 1/16\" (19 \u00d7 18 cm); overall (closed): 8 1/16 \u00d7 7 5/16 \u00d7 1 9/16\" (20.4 \u00d7 18.6 \u00d7 4 cm)",
-            "Publisher": "Louis Broder, Paris",
-            "Printer": "Lacouri\u00e8re, Paris, Georges Visat, Paris",
-            "Edition": "100",
-            "Credit": "The Louis E. Stern Collection",
-            "Object number": "1100.1964.1-16",
-            "Type": "Illustrated Book",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/24409"
-    },
-    {
-        "Artist": "Francis Bacon",
-        "Title": "Study for Portrait, Number IV (After the Life Mask of William Blake)",
-        "Year": "1956",
-        "ObjectID": "80581",
-        "Work": "https://www.moma.org/collection/works/80581",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMDg1OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c7730319668bc2d3",
-        "Details": {
-            "Medium": "Oil on canvas",
-            "Dimensions": "24 1/8 x 20\" (61.1 x 50.8 cm)",
-            "Credit": "James Thrall Soby Bequest",
-            "Object number": "1199.1979",
-            "Copyright": "\u00a9 2023 Estate of Francis Bacon / Artists Rights Society (ARS), New York / DACS, London",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/272"
-    },
-    {
-        "Artist": "Micha Bar-Am",
-        "Title": "Egyptian Prisoners of War, Sinai Campaign",
-        "Year": "1956",
-        "ObjectID": "56325",
-        "Work": "https://www.moma.org/collection/works/56325",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MTM0MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=27f861cb1826083e",
-        "Details": {
-            "Medium": "Gelatin silver print, printed 1998",
-            "Dimensions": "12 9/16 \u00d7 18 5/16\" (31.9 \u00d7 46.5 cm)",
-            "Credit": "Gift of Sanford and Lisa Ehrenkranz",
-            "Object number": "752.1998",
-            "Copyright": "\u00a9 2023 Micha Bar-Am",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/8186"
-    },
-    {
-        "Artist": "Leonard Baskin",
-        "Title": "Blake, after a Drawing by John Linnell (plate, folio 9) from Blake and the Youthful Ancients",
-        "Year": "1956",
-        "ObjectID": "20256",
-        "Work": "https://www.moma.org/collection/works/20256",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MTU2NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9820942abee2a991",
-        "Details": {
-            "Medium": "Wood engraving",
-            "Dimensions": "composition: 3 5/8 x 2 3/8\" (9.2 x 6.1cm); page: 6 11/16 \u00d7 5 9/16\" (17 \u00d7 14.2 cm)",
-            "Publisher": "The Gehenna Press, Northampton",
-            "Printer": "The Gehenna Press, Northampton",
-            "Credit": "The Louis E. Stern Collection",
-            "Object number": "672.1964.1",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/369"
-    },
-    {
-        "Artist": "Leonard Baskin",
-        "Title": "Samuel Palmer, after a Photograph (plate, folio 27) from Blake and the Youthful Ancients",
-        "Year": "1956",
-        "ObjectID": "20258",
-        "Work": "https://www.moma.org/collection/works/20258",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MTU1OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=76b9c804992dae1d",
-        "Details": {
-            "Medium": "Wood engraving",
-            "Dimensions": "composition: 4 x 2 11/16\" (10.2 x 6.9cm); page: 6 11/16 \u00d7 5 9/16\" (17 \u00d7 14.2 cm)",
-            "Publisher": "The Gehenna Press, Northampton",
-            "Printer": "The Gehenna Press, Northampton",
-            "Credit": "The Louis E. Stern Collection",
-            "Object number": "672.1964.10",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/369"
-    },
-    {
-        "Artist": "Leonard Baskin",
-        "Title": "A Visionary Portrait of Henry Walker (plate, folio 29) from Blake and the Youthful Ancients",
-        "Year": "1956",
-        "ObjectID": "20259",
-        "Work": "https://www.moma.org/collection/works/20259",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNDE5MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=731c02a061469e72",
-        "Details": {
-            "Medium": "Wood engraving",
-            "Dimensions": "composition (irreg.): 11/16 x 1 5/16\" (1.8 x 3.4cm); page: 6 11/16 \u00d7 5 9/16\" (17 \u00d7 14.2 cm)",
-            "Publisher": "The Gehenna Press, Northampton",
-            "Printer": "The Gehenna Press, Northampton",
-            "Credit": "The Louis E. Stern Collection",
-            "Object number": "672.1964.11",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/369"
-    },
-    {
-        "Artist": "Leonard Baskin",
-        "Title": "Edward Calvert (plate, folio 31) from Blake and the Youthful Ancients",
-        "Year": "1956",
-        "ObjectID": "20260",
-        "Work": "https://www.moma.org/collection/works/20260",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MTU2MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4cc712a0536f03c6",
-        "Details": {
-            "Medium": "Wood engraving",
-            "Dimensions": "composition: 1 1/16 x 11/16\" (2.7 x 1.7cm); page: 6 11/16 \u00d7 5 9/16\" (17 \u00d7 14.2 cm)",
-            "Publisher": "The Gehenna Press, Northampton",
-            "Printer": "The Gehenna Press, Northampton",
-            "Credit": "The Louis E. Stern Collection",
-            "Object number": "672.1964.12",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/369"
-    },
-    {
-        "Artist": "Leonard Baskin",
-        "Title": "Edward Calvert Preparing to Sacrifice a Lamb (plate, folio 33) from Blake and the Youthful Ancients",
-        "Year": "1956",
-        "ObjectID": "20261",
-        "Work": "https://www.moma.org/collection/works/20261",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MTU2MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4051b19e331e5536",
-        "Details": {
-            "Medium": "Wood engraving",
-            "Dimensions": "composition: 1 5/8 x 3/4\" (4.2 x 1.9cm); page: 6 11/16 \u00d7 5 9/16\" (17 \u00d7 14.2 cm)",
-            "Publisher": "The Gehenna Press, Northampton",
-            "Printer": "The Gehenna Press, Northampton",
-            "Credit": "The Louis E. Stern Collection",
-            "Object number": "672.1964.13",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/369"
-    },
-    {
-        "Artist": "Leonard Baskin",
-        "Title": "Edward Calvert, after a Portrait by his Third Son (plate, folio 35) from Blake and the Youthful Ancients",
-        "Year": "1956",
-        "ObjectID": "20262",
-        "Work": "https://www.moma.org/collection/works/20262",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MTU2MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d896a7d3ac376608",
-        "Details": {
-            "Medium": "Wood engraving",
-            "Dimensions": "composition (irreg.): 3 11/16 x 2 15/16\" (9.4 x 7.5cm); page: 6 11/16 \u00d7 5 9/16\" (17 \u00d7 14.2 cm)",
-            "Publisher": "The Gehenna Press, Northampton",
-            "Printer": "The Gehenna Press, Northampton",
-            "Credit": "The Louis E. Stern Collection",
-            "Object number": "672.1964.14",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/369"
-    },
-    {
-        "Artist": "Leonard Baskin",
-        "Title": "Frederick Tathem, from a Little-Known Photograph (plate, folio 37) from Blake and the Youthful Ancients",
-        "Year": "1956",
-        "ObjectID": "20263",
-        "Work": "https://www.moma.org/collection/works/20263",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MTU2MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=99009b2d13706123",
-        "Details": {
-            "Medium": "Wood engraving",
-            "Dimensions": "composition: 7/8 x 1\" (2.3 x 2.6cm); page: 6 11/16 \u00d7 5 9/16\" (17 \u00d7 14.2 cm)",
-            "Publisher": "The Gehenna Press, Northampton",
-            "Printer": "The Gehenna Press, Northampton",
-            "Credit": "The Louis E. Stern Collection",
-            "Object number": "672.1964.15",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/369"
-    },
-    {
-        "Artist": "Leonard Baskin",
-        "Title": "George Richmond Engraving \"The Shepherd\" (plate, folio 39) from Blake and the Youthful Ancients",
-        "Year": "1956",
-        "ObjectID": "20264",
-        "Work": "https://www.moma.org/collection/works/20264",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MTU2NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d04bd4579d47e1b3",
-        "Details": {
-            "Medium": "Wood engraving",
-            "Dimensions": "composition (irreg.): 1 7/8 x 1 7/16\" (4.8 x 3.6cm); page: 6 11/16 \u00d7 5 9/16\" (17 \u00d7 14.2 cm)",
-            "Publisher": "The Gehenna Press, Northampton",
-            "Printer": "The Gehenna Press, Northampton",
-            "Credit": "The Louis E. Stern Collection",
-            "Object number": "672.1964.16",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/369"
-    },
-    {
-        "Artist": "Leonard Baskin",
-        "Title": "George Richmond in his Engraving Costume (plate, folio 41) from Blake and the Youthful Ancients",
-        "Year": "1956",
-        "ObjectID": "20265",
-        "Work": "https://www.moma.org/collection/works/20265",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MTU2NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9557151c58fe3707",
-        "Details": {
-            "Medium": "Wood engraving",
-            "Dimensions": "composition (irreg.): 1 7/8 x 1 1/16\" (4.7 x 2.7cm); page: 6 11/16 \u00d7 5 9/16\" (17 \u00d7 14.2 cm)",
-            "Publisher": "The Gehenna Press, Northampton",
-            "Printer": "The Gehenna Press, Northampton",
-            "Credit": "The Louis E. Stern Collection",
-            "Object number": "672.1964.17",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/369"
-    },
-    {
-        "Artist": "Leonard Baskin",
-        "Title": "Francis Finch (plate, folio 43) from Blake and the Youthful Ancients",
-        "Year": "1956",
-        "ObjectID": "20266",
-        "Work": "https://www.moma.org/collection/works/20266",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MTU2NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3175e71a2adbb823",
-        "Details": {
-            "Medium": "Wood engraving",
-            "Dimensions": "composition: 1 x 11/16\" (2.5 x 1.8cm); page: 6 11/16 \u00d7 5 9/16\" (17 \u00d7 14.2 cm)",
-            "Publisher": "The Gehenna Press, Northampton",
-            "Printer": "The Gehenna Press, Northampton",
-            "Credit": "The Louis E. Stern Collection",
-            "Object number": "672.1964.18",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/369"
-    },
-    {
-        "Artist": "Leonard Baskin",
-        "Title": "Blake: A Fragment (plate, folio 11) from Blake and the Youthful Ancients",
-        "Year": "1956",
-        "ObjectID": "20267",
-        "Work": "https://www.moma.org/collection/works/20267",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MTU2OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=208d46c00931c11a",
-        "Details": {
-            "Medium": "Wood engraving",
-            "Dimensions": "composition (irreg.): 1 1/4 x 1 11/16\" (3.2 x 4.3cm); page: 5 1/2 \u00d7 6 3/4\" (14 \u00d7 17.2 cm)",
-            "Publisher": "The Gehenna Press, Northampton",
-            "Printer": "The Gehenna Press, Northampton",
-            "Credit": "The Louis E. Stern Collection",
-            "Object number": "672.1964.2",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/369"
-    },
-    {
-        "Artist": "Leonard Baskin",
-        "Title": "An Adamite Vision of Blake (plate, folio 13) from Blake and the Youthful Ancients",
-        "Year": "1956",
-        "ObjectID": "20268",
-        "Work": "https://www.moma.org/collection/works/20268",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MTU2OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fbbcb0899022f0ff",
-        "Details": {
-            "Medium": "Wood engraving",
-            "Dimensions": "composition: 2 5/8 x 13/16\" (6.6 x 2cm); page: 6 11/16 \u00d7 5 9/16\" (17 \u00d7 14.2 cm)",
-            "Publisher": "The Gehenna Press, Northampton",
-            "Printer": "The Gehenna Press, Northampton",
-            "Credit": "The Louis E. Stern Collection",
-            "Object number": "672.1964.3",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/369"
-    },
-    {
-        "Artist": "Leonard Baskin",
-        "Title": "Blake, after his Visionary Self Portrait (plate, folio 15) from Blake and the Youthful Ancients",
-        "Year": "1956",
-        "ObjectID": "20269",
-        "Work": "https://www.moma.org/collection/works/20269",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MTU3MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=42b4bd07441ba430",
-        "Details": {
-            "Medium": "Wood engraving",
-            "Dimensions": "composition (irreg.): 1 15/16 x 1 3/8\" (4.9 x 3.5cm); page: 6 11/16 \u00d7 5 9/16\" (17 \u00d7 14.2 cm)",
-            "Publisher": "The Gehenna Press, Northampton",
-            "Printer": "The Gehenna Press, Northampton",
-            "Credit": "The Louis E. Stern Collection",
-            "Object number": "672.1964.4",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/369"
-    },
-    {
-        "Artist": "Leonard Baskin",
-        "Title": "Blake, from Life Mask by Deville (plate, folio 17) from Blake and the Youthful Ancients",
-        "Year": "1956",
-        "ObjectID": "20270",
-        "Work": "https://www.moma.org/collection/works/20270",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MTU3MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=067b0c6a4e0d8ed4",
-        "Details": {
-            "Medium": "Wood engraving",
-            "Dimensions": "composition: 3 15/16 x 2 7/8\" (10 x 7.3cm); page: 6 11/16 \u00d7 5 9/16\" (17 \u00d7 14.2 cm)",
-            "Publisher": "The Gehenna Press, Northampton",
-            "Printer": "The Gehenna Press, Northampton",
-            "Credit": "The Louis E. Stern Collection",
-            "Object number": "672.1964.5",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/369"
-    },
-    {
-        "Artist": "Leonard Baskin",
-        "Title": "Blake: An Imagined Death Mask (plate, folio 19) from Blake and the Youthful Ancients",
-        "Year": "1956",
-        "ObjectID": "20271",
-        "Work": "https://www.moma.org/collection/works/20271",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MTU3MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=784c8810ed63a61f",
-        "Details": {
-            "Medium": "Wood engraving",
-            "Dimensions": "composition (irreg.): 3 1/16 x 1 3/4\" (7.7 x 4.4cm); page: 6 11/16 \u00d7 5 9/16\" (17 \u00d7 14.2 cm)",
-            "Publisher": "The Gehenna Press, Northampton",
-            "Printer": "The Gehenna Press, Northampton",
-            "Credit": "The Louis E. Stern Collection",
-            "Object number": "672.1964.6",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/369"
-    },
-    {
-        "Artist": "Leonard Baskin",
-        "Title": "Samuel Palmer when he First Met William Blake (plate, folio 21) from Blake and the Youthful Ancients",
-        "Year": "1956",
-        "ObjectID": "20272",
-        "Work": "https://www.moma.org/collection/works/20272",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MTU3MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=91a2c5531d05dae2",
-        "Details": {
-            "Medium": "Wood engraving",
-            "Dimensions": "composition (irreg.): 1 1/8 x 3/4\" (2.8 x 1.9cm); page: 6 11/16 \u00d7 5 9/16\" (17 \u00d7 14.2 cm)",
-            "Publisher": "The Gehenna Press, Northampton",
-            "Printer": "The Gehenna Press, Northampton",
-            "Credit": "The Louis E. Stern Collection",
-            "Object number": "672.1964.7",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/369"
-    },
-    {
-        "Artist": "Leonard Baskin",
-        "Title": "Samuel Palmer, after the Watercolor by Walter (plate, folio 23) from Blake and the Youthful Ancients",
-        "Year": "1956",
-        "ObjectID": "20273",
-        "Work": "https://www.moma.org/collection/works/20273",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MTU3NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=863bc848932746d6",
-        "Details": {
-            "Medium": "Wood engraving",
-            "Dimensions": "composition (irreg.): 2 5/16 x 1 7/8\" (5.8 x 4.8cm); page: 6 11/16 \u00d7 5 9/16\" (17 \u00d7 14.2 cm)",
-            "Publisher": "The Gehenna Press, Northampton",
-            "Printer": "The Gehenna Press, Northampton",
-            "Credit": "The Louis E. Stern Collection",
-            "Object number": "672.1964.8",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/369"
-    },
-    {
-        "Artist": "Leonard Baskin",
-        "Title": "Samuel Palmer (plate, folio 25) from Blake and the Youthful Ancients",
-        "Year": "1956",
-        "ObjectID": "20274",
-        "Work": "https://www.moma.org/collection/works/20274",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MTU3NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a0d7cad4165b9fe1",
-        "Details": {
-            "Medium": "Wood engraving",
-            "Dimensions": "composition (irreg.): 1 7/16 x 1 7/16\" (3.7 x 3.7cm); page: 6 11/16 \u00d7 5 9/16\" (17 \u00d7 14.2 cm)",
-            "Publisher": "The Gehenna Press, Northampton",
-            "Printer": "The Gehenna Press, Northampton",
-            "Credit": "The Louis E. Stern Collection",
-            "Object number": "672.1964.9",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/369"
-    },
-    {
-        "Artist": "Saul Bass, Frank Sinatra, Capitol Records",
-        "Title": "Album Cover for Frank Sinatra Conducts Tone Poems of Color",
-        "Year": "1956",
-        "ObjectID": "125365",
-        "Work": "https://www.moma.org/collection/works/125365",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMTUzNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8102a85642aeee8a",
+        "Artist": "John Grillo",
+        "Title": "Untitled",
+        "Year": "1964",
+        "ObjectID": "76371",
+        "Work": "https://www.moma.org/collection/works/76371",
+        "Thumbnail": null,
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "12 3/8 x 12 3/8\" (31.4 x 31.4 cm)",
-            "Credit": "Purchase",
-            "Object number": "SC1833.2008",
-            "Department": "Architecture and Design"
+            "Dimensions": "composition and sheet: 17 9/16 \u00d7 24 7/16\" (44.6 \u00d7 62 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1327.1967",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/372"
+        "Profile": "https://www.moma.org/artists/2344"
     },
     {
-        "Artist": "Cecil Beaton",
-        "Title": "Maria Callas",
-        "Year": "1956",
-        "ObjectID": "48052",
-        "Work": "https://www.moma.org/collection/works/48052",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMjE5NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f5e95837c0c6cc6c",
+        "Artist": "John Grillo",
+        "Title": "Untitled",
+        "Year": "1964",
+        "ObjectID": "76373",
+        "Work": "https://www.moma.org/collection/works/76373",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition and sheet: 30 11/16 \u00d7 22 13/16\" (78 \u00d7 58 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1328.1967",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/2344"
+    },
+    {
+        "Artist": "John Grillo",
+        "Title": "Untitled",
+        "Year": "1964",
+        "ObjectID": "76375",
+        "Work": "https://www.moma.org/collection/works/76375",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3NjI4OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4d112a55a8382fd2",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition and sheet: 14 3/4 \u00d7 20 11/16\" (37.5 \u00d7 52.5 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "15, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1329.1967",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/2344"
+    },
+    {
+        "Artist": "John Grillo",
+        "Title": "Untitled",
+        "Year": "1964",
+        "ObjectID": "76377",
+        "Work": "https://www.moma.org/collection/works/76377",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition and sheet: 16 1/2 \u00d7 22 3/16\" (41.9 \u00d7 56.4 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1330.1967",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/2344"
+    },
+    {
+        "Artist": "Michael Gross",
+        "Title": "Small Figure on Blue",
+        "Year": "1964",
+        "ObjectID": "78327",
+        "Work": "https://www.moma.org/collection/works/78327",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3Nzc1NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6731dba2dc1f9eaf",
+        "Details": {
+            "Medium": "Casein on board",
+            "Dimensions": "19 3/4 x 15 7/8\" (50.1 x 40.3 cm)",
+            "Credit": "Gift of Mr. and Mrs. George M. Jaffin",
+            "Object number": "2.1965",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/2365"
+    },
+    {
+        "Artist": "Ernst Haas",
+        "Title": "Untitled",
+        "Year": "1937-64",
+        "ObjectID": "45609",
+        "Work": "https://www.moma.org/collection/works/45609",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMzc4NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=27c158e955a7133e",
         "Details": {
             "Medium": "Gelatin silver print",
-            "Dimensions": "10 11/16 \u00d7 9 3/16\" (27.1 \u00d7 23.3 cm)",
-            "Credit": "Gift of Thomas Walther",
-            "Object number": "188.1994",
-            "Copyright": "\u00a9 2023 Estate of Cecil Beaton",
+            "Dimensions": "11 15/16 \u00d7 9 1/8\" (30.4 \u00d7 23.2 cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "72.1964",
+            "Copyright": "\u00a9 2023 Victoria and Alexander Haas",
             "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/417"
+        "Profile": "https://www.moma.org/artists/2431"
     },
     {
-        "Artist": "Andre Beaudin",
-        "Title": "Plate from Un Poeme dans chaque livre",
-        "Year": "1956",
-        "ObjectID": "31673",
-        "Work": "https://www.moma.org/collection/works/31673",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQwMTk2MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4b1790da56c1bf05",
+        "Artist": "Terry Haass",
+        "Title": "Zodiaque",
+        "Year": "(1964)",
+        "ObjectID": "16516",
+        "Work": "https://www.moma.org/collection/works/16516",
+        "Thumbnail": null,
         "Details": {
-            "Author": "Paul \u00c9luard",
-            "Medium": "Etching from an illustrated book with seven etchings (three with aquatint, one with aquatint, drypoint, engraving, and roulette), three drypoints (one with engraving), two aquatints, two woodcuts, one engraving, and one lithograph",
-            "Dimensions": "plate: 4 7/16 \u00d7 5 1/4\" (11.3 \u00d7 13.3 cm); page: 7 1/2 \u00d7 7 1/16\" (19 \u00d7 18 cm)",
-            "Publisher": "Louis Broder, Paris",
-            "Printer": "Roger Lacouri\u00e8re, Paris",
+            "Author": "Pierre Sauvageot",
+            "Medium": "Illustrated book with 12 etching, aquatint, and engravings",
+            "Dimensions": "page  22 1/4 x 15\" (56 x 38.2 cm)\r\nPrints:  various dimensions.",
+            "Publisher": "\u00c9ditions M. Lacouri\u00e8re, Paris",
+            "Printer": "Lacouri\u00e8re-Fr\u00e9laut, Paris",
             "Edition": "100",
-            "Credit": "The Louis E. Stern Collection",
-            "Object number": "1100.1964.5",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Illustrated book": "Un Po\u00e8me dans chaque livre",
+            "Credit": "Gift of Miriam M. Steinert",
+            "Object number": "386.1988.1-12",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/420"
+        "Profile": "https://www.moma.org/artists/2435"
     },
     {
-        "Artist": "Thelma Becherer",
-        "Title": "Wall Hanging",
-        "Year": "1956",
-        "ObjectID": "2779",
-        "Work": "https://www.moma.org/collection/works/2779",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ4ODg1OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e990d0f9b1a0b790",
+        "Artist": "Gunter Haese",
+        "Title": "In Tibet",
+        "Year": "1964",
+        "ObjectID": "81967",
+        "Work": "https://www.moma.org/collection/works/81967",
+        "Thumbnail": null,
         "Details": {
-            "Medium": "Velon plastic thread, dried grasses, and reeds",
-            "Dimensions": "109\" x 37\" (279.4 x 86.4 cm)",
-            "Credit": "Gift of the designer",
-            "Object number": "221.1957",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/423"
-    },
-    {
-        "Artist": "Joseph Beuys",
-        "Title": "Gold Sculpture",
-        "Year": "1956",
-        "ObjectID": "84112",
-        "Work": "https://www.moma.org/collection/works/84112",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjkzNDY4Il0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNTEyeDUxMlx1MDAzZSJdXQ.jpg?sha=6d7cfb1dc850d0bf",
-        "Details": {
-            "Medium": "Pencil and metallic paint on six sheets of paper on board",
-            "Dimensions": "30 7/8 x 23\" (78.4 x 58.4 cm)",
-            "Credit": "Gift of UBS",
-            "Object number": "113.2002.a-f",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/540"
-    },
-    {
-        "Artist": "Joseph Beuys",
-        "Title": "Untitled",
-        "Year": "1956",
-        "ObjectID": "95513",
-        "Work": "https://www.moma.org/collection/works/95513",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExMjM3OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=683289790780a03d",
-        "Details": {
-            "Medium": "Pencil on graph paper",
-            "Dimensions": "5 3/4 x 4\" (14.6 x 10.2 cm)",
-            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
-            "Object number": "1279.2005",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/540"
-    },
-    {
-        "Artist": "Joseph Beuys",
-        "Title": "Untitled",
-        "Year": "1956",
-        "ObjectID": "95514",
-        "Work": "https://www.moma.org/collection/works/95514",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExMjM3OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6e47adf4194d3aa2",
-        "Details": {
-            "Medium": "Pencil on transparentized paper",
-            "Dimensions": "8 1/8 x 5 5/8\" (20.6 x 14.3 cm)",
-            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
-            "Object number": "1280.2005",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/540"
-    },
-    {
-        "Artist": "Max Bill",
-        "Title": "Sun Lamp",
-        "Year": "1951",
-        "ObjectID": "3835",
-        "Work": "https://www.moma.org/collection/works/3835",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNzk5MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ec7cfcfa62a4e6a5",
-        "Details": {
-            "Manufacturer": "Novelectric A.G., Z\u00fcrich, Switzerland",
-            "Medium": "Enameled metal",
-            "Dimensions": "22 1/2 x 5 3/4\" (57.2 x 14.6 cm)",
-            "Credit": "Gift of the manufacturer",
-            "Object number": "455.1956",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/559"
-    },
-    {
-        "Artist": "Robert Birmelin",
-        "Title": "Flying Dog",
-        "Year": "1956",
-        "ObjectID": "71693",
-        "Work": "https://www.moma.org/collection/works/71693",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NDAwMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0f94e7806648fbcf",
-        "Details": {
-            "Medium": "Etching",
-            "Dimensions": "Plate 8 7/8 x 9\" (22.6 x 22.8 cm) Sheet 13 13/16 x 14 9/16\" (35.1 x 37.0 cm)",
-            "Edition": "12",
-            "Credit": "The Ingram-Merrill Foundation",
-            "Object number": "600.1956",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/565"
-    },
-    {
-        "Artist": "Robert Birmelin",
-        "Title": "Four Animals",
-        "Year": "1956",
-        "ObjectID": "71701",
-        "Work": "https://www.moma.org/collection/works/71701",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NDAwMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=95e7fea62fcca07a",
-        "Details": {
-            "Medium": "Etching",
-            "Dimensions": "plate: 8 13/16 x 8 13/16\" (22.4 x 22.4cm); sheet: 14 x 14 15/16\" (35.5 x 37.9cm)",
-            "Edition": "12",
-            "Credit": "The Ingram-Merrill Foundation",
-            "Object number": "601.1956",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/565"
-    },
-    {
-        "Artist": "Robert Birmelin",
-        "Title": "Two Monkeys and Dog",
-        "Year": "1956",
-        "ObjectID": "71720",
-        "Work": "https://www.moma.org/collection/works/71720",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NDAwNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7a2ed93c6a99cc32",
-        "Details": {
-            "Medium": "Etching",
-            "Dimensions": "plate: 8 13/16 x 14 5/8\" (22.4 x 37.2cm); sheet: 13 15/16 x 18 7/8\" (35.4 x 47.9cm)",
-            "Credit": "The Ingram-Merrill Foundation",
-            "Object number": "603.1956",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/565"
-    },
-    {
-        "Artist": "Sandra Blow",
-        "Title": "Winter",
-        "Year": "1956",
-        "ObjectID": "79301",
-        "Work": "https://www.moma.org/collection/works/79301",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwODYzMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3067b093cc1701d9",
-        "Details": {
-            "Medium": "Oil, sawdust, and gauze on board",
-            "Dimensions": "36 x 60 1/8\" (91.5 x 152.6 cm)",
-            "Credit": "Purchase",
-            "Object number": "257.1956",
+            "Medium": "Clockwork parts, brass screening and wire",
+            "Dimensions": "19 1/2 x 9 1/4 x 4 1/4\" (49.5 x 23.5 x 10.3 cm)",
+            "Credit": "Blanchette Hooker Rockefeller Fund",
+            "Object number": "1125.1964",
             "Department": "Painting and Sculpture"
         },
-        "Profile": "https://www.moma.org/artists/611"
+        "Profile": "https://www.moma.org/artists/2442"
+    },
+    {
+        "Artist": "M. Hafelmaier",
+        "Title": "Musica Viva",
+        "Year": "1964",
+        "ObjectID": "6330",
+        "Work": "https://www.moma.org/collection/works/6330",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxOTQyNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=74e88f0973198339",
+        "Details": {
+            "Medium": "Silkscreen",
+            "Dimensions": "46 3/4 x 32 1/2\" (118.7 x 82.6 cm)",
+            "Credit": "Gift of the Kunstgewerbe Museum, Z\u00fcrich",
+            "Object number": "334.1966",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/2443"
+    },
+    {
+        "Artist": "Richard Hamilton",
+        "Title": "5 Tyres Abandoned from The Institute of Contemporary Arts Portfolio",
+        "Year": "1963 (published 1964)",
+        "ObjectID": "71918",
+        "Work": "https://www.moma.org/collection/works/71918",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1Mzg4MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=958de909de8cb118",
+        "Details": {
+            "Medium": "Screenprint",
+            "Dimensions": "composition (irreg.): 17 13/16 x 28 3/4\" (45.3 x 73 cm); sheet: 23 1/16 x 36\" (58.5 x 91.5 cm)",
+            "Publisher": "Institute of Contemporary Arts, London",
+            "Printer": "Kelpra Studio, London",
+            "Edition": "40",
+            "Credit": "Purchase",
+            "Object number": "618.1965",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / DACS, London",
+            "Portfolio": "The Institute of Contemporary Arts Portfolio",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/2481"
+    },
+    {
+        "Artist": "Richard Hamilton",
+        "Title": "Glorious Techniculture",
+        "Year": "1961-64",
+        "ObjectID": "78893",
+        "Work": "https://www.moma.org/collection/works/78893",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1MDk5MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=915ccafc78386e94",
+        "Details": {
+            "Medium": "Oil and collage on panel",
+            "Dimensions": "48 3/8 x 48 3/8\" (122.9 x 122.9 cm)",
+            "Credit": "Enid A. Haupt Fund and The Sidney and Harriet Janis Collection (by exchange)",
+            "Object number": "120.1999",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / DACS, London",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/2481"
+    },
+    {
+        "Artist": "Robert Hansen",
+        "Title": "Man-Men 140",
+        "Year": "1964",
+        "ObjectID": "76756",
+        "Work": "https://www.moma.org/collection/works/76756",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3NjI5MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ba3b9b58fc60cf8c",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition (irreg.): 19 \u00d7 12 5/8\" (48.2 \u00d7 32.1 cm); sheet: 20 1/16 \u00d7 13 3/4\" (50.9 \u00d7 34.9 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1421.1967",
+            "Copyright": "\u00a9 2023 Robert Hansen / Artists Rights Society (ARS), New York / PROLITTERIS, Switzerland",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/2491"
+    },
+    {
+        "Artist": "Robert Hansen",
+        "Title": "Man-Men 141",
+        "Year": "1964",
+        "ObjectID": "76758",
+        "Work": "https://www.moma.org/collection/works/76758",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition and sheet: 17 3/16 \u00d7 25 1/4\" (43.6 \u00d7 64.2 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1422.1967",
+            "Copyright": "\u00a9 2023 Robert Hansen / Artists Rights Society (ARS), New York / PROLITTERIS, Switzerland",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/2491"
+    },
+    {
+        "Artist": "Robert Hansen",
+        "Title": "Christ Ascended",
+        "Year": "1964",
+        "ObjectID": "76760",
+        "Work": "https://www.moma.org/collection/works/76760",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition and sheet: 24 3/4 \u00d7 18 1/8\" (62.9 \u00d7 46.1 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1423.1967",
+            "Copyright": "\u00a9 2023 Robert Hansen / Artists Rights Society (ARS), New York / PROLITTERIS, Switzerland",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/2491"
+    },
+    {
+        "Artist": "Robert Hansen",
+        "Title": "Man-Men 142",
+        "Year": "1964",
+        "ObjectID": "76762",
+        "Work": "https://www.moma.org/collection/works/76762",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3NjI5MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5385453293772fc1",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition and sheet: 12 3/8 \u00d7 17 1/16\" (31.4 \u00d7 43.3 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1424.1967",
+            "Copyright": "\u00a9 2023 Robert Hansen / Artists Rights Society (ARS), New York / PROLITTERIS, Switzerland",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/2491"
+    },
+    {
+        "Artist": "Robert Hansen",
+        "Title": "Christ Ascended",
+        "Year": "1964",
+        "ObjectID": "76764",
+        "Work": "https://www.moma.org/collection/works/76764",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3NjI5MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ae5b97d429585c1f",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition (irreg.): 18 1/8 \u00d7 12 1/2\" (46 \u00d7 31.7 cm); sheet: 19 1/16 \u00d7 13 1/4\" (48.4 \u00d7 33.7 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1425.1967",
+            "Copyright": "\u00a9 2023 Robert Hansen / Artists Rights Society (ARS), New York / PROLITTERIS, Switzerland",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/2491"
+    },
+    {
+        "Artist": "Rolf Harder",
+        "Title": "This is \"Format\"",
+        "Year": "1964",
+        "ObjectID": "109110",
+        "Work": "https://www.moma.org/collection/works/109110",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MjI1NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e605b61fd7738e70",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "11 3/4 x 8 7/8\" (29.8 x 22.5 cm)",
+            "Credit": "Gift of the designer",
+            "Object number": "395.2007",
+            "Copyright": "\u00a9 2023 Rolf Harder",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/32655"
+    },
+    {
+        "Artist": "Rolf Harder",
+        "Title": "Methods of Science",
+        "Year": "1963-64",
+        "ObjectID": "109111",
+        "Work": "https://www.moma.org/collection/works/109111",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MjgwNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6ecf87cb712c7089",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "each: 9 7/8 x 14 1/4\" (25.1 x 36.2 cm)",
+            "Credit": "Gift of the designer",
+            "Object number": "389.2007.1-2",
+            "Copyright": "\u00a9 2023 Rolf Harder",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/32655"
+    },
+    {
+        "Artist": "Rolf Harder",
+        "Title": "Aspects de l'alcoholism",
+        "Year": "1964",
+        "ObjectID": "109224",
+        "Work": "https://www.moma.org/collection/works/109224",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MjI1MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5db2b1d2d7ad6d8e",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "4 7/8 x 9 1/4\" (12.4 x 23.5 cm)",
+            "Credit": "Gift of the designer",
+            "Object number": "393.2007",
+            "Copyright": "\u00a9 2023 Rolf Harder",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/32655"
+    },
+    {
+        "Artist": "Rolf Harder",
+        "Title": "Librium advertisement (Escape to reality)",
+        "Year": "1964",
+        "ObjectID": "109233",
+        "Work": "https://www.moma.org/collection/works/109233",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MjI1MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=57e51066f4d22e9a",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "11 7/8 x 8 7/8\" (30.2 x 22.5 cm)",
+            "Credit": "Gift of the designer",
+            "Object number": "394.2007",
+            "Copyright": "\u00a9 2023 Rolf Harder",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/32655"
+    },
+    {
+        "Artist": "Irving Harper, George Nelson Associates",
+        "Title": "Wall Clock (model 6770)",
+        "Year": "c. 1962",
+        "ObjectID": "3576",
+        "Work": "https://www.moma.org/collection/works/3576",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0ODc4OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6bff9f9bfc61d2a8",
+        "Details": {
+            "Manufacturer": "Howard Miller Clock Co., Zeeland, MI",
+            "Medium": "Metal and plastic",
+            "Dimensions": ".a (ring): 1 5/8 x 14\" (4.1 x 35.5 cm)\r\n.b (dial): 2\" (5.1 cm)",
+            "Credit": "Gift of the manufacturer",
+            "Object number": "432.1964.a-b",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/2509"
+    },
+    {
+        "Artist": "Hans Hartmann",
+        "Title": "Achte den Andern",
+        "Year": "1938-64",
+        "ObjectID": "8776",
+        "Work": "https://www.moma.org/collection/works/8776",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDMyMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=837a2c56afccaabc",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "50 3/8 x 35 1/2\" (128 x 90.2 cm)",
+            "Printer": "Hallwag, Berne, Switzerland",
+            "Credit": "Gift of the designer",
+            "Object number": "1478.2000",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/8393"
+    },
+    {
+        "Artist": "Eddie Hausner/The New York Times",
+        "Title": "Just Another Voter",
+        "Year": "June 2, 1964",
+        "ObjectID": "58606",
+        "Work": "https://www.moma.org/collection/works/58606",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "9 15/16 \u00d7 7 1/2\" (25.3 \u00d7 19.1 cm)",
+            "Credit": "The New York Times Collection",
+            "Object number": "2013.2001",
+            "Copyright": "\u00a9 2023 The New York Times",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/8551"
+    },
+    {
+        "Artist": "Palmer Hayden",
+        "Title": "The Blue Nile",
+        "Year": "1964",
+        "ObjectID": "203638",
+        "Work": "https://www.moma.org/collection/works/203638",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM2MDA5OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5bb25cb6bd6198cb",
+        "Details": {
+            "Medium": "Watercolor, gouache, and pencil on paper",
+            "Dimensions": "21 1/2 \u00d7 27 7/8\" (54.6 \u00d7 70.8 cm)",
+            "Credit": "Committee on Drawings and Prints Fund",
+            "Object number": "221.2016",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/49627"
+    },
+    {
+        "Artist": "Bernard Heidsieck",
+        "Title": "Poeme Partition B2 B3 \u201cExorcisme\u201d",
+        "Year": "1964",
+        "ObjectID": "184003",
+        "Work": "https://www.moma.org/collection/works/184003",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQwMDU4OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=70554ddf405b03b4",
+        "Details": {
+            "Medium": "7-inch flexi-disc",
+            "Dimensions": "dimensions vary",
+            "Publisher": "Edition du Castel Rose",
+            "Edition": "66",
+            "Credit": "Committee on Prints and Illustrated Books Fund",
+            "Object number": "854.2013.135.x1-x2",
+            "Associated work": "Steven Leiber Audio Collection",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/41145"
+    },
+    {
+        "Artist": "Al Held",
+        "Title": "The Big N",
+        "Year": "1964",
+        "ObjectID": "78795",
+        "Work": "https://www.moma.org/collection/works/78795",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1MDk1MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e56d11423f7146cd",
+        "Details": {
+            "Medium": "Synthetic polymer paint on canvas",
+            "Dimensions": "9' 3/8\" x 9' (275.2 x 274.3 cm)",
+            "Credit": "Mrs. Armand P. Bartos Fund",
+            "Object number": "104.1973",
+            "Copyright": "\u00a9 2023 Al Held Foundation, Inc. / Licensed by ARS, New York, NY",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/2583"
+    },
+    {
+        "Artist": "Al Held",
+        "Title": "Maltese Cross",
+        "Year": "1964",
+        "ObjectID": "80637",
+        "Work": "https://www.moma.org/collection/works/80637",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDIyNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b519a7379cfbf845",
+        "Details": {
+            "Medium": "Synthetic polymer paint on canvas",
+            "Dimensions": "9' x 9' 5\" (274.3 x 290.8 cm)",
+            "Credit": "Lita Hornick Bequest",
+            "Object number": "1326.2000",
+            "Copyright": "\u00a9 2023 Al Held Foundation, Inc. / Licensed by ARS, New York, NY",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/2583"
+    },
+    {
+        "Artist": "Ron Herron",
+        "Title": "Cities: Moving, Master Vehicle-Habitation Project, Aerial Perspective",
+        "Year": "1964",
+        "ObjectID": "813",
+        "Work": "https://www.moma.org/collection/works/813",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDExMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8cb96b468476b3cc",
+        "Details": {
+            "Medium": "Ink and graphite on tracing paper",
+            "Dimensions": "21 3/4 x 32 3/4\" (55.2 x 83.2 cm)",
+            "Credit": "Gift of The Howard Gilman Foundation",
+            "Object number": "1202.2000",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/8113"
+    },
+    {
+        "Artist": "Anton Heyboer",
+        "Title": "End of Spirit and Intuition, Beginning of the Living, End of the Talking",
+        "Year": "1964",
+        "ObjectID": "76488",
+        "Work": "https://www.moma.org/collection/works/76488",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Etching and aquatint",
+            "Dimensions": "Plate 19 15/16 x 18 3/16\" (50.7 x 46.1 cm) Sheet 39 11/16 x 25 7/16\" (100.8 x 64.7 cm)",
+            "Credit": "John S. Newberry Fund",
+            "Object number": "1357.1968",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/2627"
+    },
+    {
+        "Artist": "Anton Heyboer",
+        "Title": "Way of Enlightenment, Way of Separation, Way of Darkness",
+        "Year": "1964",
+        "ObjectID": "77401",
+        "Work": "https://www.moma.org/collection/works/77401",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Etching",
+            "Dimensions": "Plate 20 x 34 13/16\" (50.8 x 88.4 cm)(irreg.) Sheet 25 1/2 x 39 13/16\" (64.8 x 101.1 cm)",
+            "Credit": "John S. Newberry Fund",
+            "Object number": "1635.1968",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/2627"
+    },
+    {
+        "Artist": "Anton Heyboer",
+        "Title": "Was a Wife Was a Man Was a Wife",
+        "Year": "1964",
+        "ObjectID": "77403",
+        "Work": "https://www.moma.org/collection/works/77403",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Etching",
+            "Dimensions": "Plate 17 1/8 x 10 15/16\" (43.6 x 27.8 cm) Sheet 39 13/16 x 25 1/2\" (101.1 x 64.7 cm)",
+            "Printer": "Ingetje Maria Heyboer",
+            "Credit": "John S. Newberry Fund",
+            "Object number": "1636.1968",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/2627"
+    },
+    {
+        "Artist": "Hans Hillmann",
+        "Title": "Sturm Uber Asien, Pudowkins Meisterwerk, Neue Filmkunst",
+        "Year": "1964",
+        "ObjectID": "5933",
+        "Work": "https://www.moma.org/collection/works/5933",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxOTIzMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ad5afe72f7d04d71",
+        "Details": {
+            "Medium": "Photolithograph",
+            "Dimensions": "33 \u00d7 23\" (83.8 \u00d7 58.4 cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "265.1965",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/2653"
+    },
+    {
+        "Artist": "Hans Hillmann",
+        "Title": "Luis Bunuel (Ensayo de un Crimen), Das verbrecherische Leben des Archibaldo de la Cruz (Luis Bunuel [Ensayo de un Crimen], The criminal life of Archibaldo de la Cruz)",
+        "Year": "1964",
+        "ObjectID": "5940",
+        "Work": "https://www.moma.org/collection/works/5940",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxOTIzMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7465703ddc587964",
+        "Details": {
+            "Medium": "Photolithograph",
+            "Dimensions": "33 x 23\" (83.8 x 58.4 cm)",
+            "Printer": "P.R. Wilk,, Ffm.",
+            "Credit": "Gift of the artist",
+            "Object number": "266.1965",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/2653"
+    },
+    {
+        "Artist": "Hans Hillmann",
+        "Title": "Seinodernichstein",
+        "Year": "1964",
+        "ObjectID": "5947",
+        "Work": "https://www.moma.org/collection/works/5947",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxOTIzMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cdab43db3c8ff9bb",
+        "Details": {
+            "Medium": "Photolithograph",
+            "Dimensions": "33 \u00d7 23\" (83.8 \u00d7 58.4 cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "267.1965",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/2653"
+    },
+    {
+        "Artist": "Hans Hillmann",
+        "Title": "Crime et Chatiment",
+        "Year": "1964",
+        "ObjectID": "5954",
+        "Work": "https://www.moma.org/collection/works/5954",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxOTIzMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=59e618a95400ea90",
+        "Details": {
+            "Medium": "Photolithograph",
+            "Dimensions": "33 \u00d7 23\" (83.8 \u00d7 58.4 cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "268.1965",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/2653"
+    },
+    {
+        "Artist": "Jiri Hilmar",
+        "Title": "Modni Prehlidka jaro - leto (Spring \u2013 Summer Fashion Show)",
+        "Year": "1964",
+        "ObjectID": "174662",
+        "Work": "https://www.moma.org/collection/works/174662",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwMjc5NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=555d7c9ed63bce5e",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "32 3/4 x 23\" (83.2 x 58.4 cm)",
+            "Credit": "Gift of the designer",
+            "Object number": "366.2014",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/44646"
+    },
+    {
+        "Artist": "Charles Hinman",
+        "Title": "Poltergeist",
+        "Year": "1964",
+        "ObjectID": "78339",
+        "Work": "https://www.moma.org/collection/works/78339",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwOTk4NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d536678eeae277ab",
+        "Details": {
+            "Medium": "Synthetic polymer paint on shaped canvas over wood framework",
+            "Dimensions": "8' 2 3/4\" x 61 7/8\" x 16 3/8\" (250.7 x 156.9 x 41.5 cm)",
+            "Credit": "Larry Aldrich Foundation Fund",
+            "Object number": "3.1965",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/2658"
     }
 ]

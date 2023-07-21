@@ -1,386 +1,386 @@
 [
     {
-        "Artist": "John Morris",
+        "Artist": "Rodney Graham",
+        "Title": "Sunshine Superman Series",
+        "Year": "2001",
+        "ObjectID": "175754",
+        "Work": "https://www.moma.org/collection/works/175754",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0MzkzMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e814e9f9d0c05333"
+    },
+    {
+        "Artist": "Rodney Graham",
+        "Title": "Poster for The Phonokinetoscope",
+        "Year": "2001",
+        "ObjectID": "175755",
+        "Work": "https://www.moma.org/collection/works/175755",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4NTY3OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8809a392eae5827c"
+    },
+    {
+        "Artist": "Alex Grey",
+        "Title": "Study for Reading",
+        "Year": "2001",
+        "ObjectID": "96061",
+        "Work": "https://www.moma.org/collection/works/96061",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNDU5MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5b2090dd421c2b97"
+    },
+    {
+        "Artist": "Mark Grotjahn",
+        "Title": "Untitled (Blue and Cream)",
+        "Year": "2000-01",
+        "ObjectID": "96064",
+        "Work": "https://www.moma.org/collection/works/96064",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzMzk0MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7fbaa69862d50708"
+    },
+    {
+        "Artist": "Wenda Gu",
+        "Title": "Stone Stele #14",
+        "Year": "2001",
+        "ObjectID": "83748",
+        "Work": "https://www.moma.org/collection/works/83748",
+        "Thumbnail": null
+    },
+    {
+        "Artist": "Jane Hammond",
+        "Title": "Tabula Rosa",
+        "Year": "2001",
+        "ObjectID": "86840",
+        "Work": "https://www.moma.org/collection/works/86840",
+        "Thumbnail": null
+    },
+    {
+        "Artist": "Einar Hareide, Anders Hansen, \u00d8ivind Resch, Hareide Designmill",
+        "Title": "Startloop car battery starting device",
+        "Year": "2001",
+        "ObjectID": "93962",
+        "Work": "https://www.moma.org/collection/works/93962",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNzY3OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=781073a982be086c"
+    },
+    {
+        "Artist": "Rachel Harrison",
+        "Title": "Untitled (Fire Hydrant)",
+        "Year": "2001",
+        "ObjectID": "96104",
+        "Work": "https://www.moma.org/collection/works/96104",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNTc3MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=027134d473766e99"
+    },
+    {
+        "Artist": "Rachel Harrison",
+        "Title": "Perth Amboy",
+        "Year": "2001",
+        "ObjectID": "151044",
+        "Work": "https://www.moma.org/collection/works/151044",
+        "Thumbnail": null
+    },
+    {
+        "Artist": "Mona Hatoum",
+        "Title": "Untitled (hair grid with knots 3)",
+        "Year": "(2001)",
+        "ObjectID": "86813",
+        "Work": "https://www.moma.org/collection/works/86813",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjkzODkzIl0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNTEyeDUxMlx1MDAzZSJdXQ.jpg?sha=45cde06c953595fb"
+    },
+    {
+        "Artist": "Sharon Hayes",
+        "Title": "The Interpreter Project",
+        "Year": "2001",
+        "ObjectID": "156763",
+        "Work": "https://www.moma.org/collection/works/156763",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4OTE3OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a13d24e2ffb480cf"
+    },
+    {
+        "Artist": "Deryck Healy",
+        "Title": "Think First from Break the Silence!",
+        "Year": "2000-01",
+        "ObjectID": "136205",
+        "Work": "https://www.moma.org/collection/works/136205",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzOTA5MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1d2bcc726483e618"
+    },
+    {
+        "Artist": "Christine Hiebert",
+        "Title": "Untitled (L.01.2)",
+        "Year": "2001",
+        "ObjectID": "90691",
+        "Work": "https://www.moma.org/collection/works/90691",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4Njc5NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=08277ec95b5911e0"
+    },
+    {
+        "Artist": "Thomas Hirschhorn",
+        "Title": "\u0152Serie: 1 Man = 1 Man (Perpetual Obsession)1",
+        "Year": "2001",
+        "ObjectID": "98031",
+        "Work": "https://www.moma.org/collection/works/98031",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjk3NTM4Il0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNTEyeDUxMlx1MDAzZSJdXQ.jpg?sha=26ef678eaef92d66"
+    },
+    {
+        "Artist": "Thomas Hirschhorn",
+        "Title": "\u0152Serie: 1 Man = 1 Man (Globalisation Ok! But From Below)1",
+        "Year": "2001",
+        "ObjectID": "98032",
+        "Work": "https://www.moma.org/collection/works/98032",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjk3NTYzIl0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNTEyeDUxMlx1MDAzZSJdXQ.jpg?sha=0308b6169773a9e7"
+    },
+    {
+        "Artist": "Thomas Hirschhorn",
+        "Title": "\u0152Serie: 1 Man = 1 Man (I Love my Life)1",
+        "Year": "2001",
+        "ObjectID": "98033",
+        "Work": "https://www.moma.org/collection/works/98033",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjk3NTk0Il0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNTEyeDUxMlx1MDAzZSJdXQ.jpg?sha=dfa0b4e726c86315"
+    },
+    {
+        "Artist": "Thomas Hirschhorn",
+        "Title": "\u0152Serie: 1 Man = 1 Man (No Life Is Cheap)1",
+        "Year": "2001",
+        "ObjectID": "98034",
+        "Work": "https://www.moma.org/collection/works/98034",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjk3NTk1Il0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNTEyeDUxMlx1MDAzZSJdXQ.jpg?sha=50ae794f038cf6e0"
+    },
+    {
+        "Artist": "Thomas Hirschhorn",
+        "Title": "\u0152Serie: 1 Man = 1 Man (Senior Thesis = Junior Thesis)1",
+        "Year": "2001",
+        "ObjectID": "98035",
+        "Work": "https://www.moma.org/collection/works/98035",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjk3NTk2Il0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNTEyeDUxMlx1MDAzZSJdXQ.jpg?sha=50286871cd570426"
+    },
+    {
+        "Artist": "Thomas Hirschhorn",
+        "Title": "\u0152Serie: 1 Man = 1 Man (Always On Your Side)1",
+        "Year": "2001",
+        "ObjectID": "98036",
+        "Work": "https://www.moma.org/collection/works/98036",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjk3NTk3Il0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNTEyeDUxMlx1MDAzZSJdXQ.jpg?sha=8f0a26fc4c998b9e"
+    },
+    {
+        "Artist": "Thomas Hirschhorn",
+        "Title": "\u0152Serie: 1 Man = 1 Man (Truth = Truth)1",
+        "Year": "2001",
+        "ObjectID": "98037",
+        "Work": "https://www.moma.org/collection/works/98037",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjk3NTk4Il0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNTEyeDUxMlx1MDAzZSJdXQ.jpg?sha=a0ab489e755f43ec"
+    },
+    {
+        "Artist": "Thomas Hirschhorn",
+        "Title": "\u0152Serie: 1 Man = 1 Man (We Are the World)1",
+        "Year": "2001",
+        "ObjectID": "98038",
+        "Work": "https://www.moma.org/collection/works/98038",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjk3NTk5Il0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNTEyeDUxMlx1MDAzZSJdXQ.jpg?sha=3d99abf045e2819d"
+    },
+    {
+        "Artist": "Jim Hodges",
+        "Title": "Happy III",
+        "Year": "2001",
+        "ObjectID": "96156",
+        "Work": "https://www.moma.org/collection/works/96156",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzNDg5OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=44e039c24ec82615"
+    },
+    {
+        "Artist": "Sabine Hornig",
+        "Title": "Window III",
+        "Year": "2001",
+        "ObjectID": "116098",
+        "Work": "https://www.moma.org/collection/works/116098",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzMTYzMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d8d5302d4fa681a9"
+    },
+    {
+        "Artist": "Roni Horn",
+        "Title": "Clowndoubt (Joe)",
+        "Year": "2001",
+        "ObjectID": "96215",
+        "Work": "https://www.moma.org/collection/works/96215",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNjYzMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7f99d1c9ac277f13"
+    },
+    {
+        "Artist": "Huang Yong Ping",
+        "Title": "Long Scroll",
+        "Year": "2001",
+        "ObjectID": "86815",
+        "Work": "https://www.moma.org/collection/works/86815",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjk3NDM2Il0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNTEyeDUxMlx1MDAzZSJdXQ.jpg?sha=5097e42c9340a8ab"
+    },
+    {
+        "Artist": "Gary Hume",
+        "Title": "Untitled III",
+        "Year": "2001",
+        "ObjectID": "96229",
+        "Work": "https://www.moma.org/collection/works/96229",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzNTYxMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c37b0154be89112d"
+    },
+    {
+        "Artist": "Pierre Huyghe",
+        "Title": "Les grands ensembles (The Housing Projects)",
+        "Year": "2001",
+        "ObjectID": "179371",
+        "Work": "https://www.moma.org/collection/works/179371",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwNjU0MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7b03a3957d1f7a8e"
+    },
+    {
+        "Artist": "Jonathan Ive, Apple Industrial Design Group",
+        "Title": "iPod",
+        "Year": "2001",
+        "ObjectID": "89465",
+        "Work": "https://www.moma.org/collection/works/89465",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzMzU0MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b1e499473d4ef7ad"
+    },
+    {
+        "Artist": "Emily Jacir",
+        "Title": "From Paris to Riyadh (Drawings for My Mother)",
+        "Year": "1999",
+        "ObjectID": "139276",
+        "Work": "https://www.moma.org/collection/works/139276",
+        "Thumbnail": null
+    },
+    {
+        "Artist": "Bill Jensen",
+        "Title": "Fei Fei",
+        "Year": "2001",
+        "ObjectID": "86842",
+        "Work": "https://www.moma.org/collection/works/86842",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNTE5OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=97a9edfe87c181a4"
+    },
+    {
+        "Artist": "Bill Jensen",
+        "Title": "Map of the World (Mappa del mondo)",
+        "Year": "2001",
+        "ObjectID": "86843",
+        "Work": "https://www.moma.org/collection/works/86843",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNTIwMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=02e27ecd57d82fd4"
+    },
+    {
+        "Artist": "Bill Jensen",
+        "Title": "Russell's Lair",
+        "Year": "2001",
+        "ObjectID": "86844",
+        "Work": "https://www.moma.org/collection/works/86844",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNTIwMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=dd276e2708fe9c80"
+    },
+    {
+        "Artist": "Bill Jensen",
+        "Title": "Tuva",
+        "Year": "2001",
+        "ObjectID": "86845",
+        "Work": "https://www.moma.org/collection/works/86845",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNTIwMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8d2462aad4c7c255"
+    },
+    {
+        "Artist": "Niels Due Jensen",
+        "Title": "SQFlex Combo Drinking Water Pump",
+        "Year": "2001",
+        "ObjectID": "98102",
+        "Work": "https://www.moma.org/collection/works/98102",
+        "Thumbnail": null
+    },
+    {
+        "Artist": "Jasper Johns",
+        "Title": "Untitled (Negative)",
+        "Year": "2001",
+        "ObjectID": "82637",
+        "Work": "https://www.moma.org/collection/works/82637",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE0MTg2MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9442adb31c84a7bf"
+    },
+    {
+        "Artist": "Jasper Johns",
+        "Title": "Untitled (Positive)",
+        "Year": "2001",
+        "ObjectID": "82638",
+        "Work": "https://www.moma.org/collection/works/82638",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE0MTg2MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6b5e3bde67ef714d"
+    },
+    {
+        "Artist": "Jasper Johns",
         "Title": "Untitled",
-        "Year": "(1992-2000)",
-        "ObjectID": "38709",
-        "Work": "https://www.moma.org/collection/works/38709",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NzkyNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9cb55cd31a37954d"
+        "Year": "2001",
+        "ObjectID": "100505",
+        "Work": "https://www.moma.org/collection/works/100505",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE0NTQ1MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a5be8bedcdd21eea"
     },
     {
-        "Artist": "John Morris",
-        "Title": "Drawing for Theresa Pan",
-        "Year": "2000",
-        "ObjectID": "96743",
-        "Work": "https://www.moma.org/collection/works/96743",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNjA3OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f89e3ba57efa3e7d"
+        "Artist": "Jasper Johns",
+        "Title": "Untitled",
+        "Year": "2001",
+        "ObjectID": "100506",
+        "Work": "https://www.moma.org/collection/works/100506",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE0MzgzOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ba7f253b7039df1d"
     },
     {
-        "Artist": "Jasper Morrison",
-        "Title": "Luxmaster F Floorlamp",
-        "Year": "2000",
-        "ObjectID": "102429",
-        "Work": "https://www.moma.org/collection/works/102429",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MjA0OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1777f2a294314a52"
+        "Artist": "Jasper Johns",
+        "Title": "Untitled",
+        "Year": "2001",
+        "ObjectID": "100507",
+        "Work": "https://www.moma.org/collection/works/100507",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE0MzgzOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9c6f02f0000a713d"
     },
     {
-        "Artist": "Zwelethu Mthethwa",
-        "Title": "The Day Before",
-        "Year": "2000",
-        "ObjectID": "95182",
-        "Work": "https://www.moma.org/collection/works/95182",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyMDIzOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5b133d5bc6a72416"
+        "Artist": "Jasper Johns",
+        "Title": "Untitled",
+        "Year": "2001",
+        "ObjectID": "100508",
+        "Work": "https://www.moma.org/collection/works/100508",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE0Mzg0MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b5af4f52baca2937"
     },
     {
-        "Artist": "Zwelethu Mthethwa",
-        "Title": "Being Cozy",
-        "Year": "2000",
-        "ObjectID": "95183",
-        "Work": "https://www.moma.org/collection/works/95183",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyMDIzOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b645c33777120edc"
+        "Artist": "Jasper Johns",
+        "Title": "Untitled",
+        "Year": "2001",
+        "ObjectID": "100509",
+        "Work": "https://www.moma.org/collection/works/100509",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE0NTQ1OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8cd7ed382d6fdbff"
     },
     {
-        "Artist": "Ted Muehling",
-        "Title": "Concave Cup",
-        "Year": "2000",
-        "ObjectID": "95163",
-        "Work": "https://www.moma.org/collection/works/95163",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MjA1NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a2492f3246f92ac1"
+        "Artist": "Jasper Johns",
+        "Title": "Untitled",
+        "Year": "2001",
+        "ObjectID": "100510",
+        "Work": "https://www.moma.org/collection/works/100510",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE0NTQ1OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5850a6efce550f04"
     },
     {
-        "Artist": "Ted Muehling",
-        "Title": "Convex Cup",
-        "Year": "2000",
-        "ObjectID": "95164",
-        "Work": "https://www.moma.org/collection/works/95164",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MjA1NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d0d9f11e39cdebcb"
+        "Artist": "Jasper Johns",
+        "Title": "Untitled",
+        "Year": "2001",
+        "ObjectID": "100511",
+        "Work": "https://www.moma.org/collection/works/100511",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE0NTQ2MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8c062d5a6d36b587"
     },
     {
-        "Artist": "Claudia Muller, Julia Muller",
-        "Title": "Random Signs, Pferd, Abstract (Bubbles), Clown",
-        "Year": "2000",
-        "ObjectID": "96710",
-        "Work": "https://www.moma.org/collection/works/96710",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNjcyNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c405a3e4a5817d5b"
+        "Artist": "Jasper Johns",
+        "Title": "Untitled",
+        "Year": "2001",
+        "ObjectID": "100512",
+        "Work": "https://www.moma.org/collection/works/100512",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE0NTQ2MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=981c0269b956fdda"
     },
     {
-        "Artist": "Vik Muniz",
-        "Title": "Elephant Women from the series Personal Articles",
-        "Year": "2000",
-        "ObjectID": "76470",
-        "Work": "https://www.moma.org/collection/works/76470",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMzAxMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d749ad42bdf471d0"
+        "Artist": "Jasper Johns",
+        "Title": "Untitled",
+        "Year": "2001",
+        "ObjectID": "100513",
+        "Work": "https://www.moma.org/collection/works/100513",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE0NTQ2MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e08ae77c4c28018c"
     },
     {
-        "Artist": "Vik Muniz",
-        "Title": "\"Hey If You're So Damn Smart, Why Can't You Ever Get a Date?\" from the series Personal Articles",
-        "Year": "2000",
-        "ObjectID": "76471",
-        "Work": "https://www.moma.org/collection/works/76471",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMzAxMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3888e88beb24ed8f"
+        "Artist": "Jasper Johns",
+        "Title": "Untitled",
+        "Year": "2001",
+        "ObjectID": "100514",
+        "Work": "https://www.moma.org/collection/works/100514",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE0NTQ1NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d8f7bd79d5a58c7e"
     },
     {
-        "Artist": "Vik Muniz",
-        "Title": "Hundreds Die by Own Hand from the series Personal Articles",
-        "Year": "2000",
-        "ObjectID": "76472",
-        "Work": "https://www.moma.org/collection/works/76472",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMzAxMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=31713ca2b7f96aa5"
+        "Artist": "Jasper Johns",
+        "Title": "Untitled",
+        "Year": "2001",
+        "ObjectID": "100515",
+        "Work": "https://www.moma.org/collection/works/100515",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE0NTQ1NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=69269fefa0e5ab96"
     },
     {
-        "Artist": "Vik Muniz",
-        "Title": "Never Before Released Cassavetes Thriller Is a Joy Ride from the series Personal Articles",
-        "Year": "2000",
-        "ObjectID": "76473",
-        "Work": "https://www.moma.org/collection/works/76473",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMzAxNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=108fec065e72f5d7"
-    },
-    {
-        "Artist": "Vik Muniz",
-        "Title": "New Lascaux Amusement Park to bring renewed wealth and lost of excitement to Vazere valley from the series Personal Articles",
-        "Year": "2000",
-        "ObjectID": "76474",
-        "Work": "https://www.moma.org/collection/works/76474",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMzAxNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=22feb0e7581c7282"
-    },
-    {
-        "Artist": "Vik Muniz",
-        "Title": "Dalai Lama Introduces Meditation Software from the series Personal Articles",
-        "Year": "2000",
-        "ObjectID": "76475",
-        "Work": "https://www.moma.org/collection/works/76475",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMzAxNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=19b140c5fdf95c55"
-    },
-    {
-        "Artist": "Vik Muniz",
-        "Title": "\"Hey! Never Mind the Content - Look at the Context!\" from the series Personal Articles",
-        "Year": "2000",
-        "ObjectID": "76476",
-        "Work": "https://www.moma.org/collection/works/76476",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMzAxNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=551692648d7adc02"
-    },
-    {
-        "Artist": "Vik Muniz",
-        "Title": "Still, after Cindy Sherman (from Pictures of Ink)",
-        "Year": "2000",
-        "ObjectID": "125273",
-        "Work": "https://www.moma.org/collection/works/125273",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5ODgzNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5ccdefd86f997e00"
-    },
-    {
-        "Artist": "Vik Muniz",
-        "Title": "Migrant Mother, after Dorothea Lange",
-        "Year": "2000",
-        "ObjectID": "128892",
-        "Work": "https://www.moma.org/collection/works/128892",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQyOTU3MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=972246c294671e06"
-    },
-    {
-        "Artist": "Takashi Murakami",
-        "Title": "Study for Mushroom Painting #5",
-        "Year": "(2000)",
-        "ObjectID": "96785",
-        "Work": "https://www.moma.org/collection/works/96785",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNjcyNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=bc5758d089995f59"
-    },
-    {
-        "Artist": "Elizabeth Murray",
-        "Title": "Dotty",
-        "Year": "2000",
-        "ObjectID": "77001",
-        "Work": "https://www.moma.org/collection/works/77001",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjk4NTM2Il0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNTEyeDUxMlx1MDAzZSJdXQ.jpg?sha=aacae364bdf7cd52"
-    },
-    {
-        "Artist": "Laurel Nakadate",
-        "Title": "Oops!",
-        "Year": "2000",
-        "ObjectID": "128839",
-        "Work": "https://www.moma.org/collection/works/128839",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1ODc1NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=42d3a60db361105f"
-    },
-    {
-        "Artist": "Yoshitomo Nara",
-        "Title": "Untitled (Dog with headphones) from the series Time of My Life",
-        "Year": "1992-2000",
-        "ObjectID": "88414",
-        "Work": "https://www.moma.org/collection/works/88414",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MzI0NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=32f9d4715970ff49"
-    },
-    {
-        "Artist": "Yoshitomo Nara",
-        "Title": "Untitled (Girl standing with checkerboard) from the series Time of My Life",
-        "Year": "1992-2000",
-        "ObjectID": "88415",
-        "Work": "https://www.moma.org/collection/works/88415",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjkyOTI2Il0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNTEyeDUxMlx1MDAzZSJdXQ.jpg?sha=3f3738c3c104dd54"
-    },
-    {
-        "Artist": "Yoshitomo Nara",
-        "Title": "Untitled (ESP Girl) from the series Time of My Life",
-        "Year": "1992-2000",
-        "ObjectID": "88416",
-        "Work": "https://www.moma.org/collection/works/88416",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2OTE3NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=258cfe6a4b44a7ac"
-    },
-    {
-        "Artist": "Yoshitomo Nara",
-        "Title": "Untitled (Hangaten 3 1/2 with vampire girl) from the series Time of My Life",
-        "Year": "1992-2000",
-        "ObjectID": "88417",
-        "Work": "https://www.moma.org/collection/works/88417",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjkyOTI3Il0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNTEyeDUxMlx1MDAzZSJdXQ.jpg?sha=d2af9a2724a6174b"
-    },
-    {
-        "Artist": "Yoshitomo Nara",
-        "Title": "Untitled (No FX abstract) from the series Time of My Life",
-        "Year": "1992-2000",
-        "ObjectID": "88418",
-        "Work": "https://www.moma.org/collection/works/88418",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjkyNzc2Il0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNTEyeDUxMlx1MDAzZSJdXQ.jpg?sha=1798ce568f65ee98"
-    },
-    {
-        "Artist": "Yoshitomo Nara",
-        "Title": "Untitled (Girl with gun) from the series\u001f Time of My Life",
-        "Year": "1992-2000",
-        "ObjectID": "88419",
-        "Work": "https://www.moma.org/collection/works/88419",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjkyOTMwIl0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNTEyeDUxMlx1MDAzZSJdXQ.jpg?sha=6f29da7504c4048d"
-    },
-    {
-        "Artist": "Yoshitomo Nara",
-        "Title": "Untitled (Buddha girl on flying boards) from the series Time of My Life",
-        "Year": "1992-2000",
-        "ObjectID": "88420",
-        "Work": "https://www.moma.org/collection/works/88420",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjkyOTMxIl0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNTEyeDUxMlx1MDAzZSJdXQ.jpg?sha=b3ac9065f2af463f"
-    },
-    {
-        "Artist": "Yoshitomo Nara",
-        "Title": "Untitled (Girl in corner on black ground) from the series Time of My Life",
-        "Year": "1992-2000",
-        "ObjectID": "88421",
-        "Work": "https://www.moma.org/collection/works/88421",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3NDQyOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=347e85b2a2a16976"
-    },
-    {
-        "Artist": "Yoshitomo Nara",
-        "Title": "Untitled (Dog with Japanese writing) from the series Time of My Life",
-        "Year": "1992-2000",
-        "ObjectID": "88422",
-        "Work": "https://www.moma.org/collection/works/88422",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3NDQzMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d85823d07765ae98"
-    },
-    {
-        "Artist": "Yoshitomo Nara",
-        "Title": "Untitled (\"Stargirl\") from the series Time of My Life",
-        "Year": "1992-2000",
-        "ObjectID": "88423",
-        "Work": "https://www.moma.org/collection/works/88423",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MzIzOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3ea9233c1105b768"
-    },
-    {
-        "Artist": "Yoshitomo Nara",
-        "Title": "Untitled (Lots of little drawings) from the series Time of My Life",
-        "Year": "1992-2000",
-        "ObjectID": "88424",
-        "Work": "https://www.moma.org/collection/works/88424",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjkyOTI0Il0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNTEyeDUxMlx1MDAzZSJdXQ.jpg?sha=15f4ffdbab0cb2af"
-    },
-    {
-        "Artist": "Yoshitomo Nara",
-        "Title": "Untitled (\"Tell me story of your life\"/girl walking) from the series Time of My Life",
-        "Year": "1992-2000",
-        "ObjectID": "88425",
-        "Work": "https://www.moma.org/collection/works/88425",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MzI0MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e8a54fb0981cfaf4"
-    },
-    {
-        "Artist": "Yoshitomo Nara",
-        "Title": "Untitled (\"Pave your dreams. Make a road!\") from the series Time of My Life",
-        "Year": "1992-2000",
-        "ObjectID": "88426",
-        "Work": "https://www.moma.org/collection/works/88426",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3Njk4MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=03fddd10043294a1"
-    },
-    {
-        "Artist": "Yoshitomo Nara",
-        "Title": "Untitled (Girl in cloud/lamppost) from the series Time of My Life",
-        "Year": "1992-2000",
-        "ObjectID": "88427",
-        "Work": "https://www.moma.org/collection/works/88427",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjkyNzUxIl0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNTEyeDUxMlx1MDAzZSJdXQ.jpg?sha=71689361bafdd3df"
-    },
-    {
-        "Artist": "Yoshitomo Nara",
-        "Title": "Untitled (\"Love You've Gotta Love Something\") from the series Time of My Life",
-        "Year": "1992-2000",
-        "ObjectID": "88428",
-        "Work": "https://www.moma.org/collection/works/88428",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MzI0MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5731b905be11d278"
-    },
-    {
-        "Artist": "Yoshitomo Nara",
-        "Title": "Untitled (\"From the expanding watchtower... For 'the dogs from yr childhood'\") from the series Time of My Life",
-        "Year": "1992-2000",
-        "ObjectID": "88429",
-        "Work": "https://www.moma.org/collection/works/88429",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MzI0MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f50843dfdbcabbac"
-    },
-    {
-        "Artist": "Yoshitomo Nara",
-        "Title": "Untitled (\"I Want the Motorcycle\") from the series Time of My Life",
-        "Year": "1992-2000",
-        "ObjectID": "88430",
-        "Work": "https://www.moma.org/collection/works/88430",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MzI0MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3cccb162b5969635"
-    },
-    {
-        "Artist": "Yoshitomo Nara",
-        "Title": "Untitled (\"Same as always\") from the series Time of My Life",
-        "Year": "1992-2000",
-        "ObjectID": "88432",
-        "Work": "https://www.moma.org/collection/works/88432",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MzI0NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6169198be5c60351"
-    },
-    {
-        "Artist": "Yoshitomo Nara",
-        "Title": "Untitled (Girl with hair pulled by a dog) from the series Time of My Life",
-        "Year": "1992-2000",
-        "ObjectID": "88433",
-        "Work": "https://www.moma.org/collection/works/88433",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MzI0NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5d2ac418f1106214"
-    },
-    {
-        "Artist": "Yoshitomo Nara",
-        "Title": "Untitled (\"Guston Girls Smok too Much\") from the series Time of My Life",
-        "Year": "1992-2000",
-        "ObjectID": "88435",
-        "Work": "https://www.moma.org/collection/works/88435",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3NDQyNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=36032218fef314b9"
-    },
-    {
-        "Artist": "Yoshitomo Nara",
-        "Title": "Untitled (\"Stuffed dog. No pain No gain\") from the series Time of My Life",
-        "Year": "1992-2000",
-        "ObjectID": "88437",
-        "Work": "https://www.moma.org/collection/works/88437",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MzI0NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c4e9673db34d9276"
-    },
-    {
-        "Artist": "Yoshitomo Nara",
-        "Title": "Untitled (\"No More War\" Gumby decapitated) from the series Time of My Life",
-        "Year": "1992-2000",
-        "ObjectID": "88438",
-        "Work": "https://www.moma.org/collection/works/88438",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjkyNzU2Il0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNTEyeDUxMlx1MDAzZSJdXQ.jpg?sha=d4a00ef123a426bf"
-    },
-    {
-        "Artist": "Yoshitomo Nara",
-        "Title": "Untitled (\"Sunday people say something\") from the series Time of My Life",
-        "Year": "1992-2000",
-        "ObjectID": "88439",
-        "Work": "https://www.moma.org/collection/works/88439",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjkyNjE4Il0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNTEyeDUxMlx1MDAzZSJdXQ.jpg?sha=a0e49221d1eddc29"
-    },
-    {
-        "Artist": "Yoshitomo Nara",
-        "Title": "Untitled (\"Sheeps can never sleep\") from the series Time of My Life",
-        "Year": "1992-2000",
-        "ObjectID": "88442",
-        "Work": "https://www.moma.org/collection/works/88442",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MzI0OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=de94b998a9ceb5e0"
-    },
-    {
-        "Artist": "Yoshitomo Nara",
-        "Title": "Untitled (Yellow-haired girl) from the series Time of My Life",
-        "Year": "1992-2000",
-        "ObjectID": "88443",
-        "Work": "https://www.moma.org/collection/works/88443",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MzI1MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=607106ca801849c1"
-    },
-    {
-        "Artist": "Yoshitomo Nara",
-        "Title": "Untitled (Girl with thumb up) from the series Time of My Life",
-        "Year": "1992-2000",
-        "ObjectID": "88444",
-        "Work": "https://www.moma.org/collection/works/88444",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjkyNzYzIl0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNTEyeDUxMlx1MDAzZSJdXQ.jpg?sha=a4d3ed89061c6304"
-    },
-    {
-        "Artist": "Yoshitomo Nara",
-        "Title": "Untitled (\"Fuck\"/girl getting yelled at) from the series Time of My Life",
-        "Year": "1992-2000",
-        "ObjectID": "88445",
-        "Work": "https://www.moma.org/collection/works/88445",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjkyNzY1Il0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNTEyeDUxMlx1MDAzZSJdXQ.jpg?sha=737a0c8102d12c7c"
-    },
-    {
-        "Artist": "Yoshitomo Nara",
-        "Title": "Untitled (\"No Smokin' Please\") from the series Time of My Life",
-        "Year": "1992-2000",
-        "ObjectID": "88446",
-        "Work": "https://www.moma.org/collection/works/88446",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjkyNzY4Il0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNTEyeDUxMlx1MDAzZSJdXQ.jpg?sha=e482b46f4cecbf93"
+        "Artist": "Jasper Johns",
+        "Title": "Untitled",
+        "Year": "2001",
+        "ObjectID": "100516",
+        "Work": "https://www.moma.org/collection/works/100516",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE0NTQ1NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1ae6185abb90ceac"
     }
 ]

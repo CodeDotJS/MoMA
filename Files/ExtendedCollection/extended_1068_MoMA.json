@@ -1,796 +1,908 @@
 [
     {
-        "Artist": "Domenico Gnoli",
-        "Title": "Empty Crates",
-        "Year": "1958",
-        "ObjectID": "37767",
-        "Work": "https://www.moma.org/collection/works/37767",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQzMjk2MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ecb1f910ed2249cc",
+        "Artist": "Fred W. McDarrah",
+        "Title": "Paper airplane performance during Fluxorchestra at Carnegie Recital Hall, September 25, 1965",
+        "Year": "1965 (printed 2014)",
+        "ObjectID": "192512",
+        "Work": "https://www.moma.org/collection/works/192512",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMyMTMxMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=37289e92ccd6d3ef",
         "Details": {
-            "Medium": "Ink on paper",
-            "Dimensions": "19 1/2 x 27 5/8\" (49.5 x 70.0 cm)",
-            "Credit": "Gift of Miss Luisa Gilardenghi",
-            "Object number": "668.1959",
-            "Copyright": "\u00a9 2023 Domenico Gnoli / Artists Rights Society (ARS), New York / SIAE, Rome",
+            "Medium": "Gelatin silver print",
+            "Dimensions": "image: 9 1/2 x 6 5/16\" (24.1 x 16.1 cm); sheet: 10 1/8 x 8 1/16\" (25.7 x 20.5 cm)",
+            "Credit": "Gift of the Estate of Fred W. McDarrah",
+            "Object number": "1141.2014.2",
+            "Associated work": "Paper airplane performance during Fluxorchestra at Carnegie Recital Hall, New York, September 25, 1965",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/2198"
+        "Profile": "https://www.moma.org/artists/30845"
     },
     {
-        "Artist": "Robert Goodnough",
-        "Title": "Laocoon",
-        "Year": "1958",
-        "ObjectID": "78402",
-        "Work": "https://www.moma.org/collection/works/78402",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwNzk5NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=87e85018c9eb7ab7",
+        "Artist": "James McGarrell",
+        "Title": "Plate I from the portfolio Two Part Inventions",
+        "Year": "1965",
+        "ObjectID": "66177",
+        "Work": "https://www.moma.org/collection/works/66177",
+        "Thumbnail": null,
         "Details": {
-            "Medium": "Oil and charcoal on canvas",
-            "Dimensions": "66 3/8 x 54 1/8\" (168.4 x 137.5 cm)",
-            "Credit": "Given anonymously",
-            "Object number": "9.1959",
+            "Medium": "One from a portfolio of fifteen lithographs",
+            "Dimensions": "composition (irreg.): 25 3/4 \u00d7 19 3/4\" (65.4 \u00d7 50.2 cm); sheet: 26 7/8 \u00d7 20 7/8\" (68.2 \u00d7 53 cm)",
+            "Printer": "Atelier Clot, Bramsen et Georges, Paris",
+            "Edition": "50",
+            "Credit": "John B. Turner Fund",
+            "Object number": "291.1966.1",
+            "Copyright": "\u00a9 2023 Estate of James McGarrell",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3884"
+    },
+    {
+        "Artist": "James McGarrell",
+        "Title": "Two Part Inventions",
+        "Year": "1965",
+        "ObjectID": "66178",
+        "Work": "https://www.moma.org/collection/works/66178",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Portfolio of fifteen lithographs",
+            "Dimensions": "various composition dimensions; sheet (each approx.): 26 7/8 \u00d7 20 7/8\" (68.2 \u00d7 53 cm)",
+            "Printer": "Atelier Clot, Bramsen et Georges, Paris",
+            "Edition": "50",
+            "Credit": "John B. Turner Fund",
+            "Object number": "291.1966.1-15",
+            "Copyright": "\u00a9 2023 Estate of James McGarrell",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3884"
+    },
+    {
+        "Artist": "James McGarrell",
+        "Title": "Plate X from the portfolio Two Part Inventions",
+        "Year": "1965",
+        "ObjectID": "66179",
+        "Work": "https://www.moma.org/collection/works/66179",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "One from a portfolio of fifteen lithographs",
+            "Dimensions": "composition (irreg.): 25 15/16 \u00d7 19 15/16\" (65.9 \u00d7 50.6 cm); sheet: 26 7/8 \u00d7 20 7/8\" (68.2 \u00d7 53 cm)",
+            "Printer": "Atelier Clot, Bramsen et Georges, Paris",
+            "Edition": "50",
+            "Credit": "John B. Turner Fund",
+            "Object number": "291.1966.10",
+            "Copyright": "\u00a9 2023 Estate of James McGarrell",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3884"
+    },
+    {
+        "Artist": "James McGarrell",
+        "Title": "Plate XI from the portfolio Two Part Inventions",
+        "Year": "1965",
+        "ObjectID": "66180",
+        "Work": "https://www.moma.org/collection/works/66180",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "One from a portfolio of fifteen lithographs",
+            "Dimensions": "composition (irreg.): 25 3/4 \u00d7 19 13/16\" (65.4 \u00d7 50.3 cm); sheet: 26 7/8 \u00d7 20 7/8\" (68.2 \u00d7 53 cm)",
+            "Printer": "Atelier Clot, Bramsen et Georges, Paris",
+            "Edition": "50",
+            "Credit": "John B. Turner Fund",
+            "Object number": "291.1966.11",
+            "Copyright": "\u00a9 2023 Estate of James McGarrell",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3884"
+    },
+    {
+        "Artist": "James McGarrell",
+        "Title": "Plate XII from the portfolio Two Part Inventions",
+        "Year": "1965",
+        "ObjectID": "66181",
+        "Work": "https://www.moma.org/collection/works/66181",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "One from a portfolio of fifteen lithographs",
+            "Dimensions": "composition (irreg.): 25 15/16 \u00d7 19 3/4\" (65.9 \u00d7 50.1 cm); sheet: 26 7/8 \u00d7 20 7/8\" (68.2 \u00d7 53 cm)",
+            "Printer": "Atelier Clot, Bramsen et Georges, Paris",
+            "Edition": "50",
+            "Credit": "John B. Turner Fund",
+            "Object number": "291.1966.12",
+            "Copyright": "\u00a9 2023 Estate of James McGarrell",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3884"
+    },
+    {
+        "Artist": "James McGarrell",
+        "Title": "Plate XIII from the portfolio Two Part Inventions",
+        "Year": "1965",
+        "ObjectID": "66182",
+        "Work": "https://www.moma.org/collection/works/66182",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "One from a portfolio of fifteen lithographs",
+            "Dimensions": "composition (irreg.): 25 15/16 \u00d7 19 7/8\" (65.9 \u00d7 50.5 cm); sheet: 26 7/8 \u00d7 20 7/8\" (68.2 \u00d7 53 cm)",
+            "Printer": "Atelier Clot, Bramsen et Georges, Paris",
+            "Edition": "50",
+            "Credit": "John B. Turner Fund",
+            "Object number": "291.1966.13",
+            "Copyright": "\u00a9 2023 Estate of James McGarrell",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3884"
+    },
+    {
+        "Artist": "James McGarrell",
+        "Title": "Plate XIV from the portfolio Two Part Inventions",
+        "Year": "1965",
+        "ObjectID": "66183",
+        "Work": "https://www.moma.org/collection/works/66183",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "One from a portfolio of fifteen lithographs",
+            "Dimensions": "composition (irreg.): 25 13/16 \u00d7 19 13/16\" (65.6 \u00d7 50.3 cm); sheet: 26 7/8 \u00d7 20 7/8\" (68.2 \u00d7 53 cm)",
+            "Printer": "Atelier Clot, Bramsen et Georges, Paris",
+            "Edition": "50",
+            "Credit": "John B. Turner Fund",
+            "Object number": "291.1966.14",
+            "Copyright": "\u00a9 2023 Estate of James McGarrell",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3884"
+    },
+    {
+        "Artist": "James McGarrell",
+        "Title": "Plate XV from the portfolio Two Part Inventions",
+        "Year": "1965",
+        "ObjectID": "66184",
+        "Work": "https://www.moma.org/collection/works/66184",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "One from a portfolio of fifteen lithographs",
+            "Dimensions": "composition (irreg.): 25 13/16 \u00d7 19 13/16\" (65.6 \u00d7 50.3 cm); sheet: 26 7/8 \u00d7 20 7/8\" (68.2 \u00d7 53 cm)",
+            "Printer": "Atelier Clot, Bramsen et Georges, Paris",
+            "Edition": "50",
+            "Credit": "John B. Turner Fund",
+            "Object number": "291.1966.15",
+            "Copyright": "\u00a9 2023 Estate of James McGarrell",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3884"
+    },
+    {
+        "Artist": "James McGarrell",
+        "Title": "Plate II from the portfolio Two Part Inventions",
+        "Year": "1965",
+        "ObjectID": "66185",
+        "Work": "https://www.moma.org/collection/works/66185",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "One from a portfolio of fifteen lithographs",
+            "Dimensions": "composition (irreg.): 25 3/4 \u00d7 19 5/8\" (65.4 \u00d7 49.8 cm); sheet: 26 7/8 \u00d7 20 7/8\" (68.2 \u00d7 53 cm)",
+            "Printer": "Atelier Clot, Bramsen et Georges, Paris",
+            "Edition": "50",
+            "Credit": "John B. Turner Fund",
+            "Object number": "291.1966.2",
+            "Copyright": "\u00a9 2023 Estate of James McGarrell",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3884"
+    },
+    {
+        "Artist": "James McGarrell",
+        "Title": "Plate III from the portfolio Two Part Inventions",
+        "Year": "1965",
+        "ObjectID": "66186",
+        "Work": "https://www.moma.org/collection/works/66186",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "One from a portfolio of fifteen lithographs",
+            "Dimensions": "composition (irreg.): 26 \u00d7 19 7/8\" (66 \u00d7 50.5 cm); sheet: 26 7/8 \u00d7 20 7/8\" (68.2 \u00d7 53 cm)",
+            "Printer": "Atelier Clot, Bramsen et Georges, Paris",
+            "Edition": "50",
+            "Credit": "John B. Turner Fund",
+            "Object number": "291.1966.3",
+            "Copyright": "\u00a9 2023 Estate of James McGarrell",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3884"
+    },
+    {
+        "Artist": "James McGarrell",
+        "Title": "Plate IV from the portfolio Two Part Inventions",
+        "Year": "1965",
+        "ObjectID": "66187",
+        "Work": "https://www.moma.org/collection/works/66187",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "One from a portfolio of fifteen lithographs",
+            "Dimensions": "composition (irreg.): 25 13/16 \u00d7 19 15/16\" (65.6 \u00d7 50.6 cm); sheet: 26 7/8 \u00d7 20 7/8\" (68.2 \u00d7 53 cm)",
+            "Printer": "Atelier Clot, Bramsen et Georges, Paris",
+            "Edition": "50",
+            "Credit": "John B. Turner Fund",
+            "Object number": "291.1966.4",
+            "Copyright": "\u00a9 2023 Estate of James McGarrell",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3884"
+    },
+    {
+        "Artist": "James McGarrell",
+        "Title": "Plate V from the portfolio Two Part Inventions",
+        "Year": "1965",
+        "ObjectID": "66188",
+        "Work": "https://www.moma.org/collection/works/66188",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "One from a portfolio of fifteen lithographs",
+            "Dimensions": "composition (irreg.): 25 15/16 \u00d7 19 5/8\" (65.9 \u00d7 49.8 cm); sheet: 26 7/8 \u00d7 20 7/8\" (68.2 \u00d7 53 cm)",
+            "Printer": "Atelier Clot, Bramsen et Georges, Paris",
+            "Edition": "50",
+            "Credit": "John B. Turner Fund",
+            "Object number": "291.1966.5",
+            "Copyright": "\u00a9 2023 Estate of James McGarrell",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3884"
+    },
+    {
+        "Artist": "James McGarrell",
+        "Title": "Plate VI from the portfolio Two Part Inventions",
+        "Year": "1965",
+        "ObjectID": "66189",
+        "Work": "https://www.moma.org/collection/works/66189",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "One from a portfolio of fifteen lithographs",
+            "Dimensions": "composition (irreg.): 25 7/8 \u00d7 19 11/16\" (65.7 \u00d7 50 cm); sheet: 26 7/8 \u00d7 20 7/8\" (68.2 \u00d7 53 cm)",
+            "Printer": "Atelier Clot, Bramsen et Georges, Paris",
+            "Edition": "50",
+            "Credit": "John B. Turner Fund",
+            "Object number": "291.1966.6",
+            "Copyright": "\u00a9 2023 Estate of James McGarrell",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3884"
+    },
+    {
+        "Artist": "James McGarrell",
+        "Title": "Plate VII from the portfolio Two Part Inventions",
+        "Year": "1965",
+        "ObjectID": "66190",
+        "Work": "https://www.moma.org/collection/works/66190",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "One from a portfolio of fifteen lithographs",
+            "Dimensions": "composition (irreg.): 26 \u00d7 20\" (66 \u00d7 50.8 cm); sheet: 26 7/8 \u00d7 20 7/8\" (68.2 \u00d7 53 cm)",
+            "Printer": "Atelier Clot, Bramsen et Georges, Paris",
+            "Edition": "50",
+            "Credit": "John B. Turner Fund",
+            "Object number": "291.1966.7",
+            "Copyright": "\u00a9 2023 Estate of James McGarrell",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3884"
+    },
+    {
+        "Artist": "James McGarrell",
+        "Title": "Plate VIII from the portfolio Two Part Inventions",
+        "Year": "1965",
+        "ObjectID": "66191",
+        "Work": "https://www.moma.org/collection/works/66191",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "One from a portfolio of fifteen lithographs",
+            "Dimensions": "composition (irreg.): 25 15/16 \u00d7 19 3/4\" (65.9 \u00d7 50.1 cm); sheet: 26 7/8 \u00d7 20 7/8\" (68.2 \u00d7 53 cm)",
+            "Printer": "Atelier Clot, Bramsen et Georges, Paris",
+            "Edition": "50",
+            "Credit": "John B. Turner Fund",
+            "Object number": "291.1966.8",
+            "Copyright": "\u00a9 2023 Estate of James McGarrell",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3884"
+    },
+    {
+        "Artist": "James McGarrell",
+        "Title": "Plate IX from the portfolio Two Part Inventions",
+        "Year": "1965",
+        "ObjectID": "66192",
+        "Work": "https://www.moma.org/collection/works/66192",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "One from a portfolio of fifteen lithographs",
+            "Dimensions": "composition (irreg.): 25 7/8 \u00d7 19 13/16\" (65.8 \u00d7 50.3 cm); sheet: 26 7/8 \u00d7 20 7/8\" (68.2 \u00d7 53 cm)",
+            "Printer": "Atelier Clot, Bramsen et Georges, Paris",
+            "Edition": "50",
+            "Credit": "John B. Turner Fund",
+            "Object number": "291.1966.9",
+            "Copyright": "\u00a9 2023 Estate of James McGarrell",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3884"
+    },
+    {
+        "Artist": "Howard Mehring",
+        "Title": "Nova",
+        "Year": "1965",
+        "ObjectID": "79286",
+        "Work": "https://www.moma.org/collection/works/79286",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Synthetic polymer paint on canvas",
+            "Dimensions": "7' 7/8\" x 70 1/8\" (215.5 x 178 cm)",
+            "Credit": "Gift of Mr. and Mrs. Eugene M. Schwartz",
+            "Object number": "254.1966",
             "Department": "Painting and Sculpture"
         },
-        "Profile": "https://www.moma.org/artists/2242"
+        "Profile": "https://www.moma.org/artists/3907"
     },
     {
-        "Artist": "William Grigsby",
-        "Title": "Abstraction",
-        "Year": "November 1958",
-        "ObjectID": "47351",
-        "Work": "https://www.moma.org/collection/works/47351",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMzMwOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2f9fc98f1844f8fb",
+        "Artist": "John Melin, Anders Osterlin",
+        "Title": "Den Inre Och Den Yttre Rymden",
+        "Year": "1965",
+        "ObjectID": "6358",
+        "Work": "https://www.moma.org/collection/works/6358",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MzI2MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3cf6084627914d4d",
         "Details": {
-            "Medium": "Chromogenic print",
-            "Dimensions": "sight 12 15/16 \u00d7 10\" (33 \u00d7 25.4 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "173.1959",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/2343"
-    },
-    {
-        "Artist": "William Grigsby",
-        "Title": "Grasses no. 1",
-        "Year": "November 1958",
-        "ObjectID": "47369",
-        "Work": "https://www.moma.org/collection/works/47369",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMzMwOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d684f3e3eff0b6a2",
-        "Details": {
-            "Medium": "Chromogenic print",
-            "Dimensions": "sight 9 1/16 \u00d7 7 1/16\" (23 \u00d7 17.9 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "174.1959",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/2343"
-    },
-    {
-        "Artist": "William Grigsby",
-        "Title": "Grasses no. 2",
-        "Year": "November 1958",
-        "ObjectID": "53714",
-        "Work": "https://www.moma.org/collection/works/53714",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNDA3NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e2228d5fb1754fce",
-        "Details": {
-            "Medium": "Chromogenic print",
-            "Dimensions": "7 5/8 \u00d7 9 1/2\" (19.2 \u00d7 24.0 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "463.1960",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/2343"
-    },
-    {
-        "Artist": "George Grosz",
-        "Title": "George Grosz letterhead (Letter to Schainwald)",
-        "Year": "1958",
-        "ObjectID": "198678",
-        "Work": "https://www.moma.org/collection/works/198678",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzODMwNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=32a2a8e7b3e5c3d4",
-        "Details": {
-            "Medium": "Letterpress",
-            "Dimensions": "11 5/8 \u00d7 8 1/4\" (29.5 \u00d7 21 cm)",
-            "Credit": "Elaine Lustig Cohen Collection, gift of Lawrence Benenson and the Committee on Architecture and Design Funds",
-            "Object number": "1213.2015",
+            "Medium": "Silkscreen",
+            "Dimensions": "39 1/2 x 27 1/2\" (99.4 x 69.6 cm)",
+            "Credit": "Gift of the Moderna Museet, Stockholm",
+            "Object number": "338.1966",
             "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/2374"
+        "Profile": "https://www.moma.org/artists/3919"
     },
     {
-        "Artist": "Gunter Gunschel",
-        "Title": "Untitled",
-        "Year": "1958",
-        "ObjectID": "180671",
-        "Work": "https://www.moma.org/collection/works/180671",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzMTI1NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=28aae7c5e8eb764a",
+        "Artist": "John Melin, Anders Osterlin",
+        "Title": "Moderna Museet Besoker Visits Besuch Landskrona",
+        "Year": "1965",
+        "ObjectID": "8964",
+        "Work": "https://www.moma.org/collection/works/8964",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxOTY1OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f554ba42674de272",
         "Details": {
-            "Medium": "Pencil on paper",
-            "Dimensions": "7 1/8 x 9 3/4\" (18.1 x 24.8 cm)",
-            "Credit": "Gift of Barbara G\u00fcnschel",
-            "Object number": "682.2014.1",
+            "Medium": "Lithograph",
+            "Dimensions": "39 1/2 \u00d7 27 5/8\" (100.3 \u00d7 70.2 cm)",
+            "Printer": "Reklamteknik AB Maim\u00f6",
+            "Credit": "Gift of Mr. and Mrs. Leo Farland",
+            "Object number": "2261.1967",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/3919"
+    },
+    {
+        "Artist": "Edward Meneeley",
+        "Title": "Illustrations for Tender Buttons",
+        "Year": "1965",
+        "ObjectID": "20038",
+        "Work": "https://www.moma.org/collection/works/20038",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1OTMwNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4edd5c6f171b545d",
+        "Details": {
+            "Author": "Gertrude Stein",
+            "Medium": "Illustrated book with ten xerox images",
+            "Dimensions": "page: 14 x 8 1/2\" (35.5 x 21.6cm)",
+            "Publisher": "Teuscher Editions (Wayne Adams), New York",
+            "Edition": "50",
+            "Credit": "John B. Turner Fund",
+            "Object number": "661.1965.1-10",
+            "Type": "Illustrated Book",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3927"
+    },
+    {
+        "Artist": "Edward Meneeley",
+        "Title": "Untitled from Illustrations for Tender Buttons",
+        "Year": "1965",
+        "ObjectID": "165858",
+        "Work": "https://www.moma.org/collection/works/165858",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1OTMwNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9501bd39283be040",
+        "Details": {
+            "Author": "Gertrude Stein",
+            "Medium": "One from an illustrated book with ten xerox images",
+            "Dimensions": "page: 14 x 8 1/2\" (35.5 x 21.6cm)",
+            "Publisher": "Teuscher Editions (Wayne Adams), New York",
+            "Edition": "50",
+            "Credit": "John B. Turner Fund",
+            "Object number": "661.1965.1",
+            "Illustrated book": "Illustrations for Tender Buttons",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3927"
+    },
+    {
+        "Artist": "Edward Meneeley",
+        "Title": "Untitled from Illustrations for Tender Buttons",
+        "Year": "1965",
+        "ObjectID": "165859",
+        "Work": "https://www.moma.org/collection/works/165859",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1OTMwOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a3d70d36a054b97f",
+        "Details": {
+            "Author": "Gertrude Stein",
+            "Medium": "One from an illustrated book with ten xerox images",
+            "Dimensions": "page: 14 x 8 1/2\" (35.5 x 21.6cm)",
+            "Publisher": "Teuscher Editions (Wayne Adams), New York",
+            "Edition": "50",
+            "Credit": "John B. Turner Fund",
+            "Object number": "661.1965.2",
+            "Illustrated book": "Illustrations for Tender Buttons",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3927"
+    },
+    {
+        "Artist": "Edward Meneeley",
+        "Title": "Untitled from Illustrations for Tender Buttons",
+        "Year": "1965",
+        "ObjectID": "165860",
+        "Work": "https://www.moma.org/collection/works/165860",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1OTMwOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e7eb11b74a179814",
+        "Details": {
+            "Author": "Gertrude Stein",
+            "Medium": "One from an illustrated book with ten xerox images",
+            "Dimensions": "page: 14 x 8 1/2\" (35.5 x 21.6cm)",
+            "Publisher": "Teuscher Editions (Wayne Adams), New York",
+            "Edition": "50",
+            "Credit": "John B. Turner Fund",
+            "Object number": "661.1965.3",
+            "Illustrated book": "Illustrations for Tender Buttons",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3927"
+    },
+    {
+        "Artist": "Edward Meneeley",
+        "Title": "Untitled from Illustrations for Tender Buttons",
+        "Year": "1965",
+        "ObjectID": "165861",
+        "Work": "https://www.moma.org/collection/works/165861",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1OTMxMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9830c15bf9839b34",
+        "Details": {
+            "Author": "Gertrude Stein",
+            "Medium": "One from an illustrated book with ten xerox images",
+            "Dimensions": "page: 14 x 8 1/2\" (35.5 x 21.6cm)",
+            "Publisher": "Teuscher Editions (Wayne Adams), New York",
+            "Edition": "50",
+            "Credit": "John B. Turner Fund",
+            "Object number": "661.1965.4",
+            "Illustrated book": "Illustrations for Tender Buttons",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3927"
+    },
+    {
+        "Artist": "Edward Meneeley",
+        "Title": "Untitled from Illustrations for Tender Buttons",
+        "Year": "1965",
+        "ObjectID": "165862",
+        "Work": "https://www.moma.org/collection/works/165862",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1OTMxMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=dbe8263d17890d3d",
+        "Details": {
+            "Author": "Gertrude Stein",
+            "Medium": "One from an illustrated book with ten xerox images",
+            "Dimensions": "page: 14 x 8 1/2\" (35.5 x 21.6cm)",
+            "Publisher": "Teuscher Editions (Wayne Adams), New York",
+            "Edition": "50",
+            "Credit": "John B. Turner Fund",
+            "Object number": "661.1965.5",
+            "Illustrated book": "Illustrations for Tender Buttons",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3927"
+    },
+    {
+        "Artist": "Edward Meneeley",
+        "Title": "Untitled from Illustrations for Tender Buttons",
+        "Year": "1965",
+        "ObjectID": "165863",
+        "Work": "https://www.moma.org/collection/works/165863",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1OTMxMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=98c9001b82f6a9e2",
+        "Details": {
+            "Author": "Gertrude Stein",
+            "Medium": "One from an illustrated book with ten xerox images",
+            "Dimensions": "page: 14 x 8 1/2\" (35.5 x 21.6cm)",
+            "Publisher": "Teuscher Editions (Wayne Adams), New York",
+            "Edition": "50",
+            "Credit": "John B. Turner Fund",
+            "Object number": "661.1965.6",
+            "Illustrated book": "Illustrations for Tender Buttons",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3927"
+    },
+    {
+        "Artist": "Edward Meneeley",
+        "Title": "Untitled from Illustrations for Tender Buttons",
+        "Year": "1965",
+        "ObjectID": "165864",
+        "Work": "https://www.moma.org/collection/works/165864",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MDQyNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=742b8fa4623348d0",
+        "Details": {
+            "Author": "Gertrude Stein",
+            "Medium": "One from an illustrated book with ten xerox images",
+            "Dimensions": "page: 14 x 8 1/2\" (35.5 x 21.6cm)",
+            "Publisher": "Teuscher Editions (Wayne Adams), New York",
+            "Edition": "50",
+            "Credit": "John B. Turner Fund",
+            "Object number": "661.1965.7",
+            "Illustrated book": "Illustrations for Tender Buttons",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3927"
+    },
+    {
+        "Artist": "Edward Meneeley",
+        "Title": "Untitled from Illustrations for Tender Buttons",
+        "Year": "1965",
+        "ObjectID": "165865",
+        "Work": "https://www.moma.org/collection/works/165865",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MDQyOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0d76167490b3f9e0",
+        "Details": {
+            "Author": "Gertrude Stein",
+            "Medium": "One from an illustrated book with ten xerox images",
+            "Dimensions": "page: 14 x 8 1/2\" (35.5 x 21.6cm)",
+            "Publisher": "Teuscher Editions (Wayne Adams), New York",
+            "Edition": "50",
+            "Credit": "John B. Turner Fund",
+            "Object number": "661.1965.8",
+            "Illustrated book": "Illustrations for Tender Buttons",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3927"
+    },
+    {
+        "Artist": "Edward Meneeley",
+        "Title": "Untitled from Illustrations for Tender Buttons",
+        "Year": "1965",
+        "ObjectID": "165866",
+        "Work": "https://www.moma.org/collection/works/165866",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MDQyOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5d201c033f17e57d",
+        "Details": {
+            "Author": "Gertrude Stein",
+            "Medium": "One from an illustrated book with ten xerox images",
+            "Dimensions": "page: 14 x 8 1/2\" (35.5 x 21.6cm)",
+            "Publisher": "Teuscher Editions (Wayne Adams), New York",
+            "Edition": "50",
+            "Credit": "John B. Turner Fund",
+            "Object number": "661.1965.9",
+            "Illustrated book": "Illustrations for Tender Buttons",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3927"
+    },
+    {
+        "Artist": "Edward Meneeley",
+        "Title": "Untitled from Illustrations for Tender Buttons",
+        "Year": "1965",
+        "ObjectID": "165867",
+        "Work": "https://www.moma.org/collection/works/165867",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MDQyNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=efc9ea40e1e7006b",
+        "Details": {
+            "Author": "Gertrude Stein",
+            "Medium": "One from an illustrated book with ten xerox images",
+            "Dimensions": "page: 14 x 8 1/2\" (35.5 x 21.6cm)",
+            "Publisher": "Teuscher Editions (Wayne Adams), New York",
+            "Edition": "50",
+            "Credit": "John B. Turner Fund",
+            "Object number": "661.1965.10",
+            "Illustrated book": "Illustrations for Tender Buttons",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3927"
+    },
+    {
+        "Artist": "Richard Merkin",
+        "Title": "The Night the Nut Got Loose",
+        "Year": "(1965)",
+        "ObjectID": "36619",
+        "Work": "https://www.moma.org/collection/works/36619",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Gouache and charcoal on paper mounted on cardboard",
+            "Dimensions": "26 x 39 3/4\" (65.8 x 100.9 cm)",
+            "Credit": "Inter-American Fund",
+            "Object number": "385.1966",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3936"
+    },
+    {
+        "Artist": "Ray K. Metzker",
+        "Title": "New York City",
+        "Year": "1965",
+        "ObjectID": "54836",
+        "Work": "https://www.moma.org/collection/works/54836",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1Mjk1NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9cf1a05b09ad3559",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "9 1/8 \u00d7 5 1/4\" (23.5 \u00d7 13.3 cm)",
+            "Credit": "Purchase",
+            "Object number": "536.1973",
+            "Copyright": "\u00a9 2023 Ray K. Metzker",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/3948"
+    },
+    {
+        "Artist": "Russ Meyer",
+        "Title": "Faster, Pussycat! Kill! Kill! [Trailer]",
+        "Year": "1965",
+        "ObjectID": "420437",
+        "Work": "https://www.moma.org/collection/works/420437",
+        "Thumbnail": null,
+        "Details": {
+            "Object number": "W25042",
+            "Department": "Film"
+        },
+        "Profile": "https://www.moma.org/artists/111067"
+    },
+    {
+        "Artist": "Russ Meyer",
+        "Title": "[Russ Meyer Trust Collection. Wildbad Kreuth, Germany. Circa 1965] [Home Movie]",
+        "Year": "Circa 1965",
+        "ObjectID": "420758",
+        "Work": "https://www.moma.org/collection/works/420758",
+        "Thumbnail": null,
+        "Details": {
+            "Object number": "W25205",
+            "Department": "Film"
+        },
+        "Profile": "https://www.moma.org/artists/111067"
+    },
+    {
+        "Artist": "Robert Michel",
+        "Title": "The History, all derer von Sonntag bis Mittwoch und zuruck",
+        "Year": "1920, published 1965",
+        "ObjectID": "76001",
+        "Work": "https://www.moma.org/collection/works/76001",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMjk2MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b77caab690e8647b",
+        "Details": {
+            "Medium": "Portfolio of five etchings",
+            "Dimensions": "composition and sheet (see child records): dimensions vary",
+            "Publisher": "the artist, Heimatmuseum of Modern Art, Schmelz, Germany",
+            "Printer": "Thomas Bayrle, Schmelz, Germany, Bernhard J\u00e4ger Schmelz, Germany",
+            "Edition": "25",
+            "Credit": "Gift of Mrs. Abraham Chanin",
+            "Object number": "1194.1969.1-5",
+            "Type": "Portfolio",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3964"
+    },
+    {
+        "Artist": "Robert Michel",
+        "Title": "The Mystery und dieses Ratsels Losung",
+        "Year": "1921-25, published 1965",
+        "ObjectID": "76019",
+        "Work": "https://www.moma.org/collection/works/76019",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMjk2OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=be3d0cb28ccde74f",
+        "Details": {
+            "Medium": "Portfolio of five etchings",
+            "Dimensions": "composition and sheet (see child records): dimensions vary",
+            "Publisher": "the artist, Heimatmuseum of Modern Art, Schmelz, Germany",
+            "Printer": "Thomas Bayrle, Schmelz, Germany, Bernhard J\u00e4ger, Schmelz, Germany",
+            "Edition": "25",
+            "Credit": "Gift of Mrs. Abraham Chanin",
+            "Object number": "1195.1969.1-5",
+            "Type": "Portfolio",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3964"
+    },
+    {
+        "Artist": "Robert Michel",
+        "Title": "Title page from The History, all derer von Sonntag bis Mittwoch und zuruck",
+        "Year": "1920, published 1965",
+        "ObjectID": "149912",
+        "Work": "https://www.moma.org/collection/works/149912",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMjk2MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a691dd1362b44776",
+        "Details": {
+            "Medium": "One from a portfolio of five etchings",
+            "Dimensions": "plate: 3 7/8 \u00d7 2 3/16\" (9.9 \u00d7 5.6 cm); sheet: 10 5/16 \u00d7 7 15/16\" (26.2 \u00d7 20.1 cm)",
+            "Publisher": "the artist, Heimatmuseum of Modern Art, Schmelz, Germany",
+            "Printer": "Thomas Bayrle, Schmelz, Germany, Bernhard J\u00e4ger Schmelz, Germany",
+            "Edition": "25",
+            "Credit": "Gift of Mrs. Abraham Chanin",
+            "Object number": "1194.1969.1",
+            "Portfolio": "The History, all derer von Sonntag bis Mittwoch und zur\u00fcck",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3964"
+    },
+    {
+        "Artist": "Robert Michel",
+        "Title": "Sunday (Sonntag) from The History, all derer von Sonntag bis Mittwoch und zuruck",
+        "Year": "1920, published 1965",
+        "ObjectID": "149913",
+        "Work": "https://www.moma.org/collection/works/149913",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMjk2NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c18c176a75b45555",
+        "Details": {
+            "Medium": "One from a portfolio of five etchings",
+            "Dimensions": "plate: 6 15/16 \u00d7 5\" (17.7 \u00d7 12.7 cm); sheet: 14 1/16 \u00d7 10 3/8\" (35.7 \u00d7 26.4 cm)",
+            "Publisher": "the artist, Heimatmuseum of Modern Art, Schmelz, Germany",
+            "Printer": "Thomas Bayrle, Schmelz, Germany, Bernhard J\u00e4ger Schmelz, Germany",
+            "Edition": "25",
+            "Credit": "Gift of Mrs. Abraham Chanin",
+            "Object number": "1194.1969.2",
+            "Portfolio": "The History, all derer von Sonntag bis Mittwoch und zur\u00fcck",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3964"
+    },
+    {
+        "Artist": "Robert Michel",
+        "Title": "Monday (Montag) from The History, all derer von Sonntag bis Mittwoch und zuruck",
+        "Year": "1920, published 1965",
+        "ObjectID": "149914",
+        "Work": "https://www.moma.org/collection/works/149914",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMjk2NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=72e41436149b0693",
+        "Details": {
+            "Medium": "One from a portfolio of five etchings",
+            "Dimensions": "plate: 6 15/16 \u00d7 3 7/8\" (17.7 \u00d7 9.8 cm); sheet: 14 9/16 \u00d7 10 5/16\" (37 \u00d7 26.2 cm)",
+            "Publisher": "the artist, Heimatmuseum of Modern Art, Schmelz, Germany",
+            "Printer": "Thomas Bayrle, Schmelz, Germany, Bernhard J\u00e4ger Schmelz, Germany",
+            "Edition": "25",
+            "Credit": "Gift of Mrs. Abraham Chanin",
+            "Object number": "1194.1969.3",
+            "Portfolio": "The History, all derer von Sonntag bis Mittwoch und zur\u00fcck",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3964"
+    },
+    {
+        "Artist": "Robert Michel",
+        "Title": "Tuesday (Dienstag) from The History, all derer von Sonntag bis Mittwoch und zuruck",
+        "Year": "1920, published 1965",
+        "ObjectID": "149915",
+        "Work": "https://www.moma.org/collection/works/149915",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMjk2NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=21a4c8260586d106",
+        "Details": {
+            "Medium": "One from a portfolio of five etchings",
+            "Dimensions": "plate: 6 15/16 \u00d7 5\" (17.7 \u00d7 12.7 cm); sheet: 15 1/16 \u00d7 10 3/8\" (38.3 \u00d7 26.4 cm)",
+            "Publisher": "the artist, Heimatmuseum of Modern Art, Schmelz, Germany",
+            "Printer": "Thomas Bayrle, Schmelz, Germany, Bernhard J\u00e4ger Schmelz, Germany",
+            "Edition": "25",
+            "Credit": "Gift of Mrs. Abraham Chanin",
+            "Object number": "1194.1969.4",
+            "Portfolio": "The History, all derer von Sonntag bis Mittwoch und zur\u00fcck",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3964"
+    },
+    {
+        "Artist": "Robert Michel",
+        "Title": "Wednesday and Back (Mittwoch und zuruck) from The History, all derer von Sonntag bis Mittwoch und zuruck",
+        "Year": "1920, published 1965",
+        "ObjectID": "149916",
+        "Work": "https://www.moma.org/collection/works/149916",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMjk2NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c12b97e64dfe1179",
+        "Details": {
+            "Medium": "One from a portfolio of five etchings",
+            "Dimensions": "plate: 8 7/8 \u00d7 6 7/8\" (22.6 \u00d7 17.4 cm); sheet: 15 3/16 \u00d7 10 1/4\" (38.5 \u00d7 26.1 cm)",
+            "Publisher": "the artist, Heimatmuseum of Modern Art, Schmelz, Germany",
+            "Printer": "Thomas Bayrle, Schmelz, Germany, Bernhard J\u00e4ger Schmelz, Germany",
+            "Edition": "25",
+            "Credit": "Gift of Mrs. Abraham Chanin",
+            "Object number": "1194.1969.5",
+            "Portfolio": "The History, all derer von Sonntag bis Mittwoch und zur\u00fcck",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3964"
+    },
+    {
+        "Artist": "Robert Michel",
+        "Title": "Yale Trial Plate (Yale-Versuchsplatte) from The Mystery und dieses Ratsels Losung",
+        "Year": "1921-25, published 1965",
+        "ObjectID": "149917",
+        "Work": "https://www.moma.org/collection/works/149917",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMjk2OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a6ea58889b5193b0",
+        "Details": {
+            "Medium": "One from a portfolio of five etchings",
+            "Dimensions": "plate: 3 15/16 \u00d7 5 5/16\" (10 \u00d7 13.5 cm); sheet: 7 11/16 \u00d7 10 7/16\" (19.5 \u00d7 26.5 cm)",
+            "Publisher": "the artist, Heimatmuseum of Modern Art, Schmelz, Germany",
+            "Printer": "Thomas Bayrle, Schmelz, Germany, Bernhard J\u00e4ger, Schmelz, Germany",
+            "Edition": "25",
+            "Credit": "Gift of Mrs. Abraham Chanin",
+            "Object number": "1195.1969.1",
+            "Portfolio": "The Mystery und dieses R\u00e4tsels L\u00f6sung",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3964"
+    },
+    {
+        "Artist": "Robert Michel",
+        "Title": "Yale Horizontal Plate (Yale-Horizontalplatte) from The Mystery und dieses Ratsels Losung",
+        "Year": "1921-25, published 1965",
+        "ObjectID": "149918",
+        "Work": "https://www.moma.org/collection/works/149918",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMjk3MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7fc93c02f415674e",
+        "Details": {
+            "Medium": "One from a portfolio of five etchings",
+            "Dimensions": "plate: 3 9/16 \u00d7 5 1/2\" (9 \u00d7 13.9 cm); sheet: 10 1/4 \u00d7 12 5/8\" (26 \u00d7 32 cm)",
+            "Publisher": "the artist, Heimatmuseum of Modern Art, Schmelz, Germany",
+            "Printer": "Thomas Bayrle, Schmelz, Germany, Bernhard J\u00e4ger, Schmelz, Germany",
+            "Edition": "25",
+            "Credit": "Gift of Mrs. Abraham Chanin",
+            "Object number": "1195.1969.2",
+            "Portfolio": "The Mystery und dieses R\u00e4tsels L\u00f6sung",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3964"
+    },
+    {
+        "Artist": "Robert Michel",
+        "Title": "Yale Vertical Plate (Yale-Vertikalplatte) from The Mystery und dieses Ratsels Losung",
+        "Year": "1921-25, published 1965",
+        "ObjectID": "149919",
+        "Work": "https://www.moma.org/collection/works/149919",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMjk3MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7d2128232591a592",
+        "Details": {
+            "Medium": "One from a portfolio of five etchings",
+            "Dimensions": "plate: 5 7/8 \u00d7 3 15/16\" (15 \u00d7 10 cm); sheet: 14 5/16 \u00d7 10 3/8\" (36.3 \u00d7 26.3 cm)",
+            "Publisher": "the artist, Heimatmuseum of Modern Art, Schmelz, Germany",
+            "Printer": "Thomas Bayrle, Schmelz, Germany, Bernhard J\u00e4ger, Schmelz, Germany",
+            "Edition": "25",
+            "Credit": "Gift of Mrs. Abraham Chanin",
+            "Object number": "1195.1969.3",
+            "Portfolio": "The Mystery und dieses R\u00e4tsels L\u00f6sung",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3964"
+    },
+    {
+        "Artist": "Robert Michel",
+        "Title": "Yale Vertical Plate (Yale-Vertikalplatte) from The Mystery und dieses Ratsels Losung",
+        "Year": "1921-25, published 1965",
+        "ObjectID": "149920",
+        "Work": "https://www.moma.org/collection/works/149920",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMjk3MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ef978eee6e72287e",
+        "Details": {
+            "Medium": "One from a portfolio of five etchings",
+            "Dimensions": "plate: 5 1/2 \u00d7 3 7/16\" (13.9 \u00d7 8.8 cm); sheet: 14 5/8 \u00d7 10 1/4\" (37.2 \u00d7 26.1 cm)",
+            "Publisher": "the artist, Heimatmuseum of Modern Art, Schmelz, Germany",
+            "Printer": "Thomas Bayrle, Schmelz, Germany, Bernhard J\u00e4ger, Schmelz, Germany",
+            "Edition": "25",
+            "Credit": "Gift of Mrs. Abraham Chanin",
+            "Object number": "1195.1969.4",
+            "Portfolio": "The Mystery und dieses R\u00e4tsels L\u00f6sung",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3964"
+    },
+    {
+        "Artist": "Robert Michel",
+        "Title": "Yale Vertical Plate (Yale-Vertikalplatte) from The Mystery und dieses Ratsels Losung",
+        "Year": "1921-25, published 1965",
+        "ObjectID": "149921",
+        "Work": "https://www.moma.org/collection/works/149921",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMjk3MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3e2f962400bce043",
+        "Details": {
+            "Medium": "One from a portfolio of five etchings",
+            "Dimensions": "plate: 6 9/16 \u00d7 4 5/8\" (16.7 \u00d7 11.7 cm); sheet: 14 7/16 \u00d7 10 1/4\" (36.7 \u00d7 26.1 cm)",
+            "Publisher": "the artist, Heimatmuseum of Modern Art, Schmelz, Germany",
+            "Printer": "Thomas Bayrle, Schmelz, Germany, Bernhard J\u00e4ger, Schmelz, Germany",
+            "Edition": "25",
+            "Credit": "Gift of Mrs. Abraham Chanin",
+            "Object number": "1195.1969.5",
+            "Portfolio": "The Mystery und dieses R\u00e4tsels L\u00f6sung",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3964"
+    },
+    {
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "Meredith Memorial Hall, Drake University, Des Moines, IA (Partial site plan)",
+        "Year": "1962-1965",
+        "ObjectID": "142970",
+        "Work": "https://www.moma.org/collection/works/142970",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQwNTQxNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=202cb104e5486498",
+        "Details": {
+            "Medium": "Pencil and colored pencil on print",
+            "Dimensions": "21 3/4 x 27\" (55.2 x 68.6 cm)",
+            "Credit": "Mies van der Rohe Archive, gift of the architect",
+            "Object number": "MR6201.11",
             "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
             "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/45585"
-    },
-    {
-        "Artist": "Philip Guston",
-        "Title": "Last Piece",
-        "Year": "1958",
-        "ObjectID": "100244",
-        "Work": "https://www.moma.org/collection/works/100244",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5ODIzMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=891688ed7e2d174c",
-        "Details": {
-            "Medium": "Gouache on board",
-            "Dimensions": "22 x 30\" (55.9 x 76.2 cm)",
-            "Credit": "Gift of Edward R. Broida",
-            "Object number": "705.2005",
-            "Copyright": "\u00a9 2023 The Estate of Philip Guston",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/2419"
-    },
-    {
-        "Artist": "Brion Gysin",
-        "Title": "A Trip from Here to There",
-        "Year": "1958",
-        "ObjectID": "35418",
-        "Work": "https://www.moma.org/collection/works/35418",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3NTEwMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b0733cc3e0f8d14d",
-        "Details": {
-            "Medium": "Ink and gouache on forty-eight sheets of paper",
-            "Dimensions": "sheet (each, connected): 11 3/8 \u00d7 7 7/8\" (28.9 \u00d7 20 cm)",
-            "Credit": "Larry Aldrich Foundation Fund",
-            "Object number": "230.1962",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/2427"
-    },
-    {
-        "Artist": "Dimitri Hadzi",
-        "Title": "Helmet, I",
-        "Year": "1958",
-        "ObjectID": "81652",
-        "Work": "https://www.moma.org/collection/works/81652",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwOTE0NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1f2df2e2a8c1bd53",
-        "Details": {
-            "Medium": "Bronze",
-            "Dimensions": "13 1/8 x 11 1/8 x 13 1/8\" (33.2 x 28.2 x 33.3 cm)",
-            "Credit": "Mr. and Mrs. William B. Jaffe Fund",
-            "Object number": "604.1959",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/2439"
-    },
-    {
-        "Artist": "Hagiwara Hideo",
-        "Title": "Composition Z",
-        "Year": "1958",
-        "ObjectID": "60829",
-        "Work": "https://www.moma.org/collection/works/60829",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNTkwNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=60bec6be94c0ef17",
-        "Details": {
-            "Medium": "Woodcut",
-            "Dimensions": "composition: 21 x 15 1/16\" (53.3 x 38.2cm); sheet: 22 1/2 x 15 13/16\" (57.2 x 40.2cm)",
-            "Edition": "30",
-            "Credit": "Blanchette Rockefeller Fund",
-            "Object number": "45.1959",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/2450"
-    },
-    {
-        "Artist": "Philippe Halsman",
-        "Title": "Rev. Martin Cyril D'Arcy, S.J.",
-        "Year": "1958",
-        "ObjectID": "53903",
-        "Work": "https://www.moma.org/collection/works/53903",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5OTMyOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6280a39beee9d9c3",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "13 1/2 \u00d7 19 5/8\" (34.2 \u00d7 26.8 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "467.1960",
-            "Copyright": "\u00a9 2023 Halsman Estate",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/2470"
-    },
-    {
-        "Artist": "Yozo Hamaguchi",
-        "Title": "Opened Pomegranate",
-        "Year": "1958",
-        "ObjectID": "71235",
-        "Work": "https://www.moma.org/collection/works/71235",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNTkzNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7e347b22f1482e21",
-        "Details": {
-            "Medium": "Mezzotint",
-            "Dimensions": "plate: 11 13/16 x 17 5/8\" (30 x 44.8cm); sheet: 19 11/16 x 25 13/16\" (50 x 65.5cm)",
-            "Edition": "50",
-            "Credit": "Gift of Heinz Berggruen",
-            "Object number": "567.1959",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/2472"
-    },
-    {
-        "Artist": "Hans Hartung",
-        "Title": "L 73",
-        "Year": "1958",
-        "ObjectID": "63208",
-        "Work": "https://www.moma.org/collection/works/63208",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMDY4OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=532e3c033c1b8495",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "composition (irreg.): 18 3/4 x 24 3/16\" (47.6 x 61.5 cm); sheet: 22 1/16 x 29 7/8\" (56 x 75.9 cm)",
-            "Printer": "L'Atelier Patris, Paris",
-            "Edition": "25",
-            "Credit": "Gift of Mr. and Mrs. Armand P. Bartos",
-            "Object number": "147.1960",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/2525"
-    },
-    {
-        "Artist": "Hans Hartung",
-        "Title": "No. 78",
-        "Year": "1958",
-        "ObjectID": "65079",
-        "Work": "https://www.moma.org/collection/works/65079",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMDcwNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ed708340d15bbb3e",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "composition (irreg.): 21 7/16 x 13 3/16\" (54.5 x 33.5 cm); sheet: 25 9/16 x 19 5/8\" (65 x 49.9 cm)",
-            "Printer": "L'Atelier Patris, Paris",
-            "Credit": "Gift of Mr. and Mrs. Armand P. Bartos",
-            "Object number": "243.1967",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/2525"
-    },
-    {
-        "Artist": "Armin Hofmann",
-        "Title": "Kunsthalle Basel, Jacques Lipchitz, 9.Aug-7.Sept. Basel)",
-        "Year": "1958",
-        "ObjectID": "6779",
-        "Work": "https://www.moma.org/collection/works/6779",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwODg1MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=929019304d82901d",
-        "Details": {
-            "Medium": "Linocut, letterpress",
-            "Dimensions": "50 1/4 x 35 1/2\" (127.6 x 90.1 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "381.1963",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/2697"
-    },
-    {
-        "Artist": "Armin Hofmann",
-        "Title": "Robert Jacobsen, Serge Poliakoff, Kunsthalle Basel",
-        "Year": "1959",
-        "ObjectID": "7734",
-        "Work": "https://www.moma.org/collection/works/7734",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMTcwOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=66f793ef2b940857",
-        "Details": {
-            "Medium": "Linocut",
-            "Dimensions": "50 3/8 x 35 9/16\" (127.9 x 90.9 cm)",
-            "Printer": "Buchdruckerei VSK, Basel",
-            "Credit": "Gift of the artist",
-            "Object number": "610.1981",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/2697"
-    },
-    {
-        "Artist": "Saara Hopea",
-        "Title": "Container",
-        "Year": "1954",
-        "ObjectID": "3098",
-        "Work": "https://www.moma.org/collection/works/3098",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyOTA4MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7af20685b4fcd07c",
-        "Details": {
-            "Manufacturer": "Nuutaj\u00e4rvi Glass Works, W\u00e4rtsil\u00e4, Finland",
-            "Medium": "Steel and glass",
-            "Dimensions": "3 1/16 x 4 3/8\" (7.8 x 11.1 cm)",
-            "Credit": "Phyllis B. Lambert Fund",
-            "Object number": "258.1958.a-b",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/2724"
-    },
-    {
-        "Artist": "Garth Huxtable, Ada Louise Huxtable",
-        "Title": "Serving Dishes",
-        "Year": "1958",
-        "ObjectID": "1082",
-        "Work": "https://www.moma.org/collection/works/1082",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyODE1MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4a83fec4ca116477",
-        "Details": {
-            "Manufacturer": "International Silver Co., Meriden, CT",
-            "Medium": "Silver-soldered metal",
-            "Dimensions": "Each: 1 3/4 x 4 3/4\" (4.4 x 12 cm)",
-            "Credit": "Gift of The Four Seasons, Inc.",
-            "Object number": "SC2346.2001.1-2",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/2785"
-    },
-    {
-        "Artist": "Garth Huxtable, Ada Louise Huxtable",
-        "Title": "Pot",
-        "Year": "1958",
-        "ObjectID": "1085",
-        "Work": "https://www.moma.org/collection/works/1085",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyODE1NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f6fa60dffa05d228",
-        "Details": {
-            "Manufacturer": "International Silver Co., Meriden, CT",
-            "Medium": "Silver-soldered metal",
-            "Dimensions": "Overall: 4 1/2 x 7 1/2\" (11.4 x 19 cm)",
-            "Credit": "Gift of The Four Seasons, Inc.",
-            "Object number": "SC2348.2001.a-c",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/2785"
-    },
-    {
-        "Artist": "Garth Huxtable, Ada Louise Huxtable",
-        "Title": "Serving Bowls",
-        "Year": "1958",
-        "ObjectID": "1229",
-        "Work": "https://www.moma.org/collection/works/1229",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyODE0OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7f1a7a08d29e60be",
-        "Details": {
-            "Manufacturer": "Sterling China Corp., Wellsville, OH",
-            "Medium": "Glazed porcelain",
-            "Dimensions": "Each: 1 7/8 x 5\" (4.8 x 12.7 cm)",
-            "Credit": "Gift of The Four Seasons, Inc.",
-            "Object number": "SC2340.2001.1-2",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/2785"
-    },
-    {
-        "Artist": "Ikko (Ikko Narahara)",
-        "Title": "Room No. 9, Women's Prison, Wakayama",
-        "Year": "1958",
-        "ObjectID": "46396",
-        "Work": "https://www.moma.org/collection/works/46396",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5ODU0NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=21d46de8875d1487",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "12 3/4 \u00d7 19 3/16\" (32.4 \u00d7 48.8 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "109.1977",
-            "Copyright": "\u00a9 2023 Ikko Narahara",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/2803"
-    },
-    {
-        "Artist": "Ikko (Ikko Narahara)",
-        "Title": "Room No. 9, Women's Prison, Wakayama, Window Number 1",
-        "Year": "1958",
-        "ObjectID": "49152",
-        "Work": "https://www.moma.org/collection/works/49152",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwODUyOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=85fae5f6de006cec",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "9 13/16 \u00d7 14\" (24.9 \u00d7 35.6 cm)",
-            "Credit": "Gift of Nihon Keizai Shimbun",
-            "Object number": "228.1959",
-            "Copyright": "\u00a9 2023 Ikko Narahara",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/2803"
-    },
-    {
-        "Artist": "Arne Jacobsen",
-        "Title": "Egg Chair and Ottoman",
-        "Year": "1958",
-        "ObjectID": "167006",
-        "Work": "https://www.moma.org/collection/works/167006",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NTczNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d89297b8421d7b8f",
-        "Details": {
-            "Medium": "Chromed steel, aluminum, fiberglass-reinforced polyurethane foam shell, and leather",
-            "Dimensions": "chair: 42 1/2 x 37 1/2 x 34\" (108 x 95.3 x 86.4 cm)\r\nottoman: 16 1/2 x 22 x 19 5/16\" (41.9 x 55.9 x 49 cm)",
-            "Credit": "Gift of Clarissa Alcock Bronfman",
-            "Object number": "136.2013.a-b",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/2869"
-    },
-    {
-        "Artist": "Horst Janssen",
-        "Title": "Night Watch",
-        "Year": "1958",
-        "ObjectID": "72715",
-        "Work": "https://www.moma.org/collection/works/72715",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMTUxMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3aa036293ab90e0e",
-        "Details": {
-            "Medium": "Etching and aquatint",
-            "Dimensions": "plate: 23 1/8 x 19 5/16\" (58.7 x 49 cm); sheet: 30 7/8 x 20 1/2\" (78.5 x 52.1 cm)",
-            "Credit": "John S. Newberry Fund",
-            "Object number": "658.1963",
-            "Copyright": "\u00a9 2023 Horst Janssen / Artists Rights Society (ARS), New York / VG Bild-Kunst, Germany",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/2887"
-    },
-    {
-        "Artist": "Louis I. Kahn",
-        "Title": "Mr. and Mrs. Lawrence Morris House, Mount Kisco, New York, Perspective",
-        "Year": "1958",
-        "ObjectID": "643",
-        "Work": "https://www.moma.org/collection/works/643",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyNjc2MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9bf56bbe1438fa9f",
-        "Details": {
-            "Medium": "Ink on tracing paper",
-            "Dimensions": "11 1/4 x 17\" (28.6 x 43.2 cm)",
-            "Credit": "Purchase",
-            "Object number": "438.1987",
-            "Copyright": "\u00a9 2023 Estate of Louis I. Kahn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/2964"
-    },
-    {
-        "Artist": "Louis I. Kahn",
-        "Title": "Mr. and Mrs. Lawrence Morris House, Mount Kisco, New York, Perspective",
-        "Year": "1958",
-        "ObjectID": "645",
-        "Work": "https://www.moma.org/collection/works/645",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyNjc2NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=eae5cf07eda0b6a5",
-        "Details": {
-            "Medium": "Ink on tracing paper",
-            "Dimensions": "10 x 17 1/2\" (25.4 x 44.5 cm)",
-            "Credit": "Purchase",
-            "Object number": "439.1987",
-            "Copyright": "\u00a9 2023 Estate of Louis I. Kahn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/2964"
-    },
-    {
-        "Artist": "Seydou Keita",
-        "Title": "Untitled (Bamako)",
-        "Year": "1958",
-        "ObjectID": "50585",
-        "Work": "https://www.moma.org/collection/works/50585",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwNzU2NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c4a9c6d3bbe35504",
-        "Details": {
-            "Medium": "Gelatin silver print, printed 1997",
-            "Dimensions": "20 1/4 \u00d7 15 5/8\" (51.4 \u00d7 39.7 cm)",
-            "Credit": "The Family of Man Fund",
-            "Object number": "315.1997",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/8568"
-    },
-    {
-        "Artist": "Ellsworth Kelly",
-        "Title": "Study for White Sculpture",
-        "Year": "1958",
-        "ObjectID": "37233",
-        "Work": "https://www.moma.org/collection/works/37233",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMxMTgxNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a1c52c1d5d11dce2",
-        "Details": {
-            "Medium": "Cut-and-pasted paper and pencil on tracing paper",
-            "Dimensions": "14 1/8 x 12 1/8\" (36.8 x 30.8 cm)",
-            "Credit": "Gift of the artist in honor of Betty Parsons",
-            "Object number": "506.1997",
-            "Copyright": "\u00a9 2023 Ellsworth Kelly",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/3048"
-    },
-    {
-        "Artist": "Ellsworth Kelly",
-        "Title": "Study for Concorde",
-        "Year": "1958",
-        "ObjectID": "439008",
-        "Work": "https://www.moma.org/collection/works/439008",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzNTIzNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=160decfcad251cba",
-        "Details": {
-            "Medium": "Cut-and-pasted colored paper on paper",
-            "Dimensions": "15 1/2 \u00d7 11 7/8\" (39.4 \u00d7 30.2 cm)",
-            "Credit": "In honor of the 2023 Ellsworth Kelly Centennial. Gift of Jack Shear",
-            "Object number": "700.2022",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/3048"
-    },
-    {
-        "Artist": "Robert J. King",
-        "Title": "Coffee Service",
-        "Year": "1958",
-        "ObjectID": "3440",
-        "Work": "https://www.moma.org/collection/works/3440",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyOTQzMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=45e06558307244ff",
-        "Details": {
-            "Manufacturer": "Robert J. King",
-            "Medium": "Sterling silver and teak",
-            "Dimensions": ".1 (coffee pot): 8 1/8 x 9 5/8 x 5 1/2\" (20.6 x 24.5 x 14 cm)\r\n.2 (creamer): 3 7/8 x 5 1/2 x 2 7/8\" (9.8 x 14 x 7.3 cm)  \r\n.3 (sugar bowl): h. 1 7/8\" (4.7 cm), diam. 3 7/16\" (8.7 cm)  \r\n.4 (spoon): 4 7/8 x 1 5/8 x 1/2\" (12.4 x 4.1 x 1.3 cm)  \r\n.5 (tray): h. 11/16\" (1.8 cm), diam. 13 3/4\" (34.9 cm)",
-            "Credit": "Gift of the designer",
-            "Object number": "363.1993.1-5",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/7240"
-    },
-    {
-        "Artist": "William Klein",
-        "Title": "Marie-Helene, St. Raphael and Metro, Paris",
-        "Year": "1958",
-        "ObjectID": "177233",
-        "Work": "https://www.moma.org/collection/works/177233",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5MTA0MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6027267e90c44f41",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "12 3/8 \u00d7 12\" (31.4 \u00d7 30.5 cm)",
-            "Credit": "Acquired through the generosity of Thomas and Susan Dunn",
-            "Object number": "150.2014",
-            "Copyright": "\u00a9 2023 William Klein",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/3136"
-    },
-    {
-        "Artist": "Fritz Koenig",
-        "Title": "Camargue, X",
-        "Year": "1958",
-        "ObjectID": "80977",
-        "Work": "https://www.moma.org/collection/works/80977",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwODI0MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3ee17d3caf7212bb",
-        "Details": {
-            "Medium": "Bronze",
-            "Dimensions": "3 x 17 1/4 x 15 3/8\" (7.6 x 43.8 x 39 cm)",
-            "Credit": "Matthew T. Mellon Foundation Fund",
-            "Object number": "119.1961",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/3183"
-    },
-    {
-        "Artist": "Chaim Koppelman",
-        "Title": "Napoleon Entering New York",
-        "Year": "1958",
-        "ObjectID": "62741",
-        "Work": "https://www.moma.org/collection/works/62741",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNjEzNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9d03d1266113d414",
-        "Details": {
-            "Medium": "Etching and aquatint",
-            "Dimensions": "plate: 14 15/16 x 17 15/16\" (38 x 45.5cm); sheet (irreg.): 19 1/8 x 22 7/8\" (48.6 x 58.1cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "138.1964",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/3218"
-    },
-    {
-        "Artist": "Chaim Koppelman",
-        "Title": "On Meeting Beauty II",
-        "Year": "1958",
-        "ObjectID": "65943",
-        "Work": "https://www.moma.org/collection/works/65943",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNTgzMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0095cd7c71d89c05",
-        "Details": {
-            "Medium": "Aquatint and roulette",
-            "Dimensions": "composition: 14 7/8 x 17 13/16\" (37.8 x 45.3 cm); sheet: 17 1/16 x 20 3/8\" (43.4 x 51.8 cm)",
-            "Publisher": "International Graphic Arts Society, New York",
-            "Edition": "200",
-            "Credit": "Purchase",
-            "Object number": "281.1957",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/3218"
-    },
-    {
-        "Artist": "Syl Labrot",
-        "Title": "Untitled",
-        "Year": "1958",
-        "ObjectID": "54146",
-        "Work": "https://www.moma.org/collection/works/54146",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNjUxOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f6df4f7fc56bd774",
-        "Details": {
-            "Medium": "Dye transfer print",
-            "Dimensions": "12 9/16 \u00d7 17 13/16\" (32 \u00d7 45.3 cm)",
-            "Credit": "Purchase",
-            "Object number": "481.1960",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/3330"
-    },
-    {
-        "Artist": "Dorothea Lange",
-        "Title": "Vietnamese Mother",
-        "Year": "1958",
-        "ObjectID": "50521",
-        "Work": "https://www.moma.org/collection/works/50521",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzODUzOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4e004e96e72bbd0f",
-        "Details": {
-            "Medium": "Gelatin silver print, printed 1965",
-            "Dimensions": "14 9/16 \u00d7 12 11/16\" (37 \u00d7 32.2 cm)",
-            "Credit": "Purchase",
-            "Object number": "312.1995",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/3373"
-    },
-    {
-        "Artist": "Dorothea Lange",
-        "Title": "Sunlit Oak",
-        "Year": "c. 1957",
-        "ObjectID": "53476",
-        "Work": "https://www.moma.org/collection/works/53476",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwMTYxNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e1330670c9e6c039",
-        "Details": {
-            "Medium": "Gelatin silver print, printed 1965",
-            "Dimensions": "30 7/8 \u00d7 41 1/8\" (78.4 \u00d7 104.5 cm)",
-            "Credit": "Purchase",
-            "Object number": "445.1995",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/3373"
-    },
-    {
-        "Artist": "Dorothea Lange",
-        "Title": "Oak",
-        "Year": "c. 1957",
-        "ObjectID": "53500",
-        "Work": "https://www.moma.org/collection/works/53500",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQyMTExNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=59c68cd757b2e811",
-        "Details": {
-            "Medium": "Gelatin silver print, printed 1965",
-            "Dimensions": "30 \u00d7 39 3/16\" (76.3 \u00d7 99.6 cm)",
-            "Credit": "Purchase",
-            "Object number": "447.1995",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/3373"
-    },
-    {
-        "Artist": "Dorothea Lange",
-        "Title": "Split Tree",
-        "Year": "c. 1957",
-        "ObjectID": "53696",
-        "Work": "https://www.moma.org/collection/works/53696",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQyMTExNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e1e9f3fd42b72f74",
-        "Details": {
-            "Medium": "Gelatin silver print, printed 1965",
-            "Dimensions": "20 5/16 \u00d7 26 3/4\" (51.6 \u00d7 67.9 cm)",
-            "Credit": "Purchase",
-            "Object number": "461.1995",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/3373"
-    },
-    {
-        "Artist": "Dorothea Lange",
-        "Title": "Split Tree",
-        "Year": "c. 1957",
-        "ObjectID": "53708",
-        "Work": "https://www.moma.org/collection/works/53708",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxOTYwNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d33f9f1acac5d9c1",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "6 15/16 \u00d7 9 1/16\" (17.7 \u00d7 23.1 cm)",
-            "Credit": "Purchase",
-            "Object number": "462.1995",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/3373"
-    },
-    {
-        "Artist": "Dorothea Lange",
-        "Title": "Rain",
-        "Year": "1958",
-        "ObjectID": "53720",
-        "Work": "https://www.moma.org/collection/works/53720",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzODU0NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=804d61809daf4558",
-        "Details": {
-            "Medium": "Gelatin silver print, printed 1965",
-            "Dimensions": "14 15/16 \u00d7 19 13/16\" (38 \u00d7 50.4 cm)",
-            "Credit": "Purchase",
-            "Object number": "463.1995",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/3373"
-    },
-    {
-        "Artist": "Dorothea Lange",
-        "Title": "Pakistan",
-        "Year": "1958",
-        "ObjectID": "53910",
-        "Work": "https://www.moma.org/collection/works/53910",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1OTYyNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e5a2cf978d88720a",
-        "Details": {
-            "Medium": "Gelatin silver print, printed 1965",
-            "Dimensions": "6 7/8 \u00d7 4 5/8\" (17.4 \u00d7 11.7 cm)",
-            "Credit": "Purchase",
-            "Object number": "467.1995",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/3373"
-    },
-    {
-        "Artist": "Dorothea Lange",
-        "Title": "Vietnam",
-        "Year": "1958",
-        "ObjectID": "53922",
-        "Work": "https://www.moma.org/collection/works/53922",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1OTYyNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=75fcb3320c98edba",
-        "Details": {
-            "Medium": "Gelatin silver print, printed 1965",
-            "Dimensions": "5 11/16 \u00d7 6 3/16\" (14.4 \u00d7 15.7 cm)",
-            "Credit": "Purchase",
-            "Object number": "468.1995",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/3373"
-    },
-    {
-        "Artist": "Dorothea Lange",
-        "Title": "Nepal",
-        "Year": "1958",
-        "ObjectID": "54628",
-        "Work": "https://www.moma.org/collection/works/54628",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzNzYwMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7f2f880cf3c3856d",
-        "Details": {
-            "Medium": "Gelatin silver print, printed 1965",
-            "Dimensions": "15 7/8 \u00d7 19 13/16\" (40.3 \u00d7 50.4 cm)",
-            "Credit": "Purchase",
-            "Object number": "517.1995",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/3373"
-    },
-    {
-        "Artist": "Dorothea Lange",
-        "Title": "Pakistani Youth, Karachi",
-        "Year": "1958",
-        "ObjectID": "54648",
-        "Work": "https://www.moma.org/collection/works/54648",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1ODcwOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4947753ad6017a2a",
-        "Details": {
-            "Medium": "Gelatin silver print, printed 1965",
-            "Dimensions": "7 3/8 \u00d7 8 1/2\" (18.8 \u00d7 21.6 cm)",
-            "Credit": "Purchase",
-            "Object number": "519.1995",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/3373"
-    },
-    {
-        "Artist": "Dorothea Lange",
-        "Title": "Pakistan",
-        "Year": "1958",
-        "ObjectID": "54677",
-        "Work": "https://www.moma.org/collection/works/54677",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1OTY0NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f44d9b4624d70411",
-        "Details": {
-            "Medium": "Gelatin silver print, printed 1965",
-            "Dimensions": "7 3/8 \u00d7 6 1/2\" (18.8 \u00d7 16.6 cm)",
-            "Credit": "Purchase",
-            "Object number": "521.1995",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/3373"
-    },
-    {
-        "Artist": "Dorothea Lange",
-        "Title": "Indonesia",
-        "Year": "1958",
-        "ObjectID": "54695",
-        "Work": "https://www.moma.org/collection/works/54695",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzODU4NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=388a689a3a90ec44",
-        "Details": {
-            "Medium": "Gelatin silver print, printed 1965",
-            "Dimensions": "15 15/16 \u00d7 19 3/4\" (40.5 \u00d7 50.2 cm)",
-            "Credit": "Purchase",
-            "Object number": "523.1995",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/3373"
+        "Profile": "https://www.moma.org/artists/7166"
     }
 ]

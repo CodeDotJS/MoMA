@@ -1,859 +1,897 @@
 [
     {
-        "Artist": "David Hammons",
-        "Title": "African-American Flag",
-        "Year": "1990",
-        "ObjectID": "81317",
-        "Work": "https://www.moma.org/collection/works/81317",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNDAzNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=413613902c297393",
+        "Artist": "Roy Lichtenstein",
+        "Title": "Plate (page 9) from La Nouvelle chute d'Amerique",
+        "Year": "1992",
+        "ObjectID": "11431",
+        "Work": "https://www.moma.org/collection/works/11431",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0NTU0MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2bd53c988d21f85d",
         "Details": {
-            "Medium": "Printed cotton",
-            "Dimensions": "56\" x 7' 4\" (142.2 x 223.5 cm)",
-            "Edition": "5 (This edition was the first version of Hammons's African-American Flag.)",
-            "Credit": "Gift of The Over Holland Foundation. David Hammons created this flag for the groundbreaking exhibition \"Black USA\" curated by Jan Christiaan Braun in Amsterdam, April 7 - July 29, 1990.",
-            "Object number": "296.1997",
-            "Copyright": "\u00a9 2023 David Hammons",
+            "Medium": "Aquatint from an illustrated book with ten aquatints",
+            "Dimensions": "plate: 14 3/4 x 11\" (37.5 x 27.9cm); sheet: 17 11/16 \u00d7 14 1/8\" (45 \u00d7 35.8 cm)",
+            "Publisher": "Les \u00c9ditions du Solstice, Paris",
+            "Printer": "Dupont-Visat, Paris",
+            "Edition": "45",
+            "Credit": "Gift of the artist",
+            "Object number": "129.1993.1",
+            "Illustrated book": "La Nouvelle chute d'Am\u00e9rique",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3542"
+    },
+    {
+        "Artist": "Roy Lichtenstein",
+        "Title": "La Nouvelle chute d'Amerique",
+        "Year": "1992",
+        "ObjectID": "11432",
+        "Work": "https://www.moma.org/collection/works/11432",
+        "Thumbnail": null,
+        "Details": {
+            "Author": "Allen Ginsberg",
+            "Medium": "Illustrated book with ten aquatints",
+            "Dimensions": "composition (see child records): dimensions vary; page (each approx.): 18 7/8 x 14 1/8\" (48 x 35.8cm); overall (closed): 19 5/8 \u00d7 14 11/16 \u00d7 2 5/16\" (49.8 \u00d7 37.3 \u00d7 5.9 cm)",
+            "Publisher": "Les \u00c9ditions du Solstice, Paris",
+            "Printer": "Dupont-Visat, Paris",
+            "Edition": "45",
+            "Credit": "Gift of the artist",
+            "Object number": "129.1993.1-10",
+            "Type": "Illustrated Book",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3542"
+    },
+    {
+        "Artist": "Roy Lichtenstein",
+        "Title": "Plate (page 105) from La Nouvelle chute d'Amerique",
+        "Year": "1992",
+        "ObjectID": "11433",
+        "Work": "https://www.moma.org/collection/works/11433",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0NTU0MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d4074a2d6132ce3f",
+        "Details": {
+            "Medium": "Aquatint from an illustrated book with ten aquatints",
+            "Dimensions": "plate: 14 13/16 x 11\" (37.7 x 27.9cm); sheet: 17 11/16 \u00d7 14 1/8\" (45 \u00d7 35.8 cm)",
+            "Publisher": "Les \u00c9ditions du Solstice, Paris",
+            "Printer": "Dupont-Visat, Paris",
+            "Edition": "45",
+            "Credit": "Gift of the artist",
+            "Object number": "129.1993.10",
+            "Illustrated book": "La Nouvelle chute d'Am\u00e9rique",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3542"
+    },
+    {
+        "Artist": "Roy Lichtenstein",
+        "Title": "Plate (page 17) from La Nouvelle chute d'Amerique",
+        "Year": "1992",
+        "ObjectID": "11434",
+        "Work": "https://www.moma.org/collection/works/11434",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0NTU0MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=835fe38edfaea808",
+        "Details": {
+            "Medium": "Aquatint from an illustrated book with ten aquatints",
+            "Dimensions": "plate: 14 3/4 x 11\" (37.5 x 27.9cm); sheet: 17 11/16 \u00d7 14 1/8\" (45 \u00d7 35.8 cm)",
+            "Publisher": "Les \u00c9ditions du Solstice, Paris",
+            "Printer": "Dupont-Visat, Paris",
+            "Edition": "45",
+            "Credit": "Gift of the artist",
+            "Object number": "129.1993.2",
+            "Illustrated book": "La Nouvelle chute d'Am\u00e9rique",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3542"
+    },
+    {
+        "Artist": "Roy Lichtenstein",
+        "Title": "Plate (page 23) from La Nouvelle chute d'Amerique",
+        "Year": "1992",
+        "ObjectID": "11435",
+        "Work": "https://www.moma.org/collection/works/11435",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0NTU0NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3cb634432594c517",
+        "Details": {
+            "Medium": "Aquatint from an illustrated book with ten aquatints",
+            "Dimensions": "plate: 11 x 14 13/16\" (27.9 x 37.6cm); sheet: 14 1/8 \u00d7 17 11/16\" (35.8 \u00d7 45 cm)",
+            "Publisher": "Les \u00c9ditions du Solstice, Paris",
+            "Printer": "Dupont-Visat, Paris",
+            "Edition": "45",
+            "Credit": "Gift of the artist",
+            "Object number": "129.1993.3",
+            "Illustrated book": "La Nouvelle chute d'Am\u00e9rique",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3542"
+    },
+    {
+        "Artist": "Roy Lichtenstein",
+        "Title": "Plate (page 33) from La Nouvelle chute d'Amerique",
+        "Year": "1992",
+        "ObjectID": "11436",
+        "Work": "https://www.moma.org/collection/works/11436",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0NTU0NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fc952606807337da",
+        "Details": {
+            "Medium": "Aquatint from an illustrated book with ten aquatints",
+            "Dimensions": "plate: 11 x 14 13/16\" (27.9 x 37.7cm); sheet: 14 1/8 \u00d7 17 11/16\" (35.8 \u00d7 45 cm)",
+            "Publisher": "Les \u00c9ditions du Solstice, Paris",
+            "Printer": "Dupont-Visat, Paris",
+            "Edition": "45",
+            "Credit": "Gift of the artist",
+            "Object number": "129.1993.4",
+            "Illustrated book": "La Nouvelle chute d'Am\u00e9rique",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3542"
+    },
+    {
+        "Artist": "Roy Lichtenstein",
+        "Title": "Plate (page 45) from La Nouvelle chute d'Amerique",
+        "Year": "1992",
+        "ObjectID": "11437",
+        "Work": "https://www.moma.org/collection/works/11437",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM1MDg2MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=393e679cbbcc6a44",
+        "Details": {
+            "Medium": "Aquatint from an illustrated book with ten aquatints",
+            "Dimensions": "plate: 15 1/16 x 11 1/4\" (38.2 x 28.5cm); sheet: 17 11/16 \u00d7 14 1/8\" (45 \u00d7 35.8 cm)",
+            "Publisher": "Les \u00c9ditions du Solstice, Paris",
+            "Printer": "Dupont-Visat, Paris",
+            "Edition": "45",
+            "Credit": "Gift of the artist",
+            "Object number": "129.1993.5",
+            "Illustrated book": "La Nouvelle chute d'Am\u00e9rique",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3542"
+    },
+    {
+        "Artist": "Roy Lichtenstein",
+        "Title": "Plate (page 53) from La Nouvelle chute d'Amerique",
+        "Year": "1992",
+        "ObjectID": "11438",
+        "Work": "https://www.moma.org/collection/works/11438",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0NTU0NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=02613238c05dc0c2",
+        "Details": {
+            "Medium": "Aquatint from an illustrated book with ten aquatints",
+            "Dimensions": "plate: 11 x 14 3/4\" (27.9 x 37.4cm); sheet: 14 1/8 \u00d7 17 11/16\" (35.8 \u00d7 45 cm)",
+            "Publisher": "Les \u00c9ditions du Solstice, Paris",
+            "Printer": "Dupont-Visat, Paris",
+            "Edition": "45",
+            "Credit": "Gift of the artist",
+            "Object number": "129.1993.6",
+            "Illustrated book": "La Nouvelle chute d'Am\u00e9rique",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3542"
+    },
+    {
+        "Artist": "Roy Lichtenstein",
+        "Title": "Plate (page 59) from La Nouvelle chute d'Amerique",
+        "Year": "1992",
+        "ObjectID": "11439",
+        "Work": "https://www.moma.org/collection/works/11439",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0NTU0OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d63ea756ec68907b",
+        "Details": {
+            "Medium": "Aquatint from an illustrated book with ten aquatints",
+            "Dimensions": "plate: 14 13/16 x 11\" (37.6 x 27.9cm); sheet: 17 11/16 \u00d7 14 1/8\" (45 \u00d7 35.8 cm)",
+            "Publisher": "Les \u00c9ditions du Solstice, Paris",
+            "Printer": "Dupont-Visat, Paris",
+            "Edition": "45",
+            "Credit": "Gift of the artist",
+            "Object number": "129.1993.7",
+            "Illustrated book": "La Nouvelle chute d'Am\u00e9rique",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3542"
+    },
+    {
+        "Artist": "Roy Lichtenstein",
+        "Title": "Plate (page 81) from La Nouvelle chute d'Amerique",
+        "Year": "1992",
+        "ObjectID": "11440",
+        "Work": "https://www.moma.org/collection/works/11440",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0NTU0OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=139bc13edd6ee1a4",
+        "Details": {
+            "Medium": "Aquatint from an illustrated book with ten aquatints",
+            "Dimensions": "plate: 14 13/16 x 11\" (37.7 x 27.9cm); sheet: 17 11/16 \u00d7 14 1/8\" (45 \u00d7 35.8 cm)",
+            "Publisher": "Les \u00c9ditions du Solstice, Paris",
+            "Printer": "Dupont-Visat, Paris",
+            "Edition": "45",
+            "Credit": "Gift of the artist",
+            "Object number": "129.1993.8",
+            "Illustrated book": "La Nouvelle chute d'Am\u00e9rique",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3542"
+    },
+    {
+        "Artist": "Roy Lichtenstein",
+        "Title": "Plate (page 93) from La Nouvelle chute d'Amerique",
+        "Year": "1992",
+        "ObjectID": "11441",
+        "Work": "https://www.moma.org/collection/works/11441",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0NTU1MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5eb8a72071cda87a",
+        "Details": {
+            "Medium": "Aquatint from an illustrated book with ten aquatints",
+            "Dimensions": "plate: 11 x 14 7/8\" (28 x 37.8cm); sheet: 14 1/8 \u00d7 17 11/16\" (35.8 \u00d7 45 cm)",
+            "Publisher": "Les \u00c9ditions du Solstice, Paris",
+            "Printer": "Dupont-Visat, Paris",
+            "Edition": "45",
+            "Credit": "Gift of the artist",
+            "Object number": "129.1993.9",
+            "Illustrated book": "La Nouvelle chute d'Am\u00e9rique",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3542"
+    },
+    {
+        "Artist": "Roy Lichtenstein",
+        "Title": "Study for Interior with Mobile",
+        "Year": "1992",
+        "ObjectID": "35293",
+        "Work": "https://www.moma.org/collection/works/35293",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNTg4NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b960227fa86e37d7",
+        "Details": {
+            "Medium": "Tape with painted and printed paper on board",
+            "Dimensions": "29 7/8 x 39 1/4\" (75.9 x 99.9 cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "213.1992",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3542"
+    },
+    {
+        "Artist": "Roy Lichtenstein",
+        "Title": "Interior with Mobile",
+        "Year": "1992",
+        "ObjectID": "79031",
+        "Work": "https://www.moma.org/collection/works/79031",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1ODEyMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=62b7e471dd14a7d4",
+        "Details": {
+            "Medium": "Oil and magna on canvas",
+            "Dimensions": "10' 10\" x 14' 3\" (330.2 x 434.4 cm)",
+            "Credit": "Enid A. Haupt Fund; gift of Agnes Gund, Jo Carole and Ronald S. Lauder, Michael and Judy Ovitz in honor of Roy and Dorothy Lichtenstein; and Anna Marie and Robert F. Shapiro",
+            "Object number": "165.1992",
             "Department": "Painting and Sculpture"
         },
-        "Profile": "https://www.moma.org/artists/2486"
+        "Profile": "https://www.moma.org/artists/3542"
     },
     {
-        "Artist": "David Hammons",
-        "Title": "High Falutin'",
-        "Year": "1990",
-        "ObjectID": "81596",
-        "Work": "https://www.moma.org/collection/works/81596",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQyODY1MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a7b1d0f2f16ba08a",
+        "Artist": "Glenn Ligon",
+        "Title": "Study for Black Like Me #2",
+        "Year": "1992",
+        "ObjectID": "35336",
+        "Work": "https://www.moma.org/collection/works/35336",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5Mzk4NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ca9ddc694ebabbc4",
         "Details": {
-            "Medium": "Metal (some parts painted with oil), oil on wood, glass, dust, chandelier parts, rubber, velvet, plastic, and light bulbs",
-            "Dimensions": "13' 2\" x 48\" x 30 1/2\" (396 x 122 x 77.5 cm)",
-            "Credit": "Robert and Meryl Meltzer Fund and purchase",
-            "Object number": "563.1990.a-c",
-            "Copyright": "\u00a9 2023 David Hammons",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/2486"
-    },
-    {
-        "Artist": "Bernard William Hanning, Vernon Pascoe",
-        "Title": "3-in-1 Inflatable Kite / Splint / Body Warmer",
-        "Year": "c. 1990",
-        "ObjectID": "94593",
-        "Work": "https://www.moma.org/collection/works/94593",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEwOTM1MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b08f6f0ac512ebef",
-        "Details": {
-            "Manufacturer": "Skystreme UK, Ltd.",
-            "Medium": "Mylar",
-            "Dimensions": "23' 11\" x 29' 6 1/2\" (729 x 900 cm) unfolded; 4 3/4 x 3 1/2 x 1 1/8\" (12 x 9 x 3 cm) folded",
-            "Credit": "Gift of Skystreme UK, Ltd.",
-            "Object number": "109.2006",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/28075"
-    },
-    {
-        "Artist": "Rolf Harder, Rolf Harder & Associates Inc.",
-        "Title": "Le groupe Revay",
-        "Year": "1990",
-        "ObjectID": "109027",
-        "Work": "https://www.moma.org/collection/works/109027",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MTQzNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ef26503d231fa4bb",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "11 x 8 1/8 x 1/8\" (27.9 x 20.6 x 0.3 cm)",
-            "Printer": "Imprimerie Perry Limit\u00e9e, Montreal",
-            "Credit": "Gift of the designer",
-            "Object number": "428.2007",
-            "Copyright": "\u00a9 2023 Rolf Harder",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/32655"
-    },
-    {
-        "Artist": "Rolf Harder, Rolf Harder & Associates Inc.",
-        "Title": "Prehistory Stamps",
-        "Year": "1990",
-        "ObjectID": "109251",
-        "Work": "https://www.moma.org/collection/works/109251",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MjI5NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0ec8f2e000c905f0",
-        "Details": {
-            "Medium": "Lithograph on self-adhesive paper",
-            "Dimensions": "3 x 3 3/4\" (7.6 x 9.5 cm)",
-            "Printer": "Canadian Bank Note Company, Ottawa",
-            "Credit": "Gift of the designer",
-            "Object number": "429.2007",
-            "Copyright": "\u00a9 2023 Rolf Harder",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/32655"
-    },
-    {
-        "Artist": "Jan Hashey",
-        "Title": "Cheetah (plate, folio 41 verso) from A Bestiary",
-        "Year": "1990",
-        "ObjectID": "10086",
-        "Work": "https://www.moma.org/collection/works/10086",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ4OTM5NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=028fbf290c45c504",
-        "Details": {
-            "Author": "Bradford Morrow",
-            "Medium": "Linoleum cut from an illustrated book with twenty-nine linoleum cuts (two with pochoir and two with letterpress) and seven woodcuts",
-            "Dimensions": "composition (irreg.): 7 3/16 \u00d7 8 3/8\" (18.2 \u00d7 21.2 cm); page: 14 13/16 \u00d7 10 13/16\" (37.6 \u00d7 27.5 cm)",
-            "Publisher": "The Grenfell Press, New York",
-            "Printer": "The Grenfell Press, New York",
-            "Edition": "100",
-            "Credit": "Abby Aldrich Rockefeller Fund",
-            "Object number": "29.1991.17",
-            "Illustrated book": "A Bestiary",
+            "Medium": "Oilstick on paper",
+            "Dimensions": "31 3/4 x 15\" (80.6 x 38.1 cm)",
+            "Credit": "Gift of The Bohen Foundation",
+            "Object number": "217.1992",
+            "Copyright": "\u00a9 2023 Glenn Ligon",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/2531"
+        "Profile": "https://www.moma.org/artists/6902"
     },
     {
-        "Artist": "Jan Hashey",
-        "Title": "Lioness (plate, folio 57 verso) from A Bestiary",
-        "Year": "1990",
-        "ObjectID": "10095",
-        "Work": "https://www.moma.org/collection/works/10095",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ4OTQwMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6c1eac85e2693010",
+        "Artist": "Glenn Ligon",
+        "Title": "Study for Frankenstein #1",
+        "Year": "1992",
+        "ObjectID": "35355",
+        "Work": "https://www.moma.org/collection/works/35355",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyMjAxNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6a74b51916d4db25",
         "Details": {
-            "Author": "Bradford Morrow",
-            "Medium": "Linoleum cut from an illustrated book with twenty-nine linoleum cuts (two with pochoir and two with letterpress) and seven woodcuts",
-            "Dimensions": "composition (irreg.): 6 7/16 \u00d7 3 15/16\" (16.3 \u00d7 10 cm); page: 14 13/16 \u00d7 10 13/16\" (37.6 \u00d7 27.5 cm)",
-            "Publisher": "The Grenfell Press, New York",
-            "Printer": "The Grenfell Press, New York",
-            "Edition": "100",
-            "Credit": "Abby Aldrich Rockefeller Fund",
-            "Object number": "29.1991.25",
-            "Illustrated book": "A Bestiary",
+            "Medium": "Oilstick on paper",
+            "Dimensions": "31 3/4 x 16\" (80.6 x 40.6 cm)",
+            "Credit": "Gift of The Bohen Foundation",
+            "Object number": "219.1992",
+            "Copyright": "\u00a9 2023 Glenn Ligon",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/2531"
+        "Profile": "https://www.moma.org/artists/6902"
     },
     {
-        "Artist": "The Haters",
-        "Title": "Fire",
-        "Year": "1990",
-        "ObjectID": "184002",
-        "Work": "https://www.moma.org/collection/works/184002",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQwMDkxNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=de818b2ad64c4456",
+        "Artist": "Glenn Ligon",
+        "Title": "Untitled (Four Etchings)",
+        "Year": "1992",
+        "ObjectID": "153232",
+        "Work": "https://www.moma.org/collection/works/153232",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0OTk1MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d336be2ea751b90e",
         "Details": {
-            "Medium": "7-inch vinyl record",
-            "Dimensions": "cover: 7 1/8 \u00d7 7 3/8\" (18.1 \u00d7 18.7 cm)",
-            "Publisher": "Silent",
-            "Credit": "Committee on Prints and Illustrated Books Fund",
-            "Object number": "854.2013.134",
-            "Associated work": "Steven Leiber Audio Collection",
+            "Medium": "Series of four etching and aquatints",
+            "Dimensions": "plate (each): 23 9/16 x 15 3/4\" (59.8 x 40 cm); sheet (each): 25 1/8 x 17 3/8\" (63.8 x 44.2 cm)",
+            "Publisher": "Max Protetch Gallery, New York",
+            "Printer": "Burnet Editions, New York",
+            "Edition": "45",
+            "Credit": "Gift of Gwen and Peter Norton",
+            "Object number": "1131.2011.a-d",
+            "Copyright": "\u00a9 2023 Glenn Ligon",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/46888"
+        "Profile": "https://www.moma.org/artists/6902"
     },
     {
-        "Artist": "Georg Herold",
-        "Title": "Hand and Foot",
-        "Year": "1990",
-        "ObjectID": "59758",
-        "Work": "https://www.moma.org/collection/works/59758",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMzg1NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=87b3c36db6b26648",
+        "Artist": "Paul Etienne Lincoln",
+        "Title": "A Transcript to Unrequited Euphoria",
+        "Year": "1992",
+        "ObjectID": "85948",
+        "Work": "https://www.moma.org/collection/works/85948",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM1Nzk2NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=df73daf9f5f6452e",
         "Details": {
-            "Medium": "Photogravure",
-            "Dimensions": "plate  21 1/16 x 13 7/8\" (53.5 x 35.3 cm)\r\nsheet  30 x 22 1/2\" (76 x 57.2 cm)",
-            "Publisher": "Gisela Capitain, Cologne",
-            "Printer": "Till Verclas, Hamburg",
-            "Edition": "25",
+            "Medium": "Pamphlet",
+            "Publisher": "Galerie Hubert Winter, Vienna",
+            "Edition": "300",
+            "Credit": "Jacqueline Brody Fund and Linda Barth Goldstein Fund",
+            "Object number": "233.2002",
+            "Copyright": "\u00a9 2023 Paul Etienne Lincoln",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/24801"
+    },
+    {
+        "Artist": "Eva Lipman",
+        "Title": "Smethport, Pennsylvania",
+        "Year": "1992",
+        "ObjectID": "45677",
+        "Work": "https://www.moma.org/collection/works/45677",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4OTk4MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=99f4fb70cea74c71",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "13 3/4 \u00d7 16 7/8\" (35 \u00d7 42.9 cm)",
             "Credit": "Purchase",
-            "Object number": "8.1991",
-            "Copyright": "\u00a9 2023 Georg Herold / Artists Rights Society (ARS), New York / VG Bild-Kunst, Germany",
-            "Department": "Drawings and Prints"
+            "Object number": "73.1993",
+            "Copyright": "\u00a9 2023 Eva Lipman",
+            "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/2615"
+        "Profile": "https://www.moma.org/artists/6894"
     },
     {
-        "Artist": "Lynn Hershman Leeson",
-        "Title": "Desire, Inc",
-        "Year": "1990",
-        "ObjectID": "159761",
-        "Work": "https://www.moma.org/collection/works/159761",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1MTYzOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=75e635be0bbff490",
+        "Artist": "Richard Long",
+        "Title": "Untitled",
+        "Year": "1992",
+        "ObjectID": "37189",
+        "Work": "https://www.moma.org/collection/works/37189",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1OTY0NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a272b684f28f7776",
+        "Details": {
+            "Medium": "Mississippi mud on paper",
+            "Dimensions": "78 x 43\" (198.2 x 109.4 cm)",
+            "Credit": "Gift of Hans Mautner and Agnes Gund",
+            "Object number": "498.1992",
+            "Copyright": "\u00a9 2023 Richard Long",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3591"
+    },
+    {
+        "Artist": "Chip Lord",
+        "Title": "The Aroma of Enchantment",
+        "Year": "1992",
+        "ObjectID": "120297",
+        "Work": "https://www.moma.org/collection/works/120297",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1MjE1OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f6cd391e06ac55d0",
+        "Details": {
+            "Medium": "Video (black and white and color, sound)",
+            "Duration": "55 min.",
+            "Credit": "Gift of the artist",
+            "Object number": "658.1997",
+            "Copyright": "\u00a9 2023 Chip Lord. Used by permission.",
+            "Department": "Media and Performance"
+        },
+        "Profile": "https://www.moma.org/artists/32750"
+    },
+    {
+        "Artist": "Guy Maddin",
+        "Title": "Careful",
+        "Year": "1992",
+        "ObjectID": "198183",
+        "Work": "https://www.moma.org/collection/works/198183",
+        "Thumbnail": null,
+        "Details": {
+            "Object number": "W24159",
+            "Department": "Film"
+        },
+        "Profile": "https://www.moma.org/artists/36008"
+    },
+    {
+        "Artist": "Mallory Industries, Inc., Farmington, CT",
+        "Title": "3-Dimensional Cams",
+        "Year": "1991",
+        "ObjectID": "3604",
+        "Work": "https://www.moma.org/collection/works/3604",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMTM1OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7d98c87344b46c20",
+        "Details": {
+            "Manufacturer": "Mallory Industries, Inc., Farmington, CT",
+            "Medium": "Aluminum or steel",
+            "Dimensions": ".1: h. 2 1/2\" (6.4 cm), diam. 1 3/4\" (4.5 cm) (irreg.)\r\n.2: h. 2 3/8\" (6 cm), diam. 1 1/2\" (3/8 cm) (irreg.)\r\n.3: h. 1 5/8\" (4.2 cm), diam. 2\" (5.1 cm) (irreg.)\r\n.4: h. 1 5/8\" (4.2 cm), diam. 1 5/8\" (4.2 cm) (irreg.)\r\n.5: h. 1 3/4\" (4.5 cm), diam. 2\" (5.1 cm) (irreg.)\r\n.6: h. 2\" (5.1 cm), diam. 1 1/8\" (2.9 cm) (irreg.)\r\n.7: h. 1 1/8\" (2.9 cm), diam. 7/8\" (2.2 cm) (irreg.)\r\n.8: h. 3/4\" (1.9 cm), diam. 1 1/4\" (3.2 cm) (irreg.)\r\n.9: h. 2 7/8\" (7.3 cm), diam. 1 3/8\" (3.5 cm) (irreg.)",
+            "Credit": "Gift of the manufacturer",
+            "Object number": "440.1992.1-9",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/10666"
+    },
+    {
+        "Artist": "Mark Manders",
+        "Title": "Fox/Mouse/Belt",
+        "Year": "1992 (cast 2007)",
+        "ObjectID": "142587",
+        "Work": "https://www.moma.org/collection/works/142587",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ3NDE4OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b1362d91c24cb166",
+        "Details": {
+            "Medium": "Painted bronze, and belt",
+            "Dimensions": "6 x 15 x 44\" (15.2 x 38.1 x 111.8 cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "1046.2010",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/25182"
+    },
+    {
+        "Artist": "Robert Mangold",
+        "Title": "The Nonconformist's Memorial",
+        "Year": "1992",
+        "ObjectID": "10569",
+        "Work": "https://www.moma.org/collection/works/10569",
+        "Thumbnail": null,
+        "Details": {
+            "Author": "Susan Howe",
+            "Medium": "Illustrated Book with 6 woodcuts",
+            "Dimensions": "page  13 5/16 x 9 1/16\" (33 x 23 cm)\r\nPrints:  various dimensions.",
+            "Publisher": "The Grenfell Press, New York",
+            "Printer": "The Grenfell Press, New York",
+            "Edition": "83 (65 numbered 1-65; 18 numbered I-XVIII with supplementary woodcut and bound in vellum)",
+            "Credit": "John B. Turner Fund",
+            "Object number": "35.1993.1-6",
+            "Copyright": "\u00a9 2023 Robert Mangold/Artists Rights Society (ARS), New York",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3723"
+    },
+    {
+        "Artist": "Robert Mangold",
+        "Title": "Untitled",
+        "Year": "1992",
+        "ObjectID": "96596",
+        "Work": "https://www.moma.org/collection/works/96596",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5OTA2NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b3981a7dc117aa21",
+        "Details": {
+            "Medium": "Synthetic polymer paint and pencil on four pieces of paper",
+            "Dimensions": "Each: 41 x 29 1/2\" (104.1 x 74.9 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift. Given in honor of Mrs. June Noble Larkin",
+            "Object number": "2315.2005.a-d",
+            "Copyright": "\u00a9 2023 Robert Mangold/Artists Rights Society (ARS), New York",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3723"
+    },
+    {
+        "Artist": "Scott Marble, Karen Fairbanks",
+        "Title": "Nara Convention Hall Project, Nara, Japan, Competition drawing: east elevation and cross-sections of large and medium halls",
+        "Year": "1992",
+        "ObjectID": "468",
+        "Work": "https://www.moma.org/collection/works/468",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyNzYyOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a6c80484707f70a6",
+        "Details": {
+            "Medium": "Computer-generated print with Pantone adhesive",
+            "Dimensions": "28 x 36\" (71.1 x 91.4 cm)",
+            "Credit": "Gift of the architects in honor of Lily Auchincloss",
+            "Object number": "384.1994",
+            "Copyright": "\u00a9 2023 Scott Marble and Karen Fairbanks",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7419"
+    },
+    {
+        "Artist": "Paul Marcus",
+        "Title": "Time Running Out",
+        "Year": "1992",
+        "ObjectID": "65833",
+        "Work": "https://www.moma.org/collection/works/65833",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNzc0MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3a216f3b15bffeaa",
+        "Details": {
+            "Medium": "Etching",
+            "Credit": "Purchase",
+            "Object number": "275.1992",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6860"
+    },
+    {
+        "Artist": "Enzo Mari",
+        "Title": "Flores Box",
+        "Year": "1991",
+        "ObjectID": "2983",
+        "Work": "https://www.moma.org/collection/works/2983",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMDg1MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6007cb741741b603",
+        "Details": {
+            "Manufacturer": "Danese S.r.l., Italy",
+            "Medium": "Thermoplastic polymer",
+            "Dimensions": "3 x 12 1/4 x 6\" (7.6 x 31.1 x 15.2 cm)",
+            "Credit": "Gift of the manufacturer",
+            "Object number": "241.1998",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/3766"
+    },
+    {
+        "Artist": "Maria Martinez-Canas",
+        "Title": "Black Totem 15",
+        "Year": "1992",
+        "ObjectID": "50677",
+        "Work": "https://www.moma.org/collection/works/50677",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzOTk2NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=80e2f1d603fe2b44",
+        "Details": {
+            "Medium": "Gelatin silver print (photomontage)",
+            "Dimensions": "53 5/8 \u00d7 9 1/2\" (136.2 \u00d7 24.1 cm)",
+            "Credit": "John Parkinson III Fund",
+            "Object number": "319.1997",
+            "Copyright": "\u00a9 2023 Maria Martinez-Ca\u00f1as",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/8597"
+    },
+    {
+        "Artist": "Gregory Masurovsky",
+        "Title": "Ange de la Baie",
+        "Year": "(1992)",
+        "ObjectID": "10589",
+        "Work": "https://www.moma.org/collection/works/10589",
+        "Thumbnail": null,
+        "Details": {
+            "Author": "Michael Butor",
+            "Medium": "Illustrated Book of 3 etchings",
+            "Dimensions": "page  5 1/2 x 7 1/2\" (13 x 19 cm)\r\nPrints:  various dimensions.",
+            "Publisher": "Jacques Matarasso, Nice",
+            "Printer": "Atelier Georges Leblanc, Paris",
+            "Edition": "66 (48 numbered 1-48; 12 numbered I-XII; 6 H.C.)",
+            "Credit": "Gift of the artist",
+            "Object number": "36.1993.1-3",
+            "Copyright": "\u00a9 2023 Gregory Masurovsky / Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3825"
+    },
+    {
+        "Artist": "Paul McCarthy",
+        "Title": "Sketchbook \"Heidi\"",
+        "Year": "1992",
+        "ObjectID": "10827",
+        "Work": "https://www.moma.org/collection/works/10827",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjk3NjMwIl0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNTEyeDUxMlx1MDAzZSJdXQ.jpg?sha=6297020a7825e83d",
+        "Details": {
+            "Medium": "Illustrated book with nine screenprints",
+            "Dimensions": "page: 22 1/16 x 14 15/16\" (56 x 37.9 cm)",
+            "Publisher": "Edition Krinzinger Verlags GMBH, Vienna",
+            "Credit": "John B. Turner Fund",
+            "Object number": "54.1999.1-9",
+            "Copyright": "\u00a9 2023 Paul McCarthy",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/7637"
+    },
+    {
+        "Artist": "Paul McCarthy, Mike Kelley",
+        "Title": "Heidi",
+        "Year": "1992",
+        "ObjectID": "107644",
+        "Work": "https://www.moma.org/collection/works/107644",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1MTYyMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=00054adc76e0c818",
         "Details": {
             "Medium": "Video (color, sound)",
-            "Duration": "26 min.",
-            "Credit": "The Modern Women's Fund",
-            "Object number": "571.2012",
-            "Copyright": "\u00a9 2023 Lynn Hershman Leeson",
-            "Department": "Media and Performance"
-        },
-        "Profile": "https://www.moma.org/artists/39696"
-    },
-    {
-        "Artist": "Gary Hill",
-        "Title": "Inasmuch As It Is Always Already Taking Place",
-        "Year": "1990",
-        "ObjectID": "81321",
-        "Work": "https://www.moma.org/collection/works/81321",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyNzUxOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6e690f524618d669",
-        "Details": {
-            "Medium": "Sixteen-channel video (black and white, sound), sixteen black and white TV tubes and wires",
-            "Dimensions": "Recessed in a wall 42\" (106.7 cm) from the floor, overall 16 x 53 3/4 x 68\" (40.6 x 136.5 x 172.7  cm).",
-            "Credit": "Gift of Agnes Gund, Marcia Riklis, Barbara Wise, Margot Ernst and purchase",
-            "Object number": "297.1997",
-            "Copyright": "\u00a9 1990 Gary Hill",
-            "Department": "Media and Performance"
-        },
-        "Profile": "https://www.moma.org/artists/7416"
-    },
-    {
-        "Artist": "Michael Hurson",
-        "Title": "Canis (plate, folio 63 verso) from A Bestiary",
-        "Year": "1990",
-        "ObjectID": "10098",
-        "Work": "https://www.moma.org/collection/works/10098",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ4OTQwNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fea9536d7cf129ba",
-        "Details": {
-            "Author": "Bradford Morrow",
-            "Medium": "Linoleum cut from an illustrated book with twenty-nine linoleum cuts (two with pochoir and two with letterpress) and seven woodcuts",
-            "Dimensions": "composition (irreg.): 4 3/8 \u00d7 5 9/16\" (11.1 \u00d7 14.2 cm); page: 14 13/16 \u00d7 10 13/16\" (37.6 \u00d7 27.5 cm)",
-            "Publisher": "The Grenfell Press, New York",
-            "Printer": "The Grenfell Press, New York",
-            "Edition": "100",
-            "Credit": "Abby Aldrich Rockefeller Fund",
-            "Object number": "29.1991.28",
-            "Illustrated book": "A Bestiary",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/2775"
-    },
-    {
-        "Artist": "Michael Hurson",
-        "Title": "Frog (plate, folio 21 verso) from A Bestiary",
-        "Year": "1990",
-        "ObjectID": "10111",
-        "Work": "https://www.moma.org/collection/works/10111",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ4OTQxOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6883bc5286e36d66",
-        "Details": {
-            "Author": "Bradford Morrow",
-            "Medium": "Linoleum cut from an illustrated book with twenty-nine linoleum cuts (two with pochoir and two with letterpress) and seven woodcuts",
-            "Dimensions": "composition (irreg.): 3 7/8 \u00d7 4 1/4\" (9.9 \u00d7 10.8 cm); page: 14 13/16 \u00d7 10 13/16\" (37.6 \u00d7 27.5 cm)",
-            "Publisher": "The Grenfell Press, New York",
-            "Printer": "The Grenfell Press, New York",
-            "Edition": "100",
-            "Credit": "Abby Aldrich Rockefeller Fund",
-            "Object number": "29.1991.7",
-            "Illustrated book": "A Bestiary",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/2775"
-    },
-    {
-        "Artist": "Richard Hutten",
-        "Title": "Table Chair",
-        "Year": "1990",
-        "ObjectID": "113408",
-        "Work": "https://www.moma.org/collection/works/113408",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1Nzk4NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c181b4b8ee125e5e",
-        "Details": {
-            "Manufacturer": "Droog Design, the Netherlands",
-            "Medium": "Maple and MDF",
-            "Dimensions": "29 1/2 x 23 5/8 x 22 13/16\" (75 x 60 x 58 cm)",
-            "Credit": "Gift of Jan Christiaan Braun in honor of Ronald S. Lauder",
-            "Object number": "22.2008.a-b",
-            "Copyright": "\u00a9 2023 Richard Hutten",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/34174"
-    },
-    {
-        "Artist": "Shoichi Ida",
-        "Title": "Blue Swan in Well - Locus Sutra No. 6",
-        "Year": "1990",
-        "ObjectID": "65310",
-        "Work": "https://www.moma.org/collection/works/65310",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMzI2MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a1d77ce6968d88cc",
-        "Details": {
-            "Medium": "Drypoint and etching with chine coll\u00e9",
-            "Dimensions": "plate: 17 7/8 x 17 13/16\" (45.4 x 45.2 cm); sheet: 27 3/16 x 22 3/8\" (69 x 56.8 cm)",
-            "Publisher": "Yoh Graphics, Yoh Art Gallery, Osaka",
-            "Edition": "30",
-            "Credit": "Gift of Yoh Art Gallery",
-            "Object number": "253.1991",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/2795"
-    },
-    {
-        "Artist": "Robert Indiana",
-        "Title": "KvF IV from The Hartley Elegies: The Berlin Series",
-        "Year": "1990",
-        "ObjectID": "68762",
-        "Work": "https://www.moma.org/collection/works/68762",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwNjI2MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8d3ac07e7d4077b7",
-        "Details": {
-            "Medium": "Screenprint",
+            "Duration": "62:40 min.",
             "Credit": "Purchase",
-            "Object number": "417.1990",
-            "Copyright": "\u00a9 2023 Morgan Art Foundation Ltd. / Artists Rights Society (ARS), New York",
-            "Department": "Drawings and Prints"
+            "Object number": "1337.1999",
+            "Copyright": "\u00a9 2023 Paul McCarthy. Courtesy Electronic Arts Intermix (EAI), New York",
+            "Department": "Media and Performance"
         },
-        "Profile": "https://www.moma.org/artists/2812"
+        "Profile": "https://www.moma.org/artists/7637"
     },
     {
-        "Artist": "Kamala Ibrahim Ishag",
+        "Artist": "Ann McCoy",
+        "Title": "The Four Alchemical Doors",
+        "Year": "1992",
+        "ObjectID": "65848",
+        "Work": "https://www.moma.org/collection/works/65848",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Series of four lithographs with gold, silver and copper leaf additions",
+            "Credit": "John B. Turner Fund",
+            "Object number": "276.1992.1-4",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3875"
+    },
+    {
+        "Artist": "Cildo Meireles",
+        "Title": "Fontes",
+        "Year": "(1992)",
+        "ObjectID": "69011",
+        "Work": "https://www.moma.org/collection/works/69011",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Multiple of four wood rulers",
+            "Dimensions": "Composition (each extend): 9/16 x 78 3/4\" (1.5 x 200 cm)\r\nEach (extend composition): 1/4\" (0.6 cm)\r\nComposition (each folded): 9/16 x 8 1/8\" (1.5 x 20.7 cm)\r\nEach (folded composition): 1 9/16\" (4 cm)",
+            "Credit": "Gift of Paulo Herkenhoff in memory of Alfredo Fontes",
+            "Object number": "430.1999.1-4",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/7007"
+    },
+    {
+        "Artist": "Cildo Meireles",
+        "Title": "Glove-Trotter",
+        "Year": "1992",
+        "ObjectID": "103172",
+        "Work": "https://www.moma.org/collection/works/103172",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEwNjYyMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b562892070d05ee8",
+        "Details": {
+            "Medium": "Pencil and felt-tip pen on transparentized paper",
+            "Dimensions": "8 1/4 x 11 5/8\" (21 x 29.5 cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "591.2006",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/7007"
+    },
+    {
+        "Artist": "Stephen R. Milanowski",
+        "Title": "The Bikers' Blessing, Baldwin, Michigan",
+        "Year": "1992",
+        "ObjectID": "45746",
+        "Work": "https://www.moma.org/collection/works/45746",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMzUzMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fb980d167a04d400",
+        "Details": {
+            "Medium": "Silver dye bleach print",
+            "Dimensions": "18 9/16 \u00d7 15\" (47.1 \u00d7 38.1 cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "76.1993",
+            "Copyright": "\u00a9 2023 Stephen R. Milanowski",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/3976"
+    },
+    {
+        "Artist": "Richard Misrach",
+        "Title": "Outdoor Dining, Bonneville Salt Flats, Utah",
+        "Year": "1992",
+        "ObjectID": "185923",
+        "Work": "https://www.moma.org/collection/works/185923",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMxMTgzNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=356828ff40dbcbb1",
+        "Details": {
+            "Medium": "Inkjet print, printed 2014",
+            "Dimensions": "18 3/16 \u00d7 23 3/16\" (46.2 \u00d7 58.9 cm)",
+            "Credit": "Committee on Photography Fund",
+            "Object number": "951.2014",
+            "Copyright": "\u00a9 2023 Richard Misrach",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/4022"
+    },
+    {
+        "Artist": "Joan Mitchell",
+        "Title": "In-text plate (folio 2) from Poems",
+        "Year": "1992",
+        "ObjectID": "10613",
+        "Work": "https://www.moma.org/collection/works/10613",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ0NzEwNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=13cbc10a4d6fb2d5",
+        "Details": {
+            "Author": "Nathan Kernan",
+            "Medium": "Lithograph from an illustrated book with eight lithographs",
+            "Dimensions": "composition (irreg.): 15 11/16 \u00d7 11 1/8\" (39.8 \u00d7 28.2 cm); page: 18 7/8 \u00d7 14 1/8\" (48 \u00d7 35.9 cm)",
+            "Publisher": "Tyler Graphics Ltd., Mount Kisco, NY",
+            "Printer": "Tyler Graphics Ltd., Mount Kisco, NY",
+            "Edition": "76",
+            "Credit": "Gift of Tyler Graphics in memory of Joan Mitchell",
+            "Object number": "37.1993.1",
+            "Copyright": "\u00a9 Estate of Joan Mitchell",
+            "Illustrated book": "Poems",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4026"
+    },
+    {
+        "Artist": "Joan Mitchell",
+        "Title": "Poems",
+        "Year": "1992",
+        "ObjectID": "10614",
+        "Work": "https://www.moma.org/collection/works/10614",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ0NzEwOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b296f7ad8e727241",
+        "Details": {
+            "Author": "Nathan Kernan",
+            "Medium": "Illustrated book with eight lithographs",
+            "Dimensions": "composition (see child records): dimensions vary; page (each): 18 7/8 \u00d7 14 1/8\" (48 \u00d7 35.9 cm)",
+            "Publisher": "Tyler Graphics Ltd., Mount Kisco, NY",
+            "Printer": "Tyler Graphics Ltd., Mount Kisco, NY",
+            "Edition": "76",
+            "Credit": "Gift of Tyler Graphics in memory of Joan Mitchell",
+            "Object number": "37.1993.1-8",
+            "Copyright": "\u00a9 Estate of Joan Mitchell",
+            "Type": "Illustrated Book",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4026"
+    },
+    {
+        "Artist": "Joan Mitchell",
+        "Title": "In-text plate (folio 3) from Poems",
+        "Year": "1992",
+        "ObjectID": "10615",
+        "Work": "https://www.moma.org/collection/works/10615",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ0NzEwOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=dd007ae067232b8f",
+        "Details": {
+            "Author": "Nathan Kernan",
+            "Medium": "Lithograph from an illustrated book with eight lithographs",
+            "Dimensions": "composition (irreg.): 17 \u00d7 13 15/16\" (43.2 \u00d7 35.4 cm); page: 18 7/8 \u00d7 14 1/8\" (48 \u00d7 35.9 cm)",
+            "Publisher": "Tyler Graphics Ltd., Mount Kisco, NY",
+            "Printer": "Tyler Graphics Ltd., Mount Kisco, NY",
+            "Edition": "76",
+            "Credit": "Gift of Tyler Graphics in memory of Joan Mitchell",
+            "Object number": "37.1993.2",
+            "Copyright": "\u00a9 Estate of Joan Mitchell",
+            "Illustrated book": "Poems",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4026"
+    },
+    {
+        "Artist": "Joan Mitchell",
+        "Title": "In-text plate (folio 4) from Poems",
+        "Year": "1992",
+        "ObjectID": "10616",
+        "Work": "https://www.moma.org/collection/works/10616",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ0NzExMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9b14159545d9248d",
+        "Details": {
+            "Author": "Nathan Kernan",
+            "Medium": "Lithograph from an illustrated book with eight lithographs",
+            "Dimensions": "composition (irreg.): 16 \u00d7 12 3/16\" (40.6 \u00d7 31 cm); page: 18 7/8 \u00d7 14 1/8\" (48 \u00d7 35.9 cm)",
+            "Publisher": "Tyler Graphics Ltd., Mount Kisco, NY",
+            "Printer": "Tyler Graphics Ltd., Mount Kisco, NY",
+            "Edition": "76",
+            "Credit": "Gift of Tyler Graphics in memory of Joan Mitchell",
+            "Object number": "37.1993.3",
+            "Copyright": "\u00a9 Estate of Joan Mitchell",
+            "Illustrated book": "Poems",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4026"
+    },
+    {
+        "Artist": "Joan Mitchell",
+        "Title": "Double page in-text plate (folios 5 verso and 6) from Poems",
+        "Year": "1992",
+        "ObjectID": "10617",
+        "Work": "https://www.moma.org/collection/works/10617",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ0NzExMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e26f9577fa276201",
+        "Details": {
+            "Author": "Nathan Kernan",
+            "Medium": "Lithograph from an illustrated book with eight lithographs",
+            "Dimensions": "composition (irreg.): 17 1/8 \u00d7 24 3/16\" (43.5 \u00d7 61.5 cm); page: 17 1/8 \u00d7 28 1/4\" (43.5 \u00d7 71.8 cm)",
+            "Publisher": "Tyler Graphics Ltd., Mount Kisco, NY",
+            "Printer": "Tyler Graphics Ltd., Mount Kisco, NY",
+            "Edition": "76",
+            "Credit": "Gift of Tyler Graphics in memory of Joan Mitchell",
+            "Object number": "37.1993.4",
+            "Copyright": "\u00a9 Estate of Joan Mitchell",
+            "Illustrated book": "Poems",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4026"
+    },
+    {
+        "Artist": "Joan Mitchell",
+        "Title": "Double page in-text plate (folios 7 verso and 8) from Poems",
+        "Year": "1992",
+        "ObjectID": "10618",
+        "Work": "https://www.moma.org/collection/works/10618",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ0NzExMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0e5755bb4805c99b",
+        "Details": {
+            "Author": "Nathan Kernan",
+            "Medium": "Lithograph from an illustrated book with eight lithographs",
+            "Dimensions": "composition (irreg.): 16 5/8 \u00d7 26 1/8\" (42.3 \u00d7 66.3 cm); page: 18 7/8 \u00d7 28 1/4\" (48 \u00d7 71.8 cm)",
+            "Publisher": "Tyler Graphics Ltd., Mount Kisco, NY",
+            "Printer": "Tyler Graphics Ltd., Mount Kisco, NY",
+            "Edition": "76",
+            "Credit": "Gift of Tyler Graphics in memory of Joan Mitchell",
+            "Object number": "37.1993.5",
+            "Copyright": "\u00a9 Estate of Joan Mitchell",
+            "Illustrated book": "Poems",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4026"
+    },
+    {
+        "Artist": "Joan Mitchell",
+        "Title": "In-text plate (folio 9) from Bridge",
+        "Year": "1992",
+        "ObjectID": "10619",
+        "Work": "https://www.moma.org/collection/works/10619",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ0NzExMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=607ab3a1236529ca",
+        "Details": {
+            "Author": "Nathan Kernan",
+            "Medium": "Lithograph from an illustrated book with eight lithographs",
+            "Dimensions": "composition (irreg.): 15 9/16 \u00d7 12\" (39.5 \u00d7 30.5 cm); page: 18 7/8 \u00d7 14 1/8\" (48 \u00d7 35.9 cm)",
+            "Publisher": "Tyler Graphics Ltd., Mount Kisco, NY",
+            "Printer": "Tyler Graphics Ltd., Mount Kisco, NY",
+            "Edition": "76",
+            "Credit": "Gift of Tyler Graphics in memory of Joan Mitchell",
+            "Object number": "37.1993.6",
+            "Copyright": "\u00a9 Estate of Joan Mitchell",
+            "Illustrated book": "Poems",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4026"
+    },
+    {
+        "Artist": "Joan Mitchell",
+        "Title": "In-text plate (folio 10) from Poems",
+        "Year": "1992",
+        "ObjectID": "10620",
+        "Work": "https://www.moma.org/collection/works/10620",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ0NzExNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=46416ffc5904e2d6",
+        "Details": {
+            "Author": "Nathan Kernan",
+            "Medium": "Lithograph from an illustrated book with eight lithographs",
+            "Dimensions": "composition (irreg.): 16 1/4 \u00d7 13 3/16\" (41.3 \u00d7 33.5 cm); page: 18 7/8 \u00d7 14 1/8\" (48 \u00d7 35.9 cm)",
+            "Publisher": "Tyler Graphics Ltd., Mount Kisco, NY",
+            "Printer": "Tyler Graphics Ltd., Mount Kisco, NY",
+            "Edition": "76",
+            "Credit": "Gift of Tyler Graphics in memory of Joan Mitchell",
+            "Object number": "37.1993.7",
+            "Copyright": "\u00a9 Estate of Joan Mitchell",
+            "Illustrated book": "Poems",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4026"
+    },
+    {
+        "Artist": "Joan Mitchell",
+        "Title": "In-text plate (folio 11) from Poems",
+        "Year": "1992",
+        "ObjectID": "10621",
+        "Work": "https://www.moma.org/collection/works/10621",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ0NzExNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=48c9ed899852b4e6",
+        "Details": {
+            "Author": "Nathan Kernan",
+            "Medium": "Lithograph from an illustrated book with eight lithographs",
+            "Dimensions": "composition (irreg.): 16 5/8 \u00d7 13\" (42.2 \u00d7 33 cm); page: 18 7/8 \u00d7 14 1/8\" (48 \u00d7 35.9 cm)",
+            "Publisher": "Tyler Graphics Ltd., Mount Kisco, NY",
+            "Printer": "Tyler Graphics Ltd., Mount Kisco, NY",
+            "Edition": "76",
+            "Credit": "Gift of Tyler Graphics in memory of Joan Mitchell",
+            "Object number": "37.1993.8",
+            "Copyright": "\u00a9 Estate of Joan Mitchell",
+            "Illustrated book": "Poems",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4026"
+    },
+    {
+        "Artist": "Joan Mitchell",
         "Title": "Untitled",
-        "Year": "1980/1990",
-        "ObjectID": "417637",
-        "Work": "https://www.moma.org/collection/works/417637",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzNzM0MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=291faa22cab1431d",
+        "Year": "1992",
+        "ObjectID": "33756",
+        "Work": "https://www.moma.org/collection/works/33756",
+        "Thumbnail": null,
         "Details": {
-            "Medium": "Oil on canvas",
-            "Dimensions": "70 7/8 \u00d7 69 11/16\" (180 \u00d7 177 cm)",
-            "Credit": "Gift of Marie-Jos\u00e9e and Henry R. Kravis in honor of Jean Pigozzi",
-            "Object number": "51.2021",
-            "Copyright": "\u00a9 Kamala Ibrahim Ishag",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/132947"
-    },
-    {
-        "Artist": "Arata Isozaki",
-        "Title": "Incubation Process, Perspective",
-        "Year": "1990",
-        "ObjectID": "104691",
-        "Work": "https://www.moma.org/collection/works/104691",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyNzU5MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f3599e3fd949fc32",
-        "Details": {
-            "Medium": "1990 Silkscreen (of 1962 drawing)",
-            "Dimensions": "41 x 34 3/8\" (104.1 x 87.3 cm)",
-            "Credit": "Gift of the architect in honor of Philip Johnson",
-            "Object number": "358.1996",
-            "Copyright": "\u00a9 2023 Arata Isozaki",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/2837"
-    },
-    {
-        "Artist": "Bill Jensen",
-        "Title": "For Alice, Too",
-        "Year": "1990",
-        "ObjectID": "59791",
-        "Work": "https://www.moma.org/collection/works/59791",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNTQ3OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=135367a5de9a37fc",
-        "Details": {
-            "Medium": "Etching and aquatint",
-            "Dimensions": "plate: 13 7/16 x 13 7/8\" (34.2 x 35.2 cm); sheet: 20 7/8 x 20 13/16\" (53 x 52.9 cm)",
-            "Publisher": "Universal Limited Art Editions, West Islip, New York",
-            "Printer": "Universal Limited Art Editions, West Islip, New York",
-            "Edition": "51",
-            "Credit": "Gift of Emily Fisher Landau",
-            "Object number": "9.1991",
-            "Copyright": "\u00a9 2023 Bill Jensen",
+            "Medium": "Pastel on paper",
+            "Dimensions": "29 1/2 x 21 3/4\" (75 x 55.2 cm)",
+            "Credit": "Purchased with funds provided by Marie-Jos\u00e9e and Henry R. Kravis",
+            "Object number": "85.1996",
+            "Copyright": "\u00a9 Estate of Joan Mitchell",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/2907"
+        "Profile": "https://www.moma.org/artists/4026"
     },
     {
-        "Artist": "Jasper Johns",
-        "Title": "The Seasons",
-        "Year": "1990",
-        "ObjectID": "64042",
-        "Work": "https://www.moma.org/collection/works/64042",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMjE0OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=50b4f4d8f5279342",
+        "Artist": "Tatsuo Miyajima",
+        "Title": "Drawing for Opposite Circle",
+        "Year": "1992",
+        "ObjectID": "90712",
+        "Work": "https://www.moma.org/collection/works/90712",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4MzQzMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f34e47c511847cf3",
         "Details": {
-            "Medium": "Aquatint and etching",
-            "Dimensions": "composition (irreg.): 43 3/8 x 38 5/8\" (110.1 x 98.1 cm); sheet: 50 x 44 9/16\" (127 x 113.2 cm)",
-            "Publisher": "Universal Limited Art Editions, West Islip, New York",
-            "Printer": "Universal Limited Art Editions, West Islip, New York",
-            "Edition": "50",
-            "Credit": "Gift of Emily Fisher Landau",
-            "Object number": "188.1990",
-            "Copyright": "\u00a9 2023 Jasper Johns / Licensed by VAGA at Artists Rights Society (ARS), NY",
+            "Medium": "Ink and collage on paper",
+            "Dimensions": "12 1/4 x 17 3/4\" (31.1 x 45.1 cm)",
+            "Credit": "Gift of Sarah-Ann and Werner H. Kramarsky",
+            "Object number": "138.2004",
+            "Copyright": "\u00a9 2023 Tatsuo Miyajima",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/2923"
-    },
-    {
-        "Artist": "Jasper Johns",
-        "Title": "Ventriloquist",
-        "Year": "1985, published 1990",
-        "ObjectID": "68773",
-        "Work": "https://www.moma.org/collection/works/68773",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwMzMwOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=92d16cdfa4b8d703",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "composition (irreg.): 32 7/8 x 22 1/16\" (83.5 x 56 cm); sheet (irreg.): 39 3/4 x 27\" (101 x 68.6 cm)",
-            "Publisher": "Universal Limited Art Editions, West Islip, New York",
-            "Printer": "Universal Limited Art Editions, West Islip, New York",
-            "Edition": "70",
-            "Credit": "Gift of Emily Fisher Landau",
-            "Object number": "418.1990",
-            "Copyright": "\u00a9 2023 Jasper Johns / Licensed by VAGA at Artists Rights Society (ARS), NY",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/2923"
-    },
-    {
-        "Artist": "Jasper Johns",
-        "Title": "Untitled",
-        "Year": "1990",
-        "ObjectID": "84115",
-        "Work": "https://www.moma.org/collection/works/84115",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNDYwOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f4b0b37c28de3be1",
-        "Details": {
-            "Medium": "Watercolor on paper",
-            "Dimensions": "38 5/8 x 25 3/8\" (98.1 x 64.5 cm)",
-            "Credit": "Gift of UBS",
-            "Object number": "116.2002",
-            "Copyright": "\u00a9 2023 Jasper Johns / Licensed by VAGA at Artists Rights Society (ARS), NY",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/2923"
-    },
-    {
-        "Artist": "Jasper Johns",
-        "Title": "Untitled",
-        "Year": "1990",
-        "ObjectID": "163833",
-        "Work": "https://www.moma.org/collection/works/163833",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQwMDg4NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9cc62a824b9c6644",
-        "Details": {
-            "Medium": "Oil on canvas",
-            "Dimensions": "75 x 50\" (190.5 x 127 cm)",
-            "Credit": "Promised gift of Glenn and Eva Dubin",
-            "Object number": "PG1180.2012",
-            "Copyright": "\u00a9 2023 Jasper Johns / Licensed by VAGA, New York, NY",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/2923"
-    },
-    {
-        "Artist": "Donald Judd",
-        "Title": "Untitled",
-        "Year": "1990",
-        "ObjectID": "63086",
-        "Work": "https://www.moma.org/collection/works/63086",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ1OTU0NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=855469d2af753676",
-        "Details": {
-            "Medium": "Woodcut and stencil",
-            "Dimensions": "composition and sheet: 23 1/2 \u00d7 31 7/16\" (59.7 \u00d7 79.8 cm)",
-            "Publisher": "Brooke Alexander, Inc., New York",
-            "Printer": "Derriere L'Etoile Studios, New York",
-            "Edition": "artist's proof before the edition of 25",
-            "Credit": "Gift of Brooke and Carolyn Alexander",
-            "Object number": "156.1994",
-            "Copyright": "\u00a9 2023 Judd Foundation / Artists Rights Society (ARS), New York",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/2948"
-    },
-    {
-        "Artist": "Donald Judd",
-        "Title": "Untitled",
-        "Year": "1990",
-        "ObjectID": "63099",
-        "Work": "https://www.moma.org/collection/works/63099",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ1OTU0NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4910c8253cd5f79e",
-        "Details": {
-            "Medium": "Woodcut and stencil",
-            "Dimensions": "composition: 15 11/16 \u00d7 31 7/16\" (39.8 \u00d7 79.8 cm); sheet: 23 9/16 \u00d7 31 7/16\" (59.9 \u00d7 79.8 cm)",
-            "Publisher": "Brooke Alexander, Inc., New York",
-            "Printer": "Derriere L'Etoile Studios, New York",
-            "Edition": "artist's proof before the edition of 25",
-            "Credit": "Gift of Brooke and Carolyn Alexander",
-            "Object number": "157.1994",
-            "Copyright": "\u00a9 2023 Judd Foundation / Artists Rights Society (ARS), New York",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/2948"
-    },
-    {
-        "Artist": "Ilya Kabakov",
-        "Title": "Scene 1 (plate, folio 6) from The Dream of Abu-Said and Wind",
-        "Year": "1957-1990",
-        "ObjectID": "14631",
-        "Work": "https://www.moma.org/collection/works/14631",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMDcxMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=72e00a1f7284d054",
-        "Details": {
-            "Medium": "Linoleum cut, printed in color, with blue pencil additions",
-            "Dimensions": "irreg. composition  7 x 3 3/4\" (17.8 x 9.5 cm)",
-            "Credit": "Gift of Emilia Kanevsky and the artist",
-            "Object number": "289.1991.1",
-            "Copyright": "\u00a9 2023 Ilya Kabakov",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/6633"
-    },
-    {
-        "Artist": "Ilya Kabakov",
-        "Title": "The Dream of Abu-Said and Wind",
-        "Year": "(Mosow?, the artist), 1990.  (Prints executed 1957; pencil additions  1976-1990)",
-        "ObjectID": "14632",
-        "Work": "https://www.moma.org/collection/works/14632",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMDYyNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=65ba8b1b95336e71",
-        "Details": {
-            "Author": "Ilya Kabakov",
-            "Medium": "Illustrated book with thirty-nine linoleum cuts, thirty-eight with pencil additions, and two ink and pencil drawings",
-            "Dimensions": "each sheet  8 5/8 x 6 1/4\" (21.9 x 15.8 cm)\r\npage  20 1/4 x 13 3/4\" (51 x 35 cm)\r\nPrints: various dimensions.",
-            "Edition": "3",
-            "Credit": "Gift of Emilia Kanevsky and the artist",
-            "Object number": "289.1991.1-41",
-            "Copyright": "\u00a9 2023 Ilya Kabakov",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/6633"
-    },
-    {
-        "Artist": "Ilya Kabakov",
-        "Title": "Scene 10 (plate, folio 33) from The Dream of Abu-Said and Wind",
-        "Year": "1957-1990",
-        "ObjectID": "14633",
-        "Work": "https://www.moma.org/collection/works/14633",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMDcxMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=57b00ebd6667f340",
-        "Details": {
-            "Medium": "Linoleum cut, printed in color, with blue and black pencil additions",
-            "Dimensions": "irreg. composition  7 x 3 3/4\" (17.8 x 9.5 cm)",
-            "Credit": "Gift of Emilia Kanevsky and the artist",
-            "Object number": "289.1991.10",
-            "Copyright": "\u00a9 2023 Ilya Kabakov",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/6633"
-    },
-    {
-        "Artist": "Ilya Kabakov",
-        "Title": "Scene 11 (plate, folio 36) from The Dream of Abu-Said and Wind",
-        "Year": "1957-1990",
-        "ObjectID": "14634",
-        "Work": "https://www.moma.org/collection/works/14634",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMDcxNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fd4f9e928db653f9",
-        "Details": {
-            "Medium": "Linoleum cut, printed in color, with blue and black pencil additions",
-            "Dimensions": "irreg. composition  7 x 3 3/4\" (17.8 x 9.5 cm)",
-            "Credit": "Gift of Emilia Kanevsky and the artist",
-            "Object number": "289.1991.11",
-            "Copyright": "\u00a9 2023 Ilya Kabakov",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/6633"
-    },
-    {
-        "Artist": "Ilya Kabakov",
-        "Title": "Scene 12 (plate, folio 39) from The Dream of Abu-Said and Wind",
-        "Year": "1957-1990",
-        "ObjectID": "14635",
-        "Work": "https://www.moma.org/collection/works/14635",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMDcxNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=179e97e643038db9",
-        "Details": {
-            "Medium": "Linoleum cut, printed in color, with blue and black pencil additions",
-            "Dimensions": "irreg. composition  7 x 3 3/4\" (17.8 x 9.5 cm)",
-            "Credit": "Gift of Emilia Kanevsky and the artist",
-            "Object number": "289.1991.12",
-            "Copyright": "\u00a9 2023 Ilya Kabakov",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/6633"
-    },
-    {
-        "Artist": "Ilya Kabakov",
-        "Title": "Scene 13 (plate, folio 42) from The Dream of Abu-Said and Wind",
-        "Year": "1957-1990",
-        "ObjectID": "14636",
-        "Work": "https://www.moma.org/collection/works/14636",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMDYyNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=25211542a266272e",
-        "Details": {
-            "Medium": "Linoleum cut, printed in color, with blue and black pencil additions",
-            "Dimensions": "irreg. composition  7 x 3 7/8\" (17.8 x 9.8 cm)",
-            "Credit": "Gift of Emilia Kanevsky and the artist",
-            "Object number": "289.1991.13",
-            "Copyright": "\u00a9 2023 Ilya Kabakov",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/6633"
-    },
-    {
-        "Artist": "Ilya Kabakov",
-        "Title": "Scene 14 (plate, folio 45) from The Dream of Abu-Said and Wind",
-        "Year": "1957-1990",
-        "ObjectID": "14637",
-        "Work": "https://www.moma.org/collection/works/14637",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMDYyNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=23dc1c86dbb4e3be",
-        "Details": {
-            "Medium": "Linoleum cut, printed in color, with blue and black pencil additions",
-            "Dimensions": "irreg. composition  7 x 4 3/8\" (17.8 x 11.2 cm)",
-            "Credit": "Gift of Emilia Kanevsky and the artist",
-            "Object number": "289.1991.14",
-            "Copyright": "\u00a9 2023 Ilya Kabakov",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/6633"
-    },
-    {
-        "Artist": "Ilya Kabakov",
-        "Title": "Scene 15 (plate, folio 48) from The Dream of Abu-Said and Wind",
-        "Year": "1957-1990",
-        "ObjectID": "14638",
-        "Work": "https://www.moma.org/collection/works/14638",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMDYyOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6651ccad6371e08f",
-        "Details": {
-            "Medium": "Linoleum cut, printed in color, with blue and black pencil additions",
-            "Dimensions": "irreg. composition  7 x 4 3/8\" (17.8 x 11.2 cm)",
-            "Credit": "Gift of Emilia Kanevsky and the artist",
-            "Object number": "289.1991.15",
-            "Copyright": "\u00a9 2023 Ilya Kabakov",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/6633"
-    },
-    {
-        "Artist": "Ilya Kabakov",
-        "Title": "Scene 16 (plate, folio 51) from The Dream of Abu-Said and Wind",
-        "Year": "1957-1990",
-        "ObjectID": "14639",
-        "Work": "https://www.moma.org/collection/works/14639",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMDYyOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b9a2d4d7b15bd23f",
-        "Details": {
-            "Medium": "Linoleum cut, printed in color, with blue and black pencil additions",
-            "Dimensions": "irreg. composition  7 x 4 1/2\" (17.8 x 11.4 cm)",
-            "Credit": "Gift of Emilia Kanevsky and the artist",
-            "Object number": "289.1991.16",
-            "Copyright": "\u00a9 2023 Ilya Kabakov",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/6633"
-    },
-    {
-        "Artist": "Ilya Kabakov",
-        "Title": "Scene 17 (plate, folio 54) from The Dream of Abu-Said and Wind",
-        "Year": "1957-1990",
-        "ObjectID": "14640",
-        "Work": "https://www.moma.org/collection/works/14640",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMDYzMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7a9d718188b2a0a5",
-        "Details": {
-            "Medium": "Linoleum cut, printed in color, with blue and black pencil additions",
-            "Dimensions": "irreg. composition  7 x 4 1/2\" (17.8 x 11.4 cm)",
-            "Credit": "Gift of Emilia Kanevsky and the artist",
-            "Object number": "289.1991.17",
-            "Copyright": "\u00a9 2023 Ilya Kabakov",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/6633"
-    },
-    {
-        "Artist": "Ilya Kabakov",
-        "Title": "Scene 18 (plate, folio 57) from The Dream of Abu-Said and Wind",
-        "Year": "1957-1990",
-        "ObjectID": "14641",
-        "Work": "https://www.moma.org/collection/works/14641",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMDYzMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=36909ec7f490a8f9",
-        "Details": {
-            "Medium": "Linoleum cut, printed in color, with blue and black pencil additions",
-            "Dimensions": "irreg. composition  7 x 4 1/2\" (17.8 x 11.5 cm)",
-            "Credit": "Gift of Emilia Kanevsky and the artist",
-            "Object number": "289.1991.18",
-            "Copyright": "\u00a9 2023 Ilya Kabakov",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/6633"
-    },
-    {
-        "Artist": "Ilya Kabakov",
-        "Title": "Scene 19 (plate, folio 60) from The Dream of Abu-Said and Wind",
-        "Year": "1957-1990",
-        "ObjectID": "14642",
-        "Work": "https://www.moma.org/collection/works/14642",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMDYzMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c6667d0cf4be0325",
-        "Details": {
-            "Medium": "Linoleum cut, printed in color, with blue and black pencil additions",
-            "Dimensions": "irreg. composition  7 x 4 1/2\" (17.8 x 11.4 cm)",
-            "Credit": "Gift of Emilia Kanevsky and the artist",
-            "Object number": "289.1991.19",
-            "Copyright": "\u00a9 2023 Ilya Kabakov",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/6633"
-    },
-    {
-        "Artist": "Ilya Kabakov",
-        "Title": "Scene 2 (plate, folio 9) from The Dream of Abu-Said and Wind",
-        "Year": "1957-1990",
-        "ObjectID": "14643",
-        "Work": "https://www.moma.org/collection/works/14643",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMDYzMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=27314a74517f055b",
-        "Details": {
-            "Medium": "Linoleum cut, printed in color, with blue pencil additions",
-            "Dimensions": "irreg. composition  7 x 3 3/4\" (17.8 x 9.5 cm)",
-            "Credit": "Gift of Emilia Kanevsky and the artist",
-            "Object number": "289.1991.2",
-            "Copyright": "\u00a9 2023 Ilya Kabakov",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/6633"
-    },
-    {
-        "Artist": "Ilya Kabakov",
-        "Title": "Scene 20 (plate, folio 63) from The Dream of Abu-Said and Wind",
-        "Year": "1957-1990",
-        "ObjectID": "14644",
-        "Work": "https://www.moma.org/collection/works/14644",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMDY0NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=445299a8e84d9dfc",
-        "Details": {
-            "Medium": "Linoleum cut, printed in color, with blue and black pencil additions",
-            "Dimensions": "irreg. composition  7 x 4 1/2\" (17.8 x 11.5 cm)",
-            "Credit": "Gift of Emilia Kanevsky and the artist",
-            "Object number": "289.1991.20",
-            "Copyright": "\u00a9 2023 Ilya Kabakov",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/6633"
-    },
-    {
-        "Artist": "Ilya Kabakov",
-        "Title": "Scene 21 (plate, folio 66) from The Dream of Abu-Said and Wind",
-        "Year": "1957-1990",
-        "ObjectID": "14645",
-        "Work": "https://www.moma.org/collection/works/14645",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMDY0NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b746bf0c23b82f73",
-        "Details": {
-            "Medium": "Linoleum cut, printed in color, with blue and black pencil additions",
-            "Dimensions": "irreg. composition  7 x 4 5/8\" (17.8 x 11.7 cm)",
-            "Credit": "Gift of Emilia Kanevsky and the artist",
-            "Object number": "289.1991.21",
-            "Copyright": "\u00a9 2023 Ilya Kabakov",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/6633"
-    },
-    {
-        "Artist": "Ilya Kabakov",
-        "Title": "Scene 22 (plate, folio 69) from The Dream of Abu-Said and Wind",
-        "Year": "1957-1990",
-        "ObjectID": "14646",
-        "Work": "https://www.moma.org/collection/works/14646",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMDY0NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b012ccee4f1a50f0",
-        "Details": {
-            "Medium": "Linoleum cut, printed in color, with blue and black pencil additions",
-            "Dimensions": "irreg. composition  7 x 4 1/2\" (17.8 x 11.5 cm)",
-            "Credit": "Gift of Emilia Kanevsky and the artist",
-            "Object number": "289.1991.22",
-            "Copyright": "\u00a9 2023 Ilya Kabakov",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/6633"
-    },
-    {
-        "Artist": "Ilya Kabakov",
-        "Title": "Scene 23 (plate, folio 72) from The Dream of Abu-Said and Wind",
-        "Year": "1957-1990",
-        "ObjectID": "14647",
-        "Work": "https://www.moma.org/collection/works/14647",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMDY0NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=136c84e11e90e8ae",
-        "Details": {
-            "Medium": "Linoleum cut, printed in color, with blue and black pencil additions",
-            "Dimensions": "irreg. composition  7 x 4 1/2\" (17.8 x 11.5 cm)",
-            "Credit": "Gift of Emilia Kanevsky and the artist",
-            "Object number": "289.1991.23",
-            "Copyright": "\u00a9 2023 Ilya Kabakov",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/6633"
-    },
-    {
-        "Artist": "Ilya Kabakov",
-        "Title": "Scene 24 (plate, folio 75) from The Dream of Abu-Said and Wind",
-        "Year": "1957-1990",
-        "ObjectID": "14648",
-        "Work": "https://www.moma.org/collection/works/14648",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMDY0OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8264f0b3bf077011",
-        "Details": {
-            "Medium": "Linoleum cut, printed in color, with blue and black pencil additions",
-            "Dimensions": "irreg. composition  7 x 4 1/2\" (17.8 x 11.5 cm)",
-            "Credit": "Gift of Emilia Kanevsky and the artist",
-            "Object number": "289.1991.24",
-            "Copyright": "\u00a9 2023 Ilya Kabakov",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/6633"
-    },
-    {
-        "Artist": "Ilya Kabakov",
-        "Title": "Scene 25 (plate, folio 78) from The Dream of Abu-Said and Wind",
-        "Year": "1957-1990",
-        "ObjectID": "14649",
-        "Work": "https://www.moma.org/collection/works/14649",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMDY0OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=404d880276cf5ab8",
-        "Details": {
-            "Medium": "Linoleum cut, printed in color, with blue and black pencil additions",
-            "Dimensions": "irreg. composition  7 x 4 1/2\" (17.8 x 11.4 cm)",
-            "Credit": "Gift of Emilia Kanevsky and the artist",
-            "Object number": "289.1991.25",
-            "Copyright": "\u00a9 2023 Ilya Kabakov",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/6633"
-    },
-    {
-        "Artist": "Ilya Kabakov",
-        "Title": "Scene 26 (plate, folio 81) from The Dream of Abu-Said and Wind",
-        "Year": "1957-1990",
-        "ObjectID": "14650",
-        "Work": "https://www.moma.org/collection/works/14650",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMDY1MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=36e63c605d0478dd",
-        "Details": {
-            "Medium": "Linoleum cut, printed in color, with blue and black pencil additions",
-            "Dimensions": "irreg. composition  7 x 4 1/2\" (17.8 x 11.5 cm)",
-            "Credit": "Gift of Emilia Kanevsky and the artist",
-            "Object number": "289.1991.26",
-            "Copyright": "\u00a9 2023 Ilya Kabakov",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/6633"
-    },
-    {
-        "Artist": "Ilya Kabakov",
-        "Title": "Scene 27 (plate, folio 84) from The Dream of Abu-Said and Wind",
-        "Year": "1957-1990",
-        "ObjectID": "14651",
-        "Work": "https://www.moma.org/collection/works/14651",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMDY1MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=622105b56f8d5a54",
-        "Details": {
-            "Medium": "Linoleum cut, printed in color, with blue and black pencil additions",
-            "Dimensions": "irreg. composition  7 x 4 1/2\" (17.8 x 11.4 cm)",
-            "Credit": "Gift of Emilia Kanevsky and the artist",
-            "Object number": "289.1991.27",
-            "Copyright": "\u00a9 2023 Ilya Kabakov",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/6633"
-    },
-    {
-        "Artist": "Ilya Kabakov",
-        "Title": "Scene 28 (plate, folio 87) from The Dream of Abu-Said and Wind",
-        "Year": "1957-1990",
-        "ObjectID": "14652",
-        "Work": "https://www.moma.org/collection/works/14652",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMDY1MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1f45ca4eb8c86100",
-        "Details": {
-            "Medium": "Linoleum cut, printed in color, with blue and black pencil additions",
-            "Dimensions": "irreg. composition  7 x 4 1/2\" (17.8 x 11.5 cm)",
-            "Credit": "Gift of Emilia Kanevsky and the artist",
-            "Object number": "289.1991.28",
-            "Copyright": "\u00a9 2023 Ilya Kabakov",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/6633"
-    },
-    {
-        "Artist": "Ilya Kabakov",
-        "Title": "Scene 29 (plate, folio 90) from The Dream of Abu-Said and Wind",
-        "Year": "1957-1990",
-        "ObjectID": "14653",
-        "Work": "https://www.moma.org/collection/works/14653",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMDY1MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8bd136067ba64beb",
-        "Details": {
-            "Medium": "Linoleum cut, printed in color, with blue and black pencil additions",
-            "Dimensions": "irreg. composition  7 x 4 9/16\" (17.8 x 11.6 cm)",
-            "Credit": "Gift of Emilia Kanevsky and the artist",
-            "Object number": "289.1991.29",
-            "Copyright": "\u00a9 2023 Ilya Kabakov",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/6633"
+        "Profile": "https://www.moma.org/artists/27186"
     }
 ]

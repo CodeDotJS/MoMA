@@ -1,806 +1,811 @@
 [
     {
-        "Artist": "Attilio Salemme",
-        "Title": "Antechamber to Inner Sanctum",
-        "Year": "1950",
-        "ObjectID": "79090",
-        "Work": "https://www.moma.org/collection/works/79090",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2OTg2NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=da9ad5e1d5916ffd",
+        "Artist": "Le Corbusier (Charles-Edouard Jeanneret)",
+        "Title": "Exhibition Pavilion, Z.H.L.C., Zurich, Switzerland, Cross section",
+        "Year": "1961",
+        "ObjectID": "88953",
+        "Work": "https://www.moma.org/collection/works/88953",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0NzEyMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=201afae0488f7918",
+        "Details": {
+            "Medium": "Letterpress",
+            "Dimensions": "12 x 17\" (30.5 x 43.2 cm)",
+            "Delineator": "Jullian",
+            "Credit": "Takeo Ohbayashi Purchase Fund",
+            "Object number": "209.2003.6",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris / FLC",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/3426"
+    },
+    {
+        "Artist": "Le Corbusier (Charles-Edouard Jeanneret)",
+        "Title": "Exhibition Pavilion, Z.H.L.C., Zurich, Switzerland, North facade",
+        "Year": "1961",
+        "ObjectID": "88954",
+        "Work": "https://www.moma.org/collection/works/88954",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0NzEyMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7371c69298939e57",
+        "Details": {
+            "Medium": "Letterpress",
+            "Dimensions": "12 x 17\" (30.5 x 43.2 cm)",
+            "Delineator": "Jullian",
+            "Credit": "Takeo Ohbayashi Purchase Fund",
+            "Object number": "209.2003.7",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris / FLC",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/3426"
+    },
+    {
+        "Artist": "Le Corbusier (Charles-Edouard Jeanneret)",
+        "Title": "Exhibition Pavilion, Z.H.L.C., Zurich, Switzerland, East facade",
+        "Year": "1961",
+        "ObjectID": "88955",
+        "Work": "https://www.moma.org/collection/works/88955",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0NzEyNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=20604b88c0567fa1",
+        "Details": {
+            "Medium": "Letterpress",
+            "Dimensions": "12 x 17\" (30.5 x 43.2 cm)",
+            "Delineator": "Jullian",
+            "Credit": "Takeo Ohbayashi Purchase Fund",
+            "Object number": "209.2003.8",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris / FLC",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/3426"
+    },
+    {
+        "Artist": "Le Corbusier (Charles-Edouard Jeanneret)",
+        "Title": "Exhibition Pavilion, Z.H.L.C., Zurich, Switzerland, West facade",
+        "Year": "1961",
+        "ObjectID": "88956",
+        "Work": "https://www.moma.org/collection/works/88956",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0NzEyNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=16a24edda4f07ddf",
+        "Details": {
+            "Medium": "Letterpress",
+            "Dimensions": "12 x 17\" (30.5 x 43.2 cm)",
+            "Delineator": "Jullian",
+            "Credit": "Takeo Ohbayashi Purchase Fund",
+            "Object number": "209.2003.9",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris / FLC",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/3426"
+    },
+    {
+        "Artist": "Le Corbusier (Charles-Edouard Jeanneret)",
+        "Title": "Exhibition Pavilion, Z.H.L.C., Zurich, Switzerland, Ground-floor plan",
+        "Year": "1961",
+        "ObjectID": "422914",
+        "Work": "https://www.moma.org/collection/works/422914",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Nine letterpress drawings",
+            "Dimensions": "each: 12 x 17\" (30.5 x 43.2 cm)",
+            "Delineator": "Jullian",
+            "Credit": "Takeo Ohbayashi Purchase Fund",
+            "Object number": "209.2003.1-9",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris / FLC",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/3426"
+    },
+    {
+        "Artist": "Dietmar Lemke",
+        "Title": "Dune Landscape II (Dunenlandschaft II)",
+        "Year": "1961",
+        "ObjectID": "69403",
+        "Work": "https://www.moma.org/collection/works/69403",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQyMzgxOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1b44bcc86851bf32",
+        "Details": {
+            "Medium": "Etching",
+            "Dimensions": "plate: 17 5/16 \u00d7 22 1/4\" (43.9 \u00d7 56.5 cm); sheet: 19 \u00d7 26\" (48.3 \u00d7 66 cm)",
+            "Edition": "artist's proof before an unknown edition",
+            "Credit": "Larry Aldrich Fund",
+            "Object number": "456.1961",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3475"
+    },
+    {
+        "Artist": "Julio Le Parc",
+        "Title": "Double Concurrence--Continuous Light, 2",
+        "Year": "1961",
+        "ObjectID": "81125",
+        "Work": "https://www.moma.org/collection/works/81125",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM4MTk4OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ebda38897c11e9f1",
+        "Details": {
+            "Medium": "Black wood box, 21 x 19 3/4 x 5 5/8\" (53.4 x 50 x 14.1 cm), with illuminated aperture, 7 7/8 x 8\" (20 x 20.2 cm), in which fifty-four plastic squares, 1 1/2  x 1 1/2\" (3.6 x 3.6 cm), are suspended from eighteen nylon threads; mirror backing, 11 7/8 x 16\" (30.1 x 40.4 cm), two reflectors, three sets of interchangeable pierced metal screens, and two glass filters",
+            "Credit": "Philip Johnson Fund",
+            "Object number": "199.1963.a-l",
+            "Copyright": "\u00a9 2023 Julio Le Parc / Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/3432"
+    },
+    {
+        "Artist": "Robert Lepper",
+        "Title": "Orb and Instrument",
+        "Year": "1961",
+        "ObjectID": "81603",
+        "Work": "https://www.moma.org/collection/works/81603",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Iron and other metals",
+            "Dimensions": "50 7/8 x 16 7/8 x 9 1/2\" (129.2 x 42.9 x 24.1 cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "571.1964",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/3489"
+    },
+    {
+        "Artist": "Gerd Leufert",
+        "Title": "AM-13",
+        "Year": "1961",
+        "ObjectID": "205956",
+        "Work": "https://www.moma.org/collection/works/205956",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM3OTI5MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4144c5c9d299fab3",
+        "Details": {
+            "Medium": "Acrylic on wood",
+            "Dimensions": "33 1/16 \u00d7 48 13/16 \u00d7 2 3/8\" (84 \u00d7 124 \u00d7 6 cm)",
+            "Credit": "Gift of Patricia Phelps de Cisneros through the Latin American and Caribbean Fund",
+            "Object number": "829.2016",
+            "Copyright": "\u00a9 2023 Elizabeth Gunz",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/3502"
+    },
+    {
+        "Artist": "Georges Liautaud",
+        "Title": "The Goat with Two Heads",
+        "Year": "1961",
+        "ObjectID": "80905",
+        "Work": "https://www.moma.org/collection/works/80905",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNjY3OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d92beba11a6407d8",
+        "Details": {
+            "Medium": "Iron",
+            "Dimensions": "16 1/8 x 9 1/4 x 8 1/2\" (40.9 x 23.3 x 21.5 cm)",
+            "Credit": "Inter-American Fund",
+            "Object number": "76.1962",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/3535"
+    },
+    {
+        "Artist": "Alexander Liberman",
+        "Title": "Untitled",
+        "Year": "1961",
+        "ObjectID": "65961",
+        "Work": "https://www.moma.org/collection/works/65961",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNzc0OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ba32f75e029a0830",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition: 12 5/16 x 23 13/16\" (31.3 x 60.5cm); sheet: 19 13/16 x 27 1/8\" (50.4 x 68.9cm)",
+            "Edition": "30",
+            "Credit": "Gift of the artist",
+            "Object number": "282.1963",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3537"
+    },
+    {
+        "Artist": "Alexander Liberman",
+        "Title": "Untitled",
+        "Year": "1961",
+        "ObjectID": "65985",
+        "Work": "https://www.moma.org/collection/works/65985",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMzI3OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a4e4de23865e1895",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition: 19 1/16 x 19 3/8\" (48.4 x 49.2cm); sheet: 27 5/16 x 21 1/16\" (69.3 x 53.5cm)",
+            "Edition": "Edition\" 30",
+            "Credit": "Gift of the artist",
+            "Object number": "283.1963",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3537"
+    },
+    {
+        "Artist": "Alexander Liberman",
+        "Title": "Untitled",
+        "Year": "1961",
+        "ObjectID": "66063",
+        "Work": "https://www.moma.org/collection/works/66063",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMzI5NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7f860e0cb7f1a50d",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition: 19 3/8 x 25 9/16\" (49.2 x 64.9cm); sheet: 21 3/16 x 27 3/16\" (53.8 x 69cm)",
+            "Edition": "30",
+            "Credit": "Gift of the artist",
+            "Object number": "287.1963",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3537"
+    },
+    {
+        "Artist": "Alexander Liberman",
+        "Title": "Sigma, I",
+        "Year": "1961",
+        "ObjectID": "81765",
+        "Work": "https://www.moma.org/collection/works/81765",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MDY5OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e1ab1c539f8fcaf4",
+        "Details": {
+            "Medium": "Polished aluminum",
+            "Dimensions": "8' 6\" (259.1 cm) high, including aluminum base 12 x 20 x 14\" (30.4 x 50.8 x 35.4 cm)",
+            "Credit": "Gift of Mr. and Mrs. Edouard Cournand",
+            "Object number": "661.1970",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/3537"
+    },
+    {
+        "Artist": "Roy Lichtenstein",
+        "Title": "Girl with Ball",
+        "Year": "1961",
+        "ObjectID": "79665",
+        "Work": "https://www.moma.org/collection/works/79665",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5MjY1MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f5a94a4952e0f544",
         "Details": {
             "Medium": "Oil on canvas",
-            "Dimensions": "28 x 40\" (71.1 x 101.6 cm)",
-            "Credit": "Gift of Mrs. Gertrud  A. Mellon",
-            "Object number": "191.1952",
+            "Dimensions": "60 1/4 x 36 1/4\" (153 x 91.9 cm)",
+            "Credit": "Gift of Philip Johnson",
+            "Object number": "421.1981",
             "Department": "Painting and Sculpture"
         },
-        "Profile": "https://www.moma.org/artists/5122"
+        "Profile": "https://www.moma.org/artists/3542"
     },
     {
-        "Artist": "Naomi Savage",
-        "Title": "Untitled (lights reflected in water)",
-        "Year": "c. 1950",
-        "ObjectID": "206285",
-        "Work": "https://www.moma.org/collection/works/206285",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM3OTYyMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b4c14fb48ba71622",
+        "Artist": "Jerome Liebling",
+        "Title": "Slaughter House",
+        "Year": "1960-61",
+        "ObjectID": "46079",
+        "Work": "https://www.moma.org/collection/works/46079",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4ODQxNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=41a5414eb246a01d",
         "Details": {
             "Medium": "Gelatin silver print",
-            "Dimensions": "8 \u00d7 10\" (20.3 \u00d7 25.4 cm)",
-            "Credit": "Committee on Photography Fund",
-            "Object number": "489.2017",
-            "Copyright": "\u00a9 2023 Estate of Naomi Savage",
+            "Dimensions": "9 3/4 \u00d7 9 3/4\" (24.8 \u00d7 24.8 cm)",
+            "Credit": "Exchange",
+            "Object number": "91.1977",
+            "Copyright": "\u00a9 2023 Jerome Liebling",
             "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/5183"
+        "Profile": "https://www.moma.org/artists/3549"
     },
     {
-        "Artist": "Raymond Savignac",
-        "Title": "L'Eau Qui Fait Pschitt",
-        "Year": "1950",
-        "ObjectID": "5498",
-        "Work": "https://www.moma.org/collection/works/5498",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMDU2MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a9579de211235e64",
+        "Artist": "Gyorgy Sandor Ligeti",
+        "Title": "Atmospheres",
+        "Year": "1961",
+        "ObjectID": "160135",
+        "Work": "https://www.moma.org/collection/works/160135",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2Mjk3NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=28d27f460b15bf1d",
         "Details": {
-            "Medium": "Offset lithograph",
-            "Dimensions": "90 1/4 x 62 3/4\" (229.2 x 159.4 cm)",
-            "Credit": "Gift of the designer",
-            "Object number": "174.1968",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/5185"
-    },
-    {
-        "Artist": "Peter Schlumbohm",
-        "Title": "Ice Vault",
-        "Year": "c. 1945",
-        "ObjectID": "4368",
-        "Work": "https://www.moma.org/collection/works/4368",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMDMwNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2476fe6f50020112",
-        "Details": {
-            "Manufacturer": "Chemex Corp., New York, NY",
-            "Medium": "Cork and aluminum",
-            "Dimensions": "assembled: 15 x 14\" (38.1 x 35.6 cm)\r\neach canister: 3 1/2 x 11\" (8.9 x 27.9 cm)",
-            "Credit": "Gift of the manufacturer",
-            "Object number": "551.1964.a-h",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/5225"
-    },
-    {
-        "Artist": "Paul Schuitema",
-        "Title": "L. Bolle, Beeldhouwer",
-        "Year": "1920-1950",
-        "ObjectID": "7633",
-        "Work": "https://www.moma.org/collection/works/7633",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMDQzNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=978851823080b8e7",
-        "Details": {
-            "Medium": "Letterpress",
-            "Dimensions": "11 x 8 3/4\"(27.9 x 22.1 cm)",
-            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
-            "Object number": "587.1977",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/5273"
-    },
-    {
-        "Artist": "Paul Schuitema",
-        "Title": "Alleen absoluut zuivere weging maakt berekende winst werkelijke winst",
-        "Year": "1920-1950",
-        "ObjectID": "7658",
-        "Work": "https://www.moma.org/collection/works/7658",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMDQ0MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5259aa7310050f13",
-        "Details": {
-            "Medium": "Letterpress",
-            "Dimensions": "7 7/8 x 5 9/16\" (20.0 x 14.1 cm)",
-            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
-            "Object number": "593.1977",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/5273"
-    },
-    {
-        "Artist": "R. Schwarzkopf",
-        "Title": "Dusseldorf",
-        "Year": "Unknown",
-        "ObjectID": "8654",
-        "Work": "https://www.moma.org/collection/works/8654",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMTEzMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b8a750b10f74748a",
-        "Details": {
-            "Medium": "Letterpress",
-            "Dimensions": "7 1/2 x 5\" (19.1 x 12.7 cm)",
-            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
-            "Object number": "906.1999",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/8235"
-    },
-    {
-        "Artist": "Kurt Seligmann",
-        "Title": "Meditation",
-        "Year": "1950",
-        "ObjectID": "60788",
-        "Work": "https://www.moma.org/collection/works/60788",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMzQ2MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=139bc226a30144ac",
-        "Details": {
-            "Medium": "Etching and aquatint",
-            "Dimensions": "plate: 19 11/16 x 13 7/8\" (50 x 35.3 cm); sheet: 21 15/16 x 15 1/2\" (55.7 x 39.4 cm)",
-            "Credit": "John B. Turner Fund",
-            "Object number": "43.1961",
-            "Copyright": "\u00a9 2023 Kurt Seligmann / Artists Rights Society (ARS), New York",
+            "Medium": "Musical score, diazotype printed",
+            "Dimensions": "page: 33 1/16 x 12 5/8\" (84 x 32 cm); overall (closed): 33 1/8 x 12 15/16 x 3/16\" (84.2 x 32.8 x 0.4 cm); box: 34 15/16 x 14 x 9/16\" (88.8 x 35.5 x 1.5 cm)",
+            "Publisher": "Universal Edition, Vienna",
+            "Edition": "unknown",
+            "Credit": "Committee on Prints and Illustrated Books Fund",
+            "Object number": "732.2012",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/5337"
+        "Profile": "https://www.moma.org/artists/36949"
     },
     {
-        "Artist": "Ben Shahn",
-        "Title": "Where There is a Book There is No Sword",
-        "Year": "1950",
-        "ObjectID": "66395",
-        "Work": "https://www.moma.org/collection/works/66395",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MjM4OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ef8be732032c9978",
+        "Artist": "Seymour Lipton",
+        "Title": "Untitled",
+        "Year": "1961",
+        "ObjectID": "36545",
+        "Work": "https://www.moma.org/collection/works/36545",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMyNDYwNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e70b9558c8ebd1f9",
         "Details": {
-            "Medium": "Screenprint",
-            "Dimensions": "composition: 13 7/8 x 11 5/8\" (35.3 x 29.6 cm); sheet: 20 15/16 x 14 1/2\" (53.2 x 36.8 cm)",
-            "Publisher": "Ben Shahn",
-            "Printer": "probably Ben Shahn",
-            "Edition": "145",
+            "Medium": "Crayon on paper",
+            "Dimensions": "11 x 8 5/8\" (28.0 x 21.7 cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "371.1966",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3567"
+    },
+    {
+        "Artist": "Seymour Lipton",
+        "Title": "Study for Eagle",
+        "Year": "1961",
+        "ObjectID": "36552",
+        "Work": "https://www.moma.org/collection/works/36552",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMyNDU5MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2f320d39da4c4506",
+        "Details": {
+            "Medium": "Crayon on paper",
+            "Dimensions": "8 5/8 x 11\" (21.7 x 28.0 cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "373.1966",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3567"
+    },
+    {
+        "Artist": "Seymour Lipton",
+        "Title": "Study for Eagle",
+        "Year": "1961",
+        "ObjectID": "36557",
+        "Work": "https://www.moma.org/collection/works/36557",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMyNDYyMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f5a8cc35ef899700",
+        "Details": {
+            "Medium": "Crayon on paper",
+            "Dimensions": "8 5/8 x 11\" (21.7 x 28.0 cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "374.1966",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3567"
+    },
+    {
+        "Artist": "Seymour Lipton",
+        "Title": "Manuscript",
+        "Year": "1961",
+        "ObjectID": "81563",
+        "Work": "https://www.moma.org/collection/works/81563",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Brazed bronze on monel metal",
+            "Dimensions": "60 3/8\" x 7' 1/8\" x 37 1/8\" (153.3 x 213.7 x 94.2 cm)",
+            "Credit": "Mrs. Simon Guggenheim Fund",
+            "Object number": "530.1965",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/3567"
+    },
+    {
+        "Artist": "Seymour Lipton",
+        "Title": "Untitled",
+        "Year": "1961",
+        "ObjectID": "89946",
+        "Work": "https://www.moma.org/collection/works/89946",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQyNjc2MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d0887baa50f0d6fb",
+        "Details": {
+            "Medium": "Crayon on paper",
+            "Dimensions": "8 1/2 x 11\" (21.6 x 27.9 cm)",
+            "Credit": "Gift of Carol Lipton",
+            "Object number": "415.2003",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3567"
+    },
+    {
+        "Artist": "German Lorca",
+        "Title": "Congonhas Airport, Sao Paulo",
+        "Year": "1961",
+        "ObjectID": "203527",
+        "Work": "https://www.moma.org/collection/works/203527",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0NjIyMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cb9c7077d427711d",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "10 1/2 \u00d7 15\" (26.7 \u00d7 38.1 cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "339.2016",
+            "Copyright": "\u00a9 2023 German Lorca",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/49598"
+    },
+    {
+        "Artist": "Morris Louis",
+        "Title": "Beta Lambda",
+        "Year": "1961",
+        "ObjectID": "79688",
+        "Work": "https://www.moma.org/collection/works/79688",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1NzQ2OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7533533ee816ad09",
+        "Details": {
+            "Medium": "Synthetic polymer paint on canvas",
+            "Dimensions": "8' 7 3/8\" x 13' 4 1/4\" (262.6 x 407 cm)",
+            "Credit": "Gift of Mrs. Abner Brenner",
+            "Object number": "428.1983",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/3607"
+    },
+    {
+        "Artist": "Nathan Lyons",
+        "Title": "Untitled",
+        "Year": "1961",
+        "ObjectID": "57199",
+        "Work": "https://www.moma.org/collection/works/57199",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwNzcwNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5709862abe0e24c8",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "7 3/4 \u00d7 9 5/8\" (19.7 \u00d7 24.5 cm)",
             "Credit": "Purchase",
-            "Object number": "299.1955",
+            "Object number": "869.1965",
+            "Copyright": "\u00a9 2023 Nathan Lyons",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/3652"
+    },
+    {
+        "Artist": "George Maciunas",
+        "Title": "Music For Everyman",
+        "Year": "1961",
+        "ObjectID": "127427",
+        "Work": "https://www.moma.org/collection/works/127427",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMxMTk4OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=86b13687c6f045a9",
+        "Details": {
+            "Medium": "Diazotype",
+            "Dimensions": "sheet: 45 x 11 1/8\" (114.3 x 28.3 cm)",
+            "Publisher": "Fluxus",
+            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
+            "Object number": "2345.2008",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/5366"
+        "Profile": "https://www.moma.org/artists/21398"
     },
     {
-        "Artist": "Charles Sheeler",
-        "Title": "Rockefeller Center, New York",
-        "Year": "1950",
-        "ObjectID": "52622",
-        "Work": "https://www.moma.org/collection/works/52622",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MjI2MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0a11b31fadfbabcd",
+        "Artist": "George Maciunas",
+        "Title": "Poster for Works by Yoko Ono, Carnegie Recital Hall, New York, 1961",
+        "Year": "1961",
+        "ObjectID": "127490",
+        "Work": "https://www.moma.org/collection/works/127490",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNjA4MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e289f3c010e1a1a3",
         "Details": {
             "Medium": "Gelatin silver print",
-            "Dimensions": "8 9/16 \u00d7 6 1/2\" (21.8 \u00d7 16.5 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "401.1969",
-            "Copyright": "\u00a9 2023 The Lane Collection",
-            "Department": "Photography"
+            "Dimensions": "image: 7 1/2 x 7 9/16\" (19.1 x 19.2 cm); sheet: 9 15/16 x 7 15/16\" (25.3 x 20.2 cm)",
+            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
+            "Object number": "2598.2008",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/5383"
+        "Profile": "https://www.moma.org/artists/21398"
     },
     {
-        "Artist": "Charles Sheeler",
-        "Title": "Skyscrapers, New York",
-        "Year": "1950",
-        "ObjectID": "52640",
-        "Work": "https://www.moma.org/collection/works/52640",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MjI2MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=43f29925eae77054",
+        "Artist": "George Maciunas",
+        "Title": "Announcement card for Evenings, AG Gallery, New York, July 1961",
+        "Year": "1961",
+        "ObjectID": "127647",
+        "Work": "https://www.moma.org/collection/works/127647",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4MjY4MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=606a5c3fb8a5e424",
+        "Details": {
+            "Medium": "Offset",
+            "Dimensions": "sheet: 3 9/16 x 17 3/8\" (9 x 44.2 cm)",
+            "Designer": "George Maciunas",
+            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
+            "Object number": "2154.2008",
+            "Copyright": "\u00a9 2023 George Maciunas",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/21398"
+    },
+    {
+        "Artist": "George Maciunas",
+        "Title": "Hydrokinetic-Osmotic Painting",
+        "Year": "1961",
+        "ObjectID": "127896",
+        "Work": "https://www.moma.org/collection/works/127896",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3NDc0NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3ae1fa263ce46571",
+        "Details": {
+            "Medium": "Ink on paperboard on wood",
+            "Dimensions": "Sheet: 30 1/16 x 20 1/16 x 9/16\" (76.4 x 50.9 x 1.5 cm); frame: 34 3/4 x 24 3/4 x 1 3/4\" (88.3 x 62.9 x 4.4 cm)",
+            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
+            "Object number": "2341.2008",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/21398"
+    },
+    {
+        "Artist": "George Maciunas",
+        "Title": "Hydrokinetic-Osmotic Painting",
+        "Year": "1961",
+        "ObjectID": "127897",
+        "Work": "https://www.moma.org/collection/works/127897",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0NjU0OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4efe72a7ba63a7b2",
+        "Details": {
+            "Medium": "Ink on paperboard on wood",
+            "Dimensions": "sheet: 30 1/16 x 20 x 9/16\" (76.4 x 50.8 x 1.5 cm)",
+            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
+            "Object number": "2342.2008",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/21398"
+    },
+    {
+        "Artist": "George Maciunas",
+        "Title": "Hydrokinetic-Osmotic Painting",
+        "Year": "1961",
+        "ObjectID": "127898",
+        "Work": "https://www.moma.org/collection/works/127898",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0NjU1MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9dc35c7ff84c9239",
+        "Details": {
+            "Medium": "Ink on paperboard on wood",
+            "Dimensions": "sheet: 37 5/8 x 27 11/16 x 9/16\" (95.5 x 70.3 x 1.5 cm)",
+            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
+            "Object number": "2343.2008",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/21398"
+    },
+    {
+        "Artist": "George Maciunas",
+        "Title": "Portrait of Jackson Mac Low as Edward Eggleston",
+        "Year": "1961",
+        "ObjectID": "128276",
+        "Work": "https://www.moma.org/collection/works/128276",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NjIwOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=817bed489159a22a",
+        "Details": {
+            "Sitter": "Jackson Mac Low",
+            "Medium": "Gelatin silver print",
+            "Dimensions": "image: 18 1/2 x 18 13/16\" (47 x 47.8 cm); sheet: 23 7/8 x 19 7/8\" (60.6 x 50.5 cm)",
+            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
+            "Object number": "2566.2008",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/21398"
+    },
+    {
+        "Artist": "George Maciunas",
+        "Title": "Portrait of Jonas Mekas",
+        "Year": "1961",
+        "ObjectID": "128277",
+        "Work": "https://www.moma.org/collection/works/128277",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NDc4NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9d8973976efe5a9c",
+        "Details": {
+            "Sitter": "Jonas Mekas",
+            "Medium": "Gelatin silver print",
+            "Dimensions": "image: 18 9/16 x 18 7/8\" (47.2 x 48 cm); sheet: 23 7/8 x 19 7/8\" (60.7 x 50.5 cm)",
+            "Edition": "unknown",
+            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
+            "Object number": "2348.2008",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/21398"
+    },
+    {
+        "Artist": "George Maciunas",
+        "Title": "Portrait of Stanley Buetens",
+        "Year": "1961",
+        "ObjectID": "128283",
+        "Work": "https://www.moma.org/collection/works/128283",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NDc4NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3679d3bb07a35c07",
         "Details": {
             "Medium": "Gelatin silver print",
-            "Dimensions": "9 3/8 \u00d7 6 7/16\" (23.9 \u00d7 16.3 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "402.1969",
-            "Copyright": "\u00a9 2023 The Lane Collection",
-            "Department": "Photography"
+            "Dimensions": "image: 18 9/16 x 18 7/8\" (47.2 x 47.9 cm); sheet: 23 7/8 x 19 7/8\" (60.7 x 50.5 cm)",
+            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
+            "Object number": "2350.2008",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/5383"
+        "Profile": "https://www.moma.org/artists/21398"
     },
     {
-        "Artist": "Charles Sheeler",
-        "Title": "Skyscrapers, New York",
-        "Year": "1950",
-        "ObjectID": "52658",
-        "Work": "https://www.moma.org/collection/works/52658",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MjI2NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=97678913f85d36a8",
+        "Artist": "George Maciunas",
+        "Title": "Self-Supporting 1,900 Sq. Ft. House, model for Prefabricated Building System",
+        "Year": "1961",
+        "ObjectID": "128285",
+        "Work": "https://www.moma.org/collection/works/128285",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NDc4OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4c2bed16f6716982",
         "Details": {
             "Medium": "Gelatin silver print",
-            "Dimensions": "9 1/4 \u00d7 6 5/16\" (23.5 \u00d7 16 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "403.1969",
-            "Copyright": "\u00a9 2023 The Lane Collection",
-            "Department": "Photography"
+            "Dimensions": "image: 18 x 18 7/8\" (45.7 x 47.9 cm); sheet: 23 7/8 x 19 7/8\" (60.7 x 50.5 cm)",
+            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
+            "Object number": "2353.2008",
+            "Copyright": "\u00a9 2023 George Maciunas",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/5383"
+        "Profile": "https://www.moma.org/artists/21398"
     },
     {
-        "Artist": "Charles Sheeler",
-        "Title": "Skyscrapers, New York",
-        "Year": "1950",
-        "ObjectID": "52702",
-        "Work": "https://www.moma.org/collection/works/52702",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MjI2NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8204f0d3159ca188",
+        "Artist": "George Maciunas",
+        "Title": "Portrait of Joseph Byrd",
+        "Year": "1961",
+        "ObjectID": "165976",
+        "Work": "https://www.moma.org/collection/works/165976",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NjY2NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9c9865ea72562575",
         "Details": {
+            "Sitter": "Joseph Byrd",
             "Medium": "Gelatin silver print",
-            "Dimensions": "7 13/16 \u00d7 6 7/16\" (19.8 \u00d7 16.4 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "404.1969",
-            "Copyright": "\u00a9 2023 The Lane Collection",
-            "Department": "Photography"
+            "Dimensions": "image: 7 1/2 x 7 1/2\" (19 x 19.1 cm); sheet: 9 15/16 x 7 15/16\" (25.2 x 20.2 cm)",
+            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
+            "Object number": "3090.2008",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/5383"
+        "Profile": "https://www.moma.org/artists/21398"
     },
     {
-        "Artist": "Charles Sheeler",
-        "Title": "Skyscrapers, New York",
-        "Year": "1950",
-        "ObjectID": "52721",
-        "Work": "https://www.moma.org/collection/works/52721",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MjI2OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4201d1148fce5ffc",
+        "Artist": "George Maciunas",
+        "Title": "Portrait of La Monte Young",
+        "Year": "1961",
+        "ObjectID": "165982",
+        "Work": "https://www.moma.org/collection/works/165982",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NjY2OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=474c9cc5a33edf66",
         "Details": {
+            "Sitter": "La Monte Young",
             "Medium": "Gelatin silver print",
-            "Dimensions": "6 3/16 \u00d7 9 3/16\" (15.7 \u00d7 23.3 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "405.1969",
-            "Copyright": "\u00a9 2023 The Lane Collection",
-            "Department": "Photography"
+            "Dimensions": "image: 7 1/2 x 7 1/2\" (19 x 19.1 cm); sheet: 9 15/16 x 7 15/16\" (25.2 x 20.2 cm)",
+            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
+            "Object number": "3091.2008",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/5383"
+        "Profile": "https://www.moma.org/artists/21398"
     },
     {
-        "Artist": "Musya Sheeler",
-        "Title": "Pool",
-        "Year": "1950",
-        "ObjectID": "58387",
-        "Work": "https://www.moma.org/collection/works/58387",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMzM1NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9fc9161c19fca8ce",
+        "Artist": "George Maciunas",
+        "Title": "Portrait of Walter De Maria",
+        "Year": "1961",
+        "ObjectID": "165997",
+        "Work": "https://www.moma.org/collection/works/165997",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NjY2OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e72a3d4d8fd5e46c",
         "Details": {
+            "Sitter": "Walter De Maria",
             "Medium": "Gelatin silver print",
-            "Dimensions": "7 3/8 \u00d7 9 1/2\" (18.7 \u00d7 24.2 cm)",
-            "Credit": "Gift of David H. McAlpin",
-            "Object number": "1804.1968",
-            "Copyright": "\u00a9 2023 Musya Sheeler",
-            "Department": "Photography"
+            "Dimensions": "image: 7 1/2 x 7 1/2\" (19 x 19.1 cm); sheet: 9 15/16 x 7 15/16\" (25.2 x 20.2 cm)",
+            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
+            "Object number": "3092.2008",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/5384"
+        "Profile": "https://www.moma.org/artists/21398"
     },
     {
-        "Artist": "Aaron Siskind",
-        "Title": "Bronx I",
-        "Year": "1950",
-        "ObjectID": "44385",
-        "Work": "https://www.moma.org/collection/works/44385",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MTk3NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b6ce3b2c95935e26",
+        "Artist": "Heinz Mack",
+        "Title": "Untitled",
+        "Year": "1961",
+        "ObjectID": "72746",
+        "Work": "https://www.moma.org/collection/works/72746",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNDE4OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3bfb78f12580e459",
         "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "8 5/8 \u00d7 12 11/16\" (22 \u00d7 32.3 cm)",
-            "Credit": "Gift of Frances F. L. Beatty",
-            "Object number": "35.1984",
-            "Copyright": "\u00a9 2023 Estate of Aaron Siskind",
-            "Department": "Photography"
+            "Medium": "Lithograph",
+            "Dimensions": "composition: 10 13/16 x 12 11/16\" (27.4 x 32.3cm); sheet: 13 1/4 x 13 1/4\" (33.7 x 33.7cm)",
+            "Edition": "60",
+            "Credit": "John S. Newberry Fund",
+            "Object number": "660.1963",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/5456"
+        "Profile": "https://www.moma.org/artists/3669"
     },
     {
-        "Artist": "Aaron Siskind",
-        "Title": "Martha's Vineyard 11",
-        "Year": "1950",
-        "ObjectID": "49326",
-        "Work": "https://www.moma.org/collection/works/49326",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4MzUzNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d638f5740230c277",
+        "Artist": "Jackson Mac Low",
+        "Title": "Drawing-Asymmetry #10",
+        "Year": "1961",
+        "ObjectID": "127454",
+        "Work": "https://www.moma.org/collection/works/127454",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0NDA3MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=230fc0a8e2ec42b2",
         "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "9 3/4 \u00d7 13 1/4\" (24.7 \u00d7 33.7 cm)",
-            "Credit": "Gift of Robert and Joyce Menschel",
-            "Object number": "236.1979",
-            "Copyright": "\u00a9 2023 Estate of Aaron Siskind",
-            "Department": "Photography"
+            "Medium": "Ink on paper",
+            "Dimensions": "sheet: 8 9/16 x 11 7/8\" (21.7 x 30.2 cm)",
+            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
+            "Object number": "2579.2008",
+            "Copyright": "\u00a9 2023 The Estate of Jackson Mac Low",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/5456"
+        "Profile": "https://www.moma.org/artists/34743"
     },
     {
-        "Artist": "Aaron Siskind",
-        "Title": "Martha's Vineyard 13",
-        "Year": "1950",
-        "ObjectID": "49361",
-        "Work": "https://www.moma.org/collection/works/49361",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4MzUzOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b0c1d79ac224e635",
+        "Artist": "Jackson Mac Low",
+        "Title": "Drawing-Asymmetry #5",
+        "Year": "1961",
+        "ObjectID": "127455",
+        "Work": "https://www.moma.org/collection/works/127455",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0NDA3MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=80bdbf764ee9422c",
         "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "8 3/8 \u00d7 13 7/16\" (21.3 \u00d7 34.1 cm)",
-            "Credit": "Gift of Robert and Joyce Menschel",
-            "Object number": "238.1979",
-            "Copyright": "\u00a9 2023 Estate of Aaron Siskind",
-            "Department": "Photography"
+            "Medium": "Ink and colored ink on paper",
+            "Dimensions": "sheet: 8 9/16 x 11 7/8\" (21.7 x 30.2 cm)",
+            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
+            "Object number": "2580.2008",
+            "Copyright": "\u00a9 2023 The Estate of Jackson Mac Low",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/5456"
+        "Profile": "https://www.moma.org/artists/34743"
     },
     {
-        "Artist": "Aaron Siskind",
-        "Title": "New Jersey 5",
-        "Year": "1950",
-        "ObjectID": "51456",
-        "Work": "https://www.moma.org/collection/works/51456",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4OTMzNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8e0c550e06513d71",
+        "Artist": "Jackson Mac Low",
+        "Title": "Drawing-Asymmetry #21",
+        "Year": "1961",
+        "ObjectID": "127456",
+        "Work": "https://www.moma.org/collection/works/127456",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NTYxNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=72d542f3984ca1a1",
         "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "8 1/8 \u00d7 13 1/4\" (20.7 \u00d7 33.7 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "349.1959",
-            "Copyright": "\u00a9 2023 Estate of Aaron Siskind",
-            "Department": "Photography"
+            "Medium": "Ink on paper",
+            "Dimensions": "sheet: 8 9/16 x 11 7/8\" (21.7 x 30.2 cm)",
+            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
+            "Object number": "2581.2008",
+            "Copyright": "\u00a9 2023 The Estate of Jackson Mac Low",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/5456"
+        "Profile": "https://www.moma.org/artists/34743"
     },
     {
-        "Artist": "Ernie Sisto/The New York Times",
-        "Title": "Quintuplets Visit Infants' Ward Hospital",
-        "Year": "October 20, 1950",
-        "ObjectID": "58696",
-        "Work": "https://www.moma.org/collection/works/58696",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0MDY5NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f0c560b471ad2834",
+        "Artist": "Jackson Mac Low",
+        "Title": "Drawing-Asymmetry #7",
+        "Year": "1961",
+        "ObjectID": "127457",
+        "Work": "https://www.moma.org/collection/works/127457",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0NDA3MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a40ae6500d738d90",
         "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "6 3/4 \u00d7 8 7/16\" (17.2 \u00d7 21.5 cm)",
-            "Credit": "The New York Times Collection",
-            "Object number": "2103.2001",
-            "Copyright": "\u00a9 2023 The New York Times",
-            "Department": "Photography"
+            "Medium": "Ink on paper",
+            "Dimensions": "sheet: 8 9/16 x 11 7/8\" (21.7 x 30.2 cm)",
+            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
+            "Object number": "2582.2008",
+            "Copyright": "\u00a9 2023 The Estate of Jackson Mac Low",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/8620"
+        "Profile": "https://www.moma.org/artists/34743"
     },
     {
-        "Artist": "Trudi Sitterle, Harold Sitterle",
-        "Title": "Pepper Mill, Salt Dish, and Spoon (Exhibited in the US Pavilion in the 1951 Milan Triennale)",
-        "Year": "1949-50",
-        "ObjectID": "1411",
-        "Work": "https://www.moma.org/collection/works/1411",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjU5MzY0Il0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNTEyeDUxMlx1MDAzZSJdXQ.jpg?sha=73df8a1368c44bdd",
+        "Artist": "Sameer Makarius",
+        "Title": "Alberto Greco \u00a1Que Grande Sos!",
+        "Year": "1961",
+        "ObjectID": "205420",
+        "Work": "https://www.moma.org/collection/works/205420",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM3NTM2NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f2ec070b49a2cab6",
         "Details": {
-            "Manufacturer": "Manufactured by Sitterle Ceramics, Croton Falls, NY",
-            "Medium": "Glazed porcelain and metal",
-            "Dimensions": ".1 (pepper mill): h. 4 3/4\" (12.1 cm), diam.  2\" (5.1 cm) \r\n.2a (dish): h. 1 9/16\" (4 cm), diam. 2\"  (5.1 cm)\r\n.2.b (spoon): l. 2 5/8\" (6.7 cm)",
-            "Credit": "Gift of Sitterle Ceramics",
-            "Object number": "SC8.1955.1-2",
-            "Department": "Architecture and Design"
+            "Medium": "Gelatin silver print, printed 2006",
+            "Dimensions": "Each: 9 7/16 \u00d7 11 13/16\" (24 \u00d7 30 cm)",
+            "Performer": "Alberto Greco",
+            "Credit": "Latin American and Caribbean Fund",
+            "Object number": "257.2016.7",
+            "Copyright": "\u00a9 2023 Alberto Greco",
+            "Department": "Media and Performance"
         },
-        "Profile": "https://www.moma.org/artists/5460"
+        "Profile": "https://www.moma.org/artists/38774"
     },
     {
-        "Artist": "David Smith",
-        "Title": "Twenty-Four Greek Y's",
-        "Year": "1950",
-        "ObjectID": "81310",
-        "Work": "https://www.moma.org/collection/works/81310",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNzk0NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=daae565d66de39ed",
+        "Artist": "Piero Manzoni",
+        "Title": "Artist's Shit No. 014",
+        "Year": "May 1961",
+        "ObjectID": "80768",
+        "Work": "https://www.moma.org/collection/works/80768",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyODAxOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=de95d4d270f95adc",
         "Details": {
-            "Medium": "Painted steel",
-            "Dimensions": "42 3/4 x 29 1/8 x 6\" (108.6 x 73.9 x 15.2 cm)",
-            "Credit": "Blanchette Hooker Rockefeller Fund",
-            "Object number": "294.1956",
+            "Medium": "Metal, paper, and \u201cartist\u2019s shit\u201d",
+            "Dimensions": "1 7/8\" (4.8 cm) x 2 1/2\" (6.5 cm) in diameter",
+            "Credit": "Gift of Jo Carole and Ronald S. Lauder",
+            "Object number": "4.1999",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / SIAE, Rome",
             "Department": "Painting and Sculpture"
         },
-        "Profile": "https://www.moma.org/artists/5480"
+        "Profile": "https://www.moma.org/artists/3741"
     },
     {
-        "Artist": "Frederick Sommer",
-        "Title": "All Children Are Ambassadors",
-        "Year": "1950",
-        "ObjectID": "46989",
-        "Work": "https://www.moma.org/collection/works/46989",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMDIwMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b0fc14ba911b4dd3",
+        "Artist": "Piero Manzoni",
+        "Title": "Line 1000 Meters Long",
+        "Year": "July 24, 1961",
+        "ObjectID": "80955",
+        "Work": "https://www.moma.org/collection/works/80955",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3NTA4MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=524ae293fad4735d",
         "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "5 3/4 \u00d7 3 1/2\" (14.4 \u00d7 9 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "156.1969",
-            "Department": "Photography"
+            "Medium": "Chrome-plated metal drum containing a roll of paper with an ink line drawn along its 1000-meter length",
+            "Dimensions": "20 1/4\" (51.2 cm) x 15 3/8\" (38.8 cm) diameter",
+            "Credit": "Gift of Fratelli Fabbri Editori and purchase",
+            "Object number": "110.1973",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / SIAE, Rome",
+            "Department": "Painting and Sculpture"
         },
-        "Profile": "https://www.moma.org/artists/5520"
+        "Profile": "https://www.moma.org/artists/3741"
     },
     {
-        "Artist": "Frederick Sommer",
-        "Title": "Aurelia",
-        "Year": "1950",
-        "ObjectID": "47009",
-        "Work": "https://www.moma.org/collection/works/47009",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMDIwNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=73ef475d8818e7eb",
+        "Artist": "Piero Manzoni",
+        "Title": "Declaration of Authenticity No. 061 (Carte d'authenticite No. 061)",
+        "Year": "1961",
+        "ObjectID": "204085",
+        "Work": "https://www.moma.org/collection/works/204085",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQwMDg5OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2cdd647aae3ee28a",
         "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "5 5/8 \u00d7 3 1/2\" (14.2 \u00d7 9 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "157.1969",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/5520"
-    },
-    {
-        "Artist": "Frederick Sommer",
-        "Title": "Beato Saltador Alegre",
-        "Year": "1950",
-        "ObjectID": "47022",
-        "Work": "https://www.moma.org/collection/works/47022",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMDIwNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7869f8d02725f4eb",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "3 7/8 \u00d7 5 3/4\" (9.9 \u00d7 14.6 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "158.1969",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/5520"
-    },
-    {
-        "Artist": "Frederick Sommer",
-        "Title": "Circumnavigation of the Blood",
-        "Year": "1950",
-        "ObjectID": "47036",
-        "Work": "https://www.moma.org/collection/works/47036",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxOTgzOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3a3ed6f66d8a1126",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "4 1/8 \u00d7 5 1/2\" (10.3 \u00d7 14.1 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "159.1969",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/5520"
-    },
-    {
-        "Artist": "Frederick Sommer",
-        "Title": "The Eatable Thief",
-        "Year": "1950",
-        "ObjectID": "47051",
-        "Work": "https://www.moma.org/collection/works/47051",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMDIwOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=bb134fcb83b9e09f",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "5 3/8 \u00d7 3 3/8\" (13.6 \u00d7 8.5 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "160.1969",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/5520"
-    },
-    {
-        "Artist": "Frederick Sommer",
-        "Title": "Ondine",
-        "Year": "1950",
-        "ObjectID": "47066",
-        "Work": "https://www.moma.org/collection/works/47066",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMDIwOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ac6105315ce5ee8a",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "3 3/4 \u00d7 5 1/2\" (9.5 \u00d7 14 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "161.1969",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/5520"
-    },
-    {
-        "Artist": "Frederick Sommer",
-        "Title": "Return of the Prodigal",
-        "Year": "1950",
-        "ObjectID": "47081",
-        "Work": "https://www.moma.org/collection/works/47081",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMDIxMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=44cb969e1e532cfe",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "3 3/4 \u00d7 5 3/4\" (9.5 \u00d7 14.5 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "162.1969",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/5520"
-    },
-    {
-        "Artist": "Saul Steinberg",
-        "Title": "Two Gendarmes",
-        "Year": "(1950)",
-        "ObjectID": "35554",
-        "Work": "https://www.moma.org/collection/works/35554",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjg4MTg1Il0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNTEyeDUxMlx1MDAzZSJdXQ.jpg?sha=6095abcb8d624514",
-        "Details": {
-            "Medium": "Gouache, crayon, and ink on paper",
-            "Dimensions": "14 5/8 x 23 1/4\" (37.2 x 59 cm)",
-            "Credit": "Nina and Gordon Bunshaft Bequest",
-            "Object number": "SC208.1995",
-            "Copyright": "\u00a9 2023 The Saul Steinberg Foundation / Artists Rights Society (ARS), New York",
+            "Medium": "Double-sided offset lithograph with letterpress, pen, stamped ink, and pasted printed paper",
+            "Dimensions": "sheet: 2 13/16 \u00d7 4\" (7.2 \u00d7 10.2 cm)",
+            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
+            "Object number": "3694.2008",
+            "Copyright": "\u00a9  2017 Artists Rights Society (ARS), New York / SIAE, Rome",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/5627"
+        "Profile": "https://www.moma.org/artists/3741"
     },
     {
-        "Artist": "Jakob Steinhardt",
-        "Title": "Grotesque IV (Groteske IV)",
-        "Year": "1950",
-        "ObjectID": "60999",
-        "Work": "https://www.moma.org/collection/works/60999",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMzkyOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9a320314eb485041",
+        "Artist": "Piero Manzoni",
+        "Title": "Declaration of Authenticity No. 028 (Carte d'authenticite No. 028)",
+        "Year": "1961",
+        "ObjectID": "205298",
+        "Work": "https://www.moma.org/collection/works/205298",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5NzA5NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8b8b12d537e6f6d7",
         "Details": {
-            "Medium": "Woodcut with color tempera additions",
-            "Dimensions": "composition (irreg. ): 11 7/8 x 11 5/8\" (30.2 x 29.6 cm); sheet: 12 3/4 x 12 5/8\" (32.4 x 32 cm)",
-            "Publisher": "Unidentified",
-            "Printer": "Jakob Steinhardt",
-            "Edition": "25",
-            "Credit": "Gift of Erwin Eliel",
-            "Object number": "54.1953",
-            "Copyright": "\u00a9 Courtesy of Josefa Bar-On Steinhardt",
+            "Medium": "Double-sided offset lithograph with letterpress, pen, stamped ink, and pasted printed paper",
+            "Dimensions": "sheet: 2 13/16 \u00d7 4\" (7.1 \u00d7 10.2 cm)",
+            "Credit": "Gift of Annina Nosei",
+            "Object number": "1419.2016.a-b",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / SIAE, Rome",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/5633"
-    },
-    {
-        "Artist": "Jakob Steinhardt",
-        "Title": "The Evil (Das Ubel)",
-        "Year": "1950",
-        "ObjectID": "61015",
-        "Work": "https://www.moma.org/collection/works/61015",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5NDE3NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c0e8aa80da55fa33",
-        "Details": {
-            "Medium": "Woodcut with color tempera additions",
-            "Dimensions": "composition: 14 1/2 x 19 3/4\" (36.9 x 50.1 cm); sheet: 18 7/8 x 24 7/16\" (48 x 62 cm)",
-            "Publisher": "Unidentified",
-            "Printer": "Jakob Steinhardt",
-            "Edition": "25",
-            "Credit": "Gift of Mrs. L. H. Grunebaum",
-            "Object number": "55.1953",
-            "Copyright": "\u00a9 Courtesy of Josefa Bar-On Steinhardt",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5633"
-    },
-    {
-        "Artist": "Hedda Sterne",
-        "Title": "Monroe Wheeler",
-        "Year": "1950",
-        "ObjectID": "34430",
-        "Work": "https://www.moma.org/collection/works/34430",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyMTgzNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=484957516037090d",
-        "Details": {
-            "Medium": "Pencil on two sheets of paper",
-            "Dimensions": "each: 8 5/8 \u00d7 12\" (21.9 \u00d7 30.5 cm)",
-            "Credit": "Gift of Monroe Wheeler",
-            "Object number": "125.1979.1-2",
-            "Copyright": "\u00a9 2023 Hedda Sterne / Artists Rights Society (ARS), New York",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5653"
-    },
-    {
-        "Artist": "Paul Strand",
-        "Title": "Cafe de la Paix",
-        "Year": "1950",
-        "ObjectID": "49500",
-        "Work": "https://www.moma.org/collection/works/49500",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwODYwOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3605dfa24f62dcbc",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "7 11/16 \u00d7 9 3/4\" (19.6 \u00d7 24.7 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "248.1957",
-            "Copyright": "\u00a9 Aperture Foundation Inc., Paul Strand Archive",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/5685"
-    },
-    {
-        "Artist": "Ladislav Sutnar",
-        "Title": "Sutnar + Hall-307 East 37 St-New York 16, NY",
-        "Year": "Unknown",
-        "ObjectID": "8461",
-        "Work": "https://www.moma.org/collection/works/8461",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMTIxNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=308beb15d6018e16",
-        "Details": {
-            "Medium": "Offset lithograph",
-            "Dimensions": "4 1/8 x 9 1/2\" (10.5 x 24.1 cm)",
-            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
-            "Object number": "987.1999",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/5740"
-    },
-    {
-        "Artist": "Ladislav Sutnar",
-        "Title": "Best Wishes of the Season, Ladislav Sutnar",
-        "Year": "Unknown",
-        "ObjectID": "8462",
-        "Work": "https://www.moma.org/collection/works/8462",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMTIxNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ce59e19b780008c8",
-        "Details": {
-            "Medium": "Offset photolithograph",
-            "Dimensions": "12 x 9 9/16\" (30.4 x 24.3 cm)",
-            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
-            "Object number": "988.1999",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/5740"
-    },
-    {
-        "Artist": "Ladislav Sutnar",
-        "Title": "Catalog Design Process by K. Lonberg-Holm and Ladislav Sutnar",
-        "Year": "1950",
-        "ObjectID": "129023",
-        "Work": "https://www.moma.org/collection/works/129023",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MjgxOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=250d5b59c6661424",
-        "Details": {
-            "Medium": "LIthograph",
-            "Dimensions": "(folded): 8 1/2 x 3 3/4\" (21.6 x 9.5 cm)\r\n(unfolded): 11 3/4 x 14\" (29.8 x 35.6 cm)",
-            "Publisher": "Sweet's Catalog Service, USA",
-            "Credit": "Gift of Radoslav Sutnar",
-            "Object number": "401.2009.1",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/5740"
-    },
-    {
-        "Artist": "Ladislav Sutnar",
-        "Title": "Catalog Design",
-        "Year": "1950",
-        "ObjectID": "129024",
-        "Work": "https://www.moma.org/collection/works/129024",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MjgyMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2c684c78f3ce880a",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "Each: 8 1/2 x 3 11/16\" (21.6 x 9.4 cm)",
-            "Credit": "Gift of Radoslav Sutnar",
-            "Object number": "401.2009.2a-b",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/5740"
-    },
-    {
-        "Artist": "Ladislav Sutnar",
-        "Title": "Catalog Design Process",
-        "Year": "1950",
-        "ObjectID": "129025",
-        "Work": "https://www.moma.org/collection/works/129025",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MjgyMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f062d6acde3f612d",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "10 15/16 x 8 7/16\" (27.8 x 21.4 cm)",
-            "Credit": "Gift of Radoslav Sutnar",
-            "Object number": "401.2009.3",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/5740"
-    },
-    {
-        "Artist": "Ladislav Sutnar",
-        "Title": "Catalog Design Process",
-        "Year": "1950",
-        "ObjectID": "129026",
-        "Work": "https://www.moma.org/collection/works/129026",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MjgyMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=71b7e68f860c972f",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "11 1/4 x 8 1/4\" (28.6 x 21 cm)",
-            "Credit": "Gift of Radoslav Sutnar",
-            "Object number": "401.2009.4",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/5740"
-    },
-    {
-        "Artist": "Ladislav Sutnar",
-        "Title": "Catalog Design Process",
-        "Year": "1950",
-        "ObjectID": "129027",
-        "Work": "https://www.moma.org/collection/works/129027",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MjgyNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3c1f2c84f4c95da8",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "8 1/2 x 4\" (21.6 x 10.2 cm)",
-            "Credit": "Gift of Radoslav Sutnar",
-            "Object number": "401.2009.5",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/5740"
-    },
-    {
-        "Artist": "Ladislav Sutnar",
-        "Title": "Honeywell Customized Controls",
-        "Year": "c. 1945",
-        "ObjectID": "129035",
-        "Work": "https://www.moma.org/collection/works/129035",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MjgzOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=85b6a1435ed1611a",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "11 x 8 3/8\" (27.9 x 21.3 cm)",
-            "Publisher": "Sweet's Catalog Service, USA",
-            "Credit": "Gift of Radoslav Sutnar",
-            "Object number": "413.2009",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/5740"
-    },
-    {
-        "Artist": "Ladislav Sutnar",
-        "Title": "Schiffer Prints: Stimulus Fabrics",
-        "Year": "c.1945",
-        "ObjectID": "129044",
-        "Work": "https://www.moma.org/collection/works/129044",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3Mjg2MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3b47d40c13ea31db",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "11 x 8 3/8\" (27.9 x 21.3 cm)",
-            "Credit": "Gift of Radoslav Sutnar",
-            "Object number": "431.2009",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/5740"
-    },
-    {
-        "Artist": "Ladislav Sutnar",
-        "Title": "Herman Nelson Unit Heaters",
-        "Year": "1941-1950",
-        "ObjectID": "129045",
-        "Work": "https://www.moma.org/collection/works/129045",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MjgzNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=dd50c6b1272efdeb",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "11 x 8 3/8\" (27.9 x 21.3 cm)",
-            "Publisher": "Sweet's Catalog Service, USA",
-            "Credit": "Gift of Radoslav Sutnar",
-            "Object number": "412.2009",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/5740"
-    },
-    {
-        "Artist": "Ladislav Sutnar",
-        "Title": "Heavy Sheet Steel Fabricators",
-        "Year": "c. 1945",
-        "ObjectID": "129046",
-        "Work": "https://www.moma.org/collection/works/129046",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MjgzNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=213e3a8ecbb97287",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "11 x 8 3/8\" (27.9 x 21.3 cm)",
-            "Publisher": "Sweet's Catalog Service, USA",
-            "Credit": "Gift of Radoslav Sutnar",
-            "Object number": "411.2009",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/5740"
-    },
-    {
-        "Artist": "Ladislav Sutnar",
-        "Title": "Alemite Industrial Lubrication Equipment",
-        "Year": "1941-1950",
-        "ObjectID": "129061",
-        "Work": "https://www.moma.org/collection/works/129061",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MjgxMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=32acb16ba5156048",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "11 x 8 3/8\" (27.9 x 21.3 cm)",
-            "Publisher": "Sweet's Catalog Service, USA",
-            "Credit": "Gift of Radoslav Sutnar",
-            "Object number": "394.2009",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/5740"
-    },
-    {
-        "Artist": "Ladislav Sutnar",
-        "Title": "Construction Revival: Guide Signs to Peacetime Expansion and Prosperity., A Market Study by F.W. Dodge Corporation",
-        "Year": "c. 1945",
-        "ObjectID": "129063",
-        "Work": "https://www.moma.org/collection/works/129063",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MjgzMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ec4664055c4ceafe",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "8 3/8 x 11\" (21.3 x 27.9 cm)",
-            "Credit": "Gift of Radoslav Sutnar",
-            "Object number": "405.2009",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/5740"
-    },
-    {
-        "Artist": "John Szarkowski",
-        "Title": "Screen Door, Hudson, Wisconsin",
-        "Year": "1950",
-        "ObjectID": "56133",
-        "Work": "https://www.moma.org/collection/works/56133",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwOTI0MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=dd5250a24892b1c8",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "12 11/16 \u00d7 9 11/16\" (32.2 \u00d7 24.6 cm)",
-            "Credit": "Acquired through the generosity of Christie Calder Salomon",
-            "Object number": "692.1994",
-            "Copyright": "\u00a9 2023 Estate of John Szarkowski",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/8084"
+        "Profile": "https://www.moma.org/artists/3741"
     }
 ]

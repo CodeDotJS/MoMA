@@ -1,926 +1,813 @@
 [
     {
-        "Artist": "Louise Bourgeois",
-        "Title": "Ma Maison",
-        "Year": "2009",
-        "ObjectID": "163235",
-        "Work": "https://www.moma.org/collection/works/163235",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3OTM3MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4eeb0cac47ab8620",
+        "Artist": "Kengo Kuma",
+        "Title": "GC Prostho Museum Research Center, Kasugai, Aichi, Japan (Elevation sketch)",
+        "Year": "2010",
+        "ObjectID": "180404",
+        "Work": "https://www.moma.org/collection/works/180404",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5MzE1NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ab5ae7bc1ae9e53d",
         "Details": {
-            "State/variant": "Only state, variant",
-            "Medium": "Etching",
-            "Dimensions": "sheet: 42 3/4 x 38 3/4\" (108.6 x 98.4 cm)",
-            "Publisher": "unpublished",
-            "Printer": "Wingate Studio, Hinsdale, NH",
-            "Edition": "2 known variant impressions of the only state, outside the edition",
-            "Impresssion": "Not numbered",
-            "Credit": "Gift of the artist",
-            "Object number": "567.2013",
-            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/710"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "Ma Maison",
-        "Year": "2009",
-        "ObjectID": "163236",
-        "Work": "https://www.moma.org/collection/works/163236",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3OTM3MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=50373f3771ba4a5d",
-        "Details": {
-            "State/variant": "Only state, variant",
-            "Medium": "Etching",
-            "Dimensions": "plate: 31 9/16 x 34 5/8\" (80.1 x 88 cm); sheet: 34 1/16 x 45 3/4\" (86.5 x 116.2 cm)",
-            "Publisher": "unpublished",
-            "Printer": "Wingate Studio, Hinsdale, NH",
-            "Edition": "2 known variant impressions of the only state, outside the edition",
-            "Impresssion": "Not numbered",
-            "Credit": "Gift of the artist",
-            "Object number": "568.2013",
-            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/710"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "Where Would We Be Without Each Other?",
-        "Year": "2009",
-        "ObjectID": "163242",
-        "Work": "https://www.moma.org/collection/works/163242",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4MDA5OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e35849bef8c06a24",
-        "Details": {
-            "State/variant": "Only state",
-            "Medium": "Etching, with hand additions",
-            "Dimensions": "plate (a and b) (each): 34 3/4 \u00d7 31 11/16\" (88.2 \u00d7 80.5 cm); sheet (a): 45 3/8 x 33 7/8\" (115.2 x 86.1 cm); sheet (b): 45 5/16 x 34\" (115.1 x 86.3 cm)",
-            "Publisher": "Osiris, New York",
-            "Printer": "Wingate Studio, Hinsdale, NH",
-            "Edition": "9",
-            "Impresssion": "\"4/9\" left lower margin, pencil, artist's hand.",
-            "Credit": "Gift of the artist",
-            "Object number": "569.2013.a-b",
-            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/710"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "Where Would We Be Without Each Other?",
-        "Year": "2009",
-        "ObjectID": "163246",
-        "Work": "https://www.moma.org/collection/works/163246",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4MDEwMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e5144d87680d3fd1",
-        "Details": {
-            "State/variant": "Only state",
-            "Medium": "Etching, with hand additions",
-            "Dimensions": "plate (a and b) (each): 34 3/4 \u00d7 31 11/16\" (88.2 \u00d7 80.5 cm); sheet (a): 45 3/8 \u00d7 33 7/8\" (115.2 \u00d7 86.1 cm); sheet (b): 45 3/8 \u00d7 33 7/8\" (115.2 \u00d7 86.1 cm)",
-            "Publisher": "Osiris, New York",
-            "Printer": "Wingate Studio, Hinsdale, NH",
-            "Edition": "9",
-            "Impresssion": "\"8/9\" lower left margin, pencil, artist's hand.",
-            "Credit": "Gift of the artist",
-            "Object number": "570.2013.a-b",
-            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/710"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "Ma Famille",
-        "Year": "2009",
-        "ObjectID": "163248",
-        "Work": "https://www.moma.org/collection/works/163248",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3OTM3NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3e29c94fac7be466",
-        "Details": {
-            "State/variant": "Only state",
-            "Medium": "Etching",
-            "Dimensions": "plate: 34 13/16 x 31 11/16\" (88.5 x 80.5 cm); sheet: 42 1/16 x 39\" (106.9 x 99 cm)",
-            "Publisher": "unpublished",
-            "Printer": "Wingate Studio, Hinsdale, NH",
-            "Edition": "1 known impression of the only state, outside the unique variants",
-            "Impresssion": "Not numbered",
-            "Credit": "Gift of the artist",
-            "Object number": "571.2013",
-            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/710"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "La Danse",
-        "Year": "2009",
-        "ObjectID": "163253",
-        "Work": "https://www.moma.org/collection/works/163253",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3OTM3NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=57bf2ec00932c7bc",
-        "Details": {
-            "State/variant": "Only state",
-            "Medium": "Aquatint, with hand additions",
-            "Dimensions": "plate: 31 11/16 x 34 5/8\" (80.5 x 88 cm); sheet: 33 15/16 x 38 9/16\" (86.2 x 98 cm)",
-            "Publisher": "Osiris, New York",
-            "Printer": "Wingate Studio, Hinsdale, NH",
-            "Edition": "9",
-            "Impresssion": "\"2/9\" lower left composition, pencil, artist's hand.",
-            "Credit": "Gift of the artist",
-            "Object number": "572.2013",
-            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/710"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "La Danse",
-        "Year": "2009",
-        "ObjectID": "163254",
-        "Work": "https://www.moma.org/collection/works/163254",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3OTM3NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=24a749a366efa92a",
-        "Details": {
-            "State/variant": "Only state",
-            "Medium": "Aquatint, with hand additions",
-            "Dimensions": "plate: 31 3/4 x 34 11/16\" (80.6 x 88.1 cm); sheet: 33 3/4 x 35 3/16\" (85.7 x 89.4 cm)",
-            "Publisher": "Osiris, New York",
-            "Printer": "Wingate Studio, Hinsdale, NH",
-            "Edition": "9",
-            "Impresssion": "\"3/9\" lower left composition, pencil, artist's hand.",
-            "Credit": "Gift of the artist",
-            "Object number": "573.2013",
-            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/710"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "La Danse",
-        "Year": "2009",
-        "ObjectID": "163257",
-        "Work": "https://www.moma.org/collection/works/163257",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3NjQ4MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=dcb8721f69830aba",
-        "Details": {
-            "State/variant": "Only state",
-            "Medium": "Aquatint, with hand additions",
-            "Dimensions": "plate: 31 3/4 x 34 13/16\" (80.6 x 88.4 cm); sheet: 33 7/8 x 38 9/16\" (86 x 98 cm)",
-            "Publisher": "Osiris, New York",
-            "Printer": "Wingate Studio, Hinsdale, NH",
-            "Edition": "9",
-            "Impresssion": "\"6/9\" lower left composition, pencil, artist's hand.",
-            "Credit": "Gift of the artist",
-            "Object number": "574.2013",
-            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/710"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "The Swarm",
-        "Year": "2009",
-        "ObjectID": "163270",
-        "Work": "https://www.moma.org/collection/works/163270",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3OTM3NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6d7287791b6f7ce2",
-        "Details": {
-            "State/variant": "Only state",
-            "Medium": "Aquatint",
-            "Dimensions": "plate: 34 7/8 x 31 3/4\" (88.6 x 80.7 cm); sheet: 45 3/16 x 34\" (114.7 x 86.4 cm)",
-            "Publisher": "Osiris, New York",
-            "Printer": "Wingate Studio, Hinsdale, NH",
-            "Edition": "9",
-            "Impresssion": "\"7/9\" lower left margin, pencil, artist's hand.",
-            "Credit": "Gift of the artist",
-            "Object number": "575.2013",
-            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/710"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "Untitled",
-        "Year": "2009",
-        "ObjectID": "163275",
-        "Work": "https://www.moma.org/collection/works/163275",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3OTM3OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c1057166302bb539",
-        "Details": {
-            "State/variant": "Only state, variant",
-            "Medium": "Etching",
-            "Dimensions": "sheet: 42 3/4 x 38 7/8\" (108.6 x 98.8 cm)",
-            "Publisher": "unpublished",
-            "Printer": "Wingate Studio, Hinsdale, NH",
-            "Edition": "1 known variant impression of the only state, outside the edition",
-            "Impresssion": "Not numbered",
-            "Credit": "Gift of the artist",
-            "Object number": "576.2013",
-            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/710"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "Untitled",
-        "Year": "2009",
-        "ObjectID": "163278",
-        "Work": "https://www.moma.org/collection/works/163278",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3OTM3OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1c31c80fa813c5ae",
-        "Details": {
-            "State/variant": "Only state",
-            "Medium": "Etching",
-            "Dimensions": "plate: 34 11/16 x 31 3/4\" (88.1 x 80.6 cm); sheet: 43 7/8 x 33 5/8\" (111.5 x 85.4 cm)",
-            "Publisher": "Osiris, New York",
-            "Printer": "Wingate Studio, Hinsdale, NH",
-            "Edition": "9; plus 1 T.P.",
-            "Impresssion": "\"3/9\" lower left margin, pencil, artist's hand.",
-            "Credit": "Gift of the artist",
-            "Object number": "577.2013",
-            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/710"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "Self-Pity",
-        "Year": "2009",
-        "ObjectID": "163543",
-        "Work": "https://www.moma.org/collection/works/163543",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NzIzMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cd1ba28889645641",
-        "Details": {
-            "State/variant": "Only state",
-            "Medium": "Woven fabric",
-            "Dimensions": "sheet: 24 x 20 1/2\" (61 x 52.1 cm)",
-            "Publisher": "Louise Bourgeois",
-            "Printer": "Dyenamix, New York",
-            "Edition": "25",
-            "Impresssion": "\"AP 2/10\" right lower sheet verso, black ink, unknown hand.",
-            "Credit": "Gift of The Easton Foundation",
-            "Object number": "1597.2012",
-            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/710"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "A l'Infini Study (#1)",
-        "Year": "2008-2009",
-        "ObjectID": "163544",
-        "Work": "https://www.moma.org/collection/works/163544",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3NDYwMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=64c8d7d6fbf7b53b",
-        "Details": {
-            "State/variant": "Only state, unique variant",
-            "Medium": "Etching, with hand additions",
-            "Dimensions": "plate (in 2 horizontal parts): 35 11/16 \u00d7 59 7/8\" (90.7 \u00d7 152.1 cm); sheet: 40 \u00d7 60\" (101.6 \u00d7 152.4 cm)",
-            "Publisher": "Osiris, New York",
-            "Printer": "Wingate Studio, Hinsdale, NH",
-            "Edition": "Unique",
-            "Impresssion": "Not numbered",
-            "Credit": "Gift of the artist",
-            "Object number": "1869.2012",
-            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/710"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "A l'Infini Study (#2)",
-        "Year": "2008-2009",
-        "ObjectID": "163545",
-        "Work": "https://www.moma.org/collection/works/163545",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3NDYwMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cf5230015b2a5fcc",
-        "Details": {
-            "State/variant": "Only state, unique variant",
-            "Medium": "Etching, with hand additions",
-            "Dimensions": "plate (in 2 horizontal parts): 35 11/16 \u00d7 59 7/8\" (90.7 \u00d7 152.1 cm); sheet: 40 \u00d7 60\" (101.6 \u00d7 152.4 cm)",
-            "Publisher": "Osiris, New York",
-            "Printer": "Wingate Studio, Hinsdale, NH",
-            "Edition": "Unique",
-            "Impresssion": "Not numbered",
-            "Credit": "Gift of the artist",
-            "Object number": "1870.2012",
-            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/710"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "A l'Infini Study (#3)",
-        "Year": "2008-2009",
-        "ObjectID": "163546",
-        "Work": "https://www.moma.org/collection/works/163546",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3NDYwMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=346210294cd46d09",
-        "Details": {
-            "State/variant": "Only state, unique variant",
-            "Medium": "Etching, with hand additions",
-            "Dimensions": "plate (in 2 horizontal parts): 35 11/16 \u00d7 59 7/8\" (90.7 \u00d7 152.1 cm); sheet: 40 \u00d7 60\" (101.6 \u00d7 152.4 cm)",
-            "Printer": "Wingate Studio, Hinsdale, NH",
-            "Edition": "Unique",
-            "Impresssion": "Not numbered",
-            "Credit": "Gift of the artist",
-            "Object number": "1871.2012",
-            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/710"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "Nature Study",
-        "Year": "2009",
-        "ObjectID": "171684",
-        "Work": "https://www.moma.org/collection/works/171684",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3NDc3MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1fa77ec7fdff267b",
-        "Details": {
-            "State/variant": "State II of II, variant",
-            "Medium": "Drypoint",
-            "Dimensions": "plate: 8 13/16 x 6 5/16\" (22.4 x 16 cm); sheet: 13 1/2 x 10 7/16\" (34.3 x 26.5 cm)",
-            "Publisher": "unpublished",
-            "Printer": "Harlan & Weaver, New York",
-            "Edition": "4 known variant impressions of state II",
-            "Impresssion": "Not numbered",
-            "Credit": "Gift of Jean-Louis Bourgeois and Alain Bourgeois",
-            "Object number": "759.2013",
-            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/710"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "Nature Study",
-        "Year": "2009",
-        "ObjectID": "171685",
-        "Work": "https://www.moma.org/collection/works/171685",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3NDc3NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1f56457ca03a5c45",
-        "Details": {
-            "State/variant": "State II of II, variant",
-            "Medium": "Drypoint",
-            "Dimensions": "plate: 8 7/8 x 6 5/16\" (22.5 x 16 cm); sheet: 13 3/8 x 10 3/8\" (34 x 26.3 cm)",
-            "Publisher": "unpublished",
-            "Printer": "Harlan & Weaver, New York",
-            "Edition": "4 known variant impressions of state II",
-            "Impresssion": "Not numbered",
-            "Credit": "Gift of Jean-Louis Bourgeois and Alain Bourgeois",
-            "Object number": "760.2013",
-            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/710"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "Self Portrait",
-        "Year": "2009",
-        "ObjectID": "171688",
-        "Work": "https://www.moma.org/collection/works/171688",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3NDc3NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5f05190f11d52d60",
-        "Details": {
-            "Medium": "Fabric collage, with 2 drypoints, and stitching",
-            "Dimensions": "overall: 33 3/4 \u00d7 47 3/4\" (85.7 \u00d7 121.3 cm)",
-            "Publisher": "Louise Bourgeois",
-            "Printer": "Harlan & Weaver, New York",
-            "Edition": "Unique",
-            "Credit": "Gift of Jean-Louis Bourgeois and Alain Bourgeois",
-            "Object number": "762.2013",
-            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/710"
-    },
-    {
-        "Artist": "Carol Bove",
-        "Title": "Untitled (for Parkett no. 86)",
-        "Year": "2009",
-        "ObjectID": "136160",
-        "Work": "https://www.moma.org/collection/works/136160",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NTM4OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7187fcb993ae610c",
-        "Details": {
-            "Medium": "Multiple of brass and mixed media",
-            "Dimensions": "8 5/8 x 3 1/8 x 3\" (21.9 x 7.9 x 7.6 cm)",
-            "Publisher": "Parkett Publishers, Z\u00fcrich and New York",
-            "Edition": "35",
-            "Credit": "General Print Fund",
-            "Object number": "405.2010.a-b",
-            "Copyright": "\u00a9 2023 Carol Bove",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/28570"
-    },
-    {
-        "Artist": "Joe Bradley",
-        "Title": "Untitled from Dispatch Portfolio #3",
-        "Year": "2009",
-        "ObjectID": "179479",
-        "Work": "https://www.moma.org/collection/works/179479",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5MjU0NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5fb183fbeb75cd2d",
-        "Details": {
-            "Medium": "Screenprint with pencil additions from a portfolio of four screenprints, two with hand additions",
-            "Dimensions": "composition and sheet: 9 11/16 x 6 3/4\" (24.6 x 17.2 cm)",
-            "Publisher": "Dispatch",
-            "Printer": "Axelle Editions",
-            "Edition": "20",
-            "Credit": "Gift of Anne and Arthur Goldstein",
-            "Object number": "65.2014.2",
-            "Portfolio": "Dispatch Portfolio #3",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/40534"
-    },
-    {
-        "Artist": "Bob Byington",
-        "Title": "Harmony and Me",
-        "Year": "2009",
-        "ObjectID": "315447",
-        "Work": "https://www.moma.org/collection/works/315447",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMyMzE1NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1cba95994ee97c28",
-        "Details": {
-            "Object number": "W23436",
-            "Department": "Film"
-        },
-        "Profile": "https://www.moma.org/artists/46858"
-    },
-    {
-        "Artist": "Luis Camnitzer",
-        "Title": "Memorial",
-        "Year": "2009",
-        "ObjectID": "141548",
-        "Work": "https://www.moma.org/collection/works/141548",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMxMzg3NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a4413121b91abbf7",
-        "Details": {
-            "Medium": "Portfolio of 195 digital prints",
-            "Dimensions": "each: 13 x 10 3/4\" (framed)",
-            "Publisher": "Luis Camnitzer",
-            "Printer": "Luis Camnitzer",
-            "Edition": "5",
-            "Credit": "Latin American and Caribbean Fund through gift of Adriana Cisneros de Griffin and Patricia Phelps de Cisneros",
-            "Object number": "918.2010.a-nnnnnnnn",
-            "Copyright": "\u00a9 2023 Luis Camnitzer",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/934"
-    },
-    {
-        "Artist": "Lucien Castaing-Taylor",
-        "Title": "Sweetgrass",
-        "Year": "2009",
-        "ObjectID": "173337",
-        "Work": "https://www.moma.org/collection/works/173337",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ4NTM2OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=19c3dcca8e0bb710",
-        "Details": {
-            "Production": "USA",
-            "Producer": "Ilisa Barbash",
-            "Object number": "W24396",
-            "Department": "Film"
-        },
-        "Profile": "https://www.moma.org/artists/43089"
-    },
-    {
-        "Artist": "Mariana Castillo Deball",
-        "Title": "Initiations",
-        "Year": "2009",
-        "ObjectID": "151221",
-        "Work": "https://www.moma.org/collection/works/151221",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNzg0OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1ed9a99e4baa4261",
-        "Details": {
-            "Medium": "Set of seven paperfoldings",
-            "Dimensions": "sheet (each): 11 11/16 x 8 1/4\" (29.7 x 21 cm)",
-            "Publisher": "Wiens Verlag, Berlin",
-            "Fabricator": "Mariana Castillo Deball",
-            "Edition": "13",
-            "Credit": "Committee on Prints and Illustrated Books Fund",
-            "Object number": "1003.2011.a-g",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/40556"
-    },
-    {
-        "Artist": "Enrique Chagoya",
-        "Title": "Orozco Meets Victor Hugo at the Auction House",
-        "Year": "2009",
-        "ObjectID": "132397",
-        "Work": "https://www.moma.org/collection/works/132397",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5NTE5MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e49708ac0c65a084",
-        "Details": {
-            "Medium": "Etching, aquatint, and drypoint with hand additions",
-            "Dimensions": "plate: 12 15/16 x 17 1/2\" (32.8 x 44.5 cm); sheet: 20 x 22 1/16\" (50.8 x 56 cm)",
-            "Publisher": "Universal Limited Art Editions, Bay Shore, NY",
-            "Printer": "Universal Limited Art Editions, Bay Shore, NY",
-            "Edition": "27",
-            "Credit": "Gift of Emily Fisher Landau",
-            "Object number": "1364.2009",
-            "Copyright": "\u00a9 2023 Enrique Chagoya",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/7480"
-    },
-    {
-        "Artist": "Enrique Chagoya",
-        "Title": "Homage to the Un-Square and My Cat Frida",
-        "Year": "2009",
-        "ObjectID": "132398",
-        "Work": "https://www.moma.org/collection/works/132398",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5NTE5MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c9ceaabb460cc569",
-        "Details": {
-            "Medium": "Etching, aquatint, and drypoint with hand additions",
-            "Dimensions": "plate: 12 7/8 x 15 15/16\" (32.7 x 40.5 cm); sheet: 20 1/16 x 22 1/16\" (50.9 x 56 cm)",
-            "Publisher": "Universal Limited Art Editions, Bay Shore, NY",
-            "Printer": "Universal Limited Art Editions, Bay Shore, NY",
-            "Edition": "23",
-            "Credit": "Gift of Emily Fisher Landau",
-            "Object number": "1363.2009",
-            "Copyright": "\u00a9 2023 Enrique Chagoya",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/7480"
-    },
-    {
-        "Artist": "John Chamberlain",
-        "Title": "A Body of Work",
-        "Year": "2009",
-        "ObjectID": "183927",
-        "Work": "https://www.moma.org/collection/works/183927",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM4Nzk5OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=88d30690da5f9012",
-        "Details": {
-            "Medium": "DVD",
-            "Dimensions": "cover: 5 \u00d7 5 1/2\" (12.7 \u00d7 14 cm)",
-            "Publisher": "More Gallery, Giswil, Switzerland",
-            "Credit": "Committee on Prints and Illustrated Books Fund",
-            "Object number": "854.2013.62",
-            "Associated work": "Steven Leiber Audio Collection",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/1060"
-    },
-    {
-        "Artist": "Paul Chan",
-        "Title": "The body of Oh Marys (truetype font)",
-        "Year": "2009",
-        "ObjectID": "133903",
-        "Work": "https://www.moma.org/collection/works/133903",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NzA5MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a7ce73abb3af94bf",
-        "Details": {
-            "Medium": "Ink on paper with shoes and expanding foam",
-            "Dimensions": "84 x 54\" (213.4 x 137.2 cm)",
-            "Credit": "Purchased with funds provided by Maja Oeri and Hans Bodenmann",
-            "Object number": "319.2010.a-b",
-            "Copyright": "\u00a9 2023 Paul Chan",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/26867"
-    },
-    {
-        "Artist": "Paul Chan",
-        "Title": "The body of Oh Untitled (truetype font)",
-        "Year": "2009",
-        "ObjectID": "133904",
-        "Work": "https://www.moma.org/collection/works/133904",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NzA4OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8028e85279c4f1ca",
-        "Details": {
-            "Medium": "Ink on paper with shoes and expanding foam",
-            "Dimensions": "84 x 54\" (213.4 x 137.2 cm)",
-            "Credit": "Purchased with funds provided by Maja Oeri and Hans Bodenmann",
-            "Object number": "320.2010.a-b",
-            "Copyright": "\u00a9 2023 Paul Chan",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/26867"
-    },
-    {
-        "Artist": "Paul Chan",
-        "Title": "Nasty Nets",
-        "Year": "2009",
-        "ObjectID": "133905",
-        "Work": "https://www.moma.org/collection/works/133905",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNTAxMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0e339a95b7c37133",
-        "Details": {
-            "Medium": "Ink on paper",
-            "Dimensions": "44 3/4 x 33\" (113.7 x 83.8 cm)",
-            "Credit": "Purchased with funds provided by Maja Oeri and Hans Bodenmann",
-            "Object number": "322.2010",
-            "Copyright": "\u00a9 2023 Paul Chan",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/26867"
-    },
-    {
-        "Artist": "Paul Chan",
-        "Title": "My baby's been through it all",
-        "Year": "2009",
-        "ObjectID": "133906",
-        "Work": "https://www.moma.org/collection/works/133906",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNTAxMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=337054046d8a9b31",
-        "Details": {
-            "Medium": "Ink on paper",
-            "Dimensions": "44 3/4 x 33\" (113.7 x 83.8 cm)",
-            "Credit": "Purchased with funds provided by Maja Oeri and Hans Bodenmann",
-            "Object number": "321.2010",
-            "Copyright": "\u00a9 2023 Paul Chan",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/26867"
-    },
-    {
-        "Artist": "Paul Chan",
-        "Title": "Sade for Sade's sake",
-        "Year": "2009",
-        "ObjectID": "134280",
-        "Work": "https://www.moma.org/collection/works/134280",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5NDU2NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d7ac70b5e83bbf51",
-        "Details": {
-            "Medium": "Video (color, silent)",
-            "Dimensions": "5:45 hrs.",
-            "Credit": "Committee on Media and Performance Art Funds",
-            "Object number": "1667.2009",
-            "Copyright": "\u00a9 2023 Paul Chan and Green Naftali Gallery.  Photograph by Gil Blank",
-            "Department": "Media and Performance"
-        },
-        "Profile": "https://www.moma.org/artists/26867"
-    },
-    {
-        "Artist": "Jenova (Xinghan) Chen",
-        "Title": "Flower",
-        "Year": "2009",
-        "ObjectID": "422879",
-        "Work": "https://www.moma.org/collection/works/422879",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNDkyMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=af9f33203f63cdde",
-        "Details": {
-            "Medium": "Video game software",
-            "Publisher": "thatgamecompany, Los Angeles, CA",
-            "Credit": "Gift of Sony Interactive Entertainment LLC",
-            "Object number": "182.2021",
-            "Copyright": "\u00a9 2008 Sony Interactive Entertainment LLC. \"Flower\" is a registered trademark\r\nor trademark of Sony Interactive Entertainment LLC. Developed by thatgamecompany",
+            "Architectural firm": "Kengo Kuma & Associates",
+            "Medium": "Pencil on tracing paper",
+            "Dimensions": "16 1/2 x 11 3/4\" (41.9 x 29.8 cm)",
+            "Credit": "Gift of the architect",
+            "Object number": "1156.2013.4",
             "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/42593"
+        "Profile": "https://www.moma.org/artists/44528"
     },
     {
-        "Artist": "Kudzanai Chiurai",
-        "Title": "Vote at Own Risk",
-        "Year": "2009",
-        "ObjectID": "137454",
-        "Work": "https://www.moma.org/collection/works/137454",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MDg2MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5a16542457b0f18c",
+        "Artist": "Elad Lassry",
+        "Title": "Beets",
+        "Year": "2010",
+        "ObjectID": "135096",
+        "Work": "https://www.moma.org/collection/works/135096",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MTMxNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0d14cec2804de352",
         "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "composition: 23 1/4 x 16 5/8\" (59.1 x 42.2 cm); sheet: 25 1/4 x 17 3/4\" (64.1 x 45.1 cm)",
-            "Publisher": "Kudzanai Chiurai, Johannesburg",
-            "Printer": "Lucas Kutu, Johannesburg",
-            "Edition": "approx. 250",
-            "Credit": "Committee on Prints and Illustrated Books Fund",
-            "Object number": "920.2010",
+            "Medium": "Chromogenic print",
+            "Dimensions": "11 1/2 \u00d7 14 1/2\" (29.2 \u00d7 36.8 cm)",
+            "Credit": "Fund for the Twenty-First Century",
+            "Object number": "368.2010",
+            "Copyright": "\u00a9 2023 Elad Lassry",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/38028"
+    },
+    {
+        "Artist": "Elad Lassry",
+        "Title": "Woman (Camera)",
+        "Year": "2010",
+        "ObjectID": "135097",
+        "Work": "https://www.moma.org/collection/works/135097",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MTMxOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=02ce87db4bf33859",
+        "Details": {
+            "Medium": "Chromogenic print",
+            "Dimensions": "8 1/2 \u00d7 10 1/2\" (21.6 \u00d7 26.7 cm)",
+            "Credit": "Fund for the Twenty-First Century",
+            "Object number": "369.2010",
+            "Copyright": "\u00a9 2023 Elad Lassry",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/38028"
+    },
+    {
+        "Artist": "Deana Lawson",
+        "Title": "Roxie and Raquel, New Orleans, Louisiana",
+        "Year": "2010",
+        "ObjectID": "143022",
+        "Work": "https://www.moma.org/collection/works/143022",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM4MjE3NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=563196cc60dcbf31",
+        "Details": {
+            "Medium": "Inkjet print",
+            "Dimensions": "34 3/4 \u00d7 43 5/8\" (88.3 \u00d7 110.8 cm)",
+            "Credit": "Fund for the Twenty-First Century",
+            "Object number": "60.2011.x1-x2",
+            "Copyright": "\u00a9 2023 Deana Lawson",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/38858"
+    },
+    {
+        "Artist": "Mark Leckey",
+        "Title": "GreenScreenRefrigerator",
+        "Year": "2010",
+        "ObjectID": "221829",
+        "Work": "https://www.moma.org/collection/works/221829",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQyNTM3NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=43c8fd9027653204",
+        "Details": {
+            "Medium": "Samsung RFG293HABP Bottom Freezer Refrigerator, LED panel, inflatable nylon fluorescent light, DuPont Freon canister, and video (color, sound)",
+            "Dimensions": "Dimensions variable",
+            "Credit": "The Jill and Peter Kraus Media and Performance Acquisition Fund",
+            "Object number": "516.2017",
+            "Department": "Media and Performance"
+        },
+        "Profile": "https://www.moma.org/artists/33748"
+    },
+    {
+        "Artist": "Julian Lethbridge",
+        "Title": "Exert",
+        "Year": "2010",
+        "ObjectID": "137384",
+        "Work": "https://www.moma.org/collection/works/137384",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5NTI3MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3066d46a3da594f3",
+        "Details": {
+            "Medium": "Photogravure with viscosity printing",
+            "Dimensions": "plate: 11 7/8 x 8 7/16\" (30.1 x 21.5 cm); sheet: 17 x 12 3/4\" (43.2 x 32.4 cm)",
+            "Publisher": "Universal Limited Art Editions, Bay Shore, NY",
+            "Printer": "Universal Limited Art Editions, Bay Shore, NY",
+            "Edition": "16",
+            "Credit": "Acquired through the generosity of Mary M. Spencer",
+            "Object number": "425.2010",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/38241"
+        "Profile": "https://www.moma.org/artists/3500"
     },
     {
-        "Artist": "Kudzanai Chiurai",
-        "Title": "Abuse of Power",
-        "Year": "2009",
-        "ObjectID": "142557",
-        "Work": "https://www.moma.org/collection/works/142557",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNzMzMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b8adee682885ab55",
+        "Artist": "Julian Lethbridge",
+        "Title": "Frieze",
+        "Year": "2010",
+        "ObjectID": "147146",
+        "Work": "https://www.moma.org/collection/works/147146",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNDk3NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c35f9f1351fb7410",
         "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "composition: 22 5/8 x 16 5/8\" (57.5 x 42.2 cm); sheet: 25 1/4 x 17 3/4\" (64.1 x 45.1 cm)",
-            "Publisher": "Kudzanai Chiurai, Johannesburg",
-            "Printer": "Lucas Kutu, Johannesburg",
-            "Edition": "approx. 250",
-            "Credit": "Acquired through the generosity of the Vascovitz Family",
-            "Object number": "919.2010",
+            "Medium": "Photogravure",
+            "Dimensions": "plate: 10 7/8 x 8 3/16\" (27.7 x 20.8 cm); sheet: 16 x 12 7/16\" (40.6 x 31.6 cm)",
+            "Publisher": "Universal Limited Art Editions, Bay Shore, NY",
+            "Printer": "Universal Limited Art Editions, Bay Shore, NY",
+            "Edition": "12",
+            "Credit": "Acquired through the generosity of Mary M. and Sash A. Spencer",
+            "Object number": "297.2011",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/38241"
+        "Profile": "https://www.moma.org/artists/3500"
     },
     {
-        "Artist": "Marco Cianfanelli",
-        "Title": "Mapping II (Heart)",
-        "Year": "2009",
-        "ObjectID": "137459",
-        "Work": "https://www.moma.org/collection/works/137459",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1MTg4OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=da2c61ff73237fbc",
+        "Artist": "Julian Lethbridge",
+        "Title": "Alloy",
+        "Year": "2010",
+        "ObjectID": "147147",
+        "Work": "https://www.moma.org/collection/works/147147",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNDk3NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d80da7510aa0c415",
         "Details": {
-            "Medium": "Laser-cut paper",
-            "Dimensions": "16 15/16 \u00d7 21 7/16\" (43 \u00d7 54.5 cm)",
-            "Edition": "3",
-            "Credit": "General Print Fund",
-            "Object number": "408.2010",
+            "Medium": "Photogravure",
+            "Dimensions": "plate: 11 5/8 x 8 11/16\" (29.5 x 22 cm); sheet: 15 7/8 x 12 11/16\" (40.4 x 32.2 cm)",
+            "Publisher": "Universal Limited Art Editions, Bay Shore, NY",
+            "Printer": "Universal Limited Art Editions, Bay Shore, NY",
+            "Edition": "10",
+            "Credit": "Acquired through the generosity of Mary M. and Sash A. Spencer",
+            "Object number": "296.2011",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/38242"
+        "Profile": "https://www.moma.org/artists/3500"
     },
     {
-        "Artist": "Marco Cianfanelli",
-        "Title": "Mapping I (Brain)",
-        "Year": "2009",
-        "ObjectID": "137474",
-        "Work": "https://www.moma.org/collection/works/137474",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NjY5OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e11762bbde43bd01",
+        "Artist": "Paul Lewis, Marc Tsurumaki, David J. Lewis",
+        "Title": "Aquaculture Research and Development Center, Water Proving Ground Project, Liberty State Park, NJ (Aerial perspective)",
+        "Year": "2010",
+        "ObjectID": "167567",
+        "Work": "https://www.moma.org/collection/works/167567",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NjMyNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=46a33d38917ae567",
         "Details": {
-            "Medium": "One from a series of six etchings",
-            "Dimensions": "26 3/8 \u00d7 29 15/16\" (67 \u00d7 76 cm)",
-            "Edition": "artist's proof outside the edition of 6",
-            "Credit": "General Print Fund",
-            "Object number": "409.2010.1",
-            "Portfolio": "Mapping I-VI (Brain)",
-            "Department": "Drawings and Prints"
+            "Architectural firm": "LTL Architects, PLLC",
+            "Medium": "Inkjet print",
+            "Dimensions": "33 5/8 x 44 1/8\" (85.4 x 112.1 cm)",
+            "Credit": "Gift of the architects",
+            "Object number": "92.2013.1",
+            "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/38242"
+        "Profile": "https://www.moma.org/artists/37851"
     },
     {
-        "Artist": "Marco Cianfanelli",
-        "Title": "Mapping II (Brain)",
-        "Year": "2009",
-        "ObjectID": "137475",
-        "Work": "https://www.moma.org/collection/works/137475",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NjY5OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=14b3f24bdf8d32f2",
+        "Artist": "Paul Lewis, Marc Tsurumaki, David J. Lewis",
+        "Title": "Aquaculture Research and Development Center, Water Proving Ground Project, Liberty State Park, NJ (Aerial perspective)",
+        "Year": "2010",
+        "ObjectID": "167568",
+        "Work": "https://www.moma.org/collection/works/167568",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NjMzMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2ec2a9b1de86acf7",
         "Details": {
-            "Medium": "One from a series of six etchings",
-            "Dimensions": "26 3/8 \u00d7 29 15/16\" (67 \u00d7 76 cm)",
-            "Edition": "artist's proof outside the edition of 6",
-            "Credit": "General Print Fund",
-            "Object number": "409.2010.2",
-            "Portfolio": "Mapping I-VI (Brain)",
-            "Department": "Drawings and Prints"
+            "Architectural firm": "LTL Architects, PLLC",
+            "Medium": "Inkjet print",
+            "Dimensions": "29 x 44\" (73.7 x 111.8 cm)",
+            "Credit": "Gift of the architects",
+            "Object number": "92.2013.2",
+            "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/38242"
+        "Profile": "https://www.moma.org/artists/37851"
     },
     {
-        "Artist": "Marco Cianfanelli",
-        "Title": "Mapping III (Brain)",
-        "Year": "2009",
-        "ObjectID": "137476",
-        "Work": "https://www.moma.org/collection/works/137476",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NjcwMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c8e76ec226092651",
+        "Artist": "Paul Lewis, Marc Tsurumaki, David J. Lewis",
+        "Title": "Aquaculture Research and Development Center, Water Proving Ground Project, Liberty State Park, NJ (Aerial perspective)",
+        "Year": "2010",
+        "ObjectID": "167569",
+        "Work": "https://www.moma.org/collection/works/167569",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NjMzNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cafb1f15c680755f",
         "Details": {
-            "Medium": "One from a series of six etchings",
-            "Dimensions": "26 3/8 \u00d7 29 15/16\" (67 \u00d7 76 cm)",
-            "Edition": "artist's proof outside the edition of 6",
-            "Credit": "General Print Fund",
-            "Object number": "409.2010.3",
-            "Portfolio": "Mapping I-VI (Brain)",
-            "Department": "Drawings and Prints"
+            "Architectural firm": "LTL Architects, PLLC",
+            "Medium": "Inkjet print",
+            "Dimensions": "29 x 44\" (73.7 x 111.8 cm)",
+            "Credit": "Gift of the architects",
+            "Object number": "92.2013.3",
+            "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/38242"
+        "Profile": "https://www.moma.org/artists/37851"
     },
     {
-        "Artist": "Marco Cianfanelli",
-        "Title": "Mapping IV (Brain)",
-        "Year": "2009",
-        "ObjectID": "137477",
-        "Work": "https://www.moma.org/collection/works/137477",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NjcwMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=184e8a2fdd952f2f",
+        "Artist": "Paul Lewis, Marc Tsurumaki, David J. Lewis",
+        "Title": "Aquaculture Research and Development Center, Water Proving Ground Project, Liberty State Park, NJ (Aerial perspective)",
+        "Year": "2010",
+        "ObjectID": "167570",
+        "Work": "https://www.moma.org/collection/works/167570",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NjMzNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=29dbeaf8f89fbcb5",
         "Details": {
-            "Medium": "One from a series of six etchings",
-            "Dimensions": "26 3/8 \u00d7 29 15/16\" (67 \u00d7 76 cm)",
-            "Edition": "artist's proof outside the edition of 6",
-            "Credit": "General Print Fund",
-            "Object number": "409.2010.4",
-            "Portfolio": "Mapping I-VI (Brain)",
-            "Department": "Drawings and Prints"
+            "Architectural firm": "LTL Architects, PLLC",
+            "Medium": "Inkjet print",
+            "Dimensions": "29 x 44\" (73.7 x 111.8 cm)",
+            "Credit": "Gift of the architects",
+            "Object number": "92.2013.4",
+            "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/38242"
+        "Profile": "https://www.moma.org/artists/37851"
     },
     {
-        "Artist": "Marco Cianfanelli",
-        "Title": "Mapping V (Brain)",
-        "Year": "2009",
-        "ObjectID": "137478",
-        "Work": "https://www.moma.org/collection/works/137478",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NjcwMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=dab1a5afb7d5cc59",
+        "Artist": "Paul Lewis, Marc Tsurumaki, David J. Lewis",
+        "Title": "Aquaculture Research and Development Center, Water Proving Ground Project, Liberty State Park, NJ (Aerial perspective)",
+        "Year": "2010",
+        "ObjectID": "167571",
+        "Work": "https://www.moma.org/collection/works/167571",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NjMzNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=bd0750a483c6aa7b",
         "Details": {
-            "Medium": "One from a series of six etchings",
-            "Dimensions": "26 3/8 \u00d7 29 15/16\" (67 \u00d7 76 cm)",
-            "Edition": "artist's proof outside the edition of 6",
-            "Credit": "General Print Fund",
-            "Object number": "409.2010.5",
-            "Portfolio": "Mapping I-VI (Brain)",
-            "Department": "Drawings and Prints"
+            "Architectural firm": "LTL Architects, PLLC",
+            "Medium": "Pencil on mylar",
+            "Dimensions": "24 1/2 x 36\" (62.2 x 91.4 cm)",
+            "Credit": "Gift of the architects",
+            "Object number": "92.2013.5",
+            "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/38242"
+        "Profile": "https://www.moma.org/artists/37851"
     },
     {
-        "Artist": "Marco Cianfanelli",
-        "Title": "Mapping VI (Brain)",
-        "Year": "2009",
-        "ObjectID": "137479",
-        "Work": "https://www.moma.org/collection/works/137479",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NjcwMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=17860257cf065722",
+        "Artist": "Paul Lewis, Marc Tsurumaki, David J. Lewis",
+        "Title": "Aquaculture Research and Development Center, Water Proving Ground Project, Liberty State Park, NJ (Aerial perspective, boats)",
+        "Year": "2010",
+        "ObjectID": "167572",
+        "Work": "https://www.moma.org/collection/works/167572",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NzU5NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7fd2cc4b97df3125",
         "Details": {
-            "Medium": "One from a series of six etchings",
-            "Dimensions": "26 3/8 \u00d7 29 15/16\" (67 \u00d7 76 cm)",
-            "Edition": "artist's proof outside the edition of 6",
-            "Credit": "General Print Fund",
-            "Object number": "409.2010.6",
-            "Portfolio": "Mapping I-VI (Brain)",
-            "Department": "Drawings and Prints"
+            "Architectural firm": "LTL Architects, PLLC",
+            "Medium": "Pencil on mylar",
+            "Dimensions": "20 3/4 x 36\" (52.7 x 91.4 cm)",
+            "Credit": "Gift of the architects",
+            "Object number": "92.2013.6",
+            "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/38242"
+        "Profile": "https://www.moma.org/artists/37851"
     },
     {
-        "Artist": "Ed Clark",
+        "Artist": "Paul Lewis, Marc Tsurumaki, David J. Lewis",
+        "Title": "Amphitheater, Water Proving Ground Project, Liberty State Park, NJ (Aerial perspective)",
+        "Year": "2010",
+        "ObjectID": "167573",
+        "Work": "https://www.moma.org/collection/works/167573",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NjMzNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=24656a9db6e97f12",
+        "Details": {
+            "Architectural firm": "LTL Architects, PLLC",
+            "Medium": "Inkjet print",
+            "Dimensions": "32 1/2 x 44\" (82.6 x 111.8 cm)",
+            "Credit": "Gift of the architects",
+            "Object number": "92.2013.7",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/37851"
+    },
+    {
+        "Artist": "Paul Lewis, Marc Tsurumaki, David J. Lewis",
+        "Title": "Amphitheater, Water Proving Ground Project, Liberty State Park, NJ (Aerial perspective)",
+        "Year": "2010",
+        "ObjectID": "167574",
+        "Work": "https://www.moma.org/collection/works/167574",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NjMzOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9a9c537ce5fcde2c",
+        "Details": {
+            "Architectural firm": "LTL Architects, PLLC",
+            "Medium": "Inkjet print",
+            "Dimensions": "26 1/4 x 44\" (66.7 x 111.8 cm)",
+            "Credit": "Gift of the architects",
+            "Object number": "92.2013.8",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/37851"
+    },
+    {
+        "Artist": "Paul Lewis, Marc Tsurumaki, David J. Lewis",
+        "Title": "Amphitheater, Water Proving Ground Project, Liberty State Park, NJ (Aerial perspective)",
+        "Year": "2010",
+        "ObjectID": "167575",
+        "Work": "https://www.moma.org/collection/works/167575",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NjMzOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=96ec4ac73754d46c",
+        "Details": {
+            "Architectural firm": "LTL Architects, PLLC",
+            "Medium": "Inkjet print",
+            "Dimensions": "29 x 44\" (73.7 x 111.8 cm)",
+            "Credit": "Gift of the architects",
+            "Object number": "92.2013.9",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/37851"
+    },
+    {
+        "Artist": "Paul Lewis, Marc Tsurumaki, David J. Lewis",
+        "Title": "Amphitheater, Water Proving Ground Project, Liberty State Park, NJ, Aerial perspective",
+        "Year": "2010",
+        "ObjectID": "167576",
+        "Work": "https://www.moma.org/collection/works/167576",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NjMyNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6d02de307aad8d37",
+        "Details": {
+            "Architectural firm": "LTL Architects, PLLC",
+            "Medium": "Inkjet print",
+            "Dimensions": "32 1/8 x 44\" (81.6 x 111.8 cm)",
+            "Credit": "Gift of the architects",
+            "Object number": "92.2013.10",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/37851"
+    },
+    {
+        "Artist": "Paul Lewis, Marc Tsurumaki, David J. Lewis",
+        "Title": "Amphitheater, Water Proving Ground Project, Liberty State Park, NJ (Aerial perspective)",
+        "Year": "2010",
+        "ObjectID": "167577",
+        "Work": "https://www.moma.org/collection/works/167577",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NzU5MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c835bff5be5a33f3",
+        "Details": {
+            "Architectural firm": "LTL Architects, PLLC",
+            "Medium": "Pencil on mylar",
+            "Dimensions": "22 3/4 x 36\" (57.8 x 91.4 cm)",
+            "Credit": "Gift of the architects",
+            "Object number": "92.2013.11",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/37851"
+    },
+    {
+        "Artist": "Paul Lewis, Marc Tsurumaki, David J. Lewis",
+        "Title": "Water Lodge, Water Proving Ground Project, Liberty State Park, NJ (Aerial perspective)",
+        "Year": "2010",
+        "ObjectID": "167578",
+        "Work": "https://www.moma.org/collection/works/167578",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NjMyNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=eb00a4d0a935c139",
+        "Details": {
+            "Architectural firm": "LTL Architects, PLLC",
+            "Medium": "Inkjet print",
+            "Dimensions": "36 3/4 x 44\" (93.3 x 111.8 cm)",
+            "Credit": "Gift of the architects",
+            "Object number": "92.2013.12",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/37851"
+    },
+    {
+        "Artist": "Paul Lewis, Marc Tsurumaki, David J. Lewis",
+        "Title": "Water Lodge, Water Proving Ground Project, Liberty State Park, NJ (Aerial perspective)",
+        "Year": "2010",
+        "ObjectID": "167579",
+        "Work": "https://www.moma.org/collection/works/167579",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NjMyNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=677a04d489215f9b",
+        "Details": {
+            "Architectural firm": "LTL Architects, PLLC",
+            "Medium": "Inkjet print",
+            "Dimensions": "29 x 44\" (73.7 x 111.8 cm)",
+            "Credit": "Gift of the architects",
+            "Object number": "92.2013.13",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/37851"
+    },
+    {
+        "Artist": "Paul Lewis, Marc Tsurumaki, David J. Lewis",
+        "Title": "Water Lodge, Water Proving Ground Project, Liberty State Park, NJ (Aerial perspective)",
+        "Year": "2010",
+        "ObjectID": "167580",
+        "Work": "https://www.moma.org/collection/works/167580",
+        "Thumbnail": null,
+        "Details": {
+            "Architectural firm": "LTL Architects, PLLC",
+            "Medium": "Inkjet print",
+            "Dimensions": "29 x 44\" (73.7 x 111.8 cm)",
+            "Credit": "Gift of the architects",
+            "Object number": "92.2013.14",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/37851"
+    },
+    {
+        "Artist": "Paul Lewis, Marc Tsurumaki, David J. Lewis",
+        "Title": "Water Lodge, Water Proving Ground Project, Liberty State Park, NJ (Aerial perspective)",
+        "Year": "2010",
+        "ObjectID": "167581",
+        "Work": "https://www.moma.org/collection/works/167581",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NjMyOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fea01e179cb093de",
+        "Details": {
+            "Architectural firm": "LTL Architects, PLLC",
+            "Medium": "Inkjet print",
+            "Dimensions": "29 x 44\" (73.7 x 111.8 cm)",
+            "Credit": "Gift of the architects",
+            "Object number": "92.2013.15",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/37851"
+    },
+    {
+        "Artist": "Paul Lewis, Marc Tsurumaki, David J. Lewis",
+        "Title": "Water Lodge, Water Proving Ground Project, Liberty State Park, NJ (Aerial perspective)",
+        "Year": "2010",
+        "ObjectID": "167582",
+        "Work": "https://www.moma.org/collection/works/167582",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NjMyOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=65ae5e2551e70db7",
+        "Details": {
+            "Architectural firm": "LTL Architects, PLLC",
+            "Medium": "Pencil on mylar",
+            "Dimensions": "22 1/2 x 34 1/2\" (57.2 x 87.6 cm)",
+            "Credit": "Gift of the architects",
+            "Object number": "92.2013.16",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/37851"
+    },
+    {
+        "Artist": "Paul Lewis, Marc Tsurumaki, David J. Lewis",
+        "Title": "Water Lodge, Water Proving Ground Project, Liberty State Park, NJ (Aerial perspective, background)",
+        "Year": "2010",
+        "ObjectID": "167583",
+        "Work": "https://www.moma.org/collection/works/167583",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2ODEyNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4d98e5db354ab434",
+        "Details": {
+            "Architectural firm": "LTL Architects, PLLC",
+            "Medium": "Pencil on mylar",
+            "Dimensions": "18 x 33\" (45.7 x 83.8 cm)",
+            "Credit": "Gift of the architects",
+            "Object number": "92.2013.17",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/37851"
+    },
+    {
+        "Artist": "Paul Lewis, Marc Tsurumaki, David J. Lewis",
+        "Title": "Water Lodge, Water Proving Ground Project, Liberty State Park, NJ (Background components for aerial perspective)",
+        "Year": "2010",
+        "ObjectID": "167584",
+        "Work": "https://www.moma.org/collection/works/167584",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2ODEyNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=384eb25d41925698",
+        "Details": {
+            "Architectural firm": "LTL Architects, PLLC",
+            "Medium": "Pencil on mylar",
+            "Dimensions": "20 1/2 x 31 1/4\" (52.1 x 79.4 cm)",
+            "Credit": "Gift of the architects",
+            "Object number": "92.2013.18",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/37851"
+    },
+    {
+        "Artist": "Paul Lewis, Marc Tsurumaki, David J. Lewis",
+        "Title": "Water Lodge, Water Proving Ground Project, Liberty State Park, NJ (Background components for aerial perspective)",
+        "Year": "2010",
+        "ObjectID": "167585",
+        "Work": "https://www.moma.org/collection/works/167585",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NzU5NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d96329793ff262d9",
+        "Details": {
+            "Architectural firm": "LTL Architects, PLLC",
+            "Medium": "Pencil on mylar",
+            "Dimensions": "13 x 34\" (33 x 86.4 cm)",
+            "Credit": "Gift of the architects",
+            "Object number": "92.2013.19",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/37851"
+    },
+    {
+        "Artist": "Paul Lewis, Marc Tsurumaki, David J. Lewis",
+        "Title": "Water Lodge, Water Proving Ground Project, Liberty State Park, NJ (Background components for aerial perspective)",
+        "Year": "2010",
+        "ObjectID": "167586",
+        "Work": "https://www.moma.org/collection/works/167586",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2ODEyNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1356bcda96d25ee1",
+        "Details": {
+            "Architectural firm": "LTL Architects, PLLC",
+            "Medium": "Pencil on mylar",
+            "Dimensions": "11 1/4 x 12\" (28.6 x 30.5 cm)",
+            "Credit": "Gift of the architects",
+            "Object number": "92.2013.20",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/37851"
+    },
+    {
+        "Artist": "Paul Lewis, Marc Tsurumaki, David J. Lewis",
+        "Title": "Regional Produce Market, Water Proving Ground Project, Liberty State Park, NJ, Aerial perspective",
+        "Year": "2010",
+        "ObjectID": "167587",
+        "Work": "https://www.moma.org/collection/works/167587",
+        "Thumbnail": null,
+        "Details": {
+            "Architectural firm": "LTL Architects, PLLC",
+            "Medium": "Inkjet print",
+            "Dimensions": "32 1/2 x 44\" (82.6 x 111.8 cm)",
+            "Credit": "Gift of the architects",
+            "Object number": "92.2013.21",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/37851"
+    },
+    {
+        "Artist": "Paul Lewis, Marc Tsurumaki, David J. Lewis",
+        "Title": "Regional Produce Market, Water Proving Ground Project, Liberty State Park, NJ (Aerial perspective)",
+        "Year": "2010",
+        "ObjectID": "167588",
+        "Work": "https://www.moma.org/collection/works/167588",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NjMzMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2aab58bbac141540",
+        "Details": {
+            "Architectural firm": "LTL Architects, PLLC",
+            "Medium": "Inkjet print",
+            "Dimensions": "29 x 44\" (73.7 x 111.8 cm)",
+            "Credit": "Gift of the architects",
+            "Object number": "92.2013.22",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/37851"
+    },
+    {
+        "Artist": "Paul Lewis, Marc Tsurumaki, David J. Lewis",
+        "Title": "Regional Produce Market, Water Proving Ground Project, Liberty State Park, NJ (Aerial perspective)",
+        "Year": "2010",
+        "ObjectID": "167589",
+        "Work": "https://www.moma.org/collection/works/167589",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NjMzMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3d1fe2e40c9d0095",
+        "Details": {
+            "Architectural firm": "LTL Architects, PLLC",
+            "Medium": "Inkjet print",
+            "Dimensions": "29 x 44\" (73.7 x 111.8 cm)",
+            "Credit": "Gift of the architects",
+            "Object number": "92.2013.23",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/37851"
+    },
+    {
+        "Artist": "Paul Lewis, Marc Tsurumaki, David J. Lewis",
+        "Title": "Regional Produce Market, Water Proving Ground Project, Liberty State Park, NJ (Aerial perspective)",
+        "Year": "2010",
+        "ObjectID": "167590",
+        "Work": "https://www.moma.org/collection/works/167590",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NjMzMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6860620fdad5f40e",
+        "Details": {
+            "Architectural firm": "LTL Architects, PLLC",
+            "Medium": "Inkjet print",
+            "Dimensions": "29 x 44\" (73.7 x 111.8 cm)",
+            "Credit": "Gift of the architects",
+            "Object number": "92.2013.24",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/37851"
+    },
+    {
+        "Artist": "Paul Lewis, Marc Tsurumaki, David J. Lewis",
+        "Title": "Regional Produce Market, Water Proving Ground Project, Liberty State Park, NJ (Aerial perspective)",
+        "Year": "2010",
+        "ObjectID": "167591",
+        "Work": "https://www.moma.org/collection/works/167591",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2ODEyOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e83f654add40a3cd",
+        "Details": {
+            "Architectural firm": "LTL Architects, PLLC",
+            "Medium": "Pencil on mylar",
+            "Dimensions": "24 1/2 x 34\" (62.2 x 86.4 cm)",
+            "Credit": "Gift of the architects",
+            "Object number": "92.2013.25",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/37851"
+    },
+    {
+        "Artist": "Paul Lewis, Marc Tsurumaki, David J. Lewis",
+        "Title": "Regional Produce Market, Water Proving Ground Project, Liberty State Park, NJ (Background components for aerial perspective)",
+        "Year": "2010",
+        "ObjectID": "167592",
+        "Work": "https://www.moma.org/collection/works/167592",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2ODEyOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=edb5efa307b2ca0a",
+        "Details": {
+            "Architectural firm": "LTL Architects, PLLC",
+            "Medium": "Pencil on mylar",
+            "Dimensions": "24 1/2 x 36\" (62.2 x 91.4 cm)",
+            "Credit": "Gift of the architects",
+            "Object number": "92.2013.26",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/37851"
+    },
+    {
+        "Artist": "Sharon Lockhart",
         "Title": "Untitled",
-        "Year": "2009",
-        "ObjectID": "180390",
-        "Work": "https://www.moma.org/collection/works/180390",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5ODcyMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e0d591826a812a26",
+        "Year": "2010",
+        "ObjectID": "407395",
+        "Work": "https://www.moma.org/collection/works/407395",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ5MjAyNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8d027f8233355c56",
         "Details": {
-            "Medium": "Acrylic on canvas",
-            "Dimensions": "81 x 64 1/2\" (205.7 x 163.8 cm)",
-            "Credit": "Gift of Marlene Hess and James D. Zirin",
-            "Object number": "248.2014",
-            "Copyright": "\u00a9 Ed Clark",
-            "Department": "Painting and Sculpture"
+            "Medium": "Chromogenic print",
+            "Dimensions": "37 \u00d7 49\" (94 \u00d7 124.5 cm)",
+            "Credit": "Gift of Helen Kornblum in honor of Roxana Marcoci",
+            "Object number": "56.2020",
+            "Copyright": "\u00a9 2023 Sharon Lockhart",
+            "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/45801"
+        "Profile": "https://www.moma.org/artists/48655"
     },
     {
-        "Artist": "Ishan Clemenco",
-        "Title": "afterlight",
-        "Year": "2009",
-        "ObjectID": "183932",
-        "Work": "https://www.moma.org/collection/works/183932",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQwMDE1MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a30722a9660036b4",
+        "Artist": "Mateo Lopez",
+        "Title": "Travel without Movement",
+        "Year": "(2008-10)",
+        "ObjectID": "141554",
+        "Work": "https://www.moma.org/collection/works/141554",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3ODk5MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=910b7ae148bbe352",
         "Details": {
-            "Medium": "10-inch vinyl record",
-            "Dimensions": "dimensions vary",
-            "Publisher": "NOMA Gallery",
-            "Credit": "Committee on Prints and Illustrated Books Fund",
-            "Object number": "854.2013.67",
-            "Associated work": "Steven Leiber Audio Collection",
+            "Medium": "Installation of drawings, objects, and furniture",
+            "Dimensions": "dimensions variable",
+            "Credit": "Latin American and Caribbean Fund",
+            "Object number": "33.2011.1-126",
+            "Copyright": "@2013 Mateo L\u00f3pez",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/48593"
+        "Profile": "https://www.moma.org/artists/38678"
     },
     {
-        "Artist": "Chuck Close",
-        "Title": "Self-Portrait Woodcut",
-        "Year": "2009",
-        "ObjectID": "137449",
-        "Work": "https://www.moma.org/collection/works/137449",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMjU0OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fec3d293c33ad950",
+        "Artist": "Marie Losier",
+        "Title": "Cet Air La",
+        "Year": "2010",
+        "ObjectID": "316827",
+        "Work": "https://www.moma.org/collection/works/316827",
+        "Thumbnail": null,
         "Details": {
-            "Medium": "Woodcut",
-            "Dimensions": "composition: 28 x 23\" (71.1 x 58.4 cm); sheet: 35 1/2 x 28 1/2\" (90.2 x 72.4 cm)",
-            "Publisher": "Pace Editions, New York",
-            "Printer": "Karl Hecksher, New York",
-            "Edition": "70",
-            "Credit": "Gift of the artist in honor of Deborah Wye",
-            "Object number": "413.2010",
-            "Copyright": "\u00a9 2023 Chuck Close",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/1156"
-    },
-    {
-        "Artist": "Jem Cohen",
-        "Title": "Long for the City",
-        "Year": "2009",
-        "ObjectID": "310593",
-        "Work": "https://www.moma.org/collection/works/310593",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NTkxMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b4977b6bc620210b",
-        "Details": {
-            "Object number": "W23669",
+            "Object number": "W22233",
             "Department": "Film"
         },
-        "Profile": "https://www.moma.org/artists/32208"
+        "Profile": "https://www.moma.org/artists/68261"
     },
     {
-        "Artist": "Tony Cokes",
-        "Title": "Evil.12.edit.b (fear, spectra & fake emotions)",
-        "Year": "2009",
-        "ObjectID": "427897",
-        "Work": "https://www.moma.org/collection/works/427897",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxMzE5MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f9024cac67917847",
+        "Artist": "Marie Losier",
+        "Title": "Slap the Gondola",
+        "Year": "2010",
+        "ObjectID": "316828",
+        "Work": "https://www.moma.org/collection/works/316828",
+        "Thumbnail": null,
         "Details": {
-            "Medium": "Standard-definition video (color, sound)",
-            "Duration": "11:43 min.",
-            "Credit": "Committee on Media and Performance Funds",
-            "Object number": "514.2021",
-            "Copyright": "\u24b8 2022 Tony Cokes",
-            "Department": "Media and Performance"
+            "Object number": "W22234",
+            "Department": "Film"
         },
-        "Profile": "https://www.moma.org/artists/34937"
+        "Profile": "https://www.moma.org/artists/68261"
     },
     {
-        "Artist": "Martha Colburn",
-        "Title": "Triumph of the Wild (Part I + Part II)",
-        "Year": "2008-2009",
-        "ObjectID": "130870",
-        "Work": "https://www.moma.org/collection/works/130870",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4OTM3OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2b8c9fdd62aa2a7c",
+        "Artist": "Marie Losier",
+        "Title": "Slap the Gondola [Test Footage]",
+        "Year": "2010",
+        "ObjectID": "321936",
+        "Work": "https://www.moma.org/collection/works/321936",
+        "Thumbnail": null,
         "Details": {
-            "Medium": "16mm film transferred to 35mm film and high definition video (color, sound; 10:20 min.), collage, and puppets",
-            "Dimensions": "Dimensions variable",
+            "Object number": "W23184",
+            "Department": "Film"
+        },
+        "Profile": "https://www.moma.org/artists/68261"
+    },
+    {
+        "Artist": "Basim Magdy",
+        "Title": "My Father Looks For An Honest City",
+        "Year": "2010",
+        "ObjectID": "200119",
+        "Work": "https://www.moma.org/collection/works/200119",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0NDE4MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ca66a699609d061f",
+        "Details": {
+            "Medium": "Super 8mm film transferred to video (color, sound)",
+            "Duration": "5:28 min.",
             "Credit": "Fund for the Twenty-First Century",
-            "Object number": "1642.2009",
-            "Copyright": "\u00a9 2023 Martha Colburn",
+            "Object number": "1776.2015",
+            "Copyright": "\u00a9 2023 Basim Magdy",
             "Department": "Media and Performance"
         },
-        "Profile": "https://www.moma.org/artists/37546"
+        "Profile": "https://www.moma.org/artists/47821"
+    },
+    {
+        "Artist": "Michael Maltzan",
+        "Title": "Pittman Dowell Residence, La Crescenta, California (Scale model, 1/16\" = 1'-0\")",
+        "Year": "2004-2010",
+        "ObjectID": "156678",
+        "Work": "https://www.moma.org/collection/works/156678",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MjcxOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0c42d9afcb082422",
+        "Details": {
+            "Medium": "Foamcore, basswood and paper",
+            "Dimensions": "15 x 37 1/2 x 22\" (38.1 x 95.3 x 55.9 cm)",
+            "Credit": "Gift of Andrea Woodner",
+            "Object number": "1736.2012",
+            "Copyright": "\u00a9 2023 Michael Maltzan",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/23257"
+    },
+    {
+        "Artist": "Flora Manteola, Javier Sanchez Gomez, Josefa Santos, Justo Solsona, Carlos Sallaberry, Damian Vinson",
+        "Title": "Torres Mulieris, Puerto Madero, Buenos Aires, Argentina",
+        "Year": "2010",
+        "ObjectID": "182163",
+        "Work": "https://www.moma.org/collection/works/182163",
+        "Thumbnail": null,
+        "Details": {
+            "Architectural firm": "MSGSSSV (Manteola Sanchez Gomez Santos Solsona Sallaberry Vinson), Buenos Aires",
+            "Medium": "Felt-tipped pen and colored pencil on tracing paper",
+            "Dimensions": "19 11/16 x 13 3/8\" (50 x 34 cm)",
+            "Credit": "Gift of MSGSSS",
+            "Object number": "687.2014.1",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/44160"
+    },
+    {
+        "Artist": "Flora Manteola, Javier Sanchez Gomez, Josefa Santos, Justo Solsona, Carlos Sallaberry, Damian Vinson",
+        "Title": "Torres Mulieris, Puerto Madero, Buenos Aires, Argentina",
+        "Year": "2010",
+        "ObjectID": "182164",
+        "Work": "https://www.moma.org/collection/works/182164",
+        "Thumbnail": null,
+        "Details": {
+            "Architectural firm": "MSGSSSV (Manteola Sanchez Gomez Santos Solsona Sallaberry Vinson), Buenos Aires",
+            "Medium": "Pencil and ink on vellum",
+            "Dimensions": "13 3/8 x 19 11/16\" (34 x 50 cm)",
+            "Credit": "Gift of MSGSSS",
+            "Object number": "687.2014.2",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/44160"
+    },
+    {
+        "Artist": "Flora Manteola, Javier Sanchez Gomez, Josefa Santos, Justo Solsona, Carlos Sallaberry, Damian Vinson",
+        "Title": "Torres Mulieris, Puerto Madero, Buenos Aires, Argentina",
+        "Year": "2010",
+        "ObjectID": "182166",
+        "Work": "https://www.moma.org/collection/works/182166",
+        "Thumbnail": null,
+        "Details": {
+            "Architectural firm": "MSGSSSV (Manteola Sanchez Gomez Santos Solsona Sallaberry Vinson), Buenos Aires",
+            "Medium": "Felt-tipped pen and colored pencil on tracing paper",
+            "Dimensions": "7 7/8 x 19 11/16\" (20 x 50 cm)",
+            "Credit": "Gift of MSGSSS",
+            "Object number": "687.2014.4",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/44160"
+    },
+    {
+        "Artist": "Flora Manteola, Javier Sanchez Gomez, Josefa Santos, Justo Solsona, Carlos Sallaberry, Damian Vinson",
+        "Title": "Torres Mulieris, Puerto Madero, Buenos Aires, Argentina",
+        "Year": "2010",
+        "ObjectID": "182167",
+        "Work": "https://www.moma.org/collection/works/182167",
+        "Thumbnail": null,
+        "Details": {
+            "Architectural firm": "MSGSSSV (Manteola Sanchez Gomez Santos Solsona Sallaberry Vinson), Buenos Aires",
+            "Medium": "Felt-tipped pen and colored pencil on tracing paper",
+            "Dimensions": "13 3/4 x 7 7/8\" (35 x 20 cm)",
+            "Credit": "Gift of MSGSSS",
+            "Object number": "687.2014.5",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/44160"
+    },
+    {
+        "Artist": "Flora Manteola, Javier Sanchez Gomez, Josefa Santos, Justo Solsona, Carlos Sallaberry, Damian Vinson",
+        "Title": "Torres Mulieris, Puerto Madero, Buenos Aires, Argentina",
+        "Year": "2010",
+        "ObjectID": "182168",
+        "Work": "https://www.moma.org/collection/works/182168",
+        "Thumbnail": null,
+        "Details": {
+            "Architectural firm": "MSGSSSV (Manteola Sanchez Gomez Santos Solsona Sallaberry Vinson), Buenos Aires",
+            "Medium": "Felt-tipped pen and colored pencil on vellum",
+            "Dimensions": "25 3/16 x 33 7/16\" (64 x 85 cm)",
+            "Credit": "Gift of MSGSSS",
+            "Object number": "687.2014.6",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/44160"
+    },
+    {
+        "Artist": "Christian Marclay",
+        "Title": "The Clock",
+        "Year": "2010",
+        "ObjectID": "152288",
+        "Work": "https://www.moma.org/collection/works/152288",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1Mjc1OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3a38251f8b12fa70",
+        "Details": {
+            "Medium": "Video (black and white and color, sound)",
+            "Dimensions": "24 hrs.",
+            "Credit": "Promised gift from the Collection of Jill and Peter Kraus",
+            "Object number": "PG819.2011",
+            "Copyright": "\u00a9 2023 Christian Marclay. Courtesy Paula Cooper Gallery, New York",
+            "Department": "Media and Performance"
+        },
+        "Profile": "https://www.moma.org/artists/8478"
+    },
+    {
+        "Artist": "Kerry James Marshall",
+        "Title": "Untitled (Frankenstein)",
+        "Year": "2010",
+        "ObjectID": "433071",
+        "Work": "https://www.moma.org/collection/works/433071",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMDY3NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=92748abd02d5248d",
+        "Details": {
+            "Medium": "Etching and aquatint",
+            "Dimensions": "composition: 16 \u00d7 12\" (40.6 \u00d7 30.5 cm); sheet: 24 1/2 \u00d7 19\" (62.2 \u00d7 48.3 cm)",
+            "Publisher": "Paulson Fontaine Press, Berkeley, CA",
+            "Printer": "Paulson Fontaine Press, Berkeley, CA",
+            "Edition": "50",
+            "Credit": "Gift of Jack Shear",
+            "Object number": "379.2022",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/8285"
     }
 ]

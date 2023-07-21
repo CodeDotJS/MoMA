@@ -1,843 +1,914 @@
 [
     {
-        "Artist": "David Octavius Hill, Robert Adamson",
-        "Title": "Gordon Highlanders at Edinburgh Castle",
-        "Year": "April 9, 1846",
-        "ObjectID": "51263",
-        "Work": "https://www.moma.org/collection/works/51263",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4ODI4MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e01d71827193497b",
-        "Details": {
-            "Collaborating artist": "Robert Adamson",
-            "Medium": "Calotype",
-            "Dimensions": "7 3/4 \u00d7 5 3/4\" (19.7 \u00d7 14.6 cm)",
-            "Credit": "Gift of John McAndrew",
-            "Object number": "341.1938",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/2648"
-    },
-    {
-        "Artist": "Sir William Charles Ross, C. W. Wass",
-        "Title": "The Sisters from the Art Union Monthly Journal",
-        "Year": "March 1846",
-        "ObjectID": "124728",
-        "Work": "https://www.moma.org/collection/works/124728",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUwMDI5MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5a89a8c562da2766",
-        "Details": {
-            "Collaborating artist": "Etching by C. W. Wass",
-            "Medium": "Stipple etching",
-            "Dimensions": "11 3/16 \u00d7 8 7/8\" (28.4 \u00d7 22.5 cm)",
-            "Credit": "Gift of Richard Benson",
-            "Object number": "SC2008.1.11",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/36194"
-    },
-    {
-        "Artist": "William Henry Fox Talbot",
-        "Title": "Seated Figure in the Cloisters, Lacock Abbey",
-        "Year": "c. 1844",
-        "ObjectID": "53534",
-        "Work": "https://www.moma.org/collection/works/53534",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjU4NDEzIl0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNTEyeDUxMlx1MDAzZSJdXQ.jpg?sha=f440a061d3a19391",
-        "Details": {
-            "Medium": "Salted paper print from a calotype",
-            "Dimensions": "6 11/16 \u00d7 8 1/8\" (17 \u00d7 20.6 cm)",
-            "Credit": "The Fellows of Photography Fund",
-            "Object number": "450.1988",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/5791"
-    },
-    {
-        "Artist": "William Henry Fox Talbot",
-        "Title": "Trafalgar Square, London, during the Erection of the Nelson Column",
-        "Year": "c. 1844",
-        "ObjectID": "54775",
-        "Work": "https://www.moma.org/collection/works/54775",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NzY0OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=602f4addb704771a",
-        "Details": {
-            "Medium": "Salted paper print from a calotype",
-            "Dimensions": "6 11/16 \u00d7 8 1/4\" (17 \u00d7 21 cm)",
-            "Credit": "Gift of Warner Communications, Inc.",
-            "Object number": "531.1981",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/5791"
-    },
-    {
-        "Artist": "Unidentified Artist",
-        "Title": "Design for a platter from the Art Union Monthly Journal",
-        "Year": "November 1846",
-        "ObjectID": "124727",
-        "Work": "https://www.moma.org/collection/works/124727",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUwMDI5MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=30872d22ac7dc13b",
-        "Details": {
-            "Medium": "Copper engraving (proof for a ceramic transfer)",
-            "Dimensions": "11 1/4 \u00d7 8 13/16\" (28.5 \u00d7 22.4 cm)",
-            "Credit": "Gift of Richard Benson",
-            "Object number": "SC2008.1.10",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/23390"
-    },
-    {
-        "Artist": "Paul Gavarni",
-        "Title": "Fourberies de Femmes En Matiere de Sentiment",
-        "Year": "c. 1840",
-        "ObjectID": "125036",
-        "Work": "https://www.moma.org/collection/works/125036",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUwMDM3NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=005de412e50d7359",
+        "Artist": "Marie Laurencin",
+        "Title": "The Cage (La Cage)",
+        "Year": "1920",
+        "ObjectID": "67744",
+        "Work": "https://www.moma.org/collection/works/67744",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2Njg0NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2fe105eb4483a7c5",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "14 3/4 \u00d7 10 1/4\" (37.5 \u00d7 26 cm)",
-            "Credit": "Gift of Richard Benson",
-            "Object number": "SC2008.1.319",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/36259"
-    },
-    {
-        "Artist": "William Henry Fox Talbot",
-        "Title": "Lace",
-        "Year": "1845",
-        "ObjectID": "46340",
-        "Work": "https://www.moma.org/collection/works/46340",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5MzQyMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ca8a2bdb4474201a",
-        "Details": {
-            "Medium": "Salted paper print (photogram)",
-            "Dimensions": "6 1/2 \u00d7 8 3/4\" (16.5 \u00d7 22.3 cm)",
-            "Credit": "Acquired through the generosity of Dr. Stefan Stein",
-            "Object number": "105.1992",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/5791"
-    },
-    {
-        "Artist": "William Henry Fox Talbot",
-        "Title": "A Scene in York",
-        "Year": "July 28, 1845",
-        "ObjectID": "123102",
-        "Work": "https://www.moma.org/collection/works/123102",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNDQ0OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0462ca546b46855b",
-        "Details": {
-            "Medium": "Salted paper print",
-            "Dimensions": "6 5/16 \u00d7 8\" (16.1 \u00d7 20.3 cm)",
-            "Credit": "Purchase",
-            "Object number": "1970.2008",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/5791"
-    },
-    {
-        "Artist": "William Henry Fox Talbot, Calvert Richard Jones",
-        "Title": "The Fruit Sellers",
-        "Year": "1845",
-        "ObjectID": "46324",
-        "Work": "https://www.moma.org/collection/works/46324",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5MTY3MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=eb72c9f56811ae71",
-        "Details": {
-            "Collaborating artist": "Calvert Richard Jones",
-            "Medium": "Salted paper print from a calotype",
-            "Dimensions": "6 3/4 \u00d7 8 5/16\" (17.2 \u00d7 21.2 cm)",
-            "Credit": "Gift of Anne Ehrenkranz in honor of John Szarkowski",
-            "Object number": "104.1992",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/5791"
-    },
-    {
-        "Artist": "Unidentified photographer",
-        "Title": "Untitled",
-        "Year": "c. 1840",
-        "ObjectID": "45262",
-        "Work": "https://www.moma.org/collection/works/45262",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ2Nzk0NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=eeaee03c4bcf5a16",
-        "Details": {
-            "Medium": "Daguerreotype (hand-tinted)",
-            "Dimensions": "1 15/16 \u00d7 1 7/16\" (4.9 \u00d7 3.7 cm)",
-            "Credit": "Gift of Anne Ehrenkranz in honor of Samuel J. Wagstaff, Jr.",
-            "Object number": "60.1994",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/8595"
-    },
-    {
-        "Artist": "Unidentified photographer",
-        "Title": "Untitled",
-        "Year": "c. 1840",
-        "ObjectID": "45290",
-        "Work": "https://www.moma.org/collection/works/45290",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ2Nzk0NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=51e28c1e5c01c1fa",
-        "Details": {
-            "Medium": "Daguerreotype",
-            "Dimensions": "2 11/16 \u00d7 2 1/4\" (6.8 \u00d7 5.7 cm)",
-            "Credit": "Gift of Anne Ehrenkranz in honor of Samuel J. Wagstaff, Jr.",
-            "Object number": "61.1994",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/8595"
-    },
-    {
-        "Artist": "Unidentified photographer",
-        "Title": "Untitled",
-        "Year": "c. 1840",
-        "ObjectID": "45665",
-        "Work": "https://www.moma.org/collection/works/45665",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ2Nzk1NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=11dd33eccc52a1b9",
-        "Details": {
-            "Medium": "Daguerreotype",
-            "Dimensions": "2 3/4 \u00d7 2 5/16\" (7.2 \u00d7 5.8 cm)",
-            "Credit": "Gift of Celeste Bartos",
-            "Object number": "73.1974",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/8595"
-    },
-    {
-        "Artist": "Narcisse Diaz",
-        "Title": "The Widow",
-        "Year": "1844",
-        "ObjectID": "72428",
-        "Work": "https://www.moma.org/collection/works/72428",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MzA5OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=33e4f9555903e258",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "composition: 8 1/16 x 6 3/16\" (20.5 x 15.7cm); sheet: 10 7/8 \u00d7 8 3/4\" (27.7 \u00d7 22.2 cm)",
-            "Credit": "Given anonymously",
-            "Object number": "643.1943",
+            "Dimensions": "composition: 6 11/16 \u00d7 7 5/16\" (17 \u00d7 18.5 cm); sheet: 15 3/4 \u00d7 11 1/2\" (40 \u00d7 29.2 cm)",
+            "Edition": "unknown",
+            "Credit": "Gift of Abby Aldrich Rockefeller",
+            "Object number": "363.1940",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/1531"
+        "Profile": "https://www.moma.org/artists/3408"
     },
     {
-        "Artist": "David Octavius Hill",
-        "Title": "Self-Portrait",
-        "Year": "1844",
-        "ObjectID": "45066",
-        "Work": "https://www.moma.org/collection/works/45066",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNjUyNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=33370dc460347730",
+        "Artist": "Marie Laurencin",
+        "Title": "Self Portrait (Autoportrait)",
+        "Year": "1920",
+        "ObjectID": "67826",
+        "Work": "https://www.moma.org/collection/works/67826",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2Njg1MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f2bcf69fdcfe7d61",
         "Details": {
-            "Medium": "Gum platinum print from a waxed-paper negative",
-            "Dimensions": "8 1/4 \u00d7 6 1/4\" (21.1 \u00d7 16.0 cm)",
-            "Credit": "Gift of Ruth Anderson Collins",
-            "Object number": "54.1976",
-            "Department": "Photography"
+            "Medium": "Lithograph",
+            "Dimensions": "composition (irreg.): 8 1/8 \u00d7 5 9/16\" (20.7 \u00d7 14.2 cm); sheet: 18 5/8 \u00d7 12 3/16\" (47.3 \u00d7 30.9 cm)",
+            "Publisher": "Galerie Flechtheim, Dusseldorf, Galerie S\u00e9lection, Brussels",
+            "Edition": "80",
+            "Credit": "Gift of Abby Aldrich Rockefeller",
+            "Object number": "366.1940",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/2648"
+        "Profile": "https://www.moma.org/artists/3408"
     },
     {
-        "Artist": "David Octavius Hill",
-        "Title": "William Etty",
-        "Year": "October 1844",
-        "ObjectID": "83070",
-        "Work": "https://www.moma.org/collection/works/83070",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4ODQwOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f3b83ecf9d3f4dda",
+        "Artist": "Henri Laurens",
+        "Title": "Head of a Boxer",
+        "Year": "1920",
+        "ObjectID": "81189",
+        "Work": "https://www.moma.org/collection/works/81189",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNzczOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5003eddb794a765e",
         "Details": {
-            "Medium": "Calotype",
-            "Dimensions": "5 13/16 \u00d7 7 7/8\" (14.8 \u00d7 20 cm)",
-            "Credit": "Gift of Edward Steichen",
-            "Object number": "75.1964.123",
-            "Department": "Photography"
+            "Medium": "Terra cotta",
+            "Dimensions": "12 1/2 x 13 5/8 x 4\" (31.9 x 34.5 x 10.1 cm) including wood frame",
+            "Credit": "Gift of Mrs. Marie L. Feldhaeusser",
+            "Object number": "240.1950",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Department": "Painting and Sculpture"
         },
-        "Profile": "https://www.moma.org/artists/2648"
+        "Profile": "https://www.moma.org/artists/3409"
     },
     {
-        "Artist": "David Octavius Hill, Robert Adamson",
-        "Title": "John Gersdorp, King of Saxony, Unknown Man, The Earl of Morton, Wyndam Anstruther and Sir Ralph Anstruther",
-        "Year": "1844",
-        "ObjectID": "54586",
-        "Work": "https://www.moma.org/collection/works/54586",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4ODM4MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e3794f1b03a47ec8",
+        "Artist": "Henri Laurens",
+        "Title": "Guitar",
+        "Year": "1920",
+        "ObjectID": "81333",
+        "Work": "https://www.moma.org/collection/works/81333",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNzQ5NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=264a89c1b54b37a7",
         "Details": {
-            "Collaborating artist": "Robert Adamson",
-            "Medium": "Salted paper print from a paper negative",
-            "Dimensions": "5 13/16 \u00d7 7 5/8\" (14.7 \u00d7 19.3 cm)",
-            "Credit": "Gift of Warner Communications, Inc.",
-            "Object number": "513.1981",
-            "Department": "Photography"
+            "Medium": "Terra cotta",
+            "Dimensions": "14 1/4 x 6 1/2 x 4 3/8\" (36.2 x 16.5 x 11 cm) including base",
+            "Credit": "Gift of Curt Valentin",
+            "Object number": "303.1947",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Department": "Painting and Sculpture"
         },
-        "Profile": "https://www.moma.org/artists/2648"
+        "Profile": "https://www.moma.org/artists/3409"
     },
     {
-        "Artist": "William Henry Fox Talbot",
-        "Title": "Loch Katrine",
-        "Year": "1844",
-        "ObjectID": "49240",
-        "Work": "https://www.moma.org/collection/works/49240",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjU4NDA5Il0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNTEyeDUxMlx1MDAzZSJdXQ.jpg?sha=9ec2ba0fe69c6d71",
+        "Artist": "Vladimir Lebedev",
+        "Title": "Maquette/proof for the poster Chastushka. (Ekh, gorit moe serdechko...) (Folk Song [Akh, My Heart's Afire!])",
+        "Year": "1920",
+        "ObjectID": "32042",
+        "Work": "https://www.moma.org/collection/works/32042",
+        "Thumbnail": null,
         "Details": {
-            "Medium": "Salted paper print from a calotype",
-            "Dimensions": "6 7/8 \u00d7 8 5/16\" (17.4 \u00d7 21.1 cm)",
-            "Credit": "The Family of Man Fund",
-            "Object number": "231.1989",
-            "Department": "Photography"
+            "Medium": "Letterpress with pencil additions",
+            "Dimensions": "sheet: 34 1/8 x 23 1/8\" (86.7 x 58.7 cm)",
+            "Publisher": "ROSTA, Petrograd",
+            "Credit": "Gift of The Judith Rothschild Foundation",
+            "Object number": "1116.2001",
+            "Copyright": "\u00a9 2023 Vladimir Lebedev/Licensed by VAGA, New York, NY",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/5791"
+        "Profile": "https://www.moma.org/artists/12945"
     },
     {
-        "Artist": "William Henry Fox Talbot",
-        "Title": "Articles of Glass",
-        "Year": "Before June 1844",
-        "ObjectID": "123100",
-        "Work": "https://www.moma.org/collection/works/123100",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MTk1MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=728c44b25acc0952",
+        "Artist": "Bart van der Leck",
+        "Title": "Batavier-Line, Rotterdam-London",
+        "Year": "c. 1916",
+        "ObjectID": "8362",
+        "Work": "https://www.moma.org/collection/works/8362",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMDk2NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e55b4db18f9509f7",
         "Details": {
-            "Medium": "Salted paper print",
-            "Dimensions": "5 3/16 \u00d7 5 15/16\" (13.2 \u00d7 15.1 cm)",
-            "Credit": "Purchase",
-            "Object number": "1968.2008",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/5791"
-    },
-    {
-        "Artist": "William Henry Fox Talbot",
-        "Title": "The Open Door",
-        "Year": "Before May 1844",
-        "ObjectID": "123101",
-        "Work": "https://www.moma.org/collection/works/123101",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MTk1MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e3bde6f1029b8c8d",
-        "Details": {
-            "Medium": "Salted paper print",
-            "Dimensions": "5 5/8 \u00d7 7 11/16\" (14.3 \u00d7 19.5 cm)",
-            "Credit": "Acquired through the generosity of Jon L. Stryker and purchase",
-            "Object number": "1969.2008",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/5791"
-    },
-    {
-        "Artist": "William Henry Fox Talbot",
-        "Title": "Articles of Glass",
-        "Year": "1844",
-        "ObjectID": "124783",
-        "Work": "https://www.moma.org/collection/works/124783",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUwMDM5NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2b9390c2aa84e7d1",
-        "Details": {
-            "Medium": "Salted paper print",
-            "Dimensions": "5 1/8 \u00d7 5 7/8\" (13 \u00d7 15 cm)",
-            "Credit": "Gift of Richard Benson",
-            "Object number": "SC2008.1.66",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/5791"
-    },
-    {
-        "Artist": "William Henry Fox Talbot",
-        "Title": "A Scene in a Library,  frontispiece from Photographs from the Collection of the Gilman Paper Company",
-        "Year": "1844",
-        "ObjectID": "125082",
-        "Work": "https://www.moma.org/collection/works/125082",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ5OTk3NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f7bde023be15d9a0",
-        "Details": {
-            "Medium": "Photo offset multiple-impression print [original is salted-paper print from a salted-paper negative], printed 1985",
-            "Dimensions": "5 1/4 \u00d7 7 1/8\" (13.3 \u00d7 18.1 cm)",
-            "Credit": "Gift of Richard Benson",
-            "Object number": "SC2008.1.171.7",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/5791"
-    },
-    {
-        "Artist": "Unidentified",
-        "Title": "Uncut banknote proof sheet",
-        "Year": "c. 1839",
-        "ObjectID": "124787",
-        "Work": "https://www.moma.org/collection/works/124787",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUwMDM5OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=51ecc0b5ac1d4470",
-        "Details": {
-            "Medium": "Steel engraving in two colors",
-            "Dimensions": "12 1/4 \u00d7 7 3/4\" (31.1 \u00d7 19.7 cm)",
-            "Credit": "Gift of Richard Benson",
-            "Object number": "SC2008.1.70",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/31589"
-    },
-    {
-        "Artist": "David Octavius Hill, Robert Adamson",
-        "Title": "Edinburgh from Calton Hill",
-        "Year": "1843",
-        "ObjectID": "55030",
-        "Work": "https://www.moma.org/collection/works/55030",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MDQ1NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=eb183e1c260929b0",
-        "Details": {
-            "Collaborating artist": "Robert Adamson",
-            "Medium": "Gelatin silver print",
-            "Dimensions": "11 3/8 \u00d7 14 15/16\" (28.8 \u00d7 38.0 cm)",
-            "Credit": "Gift of Mr. and Mrs. Alfred H. Barr, Jr.",
-            "Object number": "551.1967",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/2648"
-    },
-    {
-        "Artist": "David Octavius Hill, Robert Adamson",
-        "Title": "Dr. Buist",
-        "Year": "1843",
-        "ObjectID": "57719",
-        "Work": "https://www.moma.org/collection/works/57719",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMDAyMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=61219478c885fc18",
-        "Details": {
-            "Collaborating artist": "Robert Adamson",
-            "Medium": "Waxed paper negative",
-            "Dimensions": "8 1/2 \u00d7 6 1/4\" (20.1 \u00d7 14.6 cm)",
-            "Credit": "Gift of Warner Communications, Inc.",
-            "Object number": "1144.1979",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/2648"
-    },
-    {
-        "Artist": "William Henry Fox Talbot",
-        "Title": "One of the Towers of Orleans Cathedral, as Seen from the Opposite Tower",
-        "Year": "June 21, 1843",
-        "ObjectID": "108288",
-        "Work": "https://www.moma.org/collection/works/108288",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5NTEzMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=26c3f7144128a11e",
-        "Details": {
-            "Medium": "Salted paper print from a calotype",
-            "Dimensions": "6 5/16 \u00d7 7 7/8\" (16 \u00d7 20 cm)",
-            "Credit": "Acquired through the generosity of Jon L. Stryker",
-            "Object number": "232.2007",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/5791"
-    },
-    {
-        "Artist": "Joseph-Philibert Girault de Prangey",
-        "Title": "Rome. Arch of Septimius Severus and Capitoline Lion",
-        "Year": "1842",
-        "ObjectID": "218937",
-        "Work": "https://www.moma.org/collection/works/218937",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5NTc3NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6b713d9a22149fe0",
-        "Details": {
-            "Medium": "Daguerreotype (whole plate)",
-            "Dimensions": "9 7/16 \u00d7 7 1/2\" (24 \u00d7 19.1 cm)",
-            "Credit": "Acquired through the generosity of Robert B. Menschel",
-            "Object number": "434.2017",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/67872"
-    },
-    {
-        "Artist": "Michael Thonet",
-        "Title": "Side Chair",
-        "Year": "c. 1840-42",
-        "ObjectID": "4347",
-        "Work": "https://www.moma.org/collection/works/4347",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyOTk3OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7e975ac7873168c5",
-        "Details": {
-            "Manufacturer": "Gebr\u00fcder Thonet, Vienna, Austria",
-            "Medium": "Laminated wood, rosewood veneer, and upholstery",
-            "Dimensions": "36 1/4 x 16 7/8 x 16\" (92.1 x 42.9 x 40.6 cm), seat h. 20 1/2\" (52.1 cm)",
-            "Credit": "Given anonymously",
-            "Object number": "537.1977",
+            "Medium": "Lithograph",
+            "Dimensions": "29 7/8 x 44\" (75.9 x 111.8 cm)",
+            "Credit": "Anonymous gift",
+            "Object number": "903.1979",
+            "Copyright": "\u00a9 2023 Bart Van Der Leck / Artists Rights Society (ARS), New York / BEELDRECHT, The Netherlands",
             "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/5866"
+        "Profile": "https://www.moma.org/artists/6072"
     },
     {
-        "Artist": "Clarence Kennedy",
-        "Title": "Detail of Bas Relief",
-        "Year": "n.d.",
-        "ObjectID": "48235",
-        "Work": "https://www.moma.org/collection/works/48235",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1MTE3MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4cec208552726aa3",
+        "Artist": "Le Corbusier (Charles-Edouard Jeanneret)",
+        "Title": "Still Life",
+        "Year": "1920",
+        "ObjectID": "79312",
+        "Work": "https://www.moma.org/collection/works/79312",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MTc2NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=da3fbccf52a0bcb1",
         "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "10 3/8 \u00d7 6 3/8\" (26.4 \u00d7 16.2 cm)",
-            "Credit": "Gift of Lynn Hecht Schafran",
-            "Object number": "195.1991",
-            "Department": "Photography"
+            "Medium": "Oil on canvas",
+            "Dimensions": "31 7/8 x 39 1/4\" (80.9 x 99.7 cm)",
+            "Credit": "Van Gogh Purchase Fund",
+            "Object number": "261.1937",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris / FLC",
+            "Department": "Painting and Sculpture"
         },
-        "Profile": "https://www.moma.org/artists/3060"
+        "Profile": "https://www.moma.org/artists/3426"
     },
     {
-        "Artist": "Eddie McGovern",
-        "Title": "Flying Saucer",
-        "Year": "n.d.",
-        "ObjectID": "58596",
-        "Work": "https://www.moma.org/collection/works/58596",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNjQ2MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cdb7e9c460649320",
+        "Artist": "Le Corbusier (Charles-Edouard Jeanneret)",
+        "Title": "L'Esprit Nouveau letterhead (Letter to Naum Gabo from Paul Dermee)",
+        "Year": "1920",
+        "ObjectID": "196992",
+        "Work": "https://www.moma.org/collection/works/196992",
+        "Thumbnail": null,
         "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "3 1/8 \u00d7 4 7/16\" (7.9 \u00d7 11.3 cm)",
-            "Credit": "The New York Times Collection",
-            "Object number": "2003.2001",
-            "Copyright": "\u00a9 2023 Eddie McGovern",
-            "Department": "Photography"
+            "Medium": "Letterpress",
+            "Dimensions": "11 7/8 \u00d7 8 3/8\" (30.2 \u00d7 21.3 cm)",
+            "Credit": "Elaine Lustig Cohen Collection, gift of Lawrence Benenson and the Committee on Architecture and Design Funds",
+            "Object number": "1230.2015",
+            "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/8544"
+        "Profile": "https://www.moma.org/artists/3426"
     },
     {
-        "Artist": "Paul Thompson",
-        "Title": "\"The Unique Kite Invented by a Berlin Man Named Weichert\"",
-        "Year": "n.d.",
-        "ObjectID": "58713",
-        "Work": "https://www.moma.org/collection/works/58713",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNTM3MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b4bd22a58e5a9b08",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "4 5/16 \u00d7 5 7/8\" (10.9 \u00d7 14.9 cm)",
-            "Credit": "The New York Times Collection",
-            "Object number": "2120.2001",
-            "Copyright": "\u00a9 2023 The New York Times/ Paul Thompson",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/8630"
-    },
-    {
-        "Artist": "George Cruikshank",
-        "Title": "Lazaro & the Franciscan Friar from Rambles in the Footsteps of Don Quixote by Henry D. Inglis",
-        "Year": "1837",
-        "ObjectID": "23576",
-        "Work": "https://www.moma.org/collection/works/23576",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0ODk3NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8a9fc0bf50ee985d",
-        "Details": {
-            "Medium": "Etching",
-            "Dimensions": "plate: 7 15/16 \u00d7 4 15/16\" (20.1 \u00d7 12.5 cm); sheet: 11 13/16 \u00d7 8 11/16\" (30 \u00d7 22 cm)",
-            "Publisher": "Whittaker & Co., London",
-            "Printer": "Manning and Smithson, London",
-            "Edition": "proof before an unknown edition",
-            "Credit": "The Louis E. Stern Collection",
-            "Object number": "770.1964.6",
-            "Illustrated book": "Rambles in the Footsteps of Don Quixote",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/1317"
-    },
-    {
-        "Artist": "George Cruikshank",
-        "Title": "Lazaro & the Cura from Rambles in the Footsteps of Don Quixote by Henry D. Inglis",
-        "Year": "1837",
-        "ObjectID": "23578",
-        "Work": "https://www.moma.org/collection/works/23578",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0ODk3OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=625ef0e33a6c1282",
-        "Details": {
-            "Medium": "Etching",
-            "Dimensions": "plate: 8 \u00d7 5 3/16\" (20.3 \u00d7 13.2 cm); sheet: 11 13/16 \u00d7 8 11/16\" (30 \u00d7 22 cm)",
-            "Publisher": "Whittaker & Co., London",
-            "Printer": "Manning and Smithson, London",
-            "Edition": "proof before an unknown edition",
-            "Credit": "The Louis E. Stern Collection",
-            "Object number": "770.1964.2",
-            "Illustrated book": "Rambles in the Footsteps of Don Quixote",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/1317"
-    },
-    {
-        "Artist": "George Cruikshank",
-        "Title": "The Author & his Guide from Rambles in the Footsteps of Don Quixote by Henry D. Inglis",
-        "Year": "1837",
-        "ObjectID": "23579",
-        "Work": "https://www.moma.org/collection/works/23579",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0ODk4MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5dfaf28775c7f64c",
-        "Details": {
-            "Medium": "Etching",
-            "Dimensions": "plate: 7 15/16 \u00d7 5 1/4\" (20.1 \u00d7 13.4 cm); sheet: 11 13/16 \u00d7 8 11/16\" (30 \u00d7 22 cm)",
-            "Publisher": "Whittaker & Co., London",
-            "Printer": "Manning and Smithson, London",
-            "Edition": "proof before an unknown edition",
-            "Credit": "The Louis E. Stern Collection",
-            "Object number": "770.1964.1",
-            "Illustrated book": "Rambles in the Footsteps of Don Quixote",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/1317"
-    },
-    {
-        "Artist": "George Cruikshank",
-        "Title": "Juanes & the Goose from Rambles in the Footsteps of Don Quixote by Henry D. Inglis",
-        "Year": "1837",
-        "ObjectID": "23580",
-        "Work": "https://www.moma.org/collection/works/23580",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0ODk4MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=49d4fbb1a947355a",
-        "Details": {
-            "Medium": "Etching",
-            "Dimensions": "plate: 8 \u00d7 5 3/16\" (20.3 \u00d7 13.1 cm); sheet: 11 13/16 \u00d7 8 11/16\" (30 \u00d7 22 cm)",
-            "Publisher": "Whittaker & Co., London",
-            "Printer": "Manning and Smithson, London",
-            "Edition": "proof before an unknown edition",
-            "Credit": "The Louis E. Stern Collection",
-            "Object number": "770.1964.5",
-            "Illustrated book": "Rambles in the Footsteps of Don Quixote",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/1317"
-    },
-    {
-        "Artist": "George Cruikshank",
-        "Title": "Polinario & the Bishop of Jaen from Rambles in the Footsteps of Don Quixote by Henry D. Inglis",
-        "Year": "1837",
-        "ObjectID": "23581",
-        "Work": "https://www.moma.org/collection/works/23581",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0ODk4MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3f8ef50ff9bd44f8",
-        "Details": {
-            "Medium": "Etching",
-            "Dimensions": "plate: 7 15/16 \u00d7 4 15/16\" (20.1 \u00d7 12.5 cm); sheet: 11 13/16 \u00d7 8 11/16\" (30 \u00d7 22 cm)",
-            "Publisher": "Whittaker & Co., London",
-            "Printer": "Manning and Smithson, London",
-            "Edition": "proof before an unknown edition",
-            "Credit": "The Louis E. Stern Collection",
-            "Object number": "770.1964.3",
-            "Illustrated book": "Rambles in the Footsteps of Don Quixote",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/1317"
-    },
-    {
-        "Artist": "George Cruikshank",
-        "Title": "Lazaro Outwitted by the Cura from Rambles in the Footsteps of Don Quixote by Henry D. Inglis",
-        "Year": "1837",
-        "ObjectID": "23582",
-        "Work": "https://www.moma.org/collection/works/23582",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0ODk4MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=873b085f3b130cbd",
-        "Details": {
-            "Medium": "Etching",
-            "Dimensions": "plate: 8 \u00d7 4 15/16\" (20.3 \u00d7 12.5 cm); sheet: 11 13/16 \u00d7 8 11/16\" (30 \u00d7 22 cm)",
-            "Publisher": "Whittaker & Co., London",
-            "Printer": "Manning and Smithson, London",
-            "Edition": "proof before an unknown edition",
-            "Credit": "The Louis E. Stern Collection",
-            "Object number": "770.1964.4",
-            "Illustrated book": "Rambles in the Footsteps of Don Quixote",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/1317"
-    },
-    {
-        "Artist": "Unidentified",
-        "Title": "Answer to Mr. Bate's Challenge from Literary Gazette no. 1047 (London)",
-        "Year": "February 11, 1837",
-        "ObjectID": "124786",
-        "Work": "https://www.moma.org/collection/works/124786",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUwMTkzMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8e2e9b165a92e355",
-        "Details": {
-            "Medium": "Pantograph etching",
-            "Dimensions": "10 5/8 \u00d7 8 7/16\" (27 \u00d7 21.5 cm)",
-            "Credit": "Gift of Richard Benson",
-            "Object number": "SC2008.1.69",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/31589"
-    },
-    {
-        "Artist": "Unidentified Artist",
-        "Title": "English Minstrels",
-        "Year": "1832-36",
-        "ObjectID": "124729",
-        "Work": "https://www.moma.org/collection/works/124729",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUwMDI5OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3ffd71f147251735",
+        "Artist": "Fernand Leger",
+        "Title": "Two Men",
+        "Year": "1920",
+        "ObjectID": "63539",
+        "Work": "https://www.moma.org/collection/works/63539",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NjE1NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b17ab7e950bdfe16",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "10 7/16 \u00d7 7 7/8\" (26.5 \u00d7 20 cm)",
-            "Credit": "Gift of Richard Benson",
-            "Object number": "SC2008.1.12",
+            "Dimensions": "composition: 11 1/4 x 9 5/16\" (28.6 x 23.7 cm); sheet: 16 1/8 x 12 3/16\" (41 x 31 cm)",
+            "Credit": "Gift of Edgar Kaufmann, Jr.",
+            "Object number": "171.1951",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6624"
+    },
+    {
+        "Artist": "Fernand Leger",
+        "Title": "Woman at the Mirror from Das Kunstblatt, IV annual",
+        "Year": "1920",
+        "ObjectID": "68019",
+        "Work": "https://www.moma.org/collection/works/68019",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2Njg1NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=77f541354f5f66a5",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition: 9 7/16 x 7 11/16\" (24 x 19.6 cm); sheet: 11 x 8 1/4\" (27.9 x 21 cm)",
+            "Credit": "Transferred from The Museum of Modern Art Library, New York",
+            "Object number": "374.1974",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6624"
+    },
+    {
+        "Artist": "Wilhelm Lehmbruck",
+        "Title": "Three Women: Two Standing, One Kneeling (Drei Frauen, zwei stehend, eine kniend)",
+        "Year": "(1914, printed 1920)",
+        "ObjectID": "68122",
+        "Work": "https://www.moma.org/collection/works/68122",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMzcyOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9059a91a812f0f43",
+        "Details": {
+            "Medium": "Drypoint",
+            "Dimensions": "plate: 8 1/4 x 5 7/8\" (20.9 x 15 cm); sheet: 11 1/2 x 8 1/4\" (29.2 x 21 cm)",
+            "Publisher": "Paul Cassirer, Berlin",
+            "Printer": "Pan-Presse, Berlin",
+            "Edition": "posthumous edition of unknown size (approx. 20)",
+            "Credit": "Gift of Abby Aldrich Rockefeller",
+            "Object number": "381.1940",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3464"
+    },
+    {
+        "Artist": "Wilhelm Lehmbruck",
+        "Title": "Striding Man (Large) (Schreitender Mann, gro\u00df)",
+        "Year": "(1914, printed 1920)",
+        "ObjectID": "70888",
+        "Work": "https://www.moma.org/collection/works/70888",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNjY4MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1dc2efe1cda108d2",
+        "Details": {
+            "Medium": "Drypoint",
+            "Dimensions": "plate: 19 7/16 x 12 1/2\" (49.4 x 31.8 cm); sheet: 22 3/16 x 16 1/8\" (56.4 x 41 cm)",
+            "Publisher": "Paul Cassirer, Berlin",
+            "Printer": "Pan-Presse, Berlin",
+            "Edition": "posthumous edition of unknown size (approx. 20)",
+            "Credit": "Gift of Margit Winter Chanin, Inc.",
+            "Object number": "544.1966",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3464"
+    },
+    {
+        "Artist": "Willem van Leusden",
+        "Title": "Abstraction of Figure",
+        "Year": "1920",
+        "ObjectID": "38262",
+        "Work": "https://www.moma.org/collection/works/38262",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Pencil on paper",
+            "Dimensions": "21 1/4 x 14\" (54 x 35.6 cm)",
+            "Credit": "The Riklis Collection of McCrory Corporation",
+            "Object number": "918.1983",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6085"
+    },
+    {
+        "Artist": "Wyndham Lewis",
+        "Title": "Self-Portrait",
+        "Year": "(1920)",
+        "ObjectID": "36508",
+        "Work": "https://www.moma.org/collection/works/36508",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQyMDgzMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e5f199e8fe269435",
+        "Details": {
+            "Medium": "Pencil and watercolor on paper",
+            "Dimensions": "15 1/8 x 11 7/8\" (38.3 x 30.2 cm)",
+            "Credit": "Gift of Mrs. Carol O. Selle",
+            "Object number": "361.1975",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3525"
+    },
+    {
+        "Artist": "Max Liebermann",
+        "Title": "Self-Portrait (Selbstbildnis) (plate 2) from the illustrated book Deutsche Graphiker der Gegenwart (German Printmakers of Our Time)",
+        "Year": "1917, published 1920",
+        "ObjectID": "9033",
+        "Work": "https://www.moma.org/collection/works/9033",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzMzM0OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=496aa1c7433b206c",
+        "Details": {
+            "Medium": "Lithograph from an illustrated book with fifteen lithographs, eight woodcuts, eight reproductions and one lithographed cover",
+            "Dimensions": "composition (irreg.): 8 5/16 x 6 3/16\" (21.1 x 15.7 cm); page: 13 7/16 x 9 1/2\" (34.2 x 24.2 cm)",
+            "Publisher": "Klinkhardt & Biermann, Leipzig",
+            "Printer": "Unidentified",
+            "Edition": "600 (including deluxe edition of 100, numbered 1-100, with a drypoint by Max Beckmann; and a regular edition of 500 [this ex.]); outside the book: unknown edition published by Friedrich Dehne Verlag, Leipzig",
+            "Credit": "Purchase",
+            "Object number": "2.1942.2",
+            "Illustrated book": "Deutsche Graphiker der Gegenwart (German Printmakers of Our Time)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3546"
+    },
+    {
+        "Artist": "Jacques Lipchitz",
+        "Title": "Gertrude Stein",
+        "Year": "1920",
+        "ObjectID": "80799",
+        "Work": "https://www.moma.org/collection/works/80799",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4MzU2OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=64634640da8ea002",
+        "Details": {
+            "Medium": "Bronze",
+            "Dimensions": "17 1/2 x 8 1/4 x 10\" (44.4 x 21 x 25.4 cm), including base",
+            "Credit": "Fund given by friends of the artist",
+            "Object number": "9.1963",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/3563"
+    },
+    {
+        "Artist": "El Lissitzky",
+        "Title": "Kultur un bildung. Organ fun der idisher apteylung b dem tsentraln bildungs - Kamisariat, nos. 2-3 (25-26) (Culture and Education: Organ for the Yiddish Division of the Central Komisariat for Education)",
+        "Year": "1920",
+        "ObjectID": "12132",
+        "Work": "https://www.moma.org/collection/works/12132",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMDUwMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=61505f8e600d030d",
+        "Details": {
+            "Medium": "Cover with letterpress illustration on front",
+            "Dimensions": "page: 10 1/8 x 6 1/2\" (25.7 x 16.5 cm)",
+            "Publisher": "Folkskomisariat fer bildung, Moscow",
+            "Edition": "4,000",
+            "Credit": "Gift of The Judith Rothschild Foundation",
+            "Object number": "157.2001",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3569"
+    },
+    {
+        "Artist": "El Lissitzky",
+        "Title": "Study for the book About Two Squares: A Suprematist Tale of Two Squares in Six Constructions (Pro dva kvadrata. Suprematicheskii skaz v 6-ti postroikakh)",
+        "Year": "1920",
+        "ObjectID": "37650",
+        "Work": "https://www.moma.org/collection/works/37650",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMTcyNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1b7848b59fd9b9cc",
+        "Details": {
+            "Medium": "Watercolor and pencil on board",
+            "Dimensions": "10 1/8 x 8\" (25.7 x 20.3 cm)",
+            "Credit": "The Sidney and Harriet Janis Collection",
+            "Object number": "628.1967",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3569"
+    },
+    {
+        "Artist": "El Lissitzky",
+        "Title": "Part of the Mechanical Setting (Teil der Schaumachinerie) from Figurines: The Three-Dimensional Design of the Electro-Mechanical Show Victory over the Sun (Figurinen, die plastische Gestaltung der elektro-mechanischen Schau Sieg uber die Sonne)",
+        "Year": "1920-21, published 1923",
+        "ObjectID": "88308",
+        "Work": "https://www.moma.org/collection/works/88308",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNzY2MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0d0a4bfc4367585e",
+        "Details": {
+            "Medium": "One from a portfolio of ten lithographs",
+            "Dimensions": "composition (irreg.): 17 15/16 x 14 9/16\" (45.5 x 37 cm); sheet: 21 x 17 13/16\" (53.3 x 45.2 cm)",
+            "Publisher": "Robert Leunis & Chapman, Hannover",
+            "Printer": "Robert Leunis & Chapman, Hannover",
+            "Edition": "75",
+            "Credit": "Purchase",
+            "Object number": "143.1944.1",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Portfolio": "Figurines: The Three-Dimensional Design of the Electro-Mechanical Show Victory over the Sun (Figurinen, die plastische Gestaltung der elektro-mechanischen Schau Sieg \u00fcber die Sonne)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3569"
+    },
+    {
+        "Artist": "El Lissitzky",
+        "Title": "The Globetrotter from Figurines: The Three-Dimensional Design of the Electro-Mechanical Show Victory over the Sun (Figurinen, die plastische Gestaltung der elektro-mechanischen Schau Sieg uber die Sonne)",
+        "Year": "1920-21, published 1923",
+        "ObjectID": "88309",
+        "Work": "https://www.moma.org/collection/works/88309",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNzQzNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b43645fa479c8ba0",
+        "Details": {
+            "Medium": "One from a portfolio of ten lithographs",
+            "Dimensions": "composition (irreg.): 14 3/16 x 10 1/4\" (36 x 26 cm); sheet: 21 x 17 7/8\" (53.3 x 45.4cm)",
+            "Publisher": "Robert Leunis & Chapman, Hannover",
+            "Printer": "Robert Leunis & Chapman, Hannover",
+            "Edition": "75",
+            "Credit": "Purchase",
+            "Object number": "143.1944.5",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Portfolio": "Figurines: The Three-Dimensional Design of the Electro-Mechanical Show Victory over the Sun (Figurinen, die plastische Gestaltung der elektro-mechanischen Schau Sieg \u00fcber die Sonne)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3569"
+    },
+    {
+        "Artist": "El Lissitzky",
+        "Title": "Anxious Ones (Angstliche) from Figurines: The Three-Dimensional Design of the Electro-Mechanical Show Victory over the Sun (Figurinen, die plastische Gestaltung der elektro-mechanischen Schau Sieg uber die Sonne)",
+        "Year": "1920-21, published 1923",
+        "ObjectID": "88575",
+        "Work": "https://www.moma.org/collection/works/88575",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNzY2NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2cb39ea5169b1888",
+        "Details": {
+            "Medium": "One from a portfolio of ten lithographs",
+            "Dimensions": "composition (irreg.): 13 7/8 x 9 3/4\" (35.2 x 24.8 cm); sheet: 21 x 17 7/8\" (53.3 x 45.4 cm)",
+            "Publisher": "Robert Leunis & Chapman, Hannover",
+            "Printer": "Robert Leunis & Chapman, Hannover",
+            "Edition": "75",
+            "Credit": "Purchase",
+            "Object number": "143.1944.4",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Portfolio": "Figurines: The Three-Dimensional Design of the Electro-Mechanical Show Victory over the Sun (Figurinen, die plastische Gestaltung der elektro-mechanischen Schau Sieg \u00fcber die Sonne)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3569"
+    },
+    {
+        "Artist": "El Lissitzky",
+        "Title": "Front cover from Proun",
+        "Year": "1920",
+        "ObjectID": "165448",
+        "Work": "https://www.moma.org/collection/works/165448",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3NjQ5OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f659e70d967fe758",
+        "Details": {
+            "Medium": "Gouache, ink, and pencil on prepared board from a portfolio of eleven lithographs and unique manifesto, colophon, front and back covers in gouache, ink, and pencil",
+            "Dimensions": "sheet (irreg.): 18 1/8 x 14 1/8\" (46 x 35.8 cm)",
+            "Publisher": "unpublished, Moscow",
+            "Printer": "Unidentified, Vitebsk",
+            "Edition": "6 known sets",
+            "Credit": "Vincent d'Aquila and Harry Soviak Bequest, by exchange, Committee on Prints and Illustrated Books Fund, Orentreich Family Foundation, Sue and Edgar Wachenheim III Endowment, Mrs. Sash A. Spencer, Sue and Edgar Wachenheim III, Peter H. Friedland, Maud I. Welles, Deborah Wye Endowment Fund, Riva Castlemen Endowment Fund, Lily Auchincloss Fund, Monroe Wheeler Fund, and John M. Shapiro",
+            "Object number": "591.2013.1",
+            "Copyright": "\u00a9  2013 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Portfolio": "Proun",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3569"
+    },
+    {
+        "Artist": "El Lissitzky",
+        "Title": "Back cover from Proun",
+        "Year": "1920",
+        "ObjectID": "165509",
+        "Work": "https://www.moma.org/collection/works/165509",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3NjUwNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4d56f6c181e0c171",
+        "Details": {
+            "Medium": "Gouache and pencil on prepared board from a portfolio of eleven lithographs and unique manifesto, colophon, front and back covers in gouache, ink, and pencil",
+            "Dimensions": "sheet (irreg.): 18 1/8 x 14 3/16\" (46 x 36 cm)",
+            "Publisher": "unpublished, Moscow",
+            "Printer": "Unidentified, Vitebsk",
+            "Edition": "6 known sets",
+            "Credit": "Vincent d'Aquila and Harry Soviak Bequest, by exchange, Committee on Prints and Illustrated Books Fund, Orentreich Family Foundation, Sue and Edgar Wachenheim III Endowment, Mrs. Sash A. Spencer, Sue and Edgar Wachenheim III, Peter H. Friedland, Maud I. Welles, Deborah Wye Endowment Fund, Riva Castlemen Endowment Fund, Lily Auchincloss Fund, Monroe Wheeler Fund, and John M. Shapiro",
+            "Object number": "591.2013.2",
+            "Copyright": "\u00a9  2013 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Portfolio": "Proun",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3569"
+    },
+    {
+        "Artist": "El Lissitzky",
+        "Title": "Manifesto and colophon from Proun",
+        "Year": "1920",
+        "ObjectID": "165510",
+        "Work": "https://www.moma.org/collection/works/165510",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3NjUwNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a7a39ee7cbfd44d7",
+        "Details": {
+            "Medium": "Gouache, ink, and pencil on paper (double-sided) from a portfolio of eleven lithographs and unique manifesto, colophon, front and back covers in gouache, ink, and pencil",
+            "Dimensions": "sheet: 17 15/16 x 26 15/16\" (45.6 x 68.5 cm)",
+            "Publisher": "unpublished, Moscow",
+            "Printer": "Unidentified, Vitebsk",
+            "Edition": "6 known sets",
+            "Credit": "Vincent d'Aquila and Harry Soviak Bequest, by exchange, Committee on Prints and Illustrated Books Fund, Orentreich Family Foundation, Sue and Edgar Wachenheim III Endowment, Mrs. Sash A. Spencer, Sue and Edgar Wachenheim III, Peter H. Friedland, Maud I. Welles, Deborah Wye Endowment Fund, Riva Castlemen Endowment Fund, Lily Auchincloss Fund, Monroe Wheeler Fund, and John M. Shapiro",
+            "Object number": "591.2013.3",
+            "Copyright": "\u00a9  2013 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Portfolio": "Proun",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3569"
+    },
+    {
+        "Artist": "El Lissitzky",
+        "Title": "Proun 1 from Proun",
+        "Year": "1920",
+        "ObjectID": "165511",
+        "Work": "https://www.moma.org/collection/works/165511",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3NjUwNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=56842bca9535b2cc",
+        "Details": {
+            "Medium": "Lithograph from a portfolio of eleven lithographs and unique manifesto, colophon, front and back covers in gouache, ink, and pencil",
+            "Dimensions": "composition: 10 1/16 x 13 5/16\" (25.6 x 33.8 cm); sheet: 13 1/2 x 17 3/8\" (34.3 x 44.2 cm)",
+            "Publisher": "unpublished, Moscow",
+            "Printer": "Unidentified, Vitebsk",
+            "Edition": "6 known sets",
+            "Credit": "Vincent d'Aquila and Harry Soviak Bequest, by exchange, Committee on Prints and Illustrated Books Fund, Orentreich Family Foundation, Sue and Edgar Wachenheim III Endowment, Mrs. Sash A. Spencer, Sue and Edgar Wachenheim III, Peter H. Friedland, Maud I. Welles, Deborah Wye Endowment Fund, Riva Castlemen Endowment Fund, Lily Auchincloss Fund, Monroe Wheeler Fund, and John M. Shapiro",
+            "Object number": "591.2013.4",
+            "Copyright": "\u00a9  2013 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Portfolio": "Proun",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3569"
+    },
+    {
+        "Artist": "El Lissitzky",
+        "Title": "Proun 1 A from Proun",
+        "Year": "1920",
+        "ObjectID": "165512",
+        "Work": "https://www.moma.org/collection/works/165512",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3NjUwOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f370aff3412d21f6",
+        "Details": {
+            "Medium": "Lithograph from a portfolio of eleven lithographs and unique manifesto, colophon, front and back covers in gouache, ink, and pencil",
+            "Dimensions": "composition: 6 11/16 x 11 7/8\" (17 x 30.2 cm); sheet: 13 15/16 x 17 5/16\" (35.4 x 44 cm)",
+            "Publisher": "unpublished, Moscow",
+            "Printer": "Unidentified, Vitebsk",
+            "Edition": "6 known sets",
+            "Credit": "Vincent d'Aquila and Harry Soviak Bequest, by exchange, Committee on Prints and Illustrated Books Fund, Orentreich Family Foundation, Sue and Edgar Wachenheim III Endowment, Mrs. Sash A. Spencer, Sue and Edgar Wachenheim III, Peter H. Friedland, Maud I. Welles, Deborah Wye Endowment Fund, Riva Castlemen Endowment Fund, Lily Auchincloss Fund, Monroe Wheeler Fund, and John M. Shapiro",
+            "Object number": "591.2013.5",
+            "Copyright": "\u00a9  2013 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Portfolio": "Proun",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3569"
+    },
+    {
+        "Artist": "El Lissitzky",
+        "Title": "Proun 1 C from Proun",
+        "Year": "1920",
+        "ObjectID": "165513",
+        "Work": "https://www.moma.org/collection/works/165513",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3NjUwOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c715ed425ea7f2be",
+        "Details": {
+            "Medium": "Lithograph from a portfolio of eleven lithographs and unique manifesto, colophon, front and back covers in gouache, ink, and pencil",
+            "Dimensions": "composition: 9 3/16 x 9 3/16\" (23.3 x 23.3 cm); sheet: 13 7/16 x 17 5/8\" (34.2 x 44.7 cm)",
+            "Publisher": "unpublished, Moscow",
+            "Printer": "Unidentified, Vitebsk",
+            "Edition": "6 known sets",
+            "Credit": "Vincent d'Aquila and Harry Soviak Bequest, by exchange, Committee on Prints and Illustrated Books Fund, Orentreich Family Foundation, Sue and Edgar Wachenheim III Endowment, Mrs. Sash A. Spencer, Sue and Edgar Wachenheim III, Peter H. Friedland, Maud I. Welles, Deborah Wye Endowment Fund, Riva Castlemen Endowment Fund, Lily Auchincloss Fund, Monroe Wheeler Fund, and John M. Shapiro",
+            "Object number": "591.2013.6",
+            "Copyright": "\u00a9  2013 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Portfolio": "Proun",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3569"
+    },
+    {
+        "Artist": "El Lissitzky",
+        "Title": "Proun 1 D from Proun",
+        "Year": "1920",
+        "ObjectID": "165514",
+        "Work": "https://www.moma.org/collection/works/165514",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3NjUxMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7ac4979fe7b02789",
+        "Details": {
+            "Medium": "Lithograph from a portfolio of eleven lithographs and unique manifesto, colophon, front and back covers in gouache, ink, and pencil",
+            "Dimensions": "composition: 8 7/16 x 10 9/16\" (21.5 x 26.9 cm); sheet: 13 1/2 x 17 5/8\" (34.3 x 44.7 cm)",
+            "Publisher": "unpublished, Moscow",
+            "Printer": "Unidentified, Vitebsk",
+            "Edition": "6 known sets",
+            "Credit": "Vincent d'Aquila and Harry Soviak Bequest, by exchange, Committee on Prints and Illustrated Books Fund, Orentreich Family Foundation, Sue and Edgar Wachenheim III Endowment, Mrs. Sash A. Spencer, Sue and Edgar Wachenheim III, Peter H. Friedland, Maud I. Welles, Deborah Wye Endowment Fund, Riva Castlemen Endowment Fund, Lily Auchincloss Fund, Monroe Wheeler Fund, and John M. Shapiro",
+            "Object number": "591.2013.7",
+            "Copyright": "\u00a9  2013 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Portfolio": "Proun",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3569"
+    },
+    {
+        "Artist": "El Lissitzky",
+        "Title": "Proun 1 E from Proun",
+        "Year": "1920",
+        "ObjectID": "165515",
+        "Work": "https://www.moma.org/collection/works/165515",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3NjUxMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fedec040b213a78a",
+        "Details": {
+            "Medium": "Lithograph from a portfolio of eleven lithographs and unique manifesto, colophon, front and back covers in gouache, ink, and pencil",
+            "Dimensions": "composition: 8 3/4 x 10 13/16\" (22.2 x 27.4 cm); sheet: 14 x 17 7/8\" (35.6 x 45.4 cm)",
+            "Publisher": "unpublished, Moscow",
+            "Printer": "Unidentified, Vitebsk",
+            "Edition": "6 known sets",
+            "Credit": "Vincent d'Aquila and Harry Soviak Bequest, by exchange, Committee on Prints and Illustrated Books Fund, Orentreich Family Foundation, Sue and Edgar Wachenheim III Endowment, Mrs. Sash A. Spencer, Sue and Edgar Wachenheim III, Peter H. Friedland, Maud I. Welles, Deborah Wye Endowment Fund, Riva Castlemen Endowment Fund, Lily Auchincloss Fund, Monroe Wheeler Fund, and John M. Shapiro",
+            "Object number": "591.2013.8",
+            "Copyright": "\u00a9  2013 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Portfolio": "Proun",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3569"
+    },
+    {
+        "Artist": "El Lissitzky",
+        "Title": "Proun 2 B from Proun",
+        "Year": "1920",
+        "ObjectID": "165516",
+        "Work": "https://www.moma.org/collection/works/165516",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3NjUxMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=84fe4008690c46a7",
+        "Details": {
+            "Medium": "Lithograph from a portfolio of eleven lithographs and unique manifesto, colophon, front and back covers in gouache, ink, and pencil",
+            "Dimensions": "composition: 8 1/16 x 10 3/8\" (20.4 x 26.4 cm); sheet: 13 1/2 x 17 15/16\" (34.3 x 45.5 cm)",
+            "Publisher": "unpublished, Moscow",
+            "Printer": "Unidentified, Vitebsk",
+            "Edition": "6 known sets",
+            "Credit": "Vincent d'Aquila and Harry Soviak Bequest, by exchange, Committee on Prints and Illustrated Books Fund, Orentreich Family Foundation, Sue and Edgar Wachenheim III Endowment, Mrs. Sash A. Spencer, Sue and Edgar Wachenheim III, Peter H. Friedland, Maud I. Welles, Deborah Wye Endowment Fund, Riva Castlemen Endowment Fund, Lily Auchincloss Fund, Monroe Wheeler Fund, and John M. Shapiro",
+            "Object number": "591.2013.9",
+            "Copyright": "\u00a9  2013 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Portfolio": "Proun",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3569"
+    },
+    {
+        "Artist": "El Lissitzky",
+        "Title": "Proun 2 C from Proun",
+        "Year": "1920",
+        "ObjectID": "165517",
+        "Work": "https://www.moma.org/collection/works/165517",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3NjQ5OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=501222aaccb07db8",
+        "Details": {
+            "Medium": "Lithograph from a portfolio of eleven lithographs and unique manifesto, colophon, front and back covers in gouache, ink, and pencil",
+            "Dimensions": "composition: 11 3/4 x 7 15/16\" (29.8 x 20.1 cm); sheet: 17 7/8 x 14 1/16\" (45.4 x 35.7 cm)",
+            "Publisher": "unpublished, Moscow",
+            "Printer": "Unidentified, Vitebsk",
+            "Edition": "6 known sets",
+            "Credit": "Vincent d'Aquila and Harry Soviak Bequest, by exchange, Committee on Prints and Illustrated Books Fund, Orentreich Family Foundation, Sue and Edgar Wachenheim III Endowment, Mrs. Sash A. Spencer, Sue and Edgar Wachenheim III, Peter H. Friedland, Maud I. Welles, Deborah Wye Endowment Fund, Riva Castlemen Endowment Fund, Lily Auchincloss Fund, Monroe Wheeler Fund, and John M. Shapiro",
+            "Object number": "591.2013.10",
+            "Copyright": "\u00a9  2013 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Portfolio": "Proun",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3569"
+    },
+    {
+        "Artist": "El Lissitzky",
+        "Title": "Proun 2 D from Proun",
+        "Year": "1920",
+        "ObjectID": "165518",
+        "Work": "https://www.moma.org/collection/works/165518",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3NjUwMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=dbda0e18a1ca2f68",
+        "Details": {
+            "Medium": "Lithograph from a portfolio of eleven lithographs and unique manifesto, colophon, front and back covers in gouache, ink, and pencil",
+            "Dimensions": "composition: 8 7/16 x 10 9/16\" (21.5 x 26.9 cm); sheet: 13 1/2 x 17 5/8\" (34.3 x 44.7 cm)",
+            "Publisher": "unpublished, Moscow",
+            "Printer": "Unidentified, Vitebsk",
+            "Edition": "6 known sets",
+            "Credit": "Vincent d'Aquila and Harry Soviak Bequest, by exchange, Committee on Prints and Illustrated Books Fund, Orentreich Family Foundation, Sue and Edgar Wachenheim III Endowment, Mrs. Sash A. Spencer, Sue and Edgar Wachenheim III, Peter H. Friedland, Maud I. Welles, Deborah Wye Endowment Fund, Riva Castlemen Endowment Fund, Lily Auchincloss Fund, Monroe Wheeler Fund, and John M. Shapiro",
+            "Object number": "591.2013.11",
+            "Copyright": "\u00a9  2013 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Portfolio": "Proun",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3569"
+    },
+    {
+        "Artist": "El Lissitzky",
+        "Title": "Proun 3 A from Proun",
+        "Year": "1920",
+        "ObjectID": "165519",
+        "Work": "https://www.moma.org/collection/works/165519",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3NjUwMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f5c2c1e3471794c6",
+        "Details": {
+            "Medium": "Lithograph from a portfolio of eleven lithographs and unique manifesto, colophon, front and back covers in gouache, ink, and pencil",
+            "Dimensions": "composition: 10 13/16 x 10 3/8\" (27.5 x 26.4 cm); sheet: 17 11/16 x 13 7/16\" (45 x 34.2 cm)",
+            "Publisher": "unpublished, Moscow",
+            "Printer": "Unidentified, Vitebsk",
+            "Edition": "6 known sets",
+            "Credit": "Vincent d'Aquila and Harry Soviak Bequest, by exchange, Committee on Prints and Illustrated Books Fund, Orentreich Family Foundation, Sue and Edgar Wachenheim III Endowment, Mrs. Sash A. Spencer, Sue and Edgar Wachenheim III, Peter H. Friedland, Maud I. Welles, Deborah Wye Endowment Fund, Riva Castlemen Endowment Fund, Lily Auchincloss Fund, Monroe Wheeler Fund, and John M. Shapiro",
+            "Object number": "591.2013.12",
+            "Copyright": "\u00a9  2013 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Portfolio": "Proun",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3569"
+    },
+    {
+        "Artist": "El Lissitzky",
+        "Title": "Proun 5 A from Proun",
+        "Year": "1920",
+        "ObjectID": "165520",
+        "Work": "https://www.moma.org/collection/works/165520",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3NjUwMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=bfbf5ec074a3f707",
+        "Details": {
+            "Medium": "Lithograph from a portfolio of eleven lithographs and unique manifesto, colophon, front and back covers in gouache, ink, and pencil",
+            "Dimensions": "composition: 10 7/8 x 10 9/16\" (27.6 x 26.8 cm); sheet: 17 1/2 x 14\" (44.5 x 35.5 cm)",
+            "Publisher": "unpublished, Moscow",
+            "Printer": "Unidentified, Vitebsk",
+            "Edition": "6 known sets",
+            "Credit": "Vincent d'Aquila and Harry Soviak Bequest, by exchange, Committee on Prints and Illustrated Books Fund, Orentreich Family Foundation, Sue and Edgar Wachenheim III Endowment, Mrs. Sash A. Spencer, Sue and Edgar Wachenheim III, Peter H. Friedland, Maud I. Welles, Deborah Wye Endowment Fund, Riva Castlemen Endowment Fund, Lily Auchincloss Fund, Monroe Wheeler Fund, and John M. Shapiro",
+            "Object number": "591.2013.13",
+            "Copyright": "\u00a9  2013 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Portfolio": "Proun",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3569"
+    },
+    {
+        "Artist": "El Lissitzky",
+        "Title": "Proun 6 B from Proun",
+        "Year": "1920",
+        "ObjectID": "165521",
+        "Work": "https://www.moma.org/collection/works/165521",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3NjUwMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b0248eff2146bc07",
+        "Details": {
+            "Medium": "Lithograph from a portfolio of eleven lithographs and unique manifesto, colophon, front and back covers in gouache, ink, and pencil",
+            "Dimensions": "composition (diameter): 9 3/4 x 9 3/4\" (24.8 x 24.8 cm); sheet: 13 7/16 x 17 1/2\" (34.2 x 44.5 cm)",
+            "Publisher": "unpublished, Moscow",
+            "Printer": "Unidentified, Vitebsk",
+            "Edition": "6 known sets",
+            "Credit": "Vincent d'Aquila and Harry Soviak Bequest, by exchange, Committee on Prints and Illustrated Books Fund, Orentreich Family Foundation, Sue and Edgar Wachenheim III Endowment, Mrs. Sash A. Spencer, Sue and Edgar Wachenheim III, Peter H. Friedland, Maud I. Welles, Deborah Wye Endowment Fund, Riva Castlemen Endowment Fund, Lily Auchincloss Fund, Monroe Wheeler Fund, and John M. Shapiro",
+            "Object number": "591.2013.14",
+            "Copyright": "\u00a9  2013 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Portfolio": "Proun",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3569"
+    },
+    {
+        "Artist": "El Lissitzky",
+        "Title": "Proun",
+        "Year": "1920",
+        "ObjectID": "170345",
+        "Work": "https://www.moma.org/collection/works/170345",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3NjQ5OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f659e70d967fe758",
+        "Details": {
+            "Medium": "Portfolio of eleven lithographs and unique manifesto, colophon, front and back covers in gouache, ink, and pencil",
+            "Dimensions": "dimensions vary",
+            "Publisher": "unpublished, Moscow",
+            "Printer": "Unidentified, Vitebsk",
+            "Edition": "6 known sets",
+            "Credit": "Vincent d'Aquila and Harry Soviak Bequest, by exchange, Committee on Prints and Illustrated Books Fund, Orentreich Family Foundation, Sue and Edgar Wachenheim III Endowment, Mrs. Sash A. Spencer, Sue and Edgar Wachenheim III, Peter H. Friedland, Maud I. Welles, Deborah Wye Endowment Fund, Riva Castlemen Endowment Fund, Lily Auchincloss Fund, Monroe Wheeler Fund, and John M. Shapiro",
+            "Object number": "591.2013.1-14",
+            "Copyright": "\u00a9  2017 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Type": "Portfolio",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3569"
+    },
+    {
+        "Artist": "Kazimir Malevich",
+        "Title": "Untitled (Suprematist Cross)",
+        "Year": "1920, printed 1973",
+        "ObjectID": "9069",
+        "Work": "https://www.moma.org/collection/works/9069",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0ODEzNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3bc989170ed038af",
+        "Details": {
+            "Medium": "Linoleum cut",
+            "Dimensions": "sheet: 12 3/8 x 10 1/8\" (31.4 x 25.7 cm)",
+            "Edition": "75",
+            "Credit": "Gift of The Judith Rothschild Foundation",
+            "Object number": "3.2001",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3710"
+    },
+    {
+        "Artist": "Kazimir Malevich",
+        "Title": "Suprematizm. 34 risunka (Suprematism: 34 Drawings)",
+        "Year": "1920",
+        "ObjectID": "11073",
+        "Work": "https://www.moma.org/collection/works/11073",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzMTM0NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2d650af248cf3aa8",
+        "Details": {
+            "Author": "Kazimir Malevich",
+            "Medium": "Book with thirty-five lithographed illustrations (including cover) and lithographed manuscript text",
+            "Dimensions": "page (each): 8 9/16 x 7 1/16\" (21.8 x 18 cm)",
+            "Publisher": "UNOVIS, Vitebsk",
+            "Printer": "probably El Lissitzky, Vitebsk",
+            "Edition": "approx. 100",
+            "Credit": "Gift of The Judith Rothschild Foundation",
+            "Object number": "82.2001",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3710"
+    },
+    {
+        "Artist": "Kazimir Malevich",
+        "Title": "Pervyi tsikl lektsii chitannykh na kratkosrochnykh kursakh dlia uchitelei risovaniia (First Series of Lectures, Given at a Short-Term Course for Teachers of Drawing)",
+        "Year": "1920",
+        "ObjectID": "11096",
+        "Work": "https://www.moma.org/collection/works/11096",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMTEwNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8bc06474b4ef7dc5",
+        "Details": {
+            "Author": "Nikolai Punin",
+            "Medium": "Book with letterpress cover",
+            "Dimensions": "Page: 8 7/16 x 5 1/2\" (21.5 x 14 cm)",
+            "Publisher": "Izo NKP, Petrograd",
+            "Edition": "1,500-2,000",
+            "Credit": "Gift of The Judith Rothschild Foundation",
+            "Object number": "88.2001",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3710"
+    },
+    {
+        "Artist": "Man Ray (Emmanuel Radnitzky)",
+        "Title": "Untitled",
+        "Year": "1920",
+        "ObjectID": "48298",
+        "Work": "https://www.moma.org/collection/works/48298",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE0MjgzNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8266d70037a8ab40",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "6 15/16 \u00d7 9\" (17.7 \u00d7 22.9 cm)",
+            "Credit": "Gift of James Thrall Soby",
+            "Object number": "199.1941",
+            "Copyright": "\u00a9 2023 Man Ray Trust / Artists Rights Society (ARS), New York / ADAGP, Paris",
             "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/36597"
+        "Profile": "https://www.moma.org/artists/3716"
     },
     {
-        "Artist": "William Henry Pyne",
-        "Title": "Masonry from Picturesque Groups for the Embellishment of Landscape  (London: M.A. Nattali, 1845)",
-        "Year": "c. 1823",
-        "ObjectID": "124734",
-        "Work": "https://www.moma.org/collection/works/124734",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUwMDMxMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5793f64e198f17d7",
+        "Artist": "Man Ray (Emmanuel Radnitzky)",
+        "Title": "Three Heads",
+        "Year": "1920",
+        "ObjectID": "84038",
+        "Work": "https://www.moma.org/collection/works/84038",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjk3NjYyIl0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNTEyeDUxMlx1MDAzZSJdXQ.jpg?sha=fe14371219cb1a5f",
         "Details": {
-            "Medium": "Aquatint, printed 1845",
-            "Dimensions": "11 1/2 \u00d7 9 1/8\" (29.2 \u00d7 23.2 cm)",
-            "Credit": "Gift of Richard Benson",
-            "Object number": "SC2008.1.17",
+            "Sitter": "Marcel Duchamp, Joseph Stella",
+            "Medium": "Gelatin silver print",
+            "Dimensions": "8 1/8 \u00d7 6 3/16\" (20.7 \u00d7 15.7 cm)",
+            "Credit": "Thomas Walther Collection. Gift of Thomas Walther",
+            "Object number": "1777.2001",
+            "Copyright": "\u00a9 2023 Man Ray Trust / Artists Rights Society (ARS), New York / ADAGP, Paris",
             "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/36230"
+        "Profile": "https://www.moma.org/artists/3716"
     },
     {
-        "Artist": "William Blake",
-        "Title": "When the Morning Stars Sang Together from The Book of Job",
-        "Year": "1825",
-        "ObjectID": "124892",
-        "Work": "https://www.moma.org/collection/works/124892",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUwMjAyMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9c6fbfad380fa48a",
+        "Artist": "Louis Marcoussis",
+        "Title": "Portrait of Guillaume Apollinaire",
+        "Year": "1912-20",
+        "ObjectID": "64947",
+        "Work": "https://www.moma.org/collection/works/64947",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwODU2NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b268d25b1783f7d5",
         "Details": {
-            "Medium": "Pochoir, printed 1976",
-            "Dimensions": "8 \u00d7 6 3/8\" (20.3 \u00d7 16.2 cm)",
-            "Credit": "Gift of Richard Benson",
-            "Object number": "SC2008.1.175",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/12706"
-    },
-    {
-        "Artist": "Thomas Bewick",
-        "Title": "Title page from The Fables of Aesop",
-        "Year": "1818",
-        "ObjectID": "20936",
-        "Work": "https://www.moma.org/collection/works/20936",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3NzE3MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=88ca799296b0dada",
-        "Details": {
-            "Author": "Aesop",
-            "Medium": "Wood engraving from an illustrated book with 323 wood engravings and one etching and engraving",
-            "Dimensions": "composition (irreg.): 1 1/2 \u00d7 2 7/16\" (3.8 \u00d7 6.2 cm); page (irreg.): 8 1/4 \u00d7 5 5/16\" (21 \u00d7 13.5 cm)",
-            "Publisher": "T. Bewick and Son, Newcastle, England",
-            "Printer": "Edward Walker",
-            "Edition": "unknown",
-            "Credit": "The Louis E. Stern Collection",
-            "Object number": "680.1964.1",
-            "Illustrated book": "The Fables of Aesop",
+            "Medium": "Etching and drypoint",
+            "Dimensions": "plate: 19 9/16 x 10 15/16\" (49.7 x 27.8cm); sheet: 24 7/16 x 17 1/2\" (62 x 44.4cm)",
+            "Publisher": "Camille Bloch, Paris",
+            "Printer": "Unidentified",
+            "Edition": "30",
+            "Credit": "Given anonymously",
+            "Object number": "237.1947",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/542"
+        "Profile": "https://www.moma.org/artists/3757"
     },
     {
-        "Artist": "Thomas Bewick",
-        "Title": "The Fables of Aesop",
-        "Year": "1818",
-        "ObjectID": "20937",
-        "Work": "https://www.moma.org/collection/works/20937",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3NzE3MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ec021c1a6fbafd41",
+        "Artist": "John Marin",
+        "Title": "Lower Manhattan",
+        "Year": "1920",
+        "ObjectID": "33961",
+        "Work": "https://www.moma.org/collection/works/33961",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0NDk1NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3da166f823c00583",
         "Details": {
-            "Author": "Aesop",
-            "Medium": "Illustrated book with 323 wood engravings and one etching and engraving",
-            "Dimensions": "page (irreg.): 8 1/4 \u00d7 5 5/16\" (21 \u00d7 13.5 cm); overall (closed): 8 15/16 \u00d7 5 7/8 \u00d7 1 1/4\" (22.7 \u00d7 15 \u00d7 3.2 cm)",
-            "Publisher": "T. Bewick and Son, Newcastle, England",
-            "Printer": "Edward Walker",
-            "Edition": "unknown",
-            "Credit": "The Louis E. Stern Collection",
-            "Object number": "680.1964.1-324",
-            "Type": "Illustrated Book",
+            "Medium": "Watercolor and charcoal on paper",
+            "Dimensions": "21 7/8 x 26 3/4\" (55.4 x 68 cm)",
+            "Credit": "The Philip L. Goodwin Collection",
+            "Object number": "104.1958",
+            "Copyright": "\u00a9 2023 Estate of John Marin  / Artists Rights Society (ARS), New York",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/542"
+        "Profile": "https://www.moma.org/artists/3770"
     },
     {
-        "Artist": "Thomas Bewick",
-        "Title": "Headpiece (page 3) from The Fables of Aesop",
-        "Year": "1818",
-        "ObjectID": "20938",
-        "Work": "https://www.moma.org/collection/works/20938",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3NzE4MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5cccbe9a5ed70a7c",
+        "Artist": "Ewald Matare",
+        "Title": "Portrait of Dr. Scholz (Bildnis Dr. Scholz)",
+        "Year": "1920",
+        "ObjectID": "64135",
+        "Work": "https://www.moma.org/collection/works/64135",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyMjczMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=94dc93319065df1a",
         "Details": {
-            "Author": "Aesop",
-            "Medium": "Wood engraving from an illustrated book with 323 wood engravings and one etching and engraving",
-            "Dimensions": "composition: 2 1/4 \u00d7 3 3/16\" (5.7 \u00d7 8.1 cm); page (irreg.): 8 1/4 \u00d7 5 5/16\" (21 \u00d7 13.5 cm)",
-            "Publisher": "T. Bewick and Son, Newcastle, England",
-            "Printer": "Edward Walker",
-            "Edition": "unknown",
-            "Credit": "The Louis E. Stern Collection",
-            "Object number": "680.1964.10",
-            "Illustrated book": "The Fables of Aesop",
+            "Medium": "Woodcut",
+            "Dimensions": "composition (slightly irreg.): 12 11/16 x 12 3/16\" (32.3 x 31 cm); sheet: 22 1/4 x 17 1/8\" (56.5 x 43.5 cm)",
+            "Publisher": "unpublished",
+            "Printer": "Ewald Matar\u00e9, probably Wangerooge, Germany",
+            "Edition": "3 known impressions",
+            "Credit": "William K. Simpson Fund (in memory of Abby Aldrich Rockefeller)",
+            "Object number": "192.1984",
+            "Copyright": "\u00a9 2023 Ewald Matar\u00e9 / Artists Rights Society (ARS), New York / VG Bild-Kunst, Germany",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/542"
+        "Profile": "https://www.moma.org/artists/3826"
     },
     {
-        "Artist": "Thomas Bewick",
-        "Title": "Tailpiece (page 108) from The Fables of Aesop",
-        "Year": "1818",
-        "ObjectID": "20939",
-        "Work": "https://www.moma.org/collection/works/20939",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3NzI3MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f76c7e90700badbb",
+        "Artist": "Henri Matisse",
+        "Title": "Young Girl with a Spanish Comb (Jeune femme au peigne espagnol)",
+        "Year": "1919-20",
+        "ObjectID": "61108",
+        "Work": "https://www.moma.org/collection/works/61108",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NDMyMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=28e339e38ca1d2db",
         "Details": {
-            "Author": "Aesop",
-            "Medium": "Wood engraving from an illustrated book with 323 wood engravings and one etching and engraving",
-            "Dimensions": "composition (irreg.): 1 3/8 \u00d7 1 5/8\" (3.5 \u00d7 4.1 cm); page (irreg.): 8 1/4 \u00d7 5 5/16\" (21 \u00d7 13.5 cm)",
-            "Publisher": "T. Bewick and Son, Newcastle, England",
-            "Printer": "Edward Walker",
-            "Edition": "unknown",
-            "Credit": "The Louis E. Stern Collection",
-            "Object number": "680.1964.100",
-            "Illustrated book": "The Fables of Aesop",
+            "Medium": "Drypoint with chine coll\u00e9",
+            "Dimensions": "plate: 4 3/4 x 2 3/4\" (12 x 7cm); sheet: 12 5/8 x 9 13/16\" (32 x 25cm)",
+            "Edition": "9",
+            "Credit": "Stephen C. Clark Fund",
+            "Object number": "60.1951",
+            "Copyright": "\u00a9 2023 Succession H. Matisse / Artists Rights Society (ARS), New York",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/542"
+        "Profile": "https://www.moma.org/artists/3832"
     },
     {
-        "Artist": "Thomas Bewick",
-        "Title": "Headpiece (page 109) from The Fables of Aesop",
-        "Year": "1818",
-        "ObjectID": "20940",
-        "Work": "https://www.moma.org/collection/works/20940",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3NzI3MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=71b80b873e4bc186",
+        "Artist": "Henri Matisse",
+        "Title": "Nude with Necklace and Long Hair (Nu au collier et aux cheveux longs)",
+        "Year": "c. 1920",
+        "ObjectID": "61395",
+        "Work": "https://www.moma.org/collection/works/61395",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NDMyMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=607ba961c45d87d7",
         "Details": {
-            "Author": "Aesop",
-            "Medium": "Wood engraving from an illustrated book with 323 wood engravings and one etching and engraving",
-            "Dimensions": "composition: 2 5/16 \u00d7 3 1/4\" (5.8 \u00d7 8.2 cm); page (irreg.): 8 1/4 \u00d7 5 5/16\" (21 \u00d7 13.5 cm)",
-            "Publisher": "T. Bewick and Son, Newcastle, England",
-            "Printer": "Edward Walker",
-            "Edition": "unknown",
-            "Credit": "The Louis E. Stern Collection",
-            "Object number": "680.1964.101",
-            "Illustrated book": "The Fables of Aesop",
+            "Medium": "Etching with chine coll\u00e9",
+            "Dimensions": "plate: 5 13/16 x 7 5/8\" (14.8 x 19.4cm); sheet: 10 5/8 x 14 3/4\" (27 x 37.5cm)",
+            "Edition": "25",
+            "Credit": "Stephen C. Clark Fund",
+            "Object number": "63.1951",
+            "Copyright": "\u00a9 2023 Succession H. Matisse / Artists Rights Society (ARS), New York",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/542"
+        "Profile": "https://www.moma.org/artists/3832"
     },
     {
-        "Artist": "Thomas Bewick",
-        "Title": "Tailpiece (page 110) from The Fables of Aesop",
-        "Year": "1818",
-        "ObjectID": "20941",
-        "Work": "https://www.moma.org/collection/works/20941",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3NzI3MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=972083090735a2b4",
+        "Artist": "Henri Matisse",
+        "Title": "Young Girl, Flowered Blouse (Fillette, blouse fleurie)",
+        "Year": "1920",
+        "ObjectID": "67117",
+        "Work": "https://www.moma.org/collection/works/67117",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NDE0OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d5dfd59e1506cb17",
         "Details": {
-            "Author": "Aesop",
-            "Medium": "Wood engraving from an illustrated book with 323 wood engravings and one etching and engraving",
-            "Dimensions": "composition (irreg.): 13/16 \u00d7 1 11/16\" (2 \u00d7 4.3 cm); page (irreg.): 8 1/4 \u00d7 5 5/16\" (21 \u00d7 13.5 cm)",
-            "Publisher": "T. Bewick and Son, Newcastle, England",
-            "Printer": "Edward Walker",
-            "Edition": "unknown",
-            "Credit": "The Louis E. Stern Collection",
-            "Object number": "680.1964.102",
-            "Illustrated book": "The Fables of Aesop",
+            "Medium": "Etching",
+            "Dimensions": "plate: 5 13/16 x 4\" (14.7 x 10.1 cm); sheet: 14 15/16 x 11\" (38 x 27.9 cm)",
+            "Edition": "25",
+            "Credit": "Gift of Mr. and Mrs. Walter Bareiss",
+            "Object number": "333.1958",
+            "Copyright": "\u00a9 2023 Succession H. Matisse / Artists Rights Society (ARS), New York",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/542"
+        "Profile": "https://www.moma.org/artists/3832"
     },
     {
-        "Artist": "Thomas Bewick",
-        "Title": "Headpiece (page 111) from The Fables of Aesop",
-        "Year": "1818",
-        "ObjectID": "20942",
-        "Work": "https://www.moma.org/collection/works/20942",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3NzI3NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7b883cf94068dcca",
+        "Artist": "Henri Matisse",
+        "Title": "Woman with Anemones",
+        "Year": "c. 1919-20",
+        "ObjectID": "83407",
+        "Work": "https://www.moma.org/collection/works/83407",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMTg2MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=457d972b30e80444",
         "Details": {
-            "Author": "Aesop",
-            "Medium": "Wood engraving from an illustrated book with 323 wood engravings and one etching and engraving",
-            "Dimensions": "composition: 2 1/4 \u00d7 3 3/16\" (5.7 \u00d7 8.1 cm); page (irreg.): 8 1/4 \u00d7 5 5/16\" (21 \u00d7 13.5 cm)",
-            "Publisher": "T. Bewick and Son, Newcastle, England",
-            "Printer": "Edward Walker",
-            "Edition": "unknown",
-            "Credit": "The Louis E. Stern Collection",
-            "Object number": "680.1964.103",
-            "Illustrated book": "The Fables of Aesop",
-            "Department": "Drawings and Prints"
+            "Medium": "Oil on canvas",
+            "Dimensions": "9 5/8 x 7 7/8\" (24.4 x 20 cm)",
+            "Credit": "The William S. Paley Collection",
+            "Object number": "SPC20.1990",
+            "Copyright": "\u00a9 2023 Succession H. Matisse / Artists Rights Society (ARS), New York",
+            "Department": "Painting and Sculpture"
         },
-        "Profile": "https://www.moma.org/artists/542"
-    },
-    {
-        "Artist": "Thomas Bewick",
-        "Title": "Tailpiece (page 112) from The Fables of Aesop",
-        "Year": "1818",
-        "ObjectID": "20943",
-        "Work": "https://www.moma.org/collection/works/20943",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3NzI3NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b40e9c641a3ccc54",
-        "Details": {
-            "Author": "Aesop",
-            "Medium": "Wood engraving from an illustrated book with 323 wood engravings and one etching and engraving",
-            "Dimensions": "composition (irreg.): 1 1/4 \u00d7 1 7/8\" (3.2 \u00d7 4.8 cm); page (irreg.): 8 1/4 \u00d7 5 5/16\" (21 \u00d7 13.5 cm)",
-            "Publisher": "T. Bewick and Son, Newcastle, England",
-            "Printer": "Edward Walker",
-            "Edition": "unknown",
-            "Credit": "The Louis E. Stern Collection",
-            "Object number": "680.1964.104",
-            "Illustrated book": "The Fables of Aesop",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/542"
+        "Profile": "https://www.moma.org/artists/3832"
     }
 ]

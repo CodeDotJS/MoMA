@@ -1,666 +1,51 @@
 [
     {
-        "Artist": "Steve Reinke",
-        "Title": "Harvey K. from The Hundred Videos",
-        "Year": "1995",
-        "ObjectID": "118426",
-        "Work": "https://www.moma.org/collection/works/118426",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1MjY3MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=909765d2e284a607",
+        "Artist": "Beatrice Riese",
+        "Title": "Sepik",
+        "Year": "1997",
+        "ObjectID": "97166",
+        "Work": "https://www.moma.org/collection/works/97166",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE0Mjc2NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6c91c4c851bd3df6",
         "Details": {
-            "Medium": "Video (color, sound)",
-            "Duration": "2:06 min.",
-            "Credit": "Gift of the artist",
-            "Object number": "1342.1999.32",
-            "Copyright": "\u00a9 2023 Steve Reinke",
-            "Series": "The Hundred Videos",
-            "Department": "Media and Performance"
-        },
-        "Profile": "https://www.moma.org/artists/34915"
-    },
-    {
-        "Artist": "Steve Reinke",
-        "Title": "How to Build an Igloo from The Hundred Videos",
-        "Year": "1995",
-        "ObjectID": "118427",
-        "Work": "https://www.moma.org/collection/works/118427",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1MjY3MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c40c872c7f5ff873",
-        "Details": {
-            "Medium": "Video (color, sound)",
-            "Duration": "1:02 min.",
-            "Credit": "Gift of the artist",
-            "Object number": "1342.1999.33",
-            "Copyright": "\u00a9 2023 Steve Reinke",
-            "Series": "The Hundred Videos",
-            "Department": "Media and Performance"
-        },
-        "Profile": "https://www.moma.org/artists/34915"
-    },
-    {
-        "Artist": "Steve Reinke",
-        "Title": "Jin's Dream from The Hundred Videos",
-        "Year": "1995",
-        "ObjectID": "118436",
-        "Work": "https://www.moma.org/collection/works/118436",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1MjY4MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=73c774e49508200c",
-        "Details": {
-            "Medium": "Video (color, sound)",
-            "Duration": "1:25 min.",
-            "Credit": "Gift of the artist",
-            "Object number": "1342.1999.42",
-            "Copyright": "\u00a9 2023 Steve Reinke",
-            "Series": "The Hundred Videos",
-            "Department": "Media and Performance"
-        },
-        "Profile": "https://www.moma.org/artists/34915"
-    },
-    {
-        "Artist": "Steve Reinke",
-        "Title": "Love Among Corpses from The Hundred Videos",
-        "Year": "1995",
-        "ObjectID": "118446",
-        "Work": "https://www.moma.org/collection/works/118446",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1MjY5MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7972f51d1b4b2f18",
-        "Details": {
-            "Medium": "Video (color, sound)",
-            "Duration": "2:46 min.",
-            "Credit": "Gift of the artist",
-            "Object number": "1342.1999.52",
-            "Copyright": "\u00a9 2023 Steve Reinke",
-            "Series": "The Hundred Videos",
-            "Department": "Media and Performance"
-        },
-        "Profile": "https://www.moma.org/artists/34915"
-    },
-    {
-        "Artist": "Steve Reinke",
-        "Title": "Microscope from The Hundred Videos",
-        "Year": "1995",
-        "ObjectID": "118450",
-        "Work": "https://www.moma.org/collection/works/118450",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1MjY5NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=60ca2bb4433c893e",
-        "Details": {
-            "Medium": "Video (color, sound)",
-            "Duration": "1:34 min.",
-            "Credit": "Gift of the artist",
-            "Object number": "1342.1999.56",
-            "Copyright": "\u00a9 2023 Steve Reinke",
-            "Series": "The Hundred Videos",
-            "Department": "Media and Performance"
-        },
-        "Profile": "https://www.moma.org/artists/34915"
-    },
-    {
-        "Artist": "Steve Reinke",
-        "Title": "Minnesota Inventory from The Hundred Videos",
-        "Year": "1995",
-        "ObjectID": "118451",
-        "Work": "https://www.moma.org/collection/works/118451",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1MjY5NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a106e4902e100170",
-        "Details": {
-            "Medium": "Video (color, sound)",
-            "Duration": "10:37 min.",
-            "Credit": "Gift of the artist",
-            "Object number": "1342.1999.57",
-            "Copyright": "\u00a9 2023 Steve Reinke",
-            "Series": "The Hundred Videos",
-            "Department": "Media and Performance"
-        },
-        "Profile": "https://www.moma.org/artists/34915"
-    },
-    {
-        "Artist": "Steve Reinke",
-        "Title": "Muriel from The Hundred Videos",
-        "Year": "1995",
-        "ObjectID": "118453",
-        "Work": "https://www.moma.org/collection/works/118453",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1MjY5NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e518562d54ab5d02",
-        "Details": {
-            "Medium": "Video (color, sound)",
-            "Duration": "0:38 min.",
-            "Credit": "Gift of the artist",
-            "Object number": "1342.1999.59",
-            "Copyright": "\u00a9 2023 Steve Reinke",
-            "Series": "The Hundred Videos",
-            "Department": "Media and Performance"
-        },
-        "Profile": "https://www.moma.org/artists/34915"
-    },
-    {
-        "Artist": "Steve Reinke",
-        "Title": "My Fear from The Hundred Videos",
-        "Year": "1995",
-        "ObjectID": "118455",
-        "Work": "https://www.moma.org/collection/works/118455",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1MjY5OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b4860d4383aaa5a1",
-        "Details": {
-            "Medium": "Video (color, sound)",
-            "Duration": "1:05 min.",
-            "Credit": "Gift of the artist",
-            "Object number": "1342.1999.61",
-            "Copyright": "\u00a9 2023 Steve Reinke",
-            "Series": "The Hundred Videos",
-            "Department": "Media and Performance"
-        },
-        "Profile": "https://www.moma.org/artists/34915"
-    },
-    {
-        "Artist": "Steve Reinke",
-        "Title": "Re-enactment of a Performance from The Hundred Videos",
-        "Year": "1995",
-        "ObjectID": "118461",
-        "Work": "https://www.moma.org/collection/works/118461",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1MjcwNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b2413f290289a643",
-        "Details": {
-            "Medium": "Video (color, sound)",
-            "Duration": "1:02 min.",
-            "Credit": "Gift of the artist",
-            "Object number": "1342.1999.67",
-            "Copyright": "\u00a9 2023 Steve Reinke",
-            "Series": "The Hundred Videos",
-            "Department": "Media and Performance"
-        },
-        "Profile": "https://www.moma.org/artists/34915"
-    },
-    {
-        "Artist": "Steve Reinke",
-        "Title": "Sparky from The Hundred Videos",
-        "Year": "1995",
-        "ObjectID": "118467",
-        "Work": "https://www.moma.org/collection/works/118467",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1MjcxMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9ccdac8ce1ec7a77",
-        "Details": {
-            "Medium": "Video (color, sound)",
-            "Duration": "0:57 min.",
-            "Credit": "Gift of the artist",
-            "Object number": "1342.1999.73",
-            "Copyright": "\u00a9 2023 Steve Reinke",
-            "Series": "The Hundred Videos",
-            "Department": "Media and Performance"
-        },
-        "Profile": "https://www.moma.org/artists/34915"
-    },
-    {
-        "Artist": "Steve Reinke",
-        "Title": "Symposium from The Hundred Videos",
-        "Year": "1995",
-        "ObjectID": "118472",
-        "Work": "https://www.moma.org/collection/works/118472",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1MjcxNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ede74fc0064336f5",
-        "Details": {
-            "Medium": "Video (color, sound)",
-            "Duration": "1:24 min.",
-            "Credit": "Gift of the artist",
-            "Object number": "1342.1999.78",
-            "Copyright": "\u00a9 2023 Steve Reinke",
-            "Series": "The Hundred Videos",
-            "Department": "Media and Performance"
-        },
-        "Profile": "https://www.moma.org/artists/34915"
-    },
-    {
-        "Artist": "Steve Reinke",
-        "Title": "The End of My Death from The Hundred Videos",
-        "Year": "1995",
-        "ObjectID": "118476",
-        "Work": "https://www.moma.org/collection/works/118476",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1MjcyMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=84eb51bbeb9889e6",
-        "Details": {
-            "Medium": "Video (color, sound)",
-            "Duration": "2:15 min.",
-            "Credit": "Gift of the artist",
-            "Object number": "1342.1999.82",
-            "Copyright": "\u00a9 2023 Steve Reinke",
-            "Series": "The Hundred Videos",
-            "Department": "Media and Performance"
-        },
-        "Profile": "https://www.moma.org/artists/34915"
-    },
-    {
-        "Artist": "Steve Reinke",
-        "Title": "Three Examples from The Hundred Videos",
-        "Year": "1995",
-        "ObjectID": "118479",
-        "Work": "https://www.moma.org/collection/works/118479",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1MjcyMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=33c14d9839d32917",
-        "Details": {
-            "Medium": "Video (color, sound)",
-            "Duration": "0:33 min.",
-            "Credit": "Gift of the artist",
-            "Object number": "1342.1999.85",
-            "Copyright": "\u00a9 2023 Steve Reinke",
-            "Series": "The Hundred Videos",
-            "Department": "Media and Performance"
-        },
-        "Profile": "https://www.moma.org/artists/34915"
-    },
-    {
-        "Artist": "Steve Reinke",
-        "Title": "Transformer from The Hundred Videos",
-        "Year": "1995",
-        "ObjectID": "118481",
-        "Work": "https://www.moma.org/collection/works/118481",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1MjcyNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=74f3c3a70dd76128",
-        "Details": {
-            "Medium": "Video (color, sound)",
-            "Duration": "0:37 min.",
-            "Credit": "Gift of the artist",
-            "Object number": "1342.1999.87",
-            "Copyright": "\u00a9 2023 Steve Reinke",
-            "Series": "The Hundred Videos",
-            "Department": "Media and Performance"
-        },
-        "Profile": "https://www.moma.org/artists/34915"
-    },
-    {
-        "Artist": "Steve Reinke",
-        "Title": "Treehouse",
-        "Year": "1995",
-        "ObjectID": "118482",
-        "Work": "https://www.moma.org/collection/works/118482",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1MjcyNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=35e0937c70621d7a",
-        "Details": {
-            "Medium": "Video (color, sound)",
-            "Duration": "3:55 min.",
-            "Credit": "Gift of the artist",
-            "Object number": "1342.1999.88",
-            "Copyright": "\u00a9 2023 Steve Reinke",
-            "Series": "The Hundred Videos",
-            "Department": "Media and Performance"
-        },
-        "Profile": "https://www.moma.org/artists/34915"
-    },
-    {
-        "Artist": "Mauro Restiffe",
-        "Title": "Russia (Mirror in Bed)",
-        "Year": "1995",
-        "ObjectID": "283717",
-        "Work": "https://www.moma.org/collection/works/283717",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQzNDEzNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a93de98cd6eb91a8",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "8 \u00d7 10\" (20.3 \u00d7 25.4 cm)",
-            "Credit": "Latin American and Caribbean Fund",
-            "Object number": "287.2018",
-            "Copyright": "\u00a9 2023 Mauro Restiffe",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/68281"
-    },
-    {
-        "Artist": "Mauro Restiffe",
-        "Title": "Russia (Couple)",
-        "Year": "1995",
-        "ObjectID": "284361",
-        "Work": "https://www.moma.org/collection/works/284361",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQzNDEyMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=163d8de112040cd0",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "8 \u00d7 10\" (20.3 \u00d7 25.4 cm)",
-            "Credit": "Gift of Sherri Wolf",
-            "Object number": "279.2018",
-            "Copyright": "\u00a9 2023 Mauro Restiffe",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/68281"
-    },
-    {
-        "Artist": "Mauro Restiffe",
-        "Title": "Russia (Horses)",
-        "Year": "1995",
-        "ObjectID": "284362",
-        "Work": "https://www.moma.org/collection/works/284362",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQzNDUyNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=01e8b7fe8987e9c8",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "8 \u00d7 10\" (20.3 \u00d7 25.4 cm)",
-            "Credit": "Gift of Sherri Wolf",
-            "Object number": "280.2018",
-            "Copyright": "\u00a9 2023 Mauro Restiffe",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/68281"
-    },
-    {
-        "Artist": "Mauro Restiffe",
-        "Title": "Russia (Table)",
-        "Year": "1995",
-        "ObjectID": "284365",
-        "Work": "https://www.moma.org/collection/works/284365",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQzNDEyNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=600e59922efbaf68",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "8 \u00d7 10\" (20.3 \u00d7 25.4 cm)",
-            "Credit": "Gift of Sherri Wolf",
-            "Object number": "283.2018",
-            "Copyright": "\u00a9 2023 Mauro Restiffe",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/68281"
-    },
-    {
-        "Artist": "Mauro Restiffe",
-        "Title": "Russia (Fruits and Vegetables)",
-        "Year": "1995",
-        "ObjectID": "284366",
-        "Work": "https://www.moma.org/collection/works/284366",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQzNDEyOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=02f9a467c83e445d",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "8 \u00d7 10\" (20.3 \u00d7 25.4 cm)",
-            "Credit": "Gift of Sherri Wolf",
-            "Object number": "284.2018",
-            "Copyright": "\u00a9 2023 Mauro Restiffe",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/68281"
-    },
-    {
-        "Artist": "Mauro Restiffe",
-        "Title": "Russia (Hermitage)",
-        "Year": "1995",
-        "ObjectID": "284367",
-        "Work": "https://www.moma.org/collection/works/284367",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQzNDEzMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d2966483aacc474d",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "8 \u00d7 10\" (20.3 \u00d7 25.4 cm)",
-            "Credit": "Gift of Sherri Wolf",
-            "Object number": "285.2018",
-            "Copyright": "\u00a9 2023 Mauro Restiffe",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/68281"
-    },
-    {
-        "Artist": "Mauro Restiffe",
-        "Title": "Russia (Stairs)",
-        "Year": "1995",
-        "ObjectID": "284368",
-        "Work": "https://www.moma.org/collection/works/284368",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQzNDEzMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=afa1c878fa20a7ec",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "8 \u00d7 10\" (20.3 \u00d7 25.4 cm)",
-            "Credit": "Gift of Sherri Wolf",
-            "Object number": "286.2018",
-            "Copyright": "\u00a9 2023 Mauro Restiffe",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/68281"
-    },
-    {
-        "Artist": "Mauro Restiffe",
-        "Title": "Russia (Doors)",
-        "Year": "1995",
-        "ObjectID": "284369",
-        "Work": "https://www.moma.org/collection/works/284369",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQzNDEzNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3fa42a459e244446",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "8 \u00d7 10\" (20.3 \u00d7 25.4 cm)",
-            "Credit": "Latin American and Caribbean Fund",
-            "Object number": "288.2018",
-            "Copyright": "\u00a9 2023 Mauro Restiffe",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/68281"
-    },
-    {
-        "Artist": "Mauro Restiffe",
-        "Title": "Russia (Corner)",
-        "Year": "1995",
-        "ObjectID": "284370",
-        "Work": "https://www.moma.org/collection/works/284370",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQzNDEzOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6bbda93835c6fccb",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "8 \u00d7 10\" (20.3 \u00d7 25.4 cm)",
-            "Credit": "Latin American and Caribbean Fund",
-            "Object number": "289.2018",
-            "Copyright": "\u00a9 2023 Mauro Restiffe",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/68281"
-    },
-    {
-        "Artist": "Mauro Restiffe",
-        "Title": "Russia (Window 3)",
-        "Year": "1995",
-        "ObjectID": "284372",
-        "Work": "https://www.moma.org/collection/works/284372",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQzNDE0MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4e484386085a6657",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "8 \u00d7 10\" (20.3 \u00d7 25.4 cm)",
-            "Credit": "Latin American and Caribbean Fund",
-            "Object number": "291.2018",
-            "Copyright": "\u00a9 2023 Mauro Restiffe",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/68281"
-    },
-    {
-        "Artist": "Mauro Restiffe",
-        "Title": "Russia (Floating in Bed)",
-        "Year": "1995",
-        "ObjectID": "284373",
-        "Work": "https://www.moma.org/collection/works/284373",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQzNDE0MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=34de795055ba3bca",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "10 \u00d7 8\" (25.4 \u00d7 20.3 cm)",
-            "Credit": "Latin American and Caribbean Fund",
-            "Object number": "292.2018",
-            "Copyright": "\u00a9 2023 Mauro Restiffe",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/68281"
-    },
-    {
-        "Artist": "Gerhard Richter",
-        "Title": "14. Dez. 1995",
-        "Year": "1995",
-        "ObjectID": "97160",
-        "Work": "https://www.moma.org/collection/works/97160",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExMzYzMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8bd6d1452fd2bca5",
-        "Details": {
-            "Medium": "Oil on paper on paperboard",
-            "Dimensions": "11 3/4 x 16 1/2\" (29.8 x 41.9 cm)",
-            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
-            "Object number": "2876.2005",
-            "Copyright": "\u00a9 2023 Gerhard Richter",
+            "Medium": "Gouache, ink, and pencil on paper",
+            "Dimensions": "28 1/8 x 28 3/8\" (71.4 x 72.1 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift (Gift of Dr. Roger Mosesson in honor of the artist)",
+            "Object number": "2882.2005",
+            "Copyright": "\u00a9 2023 The Estate of Beatrice Riese",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/4907"
-    },
-    {
-        "Artist": "Heinrich Riebesehl",
-        "Title": "Untitled",
-        "Year": "1995",
-        "ObjectID": "101516",
-        "Work": "https://www.moma.org/collection/works/101516",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0MDAzMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=491734d90ec423d1",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "18 1/16 \u00d7 22 1/16\" (45.9 \u00d7 56 cm)",
-            "Credit": "Arthur M. Bullowa Fund",
-            "Object number": "63.2006",
-            "Copyright": "\u00a9 2023 Heinrich Riebesehl",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/30116"
-    },
-    {
-        "Artist": "Heinrich Riebesehl",
-        "Title": "Bremen",
-        "Year": "April 1995",
-        "ObjectID": "101517",
-        "Work": "https://www.moma.org/collection/works/101517",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0MDAzMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=958b21020ab2289d",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "18 1/16 \u00d7 22 1/16\" (45.9 \u00d7 56 cm)",
-            "Credit": "Arthur M. Bullowa Fund",
-            "Object number": "62.2006",
-            "Copyright": "\u00a9 2023 Heinrich Riebesehl",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/30116"
-    },
-    {
-        "Artist": "Faith Ringgold",
-        "Title": "Seven Passages to a Flight",
-        "Year": "1995",
-        "ObjectID": "22131",
-        "Work": "https://www.moma.org/collection/works/22131",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQzODA2OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fc7921e8e17c4510",
-        "Details": {
-            "Author": "Faith Ringgold",
-            "Medium": "Illustrated book with nine etchings with hand additions and pochoir on linen, including cover",
-            "Dimensions": "overall (book, closed): 9 7/16 \u00d7 7 13/16 \u00d7 13/16\" (24 \u00d7 19.9 \u00d7 2 cm); overall (clamshell box, closed): 10 3/16 \u00d7 8 3/8 \u00d7 1 7/16\" (25.9 \u00d7 21.3 \u00d7 3.6 cm)",
-            "Publisher": "Brighton Press, San Diego",
-            "Printer": "Brighton Press, San Diego",
-            "Edition": "30",
-            "Credit": "The Ralph E. Shikes Fund",
-            "Object number": "717.1996.1-9",
-            "Copyright": "\u00a9 2023 Faith Ringgold / Artists Rights Society (ARS), New York",
-            "Type": "Illustrated Book",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/7066"
+        "Profile": "https://www.moma.org/artists/7889"
     },
     {
         "Artist": "Pipilotti Rist",
-        "Title": "I'm a Victim of This Song",
-        "Year": "1995",
-        "ObjectID": "119117",
-        "Work": "https://www.moma.org/collection/works/119117",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1MTU3OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=90e3b550c57c24fe",
+        "Title": "Ever Is Over All",
+        "Year": "1997",
+        "ObjectID": "81191",
+        "Work": "https://www.moma.org/collection/works/81191",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyODk3MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ea8fab9f715ef6a9",
         "Details": {
-            "Medium": "Video (color, sound)",
-            "Duration": "5:06 min.",
-            "Credit": "Acquired through the generosity of Deanne Shashoua",
-            "Object number": "586.2008",
-            "Copyright": "\u00a9 2023 Pipilotti Rist. Courtesy Electronic Arts Intermix (EAI), New York",
-            "Department": "Media and Performance"
+            "Medium": "Two-channel video (color, sound)",
+            "Duration": "4:07 min. Dimensions variable. Sound: Anders Guggisberg and Pipilotti Rist.",
+            "Credit": "Fractional and promised gift of Donald L. Bryant, Jr.",
+            "Object number": "241.2000.a-c",
+            "Copyright": "\u00a9 2023 Pipilotti Rist",
+            "Department": "Painting and Sculpture"
         },
         "Profile": "https://www.moma.org/artists/8297"
     },
     {
-        "Artist": "Reynaldo Rivera",
-        "Title": "Performer, Mugy's (1)",
-        "Year": "c. 1990",
-        "ObjectID": "431486",
-        "Work": "https://www.moma.org/collection/works/431486",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNjMyNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0660edc0d2e43d37",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "7 1/2 \u00d7 7 1/2\" (19.1 \u00d7 19.1 cm)",
-            "Credit": "The Family of Man Fund",
-            "Object number": "554.2022",
-            "Copyright": "\u00a9 2023 Reynaldo Rivera",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/134600"
-    },
-    {
-        "Artist": "Reynaldo Rivera",
-        "Title": "Performer, Mugy's (2)",
-        "Year": "c. 1990",
-        "ObjectID": "431571",
-        "Work": "https://www.moma.org/collection/works/431571",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNjMyOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fb35dfec10250726",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "7 3/8 \u00d7 7 1/4\" (18.7 \u00d7 18.4 cm)",
-            "Credit": "The Family of Man Fund",
-            "Object number": "555.2022",
-            "Copyright": "\u00a9 2023 Reynaldo Rivera",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/134600"
-    },
-    {
-        "Artist": "Reynaldo Rivera",
-        "Title": "Performer, Mugy's (3)",
-        "Year": "c. 1990",
-        "ObjectID": "431572",
-        "Work": "https://www.moma.org/collection/works/431572",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNjMyOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=06d22aadf63000ba",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "8 3/8 \u00d7 8 1/4\" (21.3 \u00d7 21 cm)",
-            "Credit": "The Family of Man Fund",
-            "Object number": "556.2022",
-            "Copyright": "\u00a9 2023 Reynaldo Rivera",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/134600"
-    },
-    {
-        "Artist": "Reynaldo Rivera",
-        "Title": "Untitled",
-        "Year": "c. 1990",
-        "ObjectID": "431573",
-        "Work": "https://www.moma.org/collection/works/431573",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNjMzMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a2715cad8d0bc4cf",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "7 3/4 \u00d7 7 5/8\" (19.7 \u00d7 19.4 cm)",
-            "Credit": "The Family of Man Fund",
-            "Object number": "557.2022",
-            "Copyright": "\u00a9 2023 Reynaldo Rivera",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/134600"
-    },
-    {
-        "Artist": "Reynaldo Rivera",
-        "Title": "Untitled",
-        "Year": "c. 1990",
-        "ObjectID": "431574",
-        "Work": "https://www.moma.org/collection/works/431574",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNjMzMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=682ad06e963b7dd7",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "7 3/4 \u00d7 7 5/8\" (19.7 \u00d7 19.4 cm)",
-            "Credit": "The Family of Man Fund",
-            "Object number": "558.2022",
-            "Copyright": "\u00a9 2023 Reynaldo Rivera",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/134600"
-    },
-    {
-        "Artist": "Reynaldo Rivera",
-        "Title": "Las Reinas de la Noche, 4",
-        "Year": "1995",
-        "ObjectID": "431576",
-        "Work": "https://www.moma.org/collection/works/431576",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMDA3NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=aed2569e8c81c1d9",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "10 \u00d7 10 1/16\" (25.4 \u00d7 25.6 cm)",
-            "Credit": "The Family of Man Fund",
-            "Object number": "560.2022",
-            "Copyright": "\u00a9 2023 Reynaldo Rivera",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/134600"
-    },
-    {
         "Artist": "Michael Rock, Susan Sellers, Georgianna Stout",
-        "Title": "Any Magazine No. 10",
-        "Year": "1995",
-        "ObjectID": "112287",
-        "Work": "https://www.moma.org/collection/works/112287",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3NTE1NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=83568595388c878d",
+        "Title": "Any Magazine",
+        "Year": "1994-1997",
+        "ObjectID": "111299",
+        "Work": "https://www.moma.org/collection/works/111299",
+        "Thumbnail": null,
         "Details": {
             "Graphic design firm": "2x4, Inc.",
             "Medium": "Offset lithography",
-            "Dimensions": "15 x 11\" (38.1 x 27.9 cm)",
+            "Dimensions": ".1 no.9(1994): 15 x 11\" (38.1 x 27.9 cm)\r\n.2 no.10(1995): 15 x 11\" (38.1 x 27.9 cm)\r\n.3 no.11(1995): 15 x 11\" (38.1 x 27.9 cm)\r\n.4 no.12(1995): 15 x 11\" (38.1 x 27.9 cm)\r\n.5 no.13(1996): 15 x 11\" (38.1 x 27.9 cm)\r\n.6 no.14(1996): 15 x 11\" (38.1 x 27.9 cm)\r\n.7 no.15(1996): 15 x 11\" (38.1 x 27.9 cm)\r\n.8 no.16(1996): 15 x 11\" (38.1 x 27.9 cm)\r\n.9 no.17(1997): 15 x 11\" (38.1 x 27.9 cm)\r\n.10 no.18(1997): 15 x 11\" (38.1 x 27.9 cm)\r\n.11 no.19/20(1997): 15 x 11\" (38.1 x 27.9 cm)\r\n.12 no.90(1996): 15 x 11\" (38.1 x 27.9 cm)\r\n.13 no.27(2000) closed: 16 x 12 1/2\" (40.6 x 31.8 cm)\r\n.13 no.27(2000) open: 32 x 25\" (81.3 x 63.5 cm)",
             "Credit": "Gift of the designers",
-            "Object number": "882.2007.2",
+            "Object number": "882.2007.1-13",
             "Copyright": "\u00a9 2023 2x4 Inc.",
             "Department": "Architecture and Design"
         },
@@ -668,17 +53,18 @@
     },
     {
         "Artist": "Michael Rock, Susan Sellers, Georgianna Stout",
-        "Title": "Any Magazine No. 11",
-        "Year": "1995",
-        "ObjectID": "112288",
-        "Work": "https://www.moma.org/collection/works/112288",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3NTE1NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ab68314afe385358",
+        "Title": "MoMA Charrette",
+        "Year": "1997",
+        "ObjectID": "111568",
+        "Work": "https://www.moma.org/collection/works/111568",
+        "Thumbnail": null,
         "Details": {
             "Graphic design firm": "2x4, Inc.",
-            "Medium": "Offset lithography",
-            "Dimensions": "15 x 11\" (38.1 x 27.9 cm)",
+            "Medium": "Book of color and black and white photocopies",
+            "Dimensions": "11 x 10 x 1 1/2\" (27.9 x 25.4 x 3.8 cm)",
+            "Publisher": "OMA*AMO",
             "Credit": "Gift of the designers",
-            "Object number": "882.2007.3",
+            "Object number": "883.2007",
             "Copyright": "\u00a9 2023 2x4 Inc.",
             "Department": "Architecture and Design"
         },
@@ -686,156 +72,810 @@
     },
     {
         "Artist": "Michael Rock, Susan Sellers, Georgianna Stout",
-        "Title": "Any Magazine No. 12",
-        "Year": "1995",
-        "ObjectID": "112289",
-        "Work": "https://www.moma.org/collection/works/112289",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3NTE1NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=603d0ddde3bf6a34",
+        "Title": "Any Magazine No. 17",
+        "Year": "1997",
+        "ObjectID": "112294",
+        "Work": "https://www.moma.org/collection/works/112294",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3NTE2MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e75e3f8b954b919f",
         "Details": {
             "Graphic design firm": "2x4, Inc.",
             "Medium": "Offset lithography",
             "Dimensions": "15 x 11\" (38.1 x 27.9 cm)",
             "Credit": "Gift of the designers",
-            "Object number": "882.2007.4",
+            "Object number": "882.2007.9",
             "Copyright": "\u00a9 2023 2x4 Inc.",
             "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/31022"
     },
     {
-        "Artist": "Rong Rong",
-        "Title": "East Village, Beijing, No. 8",
-        "Year": "1995",
-        "ObjectID": "117125",
-        "Work": "https://www.moma.org/collection/works/117125",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5ODE1MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=058b0858d6aa944e",
+        "Artist": "Michael Rock, Susan Sellers, Georgianna Stout",
+        "Title": "Any Magazine No. 18",
+        "Year": "1997",
+        "ObjectID": "112295",
+        "Work": "https://www.moma.org/collection/works/112295",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3NTE0NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6a08dcc24c98a90d",
         "Details": {
-            "Sitter": "Zhang Huan",
-            "Medium": "Gelatin silver print",
-            "Dimensions": ".1: 21 3/16 \u00d7 14 1/2\" (53.8 \u00d7 36.8 cm)\r\n.2: 20 13/16 \u00d7 14 7/16\" (52.8 \u00d7 36.6 cm)\r\n.3: 21 1/4 \u00d7 14 7/16\" (54 \u00d7 36.7 cm)\r\n.4: 21 3/16 \u00d7 14 7/16\" (53.8 \u00d7 36.6 cm)",
-            "Credit": "Acquired through the generosity of Peter and Susan MacGill",
-            "Object number": "399.2008.1-4",
-            "Copyright": "\u00a9 2023 Rong Rong",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/34221"
-    },
-    {
-        "Artist": "Judith Joy Ross",
-        "Title": "Untitled, Jim Thorpe Lake, Pennsylvania",
-        "Year": "1995",
-        "ObjectID": "187526",
-        "Work": "https://www.moma.org/collection/works/187526",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMxNDUxNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1db4d589620514ff",
-        "Details": {
-            "Medium": "Gelatin silver printing-out-paper print",
-            "Dimensions": "9 11/16 \u00d7 7 5/8\" (24.6 \u00d7 19.4 cm)",
-            "Credit": "Gift of Heidi and Richard Rieger",
-            "Object number": "1135.2014",
-            "Copyright": "\u00a9 2023 Judith Joy Ross",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/5030"
-    },
-    {
-        "Artist": "Richard Rothman",
-        "Title": "Home with Sound Wall, New Jersey",
-        "Year": "1995",
-        "ObjectID": "57217",
-        "Work": "https://www.moma.org/collection/works/57217",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQwMDgyOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c595cbf25dd2717c",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "23 3/8 \u00d7 19 1/2\" (59.4 \u00d7 49.6 cm)",
-            "Credit": "Gift of the Nina W. Werblow Charitable Trust",
-            "Object number": "873.1996",
-            "Copyright": "\u00a9 2023 Richard Rothman",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/8584"
-    },
-    {
-        "Artist": "Alejandro Ruiz",
-        "Title": "Cheese Grater",
-        "Year": "1994",
-        "ObjectID": "2516",
-        "Work": "https://www.moma.org/collection/works/2516",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyODM0NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5d6c7b88149d35c6",
-        "Details": {
-            "Manufacturer": "Alessi Fratelli S.p.A., Crusinallo, Italy",
-            "Medium": "Plastic and metal",
-            "Dimensions": "2 1/2 x 3 x 6\" (6.3 x 7.6 x 15.2 cm)",
-            "Credit": "Gift of the manufacturer",
-            "Object number": "138.1995",
+            "Graphic design firm": "2x4, Inc.",
+            "Medium": "Offset lithography",
+            "Dimensions": "15 x 11\" (38.1 x 27.9 cm)",
+            "Credit": "Gift of the designers",
+            "Object number": "882.2007.10",
+            "Copyright": "\u00a9 2023 2x4 Inc.",
             "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/26470"
+        "Profile": "https://www.moma.org/artists/31022"
     },
     {
-        "Artist": "Sheron Rupp",
-        "Title": "Untitled (Bayside, Ontario, Canada)",
-        "Year": "1995",
-        "ObjectID": "45412",
-        "Work": "https://www.moma.org/collection/works/45412",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQwMDgyNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1a0f7a03704afccc",
+        "Artist": "Michael Rock, Susan Sellers, Georgianna Stout",
+        "Title": "Any Magazine No. 19/20",
+        "Year": "1997",
+        "ObjectID": "112296",
+        "Work": "https://www.moma.org/collection/works/112296",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3NTE0OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=40bd233163a28685",
         "Details": {
-            "Medium": "Chromogenic print",
-            "Dimensions": "25 7/8 \u00d7 32 1/16\" (65.8 \u00d7 81.4 cm)",
-            "Credit": "E.T. Harmax Foundation Fund",
-            "Object number": "65.1997.x1-x2",
-            "Copyright": "\u00a9 2023 Sheron Rupp",
-            "Department": "Photography"
+            "Graphic design firm": "2x4, Inc.",
+            "Medium": "Offset lithography",
+            "Dimensions": "15 x 11\" (38.1 x 27.9 cm)",
+            "Credit": "Gift of the designers",
+            "Object number": "882.2007.11",
+            "Copyright": "\u00a9 2023 2x4 Inc.",
+            "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/5083"
+        "Profile": "https://www.moma.org/artists/31022"
     },
     {
-        "Artist": "Doris Salcedo",
-        "Title": "Untitled",
-        "Year": "1995",
-        "ObjectID": "80767",
-        "Work": "https://www.moma.org/collection/works/80767",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ0NjA3MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=17f7bb395afdf1e1",
+        "Artist": "Tim Rollins, K.O.S. (Kids of Survival)",
+        "Title": "The Frogs (after Aristophanes)",
+        "Year": "1997",
+        "ObjectID": "62010",
+        "Work": "https://www.moma.org/collection/works/62010",
+        "Thumbnail": null,
         "Details": {
-            "Medium": "Wood, cement, steel, cloth, and leather",
-            "Dimensions": "7' 9\" x 41\" x 19\" (236.2 x 104.1 x 48.2 cm)",
-            "Credit": "The Norman and Rosita Winston Foundation, Inc. Fund",
-            "Object number": "4.1996",
-            "Copyright": "\u00a9 2023 Doris Salcedo",
+            "Medium": "Lithograph with watercolor additions",
+            "Publisher": "Swiss Graphic Society, Geneva",
+            "Credit": "Gift of the artists",
+            "Object number": "113.1998",
+            "Copyright": "\u00a9 2023 Tim Rollins and K.O.S.",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/19238"
+    },
+    {
+        "Artist": "James Rosenquist",
+        "Title": "The Flame Still Dances on Leo's Book from The Leo Castelli 90th Birthday Portfolio",
+        "Year": "1997, published 1998",
+        "ObjectID": "69446",
+        "Work": "https://www.moma.org/collection/works/69446",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQyODcyNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=17f44cfe4fca08b4",
+        "Details": {
+            "Medium": "Lithograph from a portfolio of four screenprints (one with hot stamping), three etchings (one with aquatint), one offset lithograph, and one lithograph",
+            "Dimensions": "composition (irreg.): 27 15/16 \u00d7 23 5/16\" (71 \u00d7 59.2 cm); sheet: 37 \u00d7 27 1/16\" (94 \u00d7 68.8 cm)",
+            "Publisher": "Jean-Christophe Castelli, New York",
+            "Printer": "Universal Limited Art Editions, West Islip and Bay Shore, New York",
+            "Edition": "90",
+            "Credit": "Gift of Jean-Christophe Castelli",
+            "Object number": "458.1999.7",
+            "Portfolio": "The Leo Castelli 90th Birthday Portfolio",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5021"
+    },
+    {
+        "Artist": "Ce Roser",
+        "Title": "Millenium Moment from American Abstract Artists 60th Anniversary Print Portfolio",
+        "Year": "1997",
+        "ObjectID": "62594",
+        "Work": "https://www.moma.org/collection/works/62594",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMTI2MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=20d5edb8304f127e",
+        "Details": {
+            "Medium": "One from a portfolio of forty lithographs",
+            "Dimensions": "composition and sheet: 12 5/8 \u00d7 9 5/8\" (32 \u00d7 24.5 cm)",
+            "Publisher": "American Abstract Artists",
+            "Printer": "Rutgers Center for Innovative Print and Paper, New Brunswick, NJ",
+            "Edition": "100",
+            "Credit": "Gift of John Goodyear",
+            "Object number": "135.1998.32",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/7890"
+    },
+    {
+        "Artist": "Martha Rosler",
+        "Title": "Chile on the Road to NAFTA, Accompanied by the National Police Band",
+        "Year": "1997",
+        "ObjectID": "159808",
+        "Work": "https://www.moma.org/collection/works/159808",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NTA0MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=da1a7c19ce708926",
+        "Details": {
+            "Medium": "Video (color, sound)",
+            "Duration": "10 min.",
+            "Credit": "Gift of the artist and Galerie Nagel, Berlin",
+            "Object number": "601.2012",
+            "Copyright": "\u00a9 2023 Martha Rosler",
+            "Department": "Media and Performance"
+        },
+        "Profile": "https://www.moma.org/artists/6832"
+    },
+    {
+        "Artist": "Irene Rousseau",
+        "Title": "Crescendo from American Abstract Artists 60th Anniversary Print Portfolio",
+        "Year": "1997",
+        "ObjectID": "62595",
+        "Work": "https://www.moma.org/collection/works/62595",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMTI2NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=38a7152f2c083e0e",
+        "Details": {
+            "Medium": "One from a portfolio of forty lithographs",
+            "Dimensions": "composition and sheet: 9 9/16 \u00d7 12 5/8\" (24.3 \u00d7 32.1 cm)",
+            "Publisher": "American Abstract Artists",
+            "Printer": "Rutgers Center for Innovative Print and Paper, New Brunswick, NJ",
+            "Edition": "100",
+            "Credit": "Gift of John Goodyear",
+            "Object number": "135.1998.33",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/7891"
+    },
+    {
+        "Artist": "Nancy Rubins",
+        "Title": "Untitled",
+        "Year": "1997",
+        "ObjectID": "35090",
+        "Work": "https://www.moma.org/collection/works/35090",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNTk3MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b62861815e36efa6",
+        "Details": {
+            "Medium": "Pencil on paper",
+            "Dimensions": "62 x 69\" (157.5 x 175.2 cm)",
+            "Credit": "Gift of Sarah-Ann and Werner H. Kramarsky",
+            "Object number": "179.1997",
+            "Copyright": "\u00a9 2023 Nancy Rubins",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/7617"
+    },
+    {
+        "Artist": "Edward Ruscha",
+        "Title": "\"L.C.\" from The Leo Castelli 90th Birthday Portfolio",
+        "Year": "1997, published 1998",
+        "ObjectID": "69447",
+        "Work": "https://www.moma.org/collection/works/69447",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQyODQ2MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=98d3c26f5549ae2f",
+        "Details": {
+            "Medium": "Screenprint from a portfolio of four screenprints (one with hot stamping), three etchings (one with aquatint), one offset lithograph, and one lithograph",
+            "Dimensions": "composition and sheets: 37 1/16 \u00d7 27 1/16\" (94.2 \u00d7 68.7 cm)",
+            "Publisher": "Jean-Christophe Castelli, New York",
+            "Printer": "Noblet Serigraphie, Inc., New York",
+            "Edition": "90",
+            "Credit": "Gift of Jean-Christophe Castelli",
+            "Object number": "458.1999.8",
+            "Copyright": "\u00a9 2023 Edward Ruscha",
+            "Portfolio": "The Leo Castelli 90th Birthday Portfolio",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5086"
+    },
+    {
+        "Artist": "Stefan Sagmeister",
+        "Title": "AIGA New Orleans",
+        "Year": "1997",
+        "ObjectID": "102918",
+        "Work": "https://www.moma.org/collection/works/102918",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEwNDkyNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=34ff3787ea932a9f",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "26 1/2 x 37 1/2\" (67.3 x 95.3 cm)",
+            "Credit": "Gift of the designer",
+            "Object number": "468.2006",
+            "Copyright": "\u00a9 2023 Stefan Sagmeister",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/30682"
+    },
+    {
+        "Artist": "Cheri Samba",
+        "Title": "Hope Keeps You Going #2",
+        "Year": "1997",
+        "ObjectID": "296570",
+        "Work": "https://www.moma.org/collection/works/296570",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ2MjU4NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6ef45945180e7f08",
+        "Details": {
+            "Medium": "Acrylic, sequins, photographs, and glue on canvas",
+            "Dimensions": "51 3/16 \u00d7 76 3/8\" (130 \u00d7 194 cm)",
+            "Credit": "The Jean Pigozzi African Art Collection.  Gift of Jean Pigozzi",
+            "Object number": "139.2019",
             "Department": "Painting and Sculpture"
         },
-        "Profile": "https://www.moma.org/artists/7488"
+        "Profile": "https://www.moma.org/artists/25299"
     },
     {
-        "Artist": "Joel Sanders, Architect, Joel Sanders, Marc Tsurumaki, Ernest Guenzburger, Sean Keller, Dillon Kyle, Cary Siress",
-        "Title": "Kyle Residence Project, Houston, Texas",
-        "Year": "1991-92",
-        "ObjectID": "1058",
-        "Work": "https://www.moma.org/collection/works/1058",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyODAyMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=935a6892614af46d",
+        "Artist": "Karin Sander",
+        "Title": "Karin Sander 1:10, 1997, 3D-bodyscan of the living person,",
+        "Year": "1997",
+        "ObjectID": "88916",
+        "Work": "https://www.moma.org/collection/works/88916",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDU4MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=510723db6eb2e0ca",
         "Details": {
-            "Collaborating artist": "Marc Tsurumaki, Ernest Guenzburger, Sean Keller, Dillon Kyle, Cary Siress",
-            "Medium": "Wood, Plexiglass, resin, and aluminum",
-            "Dimensions": "7 7/8 x 33 3/4 x 29 1/2\" (20 x 85.7 x 75 cm)",
-            "Credit": "Gift of the Peter Norton Family Foundation",
-            "Object number": "451.1997",
-            "Department": "Architecture and Design"
+            "Medium": "FDM (fused deposition modeling), ABS (Acrylonitrile-Butadiene-Styrene) Airbrush\r\nScale 1:10",
+            "Dimensions": "6 1/4\" (16 cm)  high",
+            "Credit": "Gift of Patricia Phelps de Cisneros in honor of Adriana Cisneros-Phelps",
+            "Object number": "255.2003",
+            "Copyright": "\u00a9 2023 Karin Sander / Artists Rights Society (ARS), New York / VG Bild-Kunst, Germany",
+            "Department": "Painting and Sculpture"
         },
-        "Profile": "https://www.moma.org/artists/22874"
+        "Profile": "https://www.moma.org/artists/7130"
     },
     {
-        "Artist": "Joel Sanders",
-        "Title": "Kyle Residence, Houston, Texas, Plan and perspective",
-        "Year": "1995",
-        "ObjectID": "302",
-        "Work": "https://www.moma.org/collection/works/302",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyODUzOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c8693353e400dd4f",
+        "Artist": "David Scher",
+        "Title": "Untitled (Smoke - Fur Tips)",
+        "Year": "1997",
+        "ObjectID": "97302",
+        "Work": "https://www.moma.org/collection/works/97302",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE0MTczMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=467b81a395012c77",
         "Details": {
-            "Medium": "Cut-and-pasted paper, cut-and-pasted pressure sensitive synthetic polymer sheets, and ink on drafting film over photo-electrostatic print",
-            "Dimensions": "23 x 24\" (58.4 x 61 cm)",
-            "Credit": "Gift of the Peter Norton Family Foundation",
-            "Object number": "275.1999",
+            "Medium": "Ink on paper",
+            "Dimensions": "8 1/2 x 11\" (21.6 x 27.9 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "3008.2005",
+            "Copyright": "\u00a9 2023 David Scher",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/28792"
+    },
+    {
+        "Artist": "Carolee Schneemann",
+        "Title": "Mouth/Mouth",
+        "Year": "1997",
+        "ObjectID": "97315",
+        "Work": "https://www.moma.org/collection/works/97315",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMzk5NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2d724c40f5c97114",
+        "Details": {
+            "Medium": "Pencil and synthetic polymer paint on fifty-six pieces of paper",
+            "Dimensions": "each: 14 x 10 1/2\" (35.6 x 26.7 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "3019.2005.a-ddd",
+            "Copyright": "\u00a9 2023 Estate of Carolee Schneemann. Courtesy of Galerie Lelong & Co., and P\u2022P\u2022O\u2022W, New York",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/7712"
+    },
+    {
+        "Artist": "Ralph Schraivogel",
+        "Title": "Gross & Klein (Museum fur Gestaltung)",
+        "Year": "1997",
+        "ObjectID": "5952",
+        "Work": "https://www.moma.org/collection/works/5952",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyNzk4NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cae869cc3b354ea6",
+        "Details": {
+            "Medium": "Silkscreen",
+            "Dimensions": "35 5/8 x 50 3/8\" (90.5 x 128 cm)",
+            "Printer": "Albin Uldry Workshop, Switzerland, Egli. Kunz & Partner",
+            "Credit": "Gift of the designer",
+            "Object number": "267.1998",
             "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/7566"
+        "Profile": "https://www.moma.org/artists/8048"
+    },
+    {
+        "Artist": "Wilfred Graf Schwerin Von Krosigk",
+        "Title": "Untitled from American Abstract Artists 60th Anniversary Print Portfolio",
+        "Year": "1997",
+        "ObjectID": "62596",
+        "Work": "https://www.moma.org/collection/works/62596",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMzAyMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8c6492919b4e36a5",
+        "Details": {
+            "Medium": "One from a portfolio of forty lithographs",
+            "Dimensions": "composition (irreg.): 7 1/16 \u00d7 7 15/16\" (18 \u00d7 20.2 cm); sheet: 12 3/4 \u00d7 9 3/4\" (32.4 \u00d7 24.7 cm)",
+            "Publisher": "American Abstract Artists",
+            "Printer": "Rutgers Center for Innovative Print and Paper, New Brunswick, NJ",
+            "Edition": "100",
+            "Credit": "Gift of John Goodyear",
+            "Object number": "135.1998.34",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/7892"
+    },
+    {
+        "Artist": "Sean Scully",
+        "Title": "Seven Mirrors",
+        "Year": "1997",
+        "ObjectID": "71464",
+        "Work": "https://www.moma.org/collection/works/71464",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0MDkyMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a9602c5ce2f7da36",
+        "Details": {
+            "Medium": "Portfolio of seven aquatints",
+            "Dimensions": "plate (each): 9 x 7\" (22.9 x 17.8 cm); sheet (each): 23 x 19\" (58.4 x 48.2 cm)",
+            "Publisher": "Sean Scully, and Alexander and Bonin Publishing, Inc., New York",
+            "Printer": "Burnet Editions, New York",
+            "Edition": "40",
+            "Credit": "Gift of Agnes Gund and Daniel Shapiro",
+            "Object number": "581.1997.1-7",
+            "Copyright": "\u00a9 2023 Sean Scully / Artists Rights Society (ARS), New York / IVARO, Ireland",
+            "Type": "Portfolio",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5305"
+    },
+    {
+        "Artist": "Sean Scully",
+        "Title": "Untitled from Seven Mirrors",
+        "Year": "1997",
+        "ObjectID": "144826",
+        "Work": "https://www.moma.org/collection/works/144826",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0MDkyMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b9039511218697cc",
+        "Details": {
+            "Medium": "One from a portfolio of seven aquatints",
+            "Dimensions": "plate: 9 x 8\" (22.9 x 20.3 cm); sheet: 23 x 19\" (58.4 x 48.2 cm)",
+            "Publisher": "Alexander and Bonin Publishing, Inc., New York",
+            "Edition": "40",
+            "Credit": "Gift of Agnes Gund and Daniel Shapiro",
+            "Object number": "581.1997.1",
+            "Copyright": "\u00a9 2023 Sean Scully / Artists Rights Society (ARS), New York / IVARO, Ireland",
+            "Portfolio": "Seven Mirrors",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5305"
+    },
+    {
+        "Artist": "Sean Scully",
+        "Title": "Untitled from Seven Mirrors",
+        "Year": "1997",
+        "ObjectID": "144827",
+        "Work": "https://www.moma.org/collection/works/144827",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0MDkyMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0ddb33949b7631aa",
+        "Details": {
+            "Medium": "One from a portfolio of seven aquatints",
+            "Dimensions": "plate: 9 x 8\" (22.9 x 20.3 cm); sheet: 23 x 19\" (58.4 x 48.2 cm)",
+            "Publisher": "Alexander and Bonin Publishing, Inc., New York",
+            "Edition": "40",
+            "Credit": "Gift of Agnes Gund and Daniel Shapiro",
+            "Object number": "581.1997.2",
+            "Copyright": "\u00a9 2023 Sean Scully / Artists Rights Society (ARS), New York / IVARO, Ireland",
+            "Portfolio": "Seven Mirrors",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5305"
+    },
+    {
+        "Artist": "Sean Scully",
+        "Title": "Untitled from Seven Mirrors",
+        "Year": "1997",
+        "ObjectID": "144828",
+        "Work": "https://www.moma.org/collection/works/144828",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0MDkyNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f7cd1df5fc353799",
+        "Details": {
+            "Medium": "One from a portfolio of seven aquatints",
+            "Dimensions": "plate: 9 x 8\" (22.9 x 20.3 cm); sheet: 23 x 19\" (58.4 x 48.2 cm)",
+            "Publisher": "Alexander and Bonin Publishing, Inc., New York",
+            "Edition": "40",
+            "Credit": "Gift of Agnes Gund and Daniel Shapiro",
+            "Object number": "581.1997.3",
+            "Copyright": "\u00a9 2023 Sean Scully / Artists Rights Society (ARS), New York / IVARO, Ireland",
+            "Portfolio": "Seven Mirrors",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5305"
+    },
+    {
+        "Artist": "Sean Scully",
+        "Title": "Untitled from Seven Mirrors",
+        "Year": "1997",
+        "ObjectID": "144829",
+        "Work": "https://www.moma.org/collection/works/144829",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0MDkyNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2a75d6ffdf6f5616",
+        "Details": {
+            "Medium": "One from a portfolio of seven aquatints",
+            "Dimensions": "plate: 9 x 8\" (22.9 x 20.3 cm); sheet: 23 x 19\" (58.4 x 48.3 cm)",
+            "Publisher": "Alexander and Bonin Publishing, Inc., New York",
+            "Edition": "40",
+            "Credit": "Gift of Agnes Gund and Daniel Shapiro",
+            "Object number": "581.1997.4",
+            "Copyright": "\u00a9 2023 Sean Scully / Artists Rights Society (ARS), New York / IVARO, Ireland",
+            "Portfolio": "Seven Mirrors",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5305"
+    },
+    {
+        "Artist": "Sean Scully",
+        "Title": "Untitled from Seven Mirrors",
+        "Year": "1997",
+        "ObjectID": "144830",
+        "Work": "https://www.moma.org/collection/works/144830",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0MDkyNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7210047ce87080c0",
+        "Details": {
+            "Medium": "One from a portfolio of seven aquatints",
+            "Dimensions": "plate: 9 x 8\" (22.9 x 20.3 cm); sheet: 23 x 19\" (58.4 x 48.3 cm)",
+            "Publisher": "Alexander and Bonin Publishing, Inc., New York",
+            "Edition": "40",
+            "Credit": "Gift of Agnes Gund and Daniel Shapiro",
+            "Object number": "581.1997.5",
+            "Copyright": "\u00a9 2023 Sean Scully / Artists Rights Society (ARS), New York / IVARO, Ireland",
+            "Portfolio": "Seven Mirrors",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5305"
+    },
+    {
+        "Artist": "Sean Scully",
+        "Title": "Untitled from Seven Mirrors",
+        "Year": "1997",
+        "ObjectID": "144831",
+        "Work": "https://www.moma.org/collection/works/144831",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0MDkyNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1af16149a8ec089a",
+        "Details": {
+            "Medium": "One from a portfolio of seven aquatints",
+            "Dimensions": "plate: 9 x 8\" (22.9 x 20.3 cm); sheet: 23 x 19\" (58.4 x 48.3 cm)",
+            "Publisher": "Alexander and Bonin Publishing, Inc., New York",
+            "Edition": "40",
+            "Credit": "Gift of Agnes Gund and Daniel Shapiro",
+            "Object number": "581.1997.6",
+            "Copyright": "\u00a9 2023 Sean Scully / Artists Rights Society (ARS), New York / IVARO, Ireland",
+            "Portfolio": "Seven Mirrors",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5305"
+    },
+    {
+        "Artist": "Sean Scully",
+        "Title": "Untitled from Seven Mirrors",
+        "Year": "1997",
+        "ObjectID": "144832",
+        "Work": "https://www.moma.org/collection/works/144832",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0MDkyOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fd1e515683082131",
+        "Details": {
+            "Medium": "One from a portfolio of seven aquatints",
+            "Dimensions": "plate: 9 x 8\" (22.9 x 20.3 cm); sheet: 23 x 19\" (58.4 x 48.3 cm)",
+            "Publisher": "Alexander and Bonin Publishing, Inc., New York",
+            "Edition": "40",
+            "Credit": "Gift of Agnes Gund and Daniel Shapiro",
+            "Object number": "581.1997.7",
+            "Copyright": "\u00a9 2023 Sean Scully / Artists Rights Society (ARS), New York / IVARO, Ireland",
+            "Portfolio": "Seven Mirrors",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5305"
+    },
+    {
+        "Artist": "Allan Sekula",
+        "Title": "Dead Letter Office - Fabrica de Caixoes, Tijuana",
+        "Year": "1996-97",
+        "ObjectID": "430288",
+        "Work": "https://www.moma.org/collection/works/430288",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMjkwOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2be4f968dcf55630",
+        "Details": {
+            "Medium": "Silver dye bleach print",
+            "Dimensions": "50 \u00d7 71 5/8\" (127 \u00d7 182 cm)",
+            "Credit": "Gift of Lucille and Ron Neeley",
+            "Object number": "562.2022",
+            "Copyright": "\u00a9 2023 The Estate of Allan Sekula",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/31040"
+    },
+    {
+        "Artist": "Jonathan Seliger",
+        "Title": "Untogether from 20\" x 15\"",
+        "Year": "1997",
+        "ObjectID": "62536",
+        "Work": "https://www.moma.org/collection/works/62536",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNzY2OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=61e12e88ab3cefcd",
+        "Details": {
+            "Medium": "Etching and aquatint from a portfolio of five aquatints (one with embossing, one with photogravure, one with etching, one with photoetching and woodcut, and one with screenprint and collage additions)",
+            "Dimensions": "plate (irreg.): 5 7/8 \u00d7 9 1/16\" (15 \u00d7 23 cm); sheet: 20 1/16 \u00d7 14 15/16\" (51 \u00d7 38 cm)",
+            "Publisher": "Maureen Mahony, New York, Janis Stemmermann, New York",
+            "Edition": "36",
+            "Credit": "Gift of Maureen Mahony and Janis Stemmerman",
+            "Object number": "134.1998.5",
+            "Portfolio": "20\" x 15\"",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/7842"
+    },
+    {
+        "Artist": "Maria Serebriakova",
+        "Title": "Untitled",
+        "Year": "1997",
+        "ObjectID": "37512",
+        "Work": "https://www.moma.org/collection/works/37512",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM4NjA1OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6c89fc0e36e81b8b",
+        "Details": {
+            "Medium": "Watercolor on paper",
+            "Dimensions": "15 1/8 x 18 1/4\" (38.3 x 46.3 cm) each",
+            "Credit": "Purchased with funds given by Susan G. Jacoby in honor of her mother Marjorie L. Goldberger and gift of the Friends of Contemporary Drawing",
+            "Object number": "598.1998.a-b",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/7920"
+    },
+    {
+        "Artist": "Maria Serebriakova",
+        "Title": "Untitled",
+        "Year": "1997",
+        "ObjectID": "37519",
+        "Work": "https://www.moma.org/collection/works/37519",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM4NjAwMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a80963dafe70cc08",
+        "Details": {
+            "Medium": "Watercolor on paper",
+            "Dimensions": "15 1/8 x 18 1/4\" (38.3 x 46.3 cm) each",
+            "Credit": "Gift of the Friends of Contemporary Drawing",
+            "Object number": "599.1998.a-b",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/7920"
+    },
+    {
+        "Artist": "Jim Shaw",
+        "Title": "Dream Drawing (We were waiting at a restaurant & 2 guys read an art tabloid...)",
+        "Year": "1997",
+        "ObjectID": "33362",
+        "Work": "https://www.moma.org/collection/works/33362",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMxMTk5OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=297627bdcc1838c5",
+        "Details": {
+            "Medium": "Pencil on paper",
+            "Dimensions": "12 x 9\" (30.5 x 22.8 cm)",
+            "Credit": "Gift of the Friends of Contemporary Drawing",
+            "Object number": "27.1999",
+            "Copyright": "\u00a9 2023 Jim Shaw",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/7968"
+    },
+    {
+        "Artist": "Jim Shaw",
+        "Title": "Dream Drawing (A comic story I was working on...)",
+        "Year": "1997",
+        "ObjectID": "82237",
+        "Work": "https://www.moma.org/collection/works/82237",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjk1MTY1Il0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNTEyeDUxMlx1MDAzZSJdXQ.jpg?sha=cfd87604b1d14dc7",
+        "Details": {
+            "Medium": "Pencil on paper",
+            "Dimensions": "12 x 9\" (30.5 x 22.9 cm)",
+            "Credit": "Gift of Howard Karshan",
+            "Object number": "1385.2001",
+            "Copyright": "\u00a9 2023 Jim Shaw",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/7968"
+    },
+    {
+        "Artist": "Jim Shaw",
+        "Title": "Dream Object ( I was at Linda's and found a stack of very old drawings...)",
+        "Year": "1997",
+        "ObjectID": "97375",
+        "Work": "https://www.moma.org/collection/works/97375",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExMzY3MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d47792459f5e9bc3",
+        "Details": {
+            "Medium": "a: Ink, colored pencil, and pencil on paper\r\nb-c: Ink and colored pencil on paper\r\nd: Ink and colored pencil on transparentized paper",
+            "Dimensions": "17 x 14\" (43.2 x 35.6 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "3074.2005.a-d",
+            "Copyright": "\u00a9 2023 Jim Shaw",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/7968"
+    },
+    {
+        "Artist": "Alyson Shotz",
+        "Title": "Old Fashioned Vege-Gene Soup",
+        "Year": "1997",
+        "ObjectID": "65239",
+        "Work": "https://www.moma.org/collection/works/65239",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Multiple of a soup can",
+            "Publisher": "Alyson Shotz",
+            "Credit": "Gift of the artist",
+            "Object number": "250.1997",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/7677"
+    },
+    {
+        "Artist": "Alyson Shotz",
+        "Title": "Old Fashioned Vege-Gene Soup",
+        "Year": "1997",
+        "ObjectID": "65259",
+        "Work": "https://www.moma.org/collection/works/65259",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Multiple of a soup can",
+            "Publisher": "Alyson Shotz",
+            "Credit": "Gift of the artist",
+            "Object number": "251.1997",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/7677"
+    },
+    {
+        "Artist": "Alyson Shotz",
+        "Title": "Old Fashioned Vege-Gene Soup",
+        "Year": "1997",
+        "ObjectID": "65287",
+        "Work": "https://www.moma.org/collection/works/65287",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Multiple of a soup can",
+            "Publisher": "Alyson Shotz",
+            "Credit": "Gift of the artist",
+            "Object number": "252.1997",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/7677"
+    },
+    {
+        "Artist": "Jose Maria Sicilia",
+        "Title": "The Book of a Thousand and One Nights (Le livre des mille nuits et une nuit)",
+        "Year": "1997",
+        "ObjectID": "10931",
+        "Work": "https://www.moma.org/collection/works/10931",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Illustrated book with seventeen lithographs",
+            "Dimensions": "page  12 9/16 x 9 13/16\" (32 x 25 cm)",
+            "Publisher": "Michael Woolworth Publications, Paris",
+            "Printer": "Michael Woolworth Lithographie, Paris",
+            "Credit": "Mary Ellen Meehan Fund",
+            "Object number": "68.1999",
+            "Copyright": "\u00a9 2023 Jos\u00e9 Mar\u00eda Sicilia / Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5413"
+    },
+    {
+        "Artist": "Amy Sillman",
+        "Title": "Somewhere through although sometimes",
+        "Year": "1997",
+        "ObjectID": "273584",
+        "Work": "https://www.moma.org/collection/works/273584",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQyMzUwNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e284f04275ad5a21",
+        "Details": {
+            "Medium": "Gouache on paper",
+            "Dimensions": "9 3/8 \u00d7 9 3/4\" (23.8 \u00d7 24.8 cm)",
+            "Credit": "Gift of Martina Schaap Yamin",
+            "Object number": "813.2017",
+            "Copyright": "\u00a9 2023 Amy Sillman",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/28808"
+    },
+    {
+        "Artist": "Louis Silverstein",
+        "Title": "Black Square Reflection from American Abstract Artists 60th Anniversary Print Portfolio",
+        "Year": "1997",
+        "ObjectID": "62598",
+        "Work": "https://www.moma.org/collection/works/62598",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMzAyNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d74b669c2a5917e2",
+        "Details": {
+            "Medium": "One from a portfolio of forty lithographs",
+            "Dimensions": "composition: 7 5/16 \u00d7 7 13/16\" (18.6 \u00d7 19.8 cm); sheet: 12 13/16 \u00d7 9 3/4\" (32.5 \u00d7 24.8 cm)",
+            "Publisher": "American Abstract Artists",
+            "Printer": "Rutgers Center for Innovative Print and Paper, New Brunswick, NJ",
+            "Edition": "100",
+            "Credit": "Gift of John Goodyear",
+            "Object number": "135.1998.36",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5435"
+    },
+    {
+        "Artist": "Esphyr Slobodkina",
+        "Title": "Boat Building from American Abstract Artists 60th Anniversary Print Portfolio",
+        "Year": "1997",
+        "ObjectID": "62599",
+        "Work": "https://www.moma.org/collection/works/62599",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMzAyNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a088bf23d58f5f7b",
+        "Details": {
+            "Medium": "One from a portfolio of forty lithographs",
+            "Dimensions": "composition (irreg.): 9 7/16 \u00d7 10 13/16\" (24 \u00d7 27.5 cm); sheet: 9 5/8 \u00d7 12 5/8\" (24.5 \u00d7 32.1 cm)",
+            "Publisher": "American Abstract Artists",
+            "Printer": "Rutgers Center for Innovative Print and Paper, New Brunswick, NJ",
+            "Edition": "100",
+            "Credit": "Gift of John Goodyear",
+            "Object number": "135.1998.37",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6738"
+    },
+    {
+        "Artist": "Kiki Smith",
+        "Title": "Endocrinology",
+        "Year": "1997",
+        "ObjectID": "10933",
+        "Work": "https://www.moma.org/collection/works/10933",
+        "Thumbnail": null,
+        "Details": {
+            "Author": "Mei-mei Berssenbrugge",
+            "Medium": "Artist's book, offset printed, and one aquatint",
+            "Dimensions": "page (.1, each): 8 7/8 x 9\" (22.5 x 22.9 cm); composition (.2, irreg.): 8 7/16 \u00d7 5 1/16\" (21.4 \u00d7 12.9 cm); sheet (.2): 8 5/8 \u00d7 8 9/16\" (21.9 \u00d7 21.7 cm)",
+            "Publisher": "Kelsey Street Press, Berkeley, CA",
+            "Printer": "West Coast Print Center, Berkeley, CA",
+            "Edition": "60",
+            "Credit": "Gift of Dan Redmon",
+            "Object number": "69.1999.1-2",
+            "Copyright": "\u00a9 2023 Kiki Smith",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5486"
+    },
+    {
+        "Artist": "Kiki Smith",
+        "Title": "Kiki Smith's Dowry Book",
+        "Year": "1997",
+        "ObjectID": "11657",
+        "Work": "https://www.moma.org/collection/works/11657",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Artist's book, offset printed, and one offset lithograph",
+            "Dimensions": "page (.a, each): 4 3/16 x 5 3/4\" (10.6 x 14.6 cm); overall (.a, closed): 4 7/16 x 5 15/16 x 3/4\" (11.3 x 15.1 x 1.9 cm); composition and sheet (.b): 18 9/16 x 10 9/16\" (47.1 x 26.8 cm)",
+            "Publisher": "Anthony d'Offay Gallery, London",
+            "Printer": "Grafiche Milani, Segrate, Italy (book), Derriere L'Etoile Studios, New York (insert)",
+            "Edition": "200",
+            "Credit": "Mary Ellen Meehan Fund",
+            "Object number": "123.1998.a-b",
+            "Copyright": "\u00a9 2023 Kiki Smith",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5486"
+    },
+    {
+        "Artist": "Kiki Smith",
+        "Title": "Endocrinology",
+        "Year": "1997",
+        "ObjectID": "19006",
+        "Work": "https://www.moma.org/collection/works/19006",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyODA0MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cb976d15a7d623b5",
+        "Details": {
+            "Author": "Mei-mei Berssenbrugge",
+            "Medium": "Illustrated book with twenty offset lithographs and two photogravures",
+            "Dimensions": "page (irreg. each approx.): 20 1/2 \u00d7 19 3/4\" (52.1 \u00d7 50.2 cm); overall (closed): 21 1/4 \u00d7 21 \u00d7 3/8\" (53.9 \u00d7 53.4 \u00d7 0.9 cm)",
+            "Publisher": "Universal Limited Art Editions, West Islip, New York",
+            "Printer": "Universal Limited Art Editions, West Islip, New York",
+            "Edition": "40",
+            "Credit": "Gift of Emily Fisher Landau",
+            "Object number": "583.1997.1-22",
+            "Copyright": "\u00a9 2023 Kiki Smith",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5486"
+    },
+    {
+        "Artist": "Kiki Smith",
+        "Title": "The Fourth Day: Destruction of Birds",
+        "Year": "1997",
+        "ObjectID": "19092",
+        "Work": "https://www.moma.org/collection/works/19092",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyODA0MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ee4c83f63a5953af",
+        "Details": {
+            "Medium": "Artist's book",
+            "Dimensions": "page: 4 7/8 x 3 7/16\" (12.4 x 8.7 cm); sheet (unfolded): 4 7/8 x 41 3/4\" (12.4 x 106 cm)",
+            "Publisher": "Pace Wildenstein",
+            "Printer": "Diversified Graphics, Minneapolis",
+            "Edition": "2,500",
+            "Credit": "Given anonymously",
+            "Object number": "585.1997",
+            "Copyright": "\u00a9 2023 Kiki Smith",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5486"
+    },
+    {
+        "Artist": "Kiki Smith",
+        "Title": "Yes",
+        "Year": "1997",
+        "ObjectID": "65316",
+        "Work": "https://www.moma.org/collection/works/65316",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyNzQ5MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=031b8418698fed42",
+        "Details": {
+            "Medium": "Etching and aquatint",
+            "Dimensions": "composition: 4 15/16 x 8 11/16\" (12.5 x 22 cm); sheet: 11 7/16 x 16 7/16\" (29.1 x 41.8 cm)",
+            "Publisher": "Universal Limited Art Editions, West Islip, New York",
+            "Printer": "Universal Limited Art Editions, West Islip, New York",
+            "Edition": "74",
+            "Credit": "Gift of Emily Fisher Landau",
+            "Object number": "253.1997",
+            "Copyright": "\u00a9 2023 Kiki Smith",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5486"
     }
 ]

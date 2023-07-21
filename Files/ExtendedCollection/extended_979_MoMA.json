@@ -1,814 +1,854 @@
 [
     {
-        "Artist": "David Smith",
-        "Title": "Cubi X",
-        "Year": "1963",
-        "ObjectID": "81812",
-        "Work": "https://www.moma.org/collection/works/81812",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NTQ4NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b036522b4fcbe894",
+        "Artist": "Richard Artschwager",
+        "Title": "Key Member",
+        "Year": "1967",
+        "ObjectID": "81165",
+        "Work": "https://www.moma.org/collection/works/81165",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMDc0MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e6fb21811d14248e",
         "Details": {
-            "Medium": "Stainless steel",
-            "Dimensions": "10' 1 3/8\" x 6' 6 3/4\" x 24\" (308.3 x 199.9 x 61 cm)",
-            "Credit": "Robert O. Lord Fund",
-            "Object number": "717.1968",
+            "Medium": "Formica veneer and felt on wood",
+            "Dimensions": "11 7/8 x 29 1/8 x 8 5/8\" (30.1 x 74 x 21.9 cm)",
+            "Credit": "Gift of Philip Johnson",
+            "Object number": "220.1968",
+            "Copyright": "\u00a9 2023 Richard Artschwager / Artists Rights Society (ARS), New York",
             "Department": "Painting and Sculpture"
         },
-        "Profile": "https://www.moma.org/artists/5480"
+        "Profile": "https://www.moma.org/artists/19"
     },
     {
-        "Artist": "Jack Smith",
-        "Title": "Flaming Creatures",
-        "Year": "1963",
-        "ObjectID": "316516",
-        "Work": "https://www.moma.org/collection/works/316516",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM3NDc2MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=edc3723a969575ab",
-        "Details": {
-            "Object number": "W21057",
-            "Department": "Film"
-        },
-        "Profile": "https://www.moma.org/artists/5483"
-    },
-    {
-        "Artist": "Richard Smith",
-        "Title": "PM Zoom from The Institute of Contemporary Arts Portfolio",
-        "Year": "1963 (published 1964).",
-        "ObjectID": "72092",
-        "Work": "https://www.moma.org/collection/works/72092",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwOTE3MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cc290c224100b090",
-        "Details": {
-            "Medium": "Screenprint",
-            "Dimensions": "composition: 19 \u00d7 30\" (48.3 \u00d7 76.2 cm); sheet: 22 13/16 \u00d7 34 15/16\" (58 \u00d7 88.8 cm)",
-            "Publisher": "Institute for Contemporary Art",
-            "Printer": "Kelpra Studios Ltd., London",
-            "Edition": "40",
-            "Credit": "Abby Aldrich Rockefeller Fund",
-            "Object number": "626.1965",
-            "Copyright": "\u00a9 2023 Richard Smith",
-            "Portfolio": "The Institute of Contemporary Arts Portfolio",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5493"
-    },
-    {
-        "Artist": "Tony Smith",
-        "Title": "Untitled",
-        "Year": "1963",
-        "ObjectID": "436066",
-        "Work": "https://www.moma.org/collection/works/436066",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyODg3MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9980c80402dc9230",
-        "Details": {
-            "Medium": "Oil on canvas",
-            "Dimensions": "42 \u00d7 48\" (106.7 \u00d7 121.9 cm)",
-            "Credit": "Gift of Irving Stenn Jr. in honor of Ann Temkin",
-            "Object number": "777.2022",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/5494"
-    },
-    {
-        "Artist": "Michael Snow",
-        "Title": "Shot!",
-        "Year": "1963",
-        "ObjectID": "66319",
-        "Work": "https://www.moma.org/collection/works/66319",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwODcwMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6f7302cab3a3557b",
-        "Details": {
-            "Medium": "63 rubber stamped sheets on board",
-            "Dimensions": "sheet (each): 2 15/16 x 4 1/2\" (7.5 x 11.5 cm); overall: 44 1/8 x 28 3/16\" (112.1 x 71.6 cm)",
-            "Publisher": "unpublished",
-            "Printer": "Michael Snow, New York",
-            "Edition": "unique",
-            "Credit": "Inter-American Fund",
-            "Object number": "295.1964",
-            "Copyright": "\u00a9 2023 Michael Snow",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5500"
-    },
-    {
-        "Artist": "Frederick Sommer",
-        "Title": "Lee Nevin",
-        "Year": "1963",
-        "ObjectID": "51728",
-        "Work": "https://www.moma.org/collection/works/51728",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MDE1MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d89befff744978da",
+        "Artist": "Associated Press",
+        "Title": "\"A Pointed Question\"",
+        "Year": "January 17, 1967",
+        "ObjectID": "58539",
+        "Work": "https://www.moma.org/collection/works/58539",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMjA3OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d78a22be596ad12d",
         "Details": {
             "Medium": "Gelatin silver print",
-            "Dimensions": "13 5/16 \u00d7 8 7/8\" (33.8 \u00d7 22.6 cm)",
-            "Credit": "Purchase",
-            "Object number": "360.1964",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/5520"
-    },
-    {
-        "Artist": "Frederick Sommer",
-        "Title": "Cut Paper",
-        "Year": "1963",
-        "ObjectID": "57389",
-        "Work": "https://www.moma.org/collection/works/57389",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MzAzNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9ab8cd11096c3fd3",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "13 1/4 \u00d7 8 13/16\" (33.7 \u00d7 22.4 cm)",
-            "Credit": "Purchase",
-            "Object number": "967.1969",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/5520"
-    },
-    {
-        "Artist": "Daniel Spoerri, Francois Dufrene",
-        "Title": "L'Optique Moderne",
-        "Year": "1963",
-        "ObjectID": "128128",
-        "Work": "https://www.moma.org/collection/works/128128",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MDUyNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5749d479f6ee0385",
-        "Details": {
-            "Medium": "Offset book",
-            "Dimensions": "page (each): 7 7/8 x 5 5/16\" (20 x 13.5 cm); overall (closed): 7 7/8 x 5 1/2 x 1/4\" (20 x 14 x 0.7 cm)",
-            "Designer": "George Maciunas",
-            "Publisher": "Fluxus",
-            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
-            "Object number": "2731.2008.x1-.x3",
-            "Copyright": "\u00a9 2023 Daniel Spoerri / Artists Rights Society (ARS), New York / ProLitteris, Switzerland\r\n\u00a9 2023 Fran\u00e7ois Dufr\u00eane / Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5569"
-    },
-    {
-        "Artist": "Julian Stanczak",
-        "Title": "The Duel",
-        "Year": "1963",
-        "ObjectID": "98637",
-        "Work": "https://www.moma.org/collection/works/98637",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0MDU3MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3d5dea8ce8bb8da7",
-        "Details": {
-            "Medium": "Synthetic polymer paint on canvas",
-            "Dimensions": "54\" x 6' 6\" (137.2 x 198.1 cm)",
-            "Credit": "Gift of Agnes Gund",
-            "Object number": "246.2005",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/5599"
-    },
-    {
-        "Artist": "Henryk Stazewski",
-        "Title": "Colored Relief",
-        "Year": "1963",
-        "ObjectID": "80963",
-        "Work": "https://www.moma.org/collection/works/80963",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NTc1MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d2cb4507ad81e7cb",
-        "Details": {
-            "Medium": "Oil on board",
-            "Dimensions": "19 3/4 x 32 3/4 x 2 7/8\" (50 x 83.1 x 7.3 cm)",
-            "Credit": "Gift of Mr. and Mrs. Maurice A. Lipschultz",
-            "Object number": "114.1965",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/5613"
-    },
-    {
-        "Artist": "Frank Stella",
-        "Title": "Untitled",
-        "Year": "(1963)",
-        "ObjectID": "33788",
-        "Work": "https://www.moma.org/collection/works/33788",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3OTA2NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=58b9cb431e8e67dd",
-        "Details": {
-            "Medium": "Pencil on paper",
-            "Dimensions": "5 x 8\" (12.7 x 20.2 cm)",
-            "Credit": "Gift of Lawrence Rubin",
-            "Object number": "88.1981",
-            "Copyright": "\u00a9 2023 Frank Stella / Artists Rights Society (ARS), New York",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5640"
-    },
-    {
-        "Artist": "Frank Stella",
-        "Title": "Untitled",
-        "Year": "(1963)",
-        "ObjectID": "33813",
-        "Work": "https://www.moma.org/collection/works/33813",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3OTA2OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=23b2269b2c5f6888",
-        "Details": {
-            "Medium": "Pencil on paper",
-            "Dimensions": "5 x 8\" (12.7 x 20.2 cm)",
-            "Credit": "Gift of Lawrence Rubin",
-            "Object number": "89.1981",
-            "Copyright": "\u00a9 2023 Frank Stella / Artists Rights Society (ARS), New York",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5640"
-    },
-    {
-        "Artist": "Frank Stella",
-        "Title": "Untitled",
-        "Year": "(1963)",
-        "ObjectID": "33822",
-        "Work": "https://www.moma.org/collection/works/33822",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3OTEwNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=62d939169ef51ae8",
-        "Details": {
-            "Medium": "Pencil on paper",
-            "Dimensions": "5 x 8\" (12.7 x 20.2 cm)",
-            "Credit": "Gift of Lawrence Rubin",
-            "Object number": "90.1981",
-            "Copyright": "\u00a9 2023 Frank Stella / Artists Rights Society (ARS), New York",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5640"
-    },
-    {
-        "Artist": "Frank Stella",
-        "Title": "Untitled",
-        "Year": "(1963)",
-        "ObjectID": "34136",
-        "Work": "https://www.moma.org/collection/works/34136",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3ODc2NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=012dc7ee2bb9b0f9",
-        "Details": {
-            "Medium": "Felt-tip pen on paper",
-            "Dimensions": "5 7/8 x 8 3/4\" (14.6 x 22.2 cm)",
-            "Credit": "Gift of Lawrence Rubin",
-            "Object number": "117.1981",
-            "Copyright": "\u00a9 2023 Frank Stella / Artists Rights Society (ARS), New York",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5640"
-    },
-    {
-        "Artist": "Frank Stella",
-        "Title": "Untitled",
-        "Year": "(1963)",
-        "ObjectID": "34148",
-        "Work": "https://www.moma.org/collection/works/34148",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3ODc2NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=98f021d5ad81fa62",
-        "Details": {
-            "Medium": "Felt-tip pen on paper",
-            "Dimensions": "5 7/8 x 8 3/4\" (14.6 x 22.2 cm)",
-            "Credit": "Gift of Lawrence Rubin",
-            "Object number": "118.1981",
-            "Copyright": "\u00a9 2023 Frank Stella / Artists Rights Society (ARS), New York",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5640"
-    },
-    {
-        "Artist": "Frank Stella",
-        "Title": "Untitled",
-        "Year": "(1963)",
-        "ObjectID": "34431",
-        "Work": "https://www.moma.org/collection/works/34431",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3ODc3NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=dfd6cc105a7f208f",
-        "Details": {
-            "Medium": "Felt-tip pen on paper",
-            "Dimensions": "5 7/8 x 8 3/4\" (14.7 x 22.3 cm)",
-            "Credit": "Gift of Lawrence Rubin",
-            "Object number": "125.1981",
-            "Copyright": "\u00a9 2023 Frank Stella / Artists Rights Society (ARS), New York",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5640"
-    },
-    {
-        "Artist": "Frank Stella",
-        "Title": "Untitled",
-        "Year": "(1963)",
-        "ObjectID": "34450",
-        "Work": "https://www.moma.org/collection/works/34450",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3ODc3NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5c8754145770d4e5",
-        "Details": {
-            "Medium": "Felt-tip pen on paper",
-            "Dimensions": "5 7/8 x 8 3/4\" (14.7 x 22.3 cm)",
-            "Credit": "Gift of Lawrence Rubin",
-            "Object number": "126.1981",
-            "Copyright": "\u00a9 2023 Frank Stella / Artists Rights Society (ARS), New York",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5640"
-    },
-    {
-        "Artist": "Frank Stella",
-        "Title": "Untitled (For Rosemarie on Pearl Harbor Saturday)",
-        "Year": "1963",
-        "ObjectID": "289539",
-        "Work": "https://www.moma.org/collection/works/289539",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ0MTM4MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=02ae45e3f2b9d6f8",
-        "Details": {
-            "Medium": "Pencil on paper",
-            "Dimensions": "8 1/2 \u00d7 11\" (21.6 \u00d7 27.9 cm)",
-            "Credit": "Gift of the Gilbert B. and Lila Silverman Instruction Drawing Collection, Detroit",
-            "Object number": "1594.2018",
-            "Copyright": "\u00a9 2023 Frank Stella / Artists Rights Society (ARS), New York",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5640"
-    },
-    {
-        "Artist": "Nanny Still",
-        "Title": "Candle Holder",
-        "Year": "c. 1949-63",
-        "ObjectID": "4396",
-        "Work": "https://www.moma.org/collection/works/4396",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMDUxMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fca92a4745815c24",
-        "Details": {
-            "Medium": "Glass and wood",
-            "Dimensions": "Overall: 2 3/4 x 4\" (7 x 10.2 cm)\r\n.a: 2 3/8 x 4\" (6 x 10.2 cm)\r\n.b: 1 3/8 x 4\" (3.5 x 10.2 cm)",
-            "Credit": "Purchase",
-            "Object number": "717.1966.a-b",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/5666"
-    },
-    {
-        "Artist": "Captain Cecil W. Stoughton",
-        "Title": "\"The New President\"",
-        "Year": "November 22, 1963",
-        "ObjectID": "58703",
-        "Work": "https://www.moma.org/collection/works/58703",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0MDY5NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d2a67101257a9ac4",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "9 5/16 \u00d7 12 5/8\" (23.7 \u00d7 32.1 cm)",
+            "Dimensions": "6 3/8 \u00d7 8 1/2\" (16.2 \u00d7 21.6 cm)",
             "Credit": "The New York Times Collection",
-            "Object number": "2110.2001",
-            "Copyright": "\u00a9 2023 Captain Cecil W. Stoughton",
+            "Object number": "1946.2001",
+            "Copyright": "\u00a9 2023 Associated Press",
             "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/8624"
+        "Profile": "https://www.moma.org/artists/8501"
     },
     {
-        "Artist": "Harry Suchland",
-        "Title": "Seit Christi Geburt Gibt Man Sich Anders Die Hand (Since the birth of Christ, people have been shaking hands differently)",
-        "Year": "1963",
-        "ObjectID": "8079",
-        "Work": "https://www.moma.org/collection/works/8079",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxODU2MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=51cc2044c0fae2ca",
+        "Artist": "Terry Atkinson, Michael Baldwin",
+        "Title": "Map of an Area of Dimensions 12\" x 12\" Indicating 2,304 1/4\" Squares",
+        "Year": "1967",
+        "ObjectID": "75331",
+        "Work": "https://www.moma.org/collection/works/75331",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNDAzNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=17bdb87d30b1b7dd",
         "Details": {
-            "Medium": "Photolithograph",
-            "Dimensions": "23 1/4 x 33\" (59.0 x 83.8 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "764.1963",
+            "Medium": "Letterpress",
+            "Dimensions": "Composition: 12 7/16 x 12\" (31.6 x 30.5 cm)\r\nSheet: 14 1/2 x 18\" (36.8 x 45.7 cm)",
+            "Credit": "Gift of Donald Karshan",
+            "Object number": "1041.1979",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/234"
+    },
+    {
+        "Artist": "Terry Atkinson, Michael Baldwin",
+        "Title": "Map of a Thirty-Six Square Mile Surface Area of the Pacific Ocean West of Oahu",
+        "Year": "1967",
+        "ObjectID": "75340",
+        "Work": "https://www.moma.org/collection/works/75340",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNjEwMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8d250eb8165d8338",
+        "Details": {
+            "Medium": "Letterpress",
+            "Edition": "50",
+            "Credit": "Gift of Donald Karshan",
+            "Object number": "1043.1979",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/234"
+    },
+    {
+        "Artist": "Terry Atkinson, Michael Baldwin",
+        "Title": "Types of Quasi Intention",
+        "Year": "1967",
+        "ObjectID": "75344",
+        "Work": "https://www.moma.org/collection/works/75344",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNDAzOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ce93c9fabb9fa6d9",
+        "Details": {
+            "Medium": "Offset lithograph",
+            "Credit": "Gift of Donald Karshan",
+            "Object number": "1044.1979",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/234"
+    },
+    {
+        "Artist": "Terry Atkinson, Michael Baldwin",
+        "Title": "Prints I-IV",
+        "Year": "1967",
+        "ObjectID": "75348",
+        "Work": "https://www.moma.org/collection/works/75348",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Series of four offset lithographs",
+            "Credit": "Gift of Donald Karshan",
+            "Object number": "1045.1979.1-5",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/234"
+    },
+    {
+        "Artist": "Jose Antonio Attolini Lack",
+        "Title": "Santa Cruz Church, Jardines del Pedregal, Mexico City, Mexico",
+        "Year": "1967",
+        "ObjectID": "184770",
+        "Work": "https://www.moma.org/collection/works/184770",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Pencil on paper",
+            "Dimensions": "23 5/8 x 35 7/16\" (60 x 90 cm)",
+            "Credit": "Gift of Carmen Pesqueira de Attolini",
+            "Object number": "661.2014.1",
             "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/5714"
+        "Profile": "https://www.moma.org/artists/43916"
     },
     {
-        "Artist": "Miroslav Sutej",
-        "Title": "Bombardment of the Optic Nerve, II",
-        "Year": "1963",
-        "ObjectID": "79553",
-        "Work": "https://www.moma.org/collection/works/79553",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NTYwNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ccccaa946a7405a6",
+        "Artist": "Jose Antonio Attolini Lack",
+        "Title": "Santa Cruz Church, Jardines del Pedregal, Mexico City, Mexico",
+        "Year": "1967",
+        "ObjectID": "184771",
+        "Work": "https://www.moma.org/collection/works/184771",
+        "Thumbnail": null,
         "Details": {
-            "Medium": "Tempera and pencil on canvas",
-            "Dimensions": "6' 7\" (200.5 cm) in diameter",
-            "Credit": "Larry Aldrich Foundation Fund",
-            "Object number": "373.1965",
-            "Department": "Painting and Sculpture"
+            "Medium": "Pencil on paper",
+            "Dimensions": "23 5/8 x 35 7/16\" (60 x 90 cm)",
+            "Credit": "Gift of Carmen Pesqueira de Attolini",
+            "Object number": "661.2014.2",
+            "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/5737"
+        "Profile": "https://www.moma.org/artists/43916"
     },
     {
-        "Artist": "Alina Szapocznikow",
-        "Title": "Untitled",
-        "Year": "1963",
-        "ObjectID": "114767",
-        "Work": "https://www.moma.org/collection/works/114767",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1NDcyMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1a6c85d4c57c07c2",
+        "Artist": "Carl Aubock",
+        "Title": "Salad Serving Set",
+        "Year": "1967",
+        "ObjectID": "2119",
+        "Work": "https://www.moma.org/collection/works/2119",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNzkzMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=94f284eff34ff3e8",
         "Details": {
-            "Medium": "Ink on paper",
-            "Dimensions": "10 5/8 x 8 1/8\" (27 x 20.6 cm)",
-            "Credit": "Purchased with funds provided by the Rendl Endowment for Slavic Art",
-            "Object number": "1408.2007",
-            "Copyright": "\u00a9 2023 / Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Manufacturer": "Neuzeughammer Ambosswerk, Austria",
+            "Medium": "Stainless steel",
+            "Dimensions": ".a (fork): 9 3/8 x 1 5/8\" (23.8 x 4.1 cm)\r\n.b (spoon): 9 1/2 x 2\" (24.1 x 5.1 cm)",
+            "Credit": "Purchase",
+            "Object number": "104.1968.a-b",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/238"
+    },
+    {
+        "Artist": "Carl Aubock",
+        "Title": "Carving Set",
+        "Year": "1967",
+        "ObjectID": "2125",
+        "Work": "https://www.moma.org/collection/works/2125",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMDI3NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c01f956a16b8e726",
+        "Details": {
+            "Manufacturer": "Neuzeughammer Ambosswerk, Austria",
+            "Medium": "Stainless steel and plastic",
+            "Dimensions": ".a (knife): 12 3/8 x 2 3/16\" (31.4 x 5.6 cm)\r\n.b (fork): 12 1/16 x 1 1/8\" (30.6 x 2.8 cm)",
+            "Credit": "Purchase",
+            "Object number": "105.1968.a-b",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/238"
+    },
+    {
+        "Artist": "Mario Avati",
+        "Title": "Lemon, Bowl and Fruit-Dish (Citron, Bol et Compotier)",
+        "Year": "1967",
+        "ObjectID": "77842",
+        "Work": "https://www.moma.org/collection/works/77842",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5MTgyNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=851d5dda3e0b3ebf",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition and sheet: 21 1/4 \u00d7 23 13/16\" (54 \u00d7 60.5 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1981.1967",
+            "Copyright": "\u00a9 2023 Mario Avati / Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Associated work": "Tamarind Lithography Workshop Archive",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/34124"
+        "Profile": "https://www.moma.org/artists/246"
     },
     {
-        "Artist": "Alina Szapocznikow",
-        "Title": "Untitled",
-        "Year": "1963",
-        "ObjectID": "114768",
-        "Work": "https://www.moma.org/collection/works/114768",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1NDcyNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8a812cf49d725596",
+        "Artist": "Mario Avati",
+        "Title": "Lemon, Bowl and Fruit-Dish (Citron, Bol et Compotier)",
+        "Year": "1967",
+        "ObjectID": "77843",
+        "Work": "https://www.moma.org/collection/works/77843",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5MTgyOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=baf843485326a9a4",
         "Details": {
-            "Medium": "Felt-tip pen on paper",
-            "Dimensions": "14 x 10 1/2\" (35.6 x 26.7 cm)",
-            "Credit": "Purchased with funds provided by the Rendl Endowment for Slavic Art",
-            "Object number": "1409.2007",
-            "Copyright": "\u00a9 2023 / Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Medium": "Lithograph",
+            "Dimensions": "composition and sheet: 21 1/8 \u00d7 23 13/16\" (53.7 \u00d7 60.5 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1982.1967",
+            "Copyright": "\u00a9 2023 Mario Avati / Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Associated work": "Tamarind Lithography Workshop Archive",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/34124"
+        "Profile": "https://www.moma.org/artists/246"
     },
     {
-        "Artist": "Parviz Tanavoli",
-        "Title": "The Prophet",
-        "Year": "1962/63",
-        "ObjectID": "81167",
-        "Work": "https://www.moma.org/collection/works/81167",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5NTg3NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0a4b00a81753d4b8",
+        "Artist": "Mario Avati",
+        "Title": "Les Artichauts de Los Angeles",
+        "Year": "1967",
+        "ObjectID": "77844",
+        "Work": "https://www.moma.org/collection/works/77844",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5MTgyOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5d3e0382bf656428",
         "Details": {
-            "Medium": "Bronze",
-            "Dimensions": "26 3/4 x 6 1/2 x 4\" (67.9 x 16.5 x 10.1 cm) including base",
-            "Credit": "The Ben and Abby Grey Foundation",
-            "Object number": "222.1968",
-            "Copyright": "\u00a9\ufe0f Parviz Tanavoli",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/5802"
-    },
-    {
-        "Artist": "Dorothea Tanning",
-        "Title": "Orphans from Dorothea Tanning: Bilder, Gouaches, Zeichnungen 1957-1963",
-        "Year": "1963",
-        "ObjectID": "64441",
-        "Work": "https://www.moma.org/collection/works/64441",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3NzcxMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6bd61d0bc5ac40a7",
-        "Details": {
-            "Medium": "Etching",
-            "Dimensions": "plate: 8 x 6 3/8\" (20.3 x 16.2 cm); sheet: 14 9/16 x 9 15/16\" (37 x 25.3 cm)",
-            "Publisher": "Galerie der Spiegel, Cologne",
-            "Printer": "\u00c9ditions Georges Visat & Cie., Paris",
-            "Credit": "Gift of William S. Lieberman",
-            "Object number": "209.1986",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Medium": "Lithograph with varnish additions",
+            "Dimensions": "composition and sheet: 21 1/4 \u00d7 23 7/8\" (54 \u00d7 60.6 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "10",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1983.1967",
+            "Copyright": "\u00a9 2023 Mario Avati / Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Associated work": "Tamarind Lithography Workshop Archive",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/5806"
+        "Profile": "https://www.moma.org/artists/246"
     },
     {
-        "Artist": "Dorothea Tanning",
-        "Title": "Dogs of Cythera",
-        "Year": "1963",
-        "ObjectID": "403605",
-        "Work": "https://www.moma.org/collection/works/403605",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUwMTYwOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8009fbfcc81ee4bd",
+        "Artist": "Mario Avati",
+        "Title": "Les Artichauts de Los Angeles",
+        "Year": "1967",
+        "ObjectID": "77845",
+        "Work": "https://www.moma.org/collection/works/77845",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5MTgzMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=966e77075f125296",
         "Details": {
-            "Medium": "Oil on canvas",
-            "Dimensions": "77 1/2 \u00d7 117\" (196.9 \u00d7 297.2 cm)",
-            "Credit": "Gift of Joan H. Tisch (by exchange)",
-            "Object number": "708.2019",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Department": "Painting and Sculpture"
+            "Medium": "Lithograph",
+            "Dimensions": "composition and sheet: 21 3/16 \u00d7 23 13/16\" (53.8 \u00d7 60.5 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1984.1967",
+            "Copyright": "\u00a9 2023 Mario Avati / Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/5806"
+        "Profile": "https://www.moma.org/artists/246"
     },
     {
-        "Artist": "Bob Thompson",
-        "Title": "Expulsion and Nativity",
-        "Year": "1963",
-        "ObjectID": "431729",
-        "Work": "https://www.moma.org/collection/works/431729",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNTM4MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cbcbe71edf29b6e1",
+        "Artist": "Richard Avedon",
+        "Title": "John Lennon",
+        "Year": "1967",
+        "ObjectID": "5324",
+        "Work": "https://www.moma.org/collection/works/5324",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyNzA1NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d04a7fa0aa79d9ff",
         "Details": {
-            "Medium": "Oil on canvas",
-            "Dimensions": "62 1/2 \u00d7 7' 3\" (158.8 \u00d7 221 cm)",
-            "Credit": "Committee on Painting and Sculpture Funds and gifts of Glenn and Eva Dubin, Anne and Joel Ehrenkranz, Agnes Gund, Marlene Hess and James D. Zirin, Marie-Jos\u00e9e and Henry R. Kravis, Jerry I. Speyer and Katherine G. Farley, The Sundheim Family Foundation, Sandra and Tony Tamer, Mimi Haas, The Black Arts Council, Ronnie F. Heyman, Pamela J. Joyner and Alfred J. Giuffrida, and the Hudgins Family in memory of Nancy Lane",
-            "Object number": "345.2022",
-            "Department": "Painting and Sculpture"
+            "Medium": "Offset lithograph",
+            "Dimensions": "31 x 22 1/2\" (78.8 x 57 cm)",
+            "Publisher": "Cowles Education Corporation",
+            "Credit": "Gift of the designer",
+            "Object number": "153.1988",
+            "Copyright": "\u00a9 2023 The Richard Avedon Foundation",
+            "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/5858"
+        "Profile": "https://www.moma.org/artists/248"
     },
     {
-        "Artist": "Jean Tinguely",
-        "Title": "Hannibal No.1",
-        "Year": "1963",
-        "ObjectID": "81371",
-        "Work": "https://www.moma.org/collection/works/81371",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0MTI1MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2b4a81ef51fcde64",
+        "Artist": "Richard Avedon",
+        "Title": "Ringo Starr",
+        "Year": "1967",
+        "ObjectID": "8740",
+        "Work": "https://www.moma.org/collection/works/8740",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDI3NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=df3e27374d259ef4",
         "Details": {
-            "Medium": "Painted metal, bicycle wheels, wheel hubs, chain, rubber belt, leather belt, and electric motors",
-            "Dimensions": "48\" x 44\" x 9' 2 1/2\" (121.9 x 111.7 x 280 cm)",
-            "Credit": "Gift of Robert Rauschenberg",
-            "Object number": "336.1989",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Department": "Painting and Sculpture"
+            "Medium": "Lithograph",
+            "Dimensions": "31 1/8 x 22 1/2\" (79.1 x 57.2 cm)",
+            "Publisher": "Cowles Education Corporation",
+            "Credit": "Gift of the designer",
+            "Object number": "1441.2000",
+            "Copyright": "\u00a9 2023 The Richard Avedon Foundation",
+            "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/5882"
+        "Profile": "https://www.moma.org/artists/248"
     },
     {
-        "Artist": "Yasunao Tone",
-        "Title": "Anagram for Strings",
-        "Year": "1961, announced 1963",
-        "ObjectID": "127570",
-        "Work": "https://www.moma.org/collection/works/127570",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0NjU2MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b73af5e0a07930ef",
+        "Artist": "Richard Avedon",
+        "Title": "Paul McCartney",
+        "Year": "1967",
+        "ObjectID": "8741",
+        "Work": "https://www.moma.org/collection/works/8741",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDI3OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ad8c8a80081128c3",
         "Details": {
-            "Medium": "Ink and typewriting on paper",
-            "Dimensions": "sheet: 8 1/4 x 11 5/8\" (21 x 29.6 cm)",
-            "Producer": "George Maciunas",
+            "Medium": "Lithograph",
+            "Dimensions": "31 1/8 x 22 1/2\" (79.1 x 57.2 cm)",
+            "Publisher": "Cowles Education Corporation",
+            "Credit": "Gift of the designer",
+            "Object number": "1442.2000",
+            "Copyright": "\u00a9 2023 The Richard Avedon Foundation",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/248"
+    },
+    {
+        "Artist": "Richard Avedon",
+        "Title": "George Harrison",
+        "Year": "1967",
+        "ObjectID": "8742",
+        "Work": "https://www.moma.org/collection/works/8742",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDI3OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=bf3bca6161cd0aee",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "31 1/8 x 22 1/2\" (79.1 x 57.2 cm)",
+            "Publisher": "Cowles Education Corporation",
+            "Credit": "Gift of the designer",
+            "Object number": "1443.2000",
+            "Copyright": "\u00a9 2023 The Richard Avedon Foundation",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/248"
+    },
+    {
+        "Artist": "Richard Avedon",
+        "Title": "Veruschka, dress by Bill Blass, New York",
+        "Year": "January 1967",
+        "ObjectID": "128627",
+        "Work": "https://www.moma.org/collection/works/128627",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NzYyNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=94fbd630d69b5cd9",
+        "Details": {
+            "Medium": "Gelatin silver print, printed 1981",
+            "Dimensions": "23 3/4 \u00d7 19 7/16\" (60.3 \u00d7 49.3 cm)",
+            "Credit": "The Photography Council Fund",
+            "Object number": "486.2009",
+            "Copyright": "\u00a9 2023 The Richard Avedon Foundation",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/248"
+    },
+    {
+        "Artist": "Ay-O",
+        "Title": "Announcement for Tactile Rainbow No. 6, Gallery 669, Los Angeles, November\u2013December 1967",
+        "Year": "1967",
+        "ObjectID": "135432",
+        "Work": "https://www.moma.org/collection/works/135432",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQyMzY0NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3ff70111b1480c40",
+        "Details": {
+            "Medium": "Mailed sack, crumpled offset lithograph, and letterpress card",
+            "Dimensions": "overall (sack, irreg.): 2 3/8 \u00d7 3 1/4\" (6 \u00d7 8.2 cm); overall (crumpled lithograph, irreg.): 3 9/16 \u00d7 5 7/8 \u00d7 2 3/8\" (9 \u00d7 15 \u00d7 6 cm); card: 2 \u00d7 3 1/2\" (5.1 \u00d7 8.9 cm)",
             "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
-            "Object number": "2737.2008",
-            "Copyright": "\u00a9 2023 Yasunao Tone",
+            "Object number": "4095.2008.a-c",
+            "Copyright": "\u00a9 2023 Ay-O",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/36959"
+        "Profile": "https://www.moma.org/artists/255"
     },
     {
-        "Artist": "Mario Toral",
-        "Title": "Totem",
-        "Year": "1963",
-        "ObjectID": "64636",
-        "Work": "https://www.moma.org/collection/works/64636",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMzIxMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0697896392984557",
+        "Artist": "Alice Baber",
+        "Title": "Sun Circuit",
+        "Year": "(1967)",
+        "ObjectID": "76425",
+        "Work": "https://www.moma.org/collection/works/76425",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNDA2MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=017d02a9bc3c8e04",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition  21 9/16 x 17 11/16\" (54.8 x 44.9 cm)\r\nsheet  21 9/16 x 17 11/16\" (54.8 x 44.9 cm)",
+            "Edition": "80",
+            "Credit": "Gift of Mr. Paul Jenkins",
+            "Object number": "1343.1968",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/265"
+    },
+    {
+        "Artist": "Libero Badii",
+        "Title": "He Vivido y Vivo",
+        "Year": "1966",
+        "ObjectID": "15756",
+        "Work": "https://www.moma.org/collection/works/15756",
+        "Thumbnail": null,
+        "Details": {
+            "Author": "Romualdo Brughetti",
+            "Medium": "Illustrated book with two inkless etchings with ink additions and one etching",
+            "Dimensions": "page  5 5/16 x 3 15/16\" (13 x 10 cm)\r\nPrints: various dimensions.",
+            "Publisher": "Libero Badii, Buenos Aires",
+            "Printer": "Imprenta Anzilotti, Buenos Aires",
+            "Edition": "25 (numbered 1-25)",
+            "Credit": "Inter-American Fund",
+            "Object number": "326.1969.1-3",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/278"
+    },
+    {
+        "Artist": "George Baldessin",
+        "Title": "Head Through Blind",
+        "Year": "1967",
+        "ObjectID": "66350",
+        "Work": "https://www.moma.org/collection/works/66350",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNzc2OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4bc2d08774797ffa",
         "Details": {
             "Medium": "Etching and aquatint",
-            "Dimensions": "plate: 24 x 14\" (61 x 35.5cm); sheet: 27 3/8 x 15 3/4\" (69.5 x 40cm)",
-            "Credit": "Inter-American Fund",
-            "Object number": "220.1964",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5903"
-    },
-    {
-        "Artist": "Rafael Tufino",
-        "Title": "The Bottle (La Botella)",
-        "Year": "1963",
-        "ObjectID": "63209",
-        "Work": "https://www.moma.org/collection/works/63209",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0OTQxMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cedd21c762a8de3c",
-        "Details": {
-            "Medium": "Screenprint",
-            "Dimensions": "composition: 24 3/16 x 18 7/8\" (61.5 x 48cm); sheet: 36 1/8 x 24\" (91.8 x 61cm)",
-            "Publisher": "Galeria Colibri, San Juan",
-            "Edition": "40",
-            "Credit": "Felipe Cossio del Pomar Fund",
-            "Object number": "147.1964",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5965"
-    },
-    {
-        "Artist": "Rafael Tufino",
-        "Title": "Tefo",
-        "Year": "1963",
-        "ObjectID": "63227",
-        "Work": "https://www.moma.org/collection/works/63227",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3NzU1MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fb12f770e41b3886",
-        "Details": {
-            "Medium": "Woodcut",
-            "Dimensions": "composition: 15 1/16 x 4\" (38.2 x 10.2 cm); sheet: 23 7/8 x 9\" (60.7 x 22.9 cm)",
-            "Credit": "Felipe Cossio del Pomar Fund",
-            "Object number": "148.1964",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5965"
-    },
-    {
-        "Artist": "Marko Turk",
-        "Title": "Microphone (model MD9)",
-        "Year": "1963",
-        "ObjectID": "3912",
-        "Work": "https://www.moma.org/collection/works/3912",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyOTc1NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=64d66a384f7e7d7b",
-        "Details": {
-            "Manufacturer": "Elektroakusticni Laboratorij, Ljubljana, Yugoslavia for Iskra, Kranj, Yugoslavia",
-            "Medium": "Chrome-plated and enameled metal",
-            "Dimensions": "8 1/2 x 4\" (21.6 x 10.2 cm)",
-            "Credit": "Gift of the manufacturer",
-            "Object number": "465.1964",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/5974"
-    },
-    {
-        "Artist": "Jack Tworkov",
-        "Title": "West 23rd",
-        "Year": "1963",
-        "ObjectID": "79358",
-        "Work": "https://www.moma.org/collection/works/79358",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1NjM0MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=14157cb49703677e",
-        "Details": {
-            "Medium": "Oil on canvas",
-            "Dimensions": "60 x 6' 8\" (152.6 x 203.3 cm)",
+            "Dimensions": "plate: 19 13/16 x 19 15/16\" (50.3 x 50.6  cm); sheet: 29 1/16 x 22 1/4\" (73.8 x 56.5  cm)",
             "Credit": "Purchase",
-            "Object number": "274.1963",
-            "Department": "Painting and Sculpture"
+            "Object number": "296.1973",
+            "Copyright": "\u00a9 2023 George Baldessin / Artists Rights Society (ARS), New York / VISCOPY, Australia",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/5989"
+        "Profile": "https://www.moma.org/artists/305"
     },
     {
-        "Artist": "Gunther Uecker",
-        "Title": "Chair (II)",
-        "Year": "1963",
-        "ObjectID": "195886",
-        "Work": "https://www.moma.org/collection/works/195886",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzMDg5NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=59d0b0fc047d7df1",
+        "Artist": "Michael Baldwin, Terry Atkinson",
+        "Title": "Map to Not Indicate...",
+        "Year": "1967",
+        "ObjectID": "75336",
+        "Work": "https://www.moma.org/collection/works/75336",
+        "Thumbnail": null,
         "Details": {
-            "Medium": "Chair, stretched canvas and nails",
-            "Dimensions": "34 1/4 \u00d7 18 1/2 \u00d7 17 3/4\" (87 \u00d7 47 \u00d7 45.1 cm)",
-            "Credit": "Promised gift of Leon and Debra Black in honor of David Rockefeller",
-            "Object number": "PG1013.2015",
-            "Department": "Painting and Sculpture"
+            "Medium": "Letterpress",
+            "Dimensions": "Composition: 11 x 13\" (27.9 x 33 cm)\r\nSheet: 19 11/16 x 24 5/8\" (50 x 62.5 cm)",
+            "Edition": "50 plus",
+            "Credit": "Gift of Donald Karshan",
+            "Object number": "1042.1979",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/5999"
+        "Profile": "https://www.moma.org/artists/21325"
     },
     {
-        "Artist": "Shoji Ueda",
-        "Title": "Snow Surface",
-        "Year": "c. 1958",
-        "ObjectID": "49401",
-        "Work": "https://www.moma.org/collection/works/49401",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1OTQ1NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ce3e05055c1da480",
+        "Artist": "McDonald (Mackey Jeffries) Bane",
+        "Title": "D-1-67",
+        "Year": "1967",
+        "ObjectID": "35879",
+        "Work": "https://www.moma.org/collection/works/35879",
+        "Thumbnail": null,
         "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "8 5/16 \u00d7 13 3/4\" (21.1 \u00d7 35 cm) and 27 9/16 \u00d7 38 1/8\" (70 \u00d7 96.8 cm)",
-            "Credit": "Gift of Nihon Keizai Shimbun",
-            "Object number": "241.1959.1-2",
+            "Medium": "Ink on paper",
+            "Dimensions": "18 3/4 x 24 1/8\" (47.6 x 61.1 cm)",
+            "Credit": "Given anonymously",
+            "Object number": "275.1968",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/320"
+    },
+    {
+        "Artist": "Micha Bar-Am",
+        "Title": "Palestinian Informers, West Bank",
+        "Year": "1967",
+        "ObjectID": "56329",
+        "Work": "https://www.moma.org/collection/works/56329",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MTM0NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=206b884519cd6317",
+        "Details": {
+            "Medium": "Gelatin silver print, printed 1985",
+            "Dimensions": "12 9/16 \u00d7 18 5/16\" (31.9 \u00d7 46.5 cm)",
+            "Credit": "Gift of Sanford and Lisa Ehrenkranz",
+            "Object number": "754.1998",
+            "Copyright": "\u00a9 2023 Micha Bar-Am",
             "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/6000"
+        "Profile": "https://www.moma.org/artists/8186"
     },
     {
-        "Artist": "Jerry Uelsmann",
-        "Title": "Room #1",
-        "Year": "1963",
-        "ObjectID": "55190",
-        "Work": "https://www.moma.org/collection/works/55190",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NzE1NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b0c099f193159a94",
+        "Artist": "Micha Bar-Am",
+        "Title": "Protest Demonstration, Mea Shearim, Jerusalem",
+        "Year": "1967",
+        "ObjectID": "56333",
+        "Work": "https://www.moma.org/collection/works/56333",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MTM0NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=daef5facc1347552",
         "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "9 \u00d7 13 1/2\" (22.9 \u00d7 34.3 cm)",
-            "Credit": "Purchase",
-            "Object number": "565.1973",
-            "Copyright": "\u00a9 2023 Jerry Uelsmann",
+            "Medium": "Gelatin silver print, printed 1998",
+            "Dimensions": "12 9/16 \u00d7 18 1/2\" (31.9 \u00d7 47 cm)",
+            "Credit": "Gift of Sanford and Lisa Ehrenkranz",
+            "Object number": "756.1998",
+            "Copyright": "\u00a9 2023 Micha Bar-Am",
             "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/6001"
+        "Profile": "https://www.moma.org/artists/8186"
     },
     {
-        "Artist": "Jerry Uelsmann",
-        "Title": "Allegorical Landscape",
-        "Year": "1963",
-        "ObjectID": "57352",
-        "Work": "https://www.moma.org/collection/works/57352",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NzE0NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1abdf0cfdf816916",
+        "Artist": "Rudolf Baranik",
+        "Title": "White-Out from Artists and Writers Protest against the War in Vietnam",
+        "Year": "1967",
+        "ObjectID": "32581",
+        "Work": "https://www.moma.org/collection/works/32581",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwNTcxNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0c8bade97a2c4c20",
         "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "10 1/2 \u00d7 13\" (26.7 \u00d7 33.0 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "948.1969",
-            "Copyright": "\u00a9 2023 Jerry Uelsmann",
-            "Department": "Photography"
+            "Medium": "Etching from a portfolio of nine screenprints (two with collage additions, one with die-cut, one with punched holes), six lithographs (one with embossing), and one etching",
+            "Dimensions": "plate (irreg.): 14 13/16 \u00d7 17 1/16\" (37.6 \u00d7 43.3 cm); sheet: 21 \u00d7 25 13/16\" (53.3 \u00d7 65.6 cm)",
+            "Publisher": "Artists and Writers Protest, Inc., New York",
+            "Edition": "100",
+            "Credit": "John B. Turner Fund",
+            "Object number": "2350.1967.1",
+            "Portfolio": "Artists and Writers Protest against the War in Vietnam",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/6001"
+        "Profile": "https://www.moma.org/artists/324"
     },
     {
-        "Artist": "Unidentified photographer",
-        "Title": "Untitled",
-        "Year": "1963",
-        "ObjectID": "141146",
-        "Work": "https://www.moma.org/collection/works/141146",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMyMjM5MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=38803b193d1685f4",
+        "Artist": "Rudolf Baranik, Paul Burlin, Charles Cajori, William Copley, Allan D'Arcangelo, Mark di Suvero, Leon Golub, Charles Hinman, Louise Nevelson, Irving Petlin, Ad Reinhardt, Jack Sonenberg, George Sugarman, Carol Summers, David Weinrib, Adja Yunkers, Various Artists",
+        "Title": "Artists and Writers Protest against the War in Vietnam",
+        "Year": "1966-67, published 1967",
+        "ObjectID": "32582",
+        "Work": "https://www.moma.org/collection/works/32582",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwNjI0NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4a764ac742fab27d",
         "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "3 9/16 \u00d7 3 9/16\" (9 \u00d7 9 cm)",
-            "Credit": "Gift of Peter J. Cohen",
-            "Object number": "714.2010",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/8595"
-    },
-    {
-        "Artist": "Various Artists",
-        "Title": "The Popular Image Exhibition",
-        "Year": "1963",
-        "ObjectID": "184333",
-        "Work": "https://www.moma.org/collection/works/184333",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM4MDU2MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=683f9fba7c9058b5",
-        "Details": {
-            "Medium": "12-inch vinyl record",
-            "Dimensions": "cover: 12 1/2 \u00d7 12 1/2\" (31.8 \u00d7 31.8 cm)",
-            "Publisher": "Washington Gallery of Modern Art",
-            "Credit": "Committee on Prints and Illustrated Books Fund",
-            "Object number": "854.2013.295",
-            "Associated work": "Steven Leiber Audio Collection",
+            "Collaborating artist": "Rudolf Baranik, Paul Burlin, Charles Cajori, William Copley, Allan D'Arcangelo, Mark di Suvero, Leon Golub, Charles Hinman, Louise Nevelson, Irving Petlin, Ad Reinhardt, Jack Sonenberg, George Sugarman, Carol Summers, David Weinrib, Adja Yunkers",
+            "Medium": "Portfolio of nine screenprints (two with collage additions, one with die-cut, one with punched holes), six lithographs (one with embossing), and one etching",
+            "Dimensions": "composition and sheet (see child records): dimensions vary",
+            "Publisher": "Artists and Writers Protest, Inc., New York",
+            "Printer": "Various Printers",
+            "Edition": "100",
+            "Credit": "John B. Turner Fund",
+            "Object number": "2350.1967.1-16",
+            "Type": "Portfolio",
             "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/24409"
     },
     {
-        "Artist": "Gene Vass",
+        "Artist": "Robert Barry",
         "Title": "Untitled",
-        "Year": "1963",
-        "ObjectID": "33027",
-        "Work": "https://www.moma.org/collection/works/33027",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3OTI5NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d5b6107c2ac2fc32",
+        "Year": "August 1967",
+        "ObjectID": "137429",
+        "Work": "https://www.moma.org/collection/works/137429",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5ODczNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=26da7ab9817f1e22",
         "Details": {
-            "Medium": "Ink on brown paper",
-            "Dimensions": "25 5/8 x 19 3/4\" (65.3 x 50.3 cm)",
-            "Credit": "Gift of Mrs. Donald B. Straus",
-            "Object number": "5.1964",
-            "Department": "Drawings and Prints"
+            "Medium": "Synthetic polymer paint on canvas on wood, in four parts",
+            "Dimensions": "Each wood square 3 x 3\" (7.6 x 7.6 cm), overall 60 x 60\" (152.4 x 152.4 cm)",
+            "Credit": "The Seth Siegelaub Collection. Gift of James Thrall Soby (by exchange)",
+            "Object number": "384.2010",
+            "Copyright": "\u00a9 2023 Robert Barry",
+            "Department": "Painting and Sculpture"
         },
-        "Profile": "https://www.moma.org/artists/6113"
+        "Profile": "https://www.moma.org/artists/352"
     },
     {
-        "Artist": "Ben Vautier",
-        "Title": "Poster for Sculpture vivante, Galerie d'Art Total, Nice",
-        "Year": "1959",
-        "ObjectID": "127571",
-        "Work": "https://www.moma.org/collection/works/127571",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5NDM0MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d495995ec2640510",
+        "Artist": "Georg Baselitz",
+        "Title": "Untitled",
+        "Year": "1967",
+        "ObjectID": "59579",
+        "Work": "https://www.moma.org/collection/works/59579",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyNzAzMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=63241deab50b0736",
+        "Details": {
+            "Medium": "Woodcut",
+            "Dimensions": "composition: 14 1/8 x 11 13/16\" (35.9 x 30cm); sheet: 16 1/16 x 12 15/16\" (40.8 x 32.8 cm)",
+            "Publisher": "Georg Baselitz, Osthofen, Germany",
+            "Printer": "Georg Baselitz, Osthofen, Germany",
+            "Edition": "proof before an edition of 20",
+            "Credit": "Gift of The Lauder Foundation",
+            "Object number": "1.1988",
+            "Copyright": "\u00a9 2023 Georg Baselitz",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/366"
+    },
+    {
+        "Artist": "Georg Baselitz",
+        "Title": "Herder (Hirte)",
+        "Year": "1965-66, published 1967",
+        "ObjectID": "102964",
+        "Work": "https://www.moma.org/collection/works/102964",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEwOTAzNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=51b27f6e9428b1fc",
+        "Details": {
+            "Medium": "Etching and drypoint",
+            "Dimensions": "plate: 12 5/8 x 9 3/8\" (32 x 23.8 cm); sheet (irreg.): 25 1/2 x 19 11/16\" (64.8 x 50 cm)",
+            "Publisher": "Edition Domberger, Stuttgart",
+            "Printer": "Georg Baselitz",
+            "Edition": "45",
+            "Credit": "Acquired in honor of Anna Marie Shapiro by the Committee on Prints and Illustrated Books in recognition of her tenure as Committee Chair",
+            "Object number": "482.2006",
+            "Copyright": "\u00a9 2023 Georg Baselitz",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/366"
+    },
+    {
+        "Artist": "Herbert Bayer",
+        "Title": "Bauhaus Ausstellung letterhead",
+        "Year": "1967",
+        "ObjectID": "198453",
+        "Work": "https://www.moma.org/collection/works/198453",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM3NTIzOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=24ed6d6332a507ad",
         "Details": {
             "Medium": "Letterpress",
-            "Dimensions": "sheet: 23 9/16 x 15 3/16\" (59.8 x 38.6 cm)",
-            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
-            "Object number": "2740.2008",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Department": "Drawings and Prints"
+            "Dimensions": "11 5/8 \u00d7 8 1/4\" (29.5 \u00d7 21 cm)",
+            "Credit": "Elaine Lustig Cohen Collection, gift of Lawrence Benenson and the Committee on Architecture and Design Funds",
+            "Object number": "1139.2015",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/6115"
+        "Profile": "https://www.moma.org/artists/399"
     },
     {
-        "Artist": "Ben Vautier",
-        "Title": "Ben Dieu - Art total sa revue",
-        "Year": "1962-63",
-        "ObjectID": "127577",
-        "Work": "https://www.moma.org/collection/works/127577",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5NDM0MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4f9388d30e613579",
+        "Artist": "Thomas Bayrle",
+        "Title": "Cups Wallpaper",
+        "Year": "1967",
+        "ObjectID": "134489",
+        "Work": "https://www.moma.org/collection/works/134489",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MDgyNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=28c98f90e37d8ead",
         "Details": {
-            "Medium": "Artist's book",
-            "Dimensions": "overall (closed): 12 3/8 \u00d7 9 \u00d7 13/16\" (31.4 \u00d7 22.9 \u00d7 2 cm)",
-            "Publisher": "Ben Vautier, Nice",
-            "Edition": "unknown",
-            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
-            "Object number": "2747.2008",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Medium": "Screenprinted wallpaper",
+            "Dimensions": "composition and sheet: 16 9/16 x 23 7/16\" (42.1 x 59.5 cm)",
+            "Publisher": "Thomas Bayrle, Frankfurt",
+            "Printer": "Klaus Menzel, Wiesbaden, Germany",
+            "Edition": "5",
+            "Credit": "Acquired through the generosity of The Contemporary Arts Council of The Museum of Modern Art and Linda Barth Goldstein Fund",
+            "Object number": "94.2010.a-b",
+            "Copyright": "\u00a9 2023 Thomas Bayrle / Artists Rights Society (ARS), New York / VG Bild-Kunst, Germany",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/6115"
+        "Profile": "https://www.moma.org/artists/402"
     },
     {
-        "Artist": "Ben Vautier",
-        "Title": "Disque de Musique Total",
-        "Year": "1963",
-        "ObjectID": "127580",
-        "Work": "https://www.moma.org/collection/works/127580",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0NDA3OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e3132413c4b3af32",
+        "Artist": "Irene Belknap",
+        "Title": "Pipe Dreams",
+        "Year": "1967",
+        "ObjectID": "200314",
+        "Work": "https://www.moma.org/collection/works/200314",
+        "Thumbnail": null,
         "Details": {
-            "Medium": "Letterpress on record jacket",
-            "Dimensions": "sheet: 7 5/16 x 7 1/16\" (18.5 x 18 cm)",
-            "Edition": "unknown",
-            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
-            "Object number": "2754.2008.1",
+            "Medium": "Lithograph",
+            "Dimensions": "35 1/8 \u00d7 23\" (89.2 \u00d7 58.4 cm)",
+            "Publisher": "East Totem West, Mill Valley, CA",
+            "Printer": "Orbit Graphic Arts",
+            "Credit": "Anonymous gift",
+            "Object number": "P1441",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/49396"
+    },
+    {
+        "Artist": "Mario Bellini",
+        "Title": "TCV 250 Video Display Terminal",
+        "Year": "1966",
+        "ObjectID": "3584",
+        "Work": "https://www.moma.org/collection/works/3584",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMTM0MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=bc2d2443c2924e7e",
+        "Details": {
+            "Manufacturer": "Ing. C. Olivetti & C. S.p.A., Ivrea, Italy",
+            "Medium": "Sheet steel and vacuum-cast ABS plastic",
+            "Dimensions": "36 7/8 x 36 1/16 x 22\" (93.7 x 91.6 x 55.9 cm)",
+            "Credit": "Gift of the manufacturer",
+            "Object number": "434.1983",
+            "Copyright": "\u00a9 2023 Mario Bellini",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/451"
+    },
+    {
+        "Artist": "Mario Bellini",
+        "Title": "P203 Micro-Computer",
+        "Year": "1966",
+        "ObjectID": "3822",
+        "Work": "https://www.moma.org/collection/works/3822",
+        "Thumbnail": null,
+        "Details": {
+            "Manufacturer": "Olivetti Underwood Corporation, New York, NY",
+            "Medium": "ABS polymer casing",
+            "Dimensions": "36 1/4 x 36 1/4 x 22\" (92.1 x 92 x 55.9 cm)",
+            "Credit": "Gift of Olivetti Underwood, Corp., New York, NY",
+            "Object number": "453.1970",
+            "Copyright": "\u00a9 2023 Mario Bellini",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/451"
+    },
+    {
+        "Artist": "Larry Bell",
+        "Title": "Shadows",
+        "Year": "1967",
+        "ObjectID": "80973",
+        "Work": "https://www.moma.org/collection/works/80973",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwODIzNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=14d4098b8d1338c8",
+        "Details": {
+            "Medium": "Partially silvered glass with chromium frame",
+            "Dimensions": "14 1/4\" x 14 1/4\" x 14 1/4\" (36.2 x 36.2 x 36.2 cm)",
+            "Credit": "Gift of the artist (by exchange)",
+            "Object number": "116.1967",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/444"
+    },
+    {
+        "Artist": "Hans Bellmer",
+        "Title": "Mode d'emploi",
+        "Year": "1967.  (Prints executed 1953).",
+        "ObjectID": "28386",
+        "Work": "https://www.moma.org/collection/works/28386",
+        "Thumbnail": null,
+        "Details": {
+            "Author": "Hans Bellmer",
+            "Medium": "Illustrated book with seven engravings, two with aquatint",
+            "Dimensions": "page (irreg.): 9 1/16 x 6 5/16\" (23 x 16 cm)",
+            "Publisher": "\u00c9ditions Georges Visat, Paris",
+            "Printer": "\u00c9ditions Georges Visat & Cie., Paris",
+            "Edition": "165 (150 numbered 1-150; 15 numbered I-XV reserved for collaborators and deposit copy)",
+            "Credit": "Celeste and Armand Bartos Foundation Fund",
+            "Object number": "927.1969.1-14",
             "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/6115"
+        "Profile": "https://www.moma.org/artists/452"
     },
     {
-        "Artist": "Ben Vautier",
-        "Title": "Signing certificates, performed during Fluxus Festival of Total Art and Comportment, Flea market, Nice, July 25, 1963",
-        "Year": "1963",
-        "ObjectID": "127581",
-        "Work": "https://www.moma.org/collection/works/127581",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NjI4NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=960bdce899dd80dd",
+        "Artist": "Lynda Benglis",
+        "Title": "Embryo II",
+        "Year": "1967",
+        "ObjectID": "105739",
+        "Work": "https://www.moma.org/collection/works/105739",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1NjM2NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=16de312d35904d25",
+        "Details": {
+            "Medium": "Purified and pigmented beeswax, damar resin, and gesso on masonite",
+            "Dimensions": "36 1/8 x 6 x 5 1/8\" (91.8 x 15.2 x 13 cm)",
+            "Credit": "Gift of Agnes Gund",
+            "Object number": "691.2006",
+            "Copyright": "\u00a9 2023 Lynda Benglis / Licensed by VAGA, New York, NY",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/471"
+    },
+    {
+        "Artist": "Gordon Bennett",
+        "Title": "Colma",
+        "Year": "1967",
+        "ObjectID": "51948",
+        "Work": "https://www.moma.org/collection/works/51948",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMzYxNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=91a85b6adf3bc4d5",
         "Details": {
             "Medium": "Gelatin silver print",
-            "Dimensions": "image: 7 1/2 x 7 1/2\" (19.1 x 19.1 cm); sheet: 9 15/16 x 8\" (25.3 x 20.3 cm)",
-            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
-            "Object number": "2565.2008.2",
-            "Copyright": "\u00a9 2023 George Maciunas",
-            "Department": "Drawings and Prints"
+            "Dimensions": "6 1/2 \u00d7 9 1/2\" (16.5 \u00d7 24.1 cm)",
+            "Credit": "Purchase",
+            "Object number": "370.1968",
+            "Copyright": "\u00a9 2023 Gordon Bennett / Artists Rights Society (ARS), New York / VISCOPY, Australia",
+            "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/6115"
+        "Profile": "https://www.moma.org/artists/475"
     },
     {
-        "Artist": "Ben Vautier",
-        "Title": "Art Total",
-        "Year": "1963",
-        "ObjectID": "127586",
-        "Work": "https://www.moma.org/collection/works/127586",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxOTAwNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1fabe43b15974a3c",
+        "Artist": "Wallace Berman",
+        "Title": "Untitled",
+        "Year": "1967",
+        "ObjectID": "62229",
+        "Work": "https://www.moma.org/collection/works/62229",
+        "Thumbnail": null,
         "Details": {
-            "Medium": "Letterpress",
-            "Dimensions": "sheet: 16 5/8 x 13 11/16\" (42.3 x 34.8 cm)",
-            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
-            "Object number": "2752.2008.x1-x2",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Medium": "Verifax collage in four sections, with transfer type additions",
+            "Dimensions": "composition  12 x 12 15/16\" (30.5 x 32.9 cm)\r\nsheet  12 x 12 15/16\" (30.5 x 32.9 cm)\r\nFrame:  12 3/4 x 13 3/4\" (32.4 x 34.9 cm)",
+            "Edition": "unknown",
+            "Credit": "John B. Turner Fund",
+            "Object number": "122.1975",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/6115"
+        "Profile": "https://www.moma.org/artists/505"
     },
     {
-        "Artist": "Ben Vautier",
-        "Title": "Signing certificates, performed during Fluxus Festival of Total Art and Comportment, Flea market, Nice, July 25, 1963",
-        "Year": "1963",
-        "ObjectID": "128295",
-        "Work": "https://www.moma.org/collection/works/128295",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NDgxNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d245da3ebb547e49",
+        "Artist": "Wallace Berman",
+        "Title": "Untitled",
+        "Year": "1967",
+        "ObjectID": "62248",
+        "Work": "https://www.moma.org/collection/works/62248",
+        "Thumbnail": null,
         "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "image: 19 1/16 x 18 7/8\" (48.4 x 47.9 cm); sheet: 23 7/8 x 19 7/8\" (60.7 x 50.5 cm)",
-            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
-            "Object number": "2565.2008.1.x1-x2",
-            "Copyright": "\u00a9 2023 George Maciunas",
+            "Medium": "Verifax collage in four sections, with transfer type additions",
+            "Dimensions": "composition  12 x 12 15/16\" (30.5 x 32.9 cm)\r\nsheet  12 x 12 15/16\" (30.5 x 32.9 cm)\r\nFrame:  12 3/4 x 13 3/4\" (32.4 x 34.9 cm)",
+            "Edition": "Unknown",
+            "Credit": "John B. Turner Fund",
+            "Object number": "123.1975",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/6115"
+        "Profile": "https://www.moma.org/artists/505"
+    },
+    {
+        "Artist": "Jose Ygnacio Bermudez",
+        "Title": "Winter Drawing 1967",
+        "Year": "1967",
+        "ObjectID": "37035",
+        "Work": "https://www.moma.org/collection/works/37035",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ4MDA2NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1f890c92ca6cbd0b",
+        "Details": {
+            "Medium": "Incised paper with synthetic polymer paint and pencil on paper",
+            "Dimensions": "29 7/8 x 21 7/8\" (75.6 x 55.4 cm)",
+            "Credit": "Inter-American Fund",
+            "Object number": "462.1967",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/508"
+    },
+    {
+        "Artist": "Jeff Berner",
+        "Title": "Fluxbook",
+        "Year": "1967",
+        "ObjectID": "128032",
+        "Work": "https://www.moma.org/collection/works/128032",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3MjkyNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cb13513aa930792c",
+        "Details": {
+            "Medium": "Plastic box with offset label, containing varnished offset pages",
+            "Dimensions": "overall (closed): 3 15/16 x 4 11/16 x 3/8\" (10 x 11.9 x 1 cm)",
+            "Designer": "George Maciunas",
+            "Publisher": "Fluxus",
+            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
+            "Object number": "2058.2008",
+            "Copyright": "\u00a9 2023 Jeff Berner",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/37000"
+    },
+    {
+        "Artist": "Jeff Berner",
+        "Title": "Flyer for Aktual Art International, San Francisco Museum of Art, May 2\u201321, 1967",
+        "Year": "1967",
+        "ObjectID": "131429",
+        "Work": "https://www.moma.org/collection/works/131429",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQwNDI2NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=374ecb77ea717933",
+        "Details": {
+            "Medium": "Offset lithograph",
+            "Dimensions": "sheet: 8 11/16 x 6 5/8\" (22.1 x 16.8 cm)",
+            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
+            "Object number": "4255.2008",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/37000"
+    },
+    {
+        "Artist": "Jeff Berner",
+        "Title": "Poster for Aktual Art International, San Francisco Museum of Art, May 2\u201321, 1967",
+        "Year": "1967",
+        "ObjectID": "131430",
+        "Work": "https://www.moma.org/collection/works/131430",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQyNzA3NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9f8766b12a1f5c9a",
+        "Details": {
+            "Medium": "Offset lithograph",
+            "Dimensions": "sheet: 17 1/2 x 14 1/2\" (44.5 x 36.8 cm)",
+            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
+            "Object number": "4256.2008",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/37000"
+    },
+    {
+        "Artist": "Jeff Berner",
+        "Title": "Fluxbook",
+        "Year": "1967",
+        "ObjectID": "131899",
+        "Work": "https://www.moma.org/collection/works/131899",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzNjU3NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f121a9320b7e5e3a",
+        "Details": {
+            "Medium": "Plastic box with offset label, containing varnished offset pages",
+            "Dimensions": "overall (closed): 3 15/16 x 4 11/16 x 3/8\" (10 x 11.9 x 1 cm)",
+            "Designer": "George Maciunas",
+            "Publisher": "Fluxus",
+            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
+            "Object number": "3422.2008",
+            "Copyright": "\u00a9 2023 Jeff Berner",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/37000"
     }
 ]

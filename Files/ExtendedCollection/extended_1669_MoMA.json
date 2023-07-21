@@ -1,874 +1,811 @@
 [
     {
-        "Artist": "Lewis Wickes Hine",
-        "Title": "Russian Steel Workers, Homestead, Pennsylvania",
-        "Year": "1909",
-        "ObjectID": "85934",
-        "Work": "https://www.moma.org/collection/works/85934",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMDM4NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4d82b0da910b30b5",
+        "Artist": "Dziga Vertov",
+        "Title": "Chelovek s kinoapparatom (Man with a Movie Camera)",
+        "Year": "1929",
+        "ObjectID": "303131",
+        "Work": "https://www.moma.org/collection/works/303131",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzOTE0MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7c9d1f9bb40e5fd2",
         "Details": {
-            "Medium": "Gelatin silver print, printed 1942",
-            "Dimensions": "4 5/8 \u00d7 6 5/8\" (11.7 \u00d7 16.8 cm)",
-            "Credit": "Purchase",
-            "Object number": "394.1942.3",
-            "Department": "Photography"
+            "Object number": "W964",
+            "Department": "Film"
         },
-        "Profile": "https://www.moma.org/artists/2657"
+        "Profile": "https://www.moma.org/artists/24575"
     },
     {
-        "Artist": "Lewis Wickes Hine",
-        "Title": "King Manufacturing Co., Augusta, Georgia",
-        "Year": "January 14, 1909",
-        "ObjectID": "168495",
-        "Work": "https://www.moma.org/collection/works/168495",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3MTkwMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e1b82ed6b462929e",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "4 5/8 \u00d7 6 5/8\" (11.8 \u00d7 16.8 cm)",
-            "Credit": "Gift of Herbert Weller",
-            "Object number": "462.2013",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/2657"
-    },
-    {
-        "Artist": "Lewis Wickes Hine",
-        "Title": "Tampa Cigar Box Factory",
-        "Year": "January 1909",
-        "ObjectID": "168496",
-        "Work": "https://www.moma.org/collection/works/168496",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3MTkwMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cf9d31b728ae8374",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "4 11/16 \u00d7 6 5/8\" (11.9 \u00d7 16.9 cm)",
-            "Credit": "Gift of Herbert Weller",
-            "Object number": "463.2013",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/2657"
-    },
-    {
-        "Artist": "Lewis Wickes Hine",
-        "Title": "Phoenix Mill, Phoenix, Rhode Island",
-        "Year": "April 1909",
-        "ObjectID": "168497",
-        "Work": "https://www.moma.org/collection/works/168497",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3MTkwMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f571b34d2569f4ea",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "4 3/4 \u00d7 6 5/8\" (12 \u00d7 16.9 cm)",
-            "Credit": "Gift of Herbert Weller",
-            "Object number": "464.2013",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/2657"
-    },
-    {
-        "Artist": "Lewis Wickes Hine",
-        "Title": "Great Falls Manufacturing Co., Somersworth, New Hampshire",
-        "Year": "May 1909",
-        "ObjectID": "168498",
-        "Work": "https://www.moma.org/collection/works/168498",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3MTkwNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=781d96da7c3967c0",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "4 9/16 \u00d7 6 5/8\" (11.6 \u00d7 16.9 cm)",
-            "Credit": "Gift of Herbert Weller",
-            "Object number": "465.2013",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/2657"
-    },
-    {
-        "Artist": "Ludwig Hohlwein",
-        "Title": "Damenconfectionhaus, Mayer Sundheimer",
-        "Year": "1909",
-        "ObjectID": "6709",
-        "Work": "https://www.moma.org/collection/works/6709",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyNDEyMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ef40653e486af218",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "49 1/4 x 35 7/8\" (125.1 x 91.1 cm)",
-            "Printer": "G. Schuh & Cie, M\u00fcnchen",
-            "Credit": "Gift of The Lauder Foundation, Leonard and Evelyn Lauder Fund",
-            "Object number": "424.1985",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/2700"
-    },
-    {
-        "Artist": "Ludwig Hohlwein",
-        "Title": "Wilhelm Mozer",
-        "Year": "1909",
-        "ObjectID": "7534",
-        "Work": "https://www.moma.org/collection/works/7534",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMTY1MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ede2987786e63c36",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "49 1/4 x 34 3/8\" (125.1 x 87.3 cm)",
-            "Printer": "G. Schuh & Cie, M\u00fcnchen",
-            "Credit": "Gift of Peter M\u00fcller-Munk",
-            "Object number": "561.1943",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/2700"
-    },
-    {
-        "Artist": "Ludwig Hohlwein",
-        "Title": "Max Zechbauer. K. Hofl",
-        "Year": "1909",
-        "ObjectID": "7541",
-        "Work": "https://www.moma.org/collection/works/7541",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwOTA4NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=29e3c57b03063ce0",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "49 1/8 x 36\" (124.6 x 91.2 cm)",
-            "Printer": "Kunstanstalt Graphia G.m.b.H. M\u00fcnchen",
-            "Credit": "Gift of Peter M\u00fcller-Munk",
-            "Object number": "563.1943",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/2700"
-    },
-    {
-        "Artist": "Ludwig Hohlwein",
-        "Title": "Munchener Zeitung",
-        "Year": "1909",
-        "ObjectID": "86508",
-        "Work": "https://www.moma.org/collection/works/86508",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjYzODI0Il0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNTEyeDUxMlx1MDAzZSJdXQ.jpg?sha=bd3d5118d38c29c2",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "35 7/16 x 48 1/16\" (90 x 122 cm)",
-            "Printer": "Vereinigte Druckereien u. Kunstanstalten G.m.b.H.",
-            "Credit": "Gift of Alan and Susan Patricof",
-            "Object number": "263.2002",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/2700"
-    },
-    {
-        "Artist": "Enrico Imoda",
-        "Title": "Seance of February 26, 1909",
-        "Year": "1909",
-        "ObjectID": "135038",
-        "Work": "https://www.moma.org/collection/works/135038",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNDY5MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c9012a044e9780e9",
-        "Details": {
-            "Medium": "Gelatin silver print, printed 1912 by G. Simoni",
-            "Dimensions": "4 9/16 \u00d7 6 7/16\" (11.6 \u00d7 16.4 cm)",
-            "Credit": "Samuel J. Wagstaff, Jr. Fund",
-            "Object number": "359.2010",
-            "Copyright": "\u00a9 2023 Enrico Imoda",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/38037"
-    },
-    {
-        "Artist": "Vasily Kandinsky",
-        "Title": "The Archer (Bogenschutze) (plate facing page 14) from Onze Peintres (Eleven Painters): Taeuber, Kandinsky, Leuppi, Vordemberge, Arp, Delaunay, Schwitters, Kiesler, Morris, Magnelli, Ernst",
-        "Year": "1949 (executed 1908-1909, reprinted posthumously).",
-        "ObjectID": "16423",
-        "Work": "https://www.moma.org/collection/works/16423",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyOTU3NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6ee0c8838a6503ef",
-        "Details": {
-            "Author": "Jean (Hans) Arp",
-            "Medium": "Woodcut from an illustrated book with four woodcuts (including wrapper)",
-            "Dimensions": "composition: 6 1/2 x 6\" (16.5 x 15.3 cm); page: 9 7/16 x 8 1/16\" (24 x 20.5 cm)",
-            "Publisher": "Editions Girsberger, Zurich",
-            "Printer": "Art Institut Orell F\u00fcssli A.G., Zurich",
-            "Edition": "1400 (200 numbered 1-200 with woodcuts; 1200)",
-            "Credit": "Purchase Fund",
-            "Object number": "375.1951.2",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/2981"
-    },
-    {
-        "Artist": "Vasily Kandinsky",
-        "Title": "Church at Murnau (Kirche in Murnau)",
-        "Year": "1909",
-        "ObjectID": "36284",
-        "Work": "https://www.moma.org/collection/works/36284",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NDM3MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e9fdcaae93189605",
-        "Details": {
-            "Medium": "Oil on board",
-            "Dimensions": "19 1/8 x 27 1/2\" (48.6 x 69.8 cm)",
-            "Credit": "Purchase",
-            "Object number": "321.1950",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/2981"
-    },
-    {
-        "Artist": "Vasily Kandinsky",
-        "Title": "Rock (Membership Card for the New Artists' Association Munich) [Felsen (Mitgliedskarte fur die Neue Kunstlervereinigung Munchen)]",
-        "Year": "(1908-1909)",
-        "ObjectID": "60583",
-        "Work": "https://www.moma.org/collection/works/60583",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNDgwMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=914d36226c2efb2c",
-        "Details": {
-            "Medium": "Woodcut",
-            "Dimensions": "composition: 5 9/16 x 5 11/16\" (14.2 x 14.5 cm); sheet: 6 5/16 x 6 1/2\" (16 x 16.5 cm); mount: 9 1/2 x 9 7/16\" (24.2 x 23.9 cm)",
-            "Publisher": "Neue K\u00fcnstlervereinigung M\u00fcnchen",
-            "Printer": "F. Bruckmann A.G., Munich",
-            "Edition": "1909 edition: 100 [this ex.], plus 3 known proofs and 6 trial proofs; 1912 edition (without lettering) in the periodical Der Sturm, vol. 3, no. 129 (October 1912): unknown; Posthumous 1968 edition (without lettering) in the illustrated book Vassily Kandinsky, Po\u00e8mes: 100",
-            "Credit": "Louise Reinhardt Smith Bequest",
-            "Object number": "35.1996",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/2981"
-    },
-    {
-        "Artist": "Vasily Kandinsky",
-        "Title": "Frontcover (Landscape with Figure and Phoenix) from Xylographs (Xylographies)",
-        "Year": "1909 (executed 1907)",
-        "ObjectID": "78182",
-        "Work": "https://www.moma.org/collection/works/78182",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzNDkwNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0548ec8501a184d0",
-        "Details": {
-            "Medium": "One from a portfolio of eight heliogravures after woodcuts (including front cover, back cover and title page)",
-            "Dimensions": "composition: 1 3/4 x 3 7/8\" (4.5 x 9.9 cm); sheet: 12 5/8 x 12 5/8\" (32 x 32 cm)",
-            "Publisher": "Tendances Nouvelles, Paris",
-            "Printer": "Unidentified",
-            "Edition": "1000; plus one known hand-printed woodcut proof",
-            "Credit": "Gift of Nina Kandinsky",
-            "Object number": "2454.1967.1",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Portfolio": "Xylographies (Xylographs)",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/2981"
-    },
-    {
-        "Artist": "Vasily Kandinsky",
-        "Title": "Xylographies (Xylographs)",
-        "Year": "1909 (prints executed 1907)",
-        "ObjectID": "78183",
-        "Work": "https://www.moma.org/collection/works/78183",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzNDkwNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0548ec8501a184d0",
-        "Details": {
-            "Medium": "Portfolio of eight heliogravures after woodcuts (including front cover, back cover and title page)",
-            "Dimensions": "composition (see child records); sheet: 12 5/8 x 12 5/8\" (32 x 32 cm)",
-            "Publisher": "Tendances Nouvelles, Paris",
-            "Printer": "Unidentified",
-            "Edition": "1000",
-            "Credit": "Gift of Nina Kandinsky",
-            "Object number": "2454.1967.1-8",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Type": "Portfolio",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/2981"
-    },
-    {
-        "Artist": "Vasily Kandinsky",
-        "Title": "Title page (Flame) from Xylographs (Xylographies)",
-        "Year": "1909 (executed 1907)",
-        "ObjectID": "78184",
-        "Work": "https://www.moma.org/collection/works/78184",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzNDkwOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e561423f890bb6dc",
-        "Details": {
-            "Medium": "One from a portfolio of eight heliogravures after woodcuts (including front cover, back cover and title page)",
-            "Dimensions": "composition: 3 1/8 x 4 5/16\" (7.9 x 11 cm); sheet: 12 5/8 x 12 5/8\" (32 x 32 cm)",
-            "Publisher": "Tendances Nouvelles, Paris",
-            "Printer": "Unidentified",
-            "Edition": "1000; plus one known hand-printed woodcut proof on \"Japan\" paper",
-            "Credit": "Gift of Nina Kandinsky",
-            "Object number": "2454.1967.2",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Portfolio": "Xylographies (Xylographs)",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/2981"
-    },
-    {
-        "Artist": "Vasily Kandinsky",
-        "Title": "The Knights (Les Chevaliers) from Xylographs (Xylographies)",
-        "Year": "1909 (executed 1907)",
-        "ObjectID": "78185",
-        "Work": "https://www.moma.org/collection/works/78185",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzNDkwOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9f7918a685d78487",
-        "Details": {
-            "Medium": "One from a portfolio of eight heliogravures after woodcuts (including front cover, back cover and title page)",
-            "Dimensions": "composition: 5 5/8 x 5 11/16\" (14.3 x 14.5 cm); sheet: 12 5/8 x 12 5/8\" (32 x 32 cm)",
-            "Publisher": "Tendances Nouvelles, Paris",
-            "Printer": "Unidentified",
-            "Edition": "1000; plus 3 known hand-printed woodcut proofs on \"Japan\" paper",
-            "Credit": "Gift of Nina Kandinsky",
-            "Object number": "2454.1967.3",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Portfolio": "Xylographies (Xylographs)",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/2981"
-    },
-    {
-        "Artist": "Vasily Kandinsky",
-        "Title": "The Birds (Les Oiseaux) from Xylographs (Xylographies)",
-        "Year": "1909 (executed 1907)",
-        "ObjectID": "78186",
-        "Work": "https://www.moma.org/collection/works/78186",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzNDkxMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a432efc1d19d33a5",
-        "Details": {
-            "Medium": "One from a portfolio of eight heliogravures after woodcuts (including front cover, back cover and title page)",
-            "Dimensions": "composition: 5 3/8 x 5 11/16\" (13.7 x 14.5 cm); sheet: 12 5/8 x 12 5/8\" (32 x 32 cm)",
-            "Publisher": "Tendances Nouvelles, Paris",
-            "Printer": "Unidentified",
-            "Edition": "1000; plus an unknown number in two brochures for Xylographs (machine-printed from the original woodblock); an unknown number in the periodical Les Tendances Nouvelles vol. 4, no. 49 (1909) (machine-printed from the original woodblock); and three known hand-printed woodcut proofs before the editions",
-            "Credit": "Gift of Nina Kandinsky",
-            "Object number": "2454.1967.4",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Portfolio": "Xylographies (Xylographs)",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/2981"
-    },
-    {
-        "Artist": "Vasily Kandinsky",
-        "Title": "The Church (L'Eglise) from Xylographs (Xylographies)",
-        "Year": "1909 (executed 1907)",
-        "ObjectID": "78187",
-        "Work": "https://www.moma.org/collection/works/78187",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzNDk2NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ba00db1afcb741ff",
-        "Details": {
-            "Medium": "One from a portfolio of eight heliogravures after woodcuts (including front cover, back cover and title page)",
-            "Dimensions": "composition: 5 1/4 x 5 11/16\" (13.3 x 14.5 cm); sheet: 12 5/8 x 12 5/8\" (32 x 32 cm)",
-            "Publisher": "Tendances Nouvelles, Paris",
-            "Printer": "Unidentified",
-            "Edition": "1000; plus an unknown number in the periodical Les Tendances Nouvelles vol. 4, no. 40 (January 1909) (machine-printed from the original woodblock) and in the periodical Der Sturm, vol. 3, no. 129 (October 1912) (machine-printed from the original woodblock); plus three known woodcut proofs",
-            "Credit": "Gift of Nina Kandinsky",
-            "Object number": "2454.1967.5",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Portfolio": "Xylographies (Xylographs)",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/2981"
-    },
-    {
-        "Artist": "Vasily Kandinsky",
-        "Title": "The Birch Trees (Les Bouleaux) from Xylographs (Xylographies)",
-        "Year": "1909 (executed 1907)",
-        "ObjectID": "78188",
-        "Work": "https://www.moma.org/collection/works/78188",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzNDk2NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a887f18a3f6efad0",
-        "Details": {
-            "Medium": "One from a portfolio of eight heliogravures after woodcuts (including front cover, back cover and title page)",
-            "Dimensions": "composition: 4 5/16 x 6 1/4\" (11 x 15.9 cm); sheet: 12 5/8 x 12 5/8\" (32 x 32 cm)",
-            "Publisher": "Tendances Nouvelles, Paris",
-            "Printer": "Unidentified",
-            "Edition": "1000; plus an unknown number in the periodical Les Tendances Nouvelles vol. 4, no. 49 (1909) (machine-printed from the original woodblock); an unknown number in the periodical Der Sturm, vol. 3, no. 129 (October 1912) (machine-printed from the original woodblock); and 2 known hand-printed woodcut proofs",
-            "Credit": "Gift of Nina Kandinsky",
-            "Object number": "2454.1967.6",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Portfolio": "Xylographies (Xylographs)",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/2981"
-    },
-    {
-        "Artist": "Vasily Kandinsky",
-        "Title": "The Women in the Woods (Les Femmes aux Bois) from Xylographs (Xylographies)",
-        "Year": "1909 (executed 1907)",
-        "ObjectID": "78189",
-        "Work": "https://www.moma.org/collection/works/78189",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNDIzNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2d4ec5cdda8cfee9",
-        "Details": {
-            "Medium": "One from a portfolio of eight heliogravures after woodcuts (including front cover, back cover and title page)",
-            "Dimensions": "composition: 5 13/16 x 7 5/8\" (14.8 x 19.4 cm); sheet: 12 5/8 x 12 5/8\" (32 x 32 cm)",
-            "Publisher": "Tendances Nouvelles, Paris",
-            "Printer": "Unidentified",
-            "Edition": "1000; plus an unknown number in the periodical Les Tendances Nouvelles vol. 4, no. 46 (July 1908) (machine-printed from the original woodblock); and three known hand-printed woodcut proofs before the editions",
-            "Credit": "Gift of Nina Kandinsky",
-            "Object number": "2454.1967.7",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Portfolio": "Xylographies (Xylographs)",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/2981"
-    },
-    {
-        "Artist": "Vasily Kandinsky",
-        "Title": "Back cover (Hills, Trees, Clouds and Figure) from Xylographs (Xylographies)",
-        "Year": "1909 (executed 1907)",
-        "ObjectID": "78190",
-        "Work": "https://www.moma.org/collection/works/78190",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzNTEwOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3b41a454478cbd8a",
-        "Details": {
-            "Medium": "One from a portfolio of eight heliogravures after woodcuts (including front cover, back cover and title page)",
-            "Dimensions": "composition: 1 7/16 x 2 11/16\" (3.7 x 6.9 cm); sheet: 12 3/4 x 12 3/4\" (32.4 x 32.4 cm)",
-            "Publisher": "Tendances Nouvelles, Paris",
-            "Printer": "Unidentified",
-            "Edition": "1000; plus 345 in the illustrated book Kl\u00e4nge (1913) (printed from original woodblock); and two known hand-printed woodcut proofs (one used as letterhead for a letter to Alfred Kubin 29 April 1910)",
-            "Credit": "Gift of Nina Kandinsky",
-            "Object number": "2454.1967.8",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Portfolio": "Xylographies (Xylographs)",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/2981"
-    },
-    {
-        "Artist": "Vasily Kandinsky",
-        "Title": "Picture with an Archer",
-        "Year": "1909",
-        "ObjectID": "80104",
-        "Work": "https://www.moma.org/collection/works/80104",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwNDMyNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e239a869f8644cc0",
-        "Details": {
-            "Medium": "Oil on canvas",
-            "Dimensions": "68 7/8 x 57 3/8\" (175 x 144.6 cm)",
-            "Credit": "Gift and bequest of Louise Reinhardt Smith",
-            "Object number": "619.1959",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/2981"
-    },
-    {
-        "Artist": "Darius Kinsey",
-        "Title": "Two nine-foot firs showing the stumps from which they were felled; bucker with saw, axe, etc. appearing on the scene",
-        "Year": "1909",
-        "ObjectID": "82497",
-        "Work": "https://www.moma.org/collection/works/82497",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMDY1MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=265aadb4dfd94045",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "10 1/4 \u00d7 13 3/8\" (26 \u00d7 33.9 cm)",
-            "Credit": "Anonymous gift",
-            "Object number": "1586.2001",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/3110"
-    },
-    {
-        "Artist": "Ernst Ludwig Kirchner",
-        "Title": "Seated Woman with Hat (Sitzende mit Hut)",
-        "Year": "1908-09",
-        "ObjectID": "34549",
-        "Work": "https://www.moma.org/collection/works/34549",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExMzQ3NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=eb461f72c9ebae46",
-        "Details": {
-            "Medium": "Charcoal on paper",
-            "Dimensions": "23 1/2 x 19 1/2\" (59.7 x 49.6 cm)",
-            "Credit": "L-B Foundation Fund",
-            "Object number": "132.1965",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/3115"
-    },
-    {
-        "Artist": "Ernst Ludwig Kirchner",
-        "Title": "Three Bathers at the Moritzburg Lakes (Drei Badende an den Moritzburger Seen) from Brucke 1910",
-        "Year": "1909, published 1910",
-        "ObjectID": "64661",
-        "Work": "https://www.moma.org/collection/works/64661",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyMjgzNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3c1162c7fd136c6b",
-        "Details": {
-            "Medium": "Drypoint from a portfolio of two woodcuts, one drypoint, and one woodcut cover",
-            "Dimensions": "composition: 7 1/16 x 8 1/8\" (17.9 x 20.6 cm); sheet: 15 3/4 x 21 1/8\" (40 x 53.7 cm)",
-            "Publisher": "K\u00fcnstlergruppe Br\u00fccke, Dresden",
-            "Printer": "Carl Sabo, Berlin",
-            "Edition": "unknown (approx. 70)",
-            "Credit": "Riva Castleman Endowment Fund, The Philip and Lynn Straus Foundation Fund, Frances Keech Fund, and by exchange: Nina and Gordon Bunshaft Bequest, Gift of James Thrall Soby, Anonymous, J. B. Neumann, and Victor S. Riesenfeld, acquired through the Lillie P. Bliss Bequest (by exchange), and Abby Aldrich Rockefeller Fund",
-            "Object number": "221.1997.2",
-            "Portfolio": "Br\u00fccke 1910 Portfolio (Br\u00fccke 1910 Jahresmappe)",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/3115"
-    },
-    {
-        "Artist": "Ernst Ludwig Kirchner",
-        "Title": "Dancer with Raised Skirt (Tanzerin mit gehobenem Rock) from Brucke 1910",
-        "Year": "1909, published 1910",
-        "ObjectID": "64662",
-        "Work": "https://www.moma.org/collection/works/64662",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyMDA1NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=53ae16ef4d83f673",
-        "Details": {
-            "Medium": "Woodcut from a portfolio of two woodcuts, one drypoint, and one woodcut cover",
-            "Dimensions": "composition (irreg.): 9 15/16 \u00d7 13 9/16\" (25.2 \u00d7 34.5 cm); sheet: 15 3/4 \u00d7 21 1/4\" (40 \u00d7 54 cm)",
-            "Publisher": "K\u00fcnstlergruppe Br\u00fccke, Dresden",
-            "Printer": "Ernst Ludwig Kirchner, Dresden",
-            "Edition": "unknown (approx. 70); plus several T.P.",
-            "Credit": "Riva Castleman Endowment Fund, The Philip and Lynn Straus Foundation Fund, Frances Keech Fund, and by exchange: Nina and Gordon Bunshaft Bequest, Gift of James Thrall Soby, Anonymous, J. B. Neumann, and Victor S. Riesenfeld, acquired through the Lillie P. Bliss Bequest (by exchange), and Abby Aldrich Rockefeller Fund",
-            "Object number": "221.1997.3",
-            "Portfolio": "Br\u00fccke 1910 Portfolio (Br\u00fccke 1910 Jahresmappe)",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/3115"
-    },
-    {
-        "Artist": "Ernst Ludwig Kirchner",
-        "Title": "Bathers Throwing Reeds (Mit Schilf werfende Badende) from Brucke 1910",
-        "Year": "1909, published 1910",
-        "ObjectID": "64663",
-        "Work": "https://www.moma.org/collection/works/64663",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyMDA4MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c964bffe6d3d3048",
-        "Details": {
-            "Medium": "Woodcut from a portfolio of two woodcuts, one drypoint, and one woodcut cover",
-            "Dimensions": "composition (irreg.): 7 15/16 \u00d7 11 9/16\" (20.2 \u00d7 29.3 cm); sheet: 15 7/8 \u00d7 21 1/4\" (40.3 \u00d7 54 cm)",
-            "Publisher": "K\u00fcnstlergruppe Br\u00fccke, Dresden",
-            "Printer": "Ernst Ludwig Kirchner, Dresden",
-            "Edition": "unknown (approx. 70)",
-            "Credit": "Riva Castleman Endowment Fund, The Philip and Lynn Straus Foundation Fund, Frances Keech Fund, and by exchange: Nina and Gordon Bunshaft Bequest, Gift of James Thrall Soby, Anonymous, J. B. Neumann, and Victor S. Riesenfeld, acquired through the Lillie P. Bliss Bequest (by exchange), and Abby Aldrich Rockefeller Fund",
-            "Object number": "221.1997.4",
-            "Portfolio": "Br\u00fccke 1910 Portfolio (Br\u00fccke 1910 Jahresmappe)",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/3115"
-    },
-    {
-        "Artist": "Ernst Ludwig Kirchner",
-        "Title": "The Blue House in the Potholder District (Das Blaue Haus im Topflappenviertel)",
-        "Year": "(1909)",
-        "ObjectID": "65606",
-        "Work": "https://www.moma.org/collection/works/65606",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExOTMzMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=84569e989563ea01",
+        "Artist": "Jacques Villon",
+        "Title": "Student reading (Ecoliere lisant)",
+        "Year": "1929",
+        "ObjectID": "69388",
+        "Work": "https://www.moma.org/collection/works/69388",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3NzgyNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=345f9d6c39f67e2a",
         "Details": {
             "Medium": "Etching",
-            "Dimensions": "Plate: 12 1/16 x 15 11/16\" (30.6 x 39.8 cm)\r\nSheet: 13 3/4 x 17 3/8\" (35 x 44.1 cm)",
-            "Publisher": "unpublished",
-            "Printer": "Ernst Ludwig Kirchner, Dresden",
-            "Edition": "4 known impressions",
-            "Credit": "Larry Aldrich Fund",
-            "Object number": "267.1952",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/3115"
-    },
-    {
-        "Artist": "Ernst Ludwig Kirchner",
-        "Title": "Streetcar Passengers (Passagiere in der Strassenbahn)",
-        "Year": "(1908)",
-        "ObjectID": "67146",
-        "Work": "https://www.moma.org/collection/works/67146",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExOTMzNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8517bc43bd7c127a",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "composition (irreg.): 15 15/16 x 13 1/8\" (40.5 x 33.3 cm); sheet: 18 9/16 x 14 1/2\" (47.1 x 36.8 cm)",
-            "Publisher": "unpublished",
-            "Printer": "Ernst Ludwig Kirchner, Dresden",
-            "Edition": "5 known impressions",
-            "Credit": "Purchase",
-            "Object number": "335.1951",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/3115"
-    },
-    {
-        "Artist": "Ernst Ludwig Kirchner",
-        "Title": "Nude Dancers (Nackte Tanzerinnen)",
-        "Year": "1909",
-        "ObjectID": "67181",
-        "Work": "https://www.moma.org/collection/works/67181",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyMDA3OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=059b1da72d8b57fd",
-        "Details": {
-            "Medium": "Woodcut",
-            "Dimensions": "composition (irreg.): 14 3/8 x 21\" (36.5 x 53.4 cm); sheet (irreg.): 16 7/8 x 26 7/16\" (42.8 x 67.2 cm)",
-            "Publisher": "unpublished",
-            "Printer": "Ernst Ludwig Kirchner, Dresden",
-            "Edition": "7 known impressions",
-            "Credit": "Purchase",
-            "Object number": "337.1951",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/3115"
-    },
-    {
-        "Artist": "Ernst Ludwig Kirchner",
-        "Title": "Nude Girl in the Bath (Nacktes Madchen im Bad)",
-        "Year": "(1909)",
-        "ObjectID": "72395",
-        "Work": "https://www.moma.org/collection/works/72395",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExOTM1NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2ad2e84b2ac3e18e",
-        "Details": {
-            "Medium": "Woodcut",
-            "Dimensions": "composition: 11 1/4 x 13 9/16\" (28.5 x 34.5 cm); sheet: 14 1/2 x 16 11/16\" (36.8 x 42.4 cm)",
-            "Publisher": "unpublished",
-            "Printer": "Ernst Ludwig Kirchner, Dresden",
-            "Edition": "5 known impressions",
-            "Credit": "Purchase",
-            "Object number": "642.1956",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/3115"
-    },
-    {
-        "Artist": "Paul Klee",
-        "Title": "Still Life with Four Apples (Stilleben mit vier Fruchten in Schale vor dunkelgrunem Grunde)",
-        "Year": "1909",
-        "ObjectID": "33358",
-        "Work": "https://www.moma.org/collection/works/33358",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NDM2OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=65cf7efc64839054",
-        "Details": {
-            "Medium": "Oil and gouache on board",
-            "Dimensions": "13 1/2 x 11 1/8\" (34.3 x 28.2 cm)",
-            "Credit": "Gift of Mr. and Mrs. Peter A. R\u00fcbel",
-            "Object number": "27.1957",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/3130"
-    },
-    {
-        "Artist": "Paul Klee",
-        "Title": "Quarry at Ostermundigen (Steinbruch Ostermundigen)",
-        "Year": "1909",
-        "ObjectID": "35208",
-        "Work": "https://www.moma.org/collection/works/35208",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzNTE4MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5f6371949b092fbb",
-        "Details": {
-            "Medium": "Ink on paper on board",
-            "Dimensions": "9 1/8 x 12 1/8\" (23.2 x 30.8 cm)",
-            "Credit": "Mr. and Mrs. Werner E. Josten Fund",
-            "Object number": "195.1955",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/3130"
-    },
-    {
-        "Artist": "Paul Klee",
-        "Title": "The Friends (Die Freundinnen)",
-        "Year": "1909",
-        "ObjectID": "36676",
-        "Work": "https://www.moma.org/collection/works/36676",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NjYyMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=df383c4df3c81eff",
-        "Details": {
-            "Medium": "Ink on monotype on board",
-            "Dimensions": "9 3/8 x 12 5/8\" (23.8 x 32.1 cm)",
-            "Credit": "Alva Gimbel Fund",
-            "Object number": "402.1970",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/3130"
-    },
-    {
-        "Artist": "Oskar Kokoschka",
-        "Title": "Pieta (Poster for Murderer, Hope of Women)",
-        "Year": "1909",
-        "ObjectID": "6395",
-        "Work": "https://www.moma.org/collection/works/6395",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMTY3NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f32c3198f9f4a45a",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "Sheet: 48 5/16 x 30 15/16\" (122.7 x 78.6 cm)",
-            "Publisher": "Internationale Kunstschau, Vienna",
-            "Printer": "Albert Berger, Vienna, Vienna",
-            "Credit": "Purchase",
-            "Object number": "343.1966",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / Pro Litteris, Zurich",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/3197"
-    },
-    {
-        "Artist": "Oskar Kokoschka",
-        "Title": "Nude with Back Turned (In den Huften nach links gedrehter weiblicher Ruckenakt) (recto); Untitled (verso)",
-        "Year": "1909",
-        "ObjectID": "37311",
-        "Work": "https://www.moma.org/collection/works/37311",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2ODY3NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b1a3a17db2cefc3f",
-        "Details": {
-            "Medium": "Ink, gouache, and chalk on paper (recto); Ink, gouache, crayon and graphite on paper (verso)",
-            "Dimensions": "17 3/4 x 12 3/8\" (45.1 x 31.4 cm)",
-            "Credit": "Rose Gershwin Fund",
-            "Object number": "549.1954.a-b",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / Pro Litteris, Zurich",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/3197"
-    },
-    {
-        "Artist": "Oskar Kokoschka",
-        "Title": "Hans Tietze and Erica Tietze-Conrat",
-        "Year": "1909",
-        "ObjectID": "80190",
-        "Work": "https://www.moma.org/collection/works/80190",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNzMyMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7e4750563c869f90",
-        "Details": {
-            "Medium": "Oil on canvas",
-            "Dimensions": "30 1/8 x 53 5/8\" (76.5 x 136.2 cm)",
-            "Credit": "Abby Aldrich Rockefeller Fund",
-            "Object number": "651.1939",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / Pro Litteris, Zurich",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/3197"
-    },
-    {
-        "Artist": "Oskar Kokoschka",
-        "Title": "Doctor Emma Veronika Sanders",
-        "Year": "1909",
-        "ObjectID": "80707",
-        "Work": "https://www.moma.org/collection/works/80707",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1MTE1MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9150de185417570e",
-        "Details": {
-            "Medium": "Oil on canvas",
-            "Dimensions": "32 5/8 x 22 3/8\" (82.7 x 56.7 cm)",
-            "Credit": "Gift of Mr. and Mrs. William Mazer",
-            "Object number": "2414.1967",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / Pro Litteris, Zurich",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/3197"
-    },
-    {
-        "Artist": "Kathe Kollwitz",
-        "Title": "Self-Portrait en Face (Selbstbildnis en face)",
-        "Year": "c.1904",
-        "ObjectID": "427550",
-        "Work": "https://www.moma.org/collection/works/427550",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNDgyMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1bb40b7e9c594769",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "Sheet: 18 7/8 \u00d7 13 3/8\" (47.9 \u00d7 34 cm)",
-            "Publisher": "unpublished",
-            "Printer": "probably K\u00e4the Kollwitz",
-            "Edition": "one of 12 known impressions",
-            "Credit": "Jointly owned by The Museum of Modern Art, New York (The Abby Aldrich Rockefeller Endowment for Prints, and gift of Jack Shear, Marlene Hess and James D. Zirin, Alice and Tom Tisch [in honor of Marlene Hess], Kathy and Richard S. Fuld, Jr., Emily Rauh Pulitzer, Maud I. Welles, Ronnie Heyman [in honor of Marlene Hess], and Carol and Morton Rapp) and Neue Galerie New York (Gift of Jo Carole and Ronald S. Lauder)",
-            "Object number": "371.2021",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/3201"
-    },
-    {
-        "Artist": "Frantisek Kupka",
-        "Title": "Prometheus",
-        "Year": "(1909)",
-        "ObjectID": "36018",
-        "Work": "https://www.moma.org/collection/works/36018",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMDk4NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=672f734a7511e681",
-        "Details": {
-            "Medium": "Gouache, watercolor, ink, and pencil on paper",
-            "Dimensions": "11 3/8 x 8 3/4\" (29.0 x 22.3 cm)",
-            "Credit": "Gift in honor of Myron Orlofsky",
-            "Object number": "288.1978",
+            "Dimensions": "plate: 10 15/16 x 8 3/4\" (27.8 x 22.3 cm); sheet: 15 3/4 x 11 7/8\" (40 x 30.1 cm)",
+            "Edition": "50",
+            "Credit": "Acquired through the Lillie P. Bliss Bequest (by exchange)",
+            "Object number": "455.1949",
             "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/3302"
+        "Profile": "https://www.moma.org/artists/6165"
     },
     {
-        "Artist": "William H. Martin",
-        "Title": "A Load of Good Iowa Apples",
-        "Year": "1909",
-        "ObjectID": "110098",
-        "Work": "https://www.moma.org/collection/works/110098",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMzQ5NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ad60bc2caa6540a6",
+        "Artist": "Jacques Villon",
+        "Title": "Head of a Young Girl (Tete de fillette)",
+        "Year": "1929",
+        "ObjectID": "69463",
+        "Work": "https://www.moma.org/collection/works/69463",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3NzgyNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=60af454315f2d5a8",
+        "Details": {
+            "Medium": "Etching",
+            "Dimensions": "plate: 10 13/16 x 10 1/4\" (27.5 x 26 cm); sheet: 15 13/16 x 12\" (40.2 x 30.5 cm)",
+            "Edition": "50",
+            "Credit": "Larry Aldrich Fund",
+            "Object number": "460.1954",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6165"
+    },
+    {
+        "Artist": "Maurice de Vlaminck",
+        "Title": "The Mill on the Naze (Le Moulin de la Naze) from Essai dur l'histoire de la lithographie en France. Les Peintures lithographes de Manet a Matisse. Album de lithographies originales.",
+        "Year": "c. 1924",
+        "ObjectID": "63651",
+        "Work": "https://www.moma.org/collection/works/63651",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMzk4NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cac94061c782ab5b",
+        "Details": {
+            "Medium": "Lithograph from a portfolio of 16 lithographs",
+            "Dimensions": "composition: 6 15/16 \u00d7 10 1/2\" (17.6 \u00d7 26.7 cm); sheet: 10 13/16 \u00d7 14 3/8\" (27.4 \u00d7 36.5 cm)",
+            "Publisher": "Edmond Frapier, Paris, Galerie des Peintres-Graveurs, Paris",
+            "Edition": "525",
+            "Credit": "Purchase Fund",
+            "Object number": "175.1949.4",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Portfolio": "Essai dur l'histoire de la lithographie en France. Les Peintures lithographes de Manet \u00e0 Matisse. Album de lithographies originales.",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6177"
+    },
+    {
+        "Artist": "Friedrich Vordemberge-Gildewart",
+        "Title": "Gruppe K",
+        "Year": "c. 1924",
+        "ObjectID": "7725",
+        "Work": "https://www.moma.org/collection/works/7725",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Letterpress",
+            "Dimensions": "4 7/8 x 6 3/16\" (12.4 x 15.7 cm)",
+            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
+            "Object number": "608.1977",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/6189"
+    },
+    {
+        "Artist": "Friedrich Vordemberge-Gildewart",
+        "Title": "Leni Matthaei D.W.B",
+        "Year": "c. 1924",
+        "ObjectID": "8710",
+        "Work": "https://www.moma.org/collection/works/8710",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDEyNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4e3f35545e627ed7",
+        "Details": {
+            "Medium": "Letterpress",
+            "Dimensions": "11 5/8 x 8 1/4\" (29.5 x 21 cm)",
+            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
+            "Object number": "1218.1999",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/6189"
+    },
+    {
+        "Artist": "Andreas Walser",
+        "Title": "Photogram",
+        "Year": "1929",
+        "ObjectID": "84078",
+        "Work": "https://www.moma.org/collection/works/84078",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMzA0OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a2ec0b96aa55a663",
         "Details": {
             "Medium": "Gelatin silver print",
-            "Dimensions": "3 7/16 \u00d7 5 7/16\" (8.8 \u00d7 13.8 cm)",
-            "Credit": "Gift of Charles Isaacs in memory of John Szarkowski",
-            "Object number": "619.2007",
+            "Dimensions": "7 \u00d7 9 3/8\" (17.8 \u00d7 23.8 cm)",
+            "Credit": "Thomas Walther Collection. Gift of Thomas Walther",
+            "Object number": "1897.2001",
             "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/32897"
+        "Profile": "https://www.moma.org/artists/24602"
     },
     {
-        "Artist": "Henri Matisse",
-        "Title": "Standing Woman Seen from Behind. Study for The Back (I)",
-        "Year": "1909",
-        "ObjectID": "33306",
-        "Work": "https://www.moma.org/collection/works/33306",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MTk1OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a690ce5d56462bb3",
+        "Artist": "Edward Weston",
+        "Title": "Oak, Monterey County",
+        "Year": "1929",
+        "ObjectID": "53138",
+        "Work": "https://www.moma.org/collection/works/53138",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNzk4OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7968339a3f38bfea",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "7 7/16 \u00d7 9 3/8\" (18.9 \u00d7 23.8 cm)",
+            "Credit": "Gift of David H. McAlpin",
+            "Object number": "420.1956",
+            "Copyright": "\u00a9 Center for Creative Photography, Arizona Board of Regents / Artists Rights Society (ARS), New York",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/6329"
+    },
+    {
+        "Artist": "Edward Weston",
+        "Title": "Eroded Rock, Point Lobos",
+        "Year": "1929",
+        "ObjectID": "58474",
+        "Work": "https://www.moma.org/collection/works/58474",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwOTY2NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=26a9e0d2caf302cb",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "7 9/16 \u00d7 9 1/2\" (19.2 \u00d7 24.2 cm)",
+            "Credit": "Gift of David H. McAlpin",
+            "Object number": "1891.1968",
+            "Copyright": "\u00a9 Center for Creative Photography, Arizona Board of Regents / Artists Rights Society (ARS), New York",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/6329"
+    },
+    {
+        "Artist": "Edward Weston",
+        "Title": "Cypress, Point Lobos",
+        "Year": "1929",
+        "ObjectID": "58497",
+        "Work": "https://www.moma.org/collection/works/58497",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwOTY4NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b5c241de00d8ee3a",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "7 1/2 \u00d7 9 3/8\" (19 \u00d7 23.8 cm)",
+            "Credit": "Gift of David H. McAlpin",
+            "Object number": "1914.1968",
+            "Copyright": "\u00a9 Center for Creative Photography, Arizona Board of Regents / Artists Rights Society (ARS), New York",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/6329"
+    },
+    {
+        "Artist": "Edward Weston",
+        "Title": "Point Lobos",
+        "Year": "1929",
+        "ObjectID": "58499",
+        "Work": "https://www.moma.org/collection/works/58499",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwOTY4OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8c9c004384776e9c",
+        "Details": {
+            "Medium": "Gelatin silver print, printed c. 1953",
+            "Dimensions": "7 1/16 \u00d7 9 1/4\" (18 \u00d7 23.6 cm)",
+            "Credit": "Gift of David H. McAlpin",
+            "Object number": "1916.1968",
+            "Copyright": "\u00a9 Center for Creative Photography, Arizona Board of Regents / Artists Rights Society (ARS), New York",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/6329"
+    },
+    {
+        "Artist": "Hendrikus Th. Wijdeveld",
+        "Title": "Internationale, Economisch-Historische, Tentoonstelling",
+        "Year": "1929",
+        "ObjectID": "6054",
+        "Work": "https://www.moma.org/collection/works/6054",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyNjc0MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8071609e25cc453b",
+        "Details": {
+            "Medium": "Letterpress",
+            "Dimensions": "25 x 19 1/4\" (63.5 x 48.9 cm)",
+            "Printer": "Druk de Bussy, Amsterdam",
+            "Credit": "Leonard and Evelyn Lauder Fund",
+            "Object number": "281.1986",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/6363"
+    },
+    {
+        "Artist": "Sven Wingquist",
+        "Title": "Self-Aligning Ball Bearing",
+        "Year": "1907",
+        "ObjectID": "2682",
+        "Work": "https://www.moma.org/collection/works/2682",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMDcwMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5a44955adf6553e6",
+        "Details": {
+            "Manufacturer": "S.K.F. Industries, Inc., Hartford, CT",
+            "Medium": "Chrome-plated steel",
+            "Dimensions": "1 3/4 x 8 1/2\" (4.4 x 21.6 cm)",
+            "Credit": "Gift of the manufacturer",
+            "Object number": "211.1934",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/6394"
+    },
+    {
+        "Artist": "Frank Lloyd Wright",
+        "Title": "San Marcos-in-the-Desert Resort, Chandler, Arizona",
+        "Year": "1928-1929",
+        "ObjectID": "999",
+        "Work": "https://www.moma.org/collection/works/999",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Urethane foam, acrylic, metal, plastic, brass, and paint",
+            "Dimensions": "25 x 128 x 48\" (63.5 x 325.1 x 121.9 cm)",
+            "Model maker": "Environ Architectural Modelbuilders Inc., Tempe, AZ",
+            "Credit": "Purchase",
+            "Object number": "227.1994",
+            "Copyright": "\u00a9 2023 Frank Lloyd Wright Foundation / Artists Rights Society (ARS), New York",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/6459"
+    },
+    {
+        "Artist": "Frank Lloyd Wright",
+        "Title": "St. Mark's Tower project, New York, NY (Model)",
+        "Year": "1927-1929",
+        "ObjectID": "161770",
+        "Work": "https://www.moma.org/collection/works/161770",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM4MTU0OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=888939999453e880",
+        "Details": {
+            "Medium": "Painted wood and cardboard",
+            "Dimensions": "53 x 16 x 16\" (134.6 x 40.6 x 40.6 cm)",
+            "Credit": "The Frank Lloyd Wright Foundation Archives (The Museum of Modern Art | Avery Architectural & Fine Arts Library, Columbia University, New York)",
+            "Object number": "1845.2012",
+            "Copyright": "\u00a9 2023 Frank Lloyd Wright Foundation / Artists Rights Society (ARS), New York",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/6459"
+    },
+    {
+        "Artist": "Frank Lloyd Wright",
+        "Title": "New Theatre Project, Woodstock, NY",
+        "Year": "1929",
+        "ObjectID": "161771",
+        "Work": "https://www.moma.org/collection/works/161771",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Painted wood, plexiglas, and glass beads",
+            "Dimensions": "13 x 60 x 48\" (33 x 152.4 x 121.9 cm)",
+            "Credit": "The Frank Lloyd Wright Foundation Archives (The Museum of Modern Art | Avery Architectural & Fine Arts Library, Columbia University, New York)",
+            "Object number": "1846.2012",
+            "Copyright": "\u00a9 2023 Frank Lloyd Wright Foundation / Artists Rights Society (ARS), New York",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/6459"
+    },
+    {
+        "Artist": "Vasyl Yermilov, Anatol' Petryts'kyi",
+        "Title": "Radians'kii teatr (The Soviet Theater), no. 1",
+        "Year": "1929",
+        "ObjectID": "16650",
+        "Work": "https://www.moma.org/collection/works/16650",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Journal with one letterpress illustration and letterpress cover",
+            "Dimensions": "page (each): 9 5/16 x 7\" (23.7 x 17.8 cm)",
+            "Publisher": "Proletar, Kharkov",
+            "Edition": "unknown",
+            "Credit": "Gift of The Judith Rothschild Foundation",
+            "Object number": "392.2001",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/23519"
+    },
+    {
+        "Artist": "Kirill Zdanevich",
+        "Title": "Study for Tribun Poetov (Tribune of Poets)",
+        "Year": "1929",
+        "ObjectID": "14373",
+        "Work": "https://www.moma.org/collection/works/14373",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NDgxOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=78a6d0822d82e1b1",
+        "Details": {
+            "Medium": "Gouache on paper",
+            "Dimensions": "sheet: 8 3/4 x 13 3/8\" (22.3 x 34 cm)",
+            "Publisher": "Unidentified, Moscow",
+            "Credit": "Gift of The Judith Rothschild Foundation",
+            "Object number": "262.2001",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/11875"
+    },
+    {
+        "Artist": "Kirill Zdanevich",
+        "Title": "Neizdannyi Khlebnikov, no. 13",
+        "Year": "1929",
+        "ObjectID": "91287",
+        "Work": "https://www.moma.org/collection/works/91287",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDY4NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=016f5f0401908485",
+        "Details": {
+            "Author": "Velimir Khlebnikov",
+            "Medium": "Cover with lithographed illustration and manuscript design by Kirill Zdanevich on front; lithographed manuscript and typed text",
+            "Dimensions": "Page: 6 15/16 x 8 11/16\" (17.6 x 22.1 cm)",
+            "Publisher": "Gruppa druzei Khlebnikova, Moscow",
+            "Edition": "130",
+            "Credit": "Gift of The Judith Rothschild Foundation",
+            "Object number": "406.2001.L",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/11875"
+    },
+    {
+        "Artist": "Eva Zeisel",
+        "Title": "Lidded vessel",
+        "Year": "1929",
+        "ObjectID": "216917",
+        "Work": "https://www.moma.org/collection/works/216917",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Glazed earthenware",
+            "Dimensions": "4 \u00d7 4 3/8\" (10.2 \u00d7 11.1 cm)",
+            "Credit": "Committee on Architecture and Design Funds",
+            "Object number": "264.2017.a-b",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/6556"
+    },
+    {
+        "Artist": "Eva Zeisel",
+        "Title": "Lidded vessel",
+        "Year": "1929",
+        "ObjectID": "219584",
+        "Work": "https://www.moma.org/collection/works/219584",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Glazed ceramic",
+            "Dimensions": "3 7/8 \u00d7 3 1/4\" (9.8 \u00d7 8.3 cm)",
+            "Credit": "Committee on Architecture and Design Funds",
+            "Object number": "265.2017.a-b",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/6556"
+    },
+    {
+        "Artist": "Christian Zervos",
+        "Title": "Envelope addressed to Jean Badovici",
+        "Year": "1920s",
+        "ObjectID": "198610",
+        "Work": "https://www.moma.org/collection/works/198610",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0Mjg4NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8b55c24613310248",
+        "Details": {
+            "Medium": "Ink on paper envelope",
+            "Dimensions": "3 1/4 \u00d7 6 3/8\" (8.3 \u00d7 16.2 cm)",
+            "Credit": "Elaine Lustig Cohen Collection, gift of Lawrence Benenson and the Committee on Architecture and Design Funds",
+            "Object number": "1494.2015",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/11348"
+    },
+    {
+        "Artist": "Willy Zielke",
+        "Title": "Glass (Study)",
+        "Year": "1929",
+        "ObjectID": "83962",
+        "Work": "https://www.moma.org/collection/works/83962",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMzA1NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=14aeca99e5dabbc5",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "9 5/16 \u00d7 6 15/16\" (23.6 \u00d7 17.7 cm)",
+            "Credit": "Thomas Walther Collection. Abbott-Levy Collection funds, by exchange",
+            "Object number": "1919.2001",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/24580"
+    },
+    {
+        "Artist": "Marguerite Zorach",
+        "Title": "Red Dahlia",
+        "Year": "1929",
+        "ObjectID": "77085",
+        "Work": "https://www.moma.org/collection/works/77085",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NDc0NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b54f0e2af0e2e6d4",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition: 14 9/16 x 8\" (37 x 20.4 cm); sheet (irreg): 21 3/4 x 15 3/4\" (55 x 40.1 cm)",
+            "Publisher": "probably Marguerite Zorach",
+            "Printer": "probably Marguerite Zorach",
+            "Edition": "50",
+            "Credit": "Gift of Abby Aldrich Rockefeller",
+            "Object number": "1531.1940",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6581"
+    },
+    {
+        "Artist": "Marguerite Zorach",
+        "Title": "Cat and Flowers",
+        "Year": "1929",
+        "ObjectID": "77087",
+        "Work": "https://www.moma.org/collection/works/77087",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NDc0NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c4e59312caf03f86",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition: 18 1/4 \u00d7 13 9/16\" (46.4 \u00d7 34.5 cm); sheet: 20 5/8 \u00d7 15 7/8\" (52.4 \u00d7 40.3 cm)",
+            "Publisher": "probably Marguerite Zorach",
+            "Printer": "probably Marguerite Zorach",
+            "Edition": "50",
+            "Credit": "Gift of Abby Aldrich Rockefeller",
+            "Object number": "1532.1940",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6581"
+    },
+    {
+        "Artist": "Piet Zwart",
+        "Title": "Brochure for Scheveningen Radio (PCH)",
+        "Year": "1928-1929",
+        "ObjectID": "7733",
+        "Work": "https://www.moma.org/collection/works/7733",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMDQ1NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f9c8f456775fdd67",
+        "Details": {
+            "Medium": "Letterpress",
+            "Dimensions": "11 11/16 x 16 9/16\" (29.7 x 42.2 cm)",
+            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
+            "Object number": "610.1977",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / PICTORIGHT, Amsterdam",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/6592"
+    },
+    {
+        "Artist": "Piet Zwart",
+        "Title": "NKF: Nederl. Kabelfabriek Delft",
+        "Year": "c. 1924",
+        "ObjectID": "7745",
+        "Work": "https://www.moma.org/collection/works/7745",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMDQ1OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=278067d383495a54",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "10 3/4 x 7 13/16\" (27.4 x 19.8 cm)",
+            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
+            "Object number": "613.1977",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / PICTORIGHT, Amsterdam",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/6592"
+    },
+    {
+        "Artist": "Piet Zwart",
+        "Title": "Ook Post Van U? (Advertisement for the Netherlands Postal Service)",
+        "Year": "1929",
+        "ObjectID": "7866",
+        "Work": "https://www.moma.org/collection/works/7866",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMTQxNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5206701ccf7e542c",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "8 3/8 x 6\" (21.1 x 15 cm)",
+            "Credit": "Peter Stone Poster Fund",
+            "Object number": "658.1981",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / PICTORIGHT, Amsterdam",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/6592"
+    },
+    {
+        "Artist": "Piet Zwart",
+        "Title": "Hollandsch Kunstweefhuis",
+        "Year": "c.1924",
+        "ObjectID": "7868",
+        "Work": "https://www.moma.org/collection/works/7868",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMTQxNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a53860d9d87849a4",
+        "Details": {
+            "Medium": "Letterpress",
+            "Dimensions": "11 x 8 1/16\" (28 x 20.5 cm)",
+            "Credit": "Peter Stone Poster Fund",
+            "Object number": "659.1981",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / PICTORIGHT, Amsterdam",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/6592"
+    },
+    {
+        "Artist": "Piet Zwart",
+        "Title": "Piet Zwart letterhead",
+        "Year": "1920s",
+        "ObjectID": "198771",
+        "Work": "https://www.moma.org/collection/works/198771",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Letterpress",
+            "Dimensions": "11 1/2 \u00d7 8 3/8\" (29.2 \u00d7 21.3 cm)",
+            "Credit": "Elaine Lustig Cohen Collection, gift of Lawrence Benenson and the Committee on Architecture and Design Funds",
+            "Object number": "1524.2015",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/6592"
+    },
+    {
+        "Artist": "Berenice Abbott",
+        "Title": "James Joyce",
+        "Year": "1928",
+        "ObjectID": "43904",
+        "Work": "https://www.moma.org/collection/works/43904",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4NTU2NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=405ac629274317a7",
+        "Details": {
+            "Sitter": "James Joyce",
+            "Medium": "Gelatin silver print",
+            "Dimensions": "13 7/16 \u00d7 10 3/8\" (34.2 \u00d7 26.4 cm)",
+            "Credit": "Stephen R. Currier Memorial Fund",
+            "Object number": "5.1971",
+            "Copyright": "\u00a9 2023 Estate of Berenice Abbott",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/41"
+    },
+    {
+        "Artist": "Adolf Abel",
+        "Title": "Bank and Office Building, project, Stuttgart, Germany, Perspective",
+        "Year": "1928",
+        "ObjectID": "88140",
+        "Work": "https://www.moma.org/collection/works/88140",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3NTE0MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=94e021b3c7cf1798",
+        "Details": {
+            "Medium": "Silver-gelatin photograph, ink and graphite",
+            "Dimensions": "14 x 18 1/8\" (35.5 x 46 cm)",
+            "Credit": "Mies van der Rohe Archive Purchase",
+            "Object number": "77.2003",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/26129"
+    },
+    {
+        "Artist": "Adolf Abel",
+        "Title": "Bank and Office Building, project, Stuttgart, Germany, Perspective",
+        "Year": "1928",
+        "ObjectID": "88141",
+        "Work": "https://www.moma.org/collection/works/88141",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3NTE0NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=70cb5b1f2fc82fa4",
+        "Details": {
+            "Medium": "Graphite on tracing paper",
+            "Dimensions": "22 1/16 x 28 1/8\" (56 x 71.5 cm)",
+            "Credit": "Mies van der Rohe Archive Purchase",
+            "Object number": "78.2003",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/26129"
+    },
+    {
+        "Artist": "Anni Albers",
+        "Title": "Design for Bedspread",
+        "Year": "1928",
+        "ObjectID": "3480",
+        "Work": "https://www.moma.org/collection/works/3480",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMTI3MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4cb5e58f6b4aacc9",
+        "Details": {
+            "Medium": "Watercolor and pencil on paper",
+            "Dimensions": "12 13/16 x 10 3/16\" (32.5 x 25.9 cm)",
+            "Credit": "Gift of the designer",
+            "Object number": "406.1951",
+            "Copyright": "\u00a9 2023 The Josef and Anni Albers Foundation / Artists Rights Society (ARS), New York",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/96"
+    },
+    {
+        "Artist": "Anni Albers",
+        "Title": "Design for Theater Curtain, Oppeln",
+        "Year": "1928",
+        "ObjectID": "3486",
+        "Work": "https://www.moma.org/collection/works/3486",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMTI3OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=507ff9792cd3ffaa",
+        "Details": {
+            "Medium": "Gouache on paper",
+            "Dimensions": "4 1/2 x 13 7/8\" (11.4 x 35.2 cm)",
+            "Credit": "Gift of the designer",
+            "Object number": "407.1951",
+            "Copyright": "\u00a9 2023 The Josef and Anni Albers Foundation / Artists Rights Society (ARS), New York",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/96"
+    },
+    {
+        "Artist": "Anni Albers",
+        "Title": "Rug Design for Child's Room",
+        "Year": "1928",
+        "ObjectID": "3775",
+        "Work": "https://www.moma.org/collection/works/3775",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMTI3MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=029ad5775653739e",
+        "Details": {
+            "Medium": "Gouache on paper",
+            "Dimensions": "13 7/16 x 10 7/16\" (34.1 x 26.5 cm)",
+            "Credit": "Gift of the designer",
+            "Object number": "405.1951",
+            "Copyright": "\u00a9 2023 The Josef and Anni Albers Foundation / Artists Rights Society (ARS), New York",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/96"
+    },
+    {
+        "Artist": "Josef Albers",
+        "Title": "Coffee table",
+        "Year": "1928",
+        "ObjectID": "2331",
+        "Work": "https://www.moma.org/collection/works/2331",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNzkxMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=431e0af9356bbab7",
+        "Details": {
+            "Manufacturer": "Bauhaus, Dessau",
+            "Medium": "Ash and glass",
+            "Dimensions": "21 5/8 x 27 1/8 x 26 7/8\" (54.9 x 68.9 x 68.3 cm)",
+            "Credit": "Gift of the designer",
+            "Object number": "163.1958",
+            "Copyright": "\u00a9 2023 The Josef and Anni Albers Foundation / Artists Rights Society (ARS), New York",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/97"
+    },
+    {
+        "Artist": "Josef Albers",
+        "Title": "Bauhaus Stencil Lettering System (Kombinations-Schrift)",
+        "Year": "1926-1928",
+        "ObjectID": "2724",
+        "Work": "https://www.moma.org/collection/works/2724",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNzkyNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fed681f4cddde82e",
+        "Details": {
+            "Manufacturer": "Mettalglas A.G.",
+            "Medium": "Milk glass and painted wood",
+            "Dimensions": "24 1/8 x 23 7/8\" (61.3 x 60.6 cm)",
+            "Credit": "Gift of the designer",
+            "Object number": "216.1957",
+            "Copyright": "\u00a9 2023 The Josef and Anni Albers Foundation / Artists Rights Society (ARS), New York",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/97"
+    },
+    {
+        "Artist": "Ivan LeLorraine Albright",
+        "Title": "Woman",
+        "Year": "1928",
+        "ObjectID": "79198",
+        "Work": "https://www.moma.org/collection/works/79198",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0NjM0OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=42a2977f1ab1b794",
+        "Details": {
+            "Medium": "Oil on canvas",
+            "Dimensions": "33 x 22\" (83.8 x 55.9 cm)",
+            "Credit": "Given anonymously",
+            "Object number": "228.1948",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/100"
+    },
+    {
+        "Artist": "Wobbe Alkema",
+        "Title": "Untitled",
+        "Year": "1928",
+        "ObjectID": "38165",
+        "Work": "https://www.moma.org/collection/works/38165",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Ink, cut-and-pasted newspaper, and pencil on paper",
+            "Dimensions": "11 x 7 1/2\" (28 x 19 cm)",
+            "Credit": "The Riklis Collection of McCrory Corporation",
+            "Object number": "843.1983",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/116"
+    },
+    {
+        "Artist": "Wobbe Alkema",
+        "Title": "Untitled",
+        "Year": "1928",
+        "ObjectID": "38167",
+        "Work": "https://www.moma.org/collection/works/38167",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Ink and pencil on paper",
+            "Dimensions": "11 x 7 1/2\" (28 x 19 cm)",
+            "Credit": "The Riklis Collection of McCrory Corporation",
+            "Object number": "844.1983",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/116"
+    },
+    {
+        "Artist": "Wobbe Alkema",
+        "Title": "Untitled",
+        "Year": "1928",
+        "ObjectID": "38169",
+        "Work": "https://www.moma.org/collection/works/38169",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Ink, cut-and-pasted colored paper, and pencil on paper",
+            "Dimensions": "sheet  11 x 7 1/2\" (28 x 19 cm)",
+            "Credit": "The Riklis Collection of McCrory Corporation",
+            "Object number": "845.1983",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/116"
+    },
+    {
+        "Artist": "Wobbe Alkema",
+        "Title": "Untitled",
+        "Year": "1928",
+        "ObjectID": "38171",
+        "Work": "https://www.moma.org/collection/works/38171",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Ink, watercolor, and pencil on paper",
+            "Dimensions": "9 7/8 x 6 3/8\" (25 x 16.2 cm)",
+            "Credit": "The Riklis Collection of McCrory Corporation",
+            "Object number": "846.1983",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/116"
+    },
+    {
+        "Artist": "Tarsila do Amaral",
+        "Title": "The Moon",
+        "Year": "1928",
+        "ObjectID": "199984",
+        "Work": "https://www.moma.org/collection/works/199984",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ1MDQyMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=87e644e88cce04dc",
+        "Details": {
+            "Medium": "Oil on canvas",
+            "Dimensions": "43 5/16 \u00d7 43 5/16\" (110 \u00d7 110 cm)",
+            "Credit": "Gift of Joan H. Tisch (by exchange)",
+            "Object number": "1.2019",
+            "Copyright": "\u00a9 Tarsila do Amaral",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/49158"
+    },
+    {
+        "Artist": "Erik Gunnar Asplund",
+        "Title": "Public Library, Stockholm, Sweden, Elevation of front facade",
+        "Year": "Unknown",
+        "ObjectID": "130",
+        "Work": "https://www.moma.org/collection/works/130",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMDEwNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c4722f7de1cc7a08",
         "Details": {
             "Medium": "Ink on paper",
-            "Dimensions": "10 1/2 x 8 5/8\" (26.6 x 21.9 cm)",
-            "Credit": "Carol Buttenweiser Loeb Memorial Fund",
-            "Object number": "22.1969",
-            "Copyright": "\u00a9 2023 Succession H. Matisse / Artists Rights Society (ARS), New York",
-            "Department": "Drawings and Prints"
+            "Dimensions": "36 x 36 3/4\" (91.4 x 93.3 cm)",
+            "Credit": "Gift of Marshall Cogan and purchase",
+            "Object number": "45.1990",
+            "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/3832"
+        "Profile": "https://www.moma.org/artists/27"
     },
     {
-        "Artist": "Henri Matisse",
-        "Title": "Untitled",
-        "Year": "c. 1908-09",
-        "ObjectID": "37788",
-        "Work": "https://www.moma.org/collection/works/37788",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5ODExOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2783cbc1bcf9fcff",
+        "Artist": "Erik Gunnar Asplund",
+        "Title": "Public Library, Stockholm, Sweden, Elevation of west facade",
+        "Year": "Unknown",
+        "ObjectID": "131",
+        "Work": "https://www.moma.org/collection/works/131",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyNzE1NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d43960ad6a879435",
         "Details": {
-            "Medium": "Ink on paper on board",
-            "Dimensions": "10 3/4 x 8 3/8\" (27.3 x 21.3 cm)",
-            "Credit": "Mary Sisler Bequest",
-            "Object number": "684.1990",
-            "Copyright": "\u00a9 2023 Succession H. Matisse / Artists Rights Society (ARS), New York",
-            "Department": "Drawings and Prints"
+            "Medium": "Ink on paper with paper backing",
+            "Dimensions": "35 3/4 x 36 5/8\" (90.8 x 93 cm)",
+            "Credit": "Gift of Marshall Cogan and purchase",
+            "Object number": "46.1990",
+            "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/3832"
+        "Profile": "https://www.moma.org/artists/27"
     },
     {
-        "Artist": "Henri Matisse",
-        "Title": "Bather",
-        "Year": "Cavaliere, summer 1909",
-        "ObjectID": "78464",
-        "Work": "https://www.moma.org/collection/works/78464",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2OTAwOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7aeb3a88c0aeea68",
+        "Artist": "Erik Gunnar Asplund",
+        "Title": "Public Library, Stockholm, Sweden, Section",
+        "Year": "Unknown",
+        "ObjectID": "132",
+        "Work": "https://www.moma.org/collection/works/132",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyNzE1NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=09544baf53db98b5",
         "Details": {
-            "Medium": "Oil on canvas",
-            "Dimensions": "36 1/2 x 29 1/8\" (92.7 x 74 cm)",
-            "Credit": "Gift of Abby Aldrich Rockefeller",
-            "Object number": "17.1936",
-            "Copyright": "\u00a9 2023 Succession H. Matisse / Artists Rights Society (ARS), New York",
-            "Department": "Painting and Sculpture"
+            "Medium": "Ink on paper with paper backing",
+            "Dimensions": "35 1/2 x 36 7/8\" (90.2 x 93.7 cm)",
+            "Credit": "Gift of Marshall Cogan and purchase",
+            "Object number": "47.1990",
+            "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/3832"
+        "Profile": "https://www.moma.org/artists/27"
     },
     {
-        "Artist": "Henri Matisse",
-        "Title": "Dance (I)",
-        "Year": "Paris, Boulevard des Invalides, early 1909",
-        "ObjectID": "79124",
-        "Work": "https://www.moma.org/collection/works/79124",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ3NzE5MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d9d5cf14a57d47b7",
+        "Artist": "Erik Gunnar Asplund",
+        "Title": "Public Library, Stockholm, Sweden, Plan of first and second galleries",
+        "Year": "Unknown",
+        "ObjectID": "133",
+        "Work": "https://www.moma.org/collection/works/133",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyNzE2NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4de5b62a172b053f",
         "Details": {
-            "Medium": "Oil on canvas",
-            "Dimensions": "8' 6 1/2\" x 12' 9 1/2\" (259.7 x 390.1 cm)",
-            "Credit": "Gift of Nelson A. Rockefeller in honor of Alfred H. Barr, Jr.",
-            "Object number": "201.1963",
-            "Copyright": "\u00a9 2023 Succession H. Matisse / Artists Rights Society (ARS), New York",
-            "Department": "Painting and Sculpture"
+            "Medium": "Ink on paper",
+            "Dimensions": "35 3/4 x 35 3/4\" (90.8 x 90.8 cm)",
+            "Credit": "Gift of Marshall Cogan and purchase",
+            "Object number": "48.1990",
+            "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/3832"
-    },
-    {
-        "Artist": "Henri Matisse",
-        "Title": "The Back (I)",
-        "Year": "Paris, Couvent du Sacre Coeur, and Issy-les-Moulineaux, spring 1908-late 1909",
-        "ObjectID": "80762",
-        "Work": "https://www.moma.org/collection/works/80762",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4NDI5OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=eca88b2a4c6421c4",
-        "Details": {
-            "Medium": "Bronze",
-            "Dimensions": "6' 2 3/8\" x 44 1/2\" x 6 1/2\" (188.9 x 113 x 16.5 cm)",
-            "Credit": "Mrs. Simon Guggenheim Fund",
-            "Object number": "4.1952",
-            "Copyright": "\u00a9 2023 Succession H. Matisse / Artists Rights Society (ARS), New York",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/3832"
-    },
-    {
-        "Artist": "Henri Matisse",
-        "Title": "La Serpentine",
-        "Year": "Issy-les-Moulineaux, fall 1909",
-        "ObjectID": "81698",
-        "Work": "https://www.moma.org/collection/works/81698",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ2MjU5MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b1ee99bb5ca537f9",
-        "Details": {
-            "Medium": "Bronze",
-            "Dimensions": "22 1/4 x 11 x 7 1/2\" (56.5 x 28 x 19 cm)",
-            "Credit": "Gift of Abby Aldrich Rockefeller",
-            "Object number": "624.1939",
-            "Copyright": "\u00a9 2023 Succession H. Matisse / Artists Rights Society (ARS), New York",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/3832"
+        "Profile": "https://www.moma.org/artists/27"
     }
 ]

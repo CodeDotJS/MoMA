@@ -1,85 +1,601 @@
 [
     {
-        "Artist": "Martin Parr",
-        "Title": "Volcano, Big Island, Hawaii",
-        "Year": "1993",
-        "ObjectID": "187229",
-        "Work": "https://www.moma.org/collection/works/187229",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQxODc1NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c02e714fd8db4bf2",
+        "Artist": "Elizabeth Murray",
+        "Title": "LuLu Leaps",
+        "Year": "1995",
+        "ObjectID": "99375",
+        "Work": "https://www.moma.org/collection/works/99375",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMzU5OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=140e7d9b5bd01ced",
         "Details": {
-            "Medium": "Inkjet print",
-            "Dimensions": "17 \u00d7 21\" (43.2 \u00d7 53.3 cm)",
-            "Credit": "Vital Projects Fund, Robert B. Menschel",
-            "Object number": "1016.2014",
-            "Copyright": "\u00a9 2023 Martin Parr",
-            "Department": "Photography"
+            "Medium": "Etching",
+            "Dimensions": "plate: 3 11/16 x 3 7/16\" (9.4 x 8.8 cm); sheet: 12 11/16 x 10 1/2\" (32.3 x 26.7 cm)",
+            "Publisher": "Gemini G.E.L., Los Angeles",
+            "Printer": "Gemini G.E.L., Los Angeles",
+            "Edition": "trial proof before the edition of 39",
+            "Credit": "Gift of the artist and Gemini G.E.L.",
+            "Object number": "570.2005",
+            "Copyright": "\u00a9 2023 Estate of Elizabeth Murray / Artists Rights Society (ARS), New York",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/4506"
+        "Profile": "https://www.moma.org/artists/4185"
     },
     {
-        "Artist": "Tim Parsey",
-        "Title": "Stylewriter II Printer",
-        "Year": "1992",
-        "ObjectID": "2973",
-        "Work": "https://www.moma.org/collection/works/2973",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyODk2NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4f1f59bf18d024cd",
+        "Artist": "Elizabeth Murray",
+        "Title": "Red Violet",
+        "Year": "1995",
+        "ObjectID": "99376",
+        "Work": "https://www.moma.org/collection/works/99376",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMzYwNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=16f5b2322833c390",
         "Details": {
-            "Manufacturer": "Apple, Inc.",
-            "Medium": "ABS plastic and other materials",
-            "Dimensions": "7 1/4 x 13 5/8 x 8\" (18.4 x 34.6 x 20.3 cm)",
-            "Credit": "Gift of the manufacturer",
-            "Object number": "240.1994",
+            "Medium": "Lithograph",
+            "Dimensions": "composition: 8 1/4 x 7 5/16\" (21 x 18.6 cm); sheet: 16 5/8 x 14 15/16\" (42.3 x 38 cm)",
+            "Publisher": "Gemini G.E.L., Los Angeles",
+            "Printer": "Gemini G.E.L., Los Angeles",
+            "Edition": "proof before the edition of 59",
+            "Credit": "Gift of the artist and Gemini G.E.L.",
+            "Object number": "573.2005",
+            "Copyright": "\u00a9 2023 Estate of Elizabeth Murray / Artists Rights Society (ARS), New York",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4185"
+    },
+    {
+        "Artist": "Elizabeth Murray",
+        "Title": "Red Violet",
+        "Year": "1995",
+        "ObjectID": "99377",
+        "Work": "https://www.moma.org/collection/works/99377",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMzYwNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c416b4231ec5f562",
+        "Details": {
+            "Medium": "Lithograph, screenprint, and etching",
+            "Publisher": "Gemini G.E.L., Los Angeles",
+            "Printer": "Gemini G.E.L., Los Angeles",
+            "Edition": "proof before the edition of 59",
+            "Credit": "Gift of the artist and Gemini G.E.L.",
+            "Object number": "574.2005",
+            "Copyright": "\u00a9 2023 Estate of Elizabeth Murray / Artists Rights Society (ARS), New York",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4185"
+    },
+    {
+        "Artist": "Robert del Naja",
+        "Title": "Cover for Massive Attack 12\" single \"Karmacoma\"",
+        "Year": "1995",
+        "ObjectID": "189439",
+        "Work": "https://www.moma.org/collection/works/189439",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMxNzAzMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e11fc6039f7b27bb",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "12 1/4 x 12 1/4\" (31.1 x 31.1 cm)",
+            "Credit": "Committee on Architecture and Design Funds",
+            "Object number": "189.2015",
             "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/7280"
+        "Profile": "https://www.moma.org/artists/32475"
     },
     {
-        "Artist": "Raymond Pettibon",
-        "Title": "No Title (In the midsts...)",
-        "Year": "1993",
-        "ObjectID": "35598",
-        "Work": "https://www.moma.org/collection/works/35598",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMzk0MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5dfe6de8a439de3e",
+        "Artist": "Nicholas Nixon",
+        "Title": "The Brown Sisters, Marblehead, Massachusetts",
+        "Year": "1995",
+        "ObjectID": "52615",
+        "Work": "https://www.moma.org/collection/works/52615",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4OTkzOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=35e838d0453767e8",
         "Details": {
-            "Medium": "Ink on paper",
-            "Dimensions": "30 1/4 x 22\" (76.5 x 55.8 cm)",
-            "Credit": "Gift of the Friends of Contemporary Drawing",
-            "Object number": "251.2000",
-            "Copyright": "\u00a9 2023 Raymond Pettibon",
+            "Medium": "Gelatin silver print",
+            "Dimensions": "7 11/16 \u00d7 9 5/8\" (19.6 \u00d7 24.5 cm)",
+            "Credit": "The Family of Man Fund",
+            "Object number": "400.1997",
+            "Copyright": "\u00a9 2023 Nicholas Nixon",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/4315"
+    },
+    {
+        "Artist": "Nicholas Nixon",
+        "Title": "The Brown Sisters, Marblehead, Massachusetts",
+        "Year": "1995",
+        "ObjectID": "105294",
+        "Work": "https://www.moma.org/collection/works/105294",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "18 1/8 \u00d7 22 1/2\" (46 \u00d7 57.2 cm)",
+            "Credit": "Committee on Photography Fund",
+            "Object number": "658.2006",
+            "Copyright": "\u00a9 2023 Nicholas Nixon",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/4315"
+    },
+    {
+        "Artist": "Nicholas Nixon",
+        "Title": "Bebe",
+        "Year": "June 1, 1995",
+        "ObjectID": "105312",
+        "Work": "https://www.moma.org/collection/works/105312",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MDU5MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=75f55896feea2758",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "7 11/16 \u00d7 9 5/8\" (19.6 \u00d7 24.5 cm)",
+            "Credit": "Acquired through the generosity of Susan G. Jacoby in memory of her father, Edward Goldberger",
+            "Object number": "671.2006",
+            "Copyright": "\u00a9 2023 Nicholas Nixon",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/4315"
+    },
+    {
+        "Artist": "Nicholas Nixon",
+        "Title": "June 1st",
+        "Year": "1995",
+        "ObjectID": "105999",
+        "Work": "https://www.moma.org/collection/works/105999",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4ODI5OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c8214f5b2c36ce2d",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "7 11/16 \u00d7 9 5/8\" (19.6 \u00d7 24.5 cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "36.2007",
+            "Copyright": "\u00a9 2023 Nicholas Nixon",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/4315"
+    },
+    {
+        "Artist": "Nicholas Nixon",
+        "Title": "Bebe and Sam, Cambridge",
+        "Year": "1995",
+        "ObjectID": "106000",
+        "Work": "https://www.moma.org/collection/works/106000",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MDExOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=dfaa54d79352884d",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "7 11/16 \u00d7 9 5/8\" (19.6 \u00d7 24.5 cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "34.2007",
+            "Copyright": "\u00a9 2023 Nicholas Nixon",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/4315"
+    },
+    {
+        "Artist": "Nicholas Nixon",
+        "Title": "Bebe with Sam, Lexington",
+        "Year": "1995",
+        "ObjectID": "106003",
+        "Work": "https://www.moma.org/collection/works/106003",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4ODI5MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c7ab3aea54063006",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "7 11/16 \u00d7 9 5/8\" (19.6 \u00d7 24.5 cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "35.2007",
+            "Copyright": "\u00a9 2023 Nicholas Nixon",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/4315"
+    },
+    {
+        "Artist": "Albert Oehlen",
+        "Title": "Pennant (Wimpel)",
+        "Year": "1995",
+        "ObjectID": "427689",
+        "Work": "https://www.moma.org/collection/works/427689",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMTUzNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1aa179ebd107fc50",
+        "Details": {
+            "Medium": "Nylon and cotton embroidery",
+            "Dimensions": "7 1/2 \u00d7 10 1/2\" (19.1 \u00d7 26.7 cm)",
+            "Credit": "Gift of George H. Waterman III",
+            "Object number": "544.2021.1a-b",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/7500"
+        "Profile": "https://www.moma.org/artists/4375"
     },
     {
-        "Artist": "Raymond Pettibon",
-        "Title": "No Title (A final word...)",
-        "Year": "1993",
-        "ObjectID": "104717",
-        "Work": "https://www.moma.org/collection/works/104717",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyMTkyOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=dbc1a422f88f6493",
+        "Artist": "Albert Oehlen",
+        "Title": "Duchamp",
+        "Year": "1995",
+        "ObjectID": "427690",
+        "Work": "https://www.moma.org/collection/works/427690",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMTUzNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=804fd1ca41fcc4e0",
         "Details": {
-            "Medium": "Ink, colored ink, and watercolor on paper",
-            "Dimensions": "17 x 22\" (43.2 x 55.9 cm)",
-            "Credit": "Gift of Susan and Lewis Manilow",
-            "Object number": "592.2006",
-            "Copyright": "\u00a9 2023 Raymond Pettibon",
+            "Medium": "Photocopy with highlighter additions",
+            "Dimensions": "46 3/4 \u00d7 35 3/4\" (118.7 \u00d7 90.8 cm)",
+            "Credit": "Gift of George H. Waterman III",
+            "Object number": "544.2021.2a-b",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/7500"
+        "Profile": "https://www.moma.org/artists/4375"
     },
     {
-        "Artist": "Raymond Pettibon",
-        "Title": "Exhibition poster for Raymond Pettibon at Jack Hanley Gallery",
-        "Year": "1993",
-        "ObjectID": "199028",
-        "Work": "https://www.moma.org/collection/works/199028",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzNzE3NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=76b425557546c795",
+        "Artist": "Albert Oehlen",
+        "Title": "Monolog im Malerhauptquartier, Fortsetzung",
+        "Year": "1995",
+        "ObjectID": "427691",
+        "Work": "https://www.moma.org/collection/works/427691",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMTUzOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ef0be04d6706d8e6",
+        "Details": {
+            "Medium": "86-page booklet",
+            "Dimensions": "8 1/8 \u00d7 5 3/4 \u00d7 3/16\" (20.6 \u00d7 14.6 \u00d7 0.5 cm)",
+            "Credit": "Gift of George H. Waterman III",
+            "Object number": "544.2021.3a-b",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4375"
+    },
+    {
+        "Artist": "Albert Oehlen",
+        "Title": "Red Crayola",
+        "Year": "1995",
+        "ObjectID": "427692",
+        "Work": "https://www.moma.org/collection/works/427692",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMTU0MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7f73261c6f8b9122",
+        "Details": {
+            "Medium": "7\u201d vinyl single disc, two posters, and one photocopy",
+            "Dimensions": "Other (disc envelope): 7 1/8 \u00d7 7 1/8\" (18.1 \u00d7 18.1 cm)\r\nOther (poster 1): 33 \u00d7 23 1/4\" (83.8 \u00d7 59.1 cm)\r\nOther (poster 2): 16 1/2 \u00d7 23 1/4\" (41.9 \u00d7 59.1 cm)\r\nOther (photocopy ): 59 3/4 \u00d7 35 1/2\" (151.8 \u00d7 90.2 cm)",
+            "Credit": "Gift of George H. Waterman III",
+            "Object number": "544.2021.4a-f",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4375"
+    },
+    {
+        "Artist": "Albert Oehlen",
+        "Title": "Criticize the Bourgeois Nuclear Family (Die Buergerliche Kleinfamilie Kritisieren) and Psycho Chicken",
+        "Year": "1995",
+        "ObjectID": "427693",
+        "Work": "https://www.moma.org/collection/works/427693",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMTU0OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2b9f73140251ecaf",
+        "Details": {
+            "Medium": "Color poster and booklet",
+            "Dimensions": "Other (poster): 16 9/16 \u00d7 11 11/16\" (42 \u00d7 29.7 cm)\r\nOther (small book): 6 11/16 \u00d7 4 1/2\" (17 \u00d7 11.4 cm)",
+            "Credit": "Gift of George H. Waterman III",
+            "Object number": "544.2021.5a-c",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4375"
+    },
+    {
+        "Artist": "Albert Oehlen",
+        "Title": "The problem of the author is always also the problem of the reader (to a certain extent)",
+        "Year": "1995",
+        "ObjectID": "427694",
+        "Work": "https://www.moma.org/collection/works/427694",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMTU1MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=bdb30dec15a84aea",
+        "Details": {
+            "Medium": "Matted color photograph",
+            "Dimensions": "11 \u00d7 11\" (27.9 \u00d7 27.9 cm)",
+            "Credit": "Gift of George H. Waterman III",
+            "Object number": "544.2021.6a-b",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4375"
+    },
+    {
+        "Artist": "Albert Oehlen",
+        "Title": "New Politics (Please cease forbidding other people certain things, and feeling fantastic doing so)",
+        "Year": "1995",
+        "ObjectID": "427695",
+        "Work": "https://www.moma.org/collection/works/427695",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMTU1NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7d8d2184f9d0a85e",
+        "Details": {
+            "Medium": "Poster, color print, photocopied notes",
+            "Dimensions": "Other (Poster): 35 7/8 \u00d7 23 7/8\" (91.1 \u00d7 60.6 cm)\r\nOther (color print): 11 \u00d7 8 1/2\" (27.9 \u00d7 21.6 cm)\r\nOther (notes): 8 9/16 \u00d7 11\" (21.7 \u00d7 28 cm)",
+            "Credit": "Gift of George H. Waterman III",
+            "Object number": "544.2021.7a-d",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4375"
+    },
+    {
+        "Artist": "Albert Oehlen",
+        "Title": "X Video NR",
+        "Year": "1995",
+        "ObjectID": "427696",
+        "Work": "https://www.moma.org/collection/works/427696",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMTU2MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7c4cfbe2dc941a48",
+        "Details": {
+            "Medium": "VHS tape",
+            "Dimensions": "7 3/8 \u00d7 4 \u00d7 1\" (18.7 \u00d7 10.2 \u00d7 2.5 cm)",
+            "Credit": "Gift of George H. Waterman III",
+            "Object number": "544.2021.8a-b",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4375"
+    },
+    {
+        "Artist": "Albert Oehlen",
+        "Title": "Bubble in Halls",
+        "Year": "1995",
+        "ObjectID": "427697",
+        "Work": "https://www.moma.org/collection/works/427697",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMTU2MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1e770c78ab2fdab0",
+        "Details": {
+            "Medium": "29 newspaper clippings",
+            "Dimensions": "Largest: 9 5/8 \u00d7 8 3/8\" (24.4 \u00d7 21.3 cm)\r\nSmallest: 1 5/8 \u00d7 3 3/8\" (4.1 \u00d7 8.6 cm)",
+            "Credit": "Gift of George H. Waterman III",
+            "Object number": "544.2021.9a-dd",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4375"
+    },
+    {
+        "Artist": "Albert Oehlen",
+        "Title": "New Politics II",
+        "Year": "1995",
+        "ObjectID": "427698",
+        "Work": "https://www.moma.org/collection/works/427698",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMTUyMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e4c62cc93e30bde8",
+        "Details": {
+            "Medium": "Screenprint",
+            "Dimensions": "each: 12 1/8 \u00d7 12 1/8\" (30.8 \u00d7 30.8 cm)",
+            "Credit": "Gift of George H. Waterman III",
+            "Object number": "544.2021.10a-e",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4375"
+    },
+    {
+        "Artist": "Albert Oehlen",
+        "Title": "Oven (Hinein Damit!)",
+        "Year": "1995",
+        "ObjectID": "427699",
+        "Work": "https://www.moma.org/collection/works/427699",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMTUyNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=03653bb0e7ac5525",
+        "Details": {
+            "Medium": "Color photocopy and blueprint",
+            "Dimensions": "Other (photocopy): 16 13/16 \u00d7 21 7/16\" (42.7 \u00d7 54.4 cm)\r\nOther (Blueprint): 16 9/16 \u00d7 20 1/16\" (42 \u00d7 51 cm)",
+            "Credit": "Gift of George H. Waterman III",
+            "Object number": "544.2021.11a-c",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4375"
+    },
+    {
+        "Artist": "Albert Oehlen",
+        "Title": "Imaginary Museum",
+        "Year": "1995",
+        "ObjectID": "427700",
+        "Work": "https://www.moma.org/collection/works/427700",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMTUyNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a41fae9cd1acc7cf",
+        "Details": {
+            "Medium": "Poster and 5 computer prints",
+            "Dimensions": "Poster: 61 1/2 \u00d7 86 1/8\" (156.2 \u00d7 218.8 cm)\r\nPrints: 16 7/16 \u00d7 11 3/4\" (41.8 \u00d7 29.8 cm)",
+            "Credit": "Gift of George H. Waterman III",
+            "Object number": "544.2021.12a-g",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4375"
+    },
+    {
+        "Artist": "Albert Oehlen",
+        "Title": "Picture",
+        "Year": "1995",
+        "ObjectID": "427701",
+        "Work": "https://www.moma.org/collection/works/427701",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMTUzNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e31f7cec91d2e854",
+        "Details": {
+            "Medium": "Photocopy of a painting on two sheets",
+            "Dimensions": "86 \u00d7 61 1/2\" (218.4 \u00d7 156.2 cm)",
+            "Credit": "Gift of George H. Waterman III",
+            "Object number": "544.2021.13a-b",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4375"
+    },
+    {
+        "Artist": "Albert Oehlen",
+        "Title": "Oblivious \u2013 Discomfort \u2013 Round Balls (Vergessen \u2013 Unmut \u2013 Runde Kugeln)",
+        "Year": "1995",
+        "ObjectID": "429509",
+        "Work": "https://www.moma.org/collection/works/429509",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Series of thirteen record album covers each containing various materials such as posters, prints, books, photographs, and a VHS tape",
+            "Dimensions": "Dimensions vary",
+            "Credit": "Gift of George H. Waterman III",
+            "Object number": "544.2021.1-13",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4375"
+    },
+    {
+        "Artist": "Opera, Ton Homburg",
+        "Title": "Anke Schulte-Steinberg, Licht Beweging",
+        "Year": "1995",
+        "ObjectID": "6961",
+        "Work": "https://www.moma.org/collection/works/6961",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyNzY4MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=58dfd7ed243901d1",
         "Details": {
             "Medium": "Offset lithograph",
-            "Dimensions": "sheet: 19 15/16 \u00d7 13 15/16\" (50.6 \u00d7 35.4 cm)",
+            "Dimensions": "16 1/2 x 23 1/2\" (41.9 x 59.7 cm)",
+            "Credit": "Gift of the designers through the Netherlands Design Institute",
+            "Object number": "440.1996",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7603"
+    },
+    {
+        "Artist": "Gabriel Orozco",
+        "Title": "Horses Running Endlessly",
+        "Year": "1995",
+        "ObjectID": "81977",
+        "Work": "https://www.moma.org/collection/works/81977",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMTk4NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0701ff67cc0496bf",
+        "Details": {
+            "Medium": "Wood",
+            "Dimensions": "3 3/8 x 34 3/8 x 34 3/8\" (8.7 x 87.5 x 87.5 cm)",
+            "Credit": "Gift of Agnes Gund and Lewis B. Cullman in honor of Chess in the Schools",
+            "Object number": "1147.2001",
+            "Copyright": "\u00a9 2023 Gabriel Orozco",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/7461"
+    },
+    {
+        "Artist": "Bernardo Ortiz Campo",
+        "Title": "Untitled",
+        "Year": "(1995)",
+        "ObjectID": "156676",
+        "Work": "https://www.moma.org/collection/works/156676",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0NjM3MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=49d4b0ae95ff8b02",
+        "Details": {
+            "Medium": "Typewriting on label, pencil, colored pencil, watercolor, and chalk on paper",
+            "Dimensions": "9 3/4 x 13 1/2\" (24.8 x 34.3 cm)",
+            "Credit": "Purchased with funds provided by Gonzalo Parodi",
+            "Object number": "502.2012",
+            "Copyright": "\u00a9 2023 Bernardo Ortiz Campo",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/41332"
+    },
+    {
+        "Artist": "Bernardo Ortiz Campo",
+        "Title": "Untitled",
+        "Year": "(1995)",
+        "ObjectID": "156801",
+        "Work": "https://www.moma.org/collection/works/156801",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0NjM3NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8a5f1ae6455364da",
+        "Details": {
+            "Medium": "Typewriting and linseed oil on photocopy",
+            "Dimensions": "13 x 8 1/2\" (33 x 21.6 cm)",
+            "Credit": "Purchased with funds provided by Susan G. Jacoby in honor of her mother Marjorie L. Goldberger",
+            "Object number": "508.2012",
+            "Copyright": "\u00a9 2023 Bernardo Ortiz Campo",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/41332"
+    },
+    {
+        "Artist": "Bernardo Ortiz Campo",
+        "Title": "Untitled",
+        "Year": "1995",
+        "ObjectID": "156805",
+        "Work": "https://www.moma.org/collection/works/156805",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0NjM4NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d2bba7aa7f9d1518",
+        "Details": {
+            "Medium": "Pencil, rubber stamp, and enamel on photocopy",
+            "Dimensions": "8 1/2 x 11\" (21.6 x 27.9 cm)",
+            "Credit": "Purchased with funds provided by Susan G. Jacoby in honor of her mother Marjorie L. Goldberger",
+            "Object number": "515.2012",
+            "Copyright": "\u00a9 2023 Bernardo Ortiz Campo",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/41332"
+    },
+    {
+        "Artist": "Pepon Osorio",
+        "Title": "Badge of Honor",
+        "Year": "1995",
+        "ObjectID": "419366",
+        "Work": "https://www.moma.org/collection/works/419366",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxMzMxNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ff9dab650e7df4ed",
+        "Details": {
+            "Medium": "Two standard-definition videos (black and white, sound; 19:25 min.), prison bars, beds, steel toilet and sink, fabric, cigarette boxes, photographs, shoes, dresser, cabinet, nightstands, lamps, baseball cards, posters, reflective floor tile, trophies, air fresheners, clothes hamper, television monitor, basketballs, mountain bike, computer, plastic, watches, rings, and black-and-white photographs",
+            "Dimensions": "Overall dimensions variable",
+            "Credit": "Acquired through the generosity of Heidi and Gregory Fulkerson, in memory of their parents Dr. Samuel and Katharine Fulkerson, and in honor of Warren James",
+            "Object number": "216.2020",
+            "Copyright": "\u00a9 2023 Pep\u00f3n Osorio",
+            "Department": "Media and Performance"
+        },
+        "Profile": "https://www.moma.org/artists/72649"
+    },
+    {
+        "Artist": "Uzi Parnes",
+        "Title": "Batterer",
+        "Year": "1995",
+        "ObjectID": "315310",
+        "Work": "https://www.moma.org/collection/works/315310",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ0ODkwMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2a4ad67d02c0d2d6",
+        "Details": {
+            "Object number": "W23299",
+            "Copyright": "Stills by Darrel Perry. Courtesy of Uzi Parnes.",
+            "Department": "Film"
+        },
+        "Profile": "https://www.moma.org/artists/75052"
+    },
+    {
+        "Artist": "Raymond Pettibon",
+        "Title": "No Title (And where are...)",
+        "Year": "1995",
+        "ObjectID": "33798",
+        "Work": "https://www.moma.org/collection/works/33798",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwNjQxNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=660ede4923518da8",
+        "Details": {
+            "Medium": "Ink, felt-tip pen, and pencil on paper",
+            "Dimensions": "17 5/8 x 23 1/8\" (44 x 58.7 cm)",
+            "Credit": "Gift of the Friends of Contemporary Drawing",
+            "Object number": "88.1996.17",
+            "Copyright": "\u00a9 2023 Raymond Pettibon",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/7500"
+    },
+    {
+        "Artist": "Raymond Pettibon",
+        "Title": "No Title (With the light...)",
+        "Year": "n.d.",
+        "ObjectID": "89521",
+        "Work": "https://www.moma.org/collection/works/89521",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNzMzNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2106b2d178f3a733",
+        "Details": {
+            "Medium": "Ink and colored ink on paper",
+            "Dimensions": "25 1/2 x 19 3/4\" (64.8 x 50.2 cm)",
+            "Credit": "Gift from the Collection of Patricia and Morris Orden",
+            "Object number": "432.2003",
+            "Copyright": "\u00a9 2023 Raymond Pettibon",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/7500"
+    },
+    {
+        "Artist": "Raymond Pettibon",
+        "Title": "No Title (The road you...)",
+        "Year": "1995",
+        "ObjectID": "89523",
+        "Work": "https://www.moma.org/collection/works/89523",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNzMzNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fc4c97e1d3776c09",
+        "Details": {
+            "Medium": "Ink and colored ink on paper",
+            "Dimensions": "18 3/4 x 11 3/4\" (47.6 x 29.8 cm)",
+            "Credit": "Gift from the Collection of Patricia and Morris Orden",
+            "Object number": "434.2003",
+            "Copyright": "\u00a9 2023 Raymond Pettibon",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/7500"
+    },
+    {
+        "Artist": "Raymond Pettibon",
+        "Title": "No Title (To take a...)",
+        "Year": "n.d.",
+        "ObjectID": "89526",
+        "Work": "https://www.moma.org/collection/works/89526",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMzk0NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3868f09b02beb0f4",
+        "Details": {
+            "Medium": "Ink and colored ink on colored paper",
+            "Dimensions": "11 x 23\" (27.9 x 58.4 cm)",
+            "Credit": "Gift from the Collection of Patricia and Morris Orden",
+            "Object number": "437.2003",
+            "Copyright": "\u00a9 2023 Raymond Pettibon",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/7500"
+    },
+    {
+        "Artist": "Raymond Pettibon",
+        "Title": "Sonic Youth Goo Badge",
+        "Year": "c. 1990",
+        "ObjectID": "191226",
+        "Work": "https://www.moma.org/collection/works/191226",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMyMzIyOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f62ce33e4d94993d",
+        "Details": {
+            "Medium": "Lithograph on woven fabric",
+            "Dimensions": "overall: 3 1/4 x 3 1/4\" (8.2 x 8.2 cm)",
             "Edition": "unknown",
             "Credit": "Acquired from The Eileen and Michael Cohen Collection through the The Sue and Edgar Wachenheim III Endowment",
-            "Object number": "1089.2014.248",
+            "Object number": "1089.2014.236",
             "Copyright": "\u00a9 2023 Raymond Pettibon",
             "Associated work": "Raymond Pettibon Archive",
             "Department": "Drawings and Prints"
@@ -87,756 +603,216 @@
         "Profile": "https://www.moma.org/artists/7500"
     },
     {
-        "Artist": "Glen Pettit/The New York Times",
-        "Title": "Two Youths Arraigned on Charge of Scrawling Hate Graffiti",
-        "Year": "July 16, 1993",
-        "ObjectID": "58667",
-        "Work": "https://www.moma.org/collection/works/58667",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0MDY2OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f43a6e7f78a24fe7",
+        "Artist": "Elizabeth Peyton",
+        "Title": "Jake at the New Viet Huong",
+        "Year": "1995",
+        "ObjectID": "78446",
+        "Work": "https://www.moma.org/collection/works/78446",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1MTA0OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1064d1b4ff54fab4",
         "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "8 1/16 \u00d7 12\" (20.5 \u00d7 30.5 cm)",
-            "Credit": "The New York Times Collection",
-            "Object number": "2074.2001",
-            "Copyright": "\u00a9 2023 The New York Times",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/8598"
-    },
-    {
-        "Artist": "Stephen Prina",
-        "Title": "Monochrome Painting Plus Errata",
-        "Year": "1988-93",
-        "ObjectID": "178611",
-        "Work": "https://www.moma.org/collection/works/178611",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5MjUxNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e35dcdd9b0b18e4c",
-        "Details": {
-            "Medium": "Portfolio of 16 lithographs (including title page and colophon)",
-            "Dimensions": "sheet (each): 22 1/4 x 30\" (56.5 x 76.2 cm)",
-            "Publisher": "Galerie Gisela Capitain, Cologne, Galerie Max Hetzler, Cologne, and Luhring Augustine Gallery, New York",
-            "Printer": "Anthony Zepeda, with Jeff Levitz",
-            "Edition": "20",
-            "Credit": "Gift of Petzel Gallery",
-            "Object number": "61.2014.a-p",
-            "Copyright": "\u00a9 Stephan Prina 2017",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/4739"
-    },
-    {
-        "Artist": "Wolf D. Prix, Helmut Swiczinsky",
-        "Title": "Video Clip Folly Project, Groningen, The Netherlands, Exterior perspective",
-        "Year": "1993",
-        "ObjectID": "448",
-        "Work": "https://www.moma.org/collection/works/448",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyNzYyMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=bd447773531a5d22",
-        "Details": {
-            "Architectural firm": "Coop Himmelb(l)au",
-            "Medium": "Graphite on spiral-bound notepad paper",
-            "Dimensions": "7 3/8 x 5 3/8\" (18.7 x 13.7 cm)",
-            "Credit": "Gift of the architects in honor of Lily Auchincloss",
-            "Object number": "379.1994",
-            "Copyright": "\u00a9 2023 Coop Himmelb(l)au, Prix & Sniczinsky",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/7572"
-    },
-    {
-        "Artist": "Martin Puryear",
-        "Title": "Untitled",
-        "Year": "1993",
-        "ObjectID": "82223",
-        "Work": "https://www.moma.org/collection/works/82223",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ4MTgxNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=112137eb60e4ded8",
-        "Details": {
-            "Medium": "Ink wash, cont\u00e9 crayon, and pencil on cut-and-taped colored paper",
-            "Dimensions": "80 1/4 x 54 1/2\" (203.8 x 138.4 cm)",
-            "Credit": "Purchase",
-            "Object number": "1371.2001",
-            "Copyright": "\u00a9 2023 Martin Puryear",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/4758"
-    },
-    {
-        "Artist": "Harvey Quaytman",
-        "Title": "Untitled",
-        "Year": "1993",
-        "ObjectID": "97135",
-        "Work": "https://www.moma.org/collection/works/97135",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzNTU5OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7a0fd415b031dfdf",
-        "Details": {
-            "Medium": "Synthetic polymer paint on cut-and-pasted paper with rusted metal and pencil on paper on metal",
-            "Dimensions": "30 x 30\" (76.2 x 76.2 cm)",
-            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
-            "Object number": "2851.2005",
-            "Copyright": "\u00a9 2023 Harvey Quaytman",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/4767"
-    },
-    {
-        "Artist": "Robert Rauschenberg",
-        "Title": "Baby Bellini",
-        "Year": "1993",
-        "ObjectID": "63477",
-        "Work": "https://www.moma.org/collection/works/63477",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyMzk0MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f316ed3966b1b962",
-        "Details": {
-            "Medium": "Photogravure with hand editions",
-            "Dimensions": "composition (irreg.): 26 3/16 x 20 7/8\" (66.5 x 53 cm); sheet: 29 13/16 x 22 5/16\" (75.7 x 56.7 cm)",
-            "Publisher": "Universal Limited Art Editions, West Islip, New York",
-            "Printer": "Universal Limited Art Editions, West Islip, New York",
-            "Edition": "35",
-            "Credit": "Gift of Universal Limited Art Editions, Inc.",
-            "Object number": "168.1994",
-            "Copyright": "\u00a9 2023 Robert Rauschenberg Foundation",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/4823"
-    },
-    {
-        "Artist": "Robert Rauschenberg",
-        "Title": "Street Sounds West",
-        "Year": "1993",
-        "ObjectID": "73144",
-        "Work": "https://www.moma.org/collection/works/73144",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5Mzk5OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1ad92e1af507e000",
-        "Details": {
-            "Medium": "Photogravure with chine coll\u00e9",
-            "Publisher": "Universal Limited Art Editions, West Islip, New York",
-            "Printer": "Universal Limited Art Editions, West Islip, New York",
-            "Edition": "37",
-            "Credit": "Gift of Emily Fisher Landau",
-            "Object number": "686.1993",
-            "Copyright": "\u00a9 2023 Robert Rauschenberg Foundation",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/4823"
-    },
-    {
-        "Artist": "Charles Ray",
-        "Title": "The Most Beautiful Women in the World (for Parkett no. 37)",
-        "Year": "1993",
-        "ObjectID": "61928",
-        "Work": "https://www.moma.org/collection/works/61928",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4OTU2NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0bc0e982d4e56e6a",
-        "Details": {
-            "Medium": "Nine chromogenic color prints",
-            "Dimensions": "composition  3 15/16 x 5 7/8\" (10 x 15 cm)",
-            "Publisher": "Parkett Publishers, Z\u00fcrich and New York",
-            "Edition": "60 (each unique)",
-            "Credit": "Riva Castleman Endowment Fund, Lily Auchincloss Fund, and Gift of Parkett",
-            "Object number": "109.1998.1a-i",
-            "Copyright": "\u00a9 2023 Charles Ray",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/7049"
-    },
-    {
-        "Artist": "Charles Ray",
-        "Title": "Family romance",
-        "Year": "1993",
-        "ObjectID": "81284",
-        "Work": "https://www.moma.org/collection/works/81284",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMDk3MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=48f5f9c6c838d6da",
-        "Details": {
-            "Medium": "Painted fiberglass and hair",
-            "Dimensions": "53\" x 7' 1\" x 11\" (134.6 x 215.9 x 27.9 cm)",
+            "Medium": "Oil on masonite",
+            "Dimensions": "16 x 12\" (40.6 x 30.5 cm)",
             "Credit": "Gift of the Peter Norton Family Foundation",
-            "Object number": "281.1993",
-            "Copyright": "\u00a9 2023 Charles Ray",
+            "Object number": "15.2000",
+            "Copyright": "\u00a9 2023 Elizabeth Peyton",
             "Department": "Painting and Sculpture"
         },
-        "Profile": "https://www.moma.org/artists/7049"
+        "Profile": "https://www.moma.org/artists/8042"
     },
     {
-        "Artist": "Charles Ray, Franz West, Pipilotti Rist, Jean-Jacques Rullier, Various Artists",
-        "Title": "Parkett no. 37",
-        "Year": "1993",
-        "ObjectID": "11371",
-        "Work": "https://www.moma.org/collection/works/11371",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQyOTI5MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8cea7934bb63fdff",
+        "Artist": "Elizabeth Peyton",
+        "Title": "Princess Elizabeth",
+        "Year": "1995",
+        "ObjectID": "130956",
+        "Work": "https://www.moma.org/collection/works/130956",
+        "Thumbnail": null,
         "Details": {
-            "Collaborating artist": "Charles Ray, Franz West, Pipilotti Rist, Jean-Jacques Rullier",
-            "Medium": "Journal",
-            "Dimensions": "composition  10 x 8 1/4\" (25.5 x 21 cm)",
-            "Publisher": "Parkett Publishers, Z\u00fcrich and New York",
-            "Credit": "Riva Castleman Endowment Fund, Lily Auchincloss Fund, and Gift of Parkett",
-            "Object number": "109.1998.2x1-x2",
+            "Medium": "Charcoal on paper",
+            "Dimensions": "16 1/2 x 11 3/4\" (41.9 x 29.8 cm)",
+            "Credit": "Promised gift of Martin and Rebecca Eisenberg in honor of Kathy Fuld",
+            "Object number": "PG1119.2009",
+            "Copyright": "\u00a9 2023 Elizabeth Peyton",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/24409"
+        "Profile": "https://www.moma.org/artists/8042"
     },
     {
-        "Artist": "Steve Reinke",
-        "Title": "Charming Mutt from The Hundred Videos",
-        "Year": "1993",
-        "ObjectID": "118406",
-        "Work": "https://www.moma.org/collection/works/118406",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1MjY1MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8b50e3479619fff9",
+        "Artist": "John Pilson",
+        "Title": "Untitled from the series Civil Ceremonies",
+        "Year": "1995",
+        "ObjectID": "124840",
+        "Work": "https://www.moma.org/collection/works/124840",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUwMjIyMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1e352de869dc01f7",
         "Details": {
-            "Medium": "Video (color, sound)",
-            "Duration": "0:41 min.",
-            "Credit": "Gift of the artist",
-            "Object number": "1342.1999.12",
-            "Copyright": "\u00a9 2023 Steve Reinke",
-            "Series": "The Hundred Videos",
-            "Department": "Media and Performance"
+            "Medium": "Chromogenic print",
+            "Dimensions": "9 1/8 \u00d7 11 9/16\" (23.1 \u00d7 29.3 cm)",
+            "Credit": "Gift of Richard Benson",
+            "Object number": "SC2008.1.123",
+            "Copyright": "\u00a9 2023 John Pilson",
+            "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/34915"
+        "Profile": "https://www.moma.org/artists/26544"
     },
     {
-        "Artist": "Steve Reinke",
-        "Title": "I Love You, Too from The Hundred Videos",
-        "Year": "1993",
-        "ObjectID": "118430",
-        "Work": "https://www.moma.org/collection/works/118430",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1MjY3NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=875ed9edb1a70c49",
+        "Artist": "Sigmar Polke",
+        "Title": "The First Cut (Der erste Schnitt)",
+        "Year": "1995",
+        "ObjectID": "164496",
+        "Work": "https://www.moma.org/collection/works/164496",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NzQzOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=743366bbd2f46447",
         "Details": {
-            "Medium": "Video (color, sound)",
-            "Duration": "0:52 min.",
-            "Credit": "Gift of the artist",
-            "Object number": "1342.1999.36",
-            "Copyright": "\u00a9 2023 Steve Reinke",
-            "Series": "The Hundred Videos",
-            "Department": "Media and Performance"
-        },
-        "Profile": "https://www.moma.org/artists/34915"
-    },
-    {
-        "Artist": "Steve Reinke",
-        "Title": "Ice Cream from The Hundred Videos",
-        "Year": "1993",
-        "ObjectID": "118431",
-        "Work": "https://www.moma.org/collection/works/118431",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1MjY3NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=28f5ab5e0fe785d2",
-        "Details": {
-            "Medium": "Video (color, sound)",
-            "Duration": "2:31 min.",
-            "Credit": "Gift of the artist",
-            "Object number": "1342.1999.37",
-            "Copyright": "\u00a9 2023 Steve Reinke",
-            "Series": "The Hundred Videos",
-            "Department": "Media and Performance"
-        },
-        "Profile": "https://www.moma.org/artists/34915"
-    },
-    {
-        "Artist": "Steve Reinke",
-        "Title": "Instructions for Recovering Forgotten Memories from The Hundred Videos",
-        "Year": "1993",
-        "ObjectID": "118433",
-        "Work": "https://www.moma.org/collection/works/118433",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1MjY3NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=482e0529a2a43f88",
-        "Details": {
-            "Medium": "Video (color, sound)",
-            "Duration": "2:14 min.",
-            "Credit": "Gift of the artist",
-            "Object number": "1342.1999.39",
-            "Copyright": "\u00a9 2023 Steve Reinke",
-            "Series": "The Hundred Videos",
-            "Department": "Media and Performance"
-        },
-        "Profile": "https://www.moma.org/artists/34915"
-    },
-    {
-        "Artist": "Steve Reinke",
-        "Title": "Jason from The Hundred Videos",
-        "Year": "1993",
-        "ObjectID": "118435",
-        "Work": "https://www.moma.org/collection/works/118435",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1MjY3OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3ddd56efaa1ecd53",
-        "Details": {
-            "Medium": "Video (color, sound)",
-            "Duration": "0:41 min.",
-            "Credit": "Gift of the artist",
-            "Object number": "1342.1999.41",
-            "Copyright": "\u00a9 2023 Steve Reinke",
-            "Series": "The Hundred Videos",
-            "Department": "Media and Performance"
-        },
-        "Profile": "https://www.moma.org/artists/34915"
-    },
-    {
-        "Artist": "Steve Reinke",
-        "Title": "Little Faggot from The Hundred Videos",
-        "Year": "1993",
-        "ObjectID": "118442",
-        "Work": "https://www.moma.org/collection/works/118442",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1MjY4NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8d5b1a66412bf2da",
-        "Details": {
-            "Medium": "Video (color, sound)",
-            "Duration": "2:34 min.",
-            "Credit": "Gift of the artist",
-            "Object number": "1342.1999.48",
-            "Copyright": "\u00a9 2023 Steve Reinke",
-            "Series": "The Hundred Videos",
-            "Department": "Media and Performance"
-        },
-        "Profile": "https://www.moma.org/artists/34915"
-    },
-    {
-        "Artist": "Steve Reinke",
-        "Title": "Lonely Boy from The Hundred Videos",
-        "Year": "1993",
-        "ObjectID": "118444",
-        "Work": "https://www.moma.org/collection/works/118444",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1MjY4OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=76964e6dd7727894",
-        "Details": {
-            "Medium": "Video (color, sound)",
-            "Duration": "8:20 min.",
-            "Credit": "Gift of the artist",
-            "Object number": "1342.1999.50",
-            "Copyright": "\u00a9 2023 Steve Reinke",
-            "Series": "The Hundred Videos",
-            "Department": "Media and Performance"
-        },
-        "Profile": "https://www.moma.org/artists/34915"
-    },
-    {
-        "Artist": "Steve Reinke",
-        "Title": "Long Train Ride from The Hundred Videos",
-        "Year": "1993",
-        "ObjectID": "118445",
-        "Work": "https://www.moma.org/collection/works/118445",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1MjY4OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e8f846f06237c14b",
-        "Details": {
-            "Medium": "Video (color, sound)",
-            "Duration": "3:36 min.",
-            "Credit": "Gift of the artist",
-            "Object number": "1342.1999.51",
-            "Copyright": "\u00a9 2023 Steve Reinke",
-            "Series": "The Hundred Videos",
-            "Department": "Media and Performance"
-        },
-        "Profile": "https://www.moma.org/artists/34915"
-    },
-    {
-        "Artist": "Steve Reinke",
-        "Title": "Request from The Hundred Videos",
-        "Year": "1993",
-        "ObjectID": "118462",
-        "Work": "https://www.moma.org/collection/works/118462",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1MjcwNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=adf3c830cbcd7631",
-        "Details": {
-            "Medium": "Video (color, sound)",
-            "Duration": "6:55 min.",
-            "Credit": "Gift of the artist",
-            "Object number": "1342.1999.68",
-            "Copyright": "\u00a9 2023 Steve Reinke",
-            "Series": "The Hundred Videos",
-            "Department": "Media and Performance"
-        },
-        "Profile": "https://www.moma.org/artists/34915"
-    },
-    {
-        "Artist": "Faith Ringgold",
-        "Title": "Tar Beach Woodcut",
-        "Year": "1993",
-        "ObjectID": "73160",
-        "Work": "https://www.moma.org/collection/works/73160",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NzY4MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=539af976778dd770",
-        "Details": {
-            "Medium": "Woodcut",
-            "Publisher": "Mulberry Press, Cambridge, MA",
-            "Printer": "Mulberry Press, Cambridge, MA",
-            "Credit": "John B. Turner Fund",
-            "Object number": "688.1993",
-            "Copyright": "\u00a9 2023 Faith Ringgold / Artists Rights Society (ARS), New York",
+            "Medium": "Screenprint",
+            "Dimensions": "composition: 17 1/16 x 23 13/16\" (43.3 x 60.5 cm); sheet: 21 9/16 x 29 1/2\" (54.8 x 74.9 cm)",
+            "Publisher": "Edition Staeck, Heidelberg, Germany",
+            "Printer": "Edition Staeck, Heidelberg, Germany",
+            "Edition": "60",
+            "Credit": "Riva Castleman Endowment Fund",
+            "Object number": "1661.2012",
+            "Copyright": "\u00a9 2023 Estate of Sigmar Polke / Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn, Germany",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/7066"
+        "Profile": "https://www.moma.org/artists/4671"
     },
     {
-        "Artist": "Pipilotti Rist",
-        "Title": "Blutclip",
-        "Year": "1993",
-        "ObjectID": "109937",
-        "Work": "https://www.moma.org/collection/works/109937",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyNzk1NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c0f43095d434a13c",
+        "Artist": "Sigmar Polke",
+        "Title": "The Third Estate (Der dritte Stand)",
+        "Year": "1995",
+        "ObjectID": "164497",
+        "Work": "https://www.moma.org/collection/works/164497",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NzQ0MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=44217d3c030ad3ba",
         "Details": {
-            "Medium": "Video (color, sound)",
-            "Duration": "2:40 min.",
-            "Credit": "Gift of the Julia Stoschek Foundation, D\u00fcsseldorf and Committee on Media Funds",
-            "Object number": "202.2007",
-            "Copyright": "\u00a9 2023 Pipilotti Rist. Courtesy of Electronic Arts Intermix (EAI), New York",
+            "Medium": "Screenprint",
+            "Dimensions": "composition: 16 3/8 x 24\" (41.6 x 60.9 cm); sheet: 21 5/8 x 29 1/2\" (54.9 x 75 cm)",
+            "Publisher": "Edition Staeck, Heidelberg, Germany",
+            "Printer": "Edition Staeck, Heidelberg, Germany",
+            "Edition": "60",
+            "Credit": "Riva Castleman Endowment Fund",
+            "Object number": "1663.2012",
+            "Copyright": "\u00a9 2023 Estate of Sigmar Polke / Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn, Germany",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4671"
+    },
+    {
+        "Artist": "Sigmar Polke",
+        "Title": "The Second Fall (Der zweite Fall)",
+        "Year": "1995",
+        "ObjectID": "164498",
+        "Work": "https://www.moma.org/collection/works/164498",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NzQzOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d4019e7497a76455",
+        "Details": {
+            "Medium": "Screenprint",
+            "Dimensions": "composition: 14 15/16 x 23 15/16\" (38 x 60.8 cm); sheet: 21 5/8 x 29 1/2\" (55 x 75 cm)",
+            "Publisher": "Edition Staeck, Heidelberg, Germany",
+            "Printer": "Edition Staeck, Heidelberg, Germany",
+            "Edition": "60",
+            "Credit": "Riva Castleman Endowment Fund",
+            "Object number": "1662.2012",
+            "Copyright": "\u00a9 2023 Estate of Sigmar Polke / Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn, Germany",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4671"
+    },
+    {
+        "Artist": "Albert-Jan Pool",
+        "Title": "FF Din",
+        "Year": "1995",
+        "ObjectID": "139323",
+        "Work": "https://www.moma.org/collection/works/139323",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMjY1NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=bfefae33a3dfe4e2",
+        "Details": {
+            "Medium": "Digital typeface",
+            "Dimensions": "Variable",
+            "Credit": "Gift of FSI FontShop International",
+            "Object number": "1082.2010",
+            "Copyright": "\u00a9 2023 FSI FontShop International",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/38488"
+    },
+    {
+        "Artist": "Pope.L",
+        "Title": "Foraging (The Air Itself/Dark Version)",
+        "Year": "1995",
+        "ObjectID": "128671",
+        "Work": "https://www.moma.org/collection/works/128671",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MzI2MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=aa23c80c0f58899a",
+        "Details": {
+            "Medium": "Iris print, printed 2001",
+            "Dimensions": "34 1/2 x 31 1/2\" (87.6 x 80 cm)",
+            "Credit": "Committee on Media and Performance Art Funds",
+            "Object number": "376.2009",
+            "Copyright": "\u00a9 2023 William Pope.L",
             "Department": "Media and Performance"
         },
-        "Profile": "https://www.moma.org/artists/8297"
+        "Profile": "https://www.moma.org/artists/37145"
     },
     {
-        "Artist": "Reynaldo Rivera",
-        "Title": "Angela, Paloma and Gaby, La Plaza",
-        "Year": "1993",
-        "ObjectID": "431575",
-        "Work": "https://www.moma.org/collection/works/431575",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNjI1OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e2a18eecee12d215",
+        "Artist": "Pope.L",
+        "Title": "Real Kitsch #5",
+        "Year": "1995",
+        "ObjectID": "217156",
+        "Work": "https://www.moma.org/collection/works/217156",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM4ODA1MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4dcbc3ce92cbfefc",
         "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "15 1/8 \u00d7 15 1/8\" (38.4 \u00d7 38.4 cm)",
-            "Credit": "The Family of Man Fund",
-            "Object number": "559.2022",
-            "Copyright": "\u00a9 2023 Reynaldo Rivera",
-            "Department": "Photography"
+            "Medium": "Photocopy, felt-tip pen, torn-and-pasted printed paper, wax, matches, and ink stamp on paper, in plastic sleeve",
+            "Dimensions": "18 \u00d7 24\" (45.7 \u00d7 61 cm)",
+            "Credit": "Anonymous gift",
+            "Object number": "1420.2016",
+            "Copyright": "\u00a9 2023 William Pope.L",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/134600"
+        "Profile": "https://www.moma.org/artists/37145"
     },
     {
-        "Artist": "Martha Rosler",
-        "Title": "How Do We Know What Home Looks Like? The Unite d'Habitation de Le Corbusier at Firminy",
-        "Year": "1993",
-        "ObjectID": "159806",
-        "Work": "https://www.moma.org/collection/works/159806",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NTAzOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=30710456176fcad6",
+        "Artist": "Ken Price",
+        "Title": "Phobia",
+        "Year": "1995",
+        "ObjectID": "100297",
+        "Work": "https://www.moma.org/collection/works/100297",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzODM3MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=37bf0c7cf89706af",
         "Details": {
-            "Medium": "Video (color, sound)",
-            "Duration": "31 min.",
-            "Credit": "Gift of the artist and Galerie Nagel, Berlin",
-            "Object number": "599.2012",
-            "Copyright": "\u00a9 2023 Martha Rosler",
-            "Department": "Media and Performance"
+            "Medium": "Synthetic polymer paint on fired clay",
+            "Dimensions": "17 x 23 x 18 1/2\" (43.2 x 58.4 x 47 cm)",
+            "Credit": "Gift of Edward R. Broida",
+            "Object number": "756.2005",
+            "Copyright": "\u00a9 2023 Ken Price",
+            "Department": "Painting and Sculpture"
         },
-        "Profile": "https://www.moma.org/artists/6832"
+        "Profile": "https://www.moma.org/artists/4734"
     },
     {
-        "Artist": "Martha Rosler",
-        "Title": "The Garden Spot of the World: Greenpoint, Brooklyn",
-        "Year": "1993",
-        "ObjectID": "159807",
-        "Work": "https://www.moma.org/collection/works/159807",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0MTM5NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=aeff977e8d6fe38b",
+        "Artist": "Richard Prince",
+        "Title": "Adult Comedy Action Drama",
+        "Year": "1995",
+        "ObjectID": "14216",
+        "Work": "https://www.moma.org/collection/works/14216",
+        "Thumbnail": null,
         "Details": {
-            "Medium": "Video (color, sound)",
-            "Duration": "19:24 min.",
-            "Credit": "Gift of the artist and Galerie Nagel, Berlin",
-            "Object number": "600.2012",
-            "Copyright": "\u00a9 2023 Martha Rosler",
-            "Department": "Media and Performance"
+            "Medium": "Artist's book",
+            "Publisher": "Scalo Publishers, Berlin, New York, Zurich",
+            "Credit": "Monroe Wheeler Fund",
+            "Object number": "243.1997",
+            "Copyright": "\u00a9 2023 Richard Prince",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/6832"
+        "Profile": "https://www.moma.org/artists/4741"
     },
     {
-        "Artist": "Judith Joy Ross",
-        "Title": "Student, Second Grade, Mrs. Gray's Class, Almira Elementary School, Cleveland, Ohio",
-        "Year": "1993",
-        "ObjectID": "51155",
-        "Work": "https://www.moma.org/collection/works/51155",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyNzU1MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b7a0c9e24d1a2596",
+        "Artist": "Ritva Puotila",
+        "Title": "Woodnotes Textile",
+        "Year": "1987-91",
+        "ObjectID": "2191",
+        "Work": "https://www.moma.org/collection/works/2191",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMzk2MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a98378e79210893d",
         "Details": {
-            "Medium": "Gelatin silver printing-out-paper print",
-            "Dimensions": "9 11/16 \u00d7 7 11/16\" (24.6 \u00d7 19.5 cm)",
-            "Credit": "Gift of Patricia Lawrence",
-            "Object number": "337.1993",
-            "Copyright": "\u00a9 2023 Judith Joy Ross",
-            "Department": "Photography"
+            "Manufacturer": "Woodnotes Oy, Helsinki",
+            "Medium": "Paper twine",
+            "Dimensions": ".1: 59 x 36 1/2\" (149.9 x 92.7 cm)\r\n.2: 59 1/4 x 36 1/2\" (150.5 x 92.7 cm)\r\n.3: 58 1/2 x 36 1/4\" (148.6 x 92.1 cm)\r\n.4: 57 x 36 1/4\" (144.8 x 92.1 cm)\r\n.5: 59 1/2 x 36 1/2\" (151.1 x 92.7 cm)\r\n.6: 18 1/4 x 14 1/4\" (46.4 x 36.2 cm)",
+            "Credit": "Gift of the manufacturer",
+            "Object number": "117.1996.1-6",
+            "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/5030"
-    },
-    {
-        "Artist": "Judith Joy Ross",
-        "Title": "Le Shaun Franklin, Gallagher Junior High School, Cleveland, Ohio",
-        "Year": "1993",
-        "ObjectID": "51209",
-        "Work": "https://www.moma.org/collection/works/51209",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyNzU1MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4e4bc785ed3adf68",
-        "Details": {
-            "Medium": "Gelatin silver printing-out-paper print",
-            "Dimensions": "9 11/16 \u00d7 7 11/16\" (24.6 \u00d7 19.6 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "338.1993",
-            "Copyright": "\u00a9 2023 Judith Joy Ross",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/5030"
-    },
-    {
-        "Artist": "Judith Joy Ross",
-        "Title": "Jackie Cieniawa, A.D. Thomas Elementary School, Hazleton, Pennsylvania",
-        "Year": "1993",
-        "ObjectID": "51256",
-        "Work": "https://www.moma.org/collection/works/51256",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyNzU1NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a3cc4586101f222b",
-        "Details": {
-            "Medium": "Gelatin silver printing-out-paper print",
-            "Dimensions": "9 3/4 \u00d7 7 3/4\" (24.8 \u00d7 19.7 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "340.1993",
-            "Copyright": "\u00a9 2023 Judith Joy Ross",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/5030"
-    },
-    {
-        "Artist": "Judith Joy Ross",
-        "Title": "Graduation, Hazleton High School Stadium, Hazleton, Pennsylvania",
-        "Year": "1993",
-        "ObjectID": "93550",
-        "Work": "https://www.moma.org/collection/works/93550",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NTQ2MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=24d638895924ea8e",
-        "Details": {
-            "Medium": "Gelatin silver printing-out-paper print",
-            "Dimensions": "9 3/4 \u00d7 7 11/16\" (24.7 \u00d7 19.5 cm)",
-            "Credit": "Gift of Heidi and Richard Rieger",
-            "Object number": "1958.2008",
-            "Copyright": "\u00a9 2023 Judith Joy Ross",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/5030"
-    },
-    {
-        "Artist": "Judith Joy Ross",
-        "Title": "Three Girls in Principal's Office, Hazleton High School, Hazleton, Pennsylvania",
-        "Year": "1993",
-        "ObjectID": "93557",
-        "Work": "https://www.moma.org/collection/works/93557",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM4NTA5NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=89090b53df84b39a",
-        "Details": {
-            "Medium": "Gelatin silver printing-out-paper print",
-            "Dimensions": "9 5/8 \u00d7 7 5/8\" (24.4 \u00d7 19.4 cm)",
-            "Credit": "Gift of Heidi and Richard Rieger",
-            "Object number": "1367.2016",
-            "Copyright": "\u00a9 2023 Judith Joy Ross",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/5030"
-    },
-    {
-        "Artist": "Judith Joy Ross",
-        "Title": "Mr. Robert Shanno, American History Teacher, Hazleton High School, Hazleton, Pennsylvania",
-        "Year": "1993",
-        "ObjectID": "93558",
-        "Work": "https://www.moma.org/collection/works/93558",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NTQ2MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1cbe7deb1f1d34d4",
-        "Details": {
-            "Medium": "Gelatin silver printing-out-paper print",
-            "Dimensions": "9 11/16 \u00d7 7 11/16\" (24.6 \u00d7 19.5 cm)",
-            "Credit": "Gift of Heidi and Richard Rieger",
-            "Object number": "1959.2008",
-            "Copyright": "\u00a9 2023 Judith Joy Ross",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/5030"
-    },
-    {
-        "Artist": "Judith Joy Ross",
-        "Title": "Randy Sartori, A.D. Thomas Elementary School, Hazleton, Pennsylvania",
-        "Year": "1993",
-        "ObjectID": "93580",
-        "Work": "https://www.moma.org/collection/works/93580",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM4NTA3NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7b44497c7ff982f7",
-        "Details": {
-            "Medium": "Gelatin silver printing-out-paper print",
-            "Dimensions": "9 5/8 \u00d7 7 5/8\" (24.4 \u00d7 19.4 cm)",
-            "Credit": "Gift of Heidi and Richard Rieger",
-            "Object number": "1373.2016",
-            "Copyright": "\u00a9 2023 Judith Joy Ross",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/5030"
-    },
-    {
-        "Artist": "Judith Joy Ross",
-        "Title": "Danielle McGeehan, A.D. Thomas Elementary School, Hazleton, Pennsylvania",
-        "Year": "1993",
-        "ObjectID": "93581",
-        "Work": "https://www.moma.org/collection/works/93581",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM4NTA4MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=40de145d0a836cde",
-        "Details": {
-            "Medium": "Gelatin silver printing-out-paper print",
-            "Dimensions": "9 5/8 \u00d7 7 5/8\" (24.4 \u00d7 19.4 cm)",
-            "Credit": "Gift of Heidi and Richard Rieger",
-            "Object number": "1374.2016",
-            "Copyright": "\u00a9 2023 Judith Joy Ross",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/5030"
-    },
-    {
-        "Artist": "Judith Joy Ross",
-        "Title": "Virginia Merola, A.D. Thomas Elementary School, Hazleton, Pennsylvania",
-        "Year": "1993",
-        "ObjectID": "93582",
-        "Work": "https://www.moma.org/collection/works/93582",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM4NTA5NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1a4ee3b2c13365a3",
-        "Details": {
-            "Medium": "Gelatin silver printing-out-paper print",
-            "Dimensions": "9 5/8 \u00d7 7 5/8\" (24.4 \u00d7 19.4 cm)",
-            "Credit": "Gift of Heidi and Richard Rieger",
-            "Object number": "1375.2016",
-            "Copyright": "\u00a9 2023 Judith Joy Ross",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/5030"
-    },
-    {
-        "Artist": "Judith Joy Ross",
-        "Title": "Micheal Bodner, A.D. Thomas Elementary School, Hazleton, Pennsylvania",
-        "Year": "1993",
-        "ObjectID": "93583",
-        "Work": "https://www.moma.org/collection/works/93583",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM4NTA4OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c5782c6757b4b5f0",
-        "Details": {
-            "Medium": "Gelatin silver printing-out-paper print",
-            "Dimensions": "9 5/8 \u00d7 7 5/8\" (24.4 \u00d7 19.4 cm)",
-            "Credit": "Gift of Heidi and Richard Rieger",
-            "Object number": "1376.2016",
-            "Copyright": "\u00a9 2023 Judith Joy Ross",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/5030"
-    },
-    {
-        "Artist": "Judith Joy Ross",
-        "Title": "Jason Bredbenner, A.D. Thomas Elementary School, Hazleton, Pennsylvania",
-        "Year": "1993",
-        "ObjectID": "93584",
-        "Work": "https://www.moma.org/collection/works/93584",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM4NTA1MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=498cb9e35765da18",
-        "Details": {
-            "Medium": "Gelatin silver printing-out-paper print",
-            "Dimensions": "9 5/8 \u00d7 7 5/8\" (24.4 \u00d7 19.4 cm)",
-            "Credit": "Gift of Heidi and Richard Rieger",
-            "Object number": "1377.2016",
-            "Copyright": "\u00a9 2023 Judith Joy Ross",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/5030"
-    },
-    {
-        "Artist": "Judith Joy Ross",
-        "Title": "Tara Schwenk, A.D. Thomas Elementary School, Hazleton, Pennsylvania",
-        "Year": "1993",
-        "ObjectID": "93585",
-        "Work": "https://www.moma.org/collection/works/93585",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM4NTA0OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=bde7fd982eb7a038",
-        "Details": {
-            "Medium": "Gelatin silver printing-out-paper print",
-            "Dimensions": "9 5/8 \u00d7 7 5/8\" (24.4 \u00d7 19.4 cm)",
-            "Credit": "Gift of Heidi and Richard Rieger",
-            "Object number": "1378.2016",
-            "Copyright": "\u00a9 2023 Judith Joy Ross",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/5030"
-    },
-    {
-        "Artist": "Judith Joy Ross",
-        "Title": "Mary Beth Gavio, A.D. Thomas Elementary School, Hazleton, Pennsylvania",
-        "Year": "1993",
-        "ObjectID": "93586",
-        "Work": "https://www.moma.org/collection/works/93586",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM4NTA2MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1ad907e5e1d3a8ae",
-        "Details": {
-            "Medium": "Gelatin silver printing-out-paper print",
-            "Dimensions": "9 5/8 \u00d7 7 5/8\" (24.4 \u00d7 19.4 cm)",
-            "Credit": "Gift of Heidi and Richard Rieger",
-            "Object number": "1379.2016",
-            "Copyright": "\u00a9 2023 Judith Joy Ross",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/5030"
-    },
-    {
-        "Artist": "Judith Joy Ross",
-        "Title": "Crystal Hunnsiger, A.D. Thomas Elementary School, Hazleton, Pennsylvania",
-        "Year": "1993",
-        "ObjectID": "93587",
-        "Work": "https://www.moma.org/collection/works/93587",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM4NTA4MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=000c80ec3b3d479d",
-        "Details": {
-            "Medium": "Gelatin silver printing-out-paper print",
-            "Dimensions": "9 5/8 \u00d7 7 5/8\" (24.4 \u00d7 19.4 cm)",
-            "Credit": "Gift of Heidi and Richard Rieger",
-            "Object number": "1380.2016",
-            "Copyright": "\u00a9 2023 Judith Joy Ross",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/5030"
-    },
-    {
-        "Artist": "Judith Joy Ross",
-        "Title": "Toiya Phillips, Almira Elementary School, Cleveland, Ohio",
-        "Year": "1993",
-        "ObjectID": "93613",
-        "Work": "https://www.moma.org/collection/works/93613",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM4NTA5OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=54eaaabcaaba130f",
-        "Details": {
-            "Medium": "Gelatin silver printing-out-paper print",
-            "Dimensions": "9 5/8 \u00d7 7 5/8\" (24.4 \u00d7 19.4 cm)",
-            "Credit": "Gift of Heidi and Richard Rieger",
-            "Object number": "1384.2016",
-            "Copyright": "\u00a9 2023 Judith Joy Ross",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/5030"
-    },
-    {
-        "Artist": "Judith Joy Ross",
-        "Title": "Olga Ivanov, Gallagher Junior High School, Cleveland, Ohio",
-        "Year": "1993",
-        "ObjectID": "93614",
-        "Work": "https://www.moma.org/collection/works/93614",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM4NTA0OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0d707aabdf01a3d4",
-        "Details": {
-            "Medium": "Gelatin silver printing-out-paper print",
-            "Dimensions": "9 5/8 \u00d7 7 5/8\" (24.4 \u00d7 19.4 cm)",
-            "Credit": "Gift of Heidi and Richard Rieger",
-            "Object number": "1385.2016",
-            "Copyright": "\u00a9 2023 Judith Joy Ross",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/5030"
-    },
-    {
-        "Artist": "Judith Joy Ross",
-        "Title": "Leda Foster, Gallagher Junior High School, Cleveland, Ohio",
-        "Year": "1993",
-        "ObjectID": "93615",
-        "Work": "https://www.moma.org/collection/works/93615",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0MjQ0NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c6e9827c313da1a1",
-        "Details": {
-            "Medium": "Gelatin silver printing-out-paper print",
-            "Dimensions": "9 9/16 \u00d7 7 11/16\" (24.3 \u00d7 19.5 cm)",
-            "Credit": "Gift of Heidi and Richard Rieger",
-            "Object number": "427.2012",
-            "Copyright": "\u00a9 2023 Judith Joy Ross",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/5030"
-    },
-    {
-        "Artist": "Judith Joy Ross",
-        "Title": "Robert Williams, Gallagher Junior High School, Cleveland, Ohio",
-        "Year": "1993",
-        "ObjectID": "93616",
-        "Work": "https://www.moma.org/collection/works/93616",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM4NTA1MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e3299f4844eb8d21",
-        "Details": {
-            "Medium": "Gelatin silver printing-out-paper print",
-            "Dimensions": "9 5/8 \u00d7 7 5/8\" (24.4 \u00d7 19.4 cm)",
-            "Credit": "Gift of Heidi and Richard Rieger",
-            "Object number": "1386.2016",
-            "Copyright": "\u00a9 2023 Judith Joy Ross",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/5030"
-    },
-    {
-        "Artist": "Judith Joy Ross",
-        "Title": "Vladimir Kushnir, Gallagher Junior High School, Cleveland, Ohio",
-        "Year": "1993",
-        "ObjectID": "93617",
-        "Work": "https://www.moma.org/collection/works/93617",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM4NTA1NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9fc948d3c905eb00",
-        "Details": {
-            "Medium": "Gelatin silver printing-out-paper print",
-            "Dimensions": "9 5/8 \u00d7 7 5/8\" (24.4 \u00d7 19.4 cm)",
-            "Credit": "Gift of Heidi and Richard Rieger",
-            "Object number": "1387.2016",
-            "Copyright": "\u00a9 2023 Judith Joy Ross",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/5030"
+        "Profile": "https://www.moma.org/artists/7510"
     }
 ]

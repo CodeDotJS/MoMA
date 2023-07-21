@@ -1,855 +1,863 @@
 [
     {
-        "Artist": "Vulcan",
-        "Title": "Vulcan",
-        "Year": "1986",
-        "ObjectID": "289448",
-        "Work": "https://www.moma.org/collection/works/289448",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ1MjE0MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ddd00f419b7aa9ce",
-        "Details": {
-            "Medium": "Pencil and pressure-sensitive tape on paper",
-            "Dimensions": "10 3/4 \u00d7 24\" (27.3 \u00d7 61 cm)",
-            "Credit": "Gift of the Gilbert B. and Lila Silverman Instruction Drawing Collection, Detroit",
-            "Object number": "1608.2018",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/31760"
-    },
-    {
-        "Artist": "Jo Ann Walters",
-        "Title": "Grand Rapids, Minnesota",
-        "Year": "1986",
-        "ObjectID": "53586",
-        "Work": "https://www.moma.org/collection/works/53586",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNjY4OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=09548c45fc8acc19",
-        "Details": {
-            "Medium": "Chromogenic print",
-            "Dimensions": "8 1/8 \u00d7 10\" (20.6 \u00d7 25.5 cm)",
-            "Credit": "E.T. Harmax Foundation Fund",
-            "Object number": "454.1988.x1-x2",
-            "Copyright": "\u00a9 2023 Jo Ann Walters",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/6237"
-    },
-    {
-        "Artist": "Andy Warhol",
-        "Title": "Joseph Beuys in Memoriam",
-        "Year": "1986",
-        "ObjectID": "71580",
-        "Work": "https://www.moma.org/collection/works/71580",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3OTM4MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0edf2685f501ae8e",
-        "Details": {
-            "Medium": "Screenprint",
-            "Dimensions": "composition and sheet: 31 7/8 x 24\" (81 x 61cm)",
-            "Publisher": "Edition Schellmann, Munich, Galerie Bernd Kl\u00fcser, Munich",
-            "Printer": "Rupert Jasen Smith Inc., New York",
-            "Edition": "90",
-            "Credit": "Mary Ellen Meehan Fund",
-            "Object number": "590.1994",
-            "Copyright": "\u00a9 2023 Andy Warhol Foundation for the Visual Arts / Artists Rights Society (ARS), New York",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/6246"
-    },
-    {
-        "Artist": "Andy Warhol",
-        "Title": "The Last Supper",
-        "Year": "1986",
-        "ObjectID": "79072",
-        "Work": "https://www.moma.org/collection/works/79072",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1OTE5MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=bd1a8e9ef9572358",
-        "Details": {
-            "Medium": "Synthetic polymer paint on canvas",
-            "Dimensions": "9' 11 1/4\" x 21' 11 1/4\" (302.9 x 668.7 cm)",
-            "Credit": "Gift of the Andy Warhol Foundation for the Visual Arts",
-            "Object number": "186.1994",
-            "Copyright": "\u00a9 2023 Andy Warhol Foundation for the Visual Arts / Artists Rights Society (ARS), New York",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/6246"
-    },
-    {
-        "Artist": "Hannah Wilke",
-        "Title": "Self-Portrait",
-        "Year": "January 8, 1986",
-        "ObjectID": "113870",
-        "Work": "https://www.moma.org/collection/works/113870",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNDYzOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=584f785f90624011",
-        "Details": {
-            "Medium": "Gouache on paper",
-            "Dimensions": "30 1/4 x 22 3/8\" (76.8 x 56.8 cm)",
-            "Credit": "Gift of Marsie, Emanuelle, Damon and Andrew Scharlatt -- The Hannah Wilke Collection and Archive Los Angeles in honor of Connie Butler",
-            "Object number": "1431.2007",
-            "Copyright": "\u00a9 2023 Marsie, Emanuelle, Damon and Andrew Scharlatt - Hannah Wilke Collection and Archive, Los Angeles",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/18539"
-    },
-    {
-        "Artist": "Robin Winters",
-        "Title": "Life Full of Holes",
-        "Year": "1986",
-        "ObjectID": "79104",
-        "Work": "https://www.moma.org/collection/works/79104",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzOTQ1MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=49bc5e762dfcf3c5",
-        "Details": {
-            "Medium": "Acrylic paint on canvas",
-            "Dimensions": "6' 1/8\" x 60\" (183.2 x 152.4 cm)",
-            "Credit": "The Millstream Fund",
-            "Object number": "195.1987",
-            "Copyright": "\u00a9 2023 Robin Winters",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/6407"
-    },
-    {
-        "Artist": "Terry Winters",
-        "Title": "Schema (55)",
-        "Year": "(1985-86)",
-        "ObjectID": "35422",
-        "Work": "https://www.moma.org/collection/works/35422",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4MDQ0OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b9bdd240b6c49c62",
-        "Details": {
-            "Medium": "Watercolor, gouache, and graphite on paper",
-            "Dimensions": "12 1/8 x 8 5/8\" (30.7 x 21.9 cm)",
-            "Credit": "Gift of Lily Auchincloss (by exchange) and of Richard E. Salomon",
-            "Object number": "230.1988",
-            "Copyright": "\u00a9 2023 Terry Winters",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/6408"
-    },
-    {
-        "Artist": "Terry Winters",
-        "Title": "Schema (63)",
-        "Year": "1985-86",
-        "ObjectID": "35426",
-        "Work": "https://www.moma.org/collection/works/35426",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyNzA4MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=edcde00918609239",
-        "Details": {
-            "Medium": "Oilstick and graphite on paper",
-            "Dimensions": "12 x 8 5/8\" (30.4 x 21.9 cm)",
-            "Credit": "Gift of Lily Auchincloss (by exchange) and of Richard E. Salomon",
-            "Object number": "231.1988",
-            "Copyright": "\u00a9 2023 Terry Winters",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/6408"
-    },
-    {
-        "Artist": "Terry Winters",
-        "Title": "Schema (65)",
-        "Year": "(1985-86)",
-        "ObjectID": "35432",
-        "Work": "https://www.moma.org/collection/works/35432",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMDgwNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b44dbab7e14bd387",
-        "Details": {
-            "Medium": "Watercolor and pencil on paper",
-            "Dimensions": "12 1/4 x 8 5/8\" (31.1 x 21.9 cm)",
-            "Credit": "Gift of Lily Auchincloss (by exchange) and of Richard E. Salomon",
-            "Object number": "232.1988",
-            "Copyright": "\u00a9 2023 Terry Winters",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/6408"
-    },
-    {
-        "Artist": "Terry Winters",
-        "Title": "Title page from Folio",
-        "Year": "1985-1986",
-        "ObjectID": "64461",
-        "Work": "https://www.moma.org/collection/works/64461",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMDY5NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fb2d4b790053ad26",
-        "Details": {
-            "Medium": "One from a portfolio of eleven lithographs",
-            "Dimensions": "composition (irreg.):  31 3/8 x 22 11/16\" (79.7 x 57.7 cm); sheet (irreg.): 31 3/8 x 22 11/16\" (79 x 57.7 cm)",
-            "Publisher": "Universal Limited Art Editions, West Islip, New York",
-            "Printer": "Universal Limited Art Editions, West Islip, New York",
-            "Edition": "39",
-            "Credit": "Gift of Emily Fisher Landau",
-            "Object number": "210.1986.1",
-            "Copyright": "\u00a9 2023 Terry Winters",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/6408"
-    },
-    {
-        "Artist": "Terry Winters",
-        "Title": "Folio",
-        "Year": "1985-1986",
-        "ObjectID": "64462",
-        "Work": "https://www.moma.org/collection/works/64462",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMDY5NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fb2d4b790053ad26",
-        "Details": {
-            "Medium": "Portfolio of eleven lithographs",
-            "Dimensions": "each approx. composition  31 7/16 x 22 11/16\" (79.9 x 57.7 cm)\r\neach approx. sheet  31 7/16 x 22 11/16\" (79 x 57.7 cm)",
-            "Publisher": "Universal Limited Art Editions, West Islip, New York",
-            "Printer": "Universal Limited Art Editions, West Islip, New York",
-            "Edition": "39; plus 6 A.P. and 1 P.P",
-            "Credit": "Gift of Emily Fisher Landau",
-            "Object number": "210.1986.1-11",
-            "Copyright": "\u00a9 2023 Terry Winters",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/6408"
-    },
-    {
-        "Artist": "Terry Winters",
-        "Title": "Nine from Folio",
-        "Year": "(1985-1986)",
-        "ObjectID": "64463",
-        "Work": "https://www.moma.org/collection/works/64463",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3OTQ0OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f3cf659b742302f9",
-        "Details": {
-            "Medium": "One from a portfolio of eleven lithographs",
-            "Dimensions": "sl. irreg. composition  31 1/16 x 22 9/16\" (78.9 x 57.4 cm)\r\nsl. irreg. sheet  31 1/16 x 22 9/16\" (78 x 57.4 cm)",
-            "Publisher": "Universal Limited Art Editions, West Islip, New York",
-            "Printer": "Universal Limited Art Editions, West Islip, New York",
-            "Edition": "39",
-            "Credit": "Gift of Emily Fisher Landau",
-            "Object number": "210.1986.10",
-            "Copyright": "\u00a9 2023 Terry Winters",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/6408"
-    },
-    {
-        "Artist": "Terry Winters",
-        "Title": "Colophon page from Folio",
-        "Year": "(1985-1986)",
-        "ObjectID": "64464",
-        "Work": "https://www.moma.org/collection/works/64464",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3OTQ0OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0d4f26d9bc2ae1f6",
-        "Details": {
-            "Medium": "One from a portfolio of eleven lithographs",
-            "Dimensions": "irreg. composition  29 9/16 x 22 9/16\" (75.1 x 57.3 cm)\r\nsl. irreg. sheet  31 5/8 x 22 9/16\" (80 x 57.3 cm)",
-            "Publisher": "Universal Limited Art Editions, West Islip, New York",
-            "Printer": "Universal Limited Art Editions, West Islip, New York",
-            "Edition": "39; plus 6 A.P. and 1 P.P",
-            "Credit": "Gift of Emily Fisher Landau",
-            "Object number": "210.1986.11",
-            "Copyright": "\u00a9 2023 Terry Winters",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/6408"
-    },
-    {
-        "Artist": "Terry Winters",
-        "Title": "One from Folio",
-        "Year": "(1985-1986)",
-        "ObjectID": "64465",
-        "Work": "https://www.moma.org/collection/works/64465",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMDY5OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ad1320c548fa9dd7",
-        "Details": {
-            "Medium": "One from a portfolio of eleven lithographs",
-            "Dimensions": "irreg. composition  27 3/16 x 22 1/2\" (69.1 x 57.1 cm)\r\nsheet  30 11/16 x 22 1/2\" (78 x 57.1 cm)",
-            "Publisher": "Universal Limited Art Editions, West Islip, New York",
-            "Printer": "Universal Limited Art Editions, West Islip, New York",
-            "Edition": "39",
-            "Credit": "Gift of Emily Fisher Landau",
-            "Object number": "210.1986.2",
-            "Copyright": "\u00a9 2023 Terry Winters",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/6408"
-    },
-    {
-        "Artist": "Terry Winters",
-        "Title": "Two from Folio",
-        "Year": "(1985-1986)",
-        "ObjectID": "64466",
-        "Work": "https://www.moma.org/collection/works/64466",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3OTQ1MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0e93bbb3ee199caa",
-        "Details": {
-            "Medium": "One from a portfolio of eleven lithographs",
-            "Dimensions": "composition  30 7/8 x 22 5/8\" (78.4 x 57.5 cm)\r\nsheet  30 7/8 x 22 5/8\" (78 x 57.5 cm)",
-            "Publisher": "Universal Limited Art Editions, West Islip, New York",
-            "Printer": "Universal Limited Art Editions, West Islip, New York",
-            "Edition": "39; plus 6 A.P. and 1 P.P",
-            "Credit": "Gift of Emily Fisher Landau",
-            "Object number": "210.1986.3",
-            "Copyright": "\u00a9 2023 Terry Winters",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/6408"
-    },
-    {
-        "Artist": "Terry Winters",
-        "Title": "Three from Folio",
-        "Year": "(1985-1986)",
-        "ObjectID": "64467",
-        "Work": "https://www.moma.org/collection/works/64467",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3OTQ1MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ccaef32735f1fcb9",
-        "Details": {
-            "Medium": "One from a portfolio of eleven lithographs",
-            "Dimensions": "composition  30 9/16 x 22 7/16\" (77.7 x 57 cm)\r\nsheet  30 9/16 x 22 7/16\" (77 x 57 cm)",
-            "Publisher": "Universal Limited Art Editions, West Islip, New York",
-            "Printer": "Universal Limited Art Editions, West Islip, New York",
-            "Edition": "39; plus 6 A.P. and 1 P.P",
-            "Credit": "Gift of Emily Fisher Landau",
-            "Object number": "210.1986.4",
-            "Copyright": "\u00a9 2023 Terry Winters",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/6408"
-    },
-    {
-        "Artist": "Terry Winters",
-        "Title": "Four from Folio",
-        "Year": "(1985-1986)",
-        "ObjectID": "64468",
-        "Work": "https://www.moma.org/collection/works/64468",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3OTQ1MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ccaabc5e490d0212",
-        "Details": {
-            "Medium": "One from a portfolio of eleven lithographs",
-            "Dimensions": "composition  30 11/16 x 22 7/16\" (78 x 57 cm)\r\nsheet  30 11/16 x 22 7/16\" (78 x 57 cm)",
-            "Publisher": "Universal Limited Art Editions, West Islip, New York",
-            "Printer": "Universal Limited Art Editions, West Islip, New York",
-            "Edition": "39",
-            "Credit": "Gift of Emily Fisher Landau",
-            "Object number": "210.1986.5",
-            "Copyright": "\u00a9 2023 Terry Winters",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/6408"
-    },
-    {
-        "Artist": "Terry Winters",
-        "Title": "Five from Folio",
-        "Year": "(1985-1986)",
-        "ObjectID": "64469",
-        "Work": "https://www.moma.org/collection/works/64469",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3OTQ1MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0c1c276458f2f2af",
-        "Details": {
-            "Medium": "One from a portfolio of eleven lithographs",
-            "Dimensions": "sl. irreg. composition  30 15/16 x 22 1/2\" (78.6 x 57.2 cm)\r\nsl. irreg. sheet  30 15/16 x 22 1/2\" (78 x 57.2 cm)",
-            "Publisher": "Universal Limited Art Editions, West Islip, New York",
-            "Printer": "Universal Limited Art Editions, West Islip, New York",
-            "Edition": "39; plus 6 A.P. and 1 P.P",
-            "Credit": "Gift of Emily Fisher Landau",
-            "Object number": "210.1986.6",
-            "Copyright": "\u00a9 2023 Terry Winters",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/6408"
-    },
-    {
-        "Artist": "Terry Winters",
-        "Title": "Six from Folio",
-        "Year": "(1985-86)",
-        "ObjectID": "64470",
-        "Work": "https://www.moma.org/collection/works/64470",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3OTQ1NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=965e3d029a18f7ff",
-        "Details": {
-            "Medium": "One from a portfolio of eleven lithographs",
-            "Dimensions": "composition and sheet: 30 15/16 x 22 3/4\" (78.6 x 57.8 cm)",
-            "Publisher": "Universal Limited Art Editions, West Islip, New York, West Islip, N.Y.",
-            "Printer": "Universal Limited Art Editions, West Islip, New York, West Islip, N.Y.",
-            "Edition": "39",
-            "Credit": "Gift of Emily Fisher Landau",
-            "Object number": "210.1986.7",
-            "Copyright": "\u00a9 2023 Terry Winters",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/6408"
-    },
-    {
-        "Artist": "Terry Winters",
-        "Title": "Seven from Folio",
-        "Year": "(1985-1986)",
-        "ObjectID": "64471",
-        "Work": "https://www.moma.org/collection/works/64471",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3OTQ1NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=079cfeb8489fdd97",
-        "Details": {
-            "Medium": "One from a portfolio of eleven lithographs",
-            "Dimensions": "sl. irreg. composition  31 1/8 x 22 5/8\" (79 x 57.5 cm)\r\nsl. irreg. sheet  31 1/8 x 22 5/8\" (79 x 57.5 cm)",
-            "Publisher": "Universal Limited Art Editions, West Islip, New York",
-            "Printer": "Universal Limited Art Editions, West Islip, New York",
-            "Edition": "39",
-            "Credit": "Gift of Emily Fisher Landau",
-            "Object number": "210.1986.8",
-            "Copyright": "\u00a9 2023 Terry Winters",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/6408"
-    },
-    {
-        "Artist": "Terry Winters",
-        "Title": "Eight from Folio",
-        "Year": "(1985-1986)",
-        "ObjectID": "64472",
-        "Work": "https://www.moma.org/collection/works/64472",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3OTQ1NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=13e2562f456c8728",
-        "Details": {
-            "Medium": "One from a portfolio of eleven lithographs",
-            "Dimensions": "sl. irreg composition  30 11/16 x 22 1/2\" (78 x 57.2 cm)\r\nsl. irreg. sheet  30 11/16 x 22 1/2\" (78 x 57.2 cm)",
-            "Publisher": "Universal Limited Art Editions, West Islip, New York",
-            "Printer": "Universal Limited Art Editions, West Islip, New York",
-            "Edition": "39; plus 6 A.P. and 1 P.P",
-            "Credit": "Gift of Emily Fisher Landau",
-            "Object number": "210.1986.9",
-            "Copyright": "\u00a9 2023 Terry Winters",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/6408"
-    },
-    {
-        "Artist": "Terry Winters",
-        "Title": "Conjugation",
-        "Year": "1986",
-        "ObjectID": "84196",
-        "Work": "https://www.moma.org/collection/works/84196",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQwMzY2NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ba20203a467e4b73",
-        "Details": {
-            "Medium": "Oil on linen",
-            "Dimensions": "7' 1\" x 9' 2\" (215.9 x 279.4 cm)",
-            "Credit": "Gift of UBS",
-            "Object number": "112.2002",
-            "Copyright": "\u00a9 2023 Terry Winters",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/6408"
-    },
-    {
-        "Artist": "Frederick Wiseman",
-        "Title": "Adjustment and Work",
-        "Year": "1986",
-        "ObjectID": "320296",
-        "Work": "https://www.moma.org/collection/works/320296",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE0NDQxMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f764b08bcacceeb1",
-        "Details": {
-            "Object number": "W20686",
-            "Department": "Film"
-        },
-        "Profile": "https://www.moma.org/artists/34062"
-    },
-    {
-        "Artist": "Sylvia Wolf",
+        "Artist": "Toshiro Maeda",
         "Title": "Untitled",
-        "Year": "1986",
-        "ObjectID": "45698",
-        "Work": "https://www.moma.org/collection/works/45698",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQyODE1NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1826249e4063961e",
+        "Year": "n.d.",
+        "ObjectID": "65806",
+        "Work": "https://www.moma.org/collection/works/65806",
+        "Thumbnail": null,
         "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "12 3/8 \u00d7 18 1/2\" (31.5 \u00d7 47 cm)",
-            "Credit": "E.T. Harmax Foundation Fund",
-            "Object number": "74.1989",
-            "Copyright": "\u00a9 2023 Sylvia Wolf",
-            "Department": "Photography"
+            "Medium": "Etching",
+            "Credit": "Sally Ann Epstein Fund",
+            "Object number": "274.1989",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/6428"
+        "Profile": "https://www.moma.org/artists/3681"
     },
     {
-        "Artist": "Sylvia Wolf",
+        "Artist": "Toshiro Maeda",
         "Title": "Untitled",
-        "Year": "1986",
-        "ObjectID": "45721",
-        "Work": "https://www.moma.org/collection/works/45721",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0MDAzOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3a177016066bc3d7",
+        "Year": "n.d.",
+        "ObjectID": "65831",
+        "Work": "https://www.moma.org/collection/works/65831",
+        "Thumbnail": null,
         "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "18 11/16 \u00d7 12 9/16\" (47.5 \u00d7 31.9 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "75.1989",
-            "Copyright": "\u00a9 2023 Sylvia Wolf",
-            "Department": "Photography"
+            "Medium": "Etching",
+            "Credit": "Sally Ann Epstein Fund",
+            "Object number": "275.1989",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/6428"
+        "Profile": "https://www.moma.org/artists/3681"
     },
     {
-        "Artist": "Jeffrey Wolin",
-        "Title": "My Father",
-        "Year": "1986",
-        "ObjectID": "51701",
-        "Work": "https://www.moma.org/collection/works/51701",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0MDgyOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a0214082b2f931d2",
-        "Details": {
-            "Medium": "Gelatin silver print (with hand-applied ink marker)",
-            "Dimensions": "14 5/8 \u00d7 18 5/8\" (37.1 \u00d7 47.3 cm)",
-            "Credit": "Polaroid Foundation Fund",
-            "Object number": "358.1990",
-            "Copyright": "\u00a9 2023 Jeffrey Wolin",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/6431"
-    },
-    {
-        "Artist": "Christopher Wool",
+        "Artist": "Toshiro Maeda",
         "Title": "Untitled",
-        "Year": "1986",
-        "ObjectID": "35386",
-        "Work": "https://www.moma.org/collection/works/35386",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5NDkzMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=89044b1df95fd8b5",
+        "Year": "n.d.",
+        "ObjectID": "65846",
+        "Work": "https://www.moma.org/collection/works/65846",
+        "Thumbnail": null,
         "Details": {
-            "Medium": "Enamel on paper",
-            "Dimensions": "11 x 17\" (27.9 x 43.2 cm)",
-            "Credit": "Gift of Luhring Augustine Gallery",
-            "Object number": "224.1992",
-            "Copyright": "\u00a9 2023 Christopher Wool",
+            "Medium": "Etching",
+            "Credit": "Sally Ann Epstein Fund",
+            "Object number": "276.1989",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/6448"
+        "Profile": "https://www.moma.org/artists/3681"
     },
     {
-        "Artist": "Xerox Palo Alto Research Center, Palo Alto, CA",
-        "Title": "Diagram of an Application-Specific Integrated Circuit (ASIC), Test Chip",
-        "Year": "1986",
-        "ObjectID": "4321",
-        "Work": "https://www.moma.org/collection/works/4321",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MjI0NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f9d75586482e56f6",
+        "Artist": "Anna Maria Maiolino",
+        "Title": "Piccole Note",
+        "Year": "1985-89",
+        "ObjectID": "82541",
+        "Work": "https://www.moma.org/collection/works/82541",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzNzY3MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=44632fe13a1bf846",
         "Details": {
-            "Manufacturer": "Xerox Palo Alto Research Center, Palo Alto, CA",
-            "Medium": "Computer-generated plot on paper",
-            "Dimensions": "92 1/2 x 42 1/2\" (235 x 108 cm)",
-            "Credit": "Gift of the manufacturer",
-            "Object number": "527.1990",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/10983"
-    },
-    {
-        "Artist": "Tadanori Yokoo",
-        "Title": "Tadanori Yokoo",
-        "Year": "1986",
-        "ObjectID": "5077",
-        "Work": "https://www.moma.org/collection/works/5077",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyNzAzNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=50ed65f622d13ed3",
-        "Details": {
-            "Medium": "Silkscreen",
-            "Dimensions": "40 1/2 x 28 9/16\" (102.8 x 72.5 cm)",
-            "Credit": "Gift of the designer",
-            "Object number": "101.1990",
-            "Copyright": "\u00a9 2023 Tadanori Yokoo",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/6502"
-    },
-    {
-        "Artist": "Janice Yudell",
-        "Title": "Death (folio 43) from Eye Magazine #14 \"Cobalt Myth Mechanics\"",
-        "Year": "1986",
-        "ObjectID": "298541",
-        "Work": "https://www.moma.org/collection/works/298541",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ1NTk2OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b11fb57d6f408e5c",
-        "Details": {
-            "Medium": "Spiral bound periodical with works by various artists",
-            "Dimensions": "composition: 9 15/16 \u00d7 6 5/16\" (25.3 \u00d7 16.1 cm); page: 11 \u00d7 8 1/2\" (28 \u00d7 21.6 cm)",
-            "Publisher": "Eye Publications, New York",
-            "Edition": "200 announced, approx. 150 printed",
-            "Credit": "Henry Church Fund (by exchange)",
-            "Object number": "702.2015.15",
-            "Illustrated book": "Eye Magazine #14 \"Cobalt Myth Mechanics\"",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/48542"
-    },
-    {
-        "Artist": "John Zax",
-        "Title": "Untitled (folio 45) from Eye Magazine #14 \"Cobalt Myth Mechanics\"",
-        "Year": "1986",
-        "ObjectID": "298542",
-        "Work": "https://www.moma.org/collection/works/298542",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ1NTk3MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2fb884cd1cdcdf74",
-        "Details": {
-            "Medium": "Spiral bound periodical with works by various artists",
-            "Dimensions": "composition: 9 1/2 \u00d7 7\" (24.1 \u00d7 17.8 cm); page: 11 \u00d7 8 1/2\" (28 \u00d7 21.6 cm)",
-            "Publisher": "Eye Publications, New York",
-            "Edition": "200 announced, approx. 150 printed",
-            "Credit": "Henry Church Fund (by exchange)",
-            "Object number": "702.2015.16",
-            "Illustrated book": "Eye Magazine #14 \"Cobalt Myth Mechanics\"",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/48543"
-    },
-    {
-        "Artist": "Bruno Zehnder",
-        "Title": "Emperor Penguin Adult with Chicks, Cape Washington, Antarctica",
-        "Year": "1986",
-        "ObjectID": "50624",
-        "Work": "https://www.moma.org/collection/works/50624",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwNjMxNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f568db23ba7fda09",
-        "Details": {
-            "Medium": "Silver dye bleach print",
-            "Dimensions": "13 7/8 \u00d7 20 7/16\" (35.2 \u00d7 51.9 cm)",
+            "Medium": "Ink on paper",
+            "Dimensions": "8 5/8 x 12 3/8\" (21.9 x 31.4 cm)",
             "Credit": "Purchase",
-            "Object number": "317.1988",
-            "Copyright": "\u00a9 2023 Estate of Bruno Zehnder",
-            "Department": "Photography"
+            "Object number": "2423.2001.3",
+            "Copyright": "\u00a9 2023 Anna Maria Maiolino",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/6553"
+        "Profile": "https://www.moma.org/artists/8477"
     },
     {
-        "Artist": "Alexander Zossimov",
-        "Title": "Club",
-        "Year": "1986",
-        "ObjectID": "290065",
-        "Work": "https://www.moma.org/collection/works/290065",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ0MzA3MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a916897269f90571",
+        "Artist": "Anna Maria Maiolino",
+        "Title": "Piccole Note",
+        "Year": "1989",
+        "ObjectID": "82561",
+        "Work": "https://www.moma.org/collection/works/82561",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzNzY3MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=341bdcf9d33c5190",
         "Details": {
-            "Medium": "Pencil on paper",
-            "Dimensions": "11 13/16 \u00d7 17 11/16\" (30 \u00d7 45 cm)",
-            "Credit": "Committee on Architecture and Design Funds",
-            "Object number": "784.2018",
-            "Copyright": "\u00a9 2023 Alexander Zossimov",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/74791"
-    },
-    {
-        "Artist": "John Adams",
-        "Title": "Intellectual Properties",
-        "Year": "1985",
-        "ObjectID": "120147",
-        "Work": "https://www.moma.org/collection/works/120147",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNTEwNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c66897616ebb3a36",
-        "Details": {
-            "Medium": "16mm film transferred to video (black and white and color, sound)",
-            "Duration": "58 min.",
+            "Medium": "Ink on paper",
+            "Dimensions": "12 3/8 x 8 5/8\" (31.4 x 21.9 cm)",
             "Credit": "Purchase",
-            "Object number": "486.1986",
-            "Copyright": "\u00a9 2023 John Adams",
-            "Department": "Media and Performance"
+            "Object number": "2423.2001.23",
+            "Copyright": "\u00a9 2023 Anna Maria Maiolino",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/35530"
+        "Profile": "https://www.moma.org/artists/8477"
     },
     {
-        "Artist": "Robert Adams",
-        "Title": "Summer Nights No. 18",
-        "Year": "1985",
-        "ObjectID": "48360",
-        "Work": "https://www.moma.org/collection/works/48360",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzOTg1MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7c3742783ac4f257",
+        "Artist": "Anna Maria Maiolino",
+        "Title": "Piccole Note",
+        "Year": "1989",
+        "ObjectID": "82562",
+        "Work": "https://www.moma.org/collection/works/82562",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzNzY3MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3f890d9ff319bd4c",
         "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "15 1/8 \u00d7 14 15/16\" (38.4 \u00d7 38 cm)",
-            "Credit": "Gift of Jeffrey Fraenkel",
-            "Object number": "200.1989",
-            "Copyright": "\u00a9 2023 Robert Adams, courtesy Fraenkel Gallery, San Francisco",
-            "Department": "Photography"
+            "Medium": "Ink on paper",
+            "Dimensions": "12 3/8 x 8 5/8\" (31.4 x 21.9 cm)",
+            "Credit": "Purchase",
+            "Object number": "2423.2001.24",
+            "Copyright": "\u00a9 2023 Anna Maria Maiolino",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/66"
+        "Profile": "https://www.moma.org/artists/8477"
     },
     {
-        "Artist": "Joan Albert",
-        "Title": "Martin at Twenty",
-        "Year": "May 1985",
-        "ObjectID": "50298",
-        "Work": "https://www.moma.org/collection/works/50298",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0MDc3MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0256cd3c58b99d17",
+        "Artist": "Robert Mangold",
+        "Title": "Untitled",
+        "Year": "(1989)",
+        "ObjectID": "63304",
+        "Work": "https://www.moma.org/collection/works/63304",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwNTY4OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d18fea5e415afd30",
         "Details": {
-            "Medium": "Gelatin silver print (toned)",
-            "Dimensions": "8 3/4 \u00d7 11 1/4\" (22.2 \u00d7 28.6 cm)",
-            "Credit": "Gift of Pierre N. Leval",
-            "Object number": "304.1997",
-            "Copyright": "\u00a9 2023 Joan Albert",
-            "Department": "Photography"
+            "Medium": "Series of four woodcuts",
+            "Publisher": "Brooke Alexander, Inc., New York",
+            "Edition": "10 artist's proofs outside an edition of 40",
+            "Credit": "Gift of Brooke and Carolyn Alexander",
+            "Object number": "160.1994.1-4",
+            "Copyright": "\u00a9 2023 Robert Mangold / Artists Rights Society (ARS), New York",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/99"
+        "Profile": "https://www.moma.org/artists/3723"
     },
     {
-        "Artist": "Albrecht/d.",
-        "Title": "Abstract Energy",
-        "Year": "1985",
-        "ObjectID": "183803",
-        "Work": "https://www.moma.org/collection/works/183803",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM3NjQ5NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fb948dcf4b98b65f",
+        "Artist": "Robert Mangold",
+        "Title": "Pages #1 from Pages",
+        "Year": "1989",
+        "ObjectID": "64292",
+        "Work": "https://www.moma.org/collection/works/64292",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4OTc5OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=99b861d9af2fdb91",
         "Details": {
-            "Medium": "12-inch vinyl record",
-            "Dimensions": "cover: 12 1/4 \u00d7 12 1/2\" (31.1 \u00d7 31.8 cm)",
-            "Publisher": "Samadhi Records",
+            "Medium": "Drypoint and etching from a portfolio of ten drypoints (seven with etching) and two etchings (one with aquatint)",
+            "Dimensions": "plate: 9 x 10 1/8\" (22.8 x 25.7 cm); sheet: 13 3/4 x 13 15/16\" (35 x 35.4 cm)",
+            "Publisher": "Simmelink/Sukimoto Editions, Los Angeles",
+            "Printer": "Simmelink/Sukimoto Editions, Los Angeles",
+            "Edition": "40",
+            "Credit": "Donald B. Marron Fund and Purchase",
+            "Object number": "199.1990.1",
+            "Copyright": "\u00a9 2023 Robert Mangold / Artists Rights Society (ARS), New York",
+            "Portfolio": "Pages",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3723"
+    },
+    {
+        "Artist": "Robert Mangold",
+        "Title": "Pages",
+        "Year": "1989",
+        "ObjectID": "64293",
+        "Work": "https://www.moma.org/collection/works/64293",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4OTgwMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d90afa37e189d15d",
+        "Details": {
+            "Medium": "Portfolio of ten drypoints (seven with etching) and two etchings (one with aquatint)",
+            "Dimensions": "plate (each approx.): 9 \u00d7 10 1/8\" (22.8 \u00d7 25.7 cm); sheet (each approx.): 13 3/4 \u00d7 13 15/16\" (35 \u00d7 35.4 cm)",
+            "Publisher": "Simmelink/Sukimoto Editions, Los Angeles",
+            "Printer": "Simmelink/Sukimoto Editions, Los Angeles",
+            "Edition": "40",
+            "Credit": "Donald B. Marron Fund and Purchase",
+            "Object number": "199.1990.1-12",
+            "Copyright": "\u00a9 2023 Robert Mangold / Artists Rights Society (ARS), New York",
+            "Type": "Portfolio",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3723"
+    },
+    {
+        "Artist": "Robert Mangold",
+        "Title": "Pages #10 from Pages",
+        "Year": "1989",
+        "ObjectID": "64294",
+        "Work": "https://www.moma.org/collection/works/64294",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4OTgwMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=743c0333a082d6fd",
+        "Details": {
+            "Medium": "Drypoint and etching from a portfolio of ten drypoints (seven with etching) and two etchings (one with aquatint)",
+            "Dimensions": "plate: 8 15/16 x 9 15/16\" (22.7 x 25.3 cm); sheet: 13 3/4 x 13 7/8\" (35 x 35.3 cm)",
+            "Publisher": "Simmelink/Sukimoto Editions, Los Angeles",
+            "Printer": "Simmelink/Sukimoto Editions, Los Angeles",
+            "Edition": "40",
+            "Credit": "Donald B. Marron Fund and Purchase",
+            "Object number": "199.1990.10",
+            "Copyright": "\u00a9 2023 Robert Mangold / Artists Rights Society (ARS), New York",
+            "Portfolio": "Pages",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3723"
+    },
+    {
+        "Artist": "Robert Mangold",
+        "Title": "Pages #11 from Pages",
+        "Year": "1989",
+        "ObjectID": "64295",
+        "Work": "https://www.moma.org/collection/works/64295",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4OTgwMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ef4861530c57f0d6",
+        "Details": {
+            "Medium": "Drypoint from a portfolio of ten drypoints (seven with etching) and two etchings (one with aquatint)",
+            "Dimensions": "plate: 9 x 9 15/16\" (22.9 x 25.3 cm); sheet (irreg.): 13 3/4 x 13 15/16\" (35 x 35.4 cm)",
+            "Publisher": "Simmelink/Sukimoto Editions, Los Angeles",
+            "Printer": "Simmelink/Sukimoto Editions, Los Angeles",
+            "Edition": "40",
+            "Credit": "Donald B. Marron Fund and Purchase",
+            "Object number": "199.1990.11",
+            "Copyright": "\u00a9 2023 Robert Mangold / Artists Rights Society (ARS), New York",
+            "Portfolio": "Pages",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3723"
+    },
+    {
+        "Artist": "Robert Mangold",
+        "Title": "Pages #12 from Pages",
+        "Year": "1989",
+        "ObjectID": "64296",
+        "Work": "https://www.moma.org/collection/works/64296",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4OTgwMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=54aa67852c0ec4ab",
+        "Details": {
+            "Medium": "Drypoint and etching from a portfolio of ten drypoints (seven with etching) and two etchings (one with aquatint)",
+            "Dimensions": "plate: 9 x 10\" (22.8 x 25.4 cm); sheet: 13 3/4 x 13 7/8\" (35 x 35.3 cm)",
+            "Publisher": "Simmelink/Sukimoto Editions, Los Angeles",
+            "Printer": "Simmelink/Sukimoto Editions, Los Angeles",
+            "Edition": "40",
+            "Credit": "Donald B. Marron Fund and Purchase",
+            "Object number": "199.1990.12",
+            "Copyright": "\u00a9 2023 Robert Mangold / Artists Rights Society (ARS), New York",
+            "Portfolio": "Pages",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3723"
+    },
+    {
+        "Artist": "Robert Mangold",
+        "Title": "Pages #2 from Pages",
+        "Year": "1989",
+        "ObjectID": "64297",
+        "Work": "https://www.moma.org/collection/works/64297",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4OTgwNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=bf50f9dfaadc87c2",
+        "Details": {
+            "Medium": "Drypoint and etching from a portfolio of ten drypoints (seven with etching) and two etchings (one with aquatint)",
+            "Dimensions": "plate: 9 x 10\" (22.9 x 25.4 cm); sheet: 13 3/4 x 13 7/8\" (35 x 35.3 cm)",
+            "Publisher": "Simmelink/Sukimoto Editions, Los Angeles",
+            "Printer": "Simmelink/Sukimoto Editions, Los Angeles",
+            "Edition": "40",
+            "Credit": "Donald B. Marron Fund and Purchase",
+            "Object number": "199.1990.2",
+            "Copyright": "\u00a9 2023 Robert Mangold / Artists Rights Society (ARS), New York",
+            "Portfolio": "Pages",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3723"
+    },
+    {
+        "Artist": "Robert Mangold",
+        "Title": "Pages #3 from Pages",
+        "Year": "1989",
+        "ObjectID": "64298",
+        "Work": "https://www.moma.org/collection/works/64298",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4OTgwNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=33595b5e025be9a6",
+        "Details": {
+            "Medium": "Drypoint from a portfolio of ten drypoints (seven with etching) and two etchings (one with aquatint)",
+            "Dimensions": "plate: 8 15/16 x 9 15/16\" (22.7 x 25.3 cm); sheet: 13 3/4 x 13 15/16\" (35 x 35.4 cm)",
+            "Publisher": "Simmelink/Sukimoto Editions, Los Angeles",
+            "Printer": "Simmelink/Sukimoto Editions, Los Angeles",
+            "Edition": "40",
+            "Credit": "Donald B. Marron Fund and Purchase",
+            "Object number": "199.1990.3",
+            "Copyright": "\u00a9 2023 Robert Mangold / Artists Rights Society (ARS), New York",
+            "Portfolio": "Pages",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3723"
+    },
+    {
+        "Artist": "Robert Mangold",
+        "Title": "Pages #4 from Pages",
+        "Year": "1989",
+        "ObjectID": "64299",
+        "Work": "https://www.moma.org/collection/works/64299",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4OTgwNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=59244bd79b00506f",
+        "Details": {
+            "Medium": "Drypoint and etching from a portfolio of ten drypoints (seven with etching) and two etchings (one with aquatint)",
+            "Dimensions": "plate: 8 7/8 x 9 7/8\" (22.6 x 25.1 cm); sheet: 13 3/4 x 13 7/8\" (35 x 35.3 cm)",
+            "Publisher": "Simmelink/Sukimoto Editions, Los Angeles",
+            "Printer": "Simmelink/Sukimoto Editions, Los Angeles",
+            "Edition": "40",
+            "Credit": "Donald B. Marron Fund and Purchase",
+            "Object number": "199.1990.4",
+            "Copyright": "\u00a9 2023 Robert Mangold / Artists Rights Society (ARS), New York",
+            "Portfolio": "Pages",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3723"
+    },
+    {
+        "Artist": "Robert Mangold",
+        "Title": "Pages #5 from Pages",
+        "Year": "1989",
+        "ObjectID": "64300",
+        "Work": "https://www.moma.org/collection/works/64300",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4OTgwNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=eb6dd7465cf888c8",
+        "Details": {
+            "Medium": "Drypoint and etching from a portfolio of ten drypoints (seven with etching) and two etchings (one with aquatint)",
+            "Dimensions": "plate: 8 7/8 x 9 15/16\" (22.6 x 25.2 cm); sheet: 13 3/4 x 13 7/8\" (35 x 35.3 cm)",
+            "Publisher": "Simmelink/Sukimoto Editions, Los Angeles",
+            "Printer": "Simmelink/Sukimoto Editions, Los Angeles",
+            "Edition": "40",
+            "Credit": "Donald B. Marron Fund and Purchase",
+            "Object number": "199.1990.5",
+            "Copyright": "\u00a9 2023 Robert Mangold / Artists Rights Society (ARS), New York",
+            "Portfolio": "Pages",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3723"
+    },
+    {
+        "Artist": "Robert Mangold",
+        "Title": "Pages #6 from Pages",
+        "Year": "1989",
+        "ObjectID": "64301",
+        "Work": "https://www.moma.org/collection/works/64301",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4OTgwOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=78fb09ae26941b4e",
+        "Details": {
+            "Medium": "Etching from a portfolio of ten drypoints (seven with etching) and two etchings (one with aquatint)",
+            "Dimensions": "plate: 9 x 9 15/16\" (22.8 x 25.3 cm); sheet: 13 3/4 x 13 15/16\" (35 x 35.4 cm)",
+            "Publisher": "Simmelink/Sukimoto Editions, Los Angeles",
+            "Printer": "Simmelink/Sukimoto Editions, Los Angeles",
+            "Edition": "40",
+            "Credit": "Donald B. Marron Fund and Purchase",
+            "Object number": "199.1990.6",
+            "Copyright": "\u00a9 2023 Robert Mangold / Artists Rights Society (ARS), New York",
+            "Portfolio": "Pages",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3723"
+    },
+    {
+        "Artist": "Robert Mangold",
+        "Title": "Pages #7 from Pages",
+        "Year": "1989",
+        "ObjectID": "64302",
+        "Work": "https://www.moma.org/collection/works/64302",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4OTgwOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e2f3ab6a37089628",
+        "Details": {
+            "Medium": "Drypoint from a portfolio of ten drypoints (seven with etching) and two etchings (one with aquatint)",
+            "Dimensions": "plate: 8 7/8 x 9 15/16\" (22.6 x 25.2 cm); sheet: 13 3/4 x 13 7/8\" (35 x 35.3 cm)",
+            "Publisher": "Simmelink/Sukimoto Editions, Los Angeles",
+            "Printer": "Simmelink/Sukimoto Editions, Los Angeles",
+            "Edition": "40",
+            "Credit": "Donald B. Marron Fund and Purchase",
+            "Object number": "199.1990.7",
+            "Copyright": "\u00a9 2023 Robert Mangold / Artists Rights Society (ARS), New York",
+            "Portfolio": "Pages",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3723"
+    },
+    {
+        "Artist": "Robert Mangold",
+        "Title": "Pages #8 from Pages",
+        "Year": "1989",
+        "ObjectID": "64303",
+        "Work": "https://www.moma.org/collection/works/64303",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4OTgxMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1e8e11054ea1105d",
+        "Details": {
+            "Medium": "Drypoint and etching from a portfolio of ten drypoints (seven with etching) and two etchings (one with aquatint)",
+            "Dimensions": "plate: 9 x 9 15/16\" (22.8 x 25.2 cm); sheet: 13 3/4 x 13 7/8\" (35 x 35.3 cm)",
+            "Publisher": "Simmelink/Sukimoto Editions, Los Angeles",
+            "Printer": "Simmelink/Sukimoto Editions, Los Angeles",
+            "Edition": "40",
+            "Credit": "Donald B. Marron Fund and Purchase",
+            "Object number": "199.1990.8",
+            "Copyright": "\u00a9 2023 Robert Mangold / Artists Rights Society (ARS), New York",
+            "Portfolio": "Pages",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3723"
+    },
+    {
+        "Artist": "Robert Mangold",
+        "Title": "Pages #9 from Pages",
+        "Year": "1989",
+        "ObjectID": "64304",
+        "Work": "https://www.moma.org/collection/works/64304",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4OTgxMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9d7c0308997e804e",
+        "Details": {
+            "Medium": "Etching and aquatint from a portfolio of ten drypoints (seven with etching) and two etchings (one with aquatint)",
+            "Dimensions": "plate: 8 7/8 x 9 15/16\" (22.6 x 25.2 cm); sheet: 13 3/4 x 13 7/8\" (35 x 35.2 cm)",
+            "Publisher": "Simmelink/Sukimoto Editions, Los Angeles",
+            "Printer": "Simmelink/Sukimoto Editions, Los Angeles",
+            "Edition": "40",
+            "Credit": "Donald B. Marron Fund and Purchase",
+            "Object number": "199.1990.9",
+            "Copyright": "\u00a9 2023 Robert Mangold / Artists Rights Society (ARS), New York",
+            "Portfolio": "Pages",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3723"
+    },
+    {
+        "Artist": "Christian Marclay",
+        "Title": "Footsteps",
+        "Year": "1989",
+        "ObjectID": "184037",
+        "Work": "https://www.moma.org/collection/works/184037",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQyMTUyOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8c842975490bc697",
+        "Details": {
+            "Medium": "12-inch vinyl record in box with poster",
+            "Dimensions": "dimensions vary",
+            "Publisher": "Rec Rec Music, Shedhall, Z\u00fcrich",
             "Credit": "Committee on Prints and Illustrated Books Fund",
-            "Object number": "854.2013.6",
+            "Object number": "854.2013.169",
+            "Copyright": "\u00a9 2023 Christian Marclay",
             "Associated work": "Steven Leiber Audio Collection",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/45268"
+        "Profile": "https://www.moma.org/artists/8478"
     },
     {
-        "Artist": "Pierre Alechinsky",
-        "Title": "Wheel of Writing",
-        "Year": "(1985)",
-        "ObjectID": "63338",
-        "Work": "https://www.moma.org/collection/works/63338",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MTY4OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b51b6a7850655eb2",
+        "Artist": "Christian Marclay",
+        "Title": "More Encores",
+        "Year": "1989",
+        "ObjectID": "184038",
+        "Work": "https://www.moma.org/collection/works/184038",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwNjMyMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=14830c59fcc49b39",
         "Details": {
-            "Medium": "Etching with rubber stamp and collage",
-            "Dimensions": "composition (irreg.): 7 1/2 x 3 15/16\" (19 x 10 cm); sheet: 13 x 9 7/8\" (33 x 25.1 cm)",
-            "Printer": "Pierre Alechinsky",
-            "Credit": "Gift of the artist",
-            "Object number": "162.1986",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Medium": "10-inch vinyl record",
+            "Dimensions": "dimensions vary",
+            "Publisher": "Edition No Man's Land, Wurzburg, Germany",
+            "Credit": "Committee on Prints and Illustrated Books Fund",
+            "Object number": "854.2013.170.a-b",
+            "Copyright": "\u00a9 2023 Christian Marclay",
+            "Associated work": "Steven Leiber Audio Collection",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/107"
+        "Profile": "https://www.moma.org/artists/8478"
     },
     {
-        "Artist": "Emilio Ambasz",
-        "Title": "Flashlights",
-        "Year": "1983",
-        "ObjectID": "2592",
-        "Work": "https://www.moma.org/collection/works/2592",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMDY1OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6f57e05eea1fe939",
+        "Artist": "Brice Marden",
+        "Title": "12 Views for Caroline Tatyana",
+        "Year": "1989, printed 1977-1979",
+        "ObjectID": "76957",
+        "Work": "https://www.moma.org/collection/works/76957",
+        "Thumbnail": null,
         "Details": {
-            "Manufacturer": "G. B. Plast, Bologna, Italy",
-            "Medium": "ABS plastic",
-            "Dimensions": "Each: 4 x 1 1/4 x 1\" (10.2 x 3.2 x 2.5 cm)",
-            "Credit": "Gift of the designer",
-            "Object number": "197.1987.1-4",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/141"
-    },
-    {
-        "Artist": "Gregory Amenoff",
-        "Title": "Medanales Group II",
-        "Year": "1985",
-        "ObjectID": "36900",
-        "Work": "https://www.moma.org/collection/works/36900",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwMDQ5MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=73d8fbaf8109028c",
-        "Details": {
-            "Medium": "Synthetic polymer paint, ink, oilstick, pastel, and pencil on paper",
-            "Dimensions": "31 x 30\" (78.5 x 76.2 cm)",
-            "Credit": "Gift of Agnes Gund",
-            "Object number": "438.1986",
+            "Medium": "Portfolio of twelve etching and aquatints",
+            "Dimensions": "plate: dimensions vary; sheet (each): 26 9/16 x 20 9/16\" (67 x 52.3 cm)",
+            "Publisher": "Parasol Press, Ltd., New York",
+            "Printer": "Doris Simmelink, Santa Monica, California",
+            "Edition": "50",
+            "Credit": "John B. Turner Fund",
+            "Object number": "1486.2001.1-12",
+            "Copyright": "\u00a9 2023 Brice Marden  / Artists Rights Society (ARS), New York",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/145"
+        "Profile": "https://www.moma.org/artists/3758"
     },
     {
-        "Artist": "Gregory Amenoff",
-        "Title": "Celadon",
-        "Year": "January 1985",
-        "ObjectID": "78914",
-        "Work": "https://www.moma.org/collection/works/78914",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMzk4NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5e38c5270c556026",
+        "Artist": "Brice Marden",
+        "Title": "Couplet IV",
+        "Year": "1988-89",
+        "ObjectID": "95259",
+        "Work": "https://www.moma.org/collection/works/95259",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1MTUzNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4ed726df069d380c",
         "Details": {
-            "Medium": "Oil on canvas",
-            "Dimensions": "8' 4 1/8\" x 8' 4 1/8\" (254.3 x 254.2 cm)",
-            "Credit": "Mr. and Mrs. Michael M. Rea Fund and purchase",
-            "Object number": "127.1985",
-            "Copyright": "\u00a9 2023 Gregory Amenoff",
+            "Medium": "Oil on linen",
+            "Dimensions": "9' x 60\" (274.3 x 152.4 cm)",
+            "Credit": "Gift of Kathy and Richard S. Fuld, Jr.",
+            "Object number": "979.2005",
+            "Copyright": "\u00a9 2023 Brice Marden  / Artists Rights Society (ARS), New York",
             "Department": "Painting and Sculpture"
         },
-        "Profile": "https://www.moma.org/artists/145"
+        "Profile": "https://www.moma.org/artists/3758"
     },
     {
-        "Artist": "Jean-Jacques Annaud",
-        "Title": "Der Name der Rose",
-        "Year": "1985",
-        "ObjectID": "322361",
-        "Work": "https://www.moma.org/collection/works/322361",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ1MzYwOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=31e76cd3004ff1b4",
+        "Artist": "Agnes Martin",
+        "Title": "Untitled #6",
+        "Year": "1989",
+        "ObjectID": "79540",
+        "Work": "https://www.moma.org/collection/works/79540",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1MTI5MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=efb1d6c0ed2e84e7",
         "Details": {
-            "Object number": "W19578",
+            "Medium": "Acrylic and pencil on canvas",
+            "Dimensions": "71 7/8\" x 6' (182.7 x 182.9 cm)",
+            "Credit": "Gift of the American Art Foundation",
+            "Object number": "363.1990",
+            "Copyright": "\u00a9 2023 Agnes Martin",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/3787"
+    },
+    {
+        "Artist": "Kain May",
+        "Title": "Cover for Moskwa self-titled album",
+        "Year": "1989",
+        "ObjectID": "189479",
+        "Work": "https://www.moma.org/collection/works/189479",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMxNjI5MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3b2cbfaa3d6b60fb",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "12 1/4 x 12 3/8\" (31.1 x 31.4 cm)",
+            "Credit": "Committee on Architecture and Design Funds",
+            "Object number": "185.2015",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/47330"
+    },
+    {
+        "Artist": "Bruce McLean",
+        "Title": "Concept No Object",
+        "Year": "1989",
+        "ObjectID": "9839",
+        "Work": "https://www.moma.org/collection/works/9839",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "8 rubber stamps and supplementary suite",
+            "Dimensions": "page  9 3/4 x 6 5/8\" (24.8 x 16.8 cm)\r\nsuite sheet  9 3/4 x 6 11/16\" (24 x 17 cm)\r\nPrints:  various dimensions.",
+            "Publisher": "Imprints, London",
+            "Printer": "Bruce McLean",
+            "Edition": "200 (50 numbered 1-50 with supplementary suite; 150 numbered 51-200)",
+            "Credit": "Purchase",
+            "Object number": "24.1991.1-16",
+            "Copyright": "\u00a9 2023 Bruce McLean",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3889"
+    },
+    {
+        "Artist": "Alberto Meda",
+        "Title": "Soft Light Side Chair",
+        "Year": "c. 1988",
+        "ObjectID": "3748",
+        "Work": "https://www.moma.org/collection/works/3748",
+        "Thumbnail": null,
+        "Details": {
+            "Manufacturer": "Alias SpA, Bergamo, Italy",
+            "Medium": "Carbon fiber, aluminum honeycomb, and Dymetrol elastic fiber",
+            "Dimensions": "28 x 20 3/4 x 16 1/2\" (71.1 x 52.7 x 41.9 cm)",
+            "Credit": "Gift of the manufacturer",
+            "Object number": "398.1994",
+            "Copyright": "\u00a9 2023 Alberto Moda",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7277"
+    },
+    {
+        "Artist": "Gerhard Merz",
+        "Title": "Untitled from the portfolio And I am also an architect",
+        "Year": "(1989)",
+        "ObjectID": "64316",
+        "Work": "https://www.moma.org/collection/works/64316",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Aquatint",
+            "Edition": "30",
+            "Credit": "Gift of Edition Schellmann, Munich and New York",
+            "Object number": "200.1990",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3940"
+    },
+    {
+        "Artist": "Gerhard Merz",
+        "Title": "Untitled from the portfolio And I am also an architect",
+        "Year": "(1989)",
+        "ObjectID": "64327",
+        "Work": "https://www.moma.org/collection/works/64327",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Aquatint",
+            "Edition": "30",
+            "Credit": "Gift of Edition Schellmann, Munich and New York",
+            "Object number": "201.1990",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3940"
+    },
+    {
+        "Artist": "Ray K. Metzker",
+        "Title": "Untitled",
+        "Year": "1989",
+        "ObjectID": "53065",
+        "Work": "https://www.moma.org/collection/works/53065",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMDM5NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cb9e0b4f74b9438b",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "16 15/16 \u00d7 16 15/16\" (43 \u00d7 43 cm)",
+            "Credit": "Gift of Shirley C. Burden, by exchange",
+            "Object number": "414.1992",
+            "Copyright": "\u00a9 2023 Ray K. Metzker",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/3948"
+    },
+    {
+        "Artist": "Melissa Meyer",
+        "Title": "Diptych #2",
+        "Year": "(1989)",
+        "ObjectID": "37313",
+        "Work": "https://www.moma.org/collection/works/37313",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Oilstick on two sheets of paper",
+            "Dimensions": "30 x 44 7/8\" (76.2 x 114 cm)",
+            "Credit": "Gift of Henry O. Timnick",
+            "Object number": "550.1990",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3955"
+    },
+    {
+        "Artist": "Marilyn Minter",
+        "Title": "Sleep Drawing",
+        "Year": "1989",
+        "ObjectID": "62637",
+        "Work": "https://www.moma.org/collection/works/62637",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Blueprint, treated with teflon spray",
+            "Dimensions": "sheet  165 11/16 x 34 5/8\" (420.8 x 88 cm)\r\nirreg. composition  161 7/16 x 30 1/2\" (410.1 x 77.4 cm)",
+            "Publisher": "Marilyn Minter",
+            "Printer": "Everready Blueprint, New York",
+            "Edition": "Unique",
+            "Credit": "Gift of Althea Viafora Gallery",
+            "Object number": "136.1989",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4008"
+    },
+    {
+        "Artist": "Marilyn Minter",
+        "Title": "Hands Folding",
+        "Year": "1989",
+        "ObjectID": "64835",
+        "Work": "https://www.moma.org/collection/works/64835",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Screenprint on aluminum",
+            "Publisher": "Landfall Press, Inc., Chicago",
+            "Credit": "Gift of Landfall Press",
+            "Object number": "230.1997",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4008"
+    },
+    {
+        "Artist": "Richard Misrach",
+        "Title": "Tennis Court and Pyramids, Egypt",
+        "Year": "1989",
+        "ObjectID": "185921",
+        "Work": "https://www.moma.org/collection/works/185921",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMxMTgzNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=577cc752db2f766c",
+        "Details": {
+            "Medium": "Inkjet print, printed 2014",
+            "Dimensions": "18 3/16 \u00d7 23 3/16\" (46.2 \u00d7 58.9 cm)",
+            "Credit": "Committee on Photography Fund",
+            "Object number": "949.2014",
+            "Copyright": "\u00a9 2023 Richard Misrach",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/4022"
+    },
+    {
+        "Artist": "Richard Misrach",
+        "Title": "White Man Contemplating Pyramids, Egypt",
+        "Year": "1989",
+        "ObjectID": "185922",
+        "Work": "https://www.moma.org/collection/works/185922",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMxMTgzNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=40ff6185e20276b7",
+        "Details": {
+            "Medium": "Inkjet print, printed 2014",
+            "Dimensions": "18 3/16 \u00d7 23 3/16\" (46.2 \u00d7 58.9 cm)",
+            "Credit": "Committee on Photography Fund",
+            "Object number": "950.2014",
+            "Copyright": "\u00a9 2023 Richard Misrach",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/4022"
+    },
+    {
+        "Artist": "Joan Mitchell",
+        "Title": "Smoke",
+        "Year": "1988, published 1989",
+        "ObjectID": "11979",
+        "Work": "https://www.moma.org/collection/works/11979",
+        "Thumbnail": null,
+        "Details": {
+            "Author": "Charles Hine",
+            "Medium": "Illustrated book with 16 aquatints (one with etching)",
+            "Dimensions": "composition (see child records): dimensions vary; page (each): 14 \u00d7 9 1/16\" (35.5 \u00d7 23 cm)",
+            "Publisher": "Limestone Press, San Francisco",
+            "Printer": "Limestone Press, San Francisco",
+            "Edition": "80",
+            "Credit": "Johanna and Leslie J. Garfield Fund",
+            "Object number": "150.1989.1-16",
+            "Type": "Illustrated Book",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4026"
+    },
+    {
+        "Artist": "Richard Mock",
+        "Title": "Urban Arms",
+        "Year": "1989",
+        "ObjectID": "73636",
+        "Work": "https://www.moma.org/collection/works/73636",
+        "Thumbnail": null,
+        "Details": {
+            "Publisher": "Richard Mock",
+            "Printer": "Richard Mock",
+            "Edition": "70",
+            "Credit": "The Ralph E. Shikes Fund",
+            "Object number": "733.1995",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/7478"
+    },
+    {
+        "Artist": "Moke",
+        "Title": "Long Live Utex Africa",
+        "Year": "1989",
+        "ObjectID": "296557",
+        "Work": "https://www.moma.org/collection/works/296557",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ2MjU4NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5980a9a899b5412f",
+        "Details": {
+            "Medium": "Oil on canvas",
+            "Dimensions": "44 1/2 \u00d7 70 7/8\" (113 \u00d7 180 cm)",
+            "Credit": "The Jean Pigozzi African Art Collection.  Gift of Jean Pigozzi",
+            "Object number": "134.2019",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/75467"
+    },
+    {
+        "Artist": "Moke",
+        "Title": "Mitterrand and Mobutu",
+        "Year": "1989",
+        "ObjectID": "298548",
+        "Work": "https://www.moma.org/collection/works/298548",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ1Mjk4MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2852248fc85fc6d7",
+        "Details": {
+            "Medium": "Acrylic on canvas",
+            "Dimensions": "44 1/8 \u00d7 72 7/16\" (112 \u00d7 184 cm)",
+            "Credit": "Promised Gift of The Jean Pigozzi African Art Collection",
+            "Object number": "PG135.2019",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/75467"
+    },
+    {
+        "Artist": "Sibylle Mollering-Kaldewey",
+        "Title": "Sibylle Kaldewey letterhead",
+        "Year": "1980s",
+        "ObjectID": "207100",
+        "Work": "https://www.moma.org/collection/works/207100",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Letterpress",
+            "Dimensions": "11 3/4 \u00d7 7\" (29.8 \u00d7 17.8 cm)",
+            "Credit": "Elaine Lustig Cohen Collection, gift of Lawrence Benenson and the Committee on Architecture and Design Funds",
+            "Object number": "1295.2015.1",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/48914"
+    },
+    {
+        "Artist": "Sibylle Mollering-Kaldewey",
+        "Title": "Sibylle Kaldewey stationery envelope",
+        "Year": "1980s",
+        "ObjectID": "207101",
+        "Work": "https://www.moma.org/collection/works/207101",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Letterpress",
+            "Dimensions": "4 3/8 \u00d7 8 5/8\" (11.1 \u00d7 21.9 cm)",
+            "Credit": "Elaine Lustig Cohen Collection, gift of Lawrence Benenson and the Committee on Architecture and Design Funds",
+            "Object number": "1295.2015.2",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/48914"
+    },
+    {
+        "Artist": "Sibylle Mollering-Kaldewey",
+        "Title": "Sibylle Kaldewey stationery card",
+        "Year": "1980s",
+        "ObjectID": "207102",
+        "Work": "https://www.moma.org/collection/works/207102",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Letterpress",
+            "Dimensions": "4 3/8 \u00d7 6 3/8\" (11.1 \u00d7 16.2 cm)",
+            "Credit": "Elaine Lustig Cohen Collection, gift of Lawrence Benenson and the Committee on Architecture and Design Funds",
+            "Object number": "1295.2015.3",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/48914"
+    },
+    {
+        "Artist": "Sibylle Mollering-Kaldewey",
+        "Title": "Sibylle Kaldewey stationery",
+        "Year": "1980s",
+        "ObjectID": "207103",
+        "Work": "https://www.moma.org/collection/works/207103",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Letterpress",
+            "Dimensions": "4 3/8 \u00d7 6 3/8\" (11.1 \u00d7 16.2 cm)",
+            "Credit": "Elaine Lustig Cohen Collection, gift of Lawrence Benenson and the Committee on Architecture and Design Funds",
+            "Object number": "1295.2015.4",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/48914"
+    },
+    {
+        "Artist": "Moncler",
+        "Title": "Down Jacket",
+        "Year": "1980s",
+        "ObjectID": "215051",
+        "Work": "https://www.moma.org/collection/works/215051",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lacquered nylon and down",
+            "Credit": "Gift of Moncler Archives",
+            "Object number": "89.2018",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/67220"
+    },
+    {
+        "Artist": "Gustavo Monroy",
+        "Title": "The Last Supper",
+        "Year": "1989",
+        "ObjectID": "64362",
+        "Work": "https://www.moma.org/collection/works/64362",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Series of four woodcuts",
+            "Credit": "Riva Castleman Fund",
+            "Object number": "204.1990.1-4",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4061"
+    },
+    {
+        "Artist": "Michael Moore",
+        "Title": "Roger & Me",
+        "Year": "1989",
+        "ObjectID": "174136",
+        "Work": "https://www.moma.org/collection/works/174136",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ3NjM0MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a116f09e3ce2616d",
+        "Details": {
+            "Object number": "W23899",
             "Department": "Film"
         },
-        "Profile": "https://www.moma.org/artists/44557"
+        "Profile": "https://www.moma.org/artists/44558"
     },
     {
-        "Artist": "Stephen Antonakos",
-        "Title": "F#4",
-        "Year": "1985",
-        "ObjectID": "82311",
-        "Work": "https://www.moma.org/collection/works/82311",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2Nzk3OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7c8f9536124df340",
+        "Artist": "Abelardo Morell",
+        "Title": "Brady Sitting",
+        "Year": "1989",
+        "ObjectID": "47989",
+        "Work": "https://www.moma.org/collection/works/47989",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0MDA2NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d27de111d18ba9f7",
         "Details": {
-            "Medium": "Pencil on synthetic polymer sheet",
-            "Dimensions": "22 x 17 3/4\" (55.9 x 45.1 cm)",
-            "Credit": "Gift of Sarah-Ann and Werner H. Kramarsky",
-            "Object number": "2576.2001",
-            "Copyright": "\u00a9 2023 Stephen Antonakos",
-            "Department": "Drawings and Prints"
+            "Medium": "Gelatin silver print",
+            "Dimensions": "22 1/2 \u00d7 17 7/8\" (57.2 \u00d7 45.4 cm)",
+            "Credit": "The Family of Man Fund",
+            "Object number": "186.1992",
+            "Copyright": "\u00a9 2023 Abelardo Morell",
+            "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/196"
-    },
-    {
-        "Artist": "Conrad Atkinson",
-        "Title": "Wall Street Journal",
-        "Year": "1985",
-        "ObjectID": "66369",
-        "Work": "https://www.moma.org/collection/works/66369",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNTg0OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9e86e282da672920",
-        "Details": {
-            "Medium": "Screenprint with watercolor additions",
-            "Dimensions": "Composition (irreg.): 23 7/16 x 16 5/16\" (59.6 x 41.4 cm)\r\nSheet: 30 1/4 x 22 5/16\" (76.8 x 56.6 cm)",
-            "Publisher": "Strother/Elwood Art Editions, New York",
-            "Printer": "John Nichols Printmakers & Publishers, New York",
-            "Credit": "Purchase",
-            "Object number": "297.1985",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/232"
-    },
-    {
-        "Artist": "Shoichiro Azuma",
-        "Title": "Kuniyama-Shinji",
-        "Year": "1985",
-        "ObjectID": "120124",
-        "Work": "https://www.moma.org/collection/works/120124",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1MDY2MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=644af0ff1eef1d05",
-        "Details": {
-            "Medium": "Video (color, sound)",
-            "Duration": "27 min.",
-            "Producer": "Fukui City Audio-Visual Library",
-            "Credit": "Purchase",
-            "Object number": "489.1986",
-            "Copyright": "\u00a9 2023 Shoichiro Azuma",
-            "Department": "Media and Performance"
-        },
-        "Profile": "https://www.moma.org/artists/35622"
-    },
-    {
-        "Artist": "John Baldessari",
-        "Title": "Buildings=Guns=People:  Desire, Knowledge, and Hope (with Smog).  Study for Mural, Carnegie International",
-        "Year": "1985",
-        "ObjectID": "36184",
-        "Work": "https://www.moma.org/collection/works/36184",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ2NzU3NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fc304fb0b056f93e",
-        "Details": {
-            "Medium": "Cut-and-pasted paper with pencil and colored pencil on paper",
-            "Dimensions": "13 x 20 1/4\" (33 x 54.4 cm)",
-            "Credit": "Gift of Brooke Alexander and of the artist",
-            "Object number": "308.1998",
-            "Copyright": "\u00a9 2023 John Baldessari",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/304"
-    },
-    {
-        "Artist": "John Baldessari",
-        "Title": "Untitled",
-        "Year": "1985",
-        "ObjectID": "36198",
-        "Work": "https://www.moma.org/collection/works/36198",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ2NzU3NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1bbe47ee43e72caa",
-        "Details": {
-            "Medium": "Crayon on printed paper taped to graph paper",
-            "Dimensions": "6 3/4 x 9 3/8\" (17.1 x 23.8 cm)",
-            "Credit": "Gift of Brooke Alexander and of the artist",
-            "Object number": "310.1998",
-            "Copyright": "\u00a9 2023 John Baldessari",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/304"
-    },
-    {
-        "Artist": "Jean-Michel Basquiat",
-        "Title": "Untitled",
-        "Year": "1985",
-        "ObjectID": "35204",
-        "Work": "https://www.moma.org/collection/works/35204",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3NDM4NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=edd6be29af5f5f9d",
-        "Details": {
-            "Medium": "Cut-and-pasted paper and oilstick on paper",
-            "Dimensions": "41 1/2 x 29 1/2\" (105.4 x 75 cm)",
-            "Credit": "Acquired in memory of Kevin W. Robbins through funds provided by his family and friends and by the Committee on Drawings",
-            "Object number": "194.1993",
-            "Copyright": "\u00a9 2023 Estate of Jean-Michel Basquiat. Licensed by Artestar, New York.",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/370"
+        "Profile": "https://www.moma.org/artists/6917"
     }
 ]

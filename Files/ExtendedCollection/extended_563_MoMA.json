@@ -1,819 +1,867 @@
 [
     {
-        "Artist": "A. G. Fronzoni",
-        "Title": "Lo Spazio dei Gesti",
+        "Artist": "Ricardo Bofill",
+        "Title": "Les Espaces d'Abraxas: Le Palacio, Le Theatre, L'Arc, Marne-la-Vallee, France, Le Theatre and L'Arc: facade detail",
         "Year": "1979",
-        "ObjectID": "6634",
-        "Work": "https://www.moma.org/collection/works/6634",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyNzY1NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=43739f889b034cea",
+        "ObjectID": "451",
+        "Work": "https://www.moma.org/collection/works/451",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyNDA3NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=eaadd78b06da4480",
+        "Details": {
+            "Architectural firm": "Taller de Arquitectura",
+            "Medium": "Ink and colored pencil on tracing paper",
+            "Dimensions": "16 3/8 x 9 3/8\" (41.6 x 23.8 cm)",
+            "Credit": "Gift of Ricardo Bofill Taller de Arquitectura",
+            "Object number": "380.1985",
+            "Copyright": "\u00a9 2023 Ricardo Bofill",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/632"
+    },
+    {
+        "Artist": "Johanna Boga",
+        "Title": "Tower-Picture",
+        "Year": "1982",
+        "ObjectID": "64490",
+        "Work": "https://www.moma.org/collection/works/64490",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNDEwOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7354a7486b225f58",
+        "Details": {
+            "Medium": "Lithograph",
+            "Credit": "Miles O. Epstein Fund",
+            "Object number": "212.1983",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/634"
+    },
+    {
+        "Artist": "Lee Bontecou",
+        "Title": "Study for An Untitled Print (White on Black)",
+        "Year": "1979-82",
+        "ObjectID": "64673",
+        "Work": "https://www.moma.org/collection/works/64673",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNDEyMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=07b2cdfa604cbf62",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition (irreg.): 16 5/8 \u00d7 10 7/8\" (42.2 \u00d7 27.6 cm); sheet: 22 7/16 \u00d7 15 1/16\" (57 \u00d7 38.2 cm)",
+            "Publisher": "Universal Limited Art Editions, West Islip, New York",
+            "Printer": "Universal Limited Art Editions, West Islip, New York",
+            "Edition": "5",
+            "Credit": "Gift of Celeste Bartos",
+            "Object number": "222.1982",
+            "Copyright": "\u00a9 2023 Lee Bontecou",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/670"
+    },
+    {
+        "Artist": "Lee Bontecou",
+        "Title": "Study for An Untitled Print",
+        "Year": "1979-82",
+        "ObjectID": "64691",
+        "Work": "https://www.moma.org/collection/works/64691",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNzcyNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=98565e3f8e963bdf",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition (irreg.): 17 \u00d7 10 7/8\" (43.2 \u00d7 27.6 cm); sheet (irreg.): 29 5/16 \u00d7 23 1/16\" (74.4 \u00d7 58.6 cm)",
+            "Publisher": "Universal Limited Art Editions, West Islip, New York",
+            "Printer": "Universal Limited Art Editions, West Islip, New York",
+            "Edition": "5",
+            "Credit": "Gift of Celeste Bartos",
+            "Object number": "223.1982",
+            "Copyright": "\u00a9 2023 Lee Bontecou",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/670"
+    },
+    {
+        "Artist": "Lee Bontecou",
+        "Title": "Pirates",
+        "Year": "1979-82",
+        "ObjectID": "64714",
+        "Work": "https://www.moma.org/collection/works/64714",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3NjkwMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f272f6a916d763dd",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition (irreg.): 35 1/16 x 44 1/4\" (89.1 x 112.4 cm); sheet: 38 3/8 x 45 11/16\" (97.5 x 116 cm)",
+            "Publisher": "Universal Limited Art Editions, West Islip, New York",
+            "Printer": "Universal Limited Art Editions, West Islip, New York",
+            "Edition": "12",
+            "Credit": "Gift of Celeste Bartos",
+            "Object number": "224.1982",
+            "Copyright": "\u00a9 2023 Lee Bontecou",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/670"
+    },
+    {
+        "Artist": "Lee Bontecou",
+        "Title": "An Untitled Print",
+        "Year": "1981-82",
+        "ObjectID": "64736",
+        "Work": "https://www.moma.org/collection/works/64736",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMyMTMzMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f1ec1eee0b95fb7d",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition (irreg.): 88 1/2 \u00d7 38 1/4\" (224.8 \u00d7 97.2 cm); sheet: 93 \u00d7 42 1/16\" (236.2 \u00d7 106.8 cm)",
+            "Publisher": "Universal Limited Art Editions, West Islip, New York",
+            "Printer": "Universal Limited Art Editions, West Islip, New York",
+            "Edition": "14",
+            "Credit": "Gift of Celeste Bartos",
+            "Object number": "225.1982",
+            "Copyright": "\u00a9 2023 Lee Bontecou",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/670"
+    },
+    {
+        "Artist": "Lee Bontecou",
+        "Title": "Untitled",
+        "Year": "1982",
+        "ObjectID": "95578",
+        "Work": "https://www.moma.org/collection/works/95578",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNTc5MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b54e5ead305e344f",
+        "Details": {
+            "Medium": "Gouache on colored paper",
+            "Dimensions": "12 1/2 x 16 1/8\" (31.8 x 41 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "1338.2005",
+            "Copyright": "\u00a9 2023 Lee Bontecou",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/670"
+    },
+    {
+        "Artist": "Jonathan Borofsky",
+        "Title": "Untitled at 2,783,195",
+        "Year": "(1982)",
+        "ObjectID": "36547",
+        "Work": "https://www.moma.org/collection/works/36547",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjkzODk3Il0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNTEyeDUxMlx1MDAzZSJdXQ.jpg?sha=6f10ca665050f664",
+        "Details": {
+            "Medium": "Ink and gouache on paper",
+            "Dimensions": "7 7/8 x 6 1/8\" (20.1 x 15.5 cm)",
+            "Credit": "Gift of Mr. and Mrs. Michael Rea",
+            "Object number": "371.1984",
+            "Copyright": "\u00a9 2023 Jonathan Borofsky",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/682"
+    },
+    {
+        "Artist": "Richard Bosman",
+        "Title": "Car Crash",
+        "Year": "1981-82",
+        "ObjectID": "61267",
+        "Work": "https://www.moma.org/collection/works/61267",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Woodcut",
+            "Publisher": "Brooke Alexander Editions, New York",
+            "Credit": "Gift of Stuart Zweibel",
+            "Object number": "71.1997",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/689"
+    },
+    {
+        "Artist": "Richard Bosman",
+        "Title": "The Swimmer",
+        "Year": "1982",
+        "ObjectID": "64512",
+        "Work": "https://www.moma.org/collection/works/64512",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Monotype",
+            "Dimensions": "composition: 30 7/8 \u00d7 42\" (78.4 \u00d7 106.7 cm); sheet: 30 7/8 \u00d7 42\" (78.4 \u00d7 106.7 cm)",
+            "Publisher": "Brooke Alexander, Inc., New York",
+            "Printer": "Hudson River Studios, New York",
+            "Edition": "Unique impression",
+            "Credit": "Gift of Nelson Blitz, Jr.",
+            "Object number": "213.1983",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/689"
+    },
+    {
+        "Artist": "Richard Bosman",
+        "Title": "Adversaries",
+        "Year": "1982",
+        "ObjectID": "64765",
+        "Work": "https://www.moma.org/collection/works/64765",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Woodcut",
+            "Dimensions": "composition (irreg.): 30 \u00d7 19 15/16\" (76.2 \u00d7 50.6 cm); sheet (irreg.): 30 9/16 \u00d7 20 9/16\" (77.6 \u00d7 52.3 cm)",
+            "Publisher": "Brooke Alexander, Inc., New York",
+            "Printer": "Chip Elwell, Ted Warner",
+            "Edition": "42",
+            "Credit": "Gift of Brooke and Carolyn Alexander",
+            "Object number": "227.1982",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/689"
+    },
+    {
+        "Artist": "Mario Botta",
+        "Title": "House, Viganello, Switzerland (Plan, preliminary sketch)",
+        "Year": "1981-1982",
+        "ObjectID": "631",
+        "Work": "https://www.moma.org/collection/works/631",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Graphite on tracing paper",
+            "Dimensions": "12 1/4 x 22 1/8\" (31.8 x 56.2 cm)",
+            "Credit": "Gift of the architect",
+            "Object number": "432.1987",
+            "Copyright": "\u00a9 2023 Mario Botta",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/696"
+    },
+    {
+        "Artist": "Louise Bourgeois",
+        "Title": "Child Abuse: A Project by Louise Bourgeois for Artforum",
+        "Year": "1982",
+        "ObjectID": "200715",
+        "Work": "https://www.moma.org/collection/works/200715",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM2NjkzMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0c88e10b24f8a7fa",
+        "Details": {
+            "Medium": "Artforum page project with 4 photolithograph spreads",
+            "Dimensions": "page (each): 10 3/8 \u00d7 10 3/8\" (26.4 \u00d7 26.4 cm)",
+            "Publisher": "Artforum, New York",
+            "Edition": "Mass produced",
+            "Impresssion": "Not numbered",
+            "Credit": "Gift of Mr. and Mrs. Armand P. Bartos (by exchange)",
+            "Object number": "219.2016.1-4",
+            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
+            "Type": "Illustrated Book",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/710"
+    },
+    {
+        "Artist": "Louise Bourgeois",
+        "Title": "Untitled, no. 1 of 4, from Child Abuse: A Project by Louise Bourgeois for Artforum",
+        "Year": "1982",
+        "ObjectID": "205239",
+        "Work": "https://www.moma.org/collection/works/205239",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0OTU0NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0cbcea0272525a56",
+        "Details": {
+            "State/variant": "Only state",
+            "Medium": "Photolithograph spread from Artforum page project",
+            "Dimensions": "page (each): 10 3/8 \u00d7 10 3/8\" (26.4 \u00d7 26.4 cm)",
+            "Publisher": "Artforum, New York",
+            "Edition": "Mass produced",
+            "Impresssion": "Not numbered",
+            "Credit": "Gift of Mr. and Mrs. Armand P. Bartos (by exchange)",
+            "Object number": "219.2016.1",
+            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
+            "Illustrated book": "Child Abuse: A Project by Louise Bourgeois for Artforum",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/710"
+    },
+    {
+        "Artist": "Louise Bourgeois",
+        "Title": "Untitled, no. 2 of 4, from Child Abuse: A Project by Louise Bourgeois for Artforum",
+        "Year": "1982",
+        "ObjectID": "205240",
+        "Work": "https://www.moma.org/collection/works/205240",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0OTU0OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2c4b75054800cf12",
+        "Details": {
+            "State/variant": "Only state",
+            "Medium": "Photolithograph spread from Artforum page project",
+            "Dimensions": "page (each): 10 3/8 \u00d7 10 3/8\" (26.4 \u00d7 26.4 cm)",
+            "Publisher": "Artforum, New York",
+            "Edition": "Mass produced",
+            "Impresssion": "Not numbered",
+            "Credit": "Gift of Mr. and Mrs. Armand P. Bartos (by exchange)",
+            "Object number": "219.2016.2",
+            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
+            "Illustrated book": "Child Abuse: A Project by Louise Bourgeois for Artforum",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/710"
+    },
+    {
+        "Artist": "Louise Bourgeois",
+        "Title": "Untitled, no. 3 of 4, from Child Abuse: A Project by Louise Bourgeois for Artforum",
+        "Year": "1982",
+        "ObjectID": "205241",
+        "Work": "https://www.moma.org/collection/works/205241",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0OTU1MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4f36684e86330a7f",
+        "Details": {
+            "State/variant": "Only state",
+            "Medium": "Photolithograph spread from Artforum page project",
+            "Dimensions": "page (each): 10 3/8 \u00d7 10 3/8\" (26.4 \u00d7 26.4 cm)",
+            "Publisher": "Artforum, New York",
+            "Edition": "Mass produced",
+            "Impresssion": "Not numbered",
+            "Credit": "Gift of Mr. and Mrs. Armand P. Bartos (by exchange)",
+            "Object number": "219.2016.3",
+            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
+            "Illustrated book": "Child Abuse: A Project by Louise Bourgeois for Artforum",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/710"
+    },
+    {
+        "Artist": "Louise Bourgeois",
+        "Title": "Untitled, no. 4. of 4, from Child Abuse: A Project by Louise Bourgeois for Artforum",
+        "Year": "1982",
+        "ObjectID": "205242",
+        "Work": "https://www.moma.org/collection/works/205242",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0OTU1MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=de2e9993fa12f23f",
+        "Details": {
+            "State/variant": "Only state",
+            "Medium": "Photolithograph spread from Artforum page project",
+            "Dimensions": "page (each): 10 3/8 \u00d7 10 3/8\" (26.4 \u00d7 26.4 cm)",
+            "Publisher": "Artforum, New York",
+            "Edition": "Mass produced",
+            "Impresssion": "Not numbered",
+            "Credit": "Gift of Mr. and Mrs. Armand P. Bartos (by exchange)",
+            "Object number": "219.2016.4",
+            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
+            "Illustrated book": "Child Abuse: A Project by Louise Bourgeois for Artforum",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/710"
+    },
+    {
+        "Artist": "Stipe Brcic",
+        "Title": "9. Kongres SKH",
+        "Year": "1982",
+        "ObjectID": "6639",
+        "Work": "https://www.moma.org/collection/works/6639",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMTI5MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f91d5efaecbc16fc",
         "Details": {
             "Medium": "Offset lithograph",
-            "Dimensions": "50 1/16 x 35 1/2\" (127.2 x 90.1 cm)",
-            "Credit": "Est\u00e9e and Joseph Lauder Design Fund",
-            "Object number": "412.1994",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/2017"
-    },
-    {
-        "Artist": "A. G. Fronzoni",
-        "Title": "Ciclo di Conferenze. La Sperimentazione Artistica Contemporanea a Genova e in Liguria dopo il '45",
-        "Year": "1979",
-        "ObjectID": "142268",
-        "Work": "https://www.moma.org/collection/works/142268",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNDc4NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c82563802c005b32",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "38 11/16 x 26 7/8\" (98.3 x 68.3 cm)",
-            "Credit": "Gift of Clarissa Alcock Bronfman",
-            "Object number": "996.2010",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/2017"
-    },
-    {
-        "Artist": "A. G. Fronzoni",
-        "Title": "Il Segno Urbano (The Urban Sign) (Poster for the Genoa cultural program Arte e Citta [Art and the City])",
-        "Year": "1979",
-        "ObjectID": "142269",
-        "Work": "https://www.moma.org/collection/works/142269",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNDc4OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=15b380852b97161a",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "38 9/16 x 26 3/4\" (98 x 68 cm)",
-            "Credit": "Gift of Clarissa Alcock Bronfman",
-            "Object number": "999.2010",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/2017"
-    },
-    {
-        "Artist": "A. G. Fronzoni",
-        "Title": "Arte e Scienza",
-        "Year": "1979",
-        "ObjectID": "142270",
-        "Work": "https://www.moma.org/collection/works/142270",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNDc4NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=62998348868b828a",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "37 13/16 x 26 3/4\" (96 x 68 cm)",
-            "Credit": "Gift of Clarissa Alcock Bronfman",
-            "Object number": "995.2010",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/2017"
-    },
-    {
-        "Artist": "A. G. Fronzoni",
-        "Title": "Liberi Vettori di Cultura",
-        "Year": "1979",
-        "ObjectID": "142271",
-        "Work": "https://www.moma.org/collection/works/142271",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNDU4NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0aa7d472a1625368",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "26 15/16 x 37 3/8\" (68.4 x 95 cm)",
-            "Credit": "Gift of Clarissa Alcock Bronfman",
-            "Object number": "1000.2010",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/2017"
-    },
-    {
-        "Artist": "A. G. Fronzoni",
-        "Title": "Convegno Internazionale Musei d'Arte Contemporanea in Europa (International Conference on Contemporary Art Museums in Europe)",
-        "Year": "1979",
-        "ObjectID": "142272",
-        "Work": "https://www.moma.org/collection/works/142272",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNDc4NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a3e1ee894248b342",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "38 9/16 x 26 3/4\" (98 x 68 cm)",
-            "Credit": "Gift of Clarissa Alcock Bronfman",
-            "Object number": "997.2010",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/2017"
-    },
-    {
-        "Artist": "A. G. Fronzoni",
-        "Title": "Tempo 3. Omaggio a Rocco Borella",
-        "Year": "1979",
-        "ObjectID": "142273",
-        "Work": "https://www.moma.org/collection/works/142273",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNDU4NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=84b4a0a2fa14899e",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "38 9/16 x 26 7/8\" (98 x 68.3 cm)",
-            "Credit": "Gift of Clarissa Alcock Bronfman",
-            "Object number": "1001.2010",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/2017"
-    },
-    {
-        "Artist": "A. G. Fronzoni",
-        "Title": "I Manifesti di Michele Spera",
-        "Year": "1979",
-        "ObjectID": "142274",
-        "Work": "https://www.moma.org/collection/works/142274",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNDc4NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1be38a1fc5336edf",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "38 9/16 x 26 11/16\" (98 x 67.8 cm)",
-            "Credit": "Gift of Clarissa Alcock Bronfman",
-            "Object number": "998.2010",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/2017"
-    },
-    {
-        "Artist": "A. G. Fronzoni",
-        "Title": "Tendenze dell'Arte Jugoslava d'Oggi",
-        "Year": "1979",
-        "ObjectID": "142276",
-        "Work": "https://www.moma.org/collection/works/142276",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNDU4NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=23e71ccb189fba83",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "38 9/16 x 26 11/16\" (98 x 67.8 cm)",
-            "Credit": "Gift of Clarissa Alcock Bronfman",
-            "Object number": "1002.2010",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/2017"
-    },
-    {
-        "Artist": "Stephen Frykholm",
-        "Title": "Herman Miller Summer Picnic July 28, 1979",
-        "Year": "1979",
-        "ObjectID": "5948",
-        "Work": "https://www.moma.org/collection/works/5948",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMDg5MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e5915789beabb2cf",
-        "Details": {
-            "Medium": "Screen printed with lacquer ink, lacquer finish",
-            "Dimensions": "39 1/2 x 25\" (100.4 x 63.5 cm)",
+            "Dimensions": "77 1/2 x 78 3/4\" (197 x 200 cm)",
             "Credit": "Gift of the designer",
-            "Object number": "267.1980",
+            "Object number": "413.1985",
             "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/2019"
+        "Profile": "https://www.moma.org/artists/755"
     },
     {
-        "Artist": "Seiichi Furuya",
-        "Title": "Graz",
-        "Year": "1979",
-        "ObjectID": "47043",
-        "Work": "https://www.moma.org/collection/works/47043",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4NzMxMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=191cbe834a47b505",
+        "Artist": "Stipe Brcic",
+        "Title": "9. Kongress SKH",
+        "Year": "1982",
+        "ObjectID": "173932",
+        "Work": "https://www.moma.org/collection/works/173932",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4MDM1OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ee26437aa13ab9ff",
         "Details": {
-            "Medium": "Gelatin silver print, printed 1995",
-            "Dimensions": "14 11/16 \u00d7 9 15/16\" (37.3 \u00d7 25.3 cm)",
-            "Credit": "Mr. and Mrs. Clark B. Winter, Jr. Fund",
-            "Object number": "159.1998",
-            "Copyright": "\u00a9 2023 Seiichi Furuya",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/7863"
-    },
-    {
-        "Artist": "Seiichi Furuya",
-        "Title": "Graz",
-        "Year": "1979",
-        "ObjectID": "47058",
-        "Work": "https://www.moma.org/collection/works/47058",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4NzMxNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cf2fb501a3e29937",
-        "Details": {
-            "Medium": "Gelatin silver print, printed 1996",
-            "Dimensions": "14 3/4 \u00d7 9 15/16\" (37.4 \u00d7 25.3 cm)",
-            "Credit": "Mr. & Mrs. Clark B. Winter, Jr. Fund",
-            "Object number": "160.1998",
-            "Copyright": "\u00a9 2023 Seiichi Furuya",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/7863"
-    },
-    {
-        "Artist": "Sonia Gechtoff",
-        "Title": "Sea Window, II",
-        "Year": "1979",
-        "ObjectID": "38281",
-        "Work": "https://www.moma.org/collection/works/38281",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMyNDU4MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7a4b07281884c1da",
-        "Details": {
-            "Medium": "Synthetic polymer paint and pencil on colored paper",
-            "Dimensions": "39 3/4 x 49 7/8\" (101.2 x 126.7 cm)",
-            "Credit": "Gift of Greunebaum Gallery",
-            "Object number": "928.1979",
-            "Copyright": "\u00a9 2023 Sonia Gechtoff",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/2104"
-    },
-    {
-        "Artist": "Judy Gelles",
-        "Title": "Self Portrait Watching the Soaps from the series Family Portrait",
-        "Year": "March 3, 1979",
-        "ObjectID": "427781",
-        "Work": "https://www.moma.org/collection/works/427781",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNjIxNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3ba3b09bff8a0557",
-        "Details": {
-            "Medium": "Inkjet print, printed 2004",
-            "Dimensions": "19 1/4 \u00d7 23\" (48.9 \u00d7 58.4 cm)",
-            "Credit": "Gift of The Gelles Family",
-            "Object number": "404.2021",
-            "Copyright": "\u00a9 2023 Judy Gelles",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/134092"
-    },
-    {
-        "Artist": "Judy Gelles",
-        "Title": "Swing Set from the series Family Portrait",
-        "Year": "November 24, 1979",
-        "ObjectID": "427782",
-        "Work": "https://www.moma.org/collection/works/427782",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNjIxNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=670c1e1359bbfc1e",
-        "Details": {
-            "Medium": "Inkjet print, printed 2004",
-            "Dimensions": "19 1/4 \u00d7 23\" (48.9 \u00d7 58.4 cm)",
-            "Credit": "Gift of The Gelles Family",
-            "Object number": "405.2021",
-            "Copyright": "\u00a9 2023 Judy Gelles",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/134092"
-    },
-    {
-        "Artist": "General Idea",
-        "Title": "Nazi Milk",
-        "Year": "1979",
-        "ObjectID": "402086",
-        "Work": "https://www.moma.org/collection/works/402086",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ4MTc2NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=dcfc6d58ca6b3c7c",
-        "Details": {
-            "Medium": "Offset lithograph",
-            "Dimensions": "composition and sheet: 25 9/16 \u00d7 17 11/16\" (64.9 \u00d7 45 cm)",
-            "Publisher": "Lucio Amelio, Naples",
-            "Printer": "Unidentified",
-            "Edition": "unknown",
+            "Medium": "Lithograph",
+            "Dimensions": "8 7/8 x 6 1/4\" (22.5 x 15.9 cm)",
             "Credit": "Anonymous gift",
-            "Object number": "795.2019",
-            "Copyright": "\u00a9 2023 General Idea",
+            "Object number": "SC1186.2013.1-3",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/755"
+    },
+    {
+        "Artist": "George Brecht, Robert Filliou",
+        "Title": "Eastern Daylight Flux Time",
+        "Year": "c. 1977",
+        "ObjectID": "127180",
+        "Work": "https://www.moma.org/collection/works/127180",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMxMTMxOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c94708b86cf8b1ba",
+        "Details": {
+            "Collaborating artist": "Robert Filliou",
+            "Medium": "Engraved metal pocket-watch case, containing objects in various media",
+            "Dimensions": "overall: 2 7/16 x 1 15/16 x 9/16\" (6.2 x 5 x 1.5 cm)",
+            "Designer": "George Maciunas",
+            "Publisher": "Fluxus",
+            "Edition": "unknown",
+            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
+            "Object number": "2112.2008",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/7474"
+        "Profile": "https://www.moma.org/artists/756"
     },
     {
-        "Artist": "General Idea",
-        "Title": "2. The 1984 Miss General Idea Pageant: Youth",
-        "Year": "1979",
-        "ObjectID": "409631",
-        "Work": "https://www.moma.org/collection/works/409631",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ4ODgzNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fa0e9ef82f436d68",
+        "Artist": "Gary Stephen Brotmeyer",
+        "Title": "Dolphin Leaping Through a Hoop of Fire/Sporting a Sputnik/ Study for Dolphin & Sputnik",
+        "Year": "1982",
+        "ObjectID": "49906",
+        "Work": "https://www.moma.org/collection/works/49906",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyOTE1MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=18a127b2bd2cecfe",
         "Details": {
-            "Medium": "Screenprint with chromogenic print and felt-tip pen additions",
-            "Dimensions": "composition: 17 13/16 \u00d7 13 3/4\" (45.2 \u00d7 34.9 cm); sheet: 18 \u00d7 14\" (45.7 \u00d7 35.6 cm)",
-            "Edition": "2",
-            "Credit": "Gift of Lonti Ebers",
-            "Object number": "15.2020",
-            "Copyright": "\u00a9 2023 General Idea",
+            "Medium": "Albumen silver and gelatin silver prints with applied color, graphite, and human hair shaped with petroleum jelly and attached with glue and nail polish",
+            "Dimensions": "Overall 5 11/16 \u00d7 14\" (14.4 \u00d7 35.5cm)",
+            "Credit": "Purchase",
+            "Object number": "279.1982.a-c",
+            "Copyright": "\u00a9 2023 Gary Stephen Brotmeyer",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/803"
+    },
+    {
+        "Artist": "Gary Stephen Brotmeyer",
+        "Title": "Peter",
+        "Year": "1982",
+        "ObjectID": "49916",
+        "Work": "https://www.moma.org/collection/works/49916",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMTQzMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=298240d52caf0f49",
+        "Details": {
+            "Medium": "Albumen silver print by an unknown photographer with shell and pencil attached",
+            "Dimensions": "5 3/8 \u00d7 3 3/4\" (13.7 \u00d7 9.5 cm)",
+            "Credit": "Purchase",
+            "Object number": "280.1982",
+            "Copyright": "\u00a9 2023 Gary Stephen Brotmeyer",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/803"
+    },
+    {
+        "Artist": "Gary Stephen Brotmeyer",
+        "Title": "#187 (Boy with escape rope)",
+        "Year": "1982",
+        "ObjectID": "51151",
+        "Work": "https://www.moma.org/collection/works/51151",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4ODU5NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c01c3e005249866f",
+        "Details": {
+            "Medium": "Gelatin silver print (with hand-applied acrylic paint)",
+            "Dimensions": "5 7/8 \u00d7 3 15/16\" (15.0 \u00d7 9.9 cm)",
+            "Credit": "Purchase",
+            "Object number": "337.1983",
+            "Copyright": "\u00a9 2023 Gary Stephen Brotmeyer",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/803"
+    },
+    {
+        "Artist": "James Brown",
+        "Title": "Cosmos and Damian with Long Doncon Figure",
+        "Year": "1982",
+        "ObjectID": "87817",
+        "Work": "https://www.moma.org/collection/works/87817",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0OTkyNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1554de0f4edb0b6f",
+        "Details": {
+            "Medium": "Pencil and oil on paper",
+            "Dimensions": "60 x 50\" (152.4 x 127 cm)",
+            "Credit": "Gift of Mark Rosenthal and Lisa Roumell",
+            "Object number": "426.2002",
+            "Copyright": "\u00a9 2023 James Brown / Artists Rights Society (ARS), New York / ADAGP, Paris",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/7474"
+        "Profile": "https://www.moma.org/artists/806"
     },
     {
-        "Artist": "General Idea",
-        "Title": "2. The 1984 Miss General Idea Pageant: Colour Bar Lab",
-        "Year": "1979",
-        "ObjectID": "409632",
-        "Work": "https://www.moma.org/collection/works/409632",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ4ODgzNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d09223446d2a6469",
+        "Artist": "Boris Bucan",
+        "Title": "Boris Bucan (Poster for an exhibition at Salon Galerije Karas Praska 4)",
+        "Year": "1982",
+        "ObjectID": "200418",
+        "Work": "https://www.moma.org/collection/works/200418",
+        "Thumbnail": null,
         "Details": {
-            "Medium": "Screenprint with chromogenic print and felt-tip pen additions",
-            "Dimensions": "composition: 17 13/16 \u00d7 13 3/4\" (45.2 \u00d7 34.9 cm); sheet: 18 \u00d7 14\" (45.7 \u00d7 35.6 cm)",
-            "Edition": "2",
-            "Credit": "Gift of Lonti Ebers",
-            "Object number": "16.2020",
-            "Copyright": "\u00a9 2023 General Idea",
+            "Medium": "Silkscreen",
+            "Dimensions": "54 \u00d7 77 1/4\" (137.2 \u00d7 196.2 cm)",
+            "Printer": "Student Cultural Center, Zagreb",
+            "Credit": "Gift of Kresimir Penovic",
+            "Object number": "158.2016.a-d",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/840"
+    },
+    {
+        "Artist": "Nancy Buchanan",
+        "Title": "An End to All Our Dreams",
+        "Year": "1982",
+        "ObjectID": "120358",
+        "Work": "https://www.moma.org/collection/works/120358",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMDYyMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1c4f54966671d046",
+        "Details": {
+            "Medium": "Video (color, sound)",
+            "Duration": "8 min.",
+            "Credit": "Purchase",
+            "Object number": "698.1990",
+            "Copyright": "\u00a9 2023 Nancy Buchanan. Courtesy of the artist",
+            "Department": "Media and Performance"
+        },
+        "Profile": "https://www.moma.org/artists/34882"
+    },
+    {
+        "Artist": "John Buck",
+        "Title": "Untitled",
+        "Year": "1982",
+        "ObjectID": "64545",
+        "Work": "https://www.moma.org/collection/works/64545",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Woodcut",
+            "Dimensions": "Composition (irreg.): 75 11/16 x 31 5/8\" (192.2 x 80.3 cm)\r\nSheet: 77 5/16 x 33 3/4\" (196.4 x 85.7 cm)",
+            "Publisher": "Landfall Press, Inc., Chicago",
+            "Edition": "20",
+            "Credit": "Elinor and Edmund Grasheim Annual Fund",
+            "Object number": "214.1983",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/7474"
+        "Profile": "https://www.moma.org/artists/845"
     },
     {
-        "Artist": "General Idea",
-        "Title": "2. The 1984 Miss General Idea Pageant: Wear a Moustache",
-        "Year": "1979",
-        "ObjectID": "409633",
-        "Work": "https://www.moma.org/collection/works/409633",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ4ODgzOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=12ff25b31a874f1a",
-        "Details": {
-            "Medium": "Screenprint with chromogenic print and felt-tip pen additions",
-            "Dimensions": "composition: 17 13/16 \u00d7 13 3/4\" (45.2 \u00d7 34.9 cm); sheet: 18 \u00d7 14\" (45.7 \u00d7 35.6 cm)",
-            "Edition": "2",
-            "Credit": "Gift of Lonti Ebers",
-            "Object number": "17.2020",
-            "Copyright": "\u00a9 2023 General Idea",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/7474"
-    },
-    {
-        "Artist": "Isa Genzken",
-        "Title": "TRI-STAR",
-        "Year": "1979",
-        "ObjectID": "173290",
-        "Work": "https://www.moma.org/collection/works/173290",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4NzA5MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=738c3007b98503a0",
-        "Details": {
-            "Medium": "7-inch vinyl record",
-            "Dimensions": "overall (record): 6 7/8 x 6 7/8\" (17.5 x 17.5 cm)",
-            "Publisher": "D\u00fcsselton-Records, D\u00fcsseldorf",
-            "Edition": "40",
-            "Credit": "General Print Fund",
-            "Object number": "770.2013",
-            "Copyright": "\u00a9 2023 Isa Genzken",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/28632"
-    },
-    {
-        "Artist": "Luigi Ghirri",
-        "Title": "Untitled",
-        "Year": "1970s",
-        "ObjectID": "165393",
-        "Work": "https://www.moma.org/collection/works/165393",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3MTgzOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0c8c77a6266f3ded",
-        "Details": {
-            "Medium": "Chromogenic print",
-            "Dimensions": "4 3/4 \u00d7 6 7/8\" (12.1 \u00d7 17.4 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "453.2013.2",
-            "Copyright": "\u00a9 2023 Biblioteca Panizzi, Reggio Emilia, Heirs of Luigi Ghirri",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/39882"
-    },
-    {
-        "Artist": "Luigi Ghirri",
-        "Title": "Untitled",
-        "Year": "1970s",
-        "ObjectID": "165397",
-        "Work": "https://www.moma.org/collection/works/165397",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3MjIzMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7b77a0390456f559",
-        "Details": {
-            "Medium": "Chromogenic color prints",
-            "Dimensions": "Each 4 5/16 \u00d7 2 3/4\" (11 \u00d7 7 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "453.2013.6",
-            "Copyright": "\u00a9 2023 Biblioteca Panizzi, Reggio Emilia, Heirs of Luigi Ghirri",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/39882"
-    },
-    {
-        "Artist": "Luigi Ghirri",
-        "Title": "Untitled",
-        "Year": "1970s",
-        "ObjectID": "165398",
-        "Work": "https://www.moma.org/collection/works/165398",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3MjIzNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=80f3395ae870b2f0",
-        "Details": {
-            "Medium": "Chromogenic color prints",
-            "Dimensions": "2 3/8 \u00d7 12 13/16\" (6.1 \u00d7 32.5 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "453.2013.7",
-            "Copyright": "\u00a9 2023 Biblioteca Panizzi, Reggio Emilia, Heirs of Luigi Ghirri",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/39882"
-    },
-    {
-        "Artist": "Luigi Ghirri",
-        "Title": "Untitled",
-        "Year": "1970s",
-        "ObjectID": "165399",
-        "Work": "https://www.moma.org/collection/works/165399",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3MjIzNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=54494ca85e5682b3",
-        "Details": {
-            "Medium": "Chromogenic print",
-            "Dimensions": "6 1/4 \u00d7 9 1/2\" (15.9 \u00d7 24.2 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "453.2013.8",
-            "Copyright": "\u00a9 2023 Biblioteca Panizzi, Reggio Emilia, Heirs of Luigi Ghirri",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/39882"
-    },
-    {
-        "Artist": "Luigi Ghirri",
-        "Title": "Untitled",
-        "Year": "1970s",
-        "ObjectID": "165400",
-        "Work": "https://www.moma.org/collection/works/165400",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3MTg2OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f593ee9eb5724f7a",
-        "Details": {
-            "Medium": "Chromogenic print",
-            "Dimensions": "4 13/16 \u00d7 6 3/4\" (12.2 \u00d7 17.2 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "453.2013.9",
-            "Copyright": "\u00a9 2023 Biblioteca Panizzi, Reggio Emilia, Heirs of Luigi Ghirri",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/39882"
-    },
-    {
-        "Artist": "Luigi Ghirri",
-        "Title": "Untitled",
-        "Year": "1970s",
-        "ObjectID": "165401",
-        "Work": "https://www.moma.org/collection/works/165401",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3MTgzMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=abef1e4550cd43f9",
-        "Details": {
-            "Medium": "Chromogenic print",
-            "Dimensions": "8 7/16 \u00d7 7 1/8\" (21.5 \u00d7 18.1 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "453.2013.10",
-            "Copyright": "\u00a9 2023 Biblioteca Panizzi, Reggio Emilia, Heirs of Luigi Ghirri",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/39882"
-    },
-    {
-        "Artist": "Luigi Ghirri",
-        "Title": "Untitled",
-        "Year": "1970s",
-        "ObjectID": "165406",
-        "Work": "https://www.moma.org/collection/works/165406",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3MTgzNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e3308aac6eda7da9",
-        "Details": {
-            "Medium": "Chromogenic print",
-            "Dimensions": "4 9/16 \u00d7 6 7/8\" (11.6 \u00d7 17.5 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "453.2013.15",
-            "Copyright": "\u00a9 2023 Biblioteca Panizzi, Reggio Emilia, Heirs of Luigi Ghirri",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/39882"
-    },
-    {
-        "Artist": "Luigi Ghirri",
-        "Title": "Untitled",
-        "Year": "1970s",
-        "ObjectID": "165408",
-        "Work": "https://www.moma.org/collection/works/165408",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzODc4OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e21300018d6482fd",
-        "Details": {
-            "Medium": "Chromogenic print",
-            "Dimensions": "4 13/16 \u00d7 6 7/8\" (12.2 \u00d7 17.5 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "453.2013.17",
-            "Copyright": "\u00a9 2023 Biblioteca Panizzi, Reggio Emilia, Heirs of Luigi Ghirri",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/39882"
-    },
-    {
-        "Artist": "Luigi Ghirri",
-        "Title": "Untitled",
-        "Year": "1970s",
-        "ObjectID": "165412",
-        "Work": "https://www.moma.org/collection/works/165412",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3MTg0MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=29992bb1bc5c52c9",
-        "Details": {
-            "Medium": "Chromogenic color prints",
-            "Dimensions": "Each 2 3/4 \u00d7 4 3/16\" (7 \u00d7 10.7 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "453.2013.21",
-            "Copyright": "\u00a9 2023 Biblioteca Panizzi, Reggio Emilia, Heirs of Luigi Ghirri",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/39882"
-    },
-    {
-        "Artist": "Luigi Ghirri",
-        "Title": "Untitled",
-        "Year": "1970s",
-        "ObjectID": "165414",
-        "Work": "https://www.moma.org/collection/works/165414",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3MTg0MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e5d698cf2dae0139",
-        "Details": {
-            "Medium": "Chromogenic print",
-            "Dimensions": "4 13/16 \u00d7 6 15/16\" (12.2 \u00d7 17.7 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "453.2013.23",
-            "Copyright": "\u00a9 2023 Biblioteca Panizzi, Reggio Emilia, Heirs of Luigi Ghirri",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/39882"
-    },
-    {
-        "Artist": "Luigi Ghirri",
-        "Title": "Untitled",
-        "Year": "1970s",
-        "ObjectID": "165415",
-        "Work": "https://www.moma.org/collection/works/165415",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3MTg0NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a75c4fde9138030b",
-        "Details": {
-            "Medium": "Chromogenic print",
-            "Dimensions": "4 3/4 \u00d7 6 15/16\" (12.1 \u00d7 17.6 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "453.2013.24",
-            "Copyright": "\u00a9 2023 Biblioteca Panizzi, Reggio Emilia, Heirs of Luigi Ghirri",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/39882"
-    },
-    {
-        "Artist": "Luigi Ghirri",
-        "Title": "Untitled",
-        "Year": "1970s",
-        "ObjectID": "165416",
-        "Work": "https://www.moma.org/collection/works/165416",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3MTg0NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=41e73c2d3266640f",
-        "Details": {
-            "Medium": "Chromogenic print",
-            "Dimensions": "4 3/4 \u00d7 6 15/16\" (12.1 \u00d7 17.6 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "453.2013.25",
-            "Copyright": "\u00a9 2023 Biblioteca Panizzi, Reggio Emilia, Heirs of Luigi Ghirri",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/39882"
-    },
-    {
-        "Artist": "Luigi Ghirri",
-        "Title": "Untitled",
-        "Year": "1970s",
-        "ObjectID": "165418",
-        "Work": "https://www.moma.org/collection/works/165418",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3MTg0NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=553a036a3de45308",
-        "Details": {
-            "Medium": "Chromogenic print",
-            "Dimensions": "6 1/2 \u00d7 4 13/16\" (16.5 \u00d7 12.2 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "453.2013.27",
-            "Copyright": "\u00a9 2023 Biblioteca Panizzi, Reggio Emilia, Heirs of Luigi Ghirri",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/39882"
-    },
-    {
-        "Artist": "Luigi Ghirri",
-        "Title": "Untitled",
-        "Year": "1970s",
-        "ObjectID": "165420",
-        "Work": "https://www.moma.org/collection/works/165420",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3MTg0OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d542f49340f4a1bf",
-        "Details": {
-            "Medium": "Chromogenic print",
-            "Dimensions": "4 13/16 \u00d7 6 7/8\" (12.2 \u00d7 17.5 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "453.2013.29",
-            "Copyright": "\u00a9 2023 Biblioteca Panizzi, Reggio Emilia, Heirs of Luigi Ghirri",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/39882"
-    },
-    {
-        "Artist": "Luigi Ghirri",
-        "Title": "Harlem",
-        "Year": "1970s",
-        "ObjectID": "165422",
-        "Work": "https://www.moma.org/collection/works/165422",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3MTg1MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=119c6e4f024dc336",
-        "Details": {
-            "Medium": "Chromogenic print",
-            "Dimensions": "4 3/4 \u00d7 7\" (12 \u00d7 17.8 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "453.2013.31",
-            "Copyright": "\u00a9 2023 Biblioteca Panizzi, Reggio Emilia, Heirs of Luigi Ghirri",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/39882"
-    },
-    {
-        "Artist": "Luigi Ghirri",
-        "Title": "Untitled",
-        "Year": "1970s",
-        "ObjectID": "165423",
-        "Work": "https://www.moma.org/collection/works/165423",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3MjIzMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=32d905a83dd6442b",
-        "Details": {
-            "Medium": "Chromogenic print",
-            "Dimensions": "6 9/16 \u00d7 4 9/16\" (16.6 \u00d7 11.6 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "453.2013.32",
-            "Copyright": "\u00a9 2023 Biblioteca Panizzi, Reggio Emilia, Heirs of Luigi Ghirri",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/39882"
-    },
-    {
-        "Artist": "Luigi Ghirri",
-        "Title": "Untitled",
-        "Year": "1970s",
-        "ObjectID": "165425",
-        "Work": "https://www.moma.org/collection/works/165425",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3MTg1NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e69302951fbd39e9",
-        "Details": {
-            "Medium": "Chromogenic print",
-            "Dimensions": "4 13/16 \u00d7 7 1/16\" (12.2 \u00d7 18 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "453.2013.34",
-            "Copyright": "\u00a9 2023 Biblioteca Panizzi, Reggio Emilia, Heirs of Luigi Ghirri",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/39882"
-    },
-    {
-        "Artist": "Luigi Ghirri",
-        "Title": "Untitled",
-        "Year": "1970s",
-        "ObjectID": "165427",
-        "Work": "https://www.moma.org/collection/works/165427",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3MTg1NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0a19646caa2081cd",
-        "Details": {
-            "Medium": "Chromogenic print",
-            "Dimensions": "6 15/16 \u00d7 4 13/16\" (17.7 \u00d7 12.3 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "453.2013.36",
-            "Copyright": "\u00a9 2023 Biblioteca Panizzi, Reggio Emilia, Heirs of Luigi Ghirri",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/39882"
-    },
-    {
-        "Artist": "Luigi Ghirri",
-        "Title": "Untitled",
-        "Year": "1970s",
-        "ObjectID": "165428",
-        "Work": "https://www.moma.org/collection/works/165428",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3MjIzMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=55b4ca406289f2cf",
-        "Details": {
-            "Medium": "Chromogenic print",
-            "Dimensions": "7 1/16 \u00d7 4 13/16\" (18 \u00d7 12.2 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "453.2013.37",
-            "Copyright": "\u00a9 2023 Biblioteca Panizzi, Reggio Emilia, Heirs of Luigi Ghirri",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/39882"
-    },
-    {
-        "Artist": "Luigi Ghirri",
-        "Title": "Untitled",
-        "Year": "1970s",
-        "ObjectID": "165429",
-        "Work": "https://www.moma.org/collection/works/165429",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3MTg1NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3d1f900bc8d89424",
-        "Details": {
-            "Medium": "Chromogenic print",
-            "Dimensions": "4 3/16 \u00d7 2 3/4\" (10.6 \u00d7 7 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "453.2013.38",
-            "Copyright": "\u00a9 2023 Biblioteca Panizzi, Reggio Emilia, Heirs of Luigi Ghirri",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/39882"
-    },
-    {
-        "Artist": "Luigi Ghirri",
-        "Title": "Untitled",
-        "Year": "1970s",
-        "ObjectID": "165430",
-        "Work": "https://www.moma.org/collection/works/165430",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3MTg1OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=20f8dd38c8d9860f",
-        "Details": {
-            "Medium": "Chromogenic print",
-            "Dimensions": "4 7/8 \u00d7 6 7/8\" (12.4 \u00d7 17.5 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "453.2013.39",
-            "Copyright": "\u00a9 2023 Biblioteca Panizzi, Reggio Emilia, Heirs of Luigi Ghirri",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/39882"
-    },
-    {
-        "Artist": "Luigi Ghirri",
-        "Title": "Untitled",
-        "Year": "1970s",
-        "ObjectID": "165433",
-        "Work": "https://www.moma.org/collection/works/165433",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3MTg2MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c1cf104acc29a93b",
-        "Details": {
-            "Medium": "Chromogenic print",
-            "Dimensions": "4 9/16 \u00d7 6 15/16\" (11.6 \u00d7 17.7 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "453.2013.42",
-            "Copyright": "\u00a9 2023 Biblioteca Panizzi, Reggio Emilia, Heirs of Luigi Ghirri",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/39882"
-    },
-    {
-        "Artist": "Luigi Ghirri",
-        "Title": "Untitled",
-        "Year": "1970s",
-        "ObjectID": "165435",
-        "Work": "https://www.moma.org/collection/works/165435",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3MTg2NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=26ec029ec3a0acef",
-        "Details": {
-            "Medium": "Chromogenic print",
-            "Dimensions": "4 13/16 \u00d7 6 15/16\" (12.2 \u00d7 17.7 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "453.2013.44",
-            "Copyright": "\u00a9 2023 Biblioteca Panizzi, Reggio Emilia, Heirs of Luigi Ghirri",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/39882"
-    },
-    {
-        "Artist": "Luigi Ghirri",
-        "Title": "Untitled",
-        "Year": "1970s",
-        "ObjectID": "165436",
-        "Work": "https://www.moma.org/collection/works/165436",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3MTg2NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9fba6f19eeba8d51",
-        "Details": {
-            "Medium": "Chromogenic print",
-            "Dimensions": "4 13/16 \u00d7 6 15/16\" (12.2 \u00d7 17.6 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "453.2013.45",
-            "Copyright": "\u00a9 2023 Biblioteca Panizzi, Reggio Emilia, Heirs of Luigi Ghirri",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/39882"
-    },
-    {
-        "Artist": "Luigi Ghirri",
-        "Title": "Untitled",
-        "Year": "1970s",
-        "ObjectID": "165437",
-        "Work": "https://www.moma.org/collection/works/165437",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3MTg2NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cf63bb0a1b00c8b3",
-        "Details": {
-            "Medium": "Chromogenic print",
-            "Dimensions": "4 7/8 \u00d7 6 7/8\" (12.4 \u00d7 17.5 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "453.2013.46",
-            "Copyright": "\u00a9 2023 Biblioteca Panizzi, Reggio Emilia, Heirs of Luigi Ghirri",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/39882"
-    },
-    {
-        "Artist": "Jill Giegerich",
-        "Title": "Untitled (Figure Inside Architecture)",
-        "Year": "1979",
-        "ObjectID": "71020",
-        "Work": "https://www.moma.org/collection/works/71020",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNTI4MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fb71d7bc906e9cb0",
-        "Details": {
-            "Medium": "Linoleum cut",
-            "Dimensions": "composition: 11 15/16 x 6 7/16\" (30.3 x 16.3 cm); sheet: 22 1/16 x 14 9/16\" (56 x 37 cm)",
-            "Publisher": "Jill Giegerich",
-            "Printer": "Jill Giegerich",
-            "Credit": "Dorothy Braude Edinburg Fund",
-            "Object number": "553.1983",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/2148"
-    },
-    {
-        "Artist": "Gilbert & George, Gilbert Proesch, George Passmore",
-        "Title": "First Blossom",
-        "Year": "1979",
-        "ObjectID": "196108",
-        "Work": "https://www.moma.org/collection/works/196108",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0MDM1NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e9ad7534cb412a2b",
-        "Details": {
-            "Medium": "Photogravure",
-            "Dimensions": "composition: 17 13/16 \u00d7 17 3/8\" (45.2 \u00d7 44.1 cm); sheet: 24 \u00d7 20 1/16\" (61 \u00d7 50.9 cm)",
-            "Publisher": "Art for All, London",
-            "Edition": "50",
-            "Credit": "Monroe Wheeler Fund",
-            "Object number": "1636.2015",
-            "Copyright": "\u00a9 2023 Gilbert & George",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/7496"
-    },
-    {
-        "Artist": "Frank Gohlke",
-        "Title": "House with Double Roof/Kiowa, Colorado",
-        "Year": "1979",
-        "ObjectID": "47152",
-        "Work": "https://www.moma.org/collection/works/47152",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5ODU3MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=84d837c75d6a3f1c",
+        "Artist": "Nancy Burson",
+        "Title": "Androgyny (6 Men + 6 Women)",
+        "Year": "1982",
+        "ObjectID": "183529",
+        "Work": "https://www.moma.org/collection/works/183529",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwNjM3MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=333ca25d72ee1992",
         "Details": {
             "Medium": "Gelatin silver print",
-            "Dimensions": "14 1/16 \u00d7 17 7/16\" (35.8 \u00d7 44.3 cm)",
-            "Credit": "Gift of Robert L. Smith",
-            "Object number": "166.1998",
-            "Copyright": "\u00a9 2023 Frank Gohlke",
+            "Dimensions": "8 1/4 \u00d7 7 3/16\" (21 \u00d7 18.3 cm)",
+            "Credit": "Gift of Steven and Susan Spungen Kasher",
+            "Object number": "897.2014",
+            "Copyright": "\u00a9 1982 Nancy Burson",
             "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/2207"
+        "Profile": "https://www.moma.org/artists/46261"
+    },
+    {
+        "Artist": "Nancy Burson",
+        "Title": "Warhead I (Regan 55%, Brezhnev 45%, Thatcher less than 1%, Mitterrand less than 1%, Deng less than 1%)",
+        "Year": "1982",
+        "ObjectID": "183530",
+        "Work": "https://www.moma.org/collection/works/183530",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwNjM3MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=56e65e7b36de807e",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "7 9/16 \u00d7 7 3/8\" (19.2 \u00d7 18.7 cm)",
+            "Credit": "Gift of Steven and Susan Spungen Kasher",
+            "Object number": "898.2014",
+            "Copyright": "\u00a9 1982 Nancy Burson",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/46261"
+    },
+    {
+        "Artist": "Tim Burton",
+        "Title": "Vincent",
+        "Year": "1982",
+        "ObjectID": "316418",
+        "Work": "https://www.moma.org/collection/works/316418",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyNDMyMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=08a06600b30d1251",
+        "Details": {
+            "Object number": "W20959",
+            "Department": "Film"
+        },
+        "Profile": "https://www.moma.org/artists/36155"
+    },
+    {
+        "Artist": "Andrew Foster Bush",
+        "Title": "Interior of Bonnettstown Hall, Kilkenny, Ireland",
+        "Year": "1982",
+        "ObjectID": "55378",
+        "Work": "https://www.moma.org/collection/works/55378",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMzQ4NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=58a907983f6949db",
+        "Details": {
+            "Medium": "Chromogenic print",
+            "Dimensions": "15 5/16 \u00d7 19 1/4\" (38.9 \u00d7 49.3 cm)",
+            "Credit": "The Family of Man Fund",
+            "Object number": "584.1983",
+            "Copyright": "\u00a9 2023 Andrew Foster Bush",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/892"
+    },
+    {
+        "Artist": "John Cage",
+        "Title": "No. 30 from Changes + Disappearances",
+        "Year": "1982",
+        "ObjectID": "62212",
+        "Work": "https://www.moma.org/collection/works/62212",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNDA1OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d256a52d66342f61",
+        "Details": {
+            "Medium": "Drypoint, engraving, and aquatint",
+            "Dimensions": "composition and sheet: 11 9/16 x 21 5/16\" (29.3 x 54.2 cm)",
+            "Publisher": "Crown Point Press, San Francisco",
+            "Printer": "Crown Point Press, San Francisco",
+            "Edition": "2",
+            "Credit": "Gift of Crown Point Press in celebration of its 25th anniversary",
+            "Object number": "121.1987",
+            "Copyright": "\u00a9 2023 John Cage Trust",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/912"
+    },
+    {
+        "Artist": "John Casado",
+        "Title": "1982 Mill Valley Film Festival",
+        "Year": "1982",
+        "ObjectID": "7263",
+        "Work": "https://www.moma.org/collection/works/7263",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Silkscreen",
+            "Dimensions": "36 x 24 1/8\" (91.5 x 61.2 cm)",
+            "Printer": "Pischoff Co., San Francisco",
+            "Credit": "Gift of the designer",
+            "Object number": "496.1983",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/1004"
+    },
+    {
+        "Artist": "James Casebere",
+        "Title": "Subdivision with Spotlight",
+        "Year": "1982",
+        "ObjectID": "43907",
+        "Work": "https://www.moma.org/collection/works/43907",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzNjE2MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=26d722664295932a",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "14 13/16 \u00d7 18 15/16\" (37.6 \u00d7 48.1 cm)",
+            "Credit": "Purchase",
+            "Object number": "5.1992",
+            "Copyright": "\u00a9 2023 James Casebere",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/6895"
+    },
+    {
+        "Artist": "Elsa Cayo",
+        "Title": "Who Steals an Egg, Steals an Egg (Qui Vole un Oeuf, Vole un Oeuf)",
+        "Year": "1982",
+        "ObjectID": "118240",
+        "Work": "https://www.moma.org/collection/works/118240",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Video (black and white and color, sound)",
+            "Duration": "15:03 min.",
+            "Credit": "Purchase",
+            "Object number": "544.1984",
+            "Department": "Media and Performance"
+        },
+        "Profile": "https://www.moma.org/artists/34842"
+    },
+    {
+        "Artist": "Monte Cazazza",
+        "Title": "Stairway to hell / Sex is no emergency",
+        "Year": "1982",
+        "ObjectID": "183924",
+        "Work": "https://www.moma.org/collection/works/183924",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQyMTE5NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c8dcbf020f8a4258",
+        "Details": {
+            "Medium": "7-inch vinyl record with booklet",
+            "Dimensions": "dimensions vary",
+            "Publisher": "Sordide Sentimental, Roven, France",
+            "Edition": "2,332",
+            "Credit": "Committee on Prints and Illustrated Books Fund",
+            "Object number": "854.2013.59",
+            "Associated work": "Steven Leiber Audio Collection",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/46296"
+    },
+    {
+        "Artist": "Bruno Ceccobelli",
+        "Title": "The Bodyguard",
+        "Year": "1982",
+        "ObjectID": "78920",
+        "Work": "https://www.moma.org/collection/works/78920",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzNjk1NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=078d818939e2901a",
+        "Details": {
+            "Medium": "Oil paint, tar, sulphur, rope, and metal bucket on tarpaulin",
+            "Dimensions": "11' 6\" x 7' 7 1/4\" x 20 1/8\" (350.6 x 231.8 x 51.3 cm)",
+            "Credit": "Anne and Sid Bass Fund",
+            "Object number": "128.1985.a-d",
+            "Copyright": "\u00a9 2023 Bruno Ceccobelli",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/1044"
+    },
+    {
+        "Artist": "Vija Celmins",
+        "Title": "To Fix the Image in Memory",
+        "Year": "1977-82",
+        "ObjectID": "100210",
+        "Work": "https://www.moma.org/collection/works/100210",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQzMDcwNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d64baa2d4b7ddb75",
+        "Details": {
+            "Medium": "Stones and painted bronze, eleven pairs",
+            "Dimensions": "Overall dimensions variable",
+            "Credit": "Gift of Edward R. Broida in honor of David and Renee McKee",
+            "Object number": "679.2005.a-v",
+            "Copyright": "\u00a9 2023 Vija Celmins",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/1048"
+    },
+    {
+        "Artist": "Centrokappa Design and Communication",
+        "Title": "Color Television",
+        "Year": "1980",
+        "ObjectID": "3606",
+        "Work": "https://www.moma.org/collection/works/3606",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyOTY2MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=90a361ead0dea3a5",
+        "Details": {
+            "Manufacturer": "Industrie Formenti Italia, Milan",
+            "Medium": "Plastic casing",
+            "Dimensions": ".a (upright): 14 3/4 x 16 15/16 x 17 1/4\" (37.5 x 43 x 43.8 cm)\r\n.b (remote): 1 x 2 3/4 x 4 3/4\" (2.5 x 7 x 12 cm)",
+            "Credit": "Gift of the manufacturer",
+            "Object number": "441.1983.a-b",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/1049"
+    },
+    {
+        "Artist": "Giuseppe Chiari",
+        "Title": "Art Is Easy",
+        "Year": "1982",
+        "ObjectID": "135571",
+        "Work": "https://www.moma.org/collection/works/135571",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4ODA5NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fed103bcd7d0188c",
+        "Details": {
+            "Medium": "Ink on primed canvas",
+            "Dimensions": "sheet: 23 1/2 x 82 1/2\" (59.7 x 209.6 cm)",
+            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
+            "Object number": "3130.2008",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / SIAE, Rome",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/36943"
+    },
+    {
+        "Artist": "Sandro Chia",
+        "Title": "Figure Looking Out",
+        "Year": "1982",
+        "ObjectID": "65198",
+        "Work": "https://www.moma.org/collection/works/65198",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxODQyMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0376ea0f1276b153",
+        "Details": {
+            "Medium": "Etching",
+            "Dimensions": "plate: 10 7/8 x 13 13/16\" (27.6 x 35.1 cm); sheet: 29 1/2 x 22 1/16\" (75 x 56.1 cm)",
+            "Publisher": "Edition Schellmann & Kl\u00fcser, Munich",
+            "Printer": "Sarah Feigenbaum",
+            "Edition": "25",
+            "Credit": "Gift of Edition Schellmann, Munich and New York",
+            "Object number": "248.1989",
+            "Copyright": "\u00a9 2023 Sandro Chia",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1097"
+    },
+    {
+        "Artist": "Sandro Chia",
+        "Title": "Mechanical Figure I",
+        "Year": "1982",
+        "ObjectID": "71812",
+        "Work": "https://www.moma.org/collection/works/71812",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNDk0NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a4aa761b6ee1c0da",
+        "Details": {
+            "Medium": "Drypoint and photogravure with chine coll\u00e9",
+            "Dimensions": "Composition: 29 11/16 x 22 3/4\" (75.4 x 57.8 cm)\r\nSheet: 29 1/2 x 22 3/4\" (75 x 57.8 cm)",
+            "Publisher": "Edition Schellmann & Kl\u00fcser, Munich",
+            "Credit": "Gift of Elinor and Edmund Grasheim",
+            "Object number": "610.1983",
+            "Copyright": "\u00a9 2023 Sandro Chia",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1097"
+    },
+    {
+        "Artist": "William Christenberry",
+        "Title": "Untitled",
+        "Year": "1982",
+        "ObjectID": "48883",
+        "Work": "https://www.moma.org/collection/works/48883",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNjYzNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3e4a2036cd04f0e4",
+        "Details": {
+            "Medium": "Instant print (Polaroid)",
+            "Dimensions": "9 7/16 \u00d7 7 1/2\" (24 \u00d7 19 cm)",
+            "Credit": "Lois and Bruce Zenkel Fund",
+            "Object number": "220.1993",
+            "Copyright": "\u00a9 2023 William Christenberry",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/1112"
+    },
+    {
+        "Artist": "Henning Christiansen",
+        "Title": "Konstruktioner (1964-1967)",
+        "Year": "1982",
+        "ObjectID": "183931",
+        "Work": "https://www.moma.org/collection/works/183931",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM3NjQ5OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3361e0cbc53441d9",
+        "Details": {
+            "Medium": "12-inch vinyl record",
+            "Dimensions": "cover: 12 1/4 \u00d7 12 3/8\" (31.1 \u00d7 31.4 cm)",
+            "Publisher": "Paula Records, Give, Denmark",
+            "Credit": "Committee on Prints and Illustrated Books Fund",
+            "Object number": "854.2013.66",
+            "Copyright": "\u00a9 2023 Henning Christiansen. Courtesy of the Artist's Estate",
+            "Associated work": "Steven Leiber Audio Collection",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/36942"
+    },
+    {
+        "Artist": "Francesco Clemente",
+        "Title": "Twins",
+        "Year": "1982",
+        "ObjectID": "64557",
+        "Work": "https://www.moma.org/collection/works/64557",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Aquatint",
+            "Dimensions": "Plate: 23 7/8 x 35 7/8\" (60.6 x 91.1 cm)\r\nSheet: 31 1/8 x 43 7/8\" (79 x 111.4 cm)",
+            "Publisher": "Crown Point Press, San Francisco",
+            "Printer": "Crown Point Press, San Francisco",
+            "Edition": "15",
+            "Credit": "Gift of Christopher Forbes",
+            "Object number": "215.1983",
+            "Copyright": "\u00a9 2023 Francesco Clemente",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1145"
+    },
+    {
+        "Artist": "Chuck Close",
+        "Title": "Self-Portrait Manipulated",
+        "Year": "1982",
+        "ObjectID": "76390",
+        "Work": "https://www.moma.org/collection/works/76390",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Handmade paper",
+            "Dimensions": "Composition: 29 5/16 x 20 7/8\" (74.5 x 53 cm); sheet: 38 3/16 x 27 15/16\" (97 x 71 cm)",
+            "Publisher": "Pace Editions, Inc., New York",
+            "Credit": "John B. Tuner Fund and Eugene Mercy, Jr. Fund",
+            "Object number": "1335.2000",
+            "Copyright": "\u00a9 2023 Chuck Close",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1156"
+    },
+    {
+        "Artist": "Chuck Close",
+        "Title": "Phyllis",
+        "Year": "1982",
+        "ObjectID": "142239",
+        "Work": "https://www.moma.org/collection/works/142239",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMzM3OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1d064d0351c4a9a5",
+        "Details": {
+            "Medium": "Pasted paper pulp on canvas",
+            "Dimensions": "24 1/4 x 20\" (61.6 x 50.8 cm)",
+            "Credit": "Gift of Joel and Anne Ehrenkranz",
+            "Object number": "22.2011",
+            "Copyright": "\u00a9 2023 Chuck Close",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1156"
+    },
+    {
+        "Artist": "Elaine Lustig Cohen",
+        "Title": "Catalog for the exhibition \"Futurism\" at Ex Libris",
+        "Year": "1982",
+        "ObjectID": "290006",
+        "Work": "https://www.moma.org/collection/works/290006",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxMTIyNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3b2bbada02ecfa7d",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "10 \u00d7 7\" (25.4 \u00d7 17.8 cm)",
+            "Credit": "Gift of Tamar Cohen",
+            "Object number": "76.2018.220",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7644"
     }
 ]

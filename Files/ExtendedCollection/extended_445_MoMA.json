@@ -1,864 +1,909 @@
 [
     {
-        "Artist": "David Prifti",
-        "Title": "Monika",
-        "Year": "1987",
-        "ObjectID": "49482",
-        "Work": "https://www.moma.org/collection/works/49482",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMTg4MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=652b9b96d6ab6aa8",
+        "Artist": "James Siena",
+        "Title": "#11",
+        "Year": "(1990)",
+        "ObjectID": "97395",
+        "Work": "https://www.moma.org/collection/works/97395",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExMjQwNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c079700f36836702",
+        "Details": {
+            "Medium": "Ink and pencil on paper",
+            "Dimensions": "9 x 7\" (22.9 x 17.8 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "3096.2005",
+            "Copyright": "\u00a9 2023 James Siena",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/23005"
+    },
+    {
+        "Artist": "James Siena",
+        "Title": "#4",
+        "Year": "(1990)",
+        "ObjectID": "97396",
+        "Work": "https://www.moma.org/collection/works/97396",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExMzY3NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f442b2f2e2abbeaa",
+        "Details": {
+            "Medium": "Ink and pencil on paper",
+            "Dimensions": "9 x 7\" (22.9 x 17.8 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "3094.2005",
+            "Copyright": "\u00a9 2023 James Siena",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/23005"
+    },
+    {
+        "Artist": "James Siena",
+        "Title": "#5",
+        "Year": "(1990)",
+        "ObjectID": "97397",
+        "Work": "https://www.moma.org/collection/works/97397",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExMzY3OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f75174c37e2e63e6",
+        "Details": {
+            "Medium": "Ink and pencil on paper",
+            "Dimensions": "9 x 7\" (22.9 x 17.8 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "3095.2005",
+            "Copyright": "\u00a9 2023 James Siena",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/23005"
+    },
+    {
+        "Artist": "Laurie Simmons",
+        "Title": "Three Red Petit-Fours",
+        "Year": "1990",
+        "ObjectID": "407400",
+        "Work": "https://www.moma.org/collection/works/407400",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ5MjI5NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0a876778ef426397",
         "Details": {
             "Medium": "Chromogenic print",
-            "Dimensions": "17 1/4 \u00d7 14 3/8\" (43.7 \u00d7 36.4 cm)",
+            "Dimensions": "23 \u00d7 35\" (58.4 \u00d7 88.9 cm)",
+            "Credit": "Gift of Helen Kornblum in honor of Roxana Marcoci",
+            "Object number": "68.2020",
+            "Copyright": "\u00a9 2023 Laurie Simmons",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/7015"
+    },
+    {
+        "Artist": "Lorna Simpson",
+        "Title": "1978-88",
+        "Year": "1990",
+        "ObjectID": "153250",
+        "Work": "https://www.moma.org/collection/works/153250",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0MTQ1OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=802e64b265cd6b4d",
+        "Details": {
+            "Medium": "Gelatin silver prints with engraved plaques",
+            "Dimensions": "Each 48 3/4 \u00d7 16 3/4 \u00d7 1 5/8\" (123.8 \u00d7 42.5 \u00d7 4.1 cm)",
+            "Credit": "Gift of Gwen and Peter Norton",
+            "Object number": "1148.2011.a-d",
+            "Copyright": "\u00a9 2023 Lorna Simpson",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/6602"
+    },
+    {
+        "Artist": "Alexander Slussarev",
+        "Title": "Untitled",
+        "Year": "1990",
+        "ObjectID": "47934",
+        "Work": "https://www.moma.org/collection/works/47934",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwNzE2MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=540d75eb127266d2",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "14 13/16 \u00d7 9 13/16\" (37.7 \u00d7 24.9 cm)",
             "Credit": "E.T. Harmax Foundation Fund",
-            "Object number": "246.1988.x1-x2",
+            "Object number": "183.1998",
             "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/4737"
+        "Profile": "https://www.moma.org/artists/7820"
     },
     {
-        "Artist": "Richard Prince",
-        "Title": "Untitled (\"A couple is driving...\")",
-        "Year": "1987",
-        "ObjectID": "34749",
-        "Work": "https://www.moma.org/collection/works/34749",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQyNjg2MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=33ef69716302cc57",
-        "Details": {
-            "Medium": "Felt-tip pen on paper",
-            "Dimensions": "7 1/4 x 11 1/2\" (18.5 x 29.3 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "146.1991.3",
-            "Copyright": "\u00a9 2023 Richard Prince",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/4741"
-    },
-    {
-        "Artist": "Richard Prince",
-        "Title": "Tell Me Everything",
-        "Year": "1987",
-        "ObjectID": "216607",
-        "Work": "https://www.moma.org/collection/works/216607",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ5NTg4MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=65901464547c3694",
-        "Details": {
-            "Medium": "Acrylic and silkscreen ink on canvas",
-            "Dimensions": "56 \u00d7 48\" (142.2 \u00d7 121.9 cm)",
-            "Credit": "Gift of Steven and Alexandra Cohen",
-            "Object number": "1343.2016",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/4741"
-    },
-    {
-        "Artist": "Martin Puryear",
-        "Title": "Verge",
-        "Year": "1987",
-        "ObjectID": "100301",
-        "Work": "https://www.moma.org/collection/works/100301",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2OTI0MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9f0689003b31a617",
-        "Details": {
-            "Medium": "Painted wood",
-            "Dimensions": "67 3/8\" x 7' x 46 1/4\" (171.1 x 213.4 x 117.5 cm)",
-            "Credit": "Gift of Edward R. Broida",
-            "Object number": "763.2005",
-            "Copyright": "\u00a9 2023 Martin Puryear",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/4758"
-    },
-    {
-        "Artist": "Markus Raetz",
-        "Title": "Senses I (Sinne I)",
-        "Year": "1987",
-        "ObjectID": "67889",
-        "Work": "https://www.moma.org/collection/works/67889",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEwMDgxOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=eb7eee9088041be4",
-        "Details": {
-            "Medium": "Aquatint",
-            "Dimensions": "plate: 9 11/16 x 12 5/8\" (24.6 x 32 cm); sheet (irreg.): 25 9/16 x 20\" (65 x 50.8 cm)",
-            "Publisher": "Kunsthaus Z\u00fcrich",
-            "Printer": "Peter Kneub\u00fchler",
-            "Edition": "75",
-            "Credit": "Purchase",
-            "Object number": "367.1988",
-            "Copyright": "\u00a9 2023 Markus Raetz",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/4787"
-    },
-    {
-        "Artist": "Edward Ranney",
-        "Title": "Canyon del Muerto, Arizona",
-        "Year": "1987",
-        "ObjectID": "55354",
-        "Work": "https://www.moma.org/collection/works/55354",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5OTA1MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=075e6d22f6d0bd6b",
+        "Artist": "Alexander Slussarev",
+        "Title": "Untitled",
+        "Year": "1990",
+        "ObjectID": "47952",
+        "Work": "https://www.moma.org/collection/works/47952",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwNzE4NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=236d898a99d2ffa4",
         "Details": {
             "Medium": "Gelatin silver print",
-            "Dimensions": "12 3/4 \u00d7 18 5/16\" (32.3 \u00d7 46.5 cm)",
-            "Credit": "Partial gift of Shirley C. Burden, by exchange",
-            "Object number": "581.1987",
-            "Copyright": "\u00a9 2023 Edward Ranney",
+            "Dimensions": "14 3/4 \u00d7 9 13/16\" (37.5 \u00d7 24.9 cm)",
+            "Credit": "E.T. Harmax Foundation Fund",
+            "Object number": "184.1998",
             "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/4813"
+        "Profile": "https://www.moma.org/artists/7820"
     },
     {
-        "Artist": "Edward Ranney",
-        "Title": "Upper Anton Chico, New Mexico",
-        "Year": "1987",
-        "ObjectID": "55395",
-        "Work": "https://www.moma.org/collection/works/55395",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5OTA1NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d57caf1a024753a7",
+        "Artist": "Beuford Smith",
+        "Title": "Kiane Zawadi/Euphonium Player, Brooklyn, NY",
+        "Year": "1990",
+        "ObjectID": "57242",
+        "Work": "https://www.moma.org/collection/works/57242",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1MzEyNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f9e6c15d4f9b16e9",
         "Details": {
+            "Sitter": "Kiane Zawadi",
             "Medium": "Gelatin silver print",
-            "Dimensions": "13 \u00d7 18 7/8\" (33 \u00d7 48 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "586.1987",
-            "Copyright": "\u00a9 2023 Edward Ranney",
+            "Dimensions": "13 9/16 \u00d7 9 1/16\" (34.4 \u00d7 23 cm)",
+            "Credit": "Lois and Bruce Zenkel Fund",
+            "Object number": "880.1995",
+            "Copyright": "\u00a9 2023 Beuford Smith",
             "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/4813"
+        "Profile": "https://www.moma.org/artists/5478"
     },
     {
-        "Artist": "Robert Rauschenberg",
-        "Title": "Bellini #2",
-        "Year": "1987",
-        "ObjectID": "68510",
-        "Work": "https://www.moma.org/collection/works/68510",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5Mzk5MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2498f4ce191b7ccc",
+        "Artist": "Kiki Smith",
+        "Title": "Anemone (plate, folio 47 verso) from A Bestiary",
+        "Year": "1990",
+        "ObjectID": "10090",
+        "Work": "https://www.moma.org/collection/works/10090",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ4OTM5OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fedfd0b1acb455ee",
         "Details": {
-            "Medium": "Photoetching",
+            "Author": "Bradford Morrow",
+            "Medium": "Linoleum cut from an illustrated book with twenty-nine linoleum cuts (two with pochoir and two with letterpress) and seven woodcuts",
+            "Dimensions": "composition (irreg.): 3 5/8 \u00d7 5 9/16\" (9.2 \u00d7 14.2 cm); page: 14 13/16 \u00d7 10 13/16\" (37.6 \u00d7 27.5 cm)",
+            "Publisher": "The Grenfell Press, New York",
+            "Printer": "The Grenfell Press, New York",
+            "Edition": "100",
+            "Credit": "Abby Aldrich Rockefeller Fund",
+            "Object number": "29.1991.20",
+            "Copyright": "\u00a9 2023 Kiki Smith",
+            "Illustrated book": "A Bestiary",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5486"
+    },
+    {
+        "Artist": "Kiki Smith",
+        "Title": "Bat (plate, folio 79 verso) from A Bestiary",
+        "Year": "1990",
+        "ObjectID": "10107",
+        "Work": "https://www.moma.org/collection/works/10107",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ4OTQxNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=43bc891e8904ef08",
+        "Details": {
+            "Author": "Bradford Morrow",
+            "Medium": "Woodcut from an illustrated book with twenty-nine linoleum cuts (two with pochoir and two with letterpress) and seven woodcuts",
+            "Dimensions": "composition and page: 14 3/4 x 10 13/16\" (37.5 x 27.5 cm)",
+            "Publisher": "The Grenfell Press, New York",
+            "Printer": "The Grenfell Press, New York",
+            "Edition": "100",
+            "Credit": "Abby Aldrich Rockefeller Fund",
+            "Object number": "29.1991.36",
+            "Copyright": "\u00a9 2023 Kiki Smith",
+            "Illustrated book": "A Bestiary",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5486"
+    },
+    {
+        "Artist": "Kiki Smith",
+        "Title": "A Man",
+        "Year": "(1990)",
+        "ObjectID": "35538",
+        "Work": "https://www.moma.org/collection/works/35538",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQwMDU2NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=020892115918ef99",
+        "Details": {
+            "Medium": "Printing ink on torn-and-pasted paper",
+            "Dimensions": "78 x 200\" (198.1 x 508 cm)",
+            "Credit": "Gift of Patricia and Morris Orden",
+            "Object number": "206.1995",
+            "Copyright": "\u00a9 2023 Kiki Smith",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5486"
+    },
+    {
+        "Artist": "Kiki Smith",
+        "Title": "Untitled",
+        "Year": "1990",
+        "ObjectID": "64643",
+        "Work": "https://www.moma.org/collection/works/64643",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExMDU4MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a6213b387d45d54a",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition (irreg.): 35 13/16 x 36 5/16\" (91 x 92.2 cm); sheet: 35 13/16 x 36 5/16\" (91 x 92.2 cm)",
             "Publisher": "Universal Limited Art Editions, West Islip, New York",
             "Printer": "Universal Limited Art Editions, West Islip, New York",
-            "Edition": "48",
+            "Edition": "54",
             "Credit": "Gift of Emily Fisher Landau",
-            "Object number": "403.1987",
-            "Copyright": "\u00a9 2023 Robert Rauschenberg Foundation",
+            "Object number": "220.1990",
+            "Copyright": "\u00a9 2023 Kiki Smith",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/4823"
+        "Profile": "https://www.moma.org/artists/5486"
     },
     {
-        "Artist": "Robert Rauschenberg",
-        "Title": "Stop Side Early Winter Glut",
-        "Year": "1987",
-        "ObjectID": "174934",
-        "Work": "https://www.moma.org/collection/works/174934",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4NzA3MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5492d45e66557a48",
+        "Artist": "Kiki Smith",
+        "Title": "Untitled",
+        "Year": "1987-90",
+        "ObjectID": "81598",
+        "Work": "https://www.moma.org/collection/works/81598",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMTY1OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2bc2bc9d1692ca73",
         "Details": {
-            "Medium": "Metal signs and objects",
-            "Dimensions": "43 1/4 x 46 x 34\" (109.9 x 116.8 x 86.4 cm)",
-            "Credit": "Gift of Robert Rauschenberg Foundation and Marie-Jos\u00e9e and Henry R. Kravis",
-            "Object number": "1200.2013",
-            "Copyright": "\u00a9 2023 Robert Rauschenberg Foundation",
+            "Medium": "Silvered glass water bottles",
+            "Dimensions": "Each bottle 20 1/2\" (52.1 cm) x 11 1/2\" (29.2 cm) in diameter",
+            "Credit": "Gift of Louis and Bessie Adler Foundation, Inc.",
+            "Object number": "565.1990.a-l",
+            "Copyright": "\u00a9 2023 Kiki Smith",
             "Department": "Painting and Sculpture"
         },
-        "Profile": "https://www.moma.org/artists/4823"
+        "Profile": "https://www.moma.org/artists/5486"
     },
     {
-        "Artist": "Robert Rauschenberg",
-        "Title": "Polar Glut",
-        "Year": "1987",
-        "ObjectID": "174935",
-        "Work": "https://www.moma.org/collection/works/174935",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4MDQxOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ca879b71c5d5b2b8",
+        "Artist": "Kiki Smith",
+        "Title": "'Cause I'm on My Time (inserts for Fawbush Gallery invitations)",
+        "Year": "1990",
+        "ObjectID": "89192",
+        "Work": "https://www.moma.org/collection/works/89192",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQyMDcwNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9fc30f0d5130ab39",
         "Details": {
-            "Medium": "Riveted metal signs",
-            "Dimensions": "76 1/2 x 36 x 4\" (194.3 x 91.4 x 10.2 cm)",
-            "Credit": "Promised gift of Marie-Jos\u00e9e and Henry R. Kravis",
-            "Object number": "PG1199.2013",
-            "Copyright": "\u00a9 2023 Robert Rauschenberg Foundation",
-            "Department": "Painting and Sculpture"
+            "Medium": "Five woodcuts",
+            "Dimensions": "various dimensions",
+            "Publisher": "The Grenfell Press, New York",
+            "Printer": "The Grenfell Press, New York",
+            "Edition": "400",
+            "Credit": "Gift of Thomas Jones in memory of Joe Fawbush",
+            "Object number": "360.2003.a-e",
+            "Copyright": "\u00a9 2023 Kiki Smith",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/4823"
+        "Profile": "https://www.moma.org/artists/5486"
     },
     {
-        "Artist": "Zoltan Reczey",
-        "Title": "Lacht El Bahhtar, Cro Magnoni Cola (Poster for a concert)",
-        "Year": "1987",
-        "ObjectID": "192183",
-        "Work": "https://www.moma.org/collection/works/192183",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMyNDY0NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=22db27442e84bf1a",
+        "Artist": "Kiki Smith",
+        "Title": "Bluebeard",
+        "Year": "1990",
+        "ObjectID": "90038",
+        "Work": "https://www.moma.org/collection/works/90038",
+        "Thumbnail": null,
         "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "10 13/16 x 15 3/16\" (27.5 x 38.5 cm)",
-            "Credit": "Committee on Architecture and Design Funds",
-            "Object number": "945.2015",
-            "Department": "Architecture and Design"
+            "Medium": "Photocopy and photocopy transfer on 22 attached sheets of paper",
+            "Dimensions": "composition and sheet: 7' 6\" x 27 1/2\" (228.6 x 69.9 cm)",
+            "Publisher": "unpublished",
+            "Printer": "Kiki Smith",
+            "Edition": "few known variants",
+            "Credit": "Gift of the artist in memory of Kirk Varnedoe",
+            "Object number": "51.2004",
+            "Copyright": "\u00a9 2023 Kiki Smith",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/75076"
+        "Profile": "https://www.moma.org/artists/5486"
     },
     {
-        "Artist": "Jeanette Reinhardt",
-        "Title": "Mother May I?",
-        "Year": "1987",
-        "ObjectID": "120139",
-        "Work": "https://www.moma.org/collection/works/120139",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1MDY2MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cfacbcc81f5f0790",
+        "Artist": "Kiki Smith",
+        "Title": "Untitled (Fluttering Eyes)",
+        "Year": "1990",
+        "ObjectID": "90039",
+        "Work": "https://www.moma.org/collection/works/90039",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ0Mzg5NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5d6661002d8853ff",
+        "Details": {
+            "Medium": "Screenprint and monotype on eight sheets of handmade Nepalese paper",
+            "Dimensions": "composition and sheet (irreg.): 47 5/8 x 20 5/8\" (121 x 52.4 cm)",
+            "Publisher": "unpublished",
+            "Edition": "few known variants",
+            "Credit": "Gift of the artist in memory of Kirk Varnedoe",
+            "Object number": "52.2004",
+            "Copyright": "\u00a9 2023 Kiki Smith",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5486"
+    },
+    {
+        "Artist": "Mimi Smith",
+        "Title": "Technical Error 31",
+        "Year": "1990",
+        "ObjectID": "14720",
+        "Work": "https://www.moma.org/collection/works/14720",
+        "Thumbnail": null,
+        "Details": {
+            "Author": "Mimi Smith",
+            "Medium": "Illustrated book with six line blocks (three with acrylic additions)",
+            "Dimensions": "page (each): 7 7/8 \u00d7 5 1/2\" (20 \u00d7 14 cm)",
+            "Publisher": "Mimi Smith, New York",
+            "Printer": "SOLO Press, Inc.",
+            "Edition": "25",
+            "Credit": "Purchase",
+            "Object number": "291.1991.1-6",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6634"
+    },
+    {
+        "Artist": "Sonic Youth, Thurston Moore",
+        "Title": "My Friend Goo",
+        "Year": "1990",
+        "ObjectID": "120393",
+        "Work": "https://www.moma.org/collection/works/120393",
+        "Thumbnail": null,
         "Details": {
             "Medium": "Video (color, sound)",
-            "Duration": "13 min.",
-            "Credit": "Purchase",
-            "Object number": "488.1988",
-            "Copyright": "\u00a9 2023 Jeanette Reinhardt",
+            "Duration": "6:20 min.",
+            "Director": "Thurston Moore",
+            "Credit": "Gift of the artists",
+            "Object number": "470.2003",
+            "Copyright": "\u00a9 2023 Tony Oursler",
             "Department": "Media and Performance"
         },
-        "Profile": "https://www.moma.org/artists/35526"
+        "Profile": "https://www.moma.org/artists/32473"
     },
     {
-        "Artist": "Klaus Rinke",
-        "Title": "Memory of the Skin",
-        "Year": "1987",
-        "ObjectID": "13516",
-        "Work": "https://www.moma.org/collection/works/13516",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ5MTE3NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=63231768c7c0a294",
-        "Details": {
-            "Medium": "Illustrated book with thirteen pencil drawings (including front cover and broadside announcement)",
-            "Dimensions": "page (irreg. each approx.): 15 9/16 \u00d7 11 1/4\" (39.5 \u00d7 28.5 cm); overall (closed): 16 7/16 \u00d7 12 3/8 \u00d7 13/16\" (41.7 \u00d7 31.4 \u00d7 2 cm)",
-            "Publisher": "The Lapis Press, Los Angeles",
-            "Edition": "20",
-            "Credit": "Purchase",
-            "Object number": "205.1988.1-13",
-            "Copyright": "\u00a9 Klaus Rinke",
-            "Type": "Illustrated Book",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/4933"
-    },
-    {
-        "Artist": "Klaus Rinke",
-        "Title": "Plate (folio 4) from Memory of the Skin",
-        "Year": "1987",
-        "ObjectID": "13517",
-        "Work": "https://www.moma.org/collection/works/13517",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ5MTE3MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fdf573dc574413a7",
-        "Details": {
-            "Medium": "One from an illustrated book with thirteen pencil drawings (including front cover and broadside announcement)",
-            "Dimensions": "composition (irreg.): 15 9/16 \u00d7 9 13/16\" (39.5 \u00d7 25 cm); page (irreg. each approx.): 15 9/16 \u00d7 11 1/4\" (39.5 \u00d7 28.5 cm)",
-            "Publisher": "The Lapis Press, Los Angeles",
-            "Edition": "20",
-            "Credit": "Purchase",
-            "Object number": "205.1988.1",
-            "Copyright": "\u00a9 Klaus Rinke",
-            "Illustrated book": "Memory of the Skin",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/4933"
-    },
-    {
-        "Artist": "Klaus Rinke",
-        "Title": "Plate (folio 5) from Memory of the Skin",
-        "Year": "1987",
-        "ObjectID": "13518",
-        "Work": "https://www.moma.org/collection/works/13518",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ5MTE3OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=eff406f19685eee8",
-        "Details": {
-            "Medium": "One from an illustrated book with thirteen pencil drawings (including front cover and broadside announcement)",
-            "Dimensions": "composition (irreg.): 15 3/16 \u00d7 10 15/16\" (38.5 \u00d7 27.8 cm); page (irreg. each approx.): 15 9/16 \u00d7 11 1/4\" (39.5 \u00d7 28.5 cm)",
-            "Publisher": "The Lapis Press, Los Angeles",
-            "Edition": "20",
-            "Credit": "Purchase",
-            "Object number": "205.1988.2",
-            "Copyright": "\u00a9 Klaus Rinke",
-            "Illustrated book": "Memory of the Skin",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/4933"
-    },
-    {
-        "Artist": "Klaus Rinke",
-        "Title": "Plate (folio 7) from Memory of the Skin",
-        "Year": "1987",
-        "ObjectID": "13519",
-        "Work": "https://www.moma.org/collection/works/13519",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ5MTE4MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3fc5fae38a081c7d",
-        "Details": {
-            "Medium": "One from an illustrated book with thirteen pencil drawings (including front cover and broadside announcement)",
-            "Dimensions": "composition (irreg.): 15 9/16 \u00d7 11 1/8\" (39.5 \u00d7 28.3 cm); page (irreg. each approx.): 15 9/16 \u00d7 11 1/4\" (39.5 \u00d7 28.5 cm)",
-            "Publisher": "The Lapis Press, Los Angeles",
-            "Edition": "20",
-            "Credit": "Purchase",
-            "Object number": "205.1988.3",
-            "Copyright": "\u00a9 Klaus Rinke",
-            "Illustrated book": "Memory of the Skin",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/4933"
-    },
-    {
-        "Artist": "Klaus Rinke",
-        "Title": "Plate (folio 9) from Memory of the Skin",
-        "Year": "1987",
-        "ObjectID": "13520",
-        "Work": "https://www.moma.org/collection/works/13520",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ5MTE4MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a0cfa2cc84d6c400",
-        "Details": {
-            "Medium": "One from an illustrated book with thirteen pencil drawings (including front cover and broadside announcement)",
-            "Dimensions": "composition (irreg.): 15 9/16 \u00d7 10 13/16\" (39.5 \u00d7 27.4 cm); page (irreg. each approx.): 15 9/16 \u00d7 11 1/4\" (39.5 \u00d7 28.5 cm)",
-            "Publisher": "The Lapis Press, Los Angeles",
-            "Edition": "20",
-            "Credit": "Purchase",
-            "Object number": "205.1988.4",
-            "Copyright": "\u00a9 Klaus Rinke",
-            "Illustrated book": "Memory of the Skin",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/4933"
-    },
-    {
-        "Artist": "Klaus Rinke",
-        "Title": "Plate (folio 11) from Memory of the Skin",
-        "Year": "1987",
-        "ObjectID": "13521",
-        "Work": "https://www.moma.org/collection/works/13521",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ5MTE4MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=57377882233e6e12",
-        "Details": {
-            "Medium": "One from an illustrated book with thirteen pencil drawings (including front cover and broadside announcement)",
-            "Dimensions": "composition (irreg.): 14 3/4 \u00d7 10 1/4\" (37.4 \u00d7 26 cm); page (irreg. each approx.): 15 9/16 \u00d7 11 1/4\" (39.5 \u00d7 28.5 cm)",
-            "Publisher": "The Lapis Press, Los Angeles",
-            "Edition": "20",
-            "Credit": "Purchase",
-            "Object number": "205.1988.5",
-            "Copyright": "\u00a9 Klaus Rinke",
-            "Illustrated book": "Memory of the Skin",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/4933"
-    },
-    {
-        "Artist": "Klaus Rinke",
-        "Title": "Double page plate (folios 12 verso and 13) from Memory of the Skin",
-        "Year": "1987",
-        "ObjectID": "13522",
-        "Work": "https://www.moma.org/collection/works/13522",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ5MTE4MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=52ecb0b16bfa1e26",
-        "Details": {
-            "Medium": "One from an illustrated book with thirteen pencil drawings (including front cover and broadside announcement)",
-            "Dimensions": "composition (irreg.): 11 7/8 \u00d7 22 5/8\" (30.2 \u00d7 57.4 cm); page (irreg. each approx.): 15 9/16 \u00d7 11 1/4\" (39.5 \u00d7 28.5 cm)",
-            "Publisher": "The Lapis Press, Los Angeles",
-            "Edition": "20",
-            "Credit": "Purchase",
-            "Object number": "205.1988.6",
-            "Copyright": "\u00a9 Klaus Rinke",
-            "Illustrated book": "Memory of the Skin",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/4933"
-    },
-    {
-        "Artist": "Klaus Rinke",
-        "Title": "Plate (folio 15) from Memory of the Skin",
-        "Year": "1987",
-        "ObjectID": "13523",
-        "Work": "https://www.moma.org/collection/works/13523",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ5MTE4NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=afcf156eda147011",
-        "Details": {
-            "Medium": "One from an illustrated book with thirteen pencil drawings (including front cover and broadside announcement)",
-            "Dimensions": "composition (irreg.): 15 3/4 \u00d7 11 3/4\" (40 \u00d7 29.8 cm); page (irreg. each approx.): 15 9/16 \u00d7 11 1/4\" (39.5 \u00d7 28.5 cm)",
-            "Publisher": "The Lapis Press, Los Angeles",
-            "Edition": "20",
-            "Credit": "Purchase",
-            "Object number": "205.1988.7",
-            "Copyright": "\u00a9 Klaus Rinke",
-            "Illustrated book": "Memory of the Skin",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/4933"
-    },
-    {
-        "Artist": "Klaus Rinke",
-        "Title": "Plate (folio 17) from Memory of the Skin",
-        "Year": "1987",
-        "ObjectID": "13524",
-        "Work": "https://www.moma.org/collection/works/13524",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ5MTE4NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=545357b735437793",
-        "Details": {
-            "Medium": "One from an illustrated book with thirteen pencil drawings (including front cover and broadside announcement)",
-            "Dimensions": "composition (irreg.): 14 5/8 \u00d7 11 5/8\" (37.2 \u00d7 29.5 cm); page (irreg. each approx.): 15 9/16 \u00d7 11 1/4\" (39.5 \u00d7 28.5 cm)",
-            "Publisher": "The Lapis Press, Los Angeles",
-            "Edition": "20",
-            "Credit": "Purchase",
-            "Object number": "205.1988.8",
-            "Copyright": "\u00a9 Klaus Rinke",
-            "Illustrated book": "Memory of the Skin",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/4933"
-    },
-    {
-        "Artist": "Klaus Rinke",
-        "Title": "Plate (folio 19) from Memory of the Skin",
-        "Year": "1987",
-        "ObjectID": "13525",
-        "Work": "https://www.moma.org/collection/works/13525",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ5MTE4NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a8947b30c6ed2ddd",
-        "Details": {
-            "Medium": "One from an illustrated book with thirteen pencil drawings (including front cover and broadside announcement)",
-            "Dimensions": "composition (irreg.): 14 1/2 \u00d7 11 5/8\" (36.8 \u00d7 29.5 cm); page (irreg. each approx.): 15 9/16 \u00d7 11 1/4\" (39.5 \u00d7 28.5 cm)",
-            "Publisher": "The Lapis Press, Los Angeles",
-            "Edition": "20",
-            "Credit": "Purchase",
-            "Object number": "205.1988.9",
-            "Copyright": "\u00a9 Klaus Rinke",
-            "Illustrated book": "Memory of the Skin",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/4933"
-    },
-    {
-        "Artist": "Klaus Rinke",
-        "Title": "Plate (folio 21) from Memory of the Skin",
-        "Year": "1987",
-        "ObjectID": "13526",
-        "Work": "https://www.moma.org/collection/works/13526",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ5MTE3MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8aa110117fd37092",
-        "Details": {
-            "Medium": "One from an illustrated book with thirteen pencil drawings (including front cover and broadside announcement)",
-            "Dimensions": "composition (irreg.): 13 3/8 \u00d7 11\" (34 \u00d7 28 cm); page (irreg. each approx.): 15 9/16 \u00d7 11 1/4\" (39.5 \u00d7 28.5 cm)",
-            "Publisher": "The Lapis Press, Los Angeles",
-            "Edition": "20",
-            "Credit": "Purchase",
-            "Object number": "205.1988.10",
-            "Copyright": "\u00a9 Klaus Rinke",
-            "Illustrated book": "Memory of the Skin",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/4933"
-    },
-    {
-        "Artist": "Klaus Rinke",
-        "Title": "Double page plate (folios 22 verso and 23) from Memory of the Skin",
-        "Year": "1987",
-        "ObjectID": "13527",
-        "Work": "https://www.moma.org/collection/works/13527",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ5MTE3NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e155546d49651c19",
-        "Details": {
-            "Medium": "One from an illustrated book with thirteen pencil drawings (including front cover and broadside announcement)",
-            "Dimensions": "composition (irreg.): 9 1/16 \u00d7 23 1/4\" (23 \u00d7 59 cm); page (irreg. each approx.): 15 9/16 \u00d7 11 1/4\" (39.5 \u00d7 28.5 cm)",
-            "Publisher": "The Lapis Press, Los Angeles",
-            "Edition": "20",
-            "Credit": "Purchase",
-            "Object number": "205.1988.11",
-            "Copyright": "\u00a9 Klaus Rinke",
-            "Illustrated book": "Memory of the Skin",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/4933"
-    },
-    {
-        "Artist": "Klaus Rinke",
-        "Title": "Cover from Memory of the Skin",
-        "Year": "1987",
-        "ObjectID": "13528",
-        "Work": "https://www.moma.org/collection/works/13528",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ5MTE3NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=63231768c7c0a294",
-        "Details": {
-            "Medium": "One from an illustrated book with thirteen pencil drawings (including front cover and broadside announcement)",
-            "Dimensions": "composition (irreg.): 14 1/2 \u00d7 11 3/8\" (36.9 \u00d7 28.9 cm); overall (closed): 16 7/16 \u00d7 12 3/8 \u00d7 13/16\" (41.7 \u00d7 31.4 \u00d7 2 cm)",
-            "Publisher": "The Lapis Press, Los Angeles",
-            "Edition": "20",
-            "Credit": "Purchase",
-            "Object number": "205.1988.12",
-            "Copyright": "\u00a9 Klaus Rinke",
-            "Illustrated book": "Memory of the Skin",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/4933"
-    },
-    {
-        "Artist": "Klaus Rinke",
-        "Title": "Broadside announcement from Memory of the Skin",
-        "Year": "1987",
-        "ObjectID": "13529",
-        "Work": "https://www.moma.org/collection/works/13529",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ5MTE3OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=703d980a442b1fd1",
-        "Details": {
-            "Medium": "One from an illustrated book with thirteen pencil drawings (including front cover and broadside announcement)",
-            "Dimensions": "sheet (irreg.): 23 1/2 \u00d7 15 7/8\" (59.7 \u00d7 40.3 cm)",
-            "Publisher": "The Lapis Press, Los Angeles",
-            "Edition": "20",
-            "Credit": "Purchase",
-            "Object number": "205.1988.13",
-            "Copyright": "\u00a9 Klaus Rinke",
-            "Illustrated book": "Memory of the Skin",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/4933"
-    },
-    {
-        "Artist": "Pipilotti Rist",
-        "Title": "Sexy Sad I",
-        "Year": "1987",
-        "ObjectID": "119118",
-        "Work": "https://www.moma.org/collection/works/119118",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1MTU4MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cb3af68f6710fc21",
+        "Artist": "Sonic Youth, Tony Oursler",
+        "Title": "Tunic (Song for Karen)",
+        "Year": "1990",
+        "ObjectID": "120392",
+        "Work": "https://www.moma.org/collection/works/120392",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1MTYxMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=bb6a90ede89c288a",
         "Details": {
             "Medium": "Video (color, sound)",
-            "Duration": "4:36 min.",
-            "Credit": "Gift of Jerry I. Speyer and Katherine G. Farley, Anna Marie and Robert F. Shapiro, and Marie-Jos\u00e9e and Henry R. Kravis",
-            "Object number": "590.2008",
-            "Copyright": "\u00a9 2023 Pipilotti Rist. Courtesy Electronic Arts Intermix (EAI), New York",
+            "Duration": "6:17 min.",
+            "Credit": "Gift of the artists",
+            "Object number": "473.2003",
+            "Copyright": "\u00a9 2023 Tony Oursler. Courtesy Electronic Arts Intermix (EAI), New York",
             "Department": "Media and Performance"
         },
-        "Profile": "https://www.moma.org/artists/8297"
+        "Profile": "https://www.moma.org/artists/32473"
     },
     {
-        "Artist": "Larry Rivers",
-        "Title": "Bald Eagle, George and Part of the Constitution",
-        "Year": "1987",
-        "ObjectID": "68525",
-        "Work": "https://www.moma.org/collection/works/68525",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM1MTAwNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1880ee54460527b0",
+        "Artist": "Sonic Youth, Raymond Pettibon",
+        "Title": "Goo",
+        "Year": "1990",
+        "ObjectID": "191041",
+        "Work": "https://www.moma.org/collection/works/191041",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzNjEyMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a8ea546664909a4d",
         "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "irreg. composition  30 11/16 x 24 1/8\" (78 x 61.3 cm)\r\nsheet  32 3/16 x 24 1/4\" (81 x 61.6 cm)",
-            "Publisher": "Universal Limited Art Editions, West Islip, New York",
-            "Printer": "Universal Limited Art Editions, West Islip, New York",
-            "Credit": "Gift of Emily Fisher Landau",
-            "Object number": "404.1987",
-            "Copyright": "\u00a9 2023 Estate of Larry Rivers/Licensed by VAGA, New York, NY",
+            "Collaborating artist": "(cover) Raymond Pettibon",
+            "Medium": "12-inch vinyl record",
+            "Dimensions": "cover: 12 5/16 x 12 3/8 x 1/16\" (31.2 x 31.4 x 0.2 cm)",
+            "Publisher": "David Geffen Company, Los Angeles, CA",
+            "Credit": "Acquired from The Eileen and Michael Cohen Collection through the The Sue and Edgar Wachenheim III Endowment",
+            "Object number": "1089.2014.51.x1-x3",
+            "Copyright": "\u00a9 2023 Raymond Pettibon",
+            "Associated work": "Raymond Pettibon Archive",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/4945"
+        "Profile": "https://www.moma.org/artists/32473"
     },
     {
-        "Artist": "Tim Rollins, K.O.S. (Kids of Survival), Angel Abreu, Jose Burges, Robert Delgado, George Garces, Richard Lulo, Nelson Montes, Jose Parissi, Carlos Rivera, Annette Rosado, Nelson Ricardo Savinon",
-        "Title": "Amerika VIII",
-        "Year": "1986-87",
-        "ObjectID": "78570",
-        "Work": "https://www.moma.org/collection/works/78570",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1MTI2MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c3163bb5d81a2e74",
+        "Artist": "Sonic Youth, Raymond Pettibon",
+        "Title": "Disappearer",
+        "Year": "1990",
+        "ObjectID": "191042",
+        "Work": "https://www.moma.org/collection/works/191042",
+        "Thumbnail": null,
         "Details": {
-            "Collaborating artist": "Angel Abreu, Jose Burges, Robert Delgado, George Garces, Richard Lulo, Nelson Montes, Jos\u00e9 Parissi, Carlos Rivera, Annette Rosado, Nelson Ricardo Savinon",
-            "Medium": "Watercolor, charcoal, and pencil on bookpages on linen",
-            "Dimensions": "69 1/8\" x 14' (175.6 x 426.7 cm)",
-            "Credit": "Jerry I. Speyer Fund and Robert and Meryl Meltzer Fund",
-            "Object number": "30.1988",
-            "Copyright": "\u00a9 2023 Tim Rollins and K.O.S.",
+            "Collaborating artist": "(cover) Raymond Pettibon",
+            "Medium": "12-inch vinyl record",
+            "Dimensions": "cover: 12 5/16 x 12 3/8 x 1/16\" (31.3 x 31.4 x 0.2 cm)",
+            "Publisher": "David Geffen Company, Los Angeles, CA",
+            "Credit": "Acquired from The Eileen and Michael Cohen Collection through the The Sue and Edgar Wachenheim III Endowment",
+            "Object number": "1089.2014.52.x1-x2",
+            "Copyright": "\u00a9 2023 Raymond Pettibon",
+            "Associated work": "Raymond Pettibon Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/32473"
+    },
+    {
+        "Artist": "Andrew Spence",
+        "Title": "Untitled (known as racetrack) from an untitled portfolio",
+        "Year": "1990",
+        "ObjectID": "64676",
+        "Work": "https://www.moma.org/collection/works/64676",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMzIxNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4cc599001655ace3",
+        "Details": {
+            "Medium": "Woodcut",
+            "Dimensions": "composition  16 7/8 x 13 9/16\" (42.8 x 34.4 cm)\r\nsheet  25 15/16 x 20 1/16\" (66 x 51 cm)",
+            "Publisher": "The Spring Street Workshop, New York",
+            "Printer": "The Spring Street Workshop, New York",
+            "Edition": "50, 14 AP, 4 PP, 1 HC",
+            "Credit": "John B. Turner Fund",
+            "Object number": "222.1990",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5560"
+    },
+    {
+        "Artist": "Philippe Starck",
+        "Title": "Joe Cactus Ashtray",
+        "Year": "1990",
+        "ObjectID": "1813",
+        "Work": "https://www.moma.org/collection/works/1813",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNjY1MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2eb5aa97d526fed9",
+        "Details": {
+            "Manufacturer": "OWO, Montfort-l'Amaury, France, Officina Alessi, Italy",
+            "Medium": "Bakelite",
+            "Dimensions": "7 7/8 x 4 1/8\" (20 x 10.5 cm)",
+            "Credit": "David Whitney Collection, Gift of David Whitney",
+            "Object number": "47.2000.1",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/8418"
+    },
+    {
+        "Artist": "Saul Steinberg",
+        "Title": "Canal Street",
+        "Year": "1990",
+        "ObjectID": "9892",
+        "Work": "https://www.moma.org/collection/works/9892",
+        "Thumbnail": null,
+        "Details": {
+            "Author": "Ian Frazier",
+            "Medium": "Illustrated book with two woodcuts and sixteen offset lithographs  tipped in",
+            "Dimensions": "prints (each): various dimensions; page (each): 13 3/8 \u00d7 11 1/4\" (34 \u00d7 28.5 cm); book overall (closed): 13 9/16 \u00d7 11 3/8 \u00d7 11/16\" (34.4 \u00d7 28.9 \u00d7 1.7 cm)",
+            "Publisher": "Library Fellows of the Whitney Museum of American Art, New York",
+            "Printer": "(of woodcuts) Michael Berdan, (of lithographs) Stamperia Valdonega, Verona",
+            "Edition": "160 (numbered 1/160-160/160)",
+            "Credit": "Gift of Linda and Julie Janovic",
+            "Object number": "26.1991.1-18",
+            "Copyright": "\u00a9 2023 The Saul Steinberg Foundation / Artists Rights Society (ARS), New York",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5627"
+    },
+    {
+        "Artist": "Joel Sternfeld",
+        "Title": "Sheep Grazing in the Vicinity of the Claudian Aquaduct, Cinecitta, Rome",
+        "Year": "November 1990",
+        "ObjectID": "49243",
+        "Work": "https://www.moma.org/collection/works/49243",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM4OTg4NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f7f2efa531060f40",
+        "Details": {
+            "Medium": "Chromogenic print, printed November 1991",
+            "Dimensions": "8 11/16 \u00d7 10 13/16\" (22 \u00d7 27.5 cm)",
+            "Credit": "Gift of Bruce Berman",
+            "Object number": "231.1999",
+            "Copyright": "\u00a9 2023 Joel Sternfeld",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/5656"
+    },
+    {
+        "Artist": "Joel Sternfeld",
+        "Title": "Abandoned 19th century farmouse, Quarto Miglio, Rome",
+        "Year": "1990",
+        "ObjectID": "50967",
+        "Work": "https://www.moma.org/collection/works/50967",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5MTcwMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0ed7ba5072d2dcb7",
+        "Details": {
+            "Medium": "Chromogenic prints, printed 1995",
+            "Dimensions": "15 3/4 \u00d7 20 1/8\" (40 \u00d7 51.2 cm)",
+            "Credit": "Gift of Helen Levitt",
+            "Object number": "330.1996.x1-x2",
+            "Copyright": "\u00a9 2023 Joel Sternfeld",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/5656"
+    },
+    {
+        "Artist": "Joel Sternfeld",
+        "Title": "Women at their daily gathering beside an ancient Roman wall, Parco dei Gordiani, Rome",
+        "Year": "1990",
+        "ObjectID": "50990",
+        "Work": "https://www.moma.org/collection/works/50990",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM4OTg5MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b4c099506e90bcc9",
+        "Details": {
+            "Medium": "Chromogenic prints, printed 1995",
+            "Dimensions": "22 1/4 \u00d7 27 15/16\" (56.5 \u00d7 71 cm)",
+            "Credit": "Gift of Helen Levitt",
+            "Object number": "331.1996.x1-x2",
+            "Copyright": "\u00a9 2023 Joel Sternfeld",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/5656"
+    },
+    {
+        "Artist": "Mladen Stilinovic",
+        "Title": "Exploitation of the Dead",
+        "Year": "1984-90",
+        "ObjectID": "181109",
+        "Work": "https://www.moma.org/collection/works/181109",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0MDU3MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=326510b7e61e52fa",
+        "Details": {
+            "Medium": "Acrylic and oil on wood, wood paneling, cardboard, board, paper, tape and other materials",
+            "Dimensions": "Overall dimensions variable",
+            "Credit": "Committee on Painting and Sculpture Funds and gift of James Keith Brown and Eric Diefenbach and Jill and Peter Kraus",
+            "Object number": "255.2014.1-20",
             "Department": "Painting and Sculpture"
         },
-        "Profile": "https://www.moma.org/artists/19238"
+        "Profile": "https://www.moma.org/artists/45800"
     },
     {
-        "Artist": "Brian Rose",
-        "Title": "Offleben, West Germany",
-        "Year": "1987",
-        "ObjectID": "55435",
-        "Work": "https://www.moma.org/collection/works/55435",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMTkzOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4ed30381298ca315",
+        "Artist": "David Storey",
+        "Title": "Hare (plate, folio 33 verso) from A Bestiary",
+        "Year": "1990",
+        "ObjectID": "10082",
+        "Work": "https://www.moma.org/collection/works/10082",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ4OTM4NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ee34bbd94dd96506",
         "Details": {
-            "Medium": "Chromogenic print",
-            "Dimensions": "13 15/16 \u00d7 18\" (35.5 \u00d7 45.7 cm)",
-            "Credit": "Acquired through the generosity of Shirley C. Burden",
-            "Object number": "591.1987.x1-x2",
-            "Copyright": "\u00a9 2023 Brian Rose",
-            "Department": "Photography"
+            "Author": "Bradford Morrow",
+            "Medium": "Linoleum cut from an illustrated book with twenty-nine linoleum cuts (two with pochoir and two with letterpress) and seven woodcuts",
+            "Dimensions": "composition and page: 14 3/4 \u00d7 10 13/16\" (37.5 \u00d7 27.5 cm)",
+            "Publisher": "The Grenfell Press, New York",
+            "Printer": "The Grenfell Press, New York",
+            "Edition": "100",
+            "Credit": "Abby Aldrich Rockefeller Fund",
+            "Object number": "29.1991.13",
+            "Copyright": "\u00a9 2023 David Storey",
+            "Illustrated book": "A Bestiary",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/5017"
+        "Profile": "https://www.moma.org/artists/5679"
     },
     {
-        "Artist": "Brian Rose",
-        "Title": "Near Ratzeburg, West Germany",
-        "Year": "1987",
-        "ObjectID": "55443",
-        "Work": "https://www.moma.org/collection/works/55443",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMTkzOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=506870c46b854126",
+        "Artist": "David Storey",
+        "Title": "Scorpion (plate, folio 23 verso) from A Bestiary",
+        "Year": "1990",
+        "ObjectID": "10112",
+        "Work": "https://www.moma.org/collection/works/10112",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ4OTQyMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=83642a8f5f3b9c72",
         "Details": {
-            "Medium": "Chromogenic print",
-            "Dimensions": "13 15/16 \u00d7 18\" (35.5 \u00d7 45.8 cm)",
-            "Credit": "Acquired through the generosity of Shirley C. Burden",
-            "Object number": "592.1987.x1-x2",
-            "Copyright": "\u00a9 2023 Brian Rose",
-            "Department": "Photography"
+            "Author": "Bradford Morrow",
+            "Medium": "Linoleum cut from an illustrated book with twenty-nine linoleum cuts (two with pochoir and two with letterpress) and seven woodcuts",
+            "Dimensions": "composition (irreg.): 10 3/16 \u00d7 7 5/16\" (25.9 \u00d7 18.5 cm); page: 14 13/16 \u00d7 10 13/16\" (37.6 \u00d7 27.5 cm)",
+            "Publisher": "The Grenfell Press, New York",
+            "Printer": "The Grenfell Press, New York",
+            "Edition": "100",
+            "Credit": "Abby Aldrich Rockefeller Fund",
+            "Object number": "29.1991.8",
+            "Copyright": "\u00a9 2023 David Storey",
+            "Illustrated book": "A Bestiary",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/5017"
+        "Profile": "https://www.moma.org/artists/5679"
     },
     {
-        "Artist": "Aldo Rossi",
-        "Title": "Fragmento (NY Studio)",
-        "Year": "1987",
-        "ObjectID": "150140",
-        "Work": "https://www.moma.org/collection/works/150140",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMzUyNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e556ce702f06d651",
-        "Details": {
-            "Medium": "Ink and watercolor on paper",
-            "Dimensions": "17 x 11\" (43.2 x 27.9 cm)",
-            "Credit": "Purchased with funds given by the Helena Rubinstein Foundation",
-            "Object number": "757.2011",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/7661"
-    },
-    {
-        "Artist": "Judith Joy Ross",
-        "Title": "Congresswoman Pat Schroeder, Democrat, Colorado",
-        "Year": "1987",
-        "ObjectID": "55451",
-        "Work": "https://www.moma.org/collection/works/55451",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyNzIxMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a4a0a7e2d1bf1158",
-        "Details": {
-            "Medium": "Gelatin silver printing-out-paper print",
-            "Dimensions": "9 5/8 \u00d7 7 3/4\" (24.5 \u00d7 19.6 cm)",
-            "Credit": "Acquired through the generosity of Shirley C. Burden",
-            "Object number": "593.1987",
-            "Copyright": "\u00a9 2023 Judith Joy Ross",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/5030"
-    },
-    {
-        "Artist": "Judith Joy Ross",
-        "Title": "Senator Robert C. Byrd, Democrat, West Virginia (Majority Leader)",
-        "Year": "1987",
-        "ObjectID": "55458",
-        "Work": "https://www.moma.org/collection/works/55458",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyNzIxMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8aa36b9d93c73866",
-        "Details": {
-            "Medium": "Gelatin silver printing-out-paper print",
-            "Dimensions": "9 5/8 \u00d7 7 11/16\" (24.5 \u00d7 19.6 cm)",
-            "Credit": "Acquired through the generosity of Shirley C. Burden",
-            "Object number": "594.1987",
-            "Copyright": "\u00a9 2023 Judith Joy Ross",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/5030"
-    },
-    {
-        "Artist": "Judith Joy Ross",
-        "Title": "Senator Strom Thurmond, Republican, South Carolina",
-        "Year": "1987",
-        "ObjectID": "55466",
-        "Work": "https://www.moma.org/collection/works/55466",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyNzIxMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9b7c4b0e41fbc3ab",
-        "Details": {
-            "Medium": "Gelatin silver printing-out-paper print",
-            "Dimensions": "9 11/16 \u00d7 7 11/16\" (24.6 \u00d7 19.5 cm)",
-            "Credit": "Acquired through the generosity of Shirley C. Burden",
-            "Object number": "595.1987",
-            "Copyright": "\u00a9 2023 Judith Joy Ross",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/5030"
-    },
-    {
-        "Artist": "Judith Joy Ross",
-        "Title": "Congressman Dante B. Fascell, Democrat, Florida",
-        "Year": "1987",
-        "ObjectID": "93590",
-        "Work": "https://www.moma.org/collection/works/93590",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0MjQ0MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=738209543df71c0f",
-        "Details": {
-            "Medium": "Gelatin silver printing-out-paper print",
-            "Dimensions": "9 9/16 \u00d7 7 11/16\" (24.3 \u00d7 19.5 cm)",
-            "Credit": "Gift of Heidi and Richard Rieger",
-            "Object number": "424.2012",
-            "Copyright": "\u00a9 2023 Judith Joy Ross",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/5030"
-    },
-    {
-        "Artist": "Judith Joy Ross",
-        "Title": "Congressman Robert S. Walker, Republican, Pennsylvania",
-        "Year": "1987",
-        "ObjectID": "93591",
-        "Work": "https://www.moma.org/collection/works/93591",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NTQ1OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=387b3dceeb781a72",
-        "Details": {
-            "Medium": "Gelatin silver printing-out-paper print",
-            "Dimensions": "9 11/16 \u00d7 7 11/16\" (24.6 \u00d7 19.6 cm)",
-            "Credit": "Gift of Heidi and Richard Rieger",
-            "Object number": "1957.2008",
-            "Copyright": "\u00a9 2023 Judith Joy Ross",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/5030"
-    },
-    {
-        "Artist": "Judith Joy Ross",
-        "Title": "Joane Snow, Legislative Director to Senator Jake Garn, Republican, Utah",
-        "Year": "1987",
-        "ObjectID": "93593",
-        "Work": "https://www.moma.org/collection/works/93593",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM4NTA5NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c5541bc14a9a23c4",
-        "Details": {
-            "Medium": "Gelatin silver printing-out-paper print",
-            "Dimensions": "9 5/8 \u00d7 7 5/8\" (24.4 \u00d7 19.4 cm)",
-            "Credit": "Gift of Heidi and Richard Rieger",
-            "Object number": "1383.2016",
-            "Copyright": "\u00a9 2023 Judith Joy Ross",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/5030"
-    },
-    {
-        "Artist": "Judith Joy Ross",
-        "Title": "Thomas McNaught, Press Secretary to Congressman Gerry E. Studds, Democrat, Massachusetts",
-        "Year": "1987",
-        "ObjectID": "173469",
-        "Work": "https://www.moma.org/collection/works/173469",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4NDg4MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0c35f0f42b53b781",
-        "Details": {
-            "Medium": "Gelatin silver printing-out-paper print, printed 2004",
-            "Dimensions": "9 5/8 \u00d7 7 11/16\" (24.4 \u00d7 19.5 cm)",
-            "Credit": "Gift of Heidi and Richard Rieger",
-            "Object number": "1007.2013",
-            "Copyright": "\u00a9 2023 Judith Joy Ross",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/5030"
-    },
-    {
-        "Artist": "Sheron Rupp",
-        "Title": "Chester, Arkansas",
-        "Year": "1987",
-        "ObjectID": "46276",
-        "Work": "https://www.moma.org/collection/works/46276",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMTgxMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5ba3e1ec3c2c4e7d",
-        "Details": {
-            "Medium": "Chromogenic print",
-            "Dimensions": "12 5/16 \u00d7 18 3/16\" (31.3 \u00d7 46.2 cm)",
-            "Credit": "The Family of Man Fund",
-            "Object number": "102.1988.x1-x2",
-            "Copyright": "\u00a9 2023 Sheron Rupp",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/5083"
-    },
-    {
-        "Artist": "Sheron Rupp",
-        "Title": "Chester, Arkansas",
-        "Year": "1987",
-        "ObjectID": "46305",
-        "Work": "https://www.moma.org/collection/works/46305",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMTgxMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=35683834a676eeb5",
-        "Details": {
-            "Medium": "Chromogenic print",
-            "Dimensions": "12 5/16 \u00d7 18 3/16\" (31.3 \u00d7 46.2 cm)",
-            "Credit": "The Family of Man Fund",
-            "Object number": "103.1988.x1-x2",
-            "Copyright": "\u00a9 2023 Sheron Rupp",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/5083"
-    },
-    {
-        "Artist": "Dana Salvo",
-        "Title": "Blue Nativity Alter, Chiapas, Mexico, Blue Nativity",
-        "Year": "1987",
-        "ObjectID": "49508",
-        "Work": "https://www.moma.org/collection/works/49508",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMzM4NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=44f4ee453ec42979",
-        "Details": {
-            "Medium": "Chromogenic print",
-            "Dimensions": "19 3/4 \u00d7 15 1/2\" (50 \u00d7 39.4 cm)",
-            "Credit": "The Family of Man Fund",
-            "Object number": "248.1988.x1-x2",
-            "Copyright": "\u00a9 2023 Dana Salvo",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/5131"
-    },
-    {
-        "Artist": "Dana Salvo",
-        "Title": "Senora de Guadalupe with Star Paper, Mexico, STATUE WITH STAR PAPER AND YELLOW BULB",
-        "Year": "1987",
-        "ObjectID": "49520",
-        "Work": "https://www.moma.org/collection/works/49520",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMzM4OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f89265e9cca43a62",
-        "Details": {
-            "Medium": "Chromogenic print",
-            "Dimensions": "15 1/4 \u00d7 19 3/8\" (38.8 \u00d7 49.3 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "249.1988.x1-x2",
-            "Copyright": "\u00a9 2023 Dana Salvo",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/5131"
-    },
-    {
-        "Artist": "Koichi Sato",
-        "Title": "Dress of Japan \"Seisei-an\"",
-        "Year": "1987",
-        "ObjectID": "5529",
-        "Work": "https://www.moma.org/collection/works/5529",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyNzQ1OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f9247f6eb805079d",
-        "Details": {
-            "Medium": "Offset lithograph",
-            "Dimensions": "40 1/2 x  28 3/4\" ( 102.8 x  73 cm)",
-            "Credit": "Gift of the designer",
-            "Object number": "177.1993",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/5173"
-    },
-    {
-        "Artist": "Peter Saville",
-        "Title": "New Order, European Tour",
-        "Year": "1987",
-        "ObjectID": "156100",
-        "Work": "https://www.moma.org/collection/works/156100",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3NDcwNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=890de0b442159010",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "39 x 29\" (99.1 x 73.7 cm)",
-            "Credit": "Gift of Lawrence Benenson",
-            "Object number": "352.2012",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/39654"
-    },
-    {
-        "Artist": "Jeffrey Scales",
-        "Title": "12:54, A. Philip Randolph Square",
-        "Year": "1987",
-        "ObjectID": "50517",
-        "Work": "https://www.moma.org/collection/works/50517",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MjE1NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=38ffd72d7f96d7e5",
+        "Artist": "Thomas Struth",
+        "Title": "South Lake Apartments 1, Chicago",
+        "Year": "1990",
+        "ObjectID": "49511",
+        "Work": "https://www.moma.org/collection/works/49511",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5Nzk1OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fc214f38581e1374",
         "Details": {
             "Medium": "Gelatin silver print",
-            "Dimensions": "19 1/8 \u00d7 19 1/8\" (48.6 \u00d7 48.6 cm)",
-            "Credit": "The Family of Man Fund",
-            "Object number": "312.1988",
-            "Copyright": "\u00a9 2023 Jeffrey Scales",
+            "Dimensions": "30 3/8 \u00d7 35\" (77.2 \u00d7 88.9 cm)",
+            "Credit": "Horace W. Goldsmith Fund through Robert B. Menschel",
+            "Object number": "248.1999",
+            "Copyright": "\u00a9 2023 Thomas Struth",
             "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/5191"
+        "Profile": "https://www.moma.org/artists/7825"
     },
     {
-        "Artist": "Philip von Schantz",
-        "Title": "You and I",
-        "Year": "1987",
-        "ObjectID": "62907",
-        "Work": "https://www.moma.org/collection/works/62907",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0NjMwNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7405a744a1aa1f7c",
+        "Artist": "Thomas Struth",
+        "Title": "South Lake Apartments 2, Chicago",
+        "Year": "1990",
+        "ObjectID": "49524",
+        "Work": "https://www.moma.org/collection/works/49524",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwODYxMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b26e2f18f19d0fb7",
         "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "sl. irreg. composition  22 x 17\" (55.9 x 43.2 cm)\r\nsheet  30 1/8 x 22 7/8\" (76 x 58.1 cm)",
-            "Publisher": "Philip von Schantz",
-            "Printer": "Lindstr\u00f6ms, Solna-Stockholm",
-            "Edition": "75, 5 proofs",
-            "Credit": "Purchase",
-            "Object number": "143.1989",
+            "Medium": "Gelatin silver print, printed 1999",
+            "Dimensions": "18 5/16 \u00d7 22 3/8\" (46.5 \u00d7 56.8 cm)",
+            "Credit": "Horace W. Goldsmith Fund through Robert B. Menschel",
+            "Object number": "249.1999",
+            "Copyright": "\u00a9 2023 Thomas Struth",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/7825"
+    },
+    {
+        "Artist": "Thomas Struth",
+        "Title": "South Lake Apartments 3, Chicago",
+        "Year": "1990",
+        "ObjectID": "49539",
+        "Work": "https://www.moma.org/collection/works/49539",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMTY1NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=69b1fd2103d71948",
+        "Details": {
+            "Medium": "Gelatin silver print, printed 1999",
+            "Dimensions": "18 5/16 \u00d7 22 3/8\" (46.5 \u00d7 56.8 cm)",
+            "Credit": "Horace W. Goldsmith Fund through Robert B. Menschel",
+            "Object number": "250.1999",
+            "Copyright": "\u00a9 2023 Thomas Struth",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/7825"
+    },
+    {
+        "Artist": "Thomas Struth",
+        "Title": "South Lake Apartments 4, Chicago",
+        "Year": "1990",
+        "ObjectID": "49552",
+        "Work": "https://www.moma.org/collection/works/49552",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5Nzk1OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6d86c037aeed2733",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "17 15/16 \u00d7 22 5/8\" (45.5 \u00d7 57.5 cm)",
+            "Credit": "Horace W. Goldsmith Fund through Robert B. Menschel",
+            "Object number": "251.1999",
+            "Copyright": "\u00a9 2023 Thomas Struth",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/7825"
+    },
+    {
+        "Artist": "Thomas Struth",
+        "Title": "Wabash Avenue, Madison Street, Chicago",
+        "Year": "1990",
+        "ObjectID": "49636",
+        "Work": "https://www.moma.org/collection/works/49636",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMTY1OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=60d6a01def59dd5d",
+        "Details": {
+            "Medium": "Gelatin silver print, printed 1990",
+            "Dimensions": "17 1/2 \u00d7 21 9/16\" (44.5 \u00d7 54.8 cm)",
+            "Credit": "The Family of Man Fund",
+            "Object number": "255.1999",
+            "Copyright": "\u00a9 2023 Thomas Struth",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/7825"
+    },
+    {
+        "Artist": "Thomas Struth",
+        "Title": "Pantheon, Rome",
+        "Year": "1990",
+        "ObjectID": "51063",
+        "Work": "https://www.moma.org/collection/works/51063",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMxMTEwOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=16e29218f1b627df",
+        "Details": {
+            "Medium": "Chromogenic print",
+            "Dimensions": "54 1/8 \u00d7 76 3/8\" (137.5 \u00d7 194 cm)",
+            "Credit": "Gift of Werner and Elaine Dannheisser",
+            "Object number": "334.1996",
+            "Copyright": "\u00a9 2023 Thomas Struth",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/7825"
+    },
+    {
+        "Artist": "Michelle Stuart",
+        "Title": "Armadillo (plate, folio 35 verso) from A Bestiary",
+        "Year": "1990",
+        "ObjectID": "10083",
+        "Work": "https://www.moma.org/collection/works/10083",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ4OTM5MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=85f3ab9562406724",
+        "Details": {
+            "Author": "Bradford Morrow",
+            "Medium": "Linoleum cut from an illustrated book with twenty-nine linoleum cuts (two with pochoir and two with letterpress) and seven woodcuts",
+            "Dimensions": "composition (irreg.): 4 5/16 \u00d7 4 5/16\" (11 \u00d7 11 cm); page: 14 13/16 \u00d7 10 13/16\" (37.6 \u00d7 27.5 cm)",
+            "Publisher": "The Grenfell Press, New York",
+            "Printer": "The Grenfell Press, New York",
+            "Edition": "100",
+            "Credit": "Abby Aldrich Rockefeller Fund",
+            "Object number": "29.1991.14",
+            "Copyright": "\u00a9 Michelle Stuart",
+            "Illustrated book": "A Bestiary",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/5203"
+        "Profile": "https://www.moma.org/artists/5702"
     },
     {
-        "Artist": "Mira Schendel",
-        "Title": "Untitled from the series Splints (Sarrafos)",
-        "Year": "1987",
-        "ObjectID": "109483",
-        "Work": "https://www.moma.org/collection/works/109483",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM3OTI3NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d94a20687452813a",
+        "Artist": "Michelle Stuart",
+        "Title": "Yak (plate, folio 59 verso) from A Bestiary",
+        "Year": "1990",
+        "ObjectID": "10096",
+        "Work": "https://www.moma.org/collection/works/10096",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ4OTQwNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0c9fdada7fabd83d",
         "Details": {
-            "Medium": "Acrylic on wood",
-            "Dimensions": "77 15/16 x 70 7/8 x 3 5/8\" (198 x 180 x 9.2 cm)",
-            "Credit": "Gift of Patricia Phelps de Cisneros through the Latin American and Caribbean Fund",
-            "Object number": "867.2016",
-            "Copyright": "\u00a9 2023 Estate of Mira Schendel",
-            "Department": "Painting and Sculpture"
+            "Author": "Bradford Morrow",
+            "Medium": "Linoleum cut from an illustrated book with twenty-nine linoleum cuts (two with pochoir and two with letterpress) and seven woodcuts",
+            "Dimensions": "composition (irreg.): 3 15/16 \u00d7 4 13/16\" (10 \u00d7 12.2 cm); page: 14 13/16 \u00d7 10 13/16\" (37.6 \u00d7 27.5 cm)",
+            "Publisher": "The Grenfell Press, New York",
+            "Printer": "The Grenfell Press, New York",
+            "Edition": "100",
+            "Credit": "Abby Aldrich Rockefeller Fund",
+            "Object number": "29.1991.26",
+            "Copyright": "\u00a9 Michelle Stuart",
+            "Illustrated book": "A Bestiary",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/7961"
+        "Profile": "https://www.moma.org/artists/5702"
+    },
+    {
+        "Artist": "Hiroshi Sugimoto",
+        "Title": "Adriatic Sea, Gargano I",
+        "Year": "1990",
+        "ObjectID": "48275",
+        "Work": "https://www.moma.org/collection/works/48275",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzOTA4NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5072a7f50b3c66f8",
+        "Details": {
+            "Medium": "Three gelatin silver prints",
+            "Dimensions": "Each 16 5/8 \u00d7 21 3/8\" (42.3 \u00d7 54.3 cm)",
+            "Credit": "Horace W. Goldsmith Fund through Robert B. Menschel",
+            "Object number": "197.1992.a-c",
+            "Copyright": "\u00a9 2023 Hiroshi Sugimoto",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/5721"
+    },
+    {
+        "Artist": "Donald Sultan",
+        "Title": "Dominoes",
+        "Year": "1990",
+        "ObjectID": "69436",
+        "Work": "https://www.moma.org/collection/works/69436",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMTU5NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f27a56e073161ab0",
+        "Details": {
+            "Medium": "Portfolio of 28 aquatints",
+            "Dimensions": "plate (each): 11 7/16 x 7 15/16\" (29.1 x 20.2 cm); sheet (each): 20 7/8 x 14 15/16\" (53 x 37.9 cm)",
+            "Publisher": "Parasol Press, Ltd., New York",
+            "Printer": "Maurice Payne Studio, New York",
+            "Edition": "53",
+            "Credit": "Gift of Parasol Press, in honor of Vera and Albert List",
+            "Object number": "458.1990.1-28",
+            "Copyright": "\u00a9 2023 Donald Sultan",
+            "Type": "Portfolio",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5726"
+    },
+    {
+        "Artist": "Donald Sultan",
+        "Title": "Untitled from Dominoes",
+        "Year": "1990",
+        "ObjectID": "150989",
+        "Work": "https://www.moma.org/collection/works/150989",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMTYwNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4b02fd230bf19754",
+        "Details": {
+            "Medium": "One from a portfolio of 28 aquatints",
+            "Dimensions": "plate: 11 7/16 x 7 15/16\" (29.1 x 20.2 cm); sheet: 20 7/8 x 14 15/16\" (53 x 37.9 cm)",
+            "Publisher": "Parasol Press, Ltd., New York",
+            "Printer": "Maurice Payne Studio, New York",
+            "Edition": "53",
+            "Credit": "Gift of Parasol Press, in honor of Vera and Albert List",
+            "Object number": "458.1990.1",
+            "Copyright": "\u00a9 2023 Donald Sultan",
+            "Portfolio": "Dominoes",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5726"
+    },
+    {
+        "Artist": "Donald Sultan",
+        "Title": "Untitled from Dominoes",
+        "Year": "1990",
+        "ObjectID": "150990",
+        "Work": "https://www.moma.org/collection/works/150990",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMTYwNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ba2be20d11e939e1",
+        "Details": {
+            "Medium": "One from a portfolio of 28 aquatints",
+            "Dimensions": "plate: 11 7/16 x 7 15/16\" (29.1 x 20.2 cm); sheet: 20 7/8 x 14 15/16\" (53 x 37.9 cm)",
+            "Publisher": "Parasol Press, Ltd., New York",
+            "Printer": "Maurice Payne Studio, New York",
+            "Edition": "53",
+            "Credit": "Gift of Parasol Press, in honor of Vera and Albert List",
+            "Object number": "458.1990.2",
+            "Copyright": "\u00a9 2023 Donald Sultan",
+            "Portfolio": "Dominoes",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5726"
+    },
+    {
+        "Artist": "Donald Sultan",
+        "Title": "Untitled from Dominoes",
+        "Year": "1990",
+        "ObjectID": "150991",
+        "Work": "https://www.moma.org/collection/works/150991",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMTYwNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1779c35f2e295e0d",
+        "Details": {
+            "Medium": "One from a portfolio of 28 aquatints",
+            "Dimensions": "plate: 11 7/16 x 7 15/16\" (29.1 x 20.2 cm); sheet: 20 7/8 x 14 15/16\" (53 x 37.9 cm)",
+            "Publisher": "Parasol Press, Ltd., New York",
+            "Printer": "Maurice Payne Studio, New York",
+            "Edition": "53",
+            "Credit": "Gift of Parasol Press, in honor of Vera and Albert List",
+            "Object number": "458.1990.3",
+            "Copyright": "\u00a9 2023 Donald Sultan",
+            "Portfolio": "Dominoes",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5726"
+    },
+    {
+        "Artist": "Donald Sultan",
+        "Title": "Untitled from Dominoes",
+        "Year": "1990",
+        "ObjectID": "150992",
+        "Work": "https://www.moma.org/collection/works/150992",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMTYwOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=81d4d4e1a52baf96",
+        "Details": {
+            "Medium": "One from a portfolio of 28 aquatints",
+            "Dimensions": "plate: 11 7/16 x 7 15/16\" (29.1 x 20.2 cm); sheet: 20 7/8 x 14 15/16\" (53 x 37.9 cm)",
+            "Publisher": "Parasol Press, Ltd., New York",
+            "Printer": "Maurice Payne Studio, New York",
+            "Edition": "53",
+            "Credit": "Gift of Parasol Press, in honor of Vera and Albert List",
+            "Object number": "458.1990.4",
+            "Copyright": "\u00a9 2023 Donald Sultan",
+            "Portfolio": "Dominoes",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5726"
+    },
+    {
+        "Artist": "Donald Sultan",
+        "Title": "Untitled from Dominoes",
+        "Year": "1990",
+        "ObjectID": "150993",
+        "Work": "https://www.moma.org/collection/works/150993",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMTYwOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d18fa1a6cb62f590",
+        "Details": {
+            "Medium": "One from a portfolio of 28 aquatints",
+            "Dimensions": "plate: 11 7/16 x 7 15/16\" (29.1 x 20.2 cm); sheet: 20 7/8 x 14 15/16\" (53 x 37.9 cm)",
+            "Publisher": "Parasol Press, Ltd., New York",
+            "Printer": "Maurice Payne Studio, New York",
+            "Edition": "53",
+            "Credit": "Gift of Parasol Press, in honor of Vera and Albert List",
+            "Object number": "458.1990.5",
+            "Copyright": "\u00a9 2023 Donald Sultan",
+            "Portfolio": "Dominoes",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5726"
+    },
+    {
+        "Artist": "Donald Sultan",
+        "Title": "Untitled from Dominoes",
+        "Year": "1990",
+        "ObjectID": "150994",
+        "Work": "https://www.moma.org/collection/works/150994",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMTYxMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a1cc28c6788cf2fa",
+        "Details": {
+            "Medium": "One from a portfolio of 28 aquatints",
+            "Dimensions": "plate: 11 7/16 x 7 15/16\" (29.1 x 20.2 cm); sheet: 20 7/8 x 14 15/16\" (53 x 37.9 cm)",
+            "Publisher": "Parasol Press, Ltd., New York",
+            "Printer": "Maurice Payne Studio, New York",
+            "Edition": "53",
+            "Credit": "Gift of Parasol Press, in honor of Vera and Albert List",
+            "Object number": "458.1990.6",
+            "Copyright": "\u00a9 2023 Donald Sultan",
+            "Portfolio": "Dominoes",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5726"
+    },
+    {
+        "Artist": "Donald Sultan",
+        "Title": "Untitled from Dominoes",
+        "Year": "1990",
+        "ObjectID": "150995",
+        "Work": "https://www.moma.org/collection/works/150995",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMTYxMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=06af6748539da4f5",
+        "Details": {
+            "Medium": "One from a portfolio of 28 aquatints",
+            "Dimensions": "plate: 11 7/16 x 7 15/16\" (29.1 x 20.2 cm); sheet: 20 7/8 x 14 15/16\" (53 x 37.9 cm)",
+            "Publisher": "Parasol Press, Ltd., New York",
+            "Printer": "Maurice Payne Studio, New York",
+            "Edition": "53",
+            "Credit": "Gift of Parasol Press, in honor of Vera and Albert List",
+            "Object number": "458.1990.7",
+            "Copyright": "\u00a9 2023 Donald Sultan",
+            "Portfolio": "Dominoes",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5726"
+    },
+    {
+        "Artist": "Donald Sultan",
+        "Title": "Untitled from Dominoes",
+        "Year": "1990",
+        "ObjectID": "150996",
+        "Work": "https://www.moma.org/collection/works/150996",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMTYxMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ce97a0dda455c187",
+        "Details": {
+            "Medium": "One from a portfolio of 28 aquatints",
+            "Dimensions": "plate: 11 7/16 x 7 15/16\" (29.1 x 20.2 cm); sheet: 20 7/8 x 14 15/16\" (53 x 37.9 cm)",
+            "Publisher": "Parasol Press, Ltd., New York",
+            "Printer": "Maurice Payne Studio, New York",
+            "Edition": "53",
+            "Credit": "Gift of Parasol Press, in honor of Vera and Albert List",
+            "Object number": "458.1990.8",
+            "Copyright": "\u00a9 2023 Donald Sultan",
+            "Portfolio": "Dominoes",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5726"
     }
 ]

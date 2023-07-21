@@ -1,878 +1,817 @@
 [
     {
-        "Artist": "El Lissitzky",
-        "Title": "\"Khorosho! Oktyabrskaya poema\" by Vladimir Mayakovsky",
-        "Year": "1927",
-        "ObjectID": "7546",
-        "Work": "https://www.moma.org/collection/works/7546",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMDQxMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=49b8b8a96f5b98d3",
+        "Artist": "Jacob Lawrence",
+        "Title": "In every home people who had not gone North met and tried to decide if they should go North or not",
+        "Year": "1940-41",
+        "ObjectID": "78533",
+        "Work": "https://www.moma.org/collection/works/78533",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwNTAyMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6a78915d5c4b4a6e",
         "Details": {
-            "Medium": "Letterpress",
-            "Dimensions": "8 3/8 x 11 5/8\" (21.3 x 29.5 cm)",
-            "Publisher": "Gosizdat (State Publishing House)",
-            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
-            "Object number": "564.1977",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/3569"
-    },
-    {
-        "Artist": "El Lissitzky",
-        "Title": "Invitation to the All-Union Printing Trades Exhibition",
-        "Year": "1927",
-        "ObjectID": "14223",
-        "Work": "https://www.moma.org/collection/works/14223",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MjkyMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=35b4daa789ec14fd",
-        "Details": {
-            "Medium": "Letterpress",
-            "Dimensions": "sheet (folded): 4 3/8 \u00d7 5 3/8\" (11.1 \u00d7 13.7 cm)",
-            "Publisher": "Unidentified, Moscow",
-            "Edition": "unknown",
-            "Credit": "Gift of The Judith Rothschild Foundation",
-            "Object number": "247.2001",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/3569"
-    },
-    {
-        "Artist": "El Lissitzky",
-        "Title": "Khorosho! Oktiabr'skaia poema (Good! An October Poem)",
-        "Year": "1927",
-        "ObjectID": "14442",
-        "Work": "https://www.moma.org/collection/works/14442",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM1Nzk2OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4e31a00c9c23c958",
-        "Details": {
-            "Author": "Vladimir Mayakovsky",
-            "Medium": "Book, letterpress printed",
-            "Dimensions": "page (each): 8 1/8 x 5 3/8\" (20.6 x 13.7 cm)",
-            "Publisher": "Gosudarstvennoe izdatel'stvo, Moscow-Leningrad",
-            "Edition": "3,000",
-            "Credit": "Gift of The Judith Rothschild Foundation",
-            "Object number": "276.2001",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/3569"
-    },
-    {
-        "Artist": "El Lissitzky",
-        "Title": "Khorosho! Oktiabr'skaia poema (Good! An October Poem)",
-        "Year": "1927",
-        "ObjectID": "14444",
-        "Work": "https://www.moma.org/collection/works/14444",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyOTE0OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=117cabc2b0258650",
-        "Details": {
-            "Author": "Vladimir Mayakovsky",
-            "Medium": "Book, letterpress printed",
-            "Dimensions": "page: 8 1/8 x 5 3/8\" (20.6 x 13.7 cm)",
-            "Publisher": "Gosudarstvennoe izdatel'stvo, Moscow-Leningrad",
-            "Edition": "3,000",
-            "Credit": "Gift of The Judith Rothschild Foundation (Boris Kerdimun Archive)",
-            "Object number": "277.2001",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/3569"
-    },
-    {
-        "Artist": "El Lissitzky",
-        "Title": "Arkhitektura VKhUTEMAS. Raboty arkhitekturnogo fakul'teta VKhUTEMASa, 1920-1927 (Architecture of VKhUTEMAS: The Works of the Department of Architecture, 1920-1927)",
-        "Year": "1927",
-        "ObjectID": "15999",
-        "Work": "https://www.moma.org/collection/works/15999",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDY0MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f33b97d31a4ae79b",
-        "Details": {
-            "Author": "N. Dokuchaev, Pavel Novitskii",
-            "Medium": "Book with letterpress illustration (cover)",
-            "Dimensions": "page: 9 9/16 x 6 5/16\" (24.3 x 16 cm)",
-            "Publisher": "VKhUTEMAS, Moscow",
-            "Edition": "1,000",
-            "Credit": "Gift of The Judith Rothschild Foundation",
-            "Object number": "336.2001",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/3569"
-    },
-    {
-        "Artist": "El Lissitzky, Solomon Telingater",
-        "Title": "Vsesoiuznaia poligraficheskaia vystavka. Putevoditel' (All-Union Printing Trades Exhibition: Guidebook)",
-        "Year": "1927",
-        "ObjectID": "16664",
-        "Work": "https://www.moma.org/collection/works/16664",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMTI0NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2750ed4f7a9af7eb",
-        "Details": {
-            "Medium": "Book, letterpress printed",
-            "Dimensions": "page (each): 6 3/4 \u00d7 4 7/16\" (17.1 \u00d7 11.2 cm); overall (overall): 6 15/16 \u00d7 5 1/16 \u00d7 3/8\" (17.7 \u00d7 12.9 \u00d7 1 cm)",
-            "Publisher": "Komitet poligraficheskoi vystavki, Moscow",
-            "Edition": "5,000",
-            "Credit": "Gift of The Judith Rothschild Foundation",
-            "Object number": "395.2001",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/3569"
-    },
-    {
-        "Artist": "Louis Lozowick",
-        "Title": "Backyards of Broadway",
-        "Year": "1926, dated 1927",
-        "ObjectID": "76064",
-        "Work": "https://www.moma.org/collection/works/76064",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNDQyMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a2bff7885e69c986",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "composition: 14 7/16 x 9 1/8\" (36.7 x 23.2 cm); sheet: 15 7/8 x 11 9/16\" (40.3 x 29.3 cm)",
-            "Printer": "attributed to Ben Shahn",
-            "Edition": "10",
-            "Credit": "Gift of Abby Aldrich Rockefeller",
-            "Object number": "1209.1940",
-            "Copyright": "\u00a9 Estate of Louis Lozowick, courtesy Mary Ryan Gallery, New York",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/3617"
-    },
-    {
-        "Artist": "Batiste Madalena",
-        "Title": "The Unknown",
-        "Year": "1927",
-        "ObjectID": "118899",
-        "Work": "https://www.moma.org/collection/works/118899",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzNDc0OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5f4b614fcc4105ac",
-        "Details": {
-            "Medium": "Tempera on poster board",
-            "Dimensions": "Overall: 42 3/4 x 24\" (108.6 x 61 cm)",
-            "Credit": "Courtesy of Judith and Steven Katten",
-            "Object number": "F1929",
-            "Department": "Film"
-        },
-        "Profile": "https://www.moma.org/artists/35204"
-    },
-    {
-        "Artist": "Rene Magritte",
-        "Title": "The Menaced Assassin",
-        "Year": "Brussels 1927",
-        "ObjectID": "79267",
-        "Work": "https://www.moma.org/collection/works/79267",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MzUzMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f019bcd0df3d09d8",
-        "Details": {
-            "Medium": "Oil on canvas",
-            "Dimensions": "59 1/4\" x 6' 4 7/8\" (150.4 x 195.2 cm)",
-            "Credit": "Kay Sage Tanguy Fund",
-            "Object number": "247.1966",
-            "Copyright": "\u00a9 2023 C. Herscovici, Brussels / Artists Rights Society (ARS), New York",
+            "Medium": "Casein tempera on hardboard",
+            "Dimensions": "12 x 18\" (30.5 x 45.7 cm)",
+            "Credit": "Gift of Mrs. David M. Levy",
+            "Object number": "28.1942.15",
+            "Copyright": "\u00a9 2023 Jacob Lawrence / Artists Rights Society (ARS), New York",
             "Department": "Painting and Sculpture"
         },
-        "Profile": "https://www.moma.org/artists/3692"
+        "Profile": "https://www.moma.org/artists/3418"
     },
     {
-        "Artist": "Aristide Maillol",
-        "Title": "Crouching Woman",
-        "Year": "Dec. 1927",
-        "ObjectID": "60610",
-        "Work": "https://www.moma.org/collection/works/60610",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3OTkyNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6d8abead8c35f310",
+        "Artist": "Jacob Lawrence",
+        "Title": "The railroad stations in the South were crowded with people leaving for the North",
+        "Year": "1940-41",
+        "ObjectID": "78534",
+        "Work": "https://www.moma.org/collection/works/78534",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwNTAyMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=95170bcb3260d21f",
         "Details": {
-            "Medium": "Etching",
-            "Dimensions": "plate: 8 1/4 x 10 3/4\" (21 x 27.3 cm)",
-            "Credit": "Gift of Mrs. Saidie A. May",
-            "Object number": "37.1932",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/3697"
-    },
-    {
-        "Artist": "Aristide Maillol",
-        "Title": "Seated Nude (Femme Nue Assise sous des Feuillages)",
-        "Year": "(1927)",
-        "ObjectID": "68494",
-        "Work": "https://www.moma.org/collection/works/68494",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3OTkwOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f00a185b40702f50",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "composition: 7 x 9 1/8\" (17.8 x 23.1 cm)",
-            "Printer": "H. M. Petiet",
-            "Credit": "Gift of Abby Aldrich Rockefeller",
-            "Object number": "403.1940",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/3697"
-    },
-    {
-        "Artist": "Aristide Maillol",
-        "Title": "Seated Woman Seen up to the Waist (Femme assise vue a mi-corps)",
-        "Year": "1927",
-        "ObjectID": "161359",
-        "Work": "https://www.moma.org/collection/works/161359",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0NTQwOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=39a2afcf20903e80",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "composition: 7 5/16 x 5 3/8\" (18.6 x 13.6 cm); sheet: 15 3/8 x 10 1/4\" (39.1 x 26 cm)",
-            "Printer": "H. M. Petiet",
-            "Edition": "75",
-            "Credit": "Gift of Mr. and Mrs. Arthur Wiesenberger",
-            "Object number": "1167.1969",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/3697"
-    },
-    {
-        "Artist": "Kazimir Malevich",
-        "Title": "Analytical Chart",
-        "Year": "1924-27",
-        "ObjectID": "38132",
-        "Work": "https://www.moma.org/collection/works/38132",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0MjYzNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b85d374ca84d094e",
-        "Details": {
-            "Medium": "Cut-and-pasted printed paper, gelatin silver prints, ink, and pencil on paper on paper",
-            "Dimensions": "28 1/2 x 38 3/4\" (72.4 x 98.4 cm)",
-            "Credit": "1935 Acquisition confirmed in 1999 by agreement with the Estate of Kazimir Malevich and made possible with funds from the Mrs. John Hay Whitney Bequest (by exchange)",
-            "Object number": "820.1935",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/3710"
-    },
-    {
-        "Artist": "Kazimir Malevich",
-        "Title": "Analytical Chart",
-        "Year": "1924-27",
-        "ObjectID": "38135",
-        "Work": "https://www.moma.org/collection/works/38135",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNjkzOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7306195f8eefeffe",
-        "Details": {
-            "Medium": "Cut-and-pasted printed paper, gelatin silver prints, ink, and crayon on paper\r\nwith ink and pencil on paper",
-            "Dimensions": "28 1/2 x 38 3/4\" (72.4 x 98.4 cm)",
-            "Credit": "1935 Acquisition confirmed in 1999 by agreement with the Estate of Kazimir Malevich and made possible with funds from the Mrs. John Hay Whitney Bequest (by exchange)",
-            "Object number": "821.1935",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/3710"
-    },
-    {
-        "Artist": "Kazimir Malevich",
-        "Title": "Analytical Chart",
-        "Year": "1924-27",
-        "ObjectID": "38138",
-        "Work": "https://www.moma.org/collection/works/38138",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4MjcyNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=64b60792f7f9e23c",
-        "Details": {
-            "Medium": "Cut-and-pasted printed and painted paper, gelatin silver prints, ink, and crayon on paper with ink and pencil",
-            "Dimensions": "28 1/2 x 38 3/4\" (72.4 x 98.4 cm)",
-            "Credit": "1935 Acquisition confirmed in 1999 by agreement with the Estate of Kazimir Malevich and made possible with funds from the Mrs. John Hay Whitney Bequest (by exchange)",
-            "Object number": "822.1935",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/3710"
-    },
-    {
-        "Artist": "Kazimir Malevich",
-        "Title": "Analytical Chart",
-        "Year": "1924-27",
-        "ObjectID": "38141",
-        "Work": "https://www.moma.org/collection/works/38141",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNjkzOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=49dc78cee8d860e9",
-        "Details": {
-            "Medium": "Cut-and-pasted paper, watercolor, pencil, and ink on paper on paper",
-            "Dimensions": "28 1/2 x 38 3/4\" (72.4 x 98.4 cm)",
-            "Credit": "1935 Acquisition confirmed in 1999 by agreement with the Estate of Kazimir Malevich and made possible with funds from the Mrs. John Hay Whitney Bequest (by exchange)",
-            "Object number": "823.1935",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/3710"
-    },
-    {
-        "Artist": "Kazimir Malevich",
-        "Title": "Analytical Chart",
-        "Year": "1924-27",
-        "ObjectID": "38143",
-        "Work": "https://www.moma.org/collection/works/38143",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNjk0MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=52d011a44111e726",
-        "Details": {
-            "Medium": "Cut-and-pasted printed paper, pencil, and ink on paper on paper",
-            "Dimensions": "28 1/2 x 38 3/4\" (72.4 x 98.4 cm)",
-            "Credit": "1935 Acquisition confirmed in 1999 by agreement with the Estate of Kazimir Malevich and made possible with funds from the Mrs. John Hay Whitney Bequest (by exchange)",
-            "Object number": "824.1935",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/3710"
-    },
-    {
-        "Artist": "Man Ray (Emmanuel Radnitzky)",
-        "Title": "Sinclair Lewis",
-        "Year": "1927",
-        "ObjectID": "46523",
-        "Work": "https://www.moma.org/collection/works/46523",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE0MjgyMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3bf44915e5f72ac0",
-        "Details": {
-            "Sitter": "Sinclair Lewis",
-            "Medium": "Gelatin silver print",
-            "Dimensions": "9 1/16 \u00d7 6 5/8\" (23 \u00d7 17 cm)",
-            "Credit": "Gift of James Thrall Soby",
-            "Object number": "100.1941",
-            "Copyright": "\u00a9 2023 Man Ray Trust / Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/3716"
-    },
-    {
-        "Artist": "Man Ray (Emmanuel Radnitzky)",
-        "Title": "Rayograph",
-        "Year": "1927",
-        "ObjectID": "46642",
-        "Work": "https://www.moma.org/collection/works/46642",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNzI1NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=17618ed29699a57b",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "11 7/8 \u00d7 9 7/8\" (30.1 \u00d7 25 cm)",
-            "Credit": "Gift of James Thrall Soby",
-            "Object number": "123.1941",
-            "Copyright": "\u00a9 2023 Man Ray Trust / Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/3716"
-    },
-    {
-        "Artist": "Man Ray (Emmanuel Radnitzky)",
-        "Title": "Barbette",
-        "Year": "1927",
-        "ObjectID": "46757",
-        "Work": "https://www.moma.org/collection/works/46757",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE0MjgyNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2c833519e94c40c9",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "11 1/4 \u00d7 7 3/8\" (28.6 \u00d7 18.7 cm)",
-            "Credit": "Gift of James Thrall Soby",
-            "Object number": "134.1941",
-            "Copyright": "\u00a9 2023 Man Ray Trust / Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/3716"
-    },
-    {
-        "Artist": "Man Ray (Emmanuel Radnitzky)",
-        "Title": "Untitled",
-        "Year": "1927",
-        "ObjectID": "46779",
-        "Work": "https://www.moma.org/collection/works/46779",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMDM5NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=53a63c2d2d4b47f8",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "11 1/2 \u00d7 8 7/8\" (29.3 \u00d7 22.6 cm)",
-            "Credit": "Gift of James Thrall Soby",
-            "Object number": "136.1941",
-            "Copyright": "\u00a9 2023 Man Ray Trust / Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/3716"
-    },
-    {
-        "Artist": "Man Ray (Emmanuel Radnitzky)",
-        "Title": "Untitled",
-        "Year": "1927",
-        "ObjectID": "46790",
-        "Work": "https://www.moma.org/collection/works/46790",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNzI2MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e57b4b4ad92dec63",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "8 3/8 \u00d7 10 7/8\" (21.3 \u00d7 27.7 cm)",
-            "Credit": "Gift of James Thrall Soby",
-            "Object number": "137.1941",
-            "Copyright": "\u00a9 2023 Man Ray Trust / Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/3716"
-    },
-    {
-        "Artist": "Man Ray (Emmanuel Radnitzky)",
-        "Title": "Untitled",
-        "Year": "1927",
-        "ObjectID": "46800",
-        "Work": "https://www.moma.org/collection/works/46800",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNzI2MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f981fc3d0bc4c71f",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "8 7/8 \u00d7 11 1/4\" (22.5 \u00d7 28.5 cm)",
-            "Credit": "Gift of James Thrall Soby",
-            "Object number": "138.1941",
-            "Copyright": "\u00a9 2023 Man Ray Trust / Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/3716"
-    },
-    {
-        "Artist": "Man Ray (Emmanuel Radnitzky)",
-        "Title": "Rayograph",
-        "Year": "1927",
-        "ObjectID": "55671",
-        "Work": "https://www.moma.org/collection/works/55671",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNzU2MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c74c57cccce05af6",
-        "Details": {
-            "Medium": "Gelatin silver print (photogram)",
-            "Dimensions": "11 7/8 \u00d7 9 7/8\" (30.2 \u00d7 25.1 cm)",
-            "Credit": "Gift of James Thrall Soby",
-            "Object number": "627.1941",
-            "Copyright": "\u00a9 2023 Man Ray Trust / Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/3716"
-    },
-    {
-        "Artist": "Man Ray (Emmanuel Radnitzky)",
-        "Title": "Emak-Bakia",
-        "Year": "1927",
-        "ObjectID": "305153",
-        "Work": "https://www.moma.org/collection/works/305153",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjk1MTU0Il0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNTEyeDUxMlx1MDAzZSJdXQ.jpg?sha=234d1c1aa9deb6fa",
-        "Details": {
-            "Object number": "W1146",
-            "Department": "Film"
-        },
-        "Profile": "https://www.moma.org/artists/3716"
-    },
-    {
-        "Artist": "Andre Masson",
-        "Title": "Battle of the Fishes",
-        "Year": "(1927)",
-        "ObjectID": "38251",
-        "Work": "https://www.moma.org/collection/works/38251",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MjA0NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=23533294486e833f",
-        "Details": {
-            "Medium": "Chalk, charcoal, cont\u00e9 crayon, and oil on paper",
-            "Dimensions": "18 7/8 x 23 3/4\" (48 x 60.3 cm)",
-            "Credit": "James Thrall Soby Collection",
-            "Object number": "913.1979",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/3821"
-    },
-    {
-        "Artist": "Andre Masson",
-        "Title": "Figure",
-        "Year": "1926-27",
-        "ObjectID": "78832",
-        "Work": "https://www.moma.org/collection/works/78832",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1MDk3NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6d6204483431e161",
-        "Details": {
-            "Medium": "Oil and sand on canvas",
-            "Dimensions": "18 1/8 x 10 1/2\" (46.1 x 26.9 cm)",
-            "Credit": "Gift of William Rubin",
-            "Object number": "111.1973",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Medium": "Casein tempera on hardboard",
+            "Dimensions": "12 x 18\" (30.5 x 45.7 cm)",
+            "Credit": "Gift of Mrs. David M. Levy",
+            "Object number": "28.1942.16",
+            "Copyright": "\u00a9 2023 Jacob Lawrence / Artists Rights Society (ARS), New York",
             "Department": "Painting and Sculpture"
         },
-        "Profile": "https://www.moma.org/artists/3821"
+        "Profile": "https://www.moma.org/artists/3418"
     },
     {
-        "Artist": "Henri Matisse",
-        "Title": "Reclining Nude",
-        "Year": "1927",
-        "ObjectID": "36071",
-        "Work": "https://www.moma.org/collection/works/36071",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MDY2MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7eb8a2935fe58330",
+        "Artist": "Jacob Lawrence",
+        "Title": "The Negro press was also influential in urging the people to leave the South",
+        "Year": "1940-41",
+        "ObjectID": "78535",
+        "Work": "https://www.moma.org/collection/works/78535",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwNTAyMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9dad09f9b862d139",
+        "Details": {
+            "Medium": "Casein tempera on hardboard",
+            "Dimensions": "18 x 12\" (45.7 x 30.5 cm)",
+            "Credit": "Gift of Mrs. David M. Levy",
+            "Object number": "28.1942.17",
+            "Copyright": "\u00a9 2023 Jacob Lawrence / Artists Rights Society (ARS), New York",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/3418"
+    },
+    {
+        "Artist": "Jacob Lawrence",
+        "Title": "They arrived in great numbers into Chicago, the gateway of the West",
+        "Year": "1940-41",
+        "ObjectID": "78536",
+        "Work": "https://www.moma.org/collection/works/78536",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwNTAyMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=156e94b2d0a26484",
+        "Details": {
+            "Medium": "Casein tempera on hardboard",
+            "Dimensions": "12 x 18\" (30.5 x 45.7 cm)",
+            "Credit": "Gift of Mrs. David M. Levy",
+            "Object number": "28.1942.18",
+            "Copyright": "\u00a9 2023 Jacob Lawrence / Artists Rights Society (ARS), New York",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/3418"
+    },
+    {
+        "Artist": "Jacob Lawrence",
+        "Title": "They also worked in large numbers on the railroad",
+        "Year": "1940-41",
+        "ObjectID": "78537",
+        "Work": "https://www.moma.org/collection/works/78537",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwNTAyNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2f51279d19adf324",
+        "Details": {
+            "Medium": "Casein tempera on hardboard",
+            "Dimensions": "12 x 18\" (30.5 x 45.7 cm)",
+            "Credit": "Gift of Mrs. David M. Levy",
+            "Object number": "28.1942.19",
+            "Copyright": "\u00a9 2023 Jacob Lawrence / Artists Rights Society (ARS), New York",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/3418"
+    },
+    {
+        "Artist": "Jacob Lawrence",
+        "Title": "The Negro was the largest source of labor to be found after all others had been exhausted",
+        "Year": "1940-41",
+        "ObjectID": "78538",
+        "Work": "https://www.moma.org/collection/works/78538",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwNTAyNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9e2c3753af6463ec",
+        "Details": {
+            "Medium": "Casein tempera on hardboard",
+            "Dimensions": "18 x 12\" (45.7 x 30.5 cm)",
+            "Credit": "Gift of Mrs. David M. Levy",
+            "Object number": "28.1942.2",
+            "Copyright": "\u00a9 2023 Jacob Lawrence / Artists Rights Society (ARS), New York",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/3418"
+    },
+    {
+        "Artist": "Jacob Lawrence",
+        "Title": "The migrants arrived in great numbers",
+        "Year": "1940-41",
+        "ObjectID": "78539",
+        "Work": "https://www.moma.org/collection/works/78539",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMxNzIxMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=29a47936bef4f99d",
+        "Details": {
+            "Medium": "Casein tempera on hardboard",
+            "Dimensions": "12 x 18\" (30.5 x 45.7 cm)",
+            "Credit": "Gift of Mrs. David M. Levy",
+            "Object number": "28.1942.20",
+            "Copyright": "\u00a9 2023 Jacob Lawrence / Artists Rights Society (ARS), New York",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/3418"
+    },
+    {
+        "Artist": "Jacob Lawrence",
+        "Title": "They also made it very difficult for migrants leaving the South. They often went to railroad stations and arrested the Negroes wholesale, which in turn made them miss their train",
+        "Year": "1940-41",
+        "ObjectID": "78540",
+        "Work": "https://www.moma.org/collection/works/78540",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMxNzIxNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a76ec90744c2fe0e",
+        "Details": {
+            "Medium": "Casein tempera on hardboard",
+            "Dimensions": "18 x 12\" (45.7 x 30.5 cm)",
+            "Credit": "Gift of Mrs. David M. Levy",
+            "Object number": "28.1942.21",
+            "Copyright": "\u00a9 2023 Jacob Lawrence / Artists Rights Society (ARS), New York",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/3418"
+    },
+    {
+        "Artist": "Jacob Lawrence",
+        "Title": "Living conditions were better in the North",
+        "Year": "1940-41",
+        "ObjectID": "78541",
+        "Work": "https://www.moma.org/collection/works/78541",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMxNzIxMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b9b37c28785b4caa",
+        "Details": {
+            "Medium": "Casein tempera on hardboard",
+            "Dimensions": "12 x 18\" (30.5 x 45.7 cm)",
+            "Credit": "Gift of Mrs. David M. Levy",
+            "Object number": "28.1942.22",
+            "Copyright": "\u00a9 2023 Jacob Lawrence / Artists Rights Society (ARS), New York",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/3418"
+    },
+    {
+        "Artist": "Jacob Lawrence",
+        "Title": "Industries attempted to board their labor in quarters that were oftentimes very unhealthy. Labor camps were numerous",
+        "Year": "1940-41",
+        "ObjectID": "78542",
+        "Work": "https://www.moma.org/collection/works/78542",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwNTAyNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c1ab3404241e93a4",
+        "Details": {
+            "Medium": "Casein tempera on hardboard",
+            "Dimensions": "18 x 12\" (45.7 x 30.5 cm)",
+            "Credit": "Gift of Mrs. David M. Levy",
+            "Object number": "28.1942.23",
+            "Copyright": "\u00a9 2023 Jacob Lawrence / Artists Rights Society (ARS), New York",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/3418"
+    },
+    {
+        "Artist": "Jacob Lawrence",
+        "Title": "Housing for the Negroes was a very difficult problem",
+        "Year": "1940-41",
+        "ObjectID": "78543",
+        "Work": "https://www.moma.org/collection/works/78543",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMxMTg5OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=09ccc288a7fa6a6c",
+        "Details": {
+            "Medium": "Casein tempera on hardboard",
+            "Dimensions": "18 x 12\" (45.7 x 30.5 cm)",
+            "Credit": "Gift of Mrs. David M. Levy",
+            "Object number": "28.1942.24",
+            "Copyright": "\u00a9 2023 Jacob Lawrence / Artists Rights Society (ARS), New York",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/3418"
+    },
+    {
+        "Artist": "Jacob Lawrence",
+        "Title": "Race riots were very numerous all over the North because of the antagonism that was caused between the Negro and white workers. Many of these riots occurred because the Negro was used as a strike breaker in many of the Northern industries",
+        "Year": "1940-41",
+        "ObjectID": "78544",
+        "Work": "https://www.moma.org/collection/works/78544",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwNTAyNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=52e9ee740ed4c730",
+        "Details": {
+            "Medium": "Casein tempera on hardboard",
+            "Dimensions": "18 x 12\" (45.7 x 30.5 cm)",
+            "Credit": "Gift of Mrs. David M. Levy",
+            "Object number": "28.1942.25",
+            "Copyright": "\u00a9 2023 Jacob Lawrence / Artists Rights Society (ARS), New York",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/3418"
+    },
+    {
+        "Artist": "Jacob Lawrence",
+        "Title": "One of the largest race riots occurred in East St. Louis",
+        "Year": "1940-41",
+        "ObjectID": "78545",
+        "Work": "https://www.moma.org/collection/works/78545",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMxMTkwMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=689d6195059df113",
+        "Details": {
+            "Medium": "Casein tempera on hardboard",
+            "Dimensions": "12 x 18\" (30.5 x 45.7 cm)",
+            "Credit": "Gift of Mrs. David M. Levy",
+            "Object number": "28.1942.26",
+            "Copyright": "\u00a9 2023 Jacob Lawrence / Artists Rights Society (ARS), New York",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/3418"
+    },
+    {
+        "Artist": "Jacob Lawrence",
+        "Title": "One of the main forms of social and recreational activities in which the migrants indulged occurred in the church",
+        "Year": "1940-41",
+        "ObjectID": "78546",
+        "Work": "https://www.moma.org/collection/works/78546",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwNTAyOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a19bf8ea1c991c5e",
+        "Details": {
+            "Medium": "Casein tempera on hardboard",
+            "Dimensions": "18 x 12\" (45.7 x 30.5 cm)",
+            "Credit": "Gift of Mrs. David M. Levy",
+            "Object number": "28.1942.27",
+            "Copyright": "\u00a9 2023 Jacob Lawrence / Artists Rights Society (ARS), New York",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/3418"
+    },
+    {
+        "Artist": "Jacob Lawrence",
+        "Title": "Among one of the last groups to leave the South was the Negro professional who was forced to follow his clientele to make a living",
+        "Year": "1940-41",
+        "ObjectID": "78547",
+        "Work": "https://www.moma.org/collection/works/78547",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMxMTkwMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cc0f43e262d729d7",
+        "Details": {
+            "Medium": "Casein tempera on hardboard",
+            "Dimensions": "12 x 18\" (30.5 x 45.7 cm)",
+            "Credit": "Gift of Mrs. David M. Levy",
+            "Object number": "28.1942.28",
+            "Copyright": "\u00a9 2023 Jacob Lawrence / Artists Rights Society (ARS), New York",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/3418"
+    },
+    {
+        "Artist": "Jacob Lawrence",
+        "Title": "In the North the Negro had better educational facilities",
+        "Year": "1940-41",
+        "ObjectID": "78548",
+        "Work": "https://www.moma.org/collection/works/78548",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwNTAyOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d5d3958f41f04097",
+        "Details": {
+            "Medium": "Casein tempera on hardboard",
+            "Dimensions": "12 x 18\" (30.5 x 45.7 cm)",
+            "Credit": "Gift of Mrs. David M. Levy",
+            "Object number": "28.1942.29",
+            "Copyright": "\u00a9 2023 Jacob Lawrence / Artists Rights Society (ARS), New York",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/3418"
+    },
+    {
+        "Artist": "Jacob Lawrence",
+        "Title": "The trains were packed continually with migrants",
+        "Year": "1940-41",
+        "ObjectID": "78549",
+        "Work": "https://www.moma.org/collection/works/78549",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMxMTkwMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2b492a1678f30faa",
+        "Details": {
+            "Medium": "Casein tempera on hardboard",
+            "Dimensions": "18 x 12\" (45.7 x 30.5 cm)",
+            "Credit": "Gift of Mrs. David M. Levy",
+            "Object number": "28.1942.3",
+            "Copyright": "\u00a9 2023 Jacob Lawrence / Artists Rights Society (ARS), New York",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/3418"
+    },
+    {
+        "Artist": "Jacob Lawrence",
+        "Title": "And the migrants kept coming",
+        "Year": "1940-41",
+        "ObjectID": "78550",
+        "Work": "https://www.moma.org/collection/works/78550",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMxNzIxMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1fcb5aca9bfc0e72",
+        "Details": {
+            "Medium": "Casein tempera on hardboard",
+            "Dimensions": "12 x 18\" (30.5 x 45.7 cm)",
+            "Credit": "Gift of Mrs. David M. Levy",
+            "Object number": "28.1942.30",
+            "Copyright": "\u00a9 2023 Jacob Lawrence / Artists Rights Society (ARS), New York",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/3418"
+    },
+    {
+        "Artist": "Jacob Lawrence",
+        "Title": "They did not always leave because they were promised work in the North. Many of them left because of Southern conditions, one of them being great floods that ruined the crops, and therefore they were unable to make a living where they were",
+        "Year": "1940-41",
+        "ObjectID": "78551",
+        "Work": "https://www.moma.org/collection/works/78551",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwNTAzMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6eb94d1afa6dd92a",
+        "Details": {
+            "Medium": "Casein tempera on hardboard",
+            "Dimensions": "18 x 12\" (45.7 x 30.5 cm)",
+            "Credit": "Gift of Mrs. David M. Levy",
+            "Object number": "28.1942.4",
+            "Copyright": "\u00a9 2023 Jacob Lawrence / Artists Rights Society (ARS), New York",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/3418"
+    },
+    {
+        "Artist": "Jacob Lawrence",
+        "Title": "They were very poor",
+        "Year": "1940-41",
+        "ObjectID": "78552",
+        "Work": "https://www.moma.org/collection/works/78552",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwNTAzMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=bb21fd9855e06682",
+        "Details": {
+            "Medium": "Casein tempera on hardboard",
+            "Dimensions": "12 x 18\" (30.5 x 45.7 cm)",
+            "Credit": "Gift of Mrs. David M. Levy",
+            "Object number": "28.1942.5",
+            "Copyright": "\u00a9 2023 Jacob Lawrence / Artists Rights Society (ARS), New York",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/3418"
+    },
+    {
+        "Artist": "Jacob Lawrence",
+        "Title": "The railroad stations were at times so over-packed with people leaving that special guards had to be called in to keep order",
+        "Year": "1940-41",
+        "ObjectID": "78553",
+        "Work": "https://www.moma.org/collection/works/78553",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwNTAzMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=df16b6629b462ad6",
+        "Details": {
+            "Medium": "Casein tempera on hardboard",
+            "Dimensions": "12 x 18\" (30.5 x 45.7 cm)",
+            "Credit": "Gift of Mrs. David M. Levy",
+            "Object number": "28.1942.6",
+            "Copyright": "\u00a9 2023 Jacob Lawrence / Artists Rights Society (ARS), New York",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/3418"
+    },
+    {
+        "Artist": "Jacob Lawrence",
+        "Title": "Among the social conditions that existed which was partly the cause of the migration was the injustice done to the Negroes in the courts",
+        "Year": "1940-41",
+        "ObjectID": "78554",
+        "Work": "https://www.moma.org/collection/works/78554",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1MTIyNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f67457671210d5c5",
+        "Details": {
+            "Medium": "Casein tempera on hardboard",
+            "Dimensions": "18 x 12\" (45.7 x 30.5 cm)",
+            "Credit": "Gift of Mrs. David M. Levy",
+            "Object number": "28.1942.7",
+            "Copyright": "\u00a9 2023 Jacob Lawrence / Artists Rights Society (ARS), New York",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/3418"
+    },
+    {
+        "Artist": "Jacob Lawrence",
+        "Title": "Although the Negro was used to lynching, he found this an opportune time for him to leave where one had occurred",
+        "Year": "1940-41",
+        "ObjectID": "78555",
+        "Work": "https://www.moma.org/collection/works/78555",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMxNzIxNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=327d15fd4154bb12",
+        "Details": {
+            "Medium": "Casein tempera on hardboard",
+            "Dimensions": "18 x 12\" (45.7 x 30.5 cm)",
+            "Credit": "Gift of Mrs. David M. Levy",
+            "Object number": "28.1942.8",
+            "Copyright": "\u00a9 2023 Jacob Lawrence / Artists Rights Society (ARS), New York",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/3418"
+    },
+    {
+        "Artist": "Jacob Lawrence",
+        "Title": "The migration gained in momentum",
+        "Year": "1940-41",
+        "ObjectID": "78556",
+        "Work": "https://www.moma.org/collection/works/78556",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMxNzIxNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d3b044749794e847",
+        "Details": {
+            "Medium": "Casein tempera on hardboard",
+            "Dimensions": "18 x 12\" (45.7 x 30.5 cm)",
+            "Credit": "Gift of Mrs. David M. Levy",
+            "Object number": "28.1942.9",
+            "Copyright": "\u00a9 2023 Jacob Lawrence / Artists Rights Society (ARS), New York",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/3418"
+    },
+    {
+        "Artist": "Gustavo Lazarini Terradas",
+        "Title": "Aunt Juliana",
+        "Year": "1941",
+        "ObjectID": "37842",
+        "Work": "https://www.moma.org/collection/works/37842",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQzNzc0NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c4d85decfedc062c",
+        "Details": {
+            "Medium": "Watercolor on paper",
+            "Dimensions": "19 1/4 x 13 1/8\" (48.9 x 33.3 cm)",
+            "Credit": "Inter-American Fund",
+            "Object number": "713.1942",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3423"
+    },
+    {
+        "Artist": "Gustavo Lazarini Terradas",
+        "Title": "Old-Fashioned Lady (Dama Antigua)",
+        "Year": "1941",
+        "ObjectID": "37845",
+        "Work": "https://www.moma.org/collection/works/37845",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQzNzc2NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=57be0b61637dca90",
+        "Details": {
+            "Medium": "Gouache and watercolor on paper",
+            "Dimensions": "19 1/2 x 13 3/8\" (49.5 x 34 cm)",
+            "Credit": "Inter-American Fund",
+            "Object number": "714.1942",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3423"
+    },
+    {
+        "Artist": "Tom Lee",
+        "Title": "Strawberry. Costume design for the ballet Juke-Box",
+        "Year": "1941",
+        "ObjectID": "86152",
+        "Work": "https://www.moma.org/collection/works/86152",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ0NDE4MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6833f489b5081a09",
+        "Details": {
+            "Medium": "Watercolor and pencil on paper",
+            "Dimensions": "17 7/8 \u00d7 11 7/8\" (45.4 \u00d7 30.2 cm)",
+            "Credit": "Gift of Lincoln Kirstein",
+            "Object number": "284.1942.1",
+            "Associated work": "Eighteen costume designs and one set design for the ballet Juke-Box",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3456"
+    },
+    {
+        "Artist": "Tom Lee",
+        "Title": "Red. Costume design for the ballet Juke-Box",
+        "Year": "1941",
+        "ObjectID": "86153",
+        "Work": "https://www.moma.org/collection/works/86153",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ0MzgxNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5ace937fcbf3f408",
+        "Details": {
+            "Medium": "Watercolor, pencil, cut-and-pinned paper with pencil, and stamped colored ink on paper",
+            "Dimensions": "17 7/8 \u00d7 11 7/8\" (45.4 \u00d7 30.2 cm)",
+            "Credit": "Gift of Lincoln Kirstein",
+            "Object number": "284.1942.2",
+            "Associated work": "Eighteen costume designs and one set design for the ballet Juke-Box",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3456"
+    },
+    {
+        "Artist": "Tom Lee",
+        "Title": "Lemon. Costume design for the ballet Juke-Box",
+        "Year": "1941",
+        "ObjectID": "86154",
+        "Work": "https://www.moma.org/collection/works/86154",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ0NDE4NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=126d6cd40bb4a8bc",
+        "Details": {
+            "Medium": "Watercolor, pencil, and clipped fabric on paper",
+            "Dimensions": "17 7/8 \u00d7 11 7/8\" (45.4 \u00d7 30.2 cm)",
+            "Credit": "Gift of Lincoln Kirstein",
+            "Object number": "284.1942.3",
+            "Associated work": "Eighteen costume designs and one set design for the ballet Juke-Box",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3456"
+    },
+    {
+        "Artist": "Tom Lee",
+        "Title": "Small Girl in Athletic Train 2nd Group. Costume design for the ballet Juke-Box",
+        "Year": "1941",
+        "ObjectID": "86156",
+        "Work": "https://www.moma.org/collection/works/86156",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ0NDE4OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f042c7a220ec0512",
+        "Details": {
+            "Medium": "Gouache, watercolor, pinned fabric, and pencil on paper",
+            "Dimensions": "17 7/8 \u00d7 11 7/8\" (45.4 \u00d7 30.2 cm)",
+            "Credit": "Gift of Lincoln Kirstein",
+            "Object number": "284.1942.5",
+            "Associated work": "Eighteen costume designs and one set design for the ballet Juke-Box",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3456"
+    },
+    {
+        "Artist": "Tom Lee",
+        "Title": "Raspberry. Costume design for the ballet Juke-Box",
+        "Year": "1941",
+        "ObjectID": "86157",
+        "Work": "https://www.moma.org/collection/works/86157",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ0MzgxNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d67a107770361701",
+        "Details": {
+            "Medium": "Watercolor, pencil, and pinned fabric on paper",
+            "Dimensions": "17 7/8 \u00d7 11 7/8\" (45.4 \u00d7 30.2 cm)",
+            "Credit": "Gift of Lincoln Kirstein",
+            "Object number": "284.1942.6",
+            "Associated work": "Eighteen costume designs and one set design for the ballet Juke-Box",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3456"
+    },
+    {
+        "Artist": "Tom Lee",
+        "Title": "Small Girls Athletes Train. Costume design for the ballet Juke-Box",
+        "Year": "1941",
+        "ObjectID": "86158",
+        "Work": "https://www.moma.org/collection/works/86158",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ0NDE4OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3e72d27c923696fd",
+        "Details": {
+            "Medium": "Watercolor, pinned fabric, and pencil on paper",
+            "Dimensions": "17 7/8 \u00d7 11 7/8\" (45.4 \u00d7 30.2 cm)",
+            "Credit": "Gift of Lincoln Kirstein",
+            "Object number": "284.1942.7",
+            "Associated work": "Eighteen costume designs and one set design for the ballet Juke-Box",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3456"
+    },
+    {
+        "Artist": "Tom Lee",
+        "Title": "College Band Leader. Costume design for the ballet Juke-Box",
+        "Year": "1941",
+        "ObjectID": "86159",
+        "Work": "https://www.moma.org/collection/works/86159",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ0MzgxOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4210455fb1fa7d34",
+        "Details": {
+            "Medium": "Watercolor and pencil on paper",
+            "Dimensions": "17 7/8 \u00d7 11 7/8\" (45.4 \u00d7 30.2 cm)",
+            "Credit": "Gift of Lincoln Kirstein",
+            "Object number": "284.1942.8",
+            "Associated work": "Eighteen costume designs and one set design for the ballet Juke-Box",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3456"
+    },
+    {
+        "Artist": "Tom Lee",
+        "Title": "Small Girls. Costume design for the ballet Juke-Box",
+        "Year": "1941",
+        "ObjectID": "86160",
+        "Work": "https://www.moma.org/collection/works/86160",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ0MzgxOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=804facb787675a7e",
+        "Details": {
+            "Medium": "Watercolor, pinned fabric, and pencil on paper",
+            "Dimensions": "17 7/8 \u00d7 11 7/8\" (45.4 \u00d7 30.2 cm)",
+            "Credit": "Gift of Lincoln Kirstein",
+            "Object number": "284.1942.9",
+            "Associated work": "Eighteen costume designs and one set design for the ballet Juke-Box",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3456"
+    },
+    {
+        "Artist": "Tom Lee",
+        "Title": "Vanilla. Costume design for the ballet Juke-Box",
+        "Year": "1941",
+        "ObjectID": "86161",
+        "Work": "https://www.moma.org/collection/works/86161",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQzMDc2MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ca70b92f864aacd8",
+        "Details": {
+            "Medium": "Watercolor, gouache, pencil, and pinned fabric on paper",
+            "Dimensions": "17 7/8 \u00d7 11 7/8\" (45.4 \u00d7 30.2 cm)",
+            "Credit": "Gift of Lincoln Kirstein",
+            "Object number": "284.1942.10",
+            "Associated work": "Eighteen costume designs and one set design for the ballet Juke-Box",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3456"
+    },
+    {
+        "Artist": "Tom Lee",
+        "Title": "Rusty. Costume design for the ballet Juke-Box",
+        "Year": "1941",
+        "ObjectID": "86162",
+        "Work": "https://www.moma.org/collection/works/86162",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQzMDc2MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=aa451f75cf46fa7a",
+        "Details": {
+            "Medium": "Watercolor, pencil, and pinned fabric on paper",
+            "Dimensions": "17 3/4 x 11 7/8\" (45.1 x 30.2 cm)",
+            "Credit": "Gift of Lincoln Kirstein",
+            "Object number": "284.1942.11",
+            "Associated work": "Eighteen costume designs and one set design for the ballet Juke-Box",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3456"
+    },
+    {
+        "Artist": "Tom Lee",
+        "Title": "Rusty. Costume design for the ballet Juke Box",
+        "Year": "1941",
+        "ObjectID": "86163",
+        "Work": "https://www.moma.org/collection/works/86163",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Watercolor and pencil on paper",
+            "Dimensions": "17 3/4 x 11 7/8\" (45.1 x 30.2 cm)",
+            "Credit": "Gift of Lincoln Kirstein",
+            "Object number": "284.1942.12",
+            "Associated work": "Eighteen costume designs and one set design for the ballet Juke-Box",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3456"
+    },
+    {
+        "Artist": "Tom Lee",
+        "Title": "Maple. Costume design for the ballet Juke-Box",
+        "Year": "1941",
+        "ObjectID": "86164",
+        "Work": "https://www.moma.org/collection/works/86164",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ0NDE4NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d985f71a995910de",
+        "Details": {
+            "Medium": "Watercolor, pencil, and clipped fabric on paper",
+            "Dimensions": "17 7/8 \u00d7 11 7/8\" (45.4 \u00d7 30.2 cm)",
+            "Credit": "Gift of Lincoln Kirstein",
+            "Object number": "284.1942.13",
+            "Associated work": "Eighteen costume designs and one set design for the ballet Juke-Box",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3456"
+    },
+    {
+        "Artist": "Tom Lee",
+        "Title": "Dusty. Costume design for the ballet Juke-Box",
+        "Year": "1941",
+        "ObjectID": "86165",
+        "Work": "https://www.moma.org/collection/works/86165",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQzMDc2MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=52403800c5e99e7d",
+        "Details": {
+            "Medium": "Gouache, watercolor, pencil, and pinned fabric on paper",
+            "Dimensions": "17 3/4 x 11 7/8\" (45.1 x 30.2 cm)",
+            "Credit": "Gift of Lincoln Kirstein",
+            "Object number": "284.1942.14",
+            "Associated work": "Eighteen costume designs and one set design for the ballet Juke-Box",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3456"
+    },
+    {
+        "Artist": "Tom Lee",
+        "Title": "Fizz. Costume design for the ballet Juke-Box",
+        "Year": "1941",
+        "ObjectID": "86166",
+        "Work": "https://www.moma.org/collection/works/86166",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ0NDE4NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ce49fed619eaa629",
+        "Details": {
+            "Medium": "Watercolor, pencil, and pinned fabric on paper",
+            "Dimensions": "17 7/8 \u00d7 11 7/8\" (45.4 \u00d7 30.2 cm)",
+            "Credit": "Gift of Lincoln Kirstein",
+            "Object number": "284.1942.15",
+            "Associated work": "Eighteen costume designs and one set design for the ballet Juke-Box",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3456"
+    },
+    {
+        "Artist": "Tom Lee",
+        "Title": "Bill Dollar. Costume design for the ballet Juke-Box",
+        "Year": "1941",
+        "ObjectID": "86167",
+        "Work": "https://www.moma.org/collection/works/86167",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ0NDE4NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a33cadfb5b5b5a07",
+        "Details": {
+            "Medium": "Watercolor, pencil, and pinned fabric on paper with two drawings pinned to verso (both pencil on paper)",
+            "Dimensions": "17 7/8 \u00d7 11 7/8\" (45.4 \u00d7 30.2 cm)",
+            "Credit": "Gift of Lincoln Kirstein",
+            "Object number": "284.1942.16.a-c",
+            "Associated work": "Eighteen costume designs and one set design for the ballet Juke-Box",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3456"
+    },
+    {
+        "Artist": "Tom Lee",
+        "Title": "Set design for the ballet Juke-Box",
+        "Year": "1941",
+        "ObjectID": "86170",
+        "Work": "https://www.moma.org/collection/works/86170",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ0NTU2NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8ffa5895b4c8853a",
+        "Details": {
+            "Medium": "Watercolor, pencil, and stamped colored ink on paper",
+            "Dimensions": "18 x 24\" (45.7 x 61 cm)",
+            "Credit": "Gift of Lincoln Kirstein",
+            "Object number": "284.1942.19",
+            "Associated work": "Eighteen costume designs and one set design for the ballet Juke-Box",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3456"
+    },
+    {
+        "Artist": "Fernand Leger",
+        "Title": "Circus Family",
+        "Year": "1941",
+        "ObjectID": "37209",
+        "Work": "https://www.moma.org/collection/works/37209",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMTU2MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0f8d0c3dc1c8a8c6",
         "Details": {
             "Medium": "Ink on paper",
-            "Dimensions": "10 7/8 x 15\" (27.7 x 32.0 cm)",
-            "Credit": "The Tisch Foundation, Inc. Fund",
-            "Object number": "297.1974",
-            "Copyright": "\u00a9 2023 Succession H. Matisse / Artists Rights Society (ARS), New York",
+            "Dimensions": "40 3/4 x 35 1/8\" (103.5 x 89.1 cm)",
+            "Credit": "Gift of William H. Weintraub",
+            "Object number": "502.1964",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/3832"
+        "Profile": "https://www.moma.org/artists/6624"
     },
     {
-        "Artist": "Henri Matisse",
-        "Title": "Untitled from Ten Dancers (Dix Danseuses)",
-        "Year": "1927",
-        "ObjectID": "60062",
-        "Work": "https://www.moma.org/collection/works/60062",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNzI4NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=222579344d8b75db",
+        "Artist": "Luis Lemus",
+        "Title": "Vineyard",
+        "Year": "c. 1940",
+        "ObjectID": "55984",
+        "Work": "https://www.moma.org/collection/works/55984",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NDAwNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6b1193d184c4b803",
         "Details": {
-            "Medium": "One from a portfolio of ten lithographs",
-            "Dimensions": "composition (irreg.): 17 7/8 \u00d7 10 13/16\" (45.4 \u00d7 27.5 cm); sheet: 19 7/8 \u00d7 12 15/16\" (50.5 \u00d7 32.8 cm)",
-            "Publisher": "\u00c9ditions de la Galerie d'Art Contemporain, Paris",
-            "Printer": "Atelier Duch\u00e2tel, Paris",
-            "Edition": "130",
-            "Credit": "Gift of Mrs. Saidie A. May",
-            "Object number": "19.1932.1",
-            "Copyright": "\u00a9 2023 Succession H. Matisse / Artists Rights Society (ARS), New York",
-            "Portfolio": "Ten Dancers (Dix danseuses)",
-            "Department": "Drawings and Prints"
+            "Medium": "Gelatin silver print",
+            "Dimensions": "11 1/8 \u00d7 10 3/4\" (28.3 \u00d7 27.3 cm)",
+            "Credit": "Photography Purchase Fund",
+            "Object number": "675.1941",
+            "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/3832"
+        "Profile": "https://www.moma.org/artists/3478"
     },
     {
-        "Artist": "Henri Matisse",
-        "Title": "Ten Dancers (Dix danseuses)",
-        "Year": "1927",
-        "ObjectID": "60063",
-        "Work": "https://www.moma.org/collection/works/60063",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNzI4NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=222579344d8b75db",
-        "Details": {
-            "Medium": "Portfolio of ten lithographs",
-            "Dimensions": "portfolio: 20 1/2 \u00d7 13 5/16 \u00d7 13/16\" (52 \u00d7 33.8 \u00d7 2 cm)",
-            "Publisher": "\u00c9ditions de la Galerie d'Art Contemporain, Paris",
-            "Printer": "Atelier Duch\u00e2tel, Paris",
-            "Edition": "130",
-            "Credit": "Gift of Mrs. Saidie A. May",
-            "Object number": "19.1932.1-10",
-            "Copyright": "\u00a9 2023 Succession H. Matisse / Artists Rights Society (ARS), New York",
-            "Type": "Portfolio",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/3832"
-    },
-    {
-        "Artist": "Henri Matisse",
-        "Title": "Untitled from Ten Dancers (Dix Danseuses)",
-        "Year": "1927",
-        "ObjectID": "60064",
-        "Work": "https://www.moma.org/collection/works/60064",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNjczMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1431c6c414998150",
-        "Details": {
-            "Medium": "One from a portfolio of ten lithographs",
-            "Dimensions": "composition (irreg.): 11 \u00d7 18 1/8\" (28 \u00d7 46 cm); sheet: 12 15/16 \u00d7 19 7/8\" (32.8 \u00d7 50.5 cm)",
-            "Publisher": "\u00c9ditions de la Galerie d'Art Contemporain, Paris",
-            "Printer": "Atelier Duch\u00e2tel, Paris",
-            "Edition": "130",
-            "Credit": "Gift of Mrs. Saidie A. May",
-            "Object number": "19.1932.10",
-            "Copyright": "\u00a9 2023 Succession H. Matisse / Artists Rights Society (ARS), New York",
-            "Portfolio": "Ten Dancers (Dix danseuses)",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/3832"
-    },
-    {
-        "Artist": "Henri Matisse",
-        "Title": "Untitled from Ten Dancers (Dix Danseuses)",
-        "Year": "1927",
-        "ObjectID": "60065",
-        "Work": "https://www.moma.org/collection/works/60065",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NDA5NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1a0c7e49cbd96f91",
-        "Details": {
-            "Medium": "One from a portfolio of ten lithographs",
-            "Dimensions": "composition (irreg.): 6 7/16 \u00d7 16 1/4\" (16.3 \u00d7 41.3 cm); sheet: 12 15/16 \u00d7 19 7/8\" (32.8 \u00d7 50.5 cm)",
-            "Publisher": "\u00c9ditions de la Galerie d'Art Contemporain, Paris",
-            "Printer": "Atelier Duch\u00e2tel, Paris",
-            "Edition": "130",
-            "Credit": "Gift of Mrs. Saidie A. May",
-            "Object number": "19.1932.2",
-            "Copyright": "\u00a9 2023 Succession H. Matisse / Artists Rights Society (ARS), New York",
-            "Portfolio": "Ten Dancers (Dix danseuses)",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/3832"
-    },
-    {
-        "Artist": "Henri Matisse",
-        "Title": "Untitled from Ten Dancers (Dix Danseuses)",
-        "Year": "1927",
-        "ObjectID": "60066",
-        "Work": "https://www.moma.org/collection/works/60066",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NDA5NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4bedb84fc4e3d65e",
-        "Details": {
-            "Medium": "One from a portfolio of ten lithographs",
-            "Dimensions": "composition (irreg.): 10 7/16 \u00d7 18 1/16\" (26.5 \u00d7 45.8 cm); sheet: 12 7/8 \u00d7 19 7/8\" (32.7 \u00d7 50.5 cm)",
-            "Publisher": "\u00c9ditions de la Galerie d'Art Contemporain, Paris",
-            "Printer": "Atelier Duch\u00e2tel, Paris",
-            "Edition": "130",
-            "Credit": "Gift of Mrs. Saidie A. May",
-            "Object number": "19.1932.3",
-            "Copyright": "\u00a9 2023 Succession H. Matisse / Artists Rights Society (ARS), New York",
-            "Portfolio": "Ten Dancers (Dix danseuses)",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/3832"
-    },
-    {
-        "Artist": "Henri Matisse",
-        "Title": "Untitled from Ten Dancers (Dix Danseuses)",
-        "Year": "1927",
-        "ObjectID": "60067",
-        "Work": "https://www.moma.org/collection/works/60067",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NDA5NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7e9c619a89cd7eb4",
-        "Details": {
-            "Medium": "One from a portfolio of ten lithographs",
-            "Dimensions": "composition (irreg.): 17 15/16 \u00d7 10 5/16\" (45.5 \u00d7 26.2 cm); sheet: 19 13/16 \u00d7 13\" (50.3 \u00d7 33 cm)",
-            "Publisher": "\u00c9ditions de la Galerie d'Art Contemporain, Paris",
-            "Printer": "Atelier Duch\u00e2tel, Paris",
-            "Edition": "130",
-            "Credit": "Gift of Mrs. Saidie A. May",
-            "Object number": "19.1932.4",
-            "Copyright": "\u00a9 2023 Succession H. Matisse / Artists Rights Society (ARS), New York",
-            "Portfolio": "Ten Dancers (Dix danseuses)",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/3832"
-    },
-    {
-        "Artist": "Henri Matisse",
-        "Title": "Untitled from Ten Dancers (Dix Danseuses)",
-        "Year": "1927",
-        "ObjectID": "60068",
-        "Work": "https://www.moma.org/collection/works/60068",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NDA5NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c59690c61fd5db99",
-        "Details": {
-            "Medium": "One from a portfolio of ten lithographs",
-            "Dimensions": "composition (irreg.): 10 15/16 \u00d7 18\" (27.8 \u00d7 45.7 cm); sheet: 12 15/16 \u00d7 19 13/16\" (32.8 \u00d7 50.4 cm)",
-            "Publisher": "\u00c9ditions de la Galerie d'Art Contemporain, Paris",
-            "Printer": "Atelier Duch\u00e2tel, Paris",
-            "Edition": "130",
-            "Credit": "Gift of Mrs. Saidie A. May",
-            "Object number": "19.1932.5",
-            "Copyright": "\u00a9 2023 Succession H. Matisse / Artists Rights Society (ARS), New York",
-            "Portfolio": "Ten Dancers (Dix danseuses)",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/3832"
-    },
-    {
-        "Artist": "Henri Matisse",
-        "Title": "Untitled from Ten Dancers (Dix Danseuses)",
-        "Year": "1927",
-        "ObjectID": "60069",
-        "Work": "https://www.moma.org/collection/works/60069",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NDA5OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f2c374931d85678d",
-        "Details": {
-            "Medium": "One from a portfolio of ten lithographs",
-            "Dimensions": "composition (irreg.): 11 \u00d7 18 1/8\" (28 \u00d7 46 cm); sheet: 12 13/16 \u00d7 19 13/16\" (32.6 \u00d7 50.4 cm)",
-            "Publisher": "\u00c9ditions de la Galerie d'Art Contemporain, Paris",
-            "Printer": "Atelier Duch\u00e2tel, Paris",
-            "Edition": "130",
-            "Credit": "Gift of Mrs. Saidie A. May",
-            "Object number": "19.1932.6",
-            "Copyright": "\u00a9 2023 Succession H. Matisse / Artists Rights Society (ARS), New York",
-            "Portfolio": "Ten Dancers (Dix danseuses)",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/3832"
-    },
-    {
-        "Artist": "Henri Matisse",
-        "Title": "Untitled from Ten Dancers (Dix Danseuses)",
-        "Year": "1927",
-        "ObjectID": "60070",
-        "Work": "https://www.moma.org/collection/works/60070",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NDA5OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=87a5e61308830eff",
-        "Details": {
-            "Medium": "One from a portfolio of ten lithographs",
-            "Dimensions": "composition (irreg.): 17 1/16 \u00d7 10 7/8\" (43.4 \u00d7 27.7 cm); sheet: 19 7/8 \u00d7 12 7/8\" (50.5 \u00d7 32.7 cm)",
-            "Publisher": "\u00c9ditions de la Galerie d'Art Contemporain, Paris",
-            "Printer": "Atelier Duch\u00e2tel, Paris",
-            "Edition": "130",
-            "Credit": "Gift of Mrs. Saidie A. May",
-            "Object number": "19.1932.7",
-            "Copyright": "\u00a9 2023 Succession H. Matisse / Artists Rights Society (ARS), New York",
-            "Portfolio": "Ten Dancers (Dix danseuses)",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/3832"
-    },
-    {
-        "Artist": "Henri Matisse",
-        "Title": "Untitled from Ten Dancers (Dix Danseuses)",
-        "Year": "1927",
-        "ObjectID": "60071",
-        "Work": "https://www.moma.org/collection/works/60071",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NDEwMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8632594b5236e9aa",
-        "Details": {
-            "Medium": "One from a portfolio of ten lithographs",
-            "Dimensions": "composition (irreg.): 18 1/8 \u00d7 11\" (46 \u00d7 28 cm); sheet: 19 13/16 \u00d7 12 15/16\" (50.3 \u00d7 32.8 cm)",
-            "Publisher": "\u00c9ditions de la Galerie d'Art Contemporain, Paris",
-            "Printer": "Atelier Duch\u00e2tel, Paris",
-            "Edition": "130",
-            "Credit": "Gift of Mrs. Saidie A. May",
-            "Object number": "19.1932.8",
-            "Copyright": "\u00a9 2023 Succession H. Matisse / Artists Rights Society (ARS), New York",
-            "Portfolio": "Ten Dancers (Dix danseuses)",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/3832"
-    },
-    {
-        "Artist": "Henri Matisse",
-        "Title": "Untitled from Ten Dancers (Dix Danseuses)",
-        "Year": "1927",
-        "ObjectID": "60072",
-        "Work": "https://www.moma.org/collection/works/60072",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NDEwMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6b7a639749c132df",
-        "Details": {
-            "Medium": "One from a portfolio of ten lithographs",
-            "Dimensions": "composition (irreg.): 9 15/16 \u00d7 16 5/16\" (25.2 \u00d7 41.4 cm); sheet: 12 15/16 \u00d7 19 7/8\" (32.8 \u00d7 50.5 cm)",
-            "Publisher": "\u00c9ditions de la Galerie d'Art Contemporain, Paris",
-            "Printer": "Atelier Duch\u00e2tel, Paris",
-            "Edition": "130",
-            "Credit": "Gift of Mrs. Saidie A. May",
-            "Object number": "19.1932.9",
-            "Copyright": "\u00a9 2023 Succession H. Matisse / Artists Rights Society (ARS), New York",
-            "Portfolio": "Ten Dancers (Dix danseuses)",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/3832"
-    },
-    {
-        "Artist": "Henri Matisse",
-        "Title": "The Pianist Alfred Cortot (Le Pianiste Alfred Cortot)",
-        "Year": "1927",
-        "ObjectID": "61593",
-        "Work": "https://www.moma.org/collection/works/61593",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NDM0MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f19498f7120fcade",
-        "Details": {
-            "Medium": "Drypoint with chine coll\u00e9",
-            "Dimensions": "plate: 5 7/16 x 3 3/8\" (13.8 x 8.6cm); sheet: 14 15/16 x 11 3/16\" (38 x 28.4cm)",
-            "Edition": "trial before the edition of 15",
-            "Credit": "Stephen C. Clark Fund",
-            "Object number": "85.1951",
-            "Copyright": "\u00a9 2023 Succession H. Matisse / Artists Rights Society (ARS), New York",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/3832"
-    },
-    {
-        "Artist": "Henri Matisse",
-        "Title": "View of Paris - Pont St. Michel (Vue de Paris - Le Pont St-Michel) from the portfolio Pictures of Paris (Tableaux de Paris)",
-        "Year": "1927",
-        "ObjectID": "67722",
-        "Work": "https://www.moma.org/collection/works/67722",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NDE1OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=26fb22f885b28632",
-        "Details": {
-            "Medium": "Etching",
-            "Dimensions": "plate: 5 7/8 x 7 11/16\" (15 x 19.6 cm); sheet: 9 5/8 x 13\" (24.5 x 33 cm)",
-            "Publisher": "Emile-Paul Fr\u00e8res, Paris",
-            "Credit": "Abby Aldrich Rockefeller Fund",
-            "Object number": "362.1963",
-            "Copyright": "\u00a9 2023 Succession H. Matisse / Artists Rights Society (ARS), New York",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/3832"
-    },
-    {
-        "Artist": "Henri Matisse",
-        "Title": "Dancer Reflected in the Mirror (Danseuse refletee dans la glace)",
-        "Year": "1927",
-        "ObjectID": "68975",
-        "Work": "https://www.moma.org/collection/works/68975",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NDE3OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=39475c0a19a52741",
+        "Artist": "Herbert Leupin",
+        "Title": "Telephonieren",
+        "Year": "1941",
+        "ObjectID": "7809",
+        "Work": "https://www.moma.org/collection/works/7809",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMTM5OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=297ed76d7b35ba4d",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "composition: 15 9/16 x 11\" (39.5 x 28 cm); sheet: 20 9/16 \u00d7 14 3/8\" (52.2 \u00d7 36.5 cm)",
-            "Publisher": "Unidentified",
-            "Printer": "probably Atelier Duch\u00e2tel, Paris",
-            "Edition": "50",
-            "Credit": "Gift of Abby Aldrich Rockefeller",
-            "Object number": "429.1940",
-            "Copyright": "\u00a9 2023 Succession H. Matisse / Artists Rights Society (ARS), New York",
+            "Dimensions": "50 x 35 7/16\" (127 x 90 cm)",
+            "Printer": "Wassermann A.G., Basel",
+            "Credit": "Gift of Leslie J. Schreyer",
+            "Object number": "632.1981",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/3503"
+    },
+    {
+        "Artist": "Leo Leuppi",
+        "Title": "Plate (folio 14) from 5 Constructionen + 5 Compositionen",
+        "Year": "1941",
+        "ObjectID": "19629",
+        "Work": "https://www.moma.org/collection/works/19629",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ3NzIxMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ea5a654ed0fd40e9",
+        "Details": {
+            "Medium": "Woodcut from a portfolio of four woodcuts, four linoleum cuts, and two lithographs",
+            "Dimensions": "composition (irreg.): 12 1/2 \u00d7 8 5/16\" (31.8 \u00d7 21.1 cm); sheet: 12 1/2 \u00d7 11 13/16\" (31.8 \u00d7 30 cm)",
+            "Publisher": "Allianz-Verlag, Z\u00fcrich",
+            "Printer": "Unidentified",
+            "Edition": "100",
+            "Credit": "Purchase",
+            "Object number": "615.1949.9",
+            "Illustrated book": "5 Constructionen + 5 Compositionen",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/3832"
+        "Profile": "https://www.moma.org/artists/3504"
     },
     {
-        "Artist": "Henri Matisse",
-        "Title": "Woman with a Veil",
-        "Year": "Nice, winter-spring 1927",
-        "ObjectID": "83411",
-        "Work": "https://www.moma.org/collection/works/83411",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMTg2MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=384d85c0a79cbf7d",
-        "Details": {
-            "Medium": "Oil on canvas",
-            "Dimensions": "24 1/4 x 19 3/4\" (61.6 x 50.2 cm)",
-            "Credit": "The William S. Paley Collection",
-            "Object number": "SPC22.1990",
-            "Copyright": "\u00a9 2023 Succession H. Matisse / Artists Rights Society (ARS), New York",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/3832"
-    },
-    {
-        "Artist": "Jan Matulka",
-        "Title": "Figure Composition - Working Men",
-        "Year": "(c. 1927)",
-        "ObjectID": "36969",
-        "Work": "https://www.moma.org/collection/works/36969",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4MTg3MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9f1f3bd9cf987c7a",
-        "Details": {
-            "Medium": "Ink, crayon, and pencil on paper",
-            "Dimensions": "22 x 15\" (55.9 x 38.3 cm)",
-            "Credit": "Gift of Mrs. Jan Matulka",
-            "Object number": "449.1981",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/3848"
-    },
-    {
-        "Artist": "Alfred H. Maurer",
-        "Title": "Self-Portrait",
-        "Year": "c. 1927",
-        "ObjectID": "79427",
-        "Work": "https://www.moma.org/collection/works/79427",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MzIzNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a046619ef3fa2e3e",
+        "Artist": "Jack Levine",
+        "Title": "The Passing Scene",
+        "Year": "1941",
+        "ObjectID": "78939",
+        "Work": "https://www.moma.org/collection/works/78939",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MTkyOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=65b897a45a1ed1ba",
         "Details": {
             "Medium": "Oil on board",
-            "Dimensions": "21 1/2 x 18\" (54.6 x 45.7 cm)",
-            "Credit": "Bertram F. and Susie Brummer Foundation Fund",
-            "Object number": "290.1961",
+            "Dimensions": "48 x 29 3/4\" (121.9 x 75.6 cm)",
+            "Credit": "Purchase",
+            "Object number": "133.1942",
             "Department": "Painting and Sculpture"
         },
-        "Profile": "https://www.moma.org/artists/3853"
+        "Profile": "https://www.moma.org/artists/3513"
     },
     {
-        "Artist": "Ludwig Mies van der Rohe",
-        "Title": "MR Armchair",
-        "Year": "1927",
-        "ObjectID": "1563",
-        "Work": "https://www.moma.org/collection/works/1563",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNjUxNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=dbb9cfb5daac2bf9",
+        "Artist": "Helen Levitt",
+        "Title": "New York",
+        "Year": "1941",
+        "ObjectID": "44054",
+        "Work": "https://www.moma.org/collection/works/44054",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4NjY1OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f8400cd4a28cbfd8",
         "Details": {
-            "Manufacturer": "Estler-Regale G.m.b.H., Berlin",
-            "Medium": "Chrome-plated steel tubing and leather",
-            "Dimensions": "31 x 20 7/16 x 32 1/4\" (78.7 x 51.9 x 81.9 cm)",
-            "Credit": "Gift of Edgar Kaufmann, Jr.",
-            "Object number": "20.1949",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Architecture and Design"
+            "Medium": "Gelatin silver print",
+            "Dimensions": "7 7/8 \u00d7 6 7/8\" (20 \u00d7 17.4 cm)",
+            "Credit": "Purchase",
+            "Object number": "20.1946",
+            "Copyright": "\u00a9 2023 Film Documents LLC",
+            "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/7166"
-    },
-    {
-        "Artist": "Ludwig Mies van der Rohe",
-        "Title": "MR Side Chair",
-        "Year": "1927",
-        "ObjectID": "1584",
-        "Work": "https://www.moma.org/collection/works/1584",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMDA0NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7a1750a5791a1775",
-        "Details": {
-            "Manufacturer": "Estler-Regale G.m.b.H., Berlin",
-            "Medium": "Chrome-plated steel tubing and leather",
-            "Dimensions": "31 x 18 1/2 x 28 5/16\" (78.8 x 47 x 71.9 cm)",
-            "Credit": "Gift of Edgar Kaufmann, Jr.",
-            "Object number": "22.1949",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/7166"
-    },
-    {
-        "Artist": "Ludwig Mies van der Rohe",
-        "Title": "MR Side Chair",
-        "Year": "1927",
-        "ObjectID": "1595",
-        "Work": "https://www.moma.org/collection/works/1595",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNjUyNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a491239034ce0d23",
-        "Details": {
-            "Manufacturer": "Estler-Regale G.m.b.H., Berlin",
-            "Medium": "Chrome-plated steel tubing and leather",
-            "Dimensions": "31 1/8 x 19 7/8 x 28 3/8\" (79.1 x 50.5 x 72.1 cm)",
-            "Credit": "Gift of Edgar Kaufmann, Jr.",
-            "Object number": "23.1949",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/7166"
+        "Profile": "https://www.moma.org/artists/3520"
     }
 ]

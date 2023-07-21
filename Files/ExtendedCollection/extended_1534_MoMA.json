@@ -1,838 +1,811 @@
 [
     {
-        "Artist": "Kurt Schwitters",
-        "Title": "Plate 6 from Merz 3",
-        "Year": "1923",
-        "ObjectID": "94430",
-        "Work": "https://www.moma.org/collection/works/94430",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExMDk1NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cd7bafabb13b2ff6",
+        "Artist": "Fritz Lang",
+        "Title": "You Only Live Once",
+        "Year": "1937",
+        "ObjectID": "300698",
+        "Work": "https://www.moma.org/collection/works/300698",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyNzE0OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=eb2761b8900fed6b",
         "Details": {
-            "Medium": "Lithograph from a portfolio of six lithographs (three with collage additions) and two letterpress prints with collage additions (including cover and title page)",
-            "Dimensions": "composition: 21 7/8 x 17 1/4\" (55.5 x 43.8 cm); sheet: 21 7/8 x 17 1/2\" (55.5 x 44.4 cm)",
-            "Publisher": "Merzverlag (the artist), Hannover",
-            "Printer": "probably A. Molling & Comp., Hannover, Germany",
-            "Edition": "50 announced",
-            "Credit": "Gift of J. B. Neumann",
-            "Object number": "588.1939.6",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Portfolio": "Merz 3",
+            "Producer": "Walter Wanger",
+            "Credit": "Preserved from original materials on loan from Walter Wanger",
+            "Object number": "W2076",
+            "Department": "Film"
+        },
+        "Profile": "https://www.moma.org/artists/32299"
+    },
+    {
+        "Artist": "Ibram Lassaw",
+        "Title": "Untitled from American Abstract Artists",
+        "Year": "1937",
+        "ObjectID": "69814",
+        "Work": "https://www.moma.org/collection/works/69814",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNjQxOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3647da351495d51a",
+        "Details": {
+            "Medium": "One from a portfolio of thirty-one lithographs",
+            "Dimensions": "composition (irreg.): 5 7/8 \u00d7 8 1/4\" (15 \u00d7 21 cm); sheet: 9 1/8 \u00d7 11 15/16\" (23.1 \u00d7 30.4 cm)",
+            "Publisher": "Squibb Galleries, New York",
+            "Printer": "Cane Press, New York",
+            "Edition": "500",
+            "Credit": "Gift of Stephen B. Browne in honor of Byron and Rosalind Browne",
+            "Object number": "480.1986.17",
+            "Portfolio": "American Abstract Artists",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/5293"
+        "Profile": "https://www.moma.org/artists/3400"
     },
     {
-        "Artist": "Kurt Schwitters",
-        "Title": "Cover from Merz 3",
-        "Year": "1923",
-        "ObjectID": "104338",
-        "Work": "https://www.moma.org/collection/works/104338",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExMTI2OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7f05c1162f1dc930",
+        "Artist": "Marie Laurencin",
+        "Title": "Camille: La Dame aux camelias",
+        "Year": "1937",
+        "ObjectID": "26944",
+        "Work": "https://www.moma.org/collection/works/26944",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQzNDU3MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=79c145ca12d32a6d",
         "Details": {
-            "Medium": "Letterpress with collage additions from a portfolio of six lithographs (three with collage additions) and two letterpress prints with collage additions (including cover and title page)",
-            "Dimensions": "sheet (closed): 22 3/8 x 17 11/16\" (56.8 x 45 cm); sheet (open): 22 3/8 x 35 9/16\" (56.8 x 90.4 cm)",
-            "Publisher": "Merzverlag (the artist), Hannover",
-            "Printer": "probably A. Molling & Comp., Hannover, Germany",
-            "Edition": "50 announced",
-            "Credit": "Gift of J. B. Neumann",
-            "Object number": "588.1939.7",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Portfolio": "Merz 3",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5293"
-    },
-    {
-        "Artist": "Kurt Schwitters",
-        "Title": "Title page from Merz 3",
-        "Year": "1923",
-        "ObjectID": "104339",
-        "Work": "https://www.moma.org/collection/works/104339",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExMDk1NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=02bacc03f7105852",
-        "Details": {
-            "Medium": "Letterpress with collage additions from a portfolio of six lithographs (three with collage additions) and two letterpress prints with collage additions (including cover and title page)",
-            "Dimensions": "sheet: 21 3/4 x 17 1/4\" (55.2 x 43.8 cm)",
-            "Publisher": "Merzverlag (the artist), Hannover",
-            "Printer": "probably A. Molling & Comp., Hannover, Germany",
-            "Edition": "50 announced",
-            "Credit": "Gift of J. B. Neumann",
-            "Object number": "588.1939.8",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Portfolio": "Merz 3",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5293"
-    },
-    {
-        "Artist": "Kurt Schwitters",
-        "Title": "Merz subscription card",
-        "Year": "1923",
-        "ObjectID": "198477",
-        "Work": "https://www.moma.org/collection/works/198477",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0ODM4MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ead9202b60aa94a4",
-        "Details": {
-            "Medium": "Letterpress",
-            "Dimensions": "7 1/4 \u00d7 5 5/8\" (18.4 \u00d7 14.3 cm)",
-            "Credit": "Elaine Lustig Cohen Collection, gift of Lawrence Benenson and the Committee on Architecture and Design Funds",
-            "Object number": "1337.2015",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/5293"
-    },
-    {
-        "Artist": "Kurt Schwitters",
-        "Title": "Advertising flyer for General Merz Program (Allgemeines Merz Programm)",
-        "Year": "1923",
-        "ObjectID": "217719",
-        "Work": "https://www.moma.org/collection/works/217719",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ1NTY0NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7864160b86dc3aed",
-        "Details": {
-            "Medium": "Letterpress",
-            "Dimensions": "12 \u00d7 8 3/8\" (30.5 \u00d7 21.3 cm)",
-            "Credit": "The Merrill C. Berman Collection. Gift of William A. Koshland (by exchange)",
-            "Object number": "641.2018",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Associated work": "The Merrill C. Berman Collection at MoMA",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/5293"
-    },
-    {
-        "Artist": "Kurt Schwitters",
-        "Title": "Poster for Schwitters\u2019s new journal Merz",
-        "Year": "c.1923",
-        "ObjectID": "217720",
-        "Work": "https://www.moma.org/collection/works/217720",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ2NzM0MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=49d6d22a6656a70a",
-        "Details": {
-            "Medium": "Letterpress",
-            "Dimensions": "18 1/8 \u00d7 23\" (46 \u00d7 58.4 cm)",
-            "Credit": "The Merrill C. Berman Collection. Gift of William A. Koshland (by exchange)",
-            "Object number": "634.2018",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Associated work": "The Merrill C. Berman Collection at MoMA",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/5293"
-    },
-    {
-        "Artist": "Kurt Schwitters",
-        "Title": "Merz no. 2: Number i (Nummer i)",
-        "Year": "1923",
-        "ObjectID": "280254",
-        "Work": "https://www.moma.org/collection/works/280254",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ1NTY0MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f1ba008368bf2e6c",
-        "Details": {
-            "Medium": "Letterpress",
-            "Dimensions": "8 3/4 \u00d7 5 9/16\" (22.2 \u00d7 14.1 cm)",
-            "Printer": "Dietsch & Br\u00fcckner, Weimar",
-            "Credit": "The Merrill C. Berman Collection. Gift of William A. Koshland (by exchange)",
-            "Object number": "637.2018",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Associated work": "The Merrill C. Berman Collection at MoMA",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/5293"
-    },
-    {
-        "Artist": "Kurt Schwitters",
-        "Title": "Merz no. 1: Holland Dada",
-        "Year": "1923",
-        "ObjectID": "280255",
-        "Work": "https://www.moma.org/collection/works/280255",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ1NTY0MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3ac8aec3276acce0",
-        "Details": {
-            "Medium": "Letterpress",
-            "Dimensions": "8 11/16 \u00d7 5 9/16\" (22.1 \u00d7 14.1 cm)",
-            "Credit": "The Merrill C. Berman Collection. Gift of William A. Koshland (by exchange)",
-            "Object number": "636.2018",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Associated work": "The Merrill C. Berman Collection at MoMA",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/5293"
-    },
-    {
-        "Artist": "Kurt Schwitters",
-        "Title": "Merz no. 4: Banalities (Banalitaten)",
-        "Year": "1923",
-        "ObjectID": "280256",
-        "Work": "https://www.moma.org/collection/works/280256",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ1NTY0NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9f7433085df57857",
-        "Details": {
-            "Medium": "Letterpress",
-            "Dimensions": "9 1/8 \u00d7 5 3/4\" (23.2 \u00d7 14.6 cm)",
-            "Credit": "The Merrill C. Berman Collection. Gift of William A. Koshland (by exchange)",
-            "Object number": "638.2018",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Associated work": "The Merrill C. Berman Collection at MoMA",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/5293"
-    },
-    {
-        "Artist": "Kurt Schwitters",
-        "Title": "Merz no. 6:  Imitators, watch step! (Imitatoren watch step!) (Alternate issue title on back cover, Arp no.1: Propaganda and Arp)",
-        "Year": "1923",
-        "ObjectID": "280257",
-        "Work": "https://www.moma.org/collection/works/280257",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ0Njg3NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9314a34cb7e6738a",
-        "Details": {
-            "Medium": "Letterpress",
-            "Dimensions": "8 3/4 \u00d7 5 11/16\" (22.2 \u00d7 14.4 cm)",
-            "Credit": "The Merrill C. Berman Collection. Gift of William A. Koshland (by exchange)",
-            "Object number": "639.2018",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Associated work": "The Merrill C. Berman Collection at MoMA",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/5293"
-    },
-    {
-        "Artist": "Andre Dunoyer de Segonzac",
-        "Title": "Little Landscape",
-        "Year": "(1923)",
-        "ObjectID": "71335",
-        "Work": "https://www.moma.org/collection/works/71335",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MTg5NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6bf400d83d0fee2b",
-        "Details": {
-            "Medium": "Drypoint",
-            "Dimensions": "plate: 4 7/16 x 6\" (11.2 x 15.2 cm); sheet (irreg.): 10 1/16 x 13\" (25.5 x 33 cm)",
-            "Credit": "Gift of Abby Aldrich Rockefeller",
-            "Object number": "573.1940",
+            "Author": "Alexandre Dumas, Fils",
+            "Medium": "Illustrated book with twelve collotypes after watercolors",
+            "Dimensions": "page (each approx.): 10 5/8 \u00d7 8 1/4\" (27 \u00d7 21 cm)",
+            "Publisher": "The Limited Editions Club, New York",
+            "Printer": "Chiswick Press, London",
+            "Edition": "1500",
+            "Credit": "The Louis E. Stern Collection",
+            "Object number": "877.1964",
             "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/5318"
+        "Profile": "https://www.moma.org/artists/3408"
     },
     {
-        "Artist": "Elena Semenova",
-        "Title": "Composition of the Fourth Congress of the Central Executive Committee (Sostav TsIK IV sozyva)",
-        "Year": "c. 1918",
-        "ObjectID": "220987",
-        "Work": "https://www.moma.org/collection/works/220987",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQzNjI4OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=040b830068cc1330",
-        "Details": {
-            "Medium": "Gouache, ink, and pencil on board",
-            "Dimensions": "3 13/16 \u00d7 3 13/16\" (9.7 \u00d7 9.7 cm)",
-            "Credit": "The Merrill C. Berman Collection. Acquired through the generosity of Alice and Tom Tisch, Jo Carole and Ronald S. Lauder, Sue and Edgar Wachenheim III, David Booth, Marlene Hess and James D. Zirin, Marie-Jos\u00e9e and Henry R. Kravis, Jack Shear, the Patricia Bonfield Endowed Acquisition Fund for the Design Collection, Daniel and Jane Och, The Orentreich Family Foundation, Emily Rauh Pulitzer, The Modern Women's Fund; and by exchange: Gift of Jean Dubuffet in honor of Mr. and Mrs. Ralph Colin, The Judith Rothschild Foundation Contemporary Drawings Collection, and the Richard S. Zeisler Bequest",
-            "Object number": "497.2018",
-            "Associated work": "The Merrill C. Berman Collection at MoMA",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/67661"
-    },
-    {
-        "Artist": "Charles Sheeler",
-        "Title": "Self-Portrait",
-        "Year": "1923",
-        "ObjectID": "34738",
-        "Work": "https://www.moma.org/collection/works/34738",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0NDk2MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c589740c11f99b2f",
-        "Details": {
-            "Medium": "Cont\u00e9 crayon, gouache, and pencil on paper",
-            "Dimensions": "19 3/4 x 25 5/8\" (50.1 X 65.2 cm)",
-            "Credit": "Gift of Abby Aldrich Rockefeller",
-            "Object number": "146.1935",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5383"
-    },
-    {
-        "Artist": "Charles Sheeler",
-        "Title": "Face Mask (Gunye Ge), Dan style, Cote d\u2019Ivoire",
-        "Year": "1923",
-        "ObjectID": "58385",
-        "Work": "https://www.moma.org/collection/works/58385",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5MTY4MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=34e180cf96efa05e",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "9 5/8 \u00d7 7 1/2\" (24.5 \u00d7 19.1 cm)",
-            "Credit": "Gift of David H. McAlpin",
-            "Object number": "1802.1968",
-            "Copyright": "\u00a9 2023 The Lane Collection",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/5383"
-    },
-    {
-        "Artist": "Paul Signac",
-        "Title": "The Seine Flooding in 1910",
-        "Year": "1923",
-        "ObjectID": "72184",
-        "Work": "https://www.moma.org/collection/works/72184",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5Mjc3NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f58df868ed2ba16b",
+        "Artist": "Le Corbusier (Charles-Edouard Jeanneret)",
+        "Title": "Le Corbusier, Oeuvre Plastique 1919-1937",
+        "Year": "1937",
+        "ObjectID": "5382",
+        "Work": "https://www.moma.org/collection/works/5382",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNzcwMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ab08daf3021b3f91",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "composition: 6 x 8 13/16\" (15.2 x 22.4 cm); sheet: 8 3/4 x 11 7/8\" (22.3 x 30.1 cm)",
-            "Credit": "Larry Aldrich Fund",
-            "Object number": "632.1954",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Department": "Drawings and Prints"
+            "Dimensions": "39 3/8 x 27 3/4\" (100 x 70.3 cm)",
+            "Printer": "J. C. M\u00fcller A.G., Z\u00fcrich",
+            "Credit": "Gift of the artist",
+            "Object number": "159.1952",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris / FLC",
+            "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/5421"
+        "Profile": "https://www.moma.org/artists/3426"
     },
     {
-        "Artist": "Renee Sintenis",
-        "Title": "Kicking Colt (Springendes Fohlen)",
-        "Year": "(c. 1923)",
-        "ObjectID": "71466",
-        "Work": "https://www.moma.org/collection/works/71466",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyMzAxMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1bc191da29dd40fe",
+        "Artist": "Russell Lee",
+        "Title": "Two of the Bodray Children in their Home near Tipler, Wisconsin, Farm Children, Cut-Over Regions, Wisconsin",
+        "Year": "May 1937",
+        "ObjectID": "44718",
+        "Work": "https://www.moma.org/collection/works/44718",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNzMwNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b569416e00cbe340",
         "Details": {
-            "Medium": "Drypoint",
-            "Dimensions": "plate: 7 13/16 x 6 7/16\" (19.8 x 16.4 cm); sheet: 15 1/2 x 11 13/16\" (39.4 x 30 cm)",
-            "Publisher": "probably Verlag Alfred Flechtheim, Berlin",
-            "Printer": "Unidentified",
-            "Edition": "unknown",
-            "Credit": "Gift of Abby Aldrich Rockefeller",
-            "Object number": "582.1940",
-            "Copyright": "\u00a9 2023 Ren\u00e9e Sintenis / Artists Rights Society (ARS), New York / VG Bild-Kunst, Germany",
-            "Department": "Drawings and Prints"
+            "Medium": "Gelatin silver print",
+            "Dimensions": "7 3/8 \u00d7 9 5/8\" (18.7 \u00d7 24.4 cm)",
+            "Credit": "Gift of the Farm Security Administration",
+            "Object number": "47.1941",
+            "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/5451"
+        "Profile": "https://www.moma.org/artists/3455"
     },
     {
-        "Artist": "John Sloan",
-        "Title": "Sixth Avenue Greenwich Village",
-        "Year": "1923",
-        "ObjectID": "76508",
-        "Work": "https://www.moma.org/collection/works/76508",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MjEzMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=99d2acae035b6e79",
+        "Artist": "Russell Lee",
+        "Title": "William Horavitch Family Eating Dinner, Williams County, North Dakota, Farm Family at Dinner, North Dakota",
+        "Year": "September 1937",
+        "ObjectID": "44748",
+        "Work": "https://www.moma.org/collection/works/44748",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MDM1NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=48a39c9a6cdda536",
         "Details": {
-            "Medium": "Etching",
-            "Dimensions": "plate: 4 15/16 x 6 7/8\" (12.5 x 17.5 cm); sheet: 9 7/16 x 12 13/16\" (23.9 x 32.5 cm)",
-            "Edition": "100",
-            "Credit": "Gift of Abby Aldrich Rockefeller",
-            "Object number": "1359.1940",
-            "Department": "Drawings and Prints"
+            "Medium": "Gelatin silver print",
+            "Dimensions": "7 3/8 \u00d7 9 5/8\" (18.7 \u00d7 24.4 cm)",
+            "Credit": "Gift of the Farm Security Administration",
+            "Object number": "48.1941",
+            "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/5471"
+        "Profile": "https://www.moma.org/artists/3455"
     },
     {
-        "Artist": "John Sloan",
-        "Title": "Washington Arch",
-        "Year": "1923",
-        "ObjectID": "76528",
-        "Work": "https://www.moma.org/collection/works/76528",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NDcyOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0aebe987e5c9b8b0",
+        "Artist": "Russell Lee",
+        "Title": "John Mathews, Wife, and Two Children in their Home near Black River Falls, Wisconsin, Farm Family, Cutover Area, Wisconsin",
+        "Year": "June 1937",
+        "ObjectID": "44803",
+        "Work": "https://www.moma.org/collection/works/44803",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MDM2MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ce73414ee0207c54",
         "Details": {
-            "Medium": "Etching",
-            "Dimensions": "plate: 7 7/8 x 4 3/4\" (20 x 12.1 cm); sheet: 12 5/8 x 9 1/2\" (32.1 x 24.2 cm)",
-            "Publisher": "John Sloan, New York",
-            "Printer": "possibly Ernest David Roth, New York",
-            "Edition": "100 projected, 60 printed",
-            "Credit": "Gift of Abby Aldrich Rockefeller",
-            "Object number": "1361.1940",
-            "Department": "Drawings and Prints"
+            "Medium": "Gelatin silver print",
+            "Dimensions": "7 1/4 \u00d7 9 5/8\" (18.4 \u00d7 24.4 cm)",
+            "Credit": "Gift of the Farm Security Administration",
+            "Object number": "49.1941",
+            "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/5471"
+        "Profile": "https://www.moma.org/artists/3455"
     },
     {
-        "Artist": "Antonina Sofronova",
-        "Title": "Ot mol'berta k mashine (From Easel to Machine)",
-        "Year": "1923",
-        "ObjectID": "13026",
-        "Work": "https://www.moma.org/collection/works/13026",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwODQxNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3e935ea87e946c37",
+        "Artist": "Russell Lee",
+        "Title": "Farmer, North Dakota",
+        "Year": "1937",
+        "ObjectID": "44842",
+        "Work": "https://www.moma.org/collection/works/44842",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4ODM3NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c57492e6a7a9fcae",
         "Details": {
-            "Author": "Nikolai Tarabukin",
-            "Medium": "Book with letterpress cover",
-            "Dimensions": "page: 9 1/16 x 6 1/8\" (23 x 15.6 cm)",
-            "Publisher": "Rabotnik prosveshcheniia, Moscow",
-            "Edition": "2,000",
-            "Credit": "Gift of The Judith Rothschild Foundation (Donation of Tamar Cohen and David Slatoff)",
-            "Object number": "182.2001",
-            "Department": "Drawings and Prints"
+            "Medium": "Gelatin silver print",
+            "Dimensions": "6 1/2 \u00d7 9 5/8\" (16.5 \u00d7 24.4 cm)",
+            "Credit": "Gift of the Farm Security Administration",
+            "Object number": "50.1941",
+            "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/13056"
+        "Profile": "https://www.moma.org/artists/3455"
     },
     {
-        "Artist": "Chaim Soutine",
-        "Title": "The Old Mill",
-        "Year": "c. 1922-23",
-        "ObjectID": "79960",
-        "Work": "https://www.moma.org/collection/works/79960",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1MTM3NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f2759c8182178d62",
+        "Artist": "Russell Lee",
+        "Title": "Daughter of William Huravitch, Williams County, North Dakota, Farmer's Daughter - Drought Stricken North Dakota",
+        "Year": "September 1937",
+        "ObjectID": "44904",
+        "Work": "https://www.moma.org/collection/works/44904",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNzMwOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3f0cd90437f24d14",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "7 3/8 \u00d7 9 1/2\" (18.7 \u00d7 24.1 cm)",
+            "Credit": "Gift of the Farm Security Administration",
+            "Object number": "51.1941",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/3455"
+    },
+    {
+        "Artist": "Russell Lee",
+        "Title": "Farmer's Wife, Cutover Regions, Wisconsin",
+        "Year": "1937",
+        "ObjectID": "44993",
+        "Work": "https://www.moma.org/collection/works/44993",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4ODM4NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4f013f4c73f8caca",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "9 5/8 \u00d7 6 1/2\" (24.4 \u00d7 16.5 cm)",
+            "Credit": "Gift of the Farm Security Administration",
+            "Object number": "52.1941",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/3455"
+    },
+    {
+        "Artist": "Russell Lee",
+        "Title": "Mrs. Herman Perry in her Home at Mansfield, Michigan. She is the wife of an Oldtime Iron Miner who Worked in the Mines before they were Abandoned, Home in Mansfield, Michigan",
+        "Year": "May 1937",
+        "ObjectID": "45054",
+        "Work": "https://www.moma.org/collection/works/45054",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MDQ0OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0e93e54a5c5324a6",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "7 1/4 \u00d7 9 1/2\" (18.4 \u00d7 24.1 cm)",
+            "Credit": "Gift of the Farm Security Administration",
+            "Object number": "54.1941",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/3455"
+    },
+    {
+        "Artist": "Russell Lee",
+        "Title": "Lumberjacks - Saturday Night, Minnesota",
+        "Year": "1937",
+        "ObjectID": "45083",
+        "Work": "https://www.moma.org/collection/works/45083",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4ODM5MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=80beaa45b1e0731d",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "7 3/8 \u00d7 9 1/2\" (18.7 \u00d7 24.1 cm)",
+            "Credit": "Gift of the Farm Security Administration",
+            "Object number": "55.1941",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/3455"
+    },
+    {
+        "Artist": "Russell Lee",
+        "Title": "Old Settler, Montana",
+        "Year": "November 1937",
+        "ObjectID": "45110",
+        "Work": "https://www.moma.org/collection/works/45110",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4ODM5NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=aef235a4cffd6ec5",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "9 1/2 \u00d7 7 3/8\" (24.1 \u00d7 18.7 cm)",
+            "Credit": "Gift of the Farm Security Administration",
+            "Object number": "56.1941",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/3455"
+    },
+    {
+        "Artist": "Russell Lee",
+        "Title": "Interior of Shack Occupied by Mexican Beet Workers, near East Grand Forks, Minnesota, Shack of Sugar Beet Workers",
+        "Year": "September 1937",
+        "ObjectID": "45140",
+        "Work": "https://www.moma.org/collection/works/45140",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MDQ3NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2238b73f3473b9b6",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "7 3/8 \u00d7 9 5/8\" (18.7 \u00d7 24.4 cm)",
+            "Credit": "Gift of the Farm Security Administration",
+            "Object number": "57.1941",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/3455"
+    },
+    {
+        "Artist": "Russell Lee",
+        "Title": "Mrs. Gallagher Patching Clothes for her Children, Wife of Former Farmer, Now Living in Crosby, North Dakota, Woman Patching Clothes, North Dakota",
+        "Year": "November 1937",
+        "ObjectID": "45169",
+        "Work": "https://www.moma.org/collection/works/45169",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MDQ4MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=caff0d38a32da73f",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "7 1/4 \u00d7 9 1/2\" (18.4 \u00d7 24.1 cm)",
+            "Credit": "Gift of the Farm Security Administration",
+            "Object number": "58.1941",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/3455"
+    },
+    {
+        "Artist": "Russell Lee",
+        "Title": "After Dinner the Family Sits Around the Living Room.  This is one of the Daughters Sitting on the Stool for the Organ",
+        "Year": "March 1937",
+        "ObjectID": "50633",
+        "Work": "https://www.moma.org/collection/works/50633",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MDA4OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1d5f3b0f3d5df7f6",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "8 \u00d7 10\" (20.3 \u00d7 25.4 cm)",
+            "Credit": "Gift of the Farm Security Administration",
+            "Object number": "318.1938",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/3455"
+    },
+    {
+        "Artist": "Russell Lee",
+        "Title": "Old Sheep Herder, Sheridan County, Montana",
+        "Year": "November 1937",
+        "ObjectID": "50656",
+        "Work": "https://www.moma.org/collection/works/50656",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MDA4OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e2fd539868cd25d8",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "8 \u00d7 10\" (20.3 \u00d7 25.4 cm)",
+            "Credit": "Gift of the Farm Security Administration",
+            "Object number": "319.1938",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/3455"
+    },
+    {
+        "Artist": "Russell Lee",
+        "Title": "Widow Woman on Farm",
+        "Year": "June 1937",
+        "ObjectID": "52316",
+        "Work": "https://www.moma.org/collection/works/52316",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4ODMxNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=89bf6aa12bca3301",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "9 1/2 \u00d7 7\" (24.1 \u00d7 17.8 cm)",
+            "Credit": "Gift of the Farm Security Administration",
+            "Object number": "387.1941",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/3455"
+    },
+    {
+        "Artist": "Russell Lee",
+        "Title": "Old Lamps on House of Jim Hardin, Two Bit near Deadwood, South Dakota",
+        "Year": "1937",
+        "ObjectID": "86036",
+        "Work": "https://www.moma.org/collection/works/86036",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzNTc2MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f6722ce1d19a6cdd",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "7 5/16 \u00d7 9 5/8\" (18.6 \u00d7 24.5 cm)",
+            "Credit": "Purchase",
+            "Object number": "185.2002",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/3455"
+    },
+    {
+        "Artist": "Russell Lee",
+        "Title": "Two Children of John Scott, a Hired Hand Living near Ringgold, Iowa",
+        "Year": "January 1937",
+        "ObjectID": "86042",
+        "Work": "https://www.moma.org/collection/works/86042",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4NzMzMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=40ac381bc5efa2c1",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "6 1/2 \u00d7 9 5/8\" (16.5 \u00d7 24.4 cm)",
+            "Credit": "Purchase",
+            "Object number": "191.2002",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/3455"
+    },
+    {
+        "Artist": "Leonid (Leonid Berman)",
+        "Title": "Shrimp Fishermen",
+        "Year": "1937",
+        "ObjectID": "80002",
+        "Work": "https://www.moma.org/collection/works/80002",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNzU1NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=db4f7c1c7e4091f8",
         "Details": {
             "Medium": "Oil on canvas",
-            "Dimensions": "26 1/8 x 32 3/8\" (66.4 x 82.2 cm)",
-            "Credit": "Vladimir Horowitz and Bernard Davis Funds",
-            "Object number": "557.1954",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Dimensions": "21 1/4 x 31 3/4\" (54 x 80.6 cm)",
+            "Credit": "Gift of James Thrall Soby",
+            "Object number": "578.1943",
             "Department": "Painting and Sculpture"
         },
-        "Profile": "https://www.moma.org/artists/5543"
+        "Profile": "https://www.moma.org/artists/3487"
     },
     {
-        "Artist": "Edward Steichen",
-        "Title": "The Blue Sky, Dana Steichen",
-        "Year": "1923",
-        "ObjectID": "49020",
-        "Work": "https://www.moma.org/collection/works/49020",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMTAyNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5b3fd3f077452a28",
+        "Artist": "Leonid (Leonid Berman)",
+        "Title": "Mussel Gatherers at High Tide",
+        "Year": "1937",
+        "ObjectID": "80596",
+        "Work": "https://www.moma.org/collection/works/80596",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2ODYwNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=82d1f7f61dd09114",
         "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "10 11/16 \u00d7 13 3/4\" (27.1 \u00d7 35 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "224.1961",
-            "Copyright": "\u00a9 2023 The Estate of Edward Steichen / Artists Rights Society (ARS), New York",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/5623"
-    },
-    {
-        "Artist": "Edward Steichen",
-        "Title": "Hands Toward the Sun",
-        "Year": "1923",
-        "ObjectID": "49703",
-        "Work": "https://www.moma.org/collection/works/49703",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMTA3OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=008b21d8846f6fcb",
-        "Details": {
-            "Medium": "Palladium and ferro-prussiate print (two-color process)",
-            "Dimensions": "7 5/8 \u00d7 9 5/8\" (19.3 \u00d7 24.4 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "262.1961",
-            "Copyright": "\u00a9 2023 The Estate of Edward Steichen / Artists Rights Society (ARS), New York",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/5623"
-    },
-    {
-        "Artist": "Edward Steichen",
-        "Title": "Three Pears and an Apple",
-        "Year": "c. 1921",
-        "ObjectID": "51903",
-        "Work": "https://www.moma.org/collection/works/51903",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxODUwNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c24d7ef9451af3cb",
-        "Details": {
-            "Medium": "Gelatin silver print, printed c. 1960",
-            "Dimensions": "16 3/4 \u00d7 13 1/2\" (42.5 \u00d7 34.3 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "368.1964",
-            "Copyright": "\u00a9 2023 The Estate of Edward Steichen / Artists Rights Society (ARS), New York",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/5623"
-    },
-    {
-        "Artist": "Alfred Stieglitz",
-        "Title": "Equivalent",
-        "Year": "1923",
-        "ObjectID": "44200",
-        "Work": "https://www.moma.org/collection/works/44200",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNzYyNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2060982699b1eeeb",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "3 5/8 \u00d7 4 5/8\" (9.2 \u00d7 11.8 cm)",
-            "Credit": "Alfred Stieglitz Collection. Gift of Georgia O'Keeffe",
-            "Object number": "28.1950",
-            "Copyright": "\u00a9 2023 The Museum of Modern Art / Artists Rights Society (ARS), New York",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/5664"
-    },
-    {
-        "Artist": "Alfred Stieglitz",
-        "Title": "Equivalent",
-        "Year": "1923",
-        "ObjectID": "44268",
-        "Work": "https://www.moma.org/collection/works/44268",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNzY0MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f6aa8606c8d22fa7",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "3 11/16 \u00d7 4 11/16\" (9.3 \u00d7 11.9 cm)",
-            "Credit": "Alfred Stieglitz Collection. Gift of Georgia O'Keeffe",
-            "Object number": "31.1950",
-            "Copyright": "\u00a9 2023 The Museum of Modern Art / Artists Rights Society (ARS), New York",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/5664"
-    },
-    {
-        "Artist": "Alfred Stieglitz",
-        "Title": "Equivalent",
-        "Year": "1923",
-        "ObjectID": "44722",
-        "Work": "https://www.moma.org/collection/works/44722",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM4Mjc4NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3fd9ead12119b618",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "4 5/8 \u00d7 3 5/8\" (11.8 \u00d7 9.2 cm)",
-            "Credit": "Alfred Stieglitz Collection. Gift of Georgia O'Keeffe",
-            "Object number": "47.1950",
-            "Copyright": "\u00a9 2023 The Museum of Modern Art / Artists Rights Society (ARS), New York",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/5664"
-    },
-    {
-        "Artist": "Alfred Stieglitz",
-        "Title": "Charles Demuth",
-        "Year": "1923",
-        "ObjectID": "45353",
-        "Work": "https://www.moma.org/collection/works/45353",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNzg2MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=91befbe0dd5a09d9",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "9 5/8 \u00d7 7 5/8\" (24.4 \u00d7 19.3 cm)",
-            "Credit": "Alfred Stieglitz Collection. Gift of Georgia O'Keeffe",
-            "Object number": "64.1950",
-            "Copyright": "\u00a9 2023 The Museum of Modern Art / Artists Rights Society (ARS), New York",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/5664"
-    },
-    {
-        "Artist": "Alfred Stieglitz",
-        "Title": "Georgia O'Keeffe",
-        "Year": "1923",
-        "ObjectID": "46428",
-        "Work": "https://www.moma.org/collection/works/46428",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNzk3NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3881baddf1f42348",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "4 1/4 \u00d7 3 1/4\" (10.8 \u00d7 8.3 cm)",
-            "Credit": "Alfred Stieglitz Collection. Gift of Georgia O'Keeffe",
-            "Object number": "111.1984",
-            "Copyright": "\u00a9 2023 Estate of Alfred Stieglitz / Artists Rights Society (ARS), New York",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/5664"
-    },
-    {
-        "Artist": "Alfred Stieglitz",
-        "Title": "Charles Demuth",
-        "Year": "1923",
-        "ObjectID": "53163",
-        "Work": "https://www.moma.org/collection/works/53163",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNzUyOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2f6b42650c6ed4ec",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "9 7/16 \u00d7 7 5/16\" (23.9 \u00d7 18.6 cm)",
-            "Credit": "Gift of Samuel M. Kootz",
-            "Object number": "422.1942",
-            "Copyright": "\u00a9 2023 Estate of Alfred Stieglitz / Artists Rights Society (ARS), New York",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/5664"
-    },
-    {
-        "Artist": "Alfred Stieglitz",
-        "Title": "Lake George",
-        "Year": "1922-23",
-        "ObjectID": "58388",
-        "Work": "https://www.moma.org/collection/works/58388",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxOTYxNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e81dd42e26ded1c3",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "9 7/16 \u00d7 7 7/16\" (23.9 \u00d7 18.9 cm)",
-            "Credit": "Gift of David H. McAlpin",
-            "Object number": "1805.1968",
-            "Copyright": "\u00a9 2023 Estate of Alfred Stieglitz / Artists Rights Society (ARS), New York",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/5664"
-    },
-    {
-        "Artist": "John Storrs",
-        "Title": "Study for a Sculpture (Forms in Space)",
-        "Year": "1923",
-        "ObjectID": "38353",
-        "Work": "https://www.moma.org/collection/works/38353",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MDQ0NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5a10ea7fb03a951d",
-        "Details": {
-            "Medium": "Ink on paper",
-            "Dimensions": "10 1/2 x 8 1/4\" (26.6 x 21 cm)",
-            "Credit": "The Riklis Collection of McCrory Corporation",
-            "Object number": "961.1983",
-            "Copyright": "\u00a9 Estate of John Storrs",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5681"
-    },
-    {
-        "Artist": "Paul Strand",
-        "Title": "Akeley Motion Picture Camera, New York City",
-        "Year": "1923",
-        "ObjectID": "44639",
-        "Work": "https://www.moma.org/collection/works/44639",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwODA3MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=17f398de2546dff3",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "9 1/2 \u00d7 7 9/16\" (24.1 \u00d7 19.2 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "44.1943",
-            "Copyright": "\u00a9 Aperture Foundation Inc., Paul Strand Archive",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/5685"
-    },
-    {
-        "Artist": "Paul Strand",
-        "Title": "Press separation proof sheets",
-        "Year": "1923",
-        "ObjectID": "125035",
-        "Work": "https://www.moma.org/collection/works/125035",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUwMTgzMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c4186b0d574eae95",
-        "Details": {
-            "Medium": "Nine photo offset lithographs, printed 1989",
-            "Dimensions": "Each 7 5/8 \u00d7 9 9/16\" (19.4 \u00d7 24.3 cm)",
-            "Credit": "Gift of Richard Benson",
-            "Object number": "SC2008.1.318.a-i",
-            "Copyright": "\u00a9 Aperture Foundation Inc., Paul Strand Archive",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/5685"
-    },
-    {
-        "Artist": "Jindrich Styrsky",
-        "Title": "White Star Line",
-        "Year": "1923",
-        "ObjectID": "280309",
-        "Work": "https://www.moma.org/collection/works/280309",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQzNjgwNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8e2bad972550a124",
-        "Details": {
-            "Medium": "Cut-and-pasted printed paper on board",
-            "Dimensions": "9 7/16 \u00d7 11 7/8\" (23.9 \u00d7 30.1 cm)",
-            "Credit": "The Merrill C. Berman Collection. Acquired through the generosity of Alice and Tom Tisch, Jo Carole and Ronald S. Lauder, Sue and Edgar Wachenheim III, David Booth, Marlene Hess and James D. Zirin, Marie-Jos\u00e9e and Henry R. Kravis, Jack Shear, the Patricia Bonfield Endowed Acquisition Fund for the Design Collection, Daniel and Jane Och, The Orentreich Family Foundation, Emily Rauh Pulitzer, The Modern Women's Fund; and by exchange: Gift of Jean Dubuffet in honor of Mr. and Mrs. Ralph Colin, The Judith Rothschild Foundation Contemporary Drawings Collection, and the Richard S. Zeisler Bequest",
-            "Object number": "504.2018",
-            "Associated work": "The Merrill C. Berman Collection at MoMA",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5713"
-    },
-    {
-        "Artist": "Nikolai Suetin",
-        "Title": "Demitasse Cup and Saucer",
-        "Year": "1923",
-        "ObjectID": "3476",
-        "Work": "https://www.moma.org/collection/works/3476",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyOTQ2NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7ff7fd1258bb2b2e",
-        "Details": {
-            "Manufacturer": "Lomonosov Porcelain Factory, Leningrad (now St. Petersburg)",
-            "Medium": "Porcelain with overglaze painted decoration",
-            "Dimensions": ".1 (demitasse): 2 5/16 x 2 5/16\" (5.9 x 5.9 cm)\r\n.2 (saucer): 1 x 5 9/16\" (2.5 x 14.2 cm)",
-            "Credit": "Gift of Mottahedah & Co., Inc.",
-            "Object number": "373.1985.1-2",
-            "Copyright": "\u00a9 2023 Nikolai Suetin / Artists Rights Society (ARS), New York / VG Bild-Kunst, Germany",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/5718"
-    },
-    {
-        "Artist": "Nikolai Suetin",
-        "Title": "Teacup",
-        "Year": "1923",
-        "ObjectID": "3536",
-        "Work": "https://www.moma.org/collection/works/3536",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyOTU4NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9d4ca2f526658c01",
-        "Details": {
-            "Manufacturer": "Lomonosov Porcelain Factory, Leningrad (now St. Petersburg)",
-            "Medium": "Porcelain with overglaze painted decoration",
-            "Dimensions": "2 3/4 x 2 3/4\" (7 x 7 cm)",
-            "Credit": "Est\u00e9e and Joseph Lauder Design Fund",
-            "Object number": "421.1976",
-            "Copyright": "\u00a9 2023 Nikolai Suetin / Artists Rights Society (ARS), New York / VG Bild-Kunst, Germany",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/5718"
-    },
-    {
-        "Artist": "Nikolai Suetin",
-        "Title": "Saucer",
-        "Year": "1923",
-        "ObjectID": "4230",
-        "Work": "https://www.moma.org/collection/works/4230",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMDQ5MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ac150a86651e38e7",
-        "Details": {
-            "Manufacturer": "Lomonosov Porcelain Factory, Leningrad (now St. Petersburg)",
-            "Medium": "Porcelain with overglaze painted decoration",
-            "Dimensions": "1 1/8 x 5 5/8\" (2.8 x 14.3 cm)",
-            "Credit": "Given anonymously",
-            "Object number": "698.1959",
-            "Copyright": "\u00a9 2023 Nikolai Suetin / Artists Rights Society (ARS), New York / VG Bild-Kunst, Germany",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/5718"
-    },
-    {
-        "Artist": "Nikolai Suetin",
-        "Title": "Teacup and Saucer",
-        "Year": "1923",
-        "ObjectID": "4439",
-        "Work": "https://www.moma.org/collection/works/4439",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMDUzNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fdba78a0a8a77a8f",
-        "Details": {
-            "Manufacturer": "Lomonosov Porcelain Factory, Leningrad (now St. Petersburg)",
-            "Medium": "Porcelain with overglaze painted decoration",
-            "Dimensions": ".1 (teacup): 2 1/8 x 3 5/8\" (5.4 x 9.2 cm)\r\n.2 (saucer): 1 x 5 3/8\" (2.5 x 13.6 cm)",
-            "Credit": "Gift of Andrew Raeburn",
-            "Object number": "744.1983.1-2",
-            "Copyright": "\u00a9 2023 Nikolai Suetin / Artists Rights Society (ARS), New York / VG Bild-Kunst, Germany",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/5718"
-    },
-    {
-        "Artist": "Sophie Taeuber-Arp",
-        "Title": "Untitled",
-        "Year": "c. 1918",
-        "ObjectID": "220733",
-        "Work": "https://www.moma.org/collection/works/220733",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzNTkzNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5f064db4dc0da865",
-        "Details": {
-            "Medium": "Cotton on canvas in historical frame",
-            "Dimensions": "4 3/8 x 3 1/4\" (11.1 x 8.3 cm)",
-            "Credit": "Gift of Jo Carole and Ronald S. Lauder",
-            "Object number": "344.2022",
-            "Copyright": "ARS artist. Credit Line Reproduction: \u00a9 200_ Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Medium": "Oil on canvas",
+            "Dimensions": "21 1/4 x 31 7/8\" (54 x 81 cm)",
+            "Credit": "James Thrall Soby Bequest",
+            "Object number": "1228.1979",
             "Department": "Painting and Sculpture"
         },
-        "Profile": "https://www.moma.org/artists/5777"
+        "Profile": "https://www.moma.org/artists/3487"
     },
     {
-        "Artist": "Pavel Tchelitchew",
-        "Title": "Sketch for Decor: Spanish Scene",
-        "Year": "1923",
-        "ObjectID": "34003",
-        "Work": "https://www.moma.org/collection/works/34003",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMyNzk0NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=82bc120803567bb5",
+        "Artist": "Jacques Lipchitz",
+        "Title": "Figure",
+        "Year": "1926-30 (cast 1937)",
+        "ObjectID": "81158",
+        "Work": "https://www.moma.org/collection/works/81158",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMDcxNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=bf1ebb35a6301da9",
         "Details": {
-            "Medium": "Gouache on paper",
-            "Dimensions": "12 7/8 x 19 3/4\" (32.5 x 50.0 cm)",
-            "Credit": "Gift of Mme Alexandra Zaousaileff",
-            "Object number": "107.1971",
-            "Department": "Drawings and Prints"
+            "Medium": "Bronze",
+            "Dimensions": "7' 1 1/4\" x 38 5/8\" (216.6 x 98.1 cm)",
+            "Credit": "Van Gogh Purchase Fund",
+            "Object number": "214.1937",
+            "Department": "Painting and Sculpture"
         },
-        "Profile": "https://www.moma.org/artists/5821"
+        "Profile": "https://www.moma.org/artists/3563"
     },
     {
-        "Artist": "Pavel Tchelitchew",
-        "Title": ".a) Still Life .b) Untitled",
-        "Year": "c. 1923",
-        "ObjectID": "34016",
-        "Work": "https://www.moma.org/collection/works/34016",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMyNDU5MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e48bb1b654115230",
+        "Artist": "Edwin Locke",
+        "Title": "Flood Refugees Waiting for Food",
+        "Year": "February 1937",
+        "ObjectID": "45773",
+        "Work": "https://www.moma.org/collection/works/45773",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwNzY5NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=91261b1223e00693",
         "Details": {
-            "Medium": ".a) Gouache and pencil on paper .b) Pencil on paper",
-            "Dimensions": "8 1/2 x 10 7/8\" (21.6 X 27.9 cm)",
-            "Credit": "Gift of Mme Alexandra Zaousaileff",
-            "Object number": "108.1971.a-b",
-            "Department": "Drawings and Prints"
+            "Medium": "Gelatin silver print",
+            "Dimensions": "7 1/4 \u00d7 9 5/8\" (18.4 \u00d7 24.4 cm)",
+            "Credit": "Gift of the Farm Security Administration",
+            "Object number": "78.1941",
+            "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/5821"
+        "Profile": "https://www.moma.org/artists/42208"
     },
     {
-        "Artist": "Pavel Tchelitchew",
-        "Title": "Portrait of a Woman",
-        "Year": "Paris, 1923",
-        "ObjectID": "34031",
-        "Work": "https://www.moma.org/collection/works/34031",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMyMzcxNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4e1012967e32881e",
+        "Artist": "Marcel Lods, Eugene Beaudouin",
+        "Title": "Paris: 1937 Exposition Internationale",
+        "Year": "1937",
+        "ObjectID": "6256",
+        "Work": "https://www.moma.org/collection/works/6256",
+        "Thumbnail": null,
         "Details": {
-            "Medium": "Charcoal on paper",
-            "Dimensions": "8 5/8 x 7\" (22.1 x 17.8 cm)",
-            "Credit": "Gift of Mme Alexandra Zaousaileff",
-            "Object number": "109.1971",
-            "Department": "Drawings and Prints"
+            "Medium": "Lithograph",
+            "Dimensions": "39 3/8 x 24 7/8\" (100 x 63.2 cm)",
+            "Credit": "Gift of G. E. Kidder Smith",
+            "Object number": "324.1943",
+            "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/5821"
+        "Profile": "https://www.moma.org/artists/41330"
     },
     {
-        "Artist": "Pavel Tchelitchew",
-        "Title": "Set design for Der Blaue Vogel Cabaret Theater, Berlin",
-        "Year": "c. 1921-23",
-        "ObjectID": "34044",
-        "Work": "https://www.moma.org/collection/works/34044",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0MTEyMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d09c7406557426a8",
+        "Artist": "Pare Lorentz",
+        "Title": "The River",
+        "Year": "1937",
+        "ObjectID": "299849",
+        "Work": "https://www.moma.org/collection/works/299849",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExMzEzMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2aafa808e9c264d4",
         "Details": {
-            "Medium": "Cut-and-pasted paper, gouache, metallic paint, and pencil on cardboard",
-            "Dimensions": "18 1/2 x 23 3/8\" (46.8 x 59.2 cm)",
-            "Credit": "Gift of Mme Alexandra Zaousaileff",
-            "Object number": "110.1971",
-            "Department": "Drawings and Prints"
+            "Credit": "Restored with funding from The Celeste Bartos Film Preservation Fund",
+            "Object number": "W2484",
+            "Department": "Film"
         },
-        "Profile": "https://www.moma.org/artists/5821"
+        "Profile": "https://www.moma.org/artists/107867"
     },
     {
-        "Artist": "Pavel Tchelitchew",
-        "Title": "Green Man. Set design for Der Blaue Vogel Cabaret Theater, Berlin",
-        "Year": "c. 1921-23",
-        "ObjectID": "34241",
-        "Work": "https://www.moma.org/collection/works/34241",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMyMzcxMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7d2ed4886ac99541",
+        "Artist": "Jesus Lozano",
+        "Title": "\u00a1Campesino! Tus Enemigos Te Hicieron Trabajar de Sol a Sol para Alimentarlos. Ahora, que la Tierra es Tuya Trabajar de Sol a Sol para Aniquilarlos",
+        "Year": "1937",
+        "ObjectID": "5792",
+        "Work": "https://www.moma.org/collection/works/5792",
+        "Thumbnail": null,
         "Details": {
-            "Medium": "Gouache and ink on paper",
-            "Dimensions": "9 1/2 x 11 1/2\" (24.1 x 29.0 cm)",
-            "Credit": "Gift of Mme Alexandra Zaousaileff",
-            "Object number": "124.1971",
-            "Department": "Drawings and Prints"
+            "Medium": "Lithograph",
+            "Dimensions": "39 x 27 3/4\" (99.1 x 70.5 cm)",
+            "Credit": "Purchase",
+            "Object number": "238.1937",
+            "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/5821"
+        "Profile": "https://www.moma.org/artists/3614"
     },
     {
-        "Artist": "Pavel Tchelitchew",
-        "Title": "Set design for Der Blaue Vogel Cabaret Theater, Berlin",
-        "Year": "c. 1921-23",
-        "ObjectID": "34462",
-        "Work": "https://www.moma.org/collection/works/34462",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMyNDYxOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=545d307c40ed136d",
+        "Artist": "Agnes Lyall",
+        "Title": "Untitled from American Abstract Artists",
+        "Year": "1937",
+        "ObjectID": "69815",
+        "Work": "https://www.moma.org/collection/works/69815",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNjQyMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4b5821eb3d4f7f61",
         "Details": {
-            "Medium": "Gouache and watercolor on paperboard",
-            "Dimensions": "13 x 17\" (33 x 43 cm)",
-            "Credit": "Gift of Mme Alexandra Zaousaileff",
-            "Object number": "127.1971",
+            "Medium": "One from a portfolio of thirty-one lithographs",
+            "Dimensions": "composition (irreg.): 6 1/2 \u00d7 5 11/16\" (16.5 \u00d7 14.5 cm); sheet: 11 15/16 \u00d7 9 1/8\" (30.3 \u00d7 23.2 cm)",
+            "Publisher": "Squibb Galleries, New York",
+            "Printer": "Cane Press, New York",
+            "Edition": "500",
+            "Credit": "Gift of Stephen B. Browne in honor of Byron and Rosalind Browne",
+            "Object number": "480.1986.18",
+            "Portfolio": "American Abstract Artists",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/5821"
+        "Profile": "https://www.moma.org/artists/6735"
     },
     {
-        "Artist": "Pavel Tchelitchew",
-        "Title": "Set design for Der Blaue Vogel Cabaret Theater, Berlin",
-        "Year": "c. 1921-23",
-        "ObjectID": "34489",
-        "Work": "https://www.moma.org/collection/works/34489",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNTMxOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6f1566facdfbb375",
+        "Artist": "George Platt Lynes",
+        "Title": "Marc Blitzstein, Orson Welles and Lehman Engel",
+        "Year": "1937",
+        "ObjectID": "57955",
+        "Work": "https://www.moma.org/collection/works/57955",
+        "Thumbnail": null,
         "Details": {
-            "Medium": "Gouache and ink on paper",
-            "Dimensions": "19 5/8 x 14 1/4\" (26.9 x 36.1 cm)",
-            "Credit": "Gift of Mme Alexandra Zaousaileff",
-            "Object number": "128.1971",
-            "Department": "Drawings and Prints"
+            "Medium": "Gelatin silver print",
+            "Dimensions": "10 1/2 \u00d7 13\" (26.7 \u00d7 33.0 cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "1232.1969",
+            "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/5821"
+        "Profile": "https://www.moma.org/artists/3648"
     },
     {
-        "Artist": "Pavel Tchelitchew",
-        "Title": "Dancer",
-        "Year": "1921-23",
-        "ObjectID": "34551",
-        "Work": "https://www.moma.org/collection/works/34551",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMyMzY5NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=65ccb8029db2c0b5",
+        "Artist": "Gerhard Marcks",
+        "Title": "Seated Youth",
+        "Year": "1937",
+        "ObjectID": "81002",
+        "Work": "https://www.moma.org/collection/works/81002",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwODI4MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=bf3dadf34d315c82",
         "Details": {
-            "Medium": "Gouache on paper",
-            "Dimensions": "10 1/2 x 8 3/8\" (26.9 x 21.5 cm)",
-            "Credit": "Gift of Mme Alexandra Zaousaileff",
-            "Object number": "132.1971",
-            "Department": "Drawings and Prints"
+            "Medium": "Bronze",
+            "Dimensions": "17 5/8 x 12 1/4 x 7 3/4\" (44.7 x 31.1 x 19.7 cm)",
+            "Credit": "Purchase",
+            "Object number": "132.1945",
+            "Copyright": "\u00a9 2023 Gerhard-Marcks-Stiftung, Bremen, Germany",
+            "Department": "Painting and Sculpture"
         },
-        "Profile": "https://www.moma.org/artists/5821"
+        "Profile": "https://www.moma.org/artists/3756"
     },
     {
-        "Artist": "Pavel Tchelitchew",
-        "Title": "Set design for Der Blaue Cabaret Theatre, Berlin",
-        "Year": "c. 1920-23",
-        "ObjectID": "34566",
-        "Work": "https://www.moma.org/collection/works/34566",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQzMjQwNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=025a50c0265fe4d5",
+        "Artist": "Keith Morrow Martin",
+        "Title": "Costume design for the ballet Show Piece",
+        "Year": "1937",
+        "ObjectID": "120642",
+        "Work": "https://www.moma.org/collection/works/120642",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQzMzIyMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=24e4b6cd901accb3",
         "Details": {
-            "Medium": "Tempera with glue size",
-            "Dimensions": "8 1/2 x 11 7/8\" (21.5 x 30.0 cm)",
-            "Credit": "Gift of Mme Alexandra Zaousaileff",
-            "Object number": "133.1971",
+            "Medium": "Gouache and pencil on card",
+            "Dimensions": "14 3/4 \u00d7 7 5/8\" (37.5 \u00d7 19.4 cm)",
+            "Credit": "Gift of Lincoln Kirstein",
+            "Object number": "512.1941.1",
+            "Associated work": "Six costume designs for the ballet Show Piece",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/5821"
+        "Profile": "https://www.moma.org/artists/7125"
+    },
+    {
+        "Artist": "Keith Morrow Martin",
+        "Title": "Costume design for the ballet Show Piece",
+        "Year": "1937",
+        "ObjectID": "120643",
+        "Work": "https://www.moma.org/collection/works/120643",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQzMzIyMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0c7f93cea6e75dbe",
+        "Details": {
+            "Medium": "Gouache and pencil on card",
+            "Dimensions": "14 5/8 \u00d7 8 1/4\" (37.1 \u00d7 21 cm)",
+            "Credit": "Gift of Lincoln Kirstein",
+            "Object number": "512.1941.2",
+            "Associated work": "Six costume designs for the ballet Show Piece",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/7125"
+    },
+    {
+        "Artist": "Keith Morrow Martin",
+        "Title": "Costume design for the ballet Show Piece",
+        "Year": "1937",
+        "ObjectID": "120644",
+        "Work": "https://www.moma.org/collection/works/120644",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQzMDY3MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5260608b12d735a4",
+        "Details": {
+            "Medium": "Gouache and pencil on card",
+            "Dimensions": "14 5/8 x 10 1/2\" (37.1 x 26.7 cm)",
+            "Credit": "Gift of Lincoln Kirstein",
+            "Object number": "512.1941.3",
+            "Associated work": "Six costume designs for the ballet Show Piece",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/7125"
+    },
+    {
+        "Artist": "Keith Morrow Martin",
+        "Title": "Costume design for the ballet Show Piece",
+        "Year": "1937",
+        "ObjectID": "120645",
+        "Work": "https://www.moma.org/collection/works/120645",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQzNzI5NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=162dc7cb0af8616e",
+        "Details": {
+            "Medium": "Gouache, pencil, and metallic gouache on card",
+            "Dimensions": "14 1/4 \u00d7 10 1/4\" (36.2 \u00d7 26 cm)",
+            "Credit": "Gift of Lincoln Kirstein",
+            "Object number": "512.1941.4",
+            "Associated work": "Six costume designs for the ballet Show Piece",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/7125"
+    },
+    {
+        "Artist": "Keith Morrow Martin",
+        "Title": "Costume design for the ballet Show Piece",
+        "Year": "1937",
+        "ObjectID": "120646",
+        "Work": "https://www.moma.org/collection/works/120646",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQzMDY3MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3b49eff331b58616",
+        "Details": {
+            "Medium": "Gouache, metallic gouache, and pencil on card",
+            "Dimensions": "14 3/4 x 10 3/4\" (37.5 x 27.3 cm)",
+            "Credit": "Gift of Lincoln Kirstein",
+            "Object number": "512.1941.5",
+            "Associated work": "Six costume designs for the ballet Show Piece",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/7125"
+    },
+    {
+        "Artist": "Keith Morrow Martin",
+        "Title": "Costume design for the ballet Show Piece",
+        "Year": "1937",
+        "ObjectID": "120647",
+        "Work": "https://www.moma.org/collection/works/120647",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQzNzI5OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=dcba94158d8cfbdf",
+        "Details": {
+            "Medium": "Gouache and pencil on card",
+            "Dimensions": "14 3/4 \u00d7 9 3/8\" (37.5 \u00d7 23.8 cm)",
+            "Credit": "Gift of Lincoln Kirstein",
+            "Object number": "512.1941.6",
+            "Associated work": "Six costume designs for the ballet Show Piece",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/7125"
+    },
+    {
+        "Artist": "Alice Trumbull Mason",
+        "Title": "Untitled from American Abstract Artists",
+        "Year": "1937",
+        "ObjectID": "69818",
+        "Work": "https://www.moma.org/collection/works/69818",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNjQyMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5abcd03d1914dd1e",
+        "Details": {
+            "Medium": "One from a portfolio of thirty-one lithographs",
+            "Dimensions": "composition (irreg.): 8 7/16 \u00d7 5 7/8\" (21.5 \u00d7 15 cm); sheet: 11 15/16 \u00d7 9 1/4\" (30.4 \u00d7 23.5 cm)",
+            "Publisher": "Squibb Galleries, New York",
+            "Printer": "Cane Press, New York",
+            "Edition": "500",
+            "Credit": "Gift of Stephen B. Browne in honor of Byron and Rosalind Browne",
+            "Object number": "480.1986.20",
+            "Copyright": "\u00a9 2023 Estate of Alice Trumbull Mason / Licensed by VAGA, New York",
+            "Portfolio": "American Abstract Artists",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3816"
+    },
+    {
+        "Artist": "Henri Matisse",
+        "Title": "La Cite-Notre-Dame",
+        "Year": "1937",
+        "ObjectID": "100101",
+        "Work": "https://www.moma.org/collection/works/100101",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NDI1NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2c81e5094782083d",
+        "Details": {
+            "Medium": "Etching",
+            "Dimensions": "plate: 14 7/16 x 11 5/16\" (36.7 x 28.8 cm)",
+            "Publisher": "Daragn\u00e8s, Paris",
+            "Printer": "probably Roger Lacouri\u00e8re, Paris",
+            "Edition": "500",
+            "Credit": "Gift of the Estate of Alberta McPeak",
+            "Object number": "937.2005",
+            "Copyright": "\u00a9 2023 Succession H. Matisse / Artists Rights Society (ARS), New York",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3832"
+    },
+    {
+        "Artist": "George McNeil",
+        "Title": "Untitled from American Abstract Artists",
+        "Year": "1937",
+        "ObjectID": "69816",
+        "Work": "https://www.moma.org/collection/works/69816",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNjQyMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ec37525d4ca3fde8",
+        "Details": {
+            "Medium": "One from a portfolio of thirty-one lithographs",
+            "Dimensions": "composition (irreg.): 8 7/16 \u00d7 6 11/16\" (21.5 \u00d7 17 cm); sheet: 11 15/16 \u00d7 9 3/16\" (30.3 \u00d7 23.3 cm)",
+            "Publisher": "Squibb Galleries, New York",
+            "Printer": "Cane Press, New York",
+            "Edition": "500",
+            "Credit": "Gift of Stephen B. Browne in honor of Byron and Rosalind Browne",
+            "Object number": "480.1986.19",
+            "Portfolio": "American Abstract Artists",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3894"
+    },
+    {
+        "Artist": "Robert H. McNeill",
+        "Title": "Make a Wish",
+        "Year": "1937",
+        "ObjectID": "186065",
+        "Work": "https://www.moma.org/collection/works/186065",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwOTQ1MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7378d8358b3b5be1",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "6 3/4 \u00d7 8 11/16\" (17.1 \u00d7 22 cm)",
+            "Credit": "Acquired through the generosity of The Friends of Education of The Museum of Modern Art and Committee on Photography Fund",
+            "Object number": "915.2014",
+            "Copyright": "\u00a9 2023 Heirs of Robert H. McNeill",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/45744"
+    },
+    {
+        "Artist": "Robert H. McNeill",
+        "Title": "Untitled from the series The Bronx Slave Market",
+        "Year": "1937",
+        "ObjectID": "186066",
+        "Work": "https://www.moma.org/collection/works/186066",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwOTQ1MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9c93cb06ab1dd2af",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "6 1/8 \u00d7 7 15/16\" (15.5 \u00d7 20.1 cm)",
+            "Credit": "Acquired through the generosity of The Friends of Education of The Museum of Modern Art and Committee on Photography Fund",
+            "Object number": "916.2014",
+            "Copyright": "\u00a9 2023 Heirs of Robert H. McNeill",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/45744"
+    },
+    {
+        "Artist": "Robert H. McNeill",
+        "Title": "Untitled from the series The Bronx Slave Market",
+        "Year": "1937",
+        "ObjectID": "186067",
+        "Work": "https://www.moma.org/collection/works/186067",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwOTQ1MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=acf9aeac0f473b9c",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "8 1/16 \u00d7 6 5/16\" (20.4 \u00d7 16 cm)",
+            "Credit": "Acquired through the generosity of The Friends of Education of The Museum of Modern Art and Committee on Photography Fund",
+            "Object number": "917.2014",
+            "Copyright": "\u00a9 2023 Heirs of Robert H. McNeill",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/45744"
+    },
+    {
+        "Artist": "Robert H. McNeill",
+        "Title": "Untitled from the series The Bronx Slave Market",
+        "Year": "1937",
+        "ObjectID": "186068",
+        "Work": "https://www.moma.org/collection/works/186068",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwOTQ1MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7e29656c9eafb192",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "7 5/8 \u00d7 9 9/16\" (19.4 \u00d7 24.3 cm)",
+            "Credit": "Acquired through the generosity of The Friends of Education of The Museum of Modern Art and Committee on Photography Fund",
+            "Object number": "918.2014",
+            "Copyright": "\u00a9 2023 Heirs of Robert H. McNeill",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/45744"
+    },
+    {
+        "Artist": "Robert H. McNeill",
+        "Title": "Untitled from the series The Bronx Slave Market",
+        "Year": "1937",
+        "ObjectID": "186069",
+        "Work": "https://www.moma.org/collection/works/186069",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwOTQ1NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b572f4eb01596d46",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "9 1/4 \u00d7 7 11/16\" (23.5 \u00d7 19.5 cm)",
+            "Credit": "Acquired through the generosity of The Friends of Education of The Museum of Modern Art and Committee on Photography Fund",
+            "Object number": "919.2014",
+            "Copyright": "\u00a9 2023 Heirs of Robert H. McNeill",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/45744"
+    },
+    {
+        "Artist": "Robert H. McNeill",
+        "Title": "Untitled from the series The Bronx Slave Market",
+        "Year": "1937",
+        "ObjectID": "186070",
+        "Work": "https://www.moma.org/collection/works/186070",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwOTQ1NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c5eec11bbb1989e6",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "7 7/8 \u00d7 6 1/16\" (20 \u00d7 15.4 cm)",
+            "Credit": "Acquired through the generosity of The Friends of Education of The Museum of Modern Art and Committee on Photography Fund",
+            "Object number": "920.2014",
+            "Copyright": "\u00a9 2023 Heirs of Robert H. McNeill",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/45744"
+    },
+    {
+        "Artist": "Robert H. McNeill",
+        "Title": "Untitled from the series The Bronx Slave Market",
+        "Year": "1937",
+        "ObjectID": "186071",
+        "Work": "https://www.moma.org/collection/works/186071",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwOTQ1NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6dd32e6da5d7b568",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "9 7/16 \u00d7 7 11/16\" (24 \u00d7 19.5 cm)",
+            "Credit": "Acquired through the generosity of The Friends of Education of The Museum of Modern Art and Committee on Photography Fund",
+            "Object number": "921.2014",
+            "Copyright": "\u00a9 2023 Heirs of Robert H. McNeill",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/45744"
+    },
+    {
+        "Artist": "Robert H. McNeill",
+        "Title": "Untitled from the series The Bronx Slave Market",
+        "Year": "1937",
+        "ObjectID": "186072",
+        "Work": "https://www.moma.org/collection/works/186072",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwOTQ1NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=dfb92c64c3294599",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "7 9/16 \u00d7 6 5/16\" (19.2 \u00d7 16 cm)",
+            "Credit": "Acquired through the generosity of The Friends of Education of The Museum of Modern Art and Committee on Photography Fund",
+            "Object number": "922.2014",
+            "Copyright": "\u00a9 2023 Heirs of Robert H. McNeill",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/45744"
+    },
+    {
+        "Artist": "Robert H. McNeill",
+        "Title": "Untitled from the series The Bronx Slave Market",
+        "Year": "1937",
+        "ObjectID": "186073",
+        "Work": "https://www.moma.org/collection/works/186073",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwOTQ1OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9d79a754b4941843",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "7 5/8 \u00d7 9 1/2\" (19.4 \u00d7 24.1 cm)",
+            "Credit": "Acquired through the generosity of The Friends of Education of The Museum of Modern Art and Committee on Photography Fund",
+            "Object number": "923.2014",
+            "Copyright": "\u00a9 2023 Heirs of Robert H. McNeill",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/45744"
     }
 ]

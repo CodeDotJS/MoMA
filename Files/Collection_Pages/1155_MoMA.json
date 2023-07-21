@@ -1,386 +1,386 @@
 [
     {
-        "Artist": "Unidentified photographer",
+        "Artist": "Andy Warhol",
+        "Title": "Cagney",
+        "Year": "1962",
+        "ObjectID": "84127",
+        "Work": "https://www.moma.org/collection/works/84127",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4MjAyNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=07f947ea220169ae"
+    },
+    {
+        "Artist": "Andy Warhol",
+        "Title": "Two Dollar Bill",
+        "Year": "(1962)",
+        "ObjectID": "87902",
+        "Work": "https://www.moma.org/collection/works/87902",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMxMDY4NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=73d5dab74e82b6b9"
+    },
+    {
+        "Artist": "Andy Warhol",
+        "Title": "Coca-Cola",
+        "Year": "1962",
+        "ObjectID": "87903",
+        "Work": "https://www.moma.org/collection/works/87903",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMxMDY5NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=81feb3f73a0e5082"
+    },
+    {
+        "Artist": "Andy Warhol",
+        "Title": "Saving Maytag",
+        "Year": "(1962)",
+        "ObjectID": "87904",
+        "Work": "https://www.moma.org/collection/works/87904",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMxMDU2NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=dee17f99940a059a"
+    },
+    {
+        "Artist": "Andy Warhol",
+        "Title": "Soup 'n sandwich!",
+        "Year": "(1962)",
+        "ObjectID": "87906",
+        "Work": "https://www.moma.org/collection/works/87906",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMxMDU5MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=256a8ca044d2e97b"
+    },
+    {
+        "Artist": "Andy Warhol",
+        "Title": "Portrait of a Woman",
+        "Year": "(1962)",
+        "ObjectID": "97678",
+        "Work": "https://www.moma.org/collection/works/97678",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNDM3OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3db5c5ab5bf2f913"
+    },
+    {
+        "Artist": "Robert Watts",
+        "Title": "Untitled (plate 19) from The International Anthology of Contemporary Engraving: The International Avant-Garde, Volume 5: America Discovered (Anthologia internazionale dell'incisione contemporanea: L'Avanguardia internazionale: Volume 5: Scoperta dell'America)",
+        "Year": "1962, published 1964",
+        "ObjectID": "15681",
+        "Work": "https://www.moma.org/collection/works/15681",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3Nzc3MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d26ddc80c4c17727"
+    },
+    {
+        "Artist": "Robert Watts",
+        "Title": "Yam Festival placemat",
+        "Year": "1962",
+        "ObjectID": "135261",
+        "Work": "https://www.moma.org/collection/works/135261",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MDcwNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=71f9e902e1b5dff8"
+    },
+    {
+        "Artist": "Robert Watts",
+        "Title": "Xmas Event",
+        "Year": "c. 1962",
+        "ObjectID": "135415",
+        "Work": "https://www.moma.org/collection/works/135415",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQyNjU4OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5c8a484a0d91c041"
+    },
+    {
+        "Artist": "Robert Watts",
+        "Title": "Safe Post / K.u.K. Feldpost / Jockpost",
+        "Year": "1962",
+        "ObjectID": "136718",
+        "Work": "https://www.moma.org/collection/works/136718",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NDgzMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2e51cf98aead94a2"
+    },
+    {
+        "Artist": "Robert Watts",
+        "Title": "Safe Post / K.u.K. Feldpost / Jockpost",
+        "Year": "1962",
+        "ObjectID": "136720",
+        "Work": "https://www.moma.org/collection/works/136720",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0Nzk4NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9f78d666b009516b"
+    },
+    {
+        "Artist": "Robert Watts",
+        "Title": "Safe Post / K.u.K. Feldpost / Jockpost",
+        "Year": "1962",
+        "ObjectID": "136776",
+        "Work": "https://www.moma.org/collection/works/136776",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0Nzk4OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=dec079f14ff7336a"
+    },
+    {
+        "Artist": "Robert Watts",
+        "Title": "Casual Event",
+        "Year": "c. 1962",
+        "ObjectID": "222831",
+        "Work": "https://www.moma.org/collection/works/222831",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQyNjU4NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2e8a23663b6a1ce2"
+    },
+    {
+        "Artist": "Robert Watts",
+        "Title": "Event for a Year",
+        "Year": "c. 1962",
+        "ObjectID": "222832",
+        "Work": "https://www.moma.org/collection/works/222832",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQyNjU4NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a27317739cf5d09e"
+    },
+    {
+        "Artist": "Robert Watts",
+        "Title": "Subway Event",
+        "Year": "c. 1962",
+        "ObjectID": "222833",
+        "Work": "https://www.moma.org/collection/works/222833",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQyNjU4NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b3ebfec2d03ca1f1"
+    },
+    {
+        "Artist": "Robert Watts",
+        "Title": "Event for a Whole Year",
+        "Year": "c. 1962",
+        "ObjectID": "222834",
+        "Work": "https://www.moma.org/collection/works/222834",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQyNjU4NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=34018e1e30d6cb7b"
+    },
+    {
+        "Artist": "Robert Watts",
+        "Title": "Winter Event",
+        "Year": "c. 1962",
+        "ObjectID": "222835",
+        "Work": "https://www.moma.org/collection/works/222835",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQyNjU4OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5bb6f5a9e20270ce"
+    },
+    {
+        "Artist": "June Wayne",
+        "Title": "Second Hero",
+        "Year": "1962",
+        "ObjectID": "75504",
+        "Work": "https://www.moma.org/collection/works/75504",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ0MjA0OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d626e9a939efe346"
+    },
+    {
+        "Artist": "Reinhold Weiss",
+        "Title": "Grill (model HG 1)",
+        "Year": "1962",
+        "ObjectID": "4097",
+        "Work": "https://www.moma.org/collection/works/4097",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMDMyOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=38d947eb0f9bf517"
+    },
+    {
+        "Artist": "Minor White",
+        "Title": "Frost Forms: Head and Arabesques",
+        "Year": "1962",
+        "ObjectID": "46703",
+        "Work": "https://www.moma.org/collection/works/46703",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5NjY4OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=10402b9571d9c3d3"
+    },
+    {
+        "Artist": "Minor White",
+        "Title": "Capitol Reef, Utah",
+        "Year": "1962",
+        "ObjectID": "58234",
+        "Work": "https://www.moma.org/collection/works/58234",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwOTYxOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=03d1ed2c4cfe1038"
+    },
+    {
+        "Artist": "Emmett Williams",
+        "Title": "Alphabet Symphony",
+        "Year": "1962",
+        "ObjectID": "127615",
+        "Work": "https://www.moma.org/collection/works/127615",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MDUyOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=db0587b759d7e531"
+    },
+    {
+        "Artist": "Emmett Williams",
+        "Title": "Alphabet Symphony",
+        "Year": "1962",
+        "ObjectID": "127616",
+        "Work": "https://www.moma.org/collection/works/127616",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3MTc4OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e0d1d57126a62ce0"
+    },
+    {
+        "Artist": "Emmett Williams",
+        "Title": "Alphabet Symphony, performed during Fluxus/Musik og Anti-Musik/det Instrumentale Teater, Nikolai Kirke, Copenhagen, November 23, 1962",
+        "Year": "1962",
+        "ObjectID": "127617",
+        "Work": "https://www.moma.org/collection/works/127617",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NjAzNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3da23d4e97f45218"
+    },
+    {
+        "Artist": "Emmett Williams",
+        "Title": "Alphabet Symphony",
+        "Year": "1962",
+        "ObjectID": "127618",
+        "Work": "https://www.moma.org/collection/works/127618",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MDUzMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=77f2e38722ebfb9a"
+    },
+    {
+        "Artist": "Emmett Williams",
+        "Title": "Alphabet Symphony",
+        "Year": "1962",
+        "ObjectID": "127619",
+        "Work": "https://www.moma.org/collection/works/127619",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4ODA3MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c4b12f00e4ea9ec8"
+    },
+    {
+        "Artist": "Emmett Williams, Daniel Spoerri",
+        "Title": "Emmett Williams' Counting Song and Daniel Spoerri's Hommage a l\u2019Allemagne, performed during Festum Fluxorum/Fluxus/Musik und Antimusik/Das Instrumentale Theater, Staatliche Kunstakademie, Dusseldorf, February 2, 1963",
+        "Year": "1962",
+        "ObjectID": "127621",
+        "Work": "https://www.moma.org/collection/works/127621",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NTYxNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c9c24898bb3b13e5"
+    },
+    {
+        "Artist": "Fred Williams",
+        "Title": "Kallista",
+        "Year": "1962",
+        "ObjectID": "68908",
+        "Work": "https://www.moma.org/collection/works/68908",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5MDAxMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=547f05e35fe0ee1c"
+    },
+    {
+        "Artist": "Fred Williams",
+        "Title": "Landscape Triptych No. 1, State IV/IV",
+        "Year": "1962",
+        "ObjectID": "68930",
+        "Work": "https://www.moma.org/collection/works/68930",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5MDAxMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=67ec1954ae09ad18"
+    },
+    {
+        "Artist": "Fred Williams",
+        "Title": "Landscape Triptych No. 2, State II/IV",
+        "Year": "1962",
+        "ObjectID": "68956",
+        "Work": "https://www.moma.org/collection/works/68956",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5MDAxMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6c4c9c4f7312f6a8"
+    },
+    {
+        "Artist": "Fred Williams",
+        "Title": "Landscape Diptych No. 2, State VIII/IX",
+        "Year": "1962",
+        "ObjectID": "68969",
+        "Work": "https://www.moma.org/collection/works/68969",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5MDAxNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5270cfd68d3a3c03"
+    },
+    {
+        "Artist": "Fred Williams",
+        "Title": "Sherbrooke Forest No. 8, State IV/IV",
+        "Year": "1962",
+        "ObjectID": "69034",
+        "Work": "https://www.moma.org/collection/works/69034",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5MDAxOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f369f5ea4ab3a6b1"
+    },
+    {
+        "Artist": "Garry Winogrand",
+        "Title": "New York",
+        "Year": "1962",
+        "ObjectID": "46742",
+        "Work": "https://www.moma.org/collection/works/46742",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzOTQ1MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e73fdb0732ed71c2"
+    },
+    {
+        "Artist": "Garry Winogrand",
+        "Title": "Aquarium at Coney Island",
+        "Year": "1962",
+        "ObjectID": "46752",
+        "Work": "https://www.moma.org/collection/works/46752",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzOTQ1MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1142f444bc9ab374"
+    },
+    {
+        "Artist": "Garry Winogrand",
+        "Title": "New York",
+        "Year": "1962",
+        "ObjectID": "46762",
+        "Work": "https://www.moma.org/collection/works/46762",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzOTQ1NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6ea104cc2b7a99a3"
+    },
+    {
+        "Artist": "Garry Winogrand",
+        "Title": "New York",
+        "Year": "1962",
+        "ObjectID": "46773",
+        "Work": "https://www.moma.org/collection/works/46773",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzOTQ1NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=72021ffa54e421d7"
+    },
+    {
+        "Artist": "Garry Winogrand",
+        "Title": "Aquarium at Coney Island",
+        "Year": "1962",
+        "ObjectID": "46814",
+        "Work": "https://www.moma.org/collection/works/46814",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzOTQ1OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=12a8c19fd1e92adf"
+    },
+    {
+        "Artist": "Garry Winogrand",
+        "Title": "New York",
+        "Year": "1962",
+        "ObjectID": "52300",
+        "Work": "https://www.moma.org/collection/works/52300",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzOTUxMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=686f5295b9c605cf"
+    },
+    {
+        "Artist": "Garry Winogrand",
+        "Title": "New York",
+        "Year": "1962",
+        "ObjectID": "53122",
+        "Work": "https://www.moma.org/collection/works/53122",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzOTU4MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=db5460dd46d7a5a7"
+    },
+    {
+        "Artist": "Garry Winogrand",
         "Title": "Untitled",
-        "Year": "1923-51",
-        "ObjectID": "174397",
-        "Work": "https://www.moma.org/collection/works/174397",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4MDI3NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=609097008d244be3"
+        "Year": "c. 1960",
+        "ObjectID": "53564",
+        "Work": "https://www.moma.org/collection/works/53564",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzOTY0MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4ee78c4d29e38a98"
     },
     {
-        "Artist": "Unidentified photographer",
+        "Artist": "Garry Winogrand",
+        "Title": "New York",
+        "Year": "c. 1960",
+        "ObjectID": "54086",
+        "Work": "https://www.moma.org/collection/works/54086",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzOTY2NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a310c0ce220a37cb"
+    },
+    {
+        "Artist": "Garry Winogrand",
+        "Title": "Central Park Zoo, New York",
+        "Year": "1962",
+        "ObjectID": "57290",
+        "Work": "https://www.moma.org/collection/works/57290",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzOTc1MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f9d4b6757085cdd6"
+    },
+    {
+        "Artist": "Garry Winogrand",
+        "Title": "Central Park Zoo, New York",
+        "Year": "1962",
+        "ObjectID": "111139",
+        "Work": "https://www.moma.org/collection/works/111139",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMTI2MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8109b7ab18579ee5"
+    },
+    {
+        "Artist": "Tapio Wirkkala",
+        "Title": "Incandescent Bulb (model WIR105)",
+        "Year": "1959",
+        "ObjectID": "3100",
+        "Work": "https://www.moma.org/collection/works/3100",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMDkxMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3d96e5b1d445aeab"
+    },
+    {
+        "Artist": "Agatha Wojciechowsky",
         "Title": "Untitled",
-        "Year": "1923-51",
-        "ObjectID": "174398",
-        "Work": "https://www.moma.org/collection/works/174398",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4MDI3NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=eafce455ce35564b"
+        "Year": "1962",
+        "ObjectID": "36763",
+        "Work": "https://www.moma.org/collection/works/36763",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxOTI4MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=748c0099f5eeebf1"
     },
     {
-        "Artist": "Unidentified photographer",
+        "Artist": "Agatha Wojciechowsky",
         "Title": "Untitled",
-        "Year": "1923-51",
-        "ObjectID": "174399",
-        "Work": "https://www.moma.org/collection/works/174399",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4MDI3OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4b08bd0221d83e64"
+        "Year": "(1962)",
+        "ObjectID": "36766",
+        "Work": "https://www.moma.org/collection/works/36766",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxOTA1OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f064a133b0cc1b9c"
     },
     {
-        "Artist": "Unidentified photographer",
-        "Title": "Untitled",
-        "Year": "1923-51",
-        "ObjectID": "174400",
-        "Work": "https://www.moma.org/collection/works/174400",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4MDI3OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=57316b7aba217fba"
+        "Artist": "J. Trevor Wood",
+        "Title": "Fourth-Dimensional Pebble Beach",
+        "Year": "1962",
+        "ObjectID": "79491",
+        "Work": "https://www.moma.org/collection/works/79491",
+        "Thumbnail": null
     },
     {
-        "Artist": "Unidentified photographer",
-        "Title": "Untitled",
-        "Year": "1923-51",
-        "ObjectID": "174401",
-        "Work": "https://www.moma.org/collection/works/174401",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4MDI4MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0de55adcd8413c05"
-    },
-    {
-        "Artist": "Unidentified photographer",
-        "Title": "Untitled",
-        "Year": "1923-51",
-        "ObjectID": "174402",
-        "Work": "https://www.moma.org/collection/works/174402",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4MDI4MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=49d370ae1179673b"
-    },
-    {
-        "Artist": "Unidentified photographer",
-        "Title": "Untitled",
-        "Year": "1923-51",
-        "ObjectID": "174403",
-        "Work": "https://www.moma.org/collection/works/174403",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4MDI4MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=07fdab156156e1f6"
-    },
-    {
-        "Artist": "Unidentified photographer",
-        "Title": "Untitled",
-        "Year": "1923-51",
-        "ObjectID": "174404",
-        "Work": "https://www.moma.org/collection/works/174404",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4MDI4NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f71173301c4a7b81"
-    },
-    {
-        "Artist": "Unidentified photographer",
-        "Title": "Untitled",
-        "Year": "1923-51",
-        "ObjectID": "174405",
-        "Work": "https://www.moma.org/collection/works/174405",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4MDI4NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cb8a6b70c5fdba09"
-    },
-    {
-        "Artist": "Unidentified photographer",
-        "Title": "Untitled",
-        "Year": "1923-51",
-        "ObjectID": "174406",
-        "Work": "https://www.moma.org/collection/works/174406",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4MDI4NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a0d15597be710a5a"
-    },
-    {
-        "Artist": "Unidentified photographer",
-        "Title": "Untitled",
-        "Year": "1923-51",
-        "ObjectID": "174407",
-        "Work": "https://www.moma.org/collection/works/174407",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4MDI4NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f5db1327510f0e1c"
-    },
-    {
-        "Artist": "Unidentified photographer",
-        "Title": "Untitled",
-        "Year": "1923-51",
-        "ObjectID": "174408",
-        "Work": "https://www.moma.org/collection/works/174408",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4MDI4OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=657edb50f9246cb5"
-    },
-    {
-        "Artist": "Unidentified photographer",
-        "Title": "Untitled",
-        "Year": "1923-51",
-        "ObjectID": "174409",
-        "Work": "https://www.moma.org/collection/works/174409",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4MDI4OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4a7c9a95f79ede33"
-    },
-    {
-        "Artist": "Unidentified photographer",
-        "Title": "Untitled",
-        "Year": "1923-51",
-        "ObjectID": "174410",
-        "Work": "https://www.moma.org/collection/works/174410",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4MDI5MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f306cdd8adda9832"
-    },
-    {
-        "Artist": "Unidentified photographer",
-        "Title": "Untitled",
-        "Year": "1923-51",
-        "ObjectID": "174411",
-        "Work": "https://www.moma.org/collection/works/174411",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4MDI5MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a6280ca0e7fb88ed"
-    },
-    {
-        "Artist": "Unidentified photographer",
-        "Title": "Untitled",
-        "Year": "1923-51",
-        "ObjectID": "174412",
-        "Work": "https://www.moma.org/collection/works/174412",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4MDI5MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=95d53c32a440c3b4"
-    },
-    {
-        "Artist": "Unidentified photographer",
-        "Title": "Untitled",
-        "Year": "1923-51",
-        "ObjectID": "174413",
-        "Work": "https://www.moma.org/collection/works/174413",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4MDI5NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=71603517d493d291"
-    },
-    {
-        "Artist": "Unidentified photographer",
-        "Title": "Untitled",
-        "Year": "1923-51",
-        "ObjectID": "174414",
-        "Work": "https://www.moma.org/collection/works/174414",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4MDI5NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ac4b347f262aef36"
-    },
-    {
-        "Artist": "Unidentified photographer",
-        "Title": "Untitled",
-        "Year": "1923-51",
-        "ObjectID": "174415",
-        "Work": "https://www.moma.org/collection/works/174415",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4MDI5NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=86d44c5c7218d5ff"
-    },
-    {
-        "Artist": "Unidentified photographer",
-        "Title": "Untitled",
-        "Year": "1923-51",
-        "ObjectID": "174416",
-        "Work": "https://www.moma.org/collection/works/174416",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4MDI5NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ce7935ac8297cb83"
-    },
-    {
-        "Artist": "Unidentified photographer",
-        "Title": "Untitled",
-        "Year": "1923-51",
-        "ObjectID": "174417",
-        "Work": "https://www.moma.org/collection/works/174417",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4MDI5OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=be07a1febd3eaed4"
-    },
-    {
-        "Artist": "Unidentified photographer",
-        "Title": "Untitled",
-        "Year": "1951",
-        "ObjectID": "274697",
-        "Work": "https://www.moma.org/collection/works/274697",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQyMzU3OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f36686765ef3a246"
-    },
-    {
-        "Artist": "Maria Helena Vieira da Silva",
-        "Title": "The City",
-        "Year": "1950-51",
-        "ObjectID": "79873",
-        "Work": "https://www.moma.org/collection/works/79873",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4MjIxOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3fad0c2879a261d0"
-    },
-    {
-        "Artist": "Jacques Villon",
-        "Title": "Horsemen (La Faucheuse)",
-        "Year": "1951",
-        "ObjectID": "64274",
-        "Work": "https://www.moma.org/collection/works/64274",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMzE4MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f411df8f56d6e4fd"
-    },
-    {
-        "Artist": "Jacques Villon",
-        "Title": "The Lamp (Les Lampes)",
-        "Year": "1951",
-        "ObjectID": "65458",
-        "Work": "https://www.moma.org/collection/works/65458",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3Nzc0MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=69000a4cd6ea1009"
-    },
-    {
-        "Artist": "Jacques Villon",
-        "Title": "The Armchair (Le Fauteuil)",
-        "Year": "1951",
-        "ObjectID": "66710",
-        "Work": "https://www.moma.org/collection/works/66710",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMzMyNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b304b5a12bbca37f"
-    },
-    {
-        "Artist": "Jacques Villon",
-        "Title": "Rider in the Ring (L'Ecuyere)",
-        "Year": "1950-51",
-        "ObjectID": "66746",
-        "Work": "https://www.moma.org/collection/works/66746",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMzMyNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=520668a359cba232"
-    },
-    {
-        "Artist": "Jacques Villon",
-        "Title": "The Universe (L'Univers)",
-        "Year": "1951",
-        "ObjectID": "71274",
-        "Work": "https://www.moma.org/collection/works/71274",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3Nzg0NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ab9a6896d8f18d26"
-    },
-    {
-        "Artist": "John Von Wicht",
-        "Title": "City",
-        "Year": "1951",
-        "ObjectID": "63754",
-        "Work": "https://www.moma.org/collection/works/63754",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMzE2MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c95e79e88f4ca9b5"
-    },
-    {
-        "Artist": "Wilhelm Wagenfeld",
-        "Title": "Vase",
-        "Year": "1950",
-        "ObjectID": "2797",
-        "Work": "https://www.moma.org/collection/works/2797",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNzczMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cf9d69e7bb5fb022"
-    },
-    {
-        "Artist": "Gilbert A. Watrous",
-        "Title": "Floor Lamp",
-        "Year": "1950",
-        "ObjectID": "3910",
-        "Work": "https://www.moma.org/collection/works/3910",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMTQ1NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2194ad93117ea62e"
-    },
-    {
-        "Artist": "Todd Webb",
-        "Title": "Stove in Paris Studio",
-        "Year": "1951",
-        "ObjectID": "46461",
-        "Work": "https://www.moma.org/collection/works/46461",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4NzMwNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a7b7072224d85abb"
-    },
-    {
-        "Artist": "Todd Webb",
-        "Title": "Stove in Paris Studio",
-        "Year": "1951",
-        "ObjectID": "52280",
-        "Work": "https://www.moma.org/collection/works/52280",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4ODMwOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7570900ef812c647"
-    },
-    {
-        "Artist": "Todd Webb",
-        "Title": "Cafe on Rue de la Boucherie, Paris",
-        "Year": "1951",
-        "ObjectID": "52318",
-        "Work": "https://www.moma.org/collection/works/52318",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4ODMxNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6428a14b767c25f4"
-    },
-    {
-        "Artist": "Todd Webb",
-        "Title": "Untitled",
-        "Year": "1951",
-        "ObjectID": "52337",
-        "Work": "https://www.moma.org/collection/works/52337",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4ODMxNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d41abc919c7b50e4"
-    },
-    {
-        "Artist": "Dan Weiner",
-        "Title": "Judge Learned Hand",
-        "Year": "1951",
-        "ObjectID": "46473",
-        "Work": "https://www.moma.org/collection/works/46473",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MjA4MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=73745351104ffac8"
-    },
-    {
-        "Artist": "Dan Weiner",
-        "Title": "Packard Motors' President James Nance (third from left) Meets with Executives, Detroit",
-        "Year": "1951",
-        "ObjectID": "48070",
-        "Work": "https://www.moma.org/collection/works/48070",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MjIwNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c33eef56fec0caea"
-    },
-    {
-        "Artist": "Dan Weiner",
-        "Title": "Secretary with Boss, Henry J. Kaiser, Oakland, California",
-        "Year": "1951",
-        "ObjectID": "48090",
-        "Work": "https://www.moma.org/collection/works/48090",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MjIwOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c3dff5c51b4f1136"
-    },
-    {
-        "Artist": "Dan Weiner",
-        "Title": "Edgar Kaiser, Eugene Trefethen, and Henry Kaiser in Conference, Oakland, California",
-        "Year": "1951",
-        "ObjectID": "48166",
-        "Work": "https://www.moma.org/collection/works/48166",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MjIxMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=76da68d2cfd0a605"
-    },
-    {
-        "Artist": "Dan Weiner",
-        "Title": "New Year's Eve, Times Square",
-        "Year": "1951",
-        "ObjectID": "51326",
-        "Work": "https://www.moma.org/collection/works/51326",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEwOTU3MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a05480b8a16ce6a4"
-    },
-    {
-        "Artist": "Dan Weiner",
-        "Title": "Judge Learned Hand",
-        "Year": "1951",
-        "ObjectID": "52416",
-        "Work": "https://www.moma.org/collection/works/52416",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MjQ5NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5387151e670b5797"
-    },
-    {
-        "Artist": "Dan Weiner",
-        "Title": "Old Age Home Near Fort Wayne, Indiana",
-        "Year": "1951",
-        "ObjectID": "54598",
-        "Work": "https://www.moma.org/collection/works/54598",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MjY4MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=dd57279c1f7fadc1"
-    },
-    {
-        "Artist": "Dan Weiner",
-        "Title": "Old Age Home Near Fort Wayne, Indiana",
-        "Year": "1951",
-        "ObjectID": "54608",
-        "Work": "https://www.moma.org/collection/works/54608",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MjY4MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0b6be14c1486cda7"
-    },
-    {
-        "Artist": "Dan Weiner",
-        "Title": "Subway Riders at Herald Square, New York",
-        "Year": "1951",
-        "ObjectID": "54647",
-        "Work": "https://www.moma.org/collection/works/54647",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MjY4OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=111dd07d51d750fe"
-    },
-    {
-        "Artist": "Dan Weiner",
-        "Title": "East End Avenue",
-        "Year": "1951",
-        "ObjectID": "58984",
-        "Work": "https://www.moma.org/collection/works/58984",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MjMyNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=276fd6c67b5e4429"
-    },
-    {
-        "Artist": "Dan Weiner",
-        "Title": "East End Avenue",
-        "Year": "1950-51",
-        "ObjectID": "58985",
-        "Work": "https://www.moma.org/collection/works/58985",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MjMyNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e5092f464643a4cd"
-    },
-    {
-        "Artist": "Stow Wengenroth",
-        "Title": "Serenity",
-        "Year": "1951",
-        "ObjectID": "72430",
-        "Work": "https://www.moma.org/collection/works/72430",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3Nzg2MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6895d5c967c0e399"
-    },
-    {
-        "Artist": "Brett Weston",
-        "Title": "Sierra Pool",
-        "Year": "1951",
-        "ObjectID": "58406",
-        "Work": "https://www.moma.org/collection/works/58406",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MzE4NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0606fd5fff59a683"
+        "Artist": "Don Worth",
+        "Title": "Grass and Water, Mt Baker, Washington",
+        "Year": "1962",
+        "ObjectID": "56566",
+        "Work": "https://www.moma.org/collection/works/56566",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNzkzNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=49c6a4986618dc93"
     }
 ]

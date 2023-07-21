@@ -1,807 +1,921 @@
 [
     {
-        "Artist": "Robert Rauschenberg",
-        "Title": "Rhyme",
-        "Year": "1956",
-        "ObjectID": "79401",
-        "Work": "https://www.moma.org/collection/works/79401",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM4MzM5NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fae0fb4054c127b7",
+        "Artist": "Ivan Picelj",
+        "Title": "Carmi",
+        "Year": "1964",
+        "ObjectID": "189491",
+        "Work": "https://www.moma.org/collection/works/189491",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMyOTk5NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5a825ba6bcf87ffe",
         "Details": {
-            "Medium": "Fabrics, necktie, paper, oil, enamel, pencil and synthetic polymer paint on canvas",
-            "Dimensions": "48 1/4 x 41 1/8\" (122.6 x 104.4 cm)",
-            "Credit": "Fractional and promised gift of Agnes Gund in honor of Richard E. Oldenburg",
-            "Object number": "283.1994",
-            "Copyright": "\u00a9 2023 Robert Rauschenberg Foundation",
+            "Medium": "Silkscreen",
+            "Dimensions": "26 3/4 \u00d7 18 7/8\" (67.9 \u00d7 47.9 cm)",
+            "Credit": "Gift of Anja Picelj-Kosak",
+            "Object number": "121.2015",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/4611"
+    },
+    {
+        "Artist": "Ivan Picelj",
+        "Title": "Radaus",
+        "Year": "1964",
+        "ObjectID": "189495",
+        "Work": "https://www.moma.org/collection/works/189495",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMyOTk5NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e3b1569f448a33ea",
+        "Details": {
+            "Medium": "Silkscreen",
+            "Dimensions": "27 1/2 \u00d7 19 3/4\" (69.9 \u00d7 50.2 cm)",
+            "Credit": "Gift of Anja Picelj-Kosak",
+            "Object number": "122.2015",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/4611"
+    },
+    {
+        "Artist": "Michelangelo Pistoletto",
+        "Title": "Man with Yellow Pants",
+        "Year": "1964",
+        "ObjectID": "79435",
+        "Work": "https://www.moma.org/collection/works/79435",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1MTI0MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1373bd201f7eb87d",
+        "Details": {
+            "Medium": "Paper, oil, and pencil on polished stainless steel",
+            "Dimensions": "6' 6 7/8\" x 39 3/8\" (200.3 x 100 cm)",
+            "Credit": "Blanchette Hooker Rockefeller Fund",
+            "Object number": "292.1965",
+            "Copyright": "\u00a9 2023 Michelangelo Pistoletto",
             "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/4641"
+    },
+    {
+        "Artist": "Sigmar Polke",
+        "Title": "Untitled",
+        "Year": "1964",
+        "ObjectID": "33468",
+        "Work": "https://www.moma.org/collection/works/33468",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NjI4MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5291bf796e047080",
+        "Details": {
+            "Medium": "Ballpoint pen and gouache on paper",
+            "Dimensions": "11 3/4 x 8 5/8\" (29.8 x 21.2 cm)",
+            "Credit": "Purchased with funds provided by Marie-Jos\u00e9e and Henry R. Kravis",
+            "Object number": "41.1997",
+            "Copyright": "\u00a9 2023 Estate of Sigmar Polke / Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn, Germany",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4671"
+    },
+    {
+        "Artist": "Sigmar Polke",
+        "Title": "Free of Dizziness",
+        "Year": "(1964)",
+        "ObjectID": "34135",
+        "Work": "https://www.moma.org/collection/works/34135",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwODIzOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f5aa1217cf87b12a",
+        "Details": {
+            "Medium": "Ballpoint pen on paper",
+            "Dimensions": "11 3/4 x 8 3/8\" (29.7 x 21.1 cm)",
+            "Credit": "Gift of The Cosmopolitan Arts Foundation",
+            "Object number": "117.1979",
+            "Copyright": "\u00a9 2023 Estate of Sigmar Polke / Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn, Germany",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4671"
+    },
+    {
+        "Artist": "Sigmar Polke",
+        "Title": "Untitled",
+        "Year": "c. 1964",
+        "ObjectID": "35607",
+        "Work": "https://www.moma.org/collection/works/35607",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNDAzMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b49c6ac4f888ba91",
+        "Details": {
+            "Medium": "Synthetic polymer paint on paper",
+            "Dimensions": "29 x 29 3/8\" (73.5 x 74.5 cm)",
+            "Credit": "Anonymous fractional and promised gift",
+            "Object number": "252.2000",
+            "Copyright": "\u00a9 2023 Estate of Sigmar Polke / Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn, Germany",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4671"
+    },
+    {
+        "Artist": "Sigmar Polke",
+        "Title": "Rice",
+        "Year": "(1963-64)",
+        "ObjectID": "36321",
+        "Work": "https://www.moma.org/collection/works/36321",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NjIzOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4862d0a4ba640359",
+        "Details": {
+            "Medium": "Ballpoint pen on paper",
+            "Dimensions": "11 5/8 x 5 1/4\" (29.5 x 21 cm)",
+            "Credit": "Purchased with funds given by Sheldon H. Solow",
+            "Object number": "325.1998",
+            "Copyright": "\u00a9 2023 Estate of Sigmar Polke / Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn, Germany",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4671"
+    },
+    {
+        "Artist": "Sigmar Polke",
+        "Title": "Untitled, Untitled (Raster mit Gesichtern)",
+        "Year": "1964",
+        "ObjectID": "97092",
+        "Work": "https://www.moma.org/collection/works/97092",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Ballpoint pen on paper",
+            "Dimensions": "11 3/4 x 8 1/4\" (29.8 x 21 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift (purchase, and gift, in part, of The Eileen and Michael Cohen Collection)",
+            "Object number": "2808.2005",
+            "Copyright": "\u00a9 2023 Estate of Sigmar Polke / Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn, Germany",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4671"
+    },
+    {
+        "Artist": "Larry Poons",
+        "Title": "Untitled from X + X (Ten Works by Ten Painters)",
+        "Year": "1964",
+        "ObjectID": "62799",
+        "Work": "https://www.moma.org/collection/works/62799",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwNjE4NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1ec0f1bc5bed8318",
+        "Details": {
+            "Medium": "One from a portfolio of ten screenprints",
+            "Dimensions": "composition: 15 7/8 x 15 15/16\" (40.4 x 40.5cm); sheet: 24 x 20 1/16\" (61 x 50.9cm)",
+            "Publisher": "Wadsworth Atheneum, Hartford, CT",
+            "Printer": "Ives-Sillman, Inc., New Haven, CT, Sirocco Screenprinters",
+            "Edition": "500",
+            "Credit": "Gift of Harry C. Oppenheimer (by exchange)",
+            "Object number": "139.1965.8",
+            "Portfolio": "X + X (Ten Works by Ten Painters)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4691"
+    },
+    {
+        "Artist": "Liliana Porter",
+        "Title": "119 Sullivan Street",
+        "Year": "1964",
+        "ObjectID": "71157",
+        "Work": "https://www.moma.org/collection/works/71157",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4MDU3MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5baca9ee852d3b3d",
+        "Details": {
+            "Medium": "Etching and aquatint on three sheets with collage additions",
+            "Dimensions": "approx. plate  35 x 17 5/8\" (89 x 44.8 cm)\r\napprox. sheet  38 x 21 1/2\" (96.6 x 54.7 cm)",
+            "Publisher": "Liliana Porter, New York",
+            "Printer": "New York Graphic Workshop, New York",
+            "Edition": "50",
+            "Credit": "Gift of Galerie Lirolay",
+            "Object number": "562.1966",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4703"
+    },
+    {
+        "Artist": "Mel Ramos",
+        "Title": "Senoritario (double page in-text plate, pages 152 and 153) from 1\u00a2 Life",
+        "Year": "1963, published 1964",
+        "ObjectID": "32114",
+        "Work": "https://www.moma.org/collection/works/32114",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ5MTI4MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5294b104b190c769",
+        "Details": {
+            "Author": "Walasse Ting",
+            "Medium": "Lithograph from an illustrated book with sixty-two lithographs and reproductions",
+            "Dimensions": "composition: 15 5/16 \u00d7 15 9/16\" (38.9 \u00d7 39.5 cm); page (irreg.): 15 3/4 \u00d7 11 7/16\" (40 \u00d7 29.1 cm)",
+            "Publisher": "Eberhard W. Kornfeld, Bern, Switzerland",
+            "Printer": "Georges Girard, Maurice Beaudet",
+            "Edition": "100 special, 2,000 regular",
+            "Credit": "Gift of the author, Walasse Ting, the editor, Sam Francis, and the publisher, E. W. Kornfeld",
+            "Object number": "1164.1964.56",
+            "Copyright": "\u00a9 2023 Mel Ramos / Licensed by VAGA at Artists rights Society (ARS), NY",
+            "Illustrated book": "1\u00a2 Life",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4806"
+    },
+    {
+        "Artist": "Mel Ramos",
+        "Title": "Plate (page 159) from 1\u00a2 Life",
+        "Year": "1963, published 1964",
+        "ObjectID": "32116",
+        "Work": "https://www.moma.org/collection/works/32116",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ5MTI4NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a1ac7f869f5ea327",
+        "Details": {
+            "Author": "Walasse Ting",
+            "Medium": "Lithograph from an illustrated book with sixty-two lithographs and reproductions",
+            "Dimensions": "composition: 15 7/16 \u00d7 10 13/16\" (39.2 \u00d7 27.5 cm); page (irreg.): 16 1/8 \u00d7 11 7/16\" (41 \u00d7 29 cm)",
+            "Publisher": "Eberhard W. Kornfeld, Bern, Switzerland",
+            "Printer": "Maurice Beaudet",
+            "Edition": "100 special, 2,000 regular",
+            "Credit": "Gift of the author, Walasse Ting, the editor, Sam Francis, and the publisher, E. W. Kornfeld",
+            "Object number": "1164.1964.58",
+            "Copyright": "\u00a9 2023 Mel Ramos / Licensed by VAGA at Artists rights Society (ARS), NY",
+            "Illustrated book": "1\u00a2 Life",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4806"
+    },
+    {
+        "Artist": "Dieter Rams",
+        "Title": "Tuner (model CE 16)",
+        "Year": "1964",
+        "ObjectID": "143636",
+        "Work": "https://www.moma.org/collection/works/143636",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNzQxOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f2dbb4b5e7277b97",
+        "Details": {
+            "Manufacturer": "Braun AG, Frankfurt, Germany, est. 1921",
+            "Medium": "Painted steel, anodized aluminum, plastic and electronics",
+            "Dimensions": "4 1/2 x 8 x 12 1/2\" (11.4 x 20.3 x 31.8 cm)",
+            "Credit": "Gift of Jan Staller",
+            "Object number": "363.2011",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/8451"
+    },
+    {
+        "Artist": "Herbert E. Randall",
+        "Title": "Untitled",
+        "Year": "1964",
+        "ObjectID": "57247",
+        "Work": "https://www.moma.org/collection/works/57247",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwNzcwOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=28d4d92fa23a3789",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "9 1/8 \u00d7 13 5/16\" (23.1 \u00d7 33.8 cm)",
+            "Credit": "Benjamin Zeller Memorial Fund",
+            "Object number": "882.1965",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/4810"
+    },
+    {
+        "Artist": "Herbert E. Randall",
+        "Title": "Harlem, New York",
+        "Year": "1964",
+        "ObjectID": "201423",
+        "Work": "https://www.moma.org/collection/works/201423",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0MjU5NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=579d4c61630b37d6",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "11 \u00d7 14\" (27.9 \u00d7 35.6 cm)",
+            "Credit": "Purchase",
+            "Object number": "1.2022.11",
+            "Copyright": "\u00a9 2023 Herbert E. Randall",
+            "Portfolio": "Kamoinge Workshop Portfolio 1",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/4810"
+    },
+    {
+        "Artist": "Robert Rauschenberg",
+        "Title": "Shades",
+        "Year": "1964",
+        "ObjectID": "14718",
+        "Work": "https://www.moma.org/collection/works/14718",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM2MDI1MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e8f67fad7bf5d19f",
+        "Details": {
+            "Medium": "Multiple with six lithographs on plexiglass panels: one mounted permanently and five interchangeably in a slotted aluminum frame, and illuminated by an intermittent light bulb",
+            "Dimensions": "composition (each, irreg.): 14 x 14\" (35.5 x 35.5 cm); other (panel): 14 x 14\" (35.5 x 35.5 cm); other (box): 15 1/8 x 14 1/2 x 11 3/4\" (38.4 x 36.8 x 29.9 cm)",
+            "Publisher": "Universal Limited Art Editions, West Islip, New York",
+            "Printer": "Universal Limited Art Editions, West Islip, New York",
+            "Edition": "24",
+            "Credit": "Gift of the Celeste and Armand Bartos Foundation",
+            "Object number": "291.1964.1-6",
+            "Copyright": "\u00a9 2023 Robert Rauschenberg Foundation",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/4823"
     },
     {
-        "Artist": "Alain Resnais",
-        "Title": "Nuit et brouillard",
-        "Year": "1956",
-        "ObjectID": "300232",
-        "Work": "https://www.moma.org/collection/works/300232",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5NDg4MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b4c9fa4f48b1d995",
+        "Artist": "Robert Rauschenberg",
+        "Title": "Double page in-text plate (pages 114 and 115) from 1\u00a2 Life",
+        "Year": "1964",
+        "ObjectID": "32099",
+        "Work": "https://www.moma.org/collection/works/32099",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ5MTI2OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=53efd313c7ff1f33",
         "Details": {
-            "Object number": "W2344",
-            "Department": "Film"
-        },
-        "Profile": "https://www.moma.org/artists/32354"
-    },
-    {
-        "Artist": "Germaine Richier",
-        "Title": "Sculpture with Background",
-        "Year": "1955-56",
-        "ObjectID": "81309",
-        "Work": "https://www.moma.org/collection/works/81309",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwODY5OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=866e96796cb711c0",
-        "Details": {
-            "Medium": "Gilded bronze",
-            "Dimensions": "Figure 8 3/4\" (22.2 cm) high, background 9 1/4 x 14 34 x 4 5/8\" (23.5 x 37.3 x 11.8 cm)",
-            "Credit": "Blanchette Hooker Rockefeller Fund",
-            "Object number": "293.1956.a-b",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/4905"
-    },
-    {
-        "Artist": "Marco Richterich",
-        "Title": "Holy Family",
-        "Year": "1956",
-        "ObjectID": "61308",
-        "Work": "https://www.moma.org/collection/works/61308",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMDEyOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=437efff6a55b6b29",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "composition: 14 5/16 x 18 1/2\" (36.4 x 47cm); sheet: 17 3/16 x 21 15/16\" (43.6 x 55.7cm)",
-            "Edition": "200",
-            "Credit": "Mrs. Bertram Smith Fund",
-            "Object number": "74.1957",
+            "Author": "Walasse Ting",
+            "Medium": "Lithograph from an illustrated book with sixty-two lithographs and reproductions",
+            "Dimensions": "composition: 15 1/8 \u00d7 22 1/16\" (38.4 \u00d7 56 cm); sheet (irreg.): 16 1/8 \u00d7 22 13/16\" (41 \u00d7 58 cm)",
+            "Publisher": "Eberhard W. Kornfeld, Bern, Switzerland",
+            "Printer": "Maurice Beaudet",
+            "Edition": "100 special, 2,000 regular",
+            "Credit": "Gift of the author, Walasse Ting, the editor, Sam Francis, and the publisher, E. W. Kornfeld",
+            "Object number": "1164.1964.42",
+            "Copyright": "\u00a9 2023 Robert Rauschenberg Foundation",
+            "Illustrated book": "1\u00a2 Life",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/4911"
+        "Profile": "https://www.moma.org/artists/4823"
+    },
+    {
+        "Artist": "Robert Rauschenberg",
+        "Title": "Front Roll",
+        "Year": "1964",
+        "ObjectID": "70545",
+        "Work": "https://www.moma.org/collection/works/70545",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyMzA1MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d7572f5c1d29621e",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition: 36 3/4 x 27 3/4\" (93.3 x 70.5cm); sheet: 41 1/4 x 29 13/16\" (104.8 x 75.8cm)",
+            "Publisher": "Universal Limited Art Editions, West Islip, New York",
+            "Printer": "Universal Limited Art Editions, West Islip, New York",
+            "Edition": "39",
+            "Credit": "Gift of the Celeste and Armand Bartos Foundation",
+            "Object number": "525.1964",
+            "Copyright": "\u00a9 2023 Robert Rauschenberg Foundation",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4823"
+    },
+    {
+        "Artist": "Robert Rauschenberg",
+        "Title": "Breakthrough I",
+        "Year": "1964",
+        "ObjectID": "72508",
+        "Work": "https://www.moma.org/collection/works/72508",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNTE1OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=63787330ab1eddc2",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition: 41 1/2 x 29 7/8\" (105.4 x 75.9cm); sheet: 41 1/2 x 29 7/8\" (105.4 x 75.9cm)",
+            "Publisher": "Universal Limited Art Editions, West Islip, New York",
+            "Printer": "Universal Limited Art Editions, West Islip, New York",
+            "Edition": "20",
+            "Credit": "Gift of the Celeste and Armand Bartos Foundation",
+            "Object number": "647.1964",
+            "Copyright": "\u00a9 2023 Robert Rauschenberg Foundation",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4823"
+    },
+    {
+        "Artist": "Robert Rauschenberg",
+        "Title": "Kip-Up",
+        "Year": "1964",
+        "ObjectID": "72532",
+        "Work": "https://www.moma.org/collection/works/72532",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyMzA1NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7ef475e3cf115719",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition: 39 1/2 x 29 3/4\" (100.3 x 75.6cm); sheet: 41 1/8 x 29 3/4\" (104.5 x 75.6cm)",
+            "Publisher": "Universal Limited Art Editions, West Islip, New York",
+            "Printer": "Universal Limited Art Editions, West Islip, New York",
+            "Edition": "33",
+            "Credit": "Gift of the Celeste and Armand Bartos Foundation",
+            "Object number": "648.1964",
+            "Copyright": "\u00a9 2023 Robert Rauschenberg Foundation",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4823"
+    },
+    {
+        "Artist": "Robert Rauschenberg",
+        "Title": "Spot",
+        "Year": "1964",
+        "ObjectID": "72546",
+        "Work": "https://www.moma.org/collection/works/72546",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyMTk2OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=276cdd703376ea4e",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition: 39 15/16 x 29 5/8\" (101.5 x 75.3cm); sheet: 41 1/4 x 29 5/8\" (104.7 x 75.3cm)",
+            "Publisher": "Universal Limited Art Editions, West Islip, New York",
+            "Printer": "Universal Limited Art Editions, West Islip, New York",
+            "Edition": "37",
+            "Credit": "Gift of the Celeste and Armand Bartos Foundation",
+            "Object number": "649.1964",
+            "Copyright": "\u00a9 2023 Robert Rauschenberg Foundation",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4823"
+    },
+    {
+        "Artist": "Robert Rauschenberg",
+        "Title": "Plank, supplementary plate for the deluxe edition of the illustrated book, Rauschenberg: XXXIV Drawings for Dante's Inferno",
+        "Year": "1964",
+        "ObjectID": "72573",
+        "Work": "https://www.moma.org/collection/works/72573",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwMDAzOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2e863b0ed7716062",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition (irreg.): 14 x 15 13/16\" (35.6 x 40.2 cm); sheet (irreg.): 15 3/4 x 16 3/8\" (40 x 41.6 cm)",
+            "Publisher": "Universal Limited Art Editions, West Islip, New York",
+            "Printer": "Universal Limited Art Editions, West Islip, New York",
+            "Edition": "43",
+            "Credit": "Gift of the Celeste and Armand Bartos Foundation",
+            "Object number": "651.1964",
+            "Copyright": "\u00a9 2023 Robert Rauschenberg Foundation",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4823"
+    },
+    {
+        "Artist": "Robert Rauschenberg",
+        "Title": "Mark, supplementary plate for the deluxe edition of the illustrated book, Rauschenberg: XXXIV Drawings for Dante's Inferno",
+        "Year": "1964",
+        "ObjectID": "72594",
+        "Work": "https://www.moma.org/collection/works/72594",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyMTQyMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=75d3992eda2535dc",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition (irreg.): 13 3/4 x 16 7/16\" (35 x 41.7 cm); sheet (irreg.): 15 7/8 x 16 7/16\" (40.3 x 41.7 cm)",
+            "Publisher": "Universal Limited Art Editions, West Islip, New York",
+            "Printer": "Universal Limited Art Editions, West Islip, New York",
+            "Edition": "42",
+            "Credit": "Gift of the Celeste and Armand Bartos Foundation",
+            "Object number": "652.1964",
+            "Copyright": "\u00a9 2023 Robert Rauschenberg Foundation",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4823"
+    },
+    {
+        "Artist": "Robert Rauschenberg",
+        "Title": "Sink, supplementary plate for the deluxe edition of the illustrated book, Rauschenberg: XXXIV Drawings for Dante's Inferno",
+        "Year": "1964",
+        "ObjectID": "72621",
+        "Work": "https://www.moma.org/collection/works/72621",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwMDAzOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=650699b4389a2ca0",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition (irreg.): 14 3/16 x 16 5/16\" (36 x 41.4 cm); sheet: 15 3/4 x 16 5/16\" (40 x 41.4 cm)",
+            "Publisher": "Universal Limited Art Editions, West Islip, New York",
+            "Printer": "Universal Limited Art Editions, West Islip, New York",
+            "Edition": "43",
+            "Credit": "Gift of the Celeste and Armand Bartos Foundation",
+            "Object number": "653.1964",
+            "Copyright": "\u00a9 2023 Robert Rauschenberg Foundation",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4823"
+    },
+    {
+        "Artist": "Robert Rauschenberg",
+        "Title": "Ark, supplementary plate for the deluxe edition of the illustrated book, Rauschenberg: XXXIV Drawings for Dante's Inferno",
+        "Year": "1964",
+        "ObjectID": "72651",
+        "Work": "https://www.moma.org/collection/works/72651",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3NjU0NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ea90125b0669d6c9",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition (irreg.): 13 15/16 x 16 1/8\" (35.4 x 41 cm); sheet: 15 3/4 x 16 1/8\" (40 x 41 cm)",
+            "Publisher": "Universal Limited Art Editions, West Islip, New York",
+            "Printer": "Universal Limited Art Editions, West Islip, New York",
+            "Edition": "44",
+            "Credit": "Gift of the Celeste and Armand Bartos Foundation",
+            "Object number": "654.1964",
+            "Copyright": "\u00a9 2023 Robert Rauschenberg Foundation",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4823"
+    },
+    {
+        "Artist": "Robert Rauschenberg",
+        "Title": "Kar, supplementary plate for the deluxe edition of the illustrated book, Rauschenberg: XXXIV Drawings for Dante's Inferno",
+        "Year": "1964",
+        "ObjectID": "72667",
+        "Work": "https://www.moma.org/collection/works/72667",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwMDA0MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8ad0ee6b87ced753",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition (irreg.): 16 1/16 x 14\" (40.8 x 35.6 cm); sheet: 16 7/16 x 15 13/16\" (41.8 x 40.2 cm)",
+            "Publisher": "Universal Limited Art Editions, West Islip, New York",
+            "Printer": "Universal Limited Art Editions, West Islip, New York",
+            "Edition": "44",
+            "Credit": "Gift of the Celeste and Armand Bartos Foundation",
+            "Object number": "655.1964",
+            "Copyright": "\u00a9 2023 Robert Rauschenberg Foundation",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4823"
+    },
+    {
+        "Artist": "Robert Rauschenberg",
+        "Title": "Rank, supplementary plate for the deluxe edition of the illustrated book, Rauschenberg: XXXIV Drawings for Dante's Inferno",
+        "Year": "1964",
+        "ObjectID": "72680",
+        "Work": "https://www.moma.org/collection/works/72680",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyMzA1NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=eaec4df8925efe20",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition: 14 x 16\" (35.5 x 40.7cm); sheet: 15 11/16 x 16\" (39.8 x 40.7cm)",
+            "Publisher": "Universal Limited Art Editions, West Islip, New York",
+            "Printer": "Universal Limited Art Editions, West Islip, New York",
+            "Edition": "43",
+            "Credit": "Gift of the Celeste and Armand Bartos Foundation",
+            "Object number": "656.1964",
+            "Copyright": "\u00a9 2023 Robert Rauschenberg Foundation",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4823"
+    },
+    {
+        "Artist": "Robert Rauschenberg",
+        "Title": "Prize, supplementary plate for the deluxe edition of the illustrated book, Rauschenberg: XXXIV Drawings for Dante's Inferno",
+        "Year": "1964",
+        "ObjectID": "72700",
+        "Work": "https://www.moma.org/collection/works/72700",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyMzA1NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5c50539441551ee6",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition: 14 x 16\" (35.5 x 40.7cm); sheet: 15 11/16 x 16\" (39.8 x 40.7cm)",
+            "Publisher": "Universal Limited Art Editions, West Islip, New York",
+            "Printer": "Universal Limited Art Editions, West Islip, New York",
+            "Edition": "43",
+            "Credit": "Gift of the Celeste and Armand Bartos Foundation",
+            "Object number": "657.1964",
+            "Copyright": "\u00a9 2023 Robert Rauschenberg Foundation",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4823"
+    },
+    {
+        "Artist": "Judit Reigl",
+        "Title": "Guano-Round",
+        "Year": "1958-64",
+        "ObjectID": "122661",
+        "Work": "https://www.moma.org/collection/works/122661",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMzI1NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c328dae63b8f4ad0",
+        "Details": {
+            "Medium": "Oil, alkyd, and acrylic on canvas",
+            "Dimensions": "6' 11 1/2\" x 69\" (212.1 x 175.3 cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "1900.2008",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/36077"
+    },
+    {
+        "Artist": "Ad Reinhardt",
+        "Title": "Untitled from X + X (Ten Works by Ten Painters)",
+        "Year": "1964",
+        "ObjectID": "62792",
+        "Work": "https://www.moma.org/collection/works/62792",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwNjE4NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ee8fd34e2c47d8ac",
+        "Details": {
+            "Medium": "One from a portfolio of ten screenprints",
+            "Dimensions": "composition: 12 x 11 15/16\" (30.5 x 30.4cm); sheet: 23 15/16 x 19 15/16\" (60.8 x 50.7cm)",
+            "Publisher": "Wadsworth Atheneum, Hartford, CT",
+            "Printer": "Ives-Sillman, Inc., New Haven, CT, Sirocco Screenprinters",
+            "Edition": "500",
+            "Credit": "Gift of Harry C. Oppenheimer (by exchange)",
+            "Object number": "139.1965.10",
+            "Copyright": "\u00a9 2023 Estate of Ad Reinhardt / Artists Rights Society (ARS), New York",
+            "Portfolio": "X + X (Ten Works by Ten Painters)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4856"
+    },
+    {
+        "Artist": "Reinhoud (Reinhoud D'haese)",
+        "Title": "Double page in-text plate (pages 126 and 127) from 1\u00a2 Life",
+        "Year": "1964",
+        "ObjectID": "32104",
+        "Work": "https://www.moma.org/collection/works/32104",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ5MTI3MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ab4daba667f04c3b",
+        "Details": {
+            "Author": "Walasse Ting",
+            "Medium": "Lithograph from an illustrated book with sixty-two lithographs and reproductions",
+            "Dimensions": "composition (irreg.): 13 15/16 \u00d7 16 1/8\" (35.4 \u00d7 40.9 cm); sheet (irreg.): 16 1/8 \u00d7 22 13/16\" (41 \u00d7 58 cm)",
+            "Publisher": "Eberhard W. Kornfeld, Bern, Switzerland",
+            "Printer": "Maurice Beaudet",
+            "Edition": "100 special, 2,000 regular",
+            "Credit": "Gift of the author, Walasse Ting, the editor, Sam Francis, and the publisher, E. W. Kornfeld",
+            "Object number": "1164.1964.47",
+            "Copyright": "\u00a9 2023 Reinhoud / Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Illustrated book": "1\u00a2 Life",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4858"
+    },
+    {
+        "Artist": "Zandra Rhodes",
+        "Title": "Top Brass textile",
+        "Year": "1964",
+        "ObjectID": "223844",
+        "Work": "https://www.moma.org/collection/works/223844",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ3ODMxNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=950b3b5f9f3c3ebd",
+        "Details": {
+            "Manufacturer": "Heal Fabrics, London, U.K.",
+            "Medium": "Screen-printed cotton",
+            "Dimensions": "68 \u00d7 50\" (172.7 \u00d7 127 cm)",
+            "Credit": "Committee on Architecture and Design Funds",
+            "Object number": "585.2017",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/68833"
+    },
+    {
+        "Artist": "Hans Richter",
+        "Title": "Postcard (Addressed to Mr. and Mrs. Bernard Reis)",
+        "Year": "1964",
+        "ObjectID": "198703",
+        "Work": "https://www.moma.org/collection/works/198703",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Photocollage and ink on paper",
+            "Dimensions": "5 3/4 \u00d7 4 1/8\" (14.6 \u00d7 10.5 cm)",
+            "Credit": "Elaine Lustig Cohen Collection, gift of Lawrence Benenson and the Committee on Architecture and Design Funds",
+            "Object number": "1308.2015",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/4908"
+    },
+    {
+        "Artist": "George Rickey",
+        "Title": "Two Lines -- Temporal I",
+        "Year": "1964",
+        "ObjectID": "81518",
+        "Work": "https://www.moma.org/collection/works/81518",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwOTAyNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=da90901dd28ea8c5",
+        "Details": {
+            "Medium": "Stainless steel",
+            "Dimensions": "35' 4 5/8\" (1079 cm) high",
+            "Credit": "Mrs. Simon Guggenheim Fund",
+            "Object number": "506.1965.a-c",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/4912"
+    },
+    {
+        "Artist": "James Riddle",
+        "Title": "Instant Happenings",
+        "Year": "1964",
+        "ObjectID": "130565",
+        "Work": "https://www.moma.org/collection/works/130565",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0OTAwMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=dd45cffeb496b7d3",
+        "Details": {
+            "Medium": "Glass bottle with offset label, containing seeds",
+            "Dimensions": "overall: 2 9/16 x 1 7/16 x 1 7/16\" (6.5 x 3.7 x 3.7 cm)",
+            "Designer": "James Riddle",
+            "Publisher": "Fluxus",
+            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
+            "Object number": "3549.2008",
+            "Copyright": "\u00a9 2023 James Riddle",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4913"
+    },
+    {
+        "Artist": "Bridget Riley",
+        "Title": "Untitled ( Oval Image )",
+        "Year": "1964",
+        "ObjectID": "60712",
+        "Work": "https://www.moma.org/collection/works/60712",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3NjQ0NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=27bcd9a14bc16884",
+        "Details": {
+            "Medium": "Screenprint",
+            "Dimensions": "composition (irreg.): 20 x 4\" (50.8 x 10.2 cm); sheet: 30 1/16 x 14\" (76.3 x 35.5 cm)",
+            "Publisher": "Institute for Contemporary Art, London",
+            "Printer": "Kelpra Studios Ltd., London",
+            "Edition": "50",
+            "Credit": "Abby Aldrich Rockefeller Fund",
+            "Object number": "41.1965",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4929"
+    },
+    {
+        "Artist": "Bridget Riley",
+        "Title": "Untitled (Oval Image) from The Institute of Contemporary Arts Portfolio",
+        "Year": "1964",
+        "ObjectID": "72035",
+        "Work": "https://www.moma.org/collection/works/72035",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEwMTcyMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1d4ddccd149aca56",
+        "Details": {
+            "Medium": "Screenprint",
+            "Dimensions": "composition (irreg.): 20 \u00d7 4\" (50.8 \u00d7 10.1 cm); sheet: 30 \u00d7 14\" (76.2 \u00d7 35.6 cm)",
+            "Publisher": "Institute for Contemporary Art, London",
+            "Printer": "Kelpra Studios Ltd., London",
+            "Edition": "50",
+            "Credit": "Purchase",
+            "Object number": "625.1965",
+            "Portfolio": "The Institute of Contemporary Arts Portfolio",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4929"
+    },
+    {
+        "Artist": "Bridget Riley",
+        "Title": "Current",
+        "Year": "1964",
+        "ObjectID": "79998",
+        "Work": "https://www.moma.org/collection/works/79998",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Synthetic polymer paint on board",
+            "Dimensions": "58 3/8 x 58 7/8\" (148.1 x 149.3 cm)",
+            "Credit": "Philip Johnson Fund",
+            "Object number": "576.1964",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/4929"
+    },
+    {
+        "Artist": "Jean-Paul Riopelle",
+        "Title": "Double page in-text plate (pages 56 and 57) from 1\u00a2 Life",
+        "Year": "1964",
+        "ObjectID": "32073",
+        "Work": "https://www.moma.org/collection/works/32073",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ5MTI0MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=167dd5385b57a601",
+        "Details": {
+            "Author": "Walasse Ting",
+            "Medium": "Lithograph from an illustrated book with sixty-two lithographs and reproductions",
+            "Dimensions": "composition: 15 3/8 \u00d7 18\" (39 \u00d7 45.7 cm); sheet (irreg.): 16 1/8 \u00d7 22 13/16\" (41 \u00d7 58 cm)",
+            "Publisher": "Eberhard W. Kornfeld, Bern, Switzerland",
+            "Printer": "Maurice Beaudet",
+            "Edition": "100 special, 2,000 regular",
+            "Credit": "Gift of the author, Walasse Ting, the editor, Sam Francis, and the publisher, E. W. Kornfeld",
+            "Object number": "1164.1964.19",
+            "Copyright": "\u00a9 2023 / Artists Rights Society (ARS), New York / SODRAC, Canada",
+            "Illustrated book": "1\u00a2 Life",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4934"
+    },
+    {
+        "Artist": "Jean-Paul Riopelle",
+        "Title": "Double page plate (pages 156 and 157) from 1\u00a2 Life",
+        "Year": "1964",
+        "ObjectID": "32115",
+        "Work": "https://www.moma.org/collection/works/32115",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ5MTI4NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c44a5c143d6e5627",
+        "Details": {
+            "Author": "Walasse Ting",
+            "Medium": "Lithograph from an illustrated book with sixty-two lithographs and reproductions",
+            "Dimensions": "composition (irreg.): 15 1/16 \u00d7 21 7/8\" (38.3 \u00d7 55.6 cm); sheet (irreg.): 16 1/8 \u00d7 22 13/16\" (41 \u00d7 58 cm)",
+            "Publisher": "Eberhard W. Kornfeld, Bern, Switzerland",
+            "Printer": "Maurice Beaudet",
+            "Edition": "100 special, 2,000 regular",
+            "Credit": "Gift of the author, Walasse Ting, the editor, Sam Francis, and the publisher, E. W. Kornfeld",
+            "Object number": "1164.1964.57",
+            "Copyright": "\u00a9 2023 / Artists Rights Society (ARS), New York / SODRAC, Canada",
+            "Illustrated book": "1\u00a2 Life",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4934"
     },
     {
         "Artist": "Larry Rivers",
-        "Title": "The Pool",
-        "Year": "1956",
-        "ObjectID": "78961",
-        "Work": "https://www.moma.org/collection/works/78961",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MTkzNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=155671c88e9ed0e4",
+        "Title": "Nine French Bank Notes I",
+        "Year": "1963-64",
+        "ObjectID": "72734",
+        "Work": "https://www.moma.org/collection/works/72734",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNjQ0NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=465691fab416c444",
         "Details": {
-            "Medium": "Oil, charcoal, and bronze paint on canvas",
-            "Dimensions": "8' 7 3/8\" x 7' 8 5/8\" (262.5 x 235.2 cm)",
-            "Credit": "Gift of Mr. and Mrs. Donald Weisberger",
-            "Object number": "139.1958",
+            "Medium": "Lithograph",
+            "Dimensions": "composition (irreg.): 19 3/16 x 26 1/8\" (48.7 x 66.4 cm); sheet: 22 5/8 x 31 1/2\" (57.5 x 80 cm)",
+            "Publisher": "Universal Limited Art Editions, West Islip, New York",
+            "Printer": "Universal Limited Art Editions, West Islip, New York",
+            "Edition": "26",
+            "Credit": "Gift of the Celeste and Armand Bartos Foundation",
+            "Object number": "659.1964",
             "Copyright": "\u00a9 2023 Estate of Larry Rivers/Licensed by VAGA, New York, NY",
-            "Department": "Painting and Sculpture"
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/4945"
     },
     {
-        "Artist": "Joel Robinson",
-        "Title": "Ovals textile",
-        "Year": "c. 1951",
-        "ObjectID": "223841",
-        "Work": "https://www.moma.org/collection/works/223841",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ2NjM0OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f39293071a517f30",
+        "Artist": "James Rosenquist",
+        "Title": "Double page plate (pages 20 and 21) from 1\u00a2 Life",
+        "Year": "1964",
+        "ObjectID": "32107",
+        "Work": "https://www.moma.org/collection/works/32107",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ5MTI3NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6f57cb51322b08d8",
         "Details": {
-            "Manufacturer": "L. Anton Maix Fabrics, New York, NY",
-            "Medium": "Screenprinted linen",
-            "Dimensions": "34 \u00d7 50\" (86.4 \u00d7 127 cm)",
-            "Credit": "Committee on Architecture and Design Funds",
-            "Object number": "588.2017",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/7348"
-    },
-    {
-        "Artist": "William Ronald",
-        "Title": "Saintpaulia",
-        "Year": "1956",
-        "ObjectID": "78577",
-        "Work": "https://www.moma.org/collection/works/78577",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzNjY1NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=69236f7ba61e8e92",
-        "Details": {
-            "Medium": "Oil on canvas",
-            "Dimensions": "48 x 52 3/8\" (122 x 132.9 cm)",
-            "Credit": "Blanchette Hooker Rockefeller Fund",
-            "Object number": "32.1957",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/5012"
-    },
-    {
-        "Artist": "Nelson Ronsheim",
-        "Title": "The Doodler",
-        "Year": "c. 1951",
-        "ObjectID": "4365",
-        "Work": "https://www.moma.org/collection/works/4365",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyOTk5MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=386609dfe9eb890e",
-        "Details": {
-            "Manufacturer": "Kenner Products Co.",
-            "Medium": "Plated-steel wire with glass beads",
-            "Credit": "Purchase",
-            "Object number": "550.1956",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/5013"
-    },
-    {
-        "Artist": "Emil Ruder",
-        "Title": "Joan Miro",
-        "Year": "1956",
-        "ObjectID": "8829",
-        "Work": "https://www.moma.org/collection/works/8829",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDM4MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=def5cc65bd40c628",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "50 3/8 x 35 5/8\" (128 x 90.5 cm)",
-            "Printer": "Buchdruckerei VSK, Basel",
-            "Credit": "Gift of the designer",
-            "Object number": "1532.2000",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/8397"
-    },
-    {
-        "Artist": "Eduardo Salvatore",
-        "Title": "Untitled [Varzea do Carmo housing complex, Sao Paulo]",
-        "Year": "c. 1951",
-        "ObjectID": "201383",
-        "Work": "https://www.moma.org/collection/works/201383",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0MjA3MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8725acf0e2b7d117",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "11 15/16 \u00d7 15 9/16\" (30.4 \u00d7 39.5 cm)",
-            "Credit": "Acquired through the generosity of Richard O. Rieger",
-            "Object number": "354.2016",
-            "Copyright": "\u00a9 2023 Estate of Eduardo Salvatore",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/49345"
-    },
-    {
-        "Artist": "Eduardo Salvatore",
-        "Title": "Composition in Black and White (Composicao em branco e preto)",
-        "Year": "c. 1951",
-        "ObjectID": "201384",
-        "Work": "https://www.moma.org/collection/works/201384",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0MjAyNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1c7f983db82576e6",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "13 11/16 \u00d7 10 13/16\" (34.7 \u00d7 27.5 cm)",
-            "Credit": "Acquired through the generosity of Ramiro Ortiz through the Latin American and Caribbean Fund",
-            "Object number": "352.2016",
-            "Copyright": "\u00a9 2023 Estate of Eduardo Salvatore",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/49345"
-    },
-    {
-        "Artist": "Emilio Sanchez",
-        "Title": "Jamaican Women",
-        "Year": "1956",
-        "ObjectID": "62369",
-        "Work": "https://www.moma.org/collection/works/62369",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MTUxNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b860db61c45c5b8a",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "composition: 13 7/8 x 10 5/8\" (35.3 x 27 cm); sheet: 18 11/16 x 13\" (47.4 x 33 cm)",
-            "Credit": "Inter-American Fund",
-            "Object number": "128.1956",
+            "Author": "Walasse Ting",
+            "Medium": "Lithograph from an illustrated book with sixty-two lithographs and reproductions",
+            "Dimensions": "composition: 14 15/16 \u00d7 21 1/4\" (37.9 \u00d7 54 cm); sheet (irreg.): 16 1/8 \u00d7 22 13/16\" (41 \u00d7 58 cm)",
+            "Publisher": "Eberhard W. Kornfeld, Bern, Switzerland",
+            "Printer": "Maurice Beaudet",
+            "Edition": "100 special, 2,000 regular",
+            "Credit": "Gift of the author, Walasse Ting, the editor, Sam Francis, and the publisher, E. W. Kornfeld",
+            "Object number": "1164.1964.5",
+            "Copyright": "\u00a9 2023 James Rosenquist/Licensed by VAGA, New York, NY",
+            "Illustrated book": "1\u00a2 Life",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/5140"
+        "Profile": "https://www.moma.org/artists/5021"
     },
     {
-        "Artist": "Willem Jacob Henri Berend Sandberg",
-        "Title": "Vrolijke Vrouwentooi",
-        "Year": "1956",
-        "ObjectID": "8831",
-        "Work": "https://www.moma.org/collection/works/8831",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDM4MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5a6ad06bb8ba0d9d",
+        "Artist": "Ed Rossbach",
+        "Title": "Tapestry",
+        "Year": "1964",
+        "ObjectID": "3054",
+        "Work": "https://www.moma.org/collection/works/3054",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMzM3MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7c0a9f0d457f327c",
         "Details": {
-            "Medium": "Letterpress",
-            "Dimensions": "39 1/2 x 27 1/4\" (100.3 x 69.2 cm)",
-            "Credit": "Gift of the designer",
-            "Object number": "1534.2000",
+            "Medium": "Raffia",
+            "Dimensions": "71 x 45\" (180.4 x 114.3 cm)",
+            "Credit": "Greta Daniel Design Fund",
+            "Object number": "249.1965",
             "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/5144"
+        "Profile": "https://www.moma.org/artists/5032"
     },
     {
-        "Artist": "Timo Sarpaneva",
-        "Title": "Platter",
-        "Year": "1956",
-        "ObjectID": "3069",
-        "Work": "https://www.moma.org/collection/works/3069",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyOTA1MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=834f661f3d667ddf",
+        "Artist": "Dieter Roth",
+        "Title": "Plate (folio 3) from Book AC",
+        "Year": "1958-64, published 1964",
+        "ObjectID": "19053",
+        "Work": "https://www.moma.org/collection/works/19053",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0MTYzMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=83f404104c7b9823",
         "Details": {
-            "Manufacturer": "Iittala Glassworks, Iittala, Finland",
-            "Medium": "Steam-blown glass",
-            "Dimensions": "diam. 12 1/4\" (31.1 cm)",
-            "Credit": "Phyllis B. Lambert Fund",
-            "Object number": "252.1958",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/5168"
-    },
-    {
-        "Artist": "Timo Sarpaneva",
-        "Title": "Carafe",
-        "Year": "1956",
-        "ObjectID": "3169",
-        "Work": "https://www.moma.org/collection/works/3169",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMDk1NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=74f7bc2d71b2910d",
-        "Details": {
-            "Manufacturer": "Iittala Glassworks, Iittala, Finland",
-            "Medium": "Glass",
-            "Dimensions": "7 5/8 x 3 5/8\" (19.4 x 9.2 cm)",
-            "Credit": "Phyllis B. Lambert Fund",
-            "Object number": "276.1958",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/5168"
-    },
-    {
-        "Artist": "Timo Sarpaneva",
-        "Title": "Tumbler (model i-103)",
-        "Year": "1956",
-        "ObjectID": "4437",
-        "Work": "https://www.moma.org/collection/works/4437",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMTg3NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=58baf2f4a542d37b",
-        "Details": {
-            "Manufacturer": "Iittala Glassworks, Iittala, Finland",
-            "Medium": "Blown glass",
-            "Dimensions": "2 13/16 x 2 1/4\" (7.1 x 5.7 cm)",
-            "Credit": "Purchase",
-            "Object number": "742.1983",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/5168"
-    },
-    {
-        "Artist": "Peter Schlumbohm",
-        "Title": "Tellid",
-        "Year": "1956",
-        "ObjectID": "4687",
-        "Work": "https://www.moma.org/collection/works/4687",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDIyNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=01eb9ae9c9a3dd6b",
-        "Details": {
-            "Manufacturer": "Chemex Corp., New York, NY",
-            "Medium": "Glass and plastic",
-            "Dimensions": "7 5/8 x 8 1/2\" (19.4 x 21.6cm)",
-            "Credit": "Gift of the manufacturer",
-            "Object number": "1324.2001",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/5225"
-    },
-    {
-        "Artist": "Peter Schlumbohm",
-        "Title": "Flask",
-        "Year": "1956",
-        "ObjectID": "4689",
-        "Work": "https://www.moma.org/collection/works/4689",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMjAyNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9f20cae5a0b2a802",
-        "Details": {
-            "Manufacturer": "Chemex Corp., New York, NY",
-            "Medium": "Glass and cork",
-            "Dimensions": ".a (flask): 10 1/8 x 4\" (25.7 x 10.2 cm)\r\n.b (stopper): 1 1/2 x 2 1/2\" (3.8 x 6.4 cm)",
-            "Credit": "Gift of the manufacturer",
-            "Object number": "1326.2001.a-b",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/5225"
-    },
-    {
-        "Artist": "William Scott",
-        "Title": "Still Life with Strainer",
-        "Year": "1956",
-        "ObjectID": "36533",
-        "Work": "https://www.moma.org/collection/works/36533",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4MjY4OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=29e9cff07299a416",
-        "Details": {
-            "Medium": "Charcoal on paper",
-            "Dimensions": "22 x 30\" (55.9 x 76.0 cm)",
-            "Credit": "Gift of Mrs. Gilbert W. Chapman",
-            "Object number": "368.1975",
+            "Medium": "One from an artist's book of twenty-four die-cuts",
+            "Dimensions": "composition (irreg.): 10 5/8 x 7 15/16\" (27 x 20.2cm); sheet: 16 x 16\" (40.7 x 40.7 cm)",
+            "Publisher": "Ives-Sillman, New Haven, CT",
+            "Fabricator": "Ives-Sillman, New Haven, CT",
+            "Edition": "250",
+            "Credit": "Monroe Wheeler Fund",
+            "Object number": "584.1966.1",
+            "Copyright": "\u00a9 2023 Estate of Dieter Roth",
+            "Illustrated book": "Book AC",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/5303"
+        "Profile": "https://www.moma.org/artists/5042"
     },
     {
-        "Artist": "Sonja Sekula",
-        "Title": "The Voyage",
-        "Year": "1956",
-        "ObjectID": "407904",
-        "Work": "https://www.moma.org/collection/works/407904",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ4ODk0NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fa9e191f3ecfb335",
+        "Artist": "Dieter Roth",
+        "Title": "Book AC",
+        "Year": "1958-64, published 1964",
+        "ObjectID": "19054",
+        "Work": "https://www.moma.org/collection/works/19054",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjc1OTg4Il0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNTEyeDUxMlx1MDAzZSJdXQ.jpg?sha=8335b796b25be2ef",
         "Details": {
-            "Medium": "Ink and watercolor on paper",
-            "Dimensions": "12 1/2 \u00d7 9 1/2\" (31.8 \u00d7 24.1 cm)",
-            "Credit": "Acquired through the generosity of the Contemporary Drawing and Print Associates",
-            "Object number": "24.2020",
+            "Medium": "Artist's book of twenty-four die-cuts",
+            "Dimensions": "sheet (each): 16 x 16\" (40.7 x 40.7 cm); overall (box): 16 5/8 x 16 3/4 x 11/16\" (42.3 x 42.6 x 1.7 cm)",
+            "Publisher": "Ives-Sillman, New Haven, CT",
+            "Fabricator": "Ives-Sillman, New Haven, CT",
+            "Edition": "250",
+            "Credit": "Monroe Wheeler Fund",
+            "Object number": "584.1966.1-24",
+            "Copyright": "\u00a9 2023 Estate of Dieter Roth",
+            "Type": "Illustrated Book",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/5332"
+        "Profile": "https://www.moma.org/artists/5042"
     },
     {
-        "Artist": "Luis Seoane",
-        "Title": "Suerte de Toros",
-        "Year": "1925",
-        "ObjectID": "74233",
-        "Work": "https://www.moma.org/collection/works/74233",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ3MjA5NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0376a8d715984aaf",
+        "Artist": "Dieter Roth",
+        "Title": "Plate (folio 12) from Book AC",
+        "Year": "1958-64, published 1964",
+        "ObjectID": "19055",
+        "Work": "https://www.moma.org/collection/works/19055",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0MTY0MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=696b1d0083245725",
         "Details": {
-            "Medium": "Wood engraving",
-            "Dimensions": "composition: 5 13/16 \u00d7 7 9/16\" (14.8 \u00d7 19.2 cm); sheet: 15 1/4 \u00d7 12 7/8\" (38.8 \u00d7 32.7 cm)",
-            "Edition": "unknown",
-            "Credit": "Inter-American Fund",
-            "Object number": "807.1956",
+            "Medium": "One from an artist's book of twenty-four die-cuts",
+            "Dimensions": "composition (irreg.): 5 7/8 x 6 5/8\" (15 x 16.9cm); sheet: 16 x 16\" (40.7 x 40.7 cm)",
+            "Publisher": "Ives-Sillman, New Haven, CT",
+            "Fabricator": "Ives-Sillman, New Haven, CT",
+            "Edition": "250",
+            "Credit": "Monroe Wheeler Fund",
+            "Object number": "584.1966.10",
+            "Copyright": "\u00a9 2023 Estate of Dieter Roth",
+            "Illustrated book": "Book AC",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/5343"
+        "Profile": "https://www.moma.org/artists/5042"
     },
     {
-        "Artist": "Ben Shahn",
-        "Title": "Mine Building",
-        "Year": "1956",
-        "ObjectID": "66101",
-        "Work": "https://www.moma.org/collection/works/66101",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3NjM4MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=edfc4dc3045908f9",
+        "Artist": "Dieter Roth",
+        "Title": "Plate (folio 13) from Book AC",
+        "Year": "1958-64, published 1964",
+        "ObjectID": "19056",
+        "Work": "https://www.moma.org/collection/works/19056",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0MTY0MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a0e44760208f33ef",
         "Details": {
-            "Medium": "Screenprint with hand additions",
-            "Dimensions": "composition (irreg.): 17 3/8 x 28 9/16\" (44.2 x 72.5 cm); sheet: 21 1/8 x 30 7/8\" (53.7 x 78.4 cm)",
-            "Publisher": "probably Ben Shahn",
-            "Printer": "probably Ben Shahn",
-            "Edition": "unknown",
-            "Credit": "Junior Council Fund",
-            "Object number": "288.1967",
+            "Medium": "One from an artist's book of twenty-four die-cuts",
+            "Dimensions": "composition (irreg.): 6 5/8 x 7 15/16\" (16.9 x 20.2cm); sheet: 16 x 16\" (40.7 x 40.7 cm)",
+            "Publisher": "Ives-Sillman, New Haven, CT",
+            "Fabricator": "Ives-Sillman, New Haven, CT",
+            "Edition": "250",
+            "Credit": "Monroe Wheeler Fund",
+            "Object number": "584.1966.11",
+            "Copyright": "\u00a9 2023 Estate of Dieter Roth",
+            "Illustrated book": "Book AC",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/5366"
+        "Profile": "https://www.moma.org/artists/5042"
     },
     {
-        "Artist": "Robert F. Sheehan, 3rd",
-        "Title": "Switch Points, Port Jefferson, Lond Island",
-        "Year": "August 1956",
-        "ObjectID": "51091",
-        "Work": "https://www.moma.org/collection/works/51091",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMzUxMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7c34cd8907df6621",
+        "Artist": "Dieter Roth",
+        "Title": "Plate (folio 14) from Book AC",
+        "Year": "1958-64, published 1964",
+        "ObjectID": "19057",
+        "Work": "https://www.moma.org/collection/works/19057",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0MTY0MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=74eac669c37db4cd",
         "Details": {
-            "Medium": "Silver dye bleach",
-            "Dimensions": "6 1/4 \u00d7 9 5/16\" (15.8 \u00d7 23.6 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "336.1959",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/18151"
-    },
-    {
-        "Artist": "Robert F. Sheehan, 3rd",
-        "Title": "Sawn Tree, Cross River",
-        "Year": "October 1956",
-        "ObjectID": "51217",
-        "Work": "https://www.moma.org/collection/works/51217",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMzUyMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=908a70091c6317b9",
-        "Details": {
-            "Medium": "Silver dye bleach",
-            "Dimensions": "6 1/4 \u00d7 9 3/8\" (15.9 \u00d7 23.8 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "339.1959",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/18151"
-    },
-    {
-        "Artist": "Ellen Siegel",
-        "Title": "Casement Cloth",
-        "Year": "1956",
-        "ObjectID": "2036",
-        "Work": "https://www.moma.org/collection/works/2036",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ3Nzk1MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0296ff6cdf7050ef",
-        "Details": {
-            "Manufacturer": "J.H. Thorp & Co., Inc., New York, NY",
-            "Medium": "Saran",
-            "Dimensions": "42 x 50 1/2\" (106.7 x 128.2 cm)",
-            "Credit": "Given anonymously",
-            "Object number": "505.1975",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/7360"
-    },
-    {
-        "Artist": "Aaron Siskind",
-        "Title": "Pleasures and Terrors of Levitation 55",
-        "Year": "1956",
-        "ObjectID": "48676",
-        "Work": "https://www.moma.org/collection/works/48676",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMDI5OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fb7ff1d310620525",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "9 7/8 \u00d7 9 1/2\" (25.1 \u00d7 24.2 cm)",
-            "Credit": "Gift of Robert and Joyce Menschel",
-            "Object number": "216.1979",
-            "Copyright": "\u00a9 2023 Estate of Aaron Siskind",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/5456"
-    },
-    {
-        "Artist": "Aaron Siskind",
-        "Title": "Chicago",
-        "Year": "1956",
-        "ObjectID": "49256",
-        "Work": "https://www.moma.org/collection/works/49256",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4NDE4MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0305fafed1d6e588",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "13 3/8 \u00d7 10 1/2\" (34.0 \u00d7 26.5 cm)",
-            "Credit": "Gift of Robert and Joyce Menschel",
-            "Object number": "232.1979",
-            "Copyright": "\u00a9 2023 Estate of Aaron Siskind",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/5456"
-    },
-    {
-        "Artist": "David Smith",
-        "Title": "History of LeRoy Borton",
-        "Year": "February 17, 1956",
-        "ObjectID": "81048",
-        "Work": "https://www.moma.org/collection/works/81048",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwNjIwMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6720807b76727cac",
-        "Details": {
-            "Medium": "Painted steel and found metal elements",
-            "Dimensions": "7' 4 1/4\" x 26 3/4\" x 24 1/2\" (224.1 x 67.9 x 62.2 cm)",
-            "Credit": "Mrs. Simon Guggenheim Fund",
-            "Object number": "159.1957",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/5480"
-    },
-    {
-        "Artist": "David Smith",
-        "Title": "Chicago Circle",
-        "Year": "1955-56",
-        "ObjectID": "81257",
-        "Work": "https://www.moma.org/collection/works/81257",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2ODYyOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=09874dc08ac29dc6",
-        "Details": {
-            "Medium": "Bronze",
-            "Dimensions": "11 (27.9 cm) in diameter x 3/4\" (1.9 cm) in depth",
-            "Credit": "Given anonymously",
-            "Object number": "268.1957",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/5480"
-    },
-    {
-        "Artist": "Jesus Rafael Soto",
-        "Title": "Double Transparency",
-        "Year": "1956",
-        "ObjectID": "205998",
-        "Work": "https://www.moma.org/collection/works/205998",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQzNDEwOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f807858c60ac2a88",
-        "Details": {
-            "Medium": "Oil on plexiglass and wood with metal rods and bolts",
-            "Dimensions": "21 5/8 \u00d7 21 5/8 \u00d7 12 5/8\" (55 \u00d7 55 \u00d7 32 cm)",
-            "Credit": "Gift of Patricia Phelps de Cisneros through the Latin American and Caribbean Fund in honor of Ana Teresa Arismendi",
-            "Object number": "872.2016",
-            "Copyright": "\u00a9 2023 / Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/5535"
-    },
-    {
-        "Artist": "Pierre Soulages",
-        "Title": "Painting",
-        "Year": "August 1, 1956",
-        "ObjectID": "78497",
-        "Work": "https://www.moma.org/collection/works/78497",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3NTk4MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=380973db634458f2",
-        "Details": {
-            "Medium": "Oil on canvas",
-            "Dimensions": "59 1/4\" x 6' 4 3/4\" (150.5 x 195 cm)",
-            "Credit": "Gift of Mr. and Mrs. Samuel M. Kootz",
-            "Object number": "23.1959",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/5538"
-    },
-    {
-        "Artist": "Elizabeth Sparhawk-Jones",
-        "Title": "Startled Woman",
-        "Year": "c. 1956?",
-        "ObjectID": "79778",
-        "Work": "https://www.moma.org/collection/works/79778",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4Njc1NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=642048ebfeea4281",
-        "Details": {
-            "Medium": "Oil on canvas",
-            "Dimensions": "19 x 26 1/8\" (48.2 x 66.2 cm)",
-            "Credit": "Larry Aldrich Foundation Fund",
-            "Object number": "455.1964",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/5556"
-    },
-    {
-        "Artist": "Richard Stankiewicz",
-        "Title": "Urchin in the Grass",
-        "Year": "1956",
-        "ObjectID": "81879",
-        "Work": "https://www.moma.org/collection/works/81879",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwOTMwMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1b5b87cd7295bf7e",
-        "Details": {
-            "Medium": "Iron and steel",
-            "Dimensions": "23 5/8 x 16 1/2 x 13\" (59.9 x 41.7 x  32.8 cm) including steel base",
-            "Credit": "Gift of Philip Johnson",
-            "Object number": "797.1969",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/5601"
-    },
-    {
-        "Artist": "Louis Stettner",
-        "Title": "Street Signs, Saratoga Springs",
-        "Year": "1956",
-        "ObjectID": "55118",
-        "Work": "https://www.moma.org/collection/works/55118",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1Mjk1NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b18e34e17c39af86",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "10 3/4 \u00d7 7\" (27.5 \u00d7 17.8 cm)",
-            "Credit": "The Family of Man Fund",
-            "Object number": "558.1973",
-            "Copyright": "\u00a9 2023 Estate of Louis Stettner",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/5658"
-    },
-    {
-        "Artist": "Richard Sussmuth",
-        "Title": "Straw Glass Series Champagne Glass",
-        "Year": "1956",
-        "ObjectID": "4702",
-        "Work": "https://www.moma.org/collection/works/4702",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDIzMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=10706d06f3e20d82",
-        "Details": {
-            "Manufacturer": "Richard S\u00fcssmuth Glash\u00fctte, Immenhausen, Germany",
-            "Medium": "Glass",
-            "Dimensions": "3 5/8 x 3 3/4\" (9.2 x 9.5 cm)",
-            "Credit": "Gift of the manufacturer",
-            "Object number": "1339.2001.1",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/5736"
-    },
-    {
-        "Artist": "Richard Sussmuth",
-        "Title": "Straw Glass Series Glasses",
-        "Year": "1956",
-        "ObjectID": "4703",
-        "Work": "https://www.moma.org/collection/works/4703",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDIzNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=682886fc8d6e755b",
-        "Details": {
-            "Manufacturer": "Richard S\u00fcssmuth Glash\u00fctte, Immenhausen, Germany",
-            "Medium": "Glass",
-            "Dimensions": ".1 (champagne glass): 3 5/8 x 3 3/4\" (9.2 x 9.5 cm)\r\n.2 (wine glass): 5 1/4 x 3\" (13.4 x 7.6 cm)",
-            "Credit": "Gift of the manufacturer",
-            "Object number": "1339.2001.1-2",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/5736"
-    },
-    {
-        "Artist": "Richard Sussmuth",
-        "Title": "Straw Glass Series Wine Glass",
-        "Year": "1956",
-        "ObjectID": "4704",
-        "Work": "https://www.moma.org/collection/works/4704",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDIzNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0d8fa284724fd229",
-        "Details": {
-            "Manufacturer": "Richard S\u00fcssmuth Glash\u00fctte, Immenhausen, Germany",
-            "Medium": "Glass",
-            "Dimensions": "5 1/4 x 3\" (13.3 x 7.6 cm)",
-            "Credit": "Gift of the manufacturer",
-            "Object number": "1339.2001.2",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/5736"
-    },
-    {
-        "Artist": "Atsuko Tanaka",
-        "Title": "Untitled",
-        "Year": "1956",
-        "ObjectID": "128480",
-        "Work": "https://www.moma.org/collection/works/128480",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4MjY2OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d75dfc92460a379e",
-        "Details": {
-            "Medium": "Crayon, watercolor, and felt-tip pen on paper",
-            "Dimensions": "42 7/8 x 30 3/8\" (108.9 x 77.2 cm)",
-            "Credit": "Purchased with funds provided by the Edward John Noble Foundation, Frances Keech Fund, and Committee on Drawings Funds",
-            "Object number": "21.2010",
-            "Copyright": "\u00a9 2023 Ryoji Ito",
+            "Medium": "One from an artist's book of twenty-four die-cuts",
+            "Dimensions": "composition (irreg.): 10 5/8 x 7 15/16\" (27 x 20.2cm); sheet: 16 x 16\" (40.7 x 40.7 cm)",
+            "Publisher": "Ives-Sillman, New Haven, CT",
+            "Fabricator": "Ives-Sillman, New Haven, CT",
+            "Edition": "250",
+            "Credit": "Monroe Wheeler Fund",
+            "Object number": "584.1966.12",
+            "Copyright": "\u00a9 2023 Estate of Dieter Roth",
+            "Illustrated book": "Book AC",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/5799"
-    },
-    {
-        "Artist": "Yves Tanguy",
-        "Title": "Tailpiece from Un Poeme dans chaque livre",
-        "Year": "1956",
-        "ObjectID": "31669",
-        "Work": "https://www.moma.org/collection/works/31669",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQwMTk1NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=bff1a46d2fd4ac3a",
-        "Details": {
-            "Author": "Paul \u00c9luard",
-            "Medium": "Etching from an illustrated book with seven etchings (three with aquatint, one with aquatint, drypoint, engraving, and roulette), three drypoints (one with engraving), two aquatints, two woodcuts, one engraving, and one lithograph",
-            "Dimensions": "composition (irreg.): 3 1/2 \u00d7 4 11/16\" (8.9 \u00d7 11.9 cm); page: 7 1/2 \u00d7 7 1/16\" (19 \u00d7 18 cm)",
-            "Publisher": "Louis Broder, Paris",
-            "Printer": "Roger Lacouri\u00e8re",
-            "Edition": "100",
-            "Credit": "The Louis E. Stern Collection",
-            "Object number": "1100.1964.16",
-            "Copyright": "\u00a9 2023 Estate of Yves Tanguy / Artists Rights Society (ARS), New York",
-            "Illustrated book": "Un Po\u00e8me dans chaque livre",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5804"
-    },
-    {
-        "Artist": "Antoni Tapies",
-        "Title": "Space",
-        "Year": "1956",
-        "ObjectID": "78522",
-        "Work": "https://www.moma.org/collection/works/78522",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MTQwNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9a6f0cbfde793c20",
-        "Details": {
-            "Medium": "Latex paint with marble dust on canvas",
-            "Dimensions": "6' 4 5/8\" x 67\" (194.6 x 170 cm)",
-            "Credit": "Gift of Mrs. Martha Jackson",
-            "Object number": "27.1959",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/5809"
-    },
-    {
-        "Artist": "Steven Trefonides",
-        "Title": "Life and Death in the Home for the Aged: Number 3",
-        "Year": "1941-56",
-        "ObjectID": "51878",
-        "Work": "https://www.moma.org/collection/works/51878",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMTEzOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5035a0cce4fbe30b",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "13 1/2 \u00d7 13 3/4\" (34.5 \u00d7 35.1 cm)",
-            "Credit": "Purchase",
-            "Object number": "367.1959",
-            "Copyright": "\u00a9 2023 Steven Trefonides",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/5925"
-    },
-    {
-        "Artist": "Tri-State Plastic Molding Co., Henderson, KY",
-        "Title": "Canister with Cover",
-        "Year": "c. 1953",
-        "ObjectID": "4331",
-        "Work": "https://www.moma.org/collection/works/4331",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMTYyMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2f3b34b3c1c2f6ab",
-        "Details": {
-            "Manufacturer": "Tri-State Plastic Molding Co., Henderson, KY",
-            "Medium": "Clear and opaque yellow plastic",
-            "Dimensions": "overall: 6 1/4 x 5 3/8\" (15.9 x 13.7 cm)",
-            "Credit": "Purchase",
-            "Object number": "530.1956.a-b",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/10999"
-    },
-    {
-        "Artist": "Earl S. Tupper",
-        "Title": "Spice Container",
-        "Year": "c. 1954",
-        "ObjectID": "4285",
-        "Work": "https://www.moma.org/collection/works/4285",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxODAwMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ceaf9c1f6e308533",
-        "Details": {
-            "Manufacturer": "Tupper Corporation, Farnumsville, MA",
-            "Medium": "Polyethylene",
-            "Dimensions": "2 1/2 x 2 1/8\" (6.4 x 5.4 cm)",
-            "Credit": "Gift of the manufacturer",
-            "Object number": "516.1956.a-b",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/5970"
-    },
-    {
-        "Artist": "Unidentified Designer",
-        "Title": "Album cover for The Art of Jazz Piano",
-        "Year": "1956",
-        "ObjectID": "184706",
-        "Work": "https://www.moma.org/collection/works/184706",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzMTg3OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ade50f6125a02c95",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "12 x 12\" (30.5 x 30.5 cm)",
-            "Credit": "Committee on Architecture and Design Funds",
-            "Object number": "844.2014",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/6011"
-    },
-    {
-        "Artist": "Unidentified Designer",
-        "Title": "Blanket Pin",
-        "Year": "Before 1956",
-        "ObjectID": "4363",
-        "Work": "https://www.moma.org/collection/works/4363",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMTYzOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c776c517baf1a1d9",
-        "Details": {
-            "Manufacturer": "Unidentified American Manufacturer",
-            "Medium": "Steel",
-            "Dimensions": "3 3/4\" (9.5 cm)",
-            "Credit": "Department Purchase",
-            "Object number": "549.1956",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/6021"
-    },
-    {
-        "Artist": "Unidentified Designer",
-        "Title": "Tumbler",
-        "Year": "Before 1954",
-        "ObjectID": "4356",
-        "Work": "https://www.moma.org/collection/works/4356",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMTYzMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=35af76d39e4f4bc1",
-        "Details": {
-            "Manufacturer": "Unidentified Netherlandish Manufacturer",
-            "Medium": "Polyethylene",
-            "Dimensions": "3 1/2 x 2 3/4\" (8.9 x 7 cm)",
-            "Credit": "Gift of Philip Johnson",
-            "Object number": "542.1956",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/6015"
-    },
-    {
-        "Artist": "Unidentified Designer",
-        "Title": "Tumbler",
-        "Year": "Before 1954",
-        "ObjectID": "4357",
-        "Work": "https://www.moma.org/collection/works/4357",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMTYzNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=70029cd6eab83cd2",
-        "Details": {
-            "Manufacturer": "Unidentified Netherlandish Manufacturer",
-            "Medium": "Plastic",
-            "Dimensions": "3 1/2 x 2 3/4\" (8.9 x 7 cm)",
-            "Credit": "Gift of Philip Johnson",
-            "Object number": "543.1956",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/6015"
-    },
-    {
-        "Artist": "Unidentified Designer",
-        "Title": "Measuring Spoon and Scale (Ladle and Stand)",
-        "Year": "c.1955",
-        "ObjectID": "4268",
-        "Work": "https://www.moma.org/collection/works/4268",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMTU4MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2d4ab9f99f4ff0c2",
-        "Details": {
-            "Manufacturer": "Unidentified French Manufacturer",
-            "Medium": "Cast aluminum",
-            "Dimensions": "Overall: h. 3 1/4 x l. 13\" (h. 8.2 x l. 33 cm)\r\n.a (stand): h. 3 1/4\" (8.3 cm)\r\n.b (ladle): l. 13 x w. 4 1/2\" (33 x 11.4 cm)",
-            "Credit": "Gift of H. A. Mack & Co. Inc.",
-            "Object number": "508.1956.a-b",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/6013"
+        "Profile": "https://www.moma.org/artists/5042"
     }
 ]

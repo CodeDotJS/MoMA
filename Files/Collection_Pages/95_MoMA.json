@@ -1,386 +1,386 @@
 [
     {
-        "Artist": "Adrian Paci",
-        "Title": "Untitled from She",
+        "Artist": "Juan Usle",
+        "Title": "Untitled from Pisuena",
+        "Year": "2009",
+        "ObjectID": "199578",
+        "Work": "https://www.moma.org/collection/works/199578",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0MDU0MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cb4e488116dfdac6"
+    },
+    {
+        "Artist": "Juan Usle",
+        "Title": "Untitled from Pisuena",
+        "Year": "2009",
+        "ObjectID": "199579",
+        "Work": "https://www.moma.org/collection/works/199579",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0MDUzMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=890d47bc16d414fb"
+    },
+    {
+        "Artist": "Various Artists",
+        "Title": "Mercersound",
+        "Year": "2009",
+        "ObjectID": "184324",
+        "Work": "https://www.moma.org/collection/works/184324",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQyNDM4NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6bf12e547d394d3f"
+    },
+    {
+        "Artist": "Various Artists, Tomma Abts, Zoe Leonard, Paulina Olowska, Mai-Thu Perret, John Stezaker",
+        "Title": "Parkett no. 84",
+        "Year": "2009",
+        "ObjectID": "127865",
+        "Work": "https://www.moma.org/collection/works/127865",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5NTI1MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f9b7716ebfe7e33d"
+    },
+    {
+        "Artist": "Various Artists, Kai Althoff, Joe Bradley, Alex Hubbard, Olivier Mosset",
+        "Title": "Dispatch Portfolio #3",
+        "Year": "2009",
+        "ObjectID": "178279",
+        "Work": "https://www.moma.org/collection/works/178279",
+        "Thumbnail": null
+    },
+    {
+        "Artist": "Various Artists, Emma Amos, Eleanor Antin, Nancy Azara, Betsy Damon, Mary Beth Edelson, Lauren Ewing, Harmony Hammond, Joyce Kozloff, Diane Neumaier, Faith Ringgold, Miriam Schapiro, Carolee Schneemann, Joan Semmel, Sylvia Sleigh, Joan Snyder, Nancy Spero, May Stevens, Athena Tacha, June Wayne, Martha Wilson",
+        "Title": "Femfolio",
+        "Year": "2009",
+        "ObjectID": "134481",
+        "Work": "https://www.moma.org/collection/works/134481",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MjA3MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c12a2eae7563dcfd"
+    },
+    {
+        "Artist": "Various Artists, Maria Lassnig, Beatriz Milhazes, Jean-Luc Mylayne, Josh Smith",
+        "Title": "Parkett no. 85",
+        "Year": "2009",
+        "ObjectID": "132274",
+        "Work": "https://www.moma.org/collection/works/132274",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5NTIwOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d1ac1df86b74169a"
+    },
+    {
+        "Artist": "Sandra Vasquez de la Horra",
+        "Title": "National Hero (El Heroe nacional)",
+        "Year": "2009",
+        "ObjectID": "273577",
+        "Work": "https://www.moma.org/collection/works/273577",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQyMzQ5NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=105901e10e7320bb"
+    },
+    {
+        "Artist": "Sandra Vasquez de la Horra",
+        "Title": "Warrior (Guerrero)",
+        "Year": "2009",
+        "ObjectID": "273579",
+        "Work": "https://www.moma.org/collection/works/273579",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQyMzQ5OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=aae844d02e0cc2b6"
+    },
+    {
+        "Artist": "Danh Vo",
+        "Title": "08:43, 26.05",
+        "Year": "2009",
+        "ObjectID": "135979",
+        "Work": "https://www.moma.org/collection/works/135979",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNzQxMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3c3b9e48d4bb296d"
+    },
+    {
+        "Artist": "Danh Vo",
+        "Title": "Death Sentence",
+        "Year": "2009",
+        "ObjectID": "136185",
+        "Work": "https://www.moma.org/collection/works/136185",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM4MzQ5MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4dfcc8493b93e462"
+    },
+    {
+        "Artist": "Danh Vo",
+        "Title": "2.2.1861",
+        "Year": "2009",
+        "ObjectID": "136186",
+        "Work": "https://www.moma.org/collection/works/136186",
+        "Thumbnail": null
+    },
+    {
+        "Artist": "Margarethe von Trotta",
+        "Title": "Vision - Aus dem Leben der Hildegard von Bingen",
+        "Year": "2009",
+        "ObjectID": "202365",
+        "Work": "https://www.moma.org/collection/works/202365",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0MjUyMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b5f2f74ef6248903"
+    },
+    {
+        "Artist": "June Wayne",
+        "Title": "Zinc, Mon Amour from Femfolio",
+        "Year": "2009",
+        "ObjectID": "134578",
+        "Work": "https://www.moma.org/collection/works/134578",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MjA3NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=07128098d46d2691"
+    },
+    {
+        "Artist": "Shen Wei",
+        "Title": "Mah-Jongg Players, Chongqing",
+        "Year": "2009",
+        "ObjectID": "156958",
+        "Work": "https://www.moma.org/collection/works/156958",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1MTIyNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=83195fcef4a06cb3"
+    },
+    {
+        "Artist": "James Welling",
+        "Title": "Frolic Architecture",
+        "Year": "2009",
+        "ObjectID": "143836",
+        "Work": "https://www.moma.org/collection/works/143836",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0MDUyNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=bf811069d8959178"
+    },
+    {
+        "Artist": "James Welling",
+        "Title": "Frolic Architecture",
+        "Year": "2009",
+        "ObjectID": "155920",
+        "Work": "https://www.moma.org/collection/works/155920",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0MDUyNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cd4e32ee8c6eb152"
+    },
+    {
+        "Artist": "James Welling",
+        "Title": "17",
+        "Year": "2009",
+        "ObjectID": "168557",
+        "Work": "https://www.moma.org/collection/works/168557",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3MTk1MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2cd8e860c513d3e0"
+    },
+    {
+        "Artist": "James Welling",
+        "Title": "18",
+        "Year": "2009",
+        "ObjectID": "169595",
+        "Work": "https://www.moma.org/collection/works/169595",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3MTk1NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fa55cdeab74b68bd"
+    },
+    {
+        "Artist": "James Welling",
+        "Title": "21",
+        "Year": "2009",
+        "ObjectID": "169596",
+        "Work": "https://www.moma.org/collection/works/169596",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3MjI0NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6b49e4dcdee336af"
+    },
+    {
+        "Artist": "James Welling",
+        "Title": "23",
+        "Year": "2009",
+        "ObjectID": "169597",
+        "Work": "https://www.moma.org/collection/works/169597",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3MTk1NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3ffe04637bbbfc8e"
+    },
+    {
+        "Artist": "James Welling",
+        "Title": "24",
+        "Year": "2009",
+        "ObjectID": "169598",
+        "Work": "https://www.moma.org/collection/works/169598",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3MTk1NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0e736452bb105435"
+    },
+    {
+        "Artist": "James Welling",
+        "Title": "30",
+        "Year": "2009",
+        "ObjectID": "169599",
+        "Work": "https://www.moma.org/collection/works/169599",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3MTk1NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=da2799335efe8667"
+    },
+    {
+        "Artist": "James Welling",
+        "Title": "39",
+        "Year": "2009",
+        "ObjectID": "169600",
+        "Work": "https://www.moma.org/collection/works/169600",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3MTk1OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=960d5c7a3945f7a6"
+    },
+    {
+        "Artist": "James Welling",
+        "Title": "42",
+        "Year": "2009",
+        "ObjectID": "169601",
+        "Work": "https://www.moma.org/collection/works/169601",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3MTk1OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a091130f2974329f"
+    },
+    {
+        "Artist": "James Welling",
+        "Title": "44",
+        "Year": "2009",
+        "ObjectID": "169602",
+        "Work": "https://www.moma.org/collection/works/169602",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3MTk2MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3b806d6ee263f47d"
+    },
+    {
+        "Artist": "James Welling",
+        "Title": "46",
+        "Year": "2009",
+        "ObjectID": "169603",
+        "Work": "https://www.moma.org/collection/works/169603",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3MTk1MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=33cd12bf224e0ac4"
+    },
+    {
+        "Artist": "Martha Wilson",
+        "Title": "I Make Up the Image of My Perfection/ I Make Up the Image of My Deformity from Femfolio",
+        "Year": "2009",
+        "ObjectID": "134579",
+        "Work": "https://www.moma.org/collection/works/134579",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MjA3OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b5ea16cfbfd88b7e"
+    },
+    {
+        "Artist": "Frederick Wiseman",
+        "Title": "La Danse-Le Ballet de l'Opera de Paris",
+        "Year": "2009",
+        "ObjectID": "316422",
+        "Work": "https://www.moma.org/collection/works/316422",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMyMzExMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ac4db9297e757d06"
+    },
+    {
+        "Artist": "Christopher Wool",
+        "Title": "Untitled",
+        "Year": "2009",
+        "ObjectID": "219815",
+        "Work": "https://www.moma.org/collection/works/219815",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5Njk3OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=87c078ea467f133d"
+    },
+    {
+        "Artist": "Christopher Wool",
+        "Title": "Untitled",
+        "Year": "2009",
+        "ObjectID": "219816",
+        "Work": "https://www.moma.org/collection/works/219816",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5Njk3OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b815e2838d0281d4"
+    },
+    {
+        "Artist": "Christopher Wool",
+        "Title": "Untitled (West Texas) (for Texte zur Kunst no. 75)",
+        "Year": "2009",
+        "ObjectID": "219817",
+        "Work": "https://www.moma.org/collection/works/219817",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5NzA5OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0801a5fce6b7649c"
+    },
+    {
+        "Artist": "Haegue Yang",
+        "Title": "Sallim",
+        "Year": "2009",
+        "ObjectID": "134272",
+        "Work": "https://www.moma.org/collection/works/134272",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ4NTY3MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2b683f7836571ee0"
+    },
+    {
+        "Artist": "Freddie Yauner",
+        "Title": "Signs of Life",
+        "Year": "2007-2009",
+        "ObjectID": "131041",
+        "Work": "https://www.moma.org/collection/works/131041",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzOTk2OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=bc1062b6e3f96401"
+    },
+    {
+        "Artist": "So Yong Kim",
+        "Title": "Treeless Mountain",
+        "Year": "2009",
+        "ObjectID": "322855",
+        "Work": "https://www.moma.org/collection/works/322855",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3OTc2MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ac72fba309d97207"
+    },
+    {
+        "Artist": "Ray Yoshida",
+        "Title": "Untitled (Figure in profile)",
+        "Year": "n.d.",
+        "ObjectID": "165525",
+        "Work": "https://www.moma.org/collection/works/165525",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5MTA2OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0161d28a2940e4b3"
+    },
+    {
+        "Artist": "Ray Yoshida",
+        "Title": "Untitled (Acrylic storage box and collage)",
+        "Year": "n.d.",
+        "ObjectID": "165526",
+        "Work": "https://www.moma.org/collection/works/165526",
+        "Thumbnail": null
+    },
+    {
+        "Artist": "Artur Zmijewski",
+        "Title": "Democracies",
+        "Year": "2009",
+        "ObjectID": "136086",
+        "Work": "https://www.moma.org/collection/works/136086",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMzEwNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b0c76df176d3beff"
+    },
+    {
+        "Artist": "Bani Abidi",
+        "Title": "Security Barriers A-L",
         "Year": "2008",
-        "ObjectID": "165210",
-        "Work": "https://www.moma.org/collection/works/165210",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1Njc2OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f1e72382d0f2371b"
+        "ObjectID": "121274",
+        "Work": "https://www.moma.org/collection/works/121274",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3OTg3MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=324e32f1029ac310"
     },
     {
-        "Artist": "Adrian Paci",
-        "Title": "Untitled from She",
+        "Artist": "Bani Abidi",
+        "Title": "Security Barrier Type A from Security Barriers A-L",
         "Year": "2008",
-        "ObjectID": "165211",
-        "Work": "https://www.moma.org/collection/works/165211",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1Njc3MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5ce533c62c8197c0"
+        "ObjectID": "125187",
+        "Work": "https://www.moma.org/collection/works/125187",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3OTg3MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=324e32f1029ac310"
     },
     {
-        "Artist": "Adrian Paci",
-        "Title": "Untitled from She",
+        "Artist": "Bani Abidi",
+        "Title": "Securtiy Barrier Type B from Security Barriers A-L",
         "Year": "2008",
-        "ObjectID": "165212",
-        "Work": "https://www.moma.org/collection/works/165212",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1Njc3MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=35f64df54e438481"
+        "ObjectID": "125188",
+        "Work": "https://www.moma.org/collection/works/125188",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3OTg4MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=58a543931d53353a"
     },
     {
-        "Artist": "Adrian Paci",
-        "Title": "Untitled from She",
+        "Artist": "Bani Abidi",
+        "Title": "Security Barrier Type C from Security Barriers A-L",
         "Year": "2008",
-        "ObjectID": "165213",
-        "Work": "https://www.moma.org/collection/works/165213",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1Njc3NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0f4262c4782aa90d"
+        "ObjectID": "125189",
+        "Work": "https://www.moma.org/collection/works/125189",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3OTg4MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5db2fa75def78e60"
     },
     {
-        "Artist": "Adrian Paci",
-        "Title": "Untitled from She",
+        "Artist": "Bani Abidi",
+        "Title": "Security Barrier Type D from Security Barriers A-L",
         "Year": "2008",
-        "ObjectID": "165214",
-        "Work": "https://www.moma.org/collection/works/165214",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1Njc3OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1dc930b53df0ad3d"
+        "ObjectID": "125190",
+        "Work": "https://www.moma.org/collection/works/125190",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3OTg3NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=bda78f0464d497fd"
     },
     {
-        "Artist": "Adrian Paci",
-        "Title": "Untitled from She",
+        "Artist": "Bani Abidi",
+        "Title": "Security Barrier Type E from Security Barriers A-L",
         "Year": "2008",
-        "ObjectID": "165215",
-        "Work": "https://www.moma.org/collection/works/165215",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1Njc3OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=534ffec51e29306d"
+        "ObjectID": "125191",
+        "Work": "https://www.moma.org/collection/works/125191",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3OTg3MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3a37383bc23d1e8e"
     },
     {
-        "Artist": "Adrian Paci",
-        "Title": "Untitled from She",
+        "Artist": "Bani Abidi",
+        "Title": "Security Barrier Type F from Security Barriers A-L",
         "Year": "2008",
-        "ObjectID": "165216",
-        "Work": "https://www.moma.org/collection/works/165216",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1Njc4MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fb5e6ff1ff42a25c"
+        "ObjectID": "125192",
+        "Work": "https://www.moma.org/collection/works/125192",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3OTg3OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ea345a87175e7953"
     },
     {
-        "Artist": "Adrian Paci",
-        "Title": "Untitled from She",
+        "Artist": "Bani Abidi",
+        "Title": "Security Barrier Type G from Security Barriers A-L",
         "Year": "2008",
-        "ObjectID": "165217",
-        "Work": "https://www.moma.org/collection/works/165217",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1Njc4MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=04b2a4bcd7fe93f8"
+        "ObjectID": "125193",
+        "Work": "https://www.moma.org/collection/works/125193",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2Nzc0MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=70a08f5702a8dad3"
     },
     {
-        "Artist": "Adrian Paci",
-        "Title": "Untitled from She",
+        "Artist": "Bani Abidi",
+        "Title": "Security Barrier Type H from Security Barriers A-L",
         "Year": "2008",
-        "ObjectID": "165218",
-        "Work": "https://www.moma.org/collection/works/165218",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1Njc4MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=04154adf65d0dca4"
+        "ObjectID": "125194",
+        "Work": "https://www.moma.org/collection/works/125194",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2Nzc0MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2bfe42ec315997a2"
     },
     {
-        "Artist": "Adrian Paci",
-        "Title": "Untitled from She",
+        "Artist": "Bani Abidi",
+        "Title": "Security Barrier Type I from Security Barriers A-L",
         "Year": "2008",
-        "ObjectID": "165219",
-        "Work": "https://www.moma.org/collection/works/165219",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1Njc4OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=12a27de418d572f4"
-    },
-    {
-        "Artist": "Adrian Paci",
-        "Title": "Untitled from She",
-        "Year": "2008",
-        "ObjectID": "165220",
-        "Work": "https://www.moma.org/collection/works/165220",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1Njc4OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=35417a910b91ee12"
-    },
-    {
-        "Artist": "Adrian Paci",
-        "Title": "Untitled from She",
-        "Year": "2008",
-        "ObjectID": "165221",
-        "Work": "https://www.moma.org/collection/works/165221",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1Njc5MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=13a57ee7d5355519"
-    },
-    {
-        "Artist": "Adrian Paci",
-        "Title": "Untitled from She",
-        "Year": "2008",
-        "ObjectID": "165222",
-        "Work": "https://www.moma.org/collection/works/165222",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1Njc5MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c60dc78efaa7f247"
-    },
-    {
-        "Artist": "Adrian Paci",
-        "Title": "Untitled from She",
-        "Year": "2008",
-        "ObjectID": "165223",
-        "Work": "https://www.moma.org/collection/works/165223",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NjgyOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8abe2b3ad6393ba9"
-    },
-    {
-        "Artist": "Adrian Paci",
-        "Title": "Untitled from She",
-        "Year": "2008",
-        "ObjectID": "165224",
-        "Work": "https://www.moma.org/collection/works/165224",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NjY2MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fe6a184bc2d2f796"
-    },
-    {
-        "Artist": "Adrian Paci",
-        "Title": "Untitled from She",
-        "Year": "2008",
-        "ObjectID": "165225",
-        "Work": "https://www.moma.org/collection/works/165225",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NjY2MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ce97f2ff404e2317"
-    },
-    {
-        "Artist": "Thomas Palmer",
-        "Title": "Book Binder's Shop, Udaipur, India",
-        "Year": "2008",
-        "ObjectID": "124913",
-        "Work": "https://www.moma.org/collection/works/124913",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ5OTQyMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=93178ea05db98011"
-    },
-    {
-        "Artist": "Nicolas Paris",
-        "Title": "Hurry Slowly 1-5 (Apresurate Despacio 1-5)",
-        "Year": "2008",
-        "ObjectID": "174989",
-        "Work": "https://www.moma.org/collection/works/174989",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5ODE0OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=90fbf3cab55354a1"
-    },
-    {
-        "Artist": "Nicolas Paris",
-        "Title": "Stone (Piedra)",
-        "Year": "2008",
-        "ObjectID": "187943",
-        "Work": "https://www.moma.org/collection/works/187943",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM4NDUwOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=62924b1d78c1b7f2"
-    },
-    {
-        "Artist": "Nicolas Paris",
-        "Title": "Globe (Globo)",
-        "Year": "2008",
-        "ObjectID": "187944",
-        "Work": "https://www.moma.org/collection/works/187944",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM4NDUwOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a57b762002cc9857"
-    },
-    {
-        "Artist": "Nicolas Paris",
-        "Title": "Caterpillar (Oruga)",
-        "Year": "2008",
-        "ObjectID": "187945",
-        "Work": "https://www.moma.org/collection/works/187945",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5ODE1NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7d8b4b2d21500ef6"
-    },
-    {
-        "Artist": "Nicolas Paris",
-        "Title": "Bubble Gum (Chicle bomba)",
-        "Year": "2008",
-        "ObjectID": "187946",
-        "Work": "https://www.moma.org/collection/works/187946",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5ODE1NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fc3df79b32b562c6"
-    },
-    {
-        "Artist": "Nicolas Paris",
-        "Title": "Paper Bag (Bolsa de papel)",
-        "Year": "2008",
-        "ObjectID": "187947",
-        "Work": "https://www.moma.org/collection/works/187947",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5ODE1NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ac817204513bf9e5"
-    },
-    {
-        "Artist": "Nicolas Paris",
-        "Title": "Velvet (Vellut)",
-        "Year": "2008",
-        "ObjectID": "187948",
-        "Work": "https://www.moma.org/collection/works/187948",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5ODE1NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=bd19da559c3cd4aa"
-    },
-    {
-        "Artist": "Nicolas Paris",
-        "Title": "Coin (Moneda)",
-        "Year": "2008",
-        "ObjectID": "187949",
-        "Work": "https://www.moma.org/collection/works/187949",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5ODE1MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=45246a997a575fa2"
-    },
-    {
-        "Artist": "Nicolas Paris",
-        "Title": "Hurry Slowly 1 (Apresurate Despacio 1)",
-        "Year": "2008",
-        "ObjectID": "187950",
-        "Work": "https://www.moma.org/collection/works/187950",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5ODE0OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=86656de9b6510186"
-    },
-    {
-        "Artist": "Nicolas Paris",
-        "Title": "Hurry Slowly 2 (Apresurate Despacio 2)",
-        "Year": "2008",
-        "ObjectID": "187951",
-        "Work": "https://www.moma.org/collection/works/187951",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5ODE0OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=90fbf3cab55354a1"
-    },
-    {
-        "Artist": "Nicolas Paris",
-        "Title": "Hurry Slowly 3 (Apresurate Despacio 3)",
-        "Year": "2008",
-        "ObjectID": "187952",
-        "Work": "https://www.moma.org/collection/works/187952",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5ODE1MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7407599e2061f385"
-    },
-    {
-        "Artist": "Nicolas Paris",
-        "Title": "Hurry Slowly 4 (Apresurate Despacio 4)",
-        "Year": "2008",
-        "ObjectID": "187953",
-        "Work": "https://www.moma.org/collection/works/187953",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5ODE1MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a8fd2d4c3460cb56"
-    },
-    {
-        "Artist": "Nicolas Paris",
-        "Title": "Hurry Slowly 5 (Apresurate Despacio 5)",
-        "Year": "2008",
-        "ObjectID": "187954",
-        "Work": "https://www.moma.org/collection/works/187954",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5ODE1MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8d6a5ad6d05d449e"
-    },
-    {
-        "Artist": "Martin Parr",
-        "Title": "Lewes, Glyndebourne, England",
-        "Year": "2008",
-        "ObjectID": "185896",
-        "Work": "https://www.moma.org/collection/works/185896",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMxNjg5NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6df7e8d3f41f8a75"
-    },
-    {
-        "Artist": "Manfred Pernice",
-        "Title": "diary--09.08.00",
-        "Year": "2008",
-        "ObjectID": "119024",
-        "Work": "https://www.moma.org/collection/works/119024",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzODc5MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=462f93498eb15b44"
-    },
-    {
-        "Artist": "Manfred Pernice",
-        "Title": "diary--20.11.07",
-        "Year": "2008",
-        "ObjectID": "119026",
-        "Work": "https://www.moma.org/collection/works/119026",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzODc5NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=204ca380016e51c7"
-    },
-    {
-        "Artist": "Manfred Pernice",
-        "Title": "Chair and Object",
-        "Year": "2008",
-        "ObjectID": "119027",
-        "Work": "https://www.moma.org/collection/works/119027",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzODc5NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=decf0ebb9fbdd2f4"
-    },
-    {
-        "Artist": "Mai-Thu Perret",
-        "Title": "A Portable Apocalypse Ballet (Red Ring) (for Parkett no. 84)",
-        "Year": "2008",
-        "ObjectID": "131230",
-        "Work": "https://www.moma.org/collection/works/131230",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwMzI3MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e3a5b0f28ff40659"
-    },
-    {
-        "Artist": "Michelangelo Pistoletto",
-        "Title": "Seventeen Less One",
-        "Year": "2008",
-        "ObjectID": "134281",
-        "Work": "https://www.moma.org/collection/works/134281",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMxMzQ4MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=713a6b10366e0aab"
-    },
-    {
-        "Artist": "Poptastic, Chris Fitzpatrick, Thomas Dimuzio",
-        "Title": "The Teen-Pop-Noise Virus",
-        "Year": "2008",
-        "ObjectID": "184210",
-        "Work": "https://www.moma.org/collection/works/184210",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQyNDM2OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=24da770a6970977b"
-    },
-    {
-        "Artist": "Alex Prager",
-        "Title": "Desiree",
-        "Year": "2008",
-        "ObjectID": "135636",
-        "Work": "https://www.moma.org/collection/works/135636",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4MTMxOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=10eaa9fb602e96ef"
-    },
-    {
-        "Artist": "Alex Prager",
-        "Title": "Susie and Friends",
-        "Year": "2008",
-        "ObjectID": "135637",
-        "Work": "https://www.moma.org/collection/works/135637",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzNzY1MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=27d160580bbbb176"
-    },
-    {
-        "Artist": "Ken Price",
-        "Title": "Living with Rocks from Artists for Obama",
-        "Year": "2008",
-        "ObjectID": "128255",
-        "Work": "https://www.moma.org/collection/works/128255",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5OTcxMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b0d101428b9d2588"
-    },
-    {
-        "Artist": "Seth Price",
-        "Title": "Essay with Knots",
-        "Year": "2008",
-        "ObjectID": "143367",
-        "Work": "https://www.moma.org/collection/works/143367",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwMjgwMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c2fe5e911360a485"
-    },
-    {
-        "Artist": "R. H. Quaytman",
-        "Title": "iamb (blind smile): Chapter 12",
-        "Year": "2008",
-        "ObjectID": "128475",
-        "Work": "https://www.moma.org/collection/works/128475",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1OTE3NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d735069aab620692"
-    },
-    {
-        "Artist": "R. H. Quaytman",
-        "Title": "iamb (The Limbo of Vanity): Chapter 12",
-        "Year": "2008",
-        "ObjectID": "128999",
-        "Work": "https://www.moma.org/collection/works/128999",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MDA4MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c9dc68f527b4923c"
-    },
-    {
-        "Artist": "R. H. Quaytman",
-        "Title": "iamb (lateral inhibitions in the perceptual field): Chapter 12",
-        "Year": "2008",
-        "ObjectID": "129000",
-        "Work": "https://www.moma.org/collection/works/129000",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1OTE3NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=bb6c1ea772179ff7"
-    },
-    {
-        "Artist": "Walid Raad",
-        "Title": "Oh God, he said, talking to a tree",
-        "Year": "2004/2008",
-        "ObjectID": "119114",
-        "Work": "https://www.moma.org/collection/works/119114",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNTkzOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9cecd50506d9c984"
-    },
-    {
-        "Artist": "Walid Raad",
-        "Title": "Title page from Oh God, he said, talking to a tree",
-        "Year": "2004/2008",
-        "ObjectID": "146813",
-        "Work": "https://www.moma.org/collection/works/146813",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNTk0OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a6c5375ec16099d7"
-    },
-    {
-        "Artist": "Walid Raad",
-        "Title": "Untitled from Oh God, he said, talking to a tree",
-        "Year": "2004/2008",
-        "ObjectID": "146814",
-        "Work": "https://www.moma.org/collection/works/146814",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNTk1OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=df5913b5953d5e26"
-    },
-    {
-        "Artist": "Walid Raad",
-        "Title": "Oh God, he said, talking to a tree_Beirut: July 20, 2006",
-        "Year": "2004/2008",
-        "ObjectID": "146815",
-        "Work": "https://www.moma.org/collection/works/146815",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNTMxNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a89525b4abbff4e1"
+        "ObjectID": "125195",
+        "Work": "https://www.moma.org/collection/works/125195",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2Nzc0MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c44421b4b1343464"
     }
 ]

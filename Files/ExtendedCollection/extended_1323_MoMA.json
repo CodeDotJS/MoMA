@@ -1,806 +1,925 @@
 [
     {
-        "Artist": "Unidentified photographer",
-        "Title": "Untitled",
-        "Year": "September 1938",
-        "ObjectID": "171254",
-        "Work": "https://www.moma.org/collection/works/171254",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3MzI1NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=47782ad52bb4ac8b",
+        "Artist": "Alejandro Otero",
+        "Title": "Study 1",
+        "Year": "1952",
+        "ObjectID": "205979",
+        "Work": "https://www.moma.org/collection/works/205979",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ3ODU1MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=489d68815b0c2396",
         "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "5 9/16 \u00d7 3 7/16\" (14.2 \u00d7 8.7 cm)",
-            "Credit": "Gift of Peter J. Cohen",
-            "Object number": "1062.2013",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/8595"
-    },
-    {
-        "Artist": "Unidentified photographer",
-        "Title": "Untitled (John Cobb in his 350 mile per hour car)",
-        "Year": "1938",
-        "ObjectID": "217509",
-        "Work": "https://www.moma.org/collection/works/217509",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM4Nzc3MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9a4f04ec6c2a87ae",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "9 3/8 \u00d7 6 15/16\" (23.8 \u00d7 17.6 cm)",
-            "Credit": "Thomas Walther Collection. Gift of Thomas Walther",
-            "Object number": "246.2017",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/8595"
-    },
-    {
-        "Artist": "Unidentified photographer",
-        "Title": "Untitled",
-        "Year": "June 24, 1938",
-        "ObjectID": "277519",
-        "Work": "https://www.moma.org/collection/works/277519",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ0MDM5MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=34c0b410dc2ac6d6",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "Approx. 2 \u00d7 2\" (5.1 \u00d7 5.1 cm)",
-            "Credit": "Gift of Peter J. Cohen",
-            "Object number": "767.2017.520",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/8595"
-    },
-    {
-        "Artist": "John Vachon",
-        "Title": "Fourth of July Afternoon, Dover, Delaware",
-        "Year": "July 1938",
-        "ObjectID": "50318",
-        "Work": "https://www.moma.org/collection/works/50318",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMzQ1MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5c6edde3f0a421e5",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "9 5/8 \u00d7 7 3/8\" (24.4 \u00d7 18.7 cm)",
-            "Credit": "Gift of the Farm Security Administration",
-            "Object number": "306.1941",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/6048"
-    },
-    {
-        "Artist": "John Vachon",
-        "Title": "The Flag is Going By, Sesquicentennial Parade, Cincinnati, Ohio",
-        "Year": "October 1938",
-        "ObjectID": "86065",
-        "Work": "https://www.moma.org/collection/works/86065",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzNTc2OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=179ddd31847dc4ca",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "6 5/16 \u00d7 9 5/8\" (16.1 \u00d7 24.4 cm)",
-            "Credit": "Purchase",
-            "Object number": "212.2002",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/6048"
-    },
-    {
-        "Artist": "John Vachon",
-        "Title": "Billboard on the Courthouse Lawn, Omaha, Nebraska",
-        "Year": "1938",
-        "ObjectID": "129404",
-        "Work": "https://www.moma.org/collection/works/129404",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMjE3MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f98d2cdc7f3b07b2",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "6 1/2 \u00d7 9 1/8\" (16.5 \u00d7 23.1 cm)",
-            "Credit": "Purchase",
-            "Object number": "SC2009.29",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/6048"
-    },
-    {
-        "Artist": "John Vachon",
-        "Title": "Watching Armistice Day parade, Omaha, Nebraska",
-        "Year": "November 1938",
-        "ObjectID": "143905",
-        "Work": "https://www.moma.org/collection/works/143905",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMzg0NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=23053cb921c097bc",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "6 1/2 \u00d7 9 5/8\" (16.5 \u00d7 24.5 cm)",
-            "Credit": "Purchase",
-            "Object number": "SC2011.4",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/6048"
-    },
-    {
-        "Artist": "James Van Der Zee",
-        "Title": "The Heiress",
-        "Year": "1938",
-        "ObjectID": "53574",
-        "Work": "https://www.moma.org/collection/works/53574",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNjUxNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2cd5b8f52ceca2f5",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "7 3/4 \u00d7 9 5/8\" (19.7 \u00d7 24.5 cm)",
-            "Credit": "The Family of Man Fund",
-            "Object number": "453.1988",
-            "Copyright": "\u00a9 2023 Estate of James Van Der Zee",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/6074"
-    },
-    {
-        "Artist": "Willard Van Dyke",
-        "Title": "Ansel Adams at 683 Brockhurst",
-        "Year": "c. 1933",
-        "ObjectID": "52762",
-        "Work": "https://www.moma.org/collection/works/52762",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMDM1NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c5d34fcd36084e3f",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "9 5/16 \u00d7 7 1/4\" (23.6 \u00d7 18.4 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "407.1977",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/6078"
-    },
-    {
-        "Artist": "Various Artists",
-        "Title": "Bauhaus Vorhangsstoffe gewebt gittertulle (Bauhaus curtain fabrics woven lattice tulle) (Textile sample book)",
-        "Year": "c.1933",
-        "ObjectID": "206567",
-        "Work": "https://www.moma.org/collection/works/206567",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM3NzUzMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f38b95588d8409d1",
-        "Details": {
-            "Medium": "Cotton, wool, and viscose",
-            "Dimensions": "6 11/16 x 9 1/4\" (17 x 23.5 cm)",
-            "Producer": "Bauhaus, Dessau",
-            "Credit": "Architecture & Design Study Center",
-            "Object number": "SC787.2011.1",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/6104"
-    },
-    {
-        "Artist": "Various Artists, Sophie Taeuber-Arp, Jean (Hans) Arp, Cesar Domela-Nieuwenhuis, George L. K. Morris",
-        "Title": "Plastique, no. 3",
-        "Year": "1938",
-        "ObjectID": "404097",
-        "Work": "https://www.moma.org/collection/works/404097",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNDQ4MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5966f70d14be6c28",
-        "Details": {
-            "Collaborating artist": "edited by Sophie Taeuber-Arp, Jean (Hans) Arp, C\u00e9sar Domela-Nieuwenhuis, George L. K. Morris",
-            "Medium": "Journal, lithograph and letterpress printed",
-            "Dimensions": "9 7/16 \u00d7 6 5/16\" (24 \u00d7 16 cm)",
-            "Publisher": "A. E. Gallatin",
-            "Printer": "Frazier-Soye, Paris",
-            "Credit": "Gift of Jack Shear",
-            "Object number": "767.2019",
+            "Medium": "Gouache, ink, and pencil on paper",
+            "Dimensions": "7 3/4 \u00d7 9 3/4\" (19.7 \u00d7 24.8 cm)",
+            "Credit": "Gift of Patricia Phelps de Cisneros through the Latin American and Caribbean Fund in honor of Rafael Pereira",
+            "Object number": "849.2016",
+            "Copyright": "\u00a9 2023 / Artists Rights Society (ARS), New York / AUTORARTE, Venezuela",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/24409"
+        "Profile": "https://www.moma.org/artists/4445"
     },
     {
-        "Artist": "Dmitri Vasiliev, Sergei Eisenstein",
-        "Title": "Aleksandr Nevskiy",
-        "Year": "1938",
-        "ObjectID": "306164",
-        "Work": "https://www.moma.org/collection/works/306164",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExMzAwNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f67445257d865488",
+        "Artist": "Alejandro Otero",
+        "Title": "Study 2",
+        "Year": "1952",
+        "ObjectID": "205980",
+        "Work": "https://www.moma.org/collection/works/205980",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ3ODU1MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b82b47f7fa6aa5ee",
         "Details": {
-            "Object number": "W4249",
-            "Department": "Film"
+            "Medium": "Gouache, ink, and pencil on paper",
+            "Dimensions": "7 3/4 \u00d7 9 3/4\" (19.7 \u00d7 24.8 cm)",
+            "Credit": "Gift of Patricia Phelps de Cisneros through the Latin American and Caribbean Fund in honor of Rafael Santana",
+            "Object number": "850.2016",
+            "Copyright": "\u00a9 2023 / Artists Rights Society (ARS), New York / AUTORARTE, Venezuela",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/126577"
+        "Profile": "https://www.moma.org/artists/4445"
     },
     {
-        "Artist": "Paolo Venini",
-        "Title": "Ashtrays",
-        "Year": "c. 1928-38",
-        "ObjectID": "3479",
-        "Work": "https://www.moma.org/collection/works/3479",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMTI3MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8c0b1841b515891f",
+        "Artist": "Gordon Parks",
+        "Title": "Soapbox Orator, Harlem, New York",
+        "Year": "1952",
+        "ObjectID": "184133",
+        "Work": "https://www.moma.org/collection/works/184133",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMxNjk3NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=891f2e500dd077e5",
         "Details": {
-            "Manufacturer": "Venini & Co., Murano, Italy",
-            "Medium": "Glass",
-            "Dimensions": ".1: 1 x 3 5/8\" (2.6 x 9.2 cm)\r\n.2: 1 1/8 x 3 5/8\" (2.9 x 9.2 cm)",
-            "Credit": "Gift of Lenart Import, Ltd.",
-            "Object number": "406.1938.1-2",
-            "Department": "Architecture and Design"
+            "Medium": "Gelatin silver print",
+            "Dimensions": "13 1/4 \u00d7 8 3/4\" (33.7 \u00d7 22.2 cm)",
+            "Credit": "Acquired through the generosity of The Friends of Education of The Museum of Modern Art and Committee on Photography Fund",
+            "Object number": "970.2014",
+            "Copyright": "\u00a9 2023 Gordon Parks Foundation",
+            "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/6129"
+        "Profile": "https://www.moma.org/artists/8083"
     },
     {
-        "Artist": "Paolo Venini",
-        "Title": "Vase",
-        "Year": "1938",
-        "ObjectID": "4405",
-        "Work": "https://www.moma.org/collection/works/4405",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMTg1NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=66178af7b330db07",
+        "Artist": "Gordon Parks",
+        "Title": "Emerging Man, Harlem, New York",
+        "Year": "1952",
+        "ObjectID": "184134",
+        "Work": "https://www.moma.org/collection/works/184134",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMxNzAyNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ae85659abbc59e4a",
         "Details": {
-            "Manufacturer": "Venini & Co., Murano, Italy",
-            "Medium": "Blown glass",
-            "Dimensions": "7 1/8 x 6 3/4\" (18.1 x 17.2 cm)",
-            "Credit": "Gift of the designer",
-            "Object number": "722.1966",
-            "Department": "Architecture and Design"
+            "Medium": "Gelatin silver print",
+            "Dimensions": "8 7/16 \u00d7 12 7/8\" (21.4 \u00d7 32.7 cm)",
+            "Credit": "Acquired through the generosity of The Friends of Education of The Museum of Modern Art and Committee on Photography Fund",
+            "Object number": "971.2014",
+            "Copyright": "\u00a9 2023 Gordon Parks Foundation",
+            "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/6129"
+        "Profile": "https://www.moma.org/artists/8083"
     },
     {
-        "Artist": "Maria Helena Vieira da Silva",
-        "Title": "Dance",
-        "Year": "1938",
-        "ObjectID": "78562",
-        "Work": "https://www.moma.org/collection/works/78562",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1MTI0MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=af8a8ca9061b73b5",
+        "Artist": "Philip Pearlstein",
+        "Title": "Superman",
+        "Year": "1952",
+        "ObjectID": "80321",
+        "Work": "https://www.moma.org/collection/works/80321",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1MTQ3NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e6ee54c2f681e921",
         "Details": {
-            "Medium": "Oil and wax on canvas",
-            "Dimensions": "19 1/2 x 59 1/4\" (49.5 x 150.5 cm)",
-            "Credit": "Alfred Flechtheim Fund",
-            "Object number": "29.1954",
-            "Copyright": "\u00a9 2023 Maria Helena Vieira da Silva / Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Medium": "Oil on canvas",
+            "Dimensions": "40 1/2 x 35 7/8\" (102.9 x 91.2 cm)",
+            "Credit": "Gift of Betsy Wittenborn Miller and Robert Miller",
+            "Object number": "738.1998",
+            "Copyright": "\u00a9 2023 Philip Pearlstein",
             "Department": "Painting and Sculpture"
         },
-        "Profile": "https://www.moma.org/artists/6152"
+        "Profile": "https://www.moma.org/artists/4529"
     },
     {
-        "Artist": "Roman Vishniac",
-        "Title": "The Study in Yeshiva",
-        "Year": "1938",
-        "ObjectID": "46449",
-        "Work": "https://www.moma.org/collection/works/46449",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNjQzOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cda7ef622bde2cf5",
+        "Artist": "Carl-Henning Pedersen",
+        "Title": "The Yellow Star",
+        "Year": "1952",
+        "ObjectID": "78395",
+        "Work": "https://www.moma.org/collection/works/78395",
+        "Thumbnail": null,
         "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "8 7/8 \u00d7 6 1/2\" (22.5 \u00d7 16.5 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "113.1964",
-            "Department": "Photography"
+            "Medium": "Oil and pencil on canvas",
+            "Dimensions": "48 7/8 x 40 1/2\" (124 x 102.8 cm)",
+            "Credit": "Gift of G. David Thompson",
+            "Object number": "8.1961",
+            "Copyright": "\u00a9 2023 Carl-Henning Pedersen / Artists Rights Society (ARS), New York / COPY-DAN, Denmark",
+            "Department": "Painting and Sculpture"
         },
-        "Profile": "https://www.moma.org/artists/6170"
+        "Profile": "https://www.moma.org/artists/4535"
     },
     {
-        "Artist": "Roman Vishniac",
-        "Title": "Old Philosopher",
-        "Year": "1938",
-        "ObjectID": "48060",
-        "Work": "https://www.moma.org/collection/works/48060",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNjQwNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c061e1bb9c5db2fd",
+        "Artist": "Charlotte Perriand, Ateliers Jean Prouve, Nancy, France, Sonia Delaunay-Terk, Nicolas Schoffer",
+        "Title": "Maison de la Tunisie Bench-Bookshelf",
+        "Year": "1952",
+        "ObjectID": "110092",
+        "Work": "https://www.moma.org/collection/works/110092",
+        "Thumbnail": null,
         "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "7 11/16 \u00d7 9 1/2\" (19.5 \u00d7 24.2 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "189.1964",
-            "Department": "Photography"
+            "Manufacturer": "Jean Chetaille",
+            "Collaborating artist": "Sonia Delaunay-Terk, Nicolas Sch\u00f6ffer",
+            "Medium": "Lacquered steel, aluminum, and pine",
+            "Dimensions": "63 x 139 3/8 x 20 1/8\" (160 x 354 x 51.1 cm)",
+            "Credit": "Architecture & Design Purchase Fund",
+            "Object number": "872.2007",
+            "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/6170"
+        "Profile": "https://www.moma.org/artists/4564"
     },
     {
-        "Artist": "Roman Vishniac",
-        "Title": "Krakow, Poland",
-        "Year": "1938",
-        "ObjectID": "48080",
-        "Work": "https://www.moma.org/collection/works/48080",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNjQwNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=996084d61438a81b",
+        "Artist": "Gabor Peterdi",
+        "Title": "Spawning",
+        "Year": "1952",
+        "ObjectID": "62938",
+        "Work": "https://www.moma.org/collection/works/62938",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxOTg2NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=18b530a1a1f044db",
         "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "9 3/4 \u00d7 7 5/8\" (24.7 \u00d7 19.3 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "190.1964",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/6170"
-    },
-    {
-        "Artist": "Joseph Vogel",
-        "Title": "Street Scene",
-        "Year": "1938",
-        "ObjectID": "181671",
-        "Work": "https://www.moma.org/collection/works/181671",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ2ODY2MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cf31c2fe991ad67b",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "composition: 13 1/8 \u00d7 18 1/2\" (33.4 \u00d7 47 cm); sheet: 15 15/16 \u00d7 23 1/16\" (40.5 \u00d7 58.5 cm)",
-            "Publisher": "Works Progress Administration (WPA), Federal Art Project, New York",
-            "Printer": "Works Progress Administration (WPA), Federal Art Project, New York",
-            "Edition": "probably fewer than 25",
-            "Credit": "Extended loan from the United States WPA Art Program. Fine Arts Collection, Public Buildings Service, General Services Administration",
-            "Object number": "EL1957.1217",
-            "Associated work": "Works Progress Administration (WPA), Federal Art Project, Graphic Arts Division, New York",
+            "Medium": "Etching and engraving",
+            "Dimensions": "plate: 12 3/16 \u00d7 16 7/8\" (31 \u00d7 42.9 cm); sheet: 15 7/8 \u00d7 20 1/16\" (40.3 \u00d7 50.9 cm)",
+            "Publisher": "I.G.A.S., New York",
+            "Edition": "200",
+            "Credit": "Purchase",
+            "Object number": "144.1954",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/45815"
+        "Profile": "https://www.moma.org/artists/4571"
     },
     {
-        "Artist": "Wilhelm Wagenfeld",
-        "Title": "Kubus Stacking Storage Containers",
-        "Year": "1938",
-        "ObjectID": "1986",
-        "Work": "https://www.moma.org/collection/works/1986",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNjM4OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=141c4b917b26bfc6",
+        "Artist": "Gabor Peterdi",
+        "Title": "Portfolio of Five Prints",
+        "Year": "1952",
+        "ObjectID": "66038",
+        "Work": "https://www.moma.org/collection/works/66038",
+        "Thumbnail": null,
         "Details": {
-            "Manufacturer": "Vereinigte Lausitzer Glaswerke A.G., Weisswasser, Germany",
-            "Medium": "Molded glass",
-            "Dimensions": ".1: 3 1/4 x 7 1/4 x 7 1/4\" (8.3 x 18.4 x 18.4 cm)\r\n.2a: 1 3/4 x 7 1/4 x 7 1/4\" (4.4 x 18.4 x 18.4 cm)\r\n.2b: 1/2 x 7 1/8 x 7 1/8\" (1.3 x 18.1 x 18.1 cm)\r\n.3a: 3 1/4 x 3 5/8 x 7 1/8\" (8.3 x 9.2 x 18.1 cm)\r\n.3b: 1/2 x 7 1/8 x 3 1/2\" (1.3 x 18.1 x 8.9 cm)\r\n.4a: 1 3/4 x 3 1/2 x 7 1/4\" (4.4 x 8.9 x 18.4 cm)\r\n.4b: 1/2 x 3 1/2 x 7\" (1.3 x 8.9 x 17.8 cm)\r\n.5a: 3 1/4 x 3 5/8 x 3 5/8\" (8.3 x 9.2 x 9.2 cm)\r\n.5b: 1/2 x 3 5/8 x 3 5/8\" (1.3 x 9.2 x 9.2 cm)\r\n.6a: 3 1/4 x 3 5/8 x 3 5/8\" (8.3 x 9.2 x 9.2 cm)\r\n.6b: 1/2 x 3 5/8 x 3 5/8\" (1.3 x 9.2 x 9.2 cm)\r\n.7a: 1 7/8 x 3 5/8 x 3 5/8\" (4.8 x 9.2 x 9.2 cm)\r\n.7b: 1/2 x 3 1/2 x 3 5/8\" (1.3 x 8.9 x 9.2 cm)\r\n.8a: 1 3/4 x 3 5/8 x 3 5/8\" (4.4 x 9.2 x 9.2 cm)\r\n.8b: 1/2 x 3 5/8 x 3 5/8\" (1.3 x 9.2 x 9.2 cm)\r\n.9: 1 3/4 x 3 1/2 x 3 1/2\" (4.4 x 8.9 x 8.9 cm)\r\n.10: 1 3/4 x 3 5/8 x 3 5/8\" (4.4 x 9.2 x 9.2 cm)\r\n.11: 6 x 3 1/2 x 3 1/2\" (15.2 x 8.9 x 8.9 cm)",
-            "Credit": "Mrs. Armand P. Bartos Fund",
-            "Object number": "72.1990.1-11",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Medium": "Portfolio with five etching and engravings (four with stencil additions)",
+            "Dimensions": "plate and sheet (see child records): dimensions vary",
+            "Publisher": "Ted Gotthelf, New York",
+            "Printer": "Rio Grande Graphics",
+            "Edition": "200 announced; 50 printed by 1970",
+            "Credit": "Gift of Rio Grande Graphics",
+            "Object number": "286.1952.1-5",
+            "Type": "Portfolio",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4571"
+    },
+    {
+        "Artist": "Gabor Peterdi",
+        "Title": "Germination I",
+        "Year": "1951, signed 1952",
+        "ObjectID": "69664",
+        "Work": "https://www.moma.org/collection/works/69664",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwODk3OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=35b121930efa9595",
+        "Details": {
+            "Medium": "Aquatint, etching, and engraving",
+            "Dimensions": "plate: 19 3/4 \u00d7 23 7/8\" (50.2 \u00d7 60.6 cm); sheet: 22 5/16 \u00d7 27 1/2\" (56.7 \u00d7 69.8 cm)",
+            "Edition": "30",
+            "Credit": "Gift of Mr. and Mrs. Walter Bareiss",
+            "Object number": "469.1953",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4571"
+    },
+    {
+        "Artist": "Gabor Peterdi",
+        "Title": "Spawning III from Portfolio of Five Prints",
+        "Year": "1952",
+        "ObjectID": "407631",
+        "Work": "https://www.moma.org/collection/works/407631",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxOTkwNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1bcbd4e8d74d0f7b",
+        "Details": {
+            "Medium": "Etching and engraving with stencil additions from a portfolio with five etching and engravings (four with stencil additions)",
+            "Dimensions": "plate: 14 \u00d7 16 3/4\" (35.5 \u00d7 42.5 cm); sheet: 15 11/16 \u00d7 21 3/4\" (39.9 \u00d7 55.2 cm)",
+            "Publisher": "Ted Gotthelf, New York",
+            "Printer": "Rio Grande Graphics",
+            "Edition": "200 announced; 50 printed by 1970",
+            "Credit": "Gift of Rio Grande Graphics",
+            "Object number": "286.1952.1",
+            "Portfolio": "Portfolio of Five Prints",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4571"
+    },
+    {
+        "Artist": "Gabor Peterdi",
+        "Title": "The Purple Claw from Portfolio of Five Prints",
+        "Year": "1952",
+        "ObjectID": "407632",
+        "Work": "https://www.moma.org/collection/works/407632",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Etching and engraving with stencil additions from a portfolio with five etching and engravings (four with stencil additions)",
+            "Dimensions": "plate: 14 \u00d7 16 13/16\" (35.5 \u00d7 42.7 cm); sheet: 15 9/16 \u00d7 21 13/16\" (39.6 \u00d7 55.4 cm)",
+            "Publisher": "Ted Gotthelf, New York",
+            "Printer": "Rio Grande Graphics",
+            "Edition": "200 announced; 50 printed by 1970",
+            "Credit": "Gift of Rio Grande Graphics",
+            "Object number": "286.1952.2",
+            "Portfolio": "Portfolio of Five Prints",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4571"
+    },
+    {
+        "Artist": "Gabor Peterdi",
+        "Title": "Sunken Treasures from Portfolio of Five Prints",
+        "Year": "1952",
+        "ObjectID": "407633",
+        "Work": "https://www.moma.org/collection/works/407633",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Etching and engraving with stencil additions from a portfolio with five etching and engravings (four with stencil additions)",
+            "Dimensions": "plate: 17 11/16 \u00d7 13 13/16\" (45 \u00d7 35.1 cm); sheet: 21 3/4 \u00d7 15 11/16\" (55.2 \u00d7 39.8 cm)",
+            "Publisher": "Ted Gotthelf, New York",
+            "Printer": "Rio Grande Graphics",
+            "Edition": "200 announced; 50 printed by 1970",
+            "Credit": "Gift of Rio Grande Graphics",
+            "Object number": "286.1952.3",
+            "Portfolio": "Portfolio of Five Prints",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4571"
+    },
+    {
+        "Artist": "Gabor Peterdi",
+        "Title": "Wings of the Ocean from Portfolio of Five Prints",
+        "Year": "1952",
+        "ObjectID": "407634",
+        "Work": "https://www.moma.org/collection/works/407634",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Etching and engraving from a portfolio with five etching and engravings (four with stencil additions)",
+            "Dimensions": "plate: 17 11/16 \u00d7 13 3/4\" (45 \u00d7 35 cm); sheet: 21 11/16 \u00d7 15 11/16\" (55.1 \u00d7 39.8 cm)",
+            "Publisher": "Ted Gotthelf, New York",
+            "Printer": "Rio Grande Graphics",
+            "Edition": "200 announced; 50 printed by 1970",
+            "Credit": "Gift of Rio Grande Graphics",
+            "Object number": "286.1952.4",
+            "Portfolio": "Portfolio of Five Prints",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4571"
+    },
+    {
+        "Artist": "Gabor Peterdi",
+        "Title": "Sponge Fisher from Portfolio of Five Prints",
+        "Year": "1952",
+        "ObjectID": "407635",
+        "Work": "https://www.moma.org/collection/works/407635",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Etching and engraving with stencil additions from a portfolio with five etching and engravings (four with stencil additions)",
+            "Publisher": "Ted Gotthelf, New York",
+            "Printer": "Rio Grande Graphics",
+            "Edition": "200 announced; 50 printed by 1970",
+            "Credit": "Gift of Rio Grande Graphics",
+            "Object number": "286.1952.5",
+            "Portfolio": "Portfolio of Five Prints",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4571"
+    },
+    {
+        "Artist": "Francis Picabia",
+        "Title": "591",
+        "Year": "1952",
+        "ObjectID": "294113",
+        "Work": "https://www.moma.org/collection/works/294113",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ0NzM1OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b915781fb3fb7846",
+        "Details": {
+            "Author": "Francis Picabia",
+            "Medium": "Illustrated book with five offset lithographs",
+            "Dimensions": "sheet (each approx.): 11 \u00d7 8 3/4\" (27.9 \u00d7 22.3 cm); overall (closed): 11 5/16 \u00d7 9 1/4 \u00d7 1/16\" (28.7 \u00d7 23.5 \u00d7 0.2 cm)",
+            "Publisher": "Pierre Andr\u00e9 Benoit",
+            "Printer": "Pierre Andr\u00e9 Benoit",
+            "Edition": "355",
+            "Credit": "Acquired through the generosity of the International Council of The Museum  of Modern Art in memory of Richard E. Oldenburg",
+            "Object number": "1158.2018.1-5",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Type": "Illustrated Book",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4607"
+    },
+    {
+        "Artist": "Francis Picabia",
+        "Title": "Le printemps (Spring) (folio 8) from 591",
+        "Year": "1952",
+        "ObjectID": "294686",
+        "Work": "https://www.moma.org/collection/works/294686",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ0NzM1OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6f2894036bdaffe4",
+        "Details": {
+            "Author": "Francis Picabia",
+            "Medium": "Offset lithograph from an illustrated book with five offset lithographs",
+            "Dimensions": "composition (irreg.): 10 3/16 \u00d7 7 3/16\" (25.8 \u00d7 18.3 cm); sheet: 11 \u00d7 8 3/4\" (27.9 \u00d7 22.2 cm)",
+            "Publisher": "Pierre Andr\u00e9 Benoit",
+            "Printer": "Pierre Andr\u00e9 Benoit",
+            "Edition": "355",
+            "Credit": "Acquired through the generosity of the International Council of The Museum  of Modern Art in memory of Richard E. Oldenburg",
+            "Object number": "1158.2018.1",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Illustrated book": "591",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4607"
+    },
+    {
+        "Artist": "Francis Picabia",
+        "Title": "Plate (folio 9) from 591",
+        "Year": "1952",
+        "ObjectID": "294687",
+        "Work": "https://www.moma.org/collection/works/294687",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ0NzM2MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=57298beb2256153d",
+        "Details": {
+            "Author": "Francis Picabia",
+            "Medium": "Offset lithograph from an illustrated book with five offset lithographs",
+            "Dimensions": "composition (irreg.): 8 1/2 \u00d7 8 3/16\" (21.6 \u00d7 20.8 cm); sheet: 11 1/16 \u00d7 8 7/8\" (28.1 \u00d7 22.5 cm)",
+            "Publisher": "Pierre Andr\u00e9 Benoit",
+            "Printer": "Pierre Andr\u00e9 Benoit",
+            "Edition": "355",
+            "Credit": "Acquired through the generosity of the International Council of The Museum  of Modern Art in memory of Richard E. Oldenburg",
+            "Object number": "1158.2018.2",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Illustrated book": "591",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4607"
+    },
+    {
+        "Artist": "Francis Picabia",
+        "Title": "Plate (folio 10) from 591",
+        "Year": "1952",
+        "ObjectID": "294688",
+        "Work": "https://www.moma.org/collection/works/294688",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ0NzM2MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=34f4e19781ba780a",
+        "Details": {
+            "Author": "Francis Picabia",
+            "Medium": "Offset lithograph from an illustrated book with five offset lithographs",
+            "Dimensions": "composition (irreg.): 10 5/16 \u00d7 7 15/16\" (26.2 \u00d7 20.2 cm); sheet: 11 \u00d7 8 3/4\" (27.9 \u00d7 22.3 cm)",
+            "Publisher": "Pierre Andr\u00e9 Benoit",
+            "Printer": "Pierre Andr\u00e9 Benoit",
+            "Edition": "355",
+            "Credit": "Acquired through the generosity of the International Council of The Museum  of Modern Art in memory of Richard E. Oldenburg",
+            "Object number": "1158.2018.3",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Illustrated book": "591",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4607"
+    },
+    {
+        "Artist": "Francis Picabia",
+        "Title": "Plate (folio 11) from 591",
+        "Year": "1952",
+        "ObjectID": "294689",
+        "Work": "https://www.moma.org/collection/works/294689",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ0NzM2MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b3a450f8c30ae5d4",
+        "Details": {
+            "Author": "Francis Picabia",
+            "Medium": "Offset lithograph from an illustrated book with five offset lithographs",
+            "Dimensions": "composition (irreg.): 9 3/4 \u00d7 7 5/16\" (24.7 \u00d7 18.5 cm); sheet: 11 \u00d7 8 3/4\" (27.9 \u00d7 22.3 cm)",
+            "Publisher": "Pierre Andr\u00e9 Benoit",
+            "Printer": "Pierre Andr\u00e9 Benoit",
+            "Edition": "355",
+            "Credit": "Acquired through the generosity of the International Council of The Museum  of Modern Art in memory of Richard E. Oldenburg",
+            "Object number": "1158.2018.4",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Illustrated book": "591",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4607"
+    },
+    {
+        "Artist": "Francis Picabia",
+        "Title": "Plate (folio 12) from 591",
+        "Year": "1952",
+        "ObjectID": "294690",
+        "Work": "https://www.moma.org/collection/works/294690",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ0NzM2MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4f864016b3cba605",
+        "Details": {
+            "Author": "Francis Picabia",
+            "Medium": "Offset lithograph from an illustrated book with five offset lithographs",
+            "Dimensions": "composition (irreg.): 9 3/4 \u00d7 6 3/8\" (24.7 \u00d7 16.2 cm); sheet: 11 \u00d7 8 3/4\" (28 \u00d7 22.3 cm)",
+            "Publisher": "Pierre Andr\u00e9 Benoit",
+            "Printer": "Pierre Andr\u00e9 Benoit",
+            "Edition": "355",
+            "Credit": "Acquired through the generosity of the International Council of The Museum  of Modern Art in memory of Richard E. Oldenburg",
+            "Object number": "1158.2018.5",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Illustrated book": "591",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4607"
+    },
+    {
+        "Artist": "Pablo Picasso",
+        "Title": "Wrapper front from the illustrated book La Maigre",
+        "Year": "April 13, 1951, published 1952",
+        "ObjectID": "29870",
+        "Work": "https://www.moma.org/collection/works/29870",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3NDQ1NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=71565ea959335930",
+        "Details": {
+            "Author": "Adrian De Monluc, Comte De Cramail",
+            "Medium": "Drypoint",
+            "Dimensions": "plate: 16 1/8 x 9 3/16\" (41 x 23.3 cm); page: 16 1/8 x 9 1/16\" (41 x 23 cm)",
+            "Publisher": "Ilia Zdanevich",
+            "Printer": "Lacouri\u00e8re, Paris",
+            "Edition": "52",
+            "Credit": "The Louis E. Stern Collection",
+            "Object number": "1000.1964.1",
+            "Copyright": "\u00a9 2023 Estate of Pablo Picasso / Artists Rights Society (ARS), New York",
+            "Illustrated book": "La Maigre",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4609"
+    },
+    {
+        "Artist": "Pablo Picasso",
+        "Title": "La Maigre",
+        "Year": "1952.  (Prints executed 1951).",
+        "ObjectID": "29871",
+        "Work": "https://www.moma.org/collection/works/29871",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3NDQ1MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7413d86bf913dddb",
+        "Details": {
+            "Author": "Adrian De Monluc, Comte De Cramail",
+            "Medium": "Illustrated book with ten drypoints (including wrapper front), 2 with engraving and/or etching, printed in black",
+            "Dimensions": "irreg. page: 16 1/4 x 9 1/16\" (41 x 23 cm); prints: various dimensions.",
+            "Publisher": "Ilia Zdanevich",
+            "Printer": "Lacouri\u00e8re, Paris",
+            "Edition": "52",
+            "Credit": "The Louis E. Stern Collection",
+            "Object number": "1000.1964.1-10",
+            "Copyright": "\u00a9 2023 Estate of Pablo Picasso / Artists Rights Society (ARS), New York",
+            "Type": "Illustrated Book",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4609"
+    },
+    {
+        "Artist": "Pablo Picasso",
+        "Title": "Double page in-text plate (folios 17 verso and 18) from the illustrated book La Maigre",
+        "Year": "1951-1952",
+        "ObjectID": "29872",
+        "Work": "https://www.moma.org/collection/works/29872",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3NDQ1MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=341f1a2aad01719a",
+        "Details": {
+            "Medium": "Drypoint",
+            "Dimensions": "plate: 3 1/16 x 15 3/16\" (7.8 x 38.5 cm); page: 16 1/8 x 9 1/16\" (41 x 23 cm)",
+            "Edition": "52",
+            "Credit": "The Louis E. Stern Collection",
+            "Object number": "1000.1964.10",
+            "Copyright": "\u00a9 2023 Estate of Pablo Picasso / Artists Rights Society (ARS), New York",
+            "Illustrated book": "La Maigre",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4609"
+    },
+    {
+        "Artist": "Pablo Picasso",
+        "Title": "Double page in-text plate (folios 1 verso and 2) from the illustrated book La Maigre",
+        "Year": "1951-1952",
+        "ObjectID": "29873",
+        "Work": "https://www.moma.org/collection/works/29873",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3NDQ1NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4b0aa7b6e8193c96",
+        "Details": {
+            "Medium": "Drypoint and engraving",
+            "Dimensions": "plate: 3 1/8 x 15 3/16\" (7.9 x 38.6 cm); page: 16 1/8 x 9 1/16\" (41 x 23 cm)",
+            "Edition": "52",
+            "Credit": "The Louis E. Stern Collection",
+            "Object number": "1000.1964.2",
+            "Copyright": "\u00a9 2023 Estate of Pablo Picasso / Artists Rights Society (ARS), New York",
+            "Illustrated book": "La Maigre",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4609"
+    },
+    {
+        "Artist": "Pablo Picasso",
+        "Title": "Untitled from the illustrated book La Maigre",
+        "Year": "April 13, 1951, published 1952",
+        "ObjectID": "29874",
+        "Work": "https://www.moma.org/collection/works/29874",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3NDQ1NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b7f226d1ec79f283",
+        "Details": {
+            "Author": "Adrian De Monluc, Comte De Cramail",
+            "Medium": "Drypoint",
+            "Dimensions": "plate: 10 1/8 x 15 3/16\" (25.7 x 38.6 cm); page: 16 1/8 x 9 1/16\" (41 x 23 cm)",
+            "Publisher": "Ilia Zdanevich",
+            "Printer": "Lacouri\u00e8re, Paris",
+            "Edition": "52",
+            "Credit": "The Louis E. Stern Collection",
+            "Object number": "1000.1964.3",
+            "Copyright": "\u00a9 2023 Estate of Pablo Picasso / Artists Rights Society (ARS), New York",
+            "Illustrated book": "La Maigre",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4609"
+    },
+    {
+        "Artist": "Pablo Picasso",
+        "Title": "Double page in-text plate (folios 5 verso and 6) from the illustrated book La Maigre",
+        "Year": "1951-1952",
+        "ObjectID": "29875",
+        "Work": "https://www.moma.org/collection/works/29875",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3NDQ1NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=932e2114edcefb38",
+        "Details": {
+            "Medium": "Drypoint",
+            "Dimensions": "plate: 3 1/16 x 15 1/4\" (7.8 x 38.7 cm); page: 16 1/8 x 9 1/16\" (41 x 23 cm)",
+            "Edition": "52",
+            "Credit": "The Louis E. Stern Collection",
+            "Object number": "1000.1964.4",
+            "Copyright": "\u00a9 2023 Estate of Pablo Picasso / Artists Rights Society (ARS), New York",
+            "Illustrated book": "La Maigre",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4609"
+    },
+    {
+        "Artist": "Pablo Picasso",
+        "Title": "Woman with Broom (double page in-text plate; folios 7 verso and 8) from the illustrated book La Maigre",
+        "Year": "1951-1952",
+        "ObjectID": "29876",
+        "Work": "https://www.moma.org/collection/works/29876",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3NDQ1OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e8f84ccfbd8172d3",
+        "Details": {
+            "Medium": "Etching, drypoint, and engraving",
+            "Dimensions": "plate: 10 1/8 x 15 3/16\" (25.7 x 38.6 cm); page: 16 1/8 x 9 1/16\" (41 x 23 cm)",
+            "Edition": "52",
+            "Credit": "The Louis E. Stern Collection",
+            "Object number": "1000.1964.5",
+            "Copyright": "\u00a9 2023 Estate of Pablo Picasso / Artists Rights Society (ARS), New York",
+            "Illustrated book": "La Maigre",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4609"
+    },
+    {
+        "Artist": "Pablo Picasso",
+        "Title": "Double page in-text plate (folios 9 verso and 10) from the illustrated book La Maigre",
+        "Year": "1951-1952",
+        "ObjectID": "29877",
+        "Work": "https://www.moma.org/collection/works/29877",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3NDQ1OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=bf91e34e8b3b1b41",
+        "Details": {
+            "Medium": "Drypoint",
+            "Dimensions": "plate: 3 1/16 x 15 3/16\" (7.8 x 38.6 cm); page: 16 1/8 x 9 1/16\" (41 x 23 cm)",
+            "Edition": "52",
+            "Credit": "The Louis E. Stern Collection",
+            "Object number": "1000.1964.6",
+            "Copyright": "\u00a9 2023 Estate of Pablo Picasso / Artists Rights Society (ARS), New York",
+            "Illustrated book": "La Maigre",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4609"
+    },
+    {
+        "Artist": "Pablo Picasso",
+        "Title": "Untitled from the illustrated book La Maigre",
+        "Year": "April 13, 1951, published 1952",
+        "ObjectID": "29878",
+        "Work": "https://www.moma.org/collection/works/29878",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3NDQ2MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3fc9f66ca49c25de",
+        "Details": {
+            "Author": "Adrian De Monluc, Comte De Cramail",
+            "Medium": "Drypoint",
+            "Dimensions": "plate: 10 1/16 x 15 3/16\" (25.6 x 38.6 cm); page: 16 1/8 x 9 1/16\" (41 x 23 cm)",
+            "Publisher": "Ilia Zdanevich",
+            "Printer": "Lacouri\u00e8re, Paris",
+            "Edition": "52",
+            "Credit": "The Louis E. Stern Collection",
+            "Object number": "1000.1964.7",
+            "Copyright": "\u00a9 2023 Estate of Pablo Picasso / Artists Rights Society (ARS), New York",
+            "Illustrated book": "La Maigre",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4609"
+    },
+    {
+        "Artist": "Pablo Picasso",
+        "Title": "Untitled from the illustrated book La Maigre",
+        "Year": "April 13, 1951, published 1952",
+        "ObjectID": "29879",
+        "Work": "https://www.moma.org/collection/works/29879",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3NDQ2MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=37c93e002842a5fd",
+        "Details": {
+            "Author": "Adrian De Monluc, Comte De Cramail",
+            "Medium": "Drypoint",
+            "Dimensions": "plate: 3 1/16 x 15 3/16\" (7.8 x 38.6 cm); page: 16 1/8 x 9 1/16\" (41 x 23 cm)",
+            "Publisher": "Ilia Zdanevich",
+            "Printer": "Lacouri\u00e8re, Paris",
+            "Edition": "52",
+            "Credit": "The Louis E. Stern Collection",
+            "Object number": "1000.1964.8",
+            "Copyright": "\u00a9 2023 Estate of Pablo Picasso / Artists Rights Society (ARS), New York",
+            "Illustrated book": "La Maigre",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4609"
+    },
+    {
+        "Artist": "Pablo Picasso",
+        "Title": "Untitled from the illustrated book La Maigre",
+        "Year": "April 13, 1951, published 1952",
+        "ObjectID": "29880",
+        "Work": "https://www.moma.org/collection/works/29880",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3NDQ2MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=dfb7028c8eaea6f4",
+        "Details": {
+            "Author": "Adrian De Monluc, Comte De Cramail",
+            "Medium": "Drypoint",
+            "Dimensions": "plate: 10 1/8 x 15 3/16\" (25.7 x 38.6 cm); page: 16 1/8 x 9 1/16\" (41 x 23 cm)",
+            "Publisher": "Ilia Zdanevich",
+            "Printer": "Lacouri\u00e8re, Paris",
+            "Edition": "52",
+            "Credit": "The Louis E. Stern Collection",
+            "Object number": "1000.1964.9",
+            "Copyright": "\u00a9 2023 Estate of Pablo Picasso / Artists Rights Society (ARS), New York",
+            "Illustrated book": "La Maigre",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4609"
+    },
+    {
+        "Artist": "Pablo Picasso",
+        "Title": "La Chevre",
+        "Year": "1952",
+        "ObjectID": "29882",
+        "Work": "https://www.moma.org/collection/works/29882",
+        "Thumbnail": null,
+        "Details": {
+            "Author": "Andr\u00e9 Verdet",
+            "Medium": "Illustrated book with one etching and aquatint",
+            "Dimensions": "plate: 3 11/16 x 5 1/16\" (9.4 x 12.8 cm); page: 8 1/4 x 6 5/16\" (21 x 16 cm)",
+            "Publisher": "\u00c9ditions de Beaune, Paris",
+            "Printer": "Lacouri\u00e8re, Paris",
+            "Edition": "50",
+            "Credit": "The Louis E. Stern Collection",
+            "Object number": "1001.1964",
+            "Copyright": "\u00a9 2023 Estate of Pablo Picasso / Artists Rights Society (ARS), New York",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4609"
+    },
+    {
+        "Artist": "Pablo Picasso",
+        "Title": "Exposition 1952 Vallauris",
+        "Year": "(1952)",
+        "ObjectID": "66060",
+        "Work": "https://www.moma.org/collection/works/66060",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MzU4NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=64792a10244752db",
+        "Details": {
+            "Medium": "Woodcut",
+            "Dimensions": "composition: 25 7/8 x 19 15/16\" (65.7 x 50.7 cm); sheet: 25 9/16 x 19 15/16\" (65 x 50.7 cm)",
+            "Credit": "Gift of M. and Mme. Georges Rami\u00e9",
+            "Object number": "287.1952",
+            "Copyright": "\u00a9 2023 Estate of Pablo Picasso / Artists Rights Society (ARS), New York",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4609"
+    },
+    {
+        "Artist": "Pablo Picasso",
+        "Title": "Exposition 1952 Vallauris",
+        "Year": "(1952)",
+        "ObjectID": "66094",
+        "Work": "https://www.moma.org/collection/works/66094",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MzU4NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=de996422f45dbc1d",
+        "Details": {
+            "Medium": "Woodcut",
+            "Dimensions": "composition: 25 7/8 x 19 15/16\" (65.7 x 50.7 cm); sheet: 25 9/16 x 19 15/16\" (65 x 50.7 cm)",
+            "Credit": "Gift of M. and Mme. Georges Rami\u00e9",
+            "Object number": "288.1952",
+            "Copyright": "\u00a9 2023 Estate of Pablo Picasso / Artists Rights Society (ARS), New York",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4609"
+    },
+    {
+        "Artist": "Pablo Picasso",
+        "Title": "Exposition 1952 Vallauris",
+        "Year": "(1952)",
+        "ObjectID": "66116",
+        "Work": "https://www.moma.org/collection/works/66116",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MzU4NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1e32f5d91f27228c",
+        "Details": {
+            "Medium": "Woodcut",
+            "Dimensions": "composition: 25 7/8 x 19 15/16\" (65.7 x 50.7 cm); sheet: 25 9/16 x 19 15/16\" (65 x 50.7 cm)",
+            "Credit": "Gift of M. and Mme. Georges Rami\u00e9",
+            "Object number": "289.1952",
+            "Copyright": "\u00a9 2023 Estate of Pablo Picasso / Artists Rights Society (ARS), New York",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4609"
+    },
+    {
+        "Artist": "Pablo Picasso",
+        "Title": "Exposition 1952 Vallauris",
+        "Year": "(1952)",
+        "ObjectID": "66153",
+        "Work": "https://www.moma.org/collection/works/66153",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MzU4NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8353125ede3a1ed5",
+        "Details": {
+            "Medium": "Woodcut",
+            "Dimensions": "composition: 25 7/8 x 19 15/16\" (65.7 x 50.7 cm); sheet: 25 9/16 x 19 15/16\" (65 x 50.7 cm)",
+            "Credit": "Gift of M. and Mme. Georges Rami\u00e9",
+            "Object number": "290.1952",
+            "Copyright": "\u00a9 2023 Estate of Pablo Picasso / Artists Rights Society (ARS), New York",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4609"
+    },
+    {
+        "Artist": "Pablo Picasso",
+        "Title": "Paloma and Her Doll on Black Background (Paloma et sa poupee sur fond noir)",
+        "Year": "December 14, 1952",
+        "ObjectID": "67832",
+        "Work": "https://www.moma.org/collection/works/67832",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MDYzOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e7ef4ef57115e6c4",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition: 27 11/16 x 21 3/4\" (70.4 x 55.3 cm); sheet: 29 1/2 x 22 3/16\" (75 x 56.3 cm)",
+            "Publisher": "Galerie Louise Leiris, Paris",
+            "Printer": "Mourlot, Paris",
+            "Edition": "50",
+            "Credit": "Curt Valentin Bequest",
+            "Object number": "366.1955",
+            "Copyright": "\u00a9 2023 Estate of Pablo Picasso / Artists Rights Society (ARS), New York",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4609"
+    },
+    {
+        "Artist": "Pablo Picasso",
+        "Title": "The Woman at the Window (La Femme a la fenetre)",
+        "Year": "1952",
+        "ObjectID": "67879",
+        "Work": "https://www.moma.org/collection/works/67879",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1OTA1OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ee8414325b327f19",
+        "Details": {
+            "Medium": "Aquatint",
+            "Dimensions": "plate: 34 13/16 x 18 5/8\" (88.4 x 47.3 cm); sheet: 35 7/16 x 25 1/16\" (90 x 63.7 cm)",
+            "Publisher": "Galerie Louise Leiris, Paris",
+            "Printer": "Lacouri\u00e8re, Paris",
+            "Edition": "50",
+            "Credit": "Curt Valentin Bequest",
+            "Object number": "367.1955",
+            "Copyright": "\u00a9 2023 Estate of Pablo Picasso / Artists Rights Society (ARS), New York",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4609"
+    },
+    {
+        "Artist": "Pablo Picasso",
+        "Title": "The Hen (La Poule)",
+        "Year": "1952",
+        "ObjectID": "67896",
+        "Work": "https://www.moma.org/collection/works/67896",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1OTA1NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d3d07fd830537d20",
+        "Details": {
+            "Medium": "Aquatint and drypoint",
+            "Dimensions": "plate: 20 1/4 x 26 3/16\" (51.5 x 66.5 cm); sheet: 22 5/16 x 30 1/8\" (56.7 x 76.5 cm)",
+            "Publisher": "Galerie Louise Leiris, Paris",
+            "Printer": "Lacouri\u00e8re, Paris",
+            "Edition": "50",
+            "Credit": "Curt Valentin Bequest",
+            "Object number": "368.1955",
+            "Copyright": "\u00a9 2023 Estate of Pablo Picasso / Artists Rights Society (ARS), New York",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4609"
+    },
+    {
+        "Artist": "Pablo Picasso",
+        "Title": "Exhibition 1952 Vallauris",
+        "Year": "(1952)",
+        "ObjectID": "68014",
+        "Work": "https://www.moma.org/collection/works/68014",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MzE4OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5d16d4aeb3e9b38f",
+        "Details": {
+            "Medium": "Woodcut",
+            "Dimensions": "composition and sheet: 25 7/8 x 19 15/16\" (65.7 x 50.7 cm)",
+            "Credit": "Gift of Ren\u00e9 Batigne",
+            "Object number": "374.1956",
+            "Copyright": "\u00a9 2023 Estate of Pablo Picasso / Artists Rights Society (ARS), New York",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4609"
+    },
+    {
+        "Artist": "Pablo Picasso",
+        "Title": "Head of Balzac I",
+        "Year": "1952",
+        "ObjectID": "71988",
+        "Work": "https://www.moma.org/collection/works/71988",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MzIxNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7dbe03e804a52e54",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition: 27 1/2 x 20 15/16\" (69.9 x 53.2 cm); sheet: 29 13/16 x 22 1/4\" (75.7 x 56.5 cm)",
+            "Credit": "Purchase",
+            "Object number": "622.1954",
+            "Copyright": "\u00a9 2023 Estate of Pablo Picasso / Artists Rights Society (ARS), New York",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4609"
+    },
+    {
+        "Artist": "Pablo Picasso",
+        "Title": "Head of Balzac II",
+        "Year": "1952",
+        "ObjectID": "72003",
+        "Work": "https://www.moma.org/collection/works/72003",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MzIxNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d7148aa6370dbb80",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition: 26 5/8 x 20 1/4\" (67.7 x 51.5 cm); sheet: 29 13/16 x 22 1/4\" (75.7 x 56.5 cm)",
+            "Credit": "Purchase",
+            "Object number": "623.1954",
+            "Copyright": "\u00a9 2023 Estate of Pablo Picasso / Artists Rights Society (ARS), New York",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4609"
+    },
+    {
+        "Artist": "Pablo Picasso",
+        "Title": "Head of Balzac III",
+        "Year": "1952",
+        "ObjectID": "72016",
+        "Work": "https://www.moma.org/collection/works/72016",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MzIxNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8cf067496f985efc",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition: 26 7/8 x 20 1/16\" (68.3 x 51 cm); sheet: 29 13/16 x 22 1/4\" (75.7 x 56.5 cm)",
+            "Credit": "Purchase",
+            "Object number": "624.1954",
+            "Copyright": "\u00a9 2023 Estate of Pablo Picasso / Artists Rights Society (ARS), New York",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4609"
+    },
+    {
+        "Artist": "Pablo Picasso",
+        "Title": "The Hen (La Poule)",
+        "Year": "1952",
+        "ObjectID": "75620",
+        "Work": "https://www.moma.org/collection/works/75620",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1OTA5OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8b5e1ede60cca4f6",
+        "Details": {
+            "Medium": "Aquatint and drypoint",
+            "Dimensions": "plate: 20 5/16 x 26 1/4\" (51.6 x 66.7 cm); sheet: 22 5/16 x 29 15/16\" (56.7 x 76 cm)",
+            "Publisher": "unpublished",
+            "Printer": "Lacouri\u00e8re, Paris",
+            "Edition": "3 proofs",
+            "Credit": "The Associates Fund",
+            "Object number": "1091.1979",
+            "Copyright": "\u00a9 2023 Estate of Pablo Picasso / Artists Rights Society (ARS), New York",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4609"
+    },
+    {
+        "Artist": "Pablo Picasso",
+        "Title": "The Hen (La Poule)",
+        "Year": "1952",
+        "ObjectID": "75624",
+        "Work": "https://www.moma.org/collection/works/75624",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3NDQ5OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=83da21c9690324f4",
+        "Details": {
+            "Medium": "Aquatint and drypoint",
+            "Dimensions": "plate: 20 5/16 x 26 5/16\" (51.6 x 66.8 cm); sheet: 22 1/16 x 30 1/8\" (56 x 76.5 cm)",
+            "Printer": "Lacouri\u00e8re, Paris",
+            "Edition": "3",
+            "Credit": "The Associates Fund",
+            "Object number": "1092.1979",
+            "Copyright": "\u00a9 2023 Estate of Pablo Picasso / Artists Rights Society (ARS), New York",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4609"
+    },
+    {
+        "Artist": "Pablo Picasso",
+        "Title": "Exposition Vallauris",
+        "Year": "1952",
+        "ObjectID": "129917",
+        "Work": "https://www.moma.org/collection/works/129917",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Linoleum cut",
+            "Dimensions": "26 1/8 x 19 3/4\" (66.4 x 50.2 cm)",
+            "Credit": "Gift of Curt Valentin",
+            "Object number": "332.1953.1",
+            "Copyright": "\u00a9 2023 Estate of Pablo Picasso / Artists Rights Society (ARS), New York",
             "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/6208"
+        "Profile": "https://www.moma.org/artists/4609"
     },
     {
-        "Artist": "Wilhelm Wagenfeld",
-        "Title": "Egg Cups",
-        "Year": "1938",
-        "ObjectID": "3723",
-        "Work": "https://www.moma.org/collection/works/3723",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMTIyNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a13e9355da3573e4",
+        "Artist": "Pablo Picasso",
+        "Title": "Exposition Vallauris",
+        "Year": "1952",
+        "ObjectID": "129918",
+        "Work": "https://www.moma.org/collection/works/129918",
+        "Thumbnail": null,
         "Details": {
-            "Manufacturer": "Vereinigte Lausitzer Glaswerke A.G., Weisswasser, Germany",
-            "Medium": "Pressed glass",
-            "Dimensions": "Each: 1 7/8 x 2 1/2\" (4.8 x 6.4 cm)",
-            "Credit": "Gift of Manfred Ludewig",
-            "Object number": "383.1982.1-2",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Medium": "Linoleum cut",
+            "Dimensions": "26 1/8 x 19 3/4\" (66.4 x 50.2 cm)",
+            "Credit": "Gift of Curt Valentin",
+            "Object number": "332.1953.2",
+            "Copyright": "\u00a9 2023 Estate of Pablo Picasso / Artists Rights Society (ARS), New York",
             "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/6208"
-    },
-    {
-        "Artist": "Wilhelm Wagenfeld",
-        "Title": "Heilbronn Bowl",
-        "Year": "1937-38",
-        "ObjectID": "3724",
-        "Work": "https://www.moma.org/collection/works/3724",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMTIyNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4f4dfbecc51d0ed6",
-        "Details": {
-            "Manufacturer": "Vereinigte Lausitzer Glaswerke A.G., Weisswasser, Germany",
-            "Medium": "Pressed glass",
-            "Dimensions": "3 3/4 x 8 1/2\" (9.6 x 21.6 cm) diam.",
-            "Credit": "Gift of Manfred Ludewig",
-            "Object number": "384.1982",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/6208"
-    },
-    {
-        "Artist": "Wilhelm Wagenfeld",
-        "Title": "Heilbronn Bowl",
-        "Year": "1937-38",
-        "ObjectID": "3727",
-        "Work": "https://www.moma.org/collection/works/3727",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyOTQ5MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=34fc5419d002c16c",
-        "Details": {
-            "Manufacturer": "Vereinigte Lausitzer Glaswerke A.G., Weisswasser, Germany",
-            "Medium": "Pressed glass",
-            "Dimensions": "2 3/8 x 13 3/16\" (6 x 33.5 cm)",
-            "Credit": "Gift of Manfred Ludewig",
-            "Object number": "386.1982",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/6208"
-    },
-    {
-        "Artist": "Don Wallance",
-        "Title": "Chair",
-        "Year": "1938",
-        "ObjectID": "4219",
-        "Work": "https://www.moma.org/collection/works/4219",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMTgyOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=14684f6711bbb44e",
-        "Details": {
-            "Medium": "Molybdenum alloy and lucite",
-            "Dimensions": "27 1/2 x 18 x 16 1/2\" (69.9 x 45.7 x 41.9 cm)",
-            "Credit": "Gift of the designer",
-            "Object number": "683.1939",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/6228"
-    },
-    {
-        "Artist": "W. Archibald Welden",
-        "Title": "Cocktail Shaker",
-        "Year": "c. 1938",
-        "ObjectID": "2041",
-        "Work": "https://www.moma.org/collection/works/2041",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNjQyNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2283f766db50d32e",
-        "Details": {
-            "Manufacturer": "Revere Copper and Brass, Inc., Rome, NY",
-            "Medium": "Chrome-plated metal",
-            "Dimensions": "11 x 3\" (27.9 x 7.6 cm)",
-            "Credit": "Gift of the manufacturer",
-            "Object number": "81.1946.a-c",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/6304"
-    },
-    {
-        "Artist": "Stow Wengenroth",
-        "Title": "Monhegan, Maine",
-        "Year": "1938",
-        "ObjectID": "124742",
-        "Work": "https://www.moma.org/collection/works/124742",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUwMDMzNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2ec871ed68879f63",
-        "Details": {
-            "Medium": "Stone lithograph",
-            "Dimensions": "11 1/2 \u00d7 15\" (29.2 \u00d7 38.1 cm)",
-            "Credit": "Gift of Richard Benson",
-            "Object number": "SC2008.1.25",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/6309"
-    },
-    {
-        "Artist": "Brett Weston",
-        "Title": "Sand Dune 2",
-        "Year": "1938",
-        "ObjectID": "44444",
-        "Work": "https://www.moma.org/collection/works/44444",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MzI2NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e4b8623b370446ba",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "9 1/2 \u00d7 7 1/2\" (24.1 \u00d7 19 cm)",
-            "Credit": "Gift of Albert M. Bender",
-            "Object number": "38.1939",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/6327"
-    },
-    {
-        "Artist": "Brett Weston",
-        "Title": "Factory",
-        "Year": "1938",
-        "ObjectID": "44635",
-        "Work": "https://www.moma.org/collection/works/44635",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MzI4NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f8ac56399fddd389",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "7 5/8 \u00d7 9 1/2\" (19.4 \u00d7 24.1 cm)",
-            "Credit": "Gift of Albert M. Bender",
-            "Object number": "44.1939",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/6327"
-    },
-    {
-        "Artist": "Brett Weston",
-        "Title": "San Francisco Bay",
-        "Year": "1938",
-        "ObjectID": "46284",
-        "Work": "https://www.moma.org/collection/works/46284",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MzQ2MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=dec67c116e8dc7e2",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "7 1/2 \u00d7 9 1/2\" (19 \u00d7 24.1 cm)",
-            "Credit": "Gift of Albert M. Bender",
-            "Object number": "103.1940.3",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/6327"
-    },
-    {
-        "Artist": "Brett Weston",
-        "Title": "New Highway North of Santa Fe",
-        "Year": "1938",
-        "ObjectID": "58396",
-        "Work": "https://www.moma.org/collection/works/58396",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MzE3OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=44ea91567ad5f59b",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "7 9/16 \u00d7 9 1/2\" (19.3 \u00d7 24.0 cm)",
-            "Credit": "Gift of David H. McAlpin",
-            "Object number": "1813.1968",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/6327"
-    },
-    {
-        "Artist": "Edward Weston",
-        "Title": "Wet Kelp, Point Lobos",
-        "Year": "1938",
-        "ObjectID": "46506",
-        "Work": "https://www.moma.org/collection/works/46506",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwODE5MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e88b125f91df0263",
-        "Details": {
-            "Medium": "Gelatin silver print, printed c. 1953",
-            "Dimensions": "7 1/2 \u00d7 9 1/2\" (19.1 \u00d7 24.1 cm)",
-            "Credit": "Gift of Willard Van Dyke",
-            "Object number": "99.1973",
-            "Copyright": "\u00a9 Center for Creative Photography, Arizona Board of Regents / Artists Rights Society (ARS), New York",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/6329"
-    },
-    {
-        "Artist": "Edward Weston",
-        "Title": "Dante's View, Death Valley",
-        "Year": "1938",
-        "ObjectID": "49449",
-        "Work": "https://www.moma.org/collection/works/49449",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwODYwMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ebd26ae1a4d53460",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "7 9/16 \u00d7 9 9/16\" (19.3 \u00d7 24.2 cm)",
-            "Credit": "Gift of Dorothy Norman",
-            "Object number": "244.1966",
-            "Copyright": "\u00a9 Center for Creative Photography, Arizona Board of Regents / Artists Rights Society (ARS), New York",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/6329"
-    },
-    {
-        "Artist": "Edward Weston",
-        "Title": "Rhyolite, Nevada",
-        "Year": "1938",
-        "ObjectID": "51392",
-        "Work": "https://www.moma.org/collection/works/51392",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwODgwNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=69e893dfd684adbf",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "7 9/16 \u00d7 9 5/8\" (19.2 \u00d7 24.4 cm)",
-            "Credit": "Acquired by exchange",
-            "Object number": "346.1993",
-            "Copyright": "\u00a9 Center for Creative Photography, Arizona Board of Regents / Artists Rights Society (ARS), New York",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/6329"
-    },
-    {
-        "Artist": "Edward Weston",
-        "Title": "Twenty Mule Team Canyon, Death Valley",
-        "Year": "1938",
-        "ObjectID": "52773",
-        "Work": "https://www.moma.org/collection/works/52773",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwODg5MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d66b7af086d9e65f",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "7 1/2 \u00d7 9 1/2\" (19.1 \u00d7 24.2 cm)",
-            "Credit": "Gift of David H. McAlpin",
-            "Object number": "408.1956",
-            "Copyright": "\u00a9 Center for Creative Photography, Arizona Board of Regents / Artists Rights Society (ARS), New York",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/6329"
-    },
-    {
-        "Artist": "Edward Weston",
-        "Title": "Snow Covered Rocks, Yosemite",
-        "Year": "1938",
-        "ObjectID": "53151",
-        "Work": "https://www.moma.org/collection/works/53151",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwODkxMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0c6259dd7757a506",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "7 9/16 \u00d7 9 5/8\" (19.3 \u00d7 24.4 cm)",
-            "Credit": "Gift of David H. McAlpin",
-            "Object number": "421.1956",
-            "Copyright": "\u00a9 Center for Creative Photography, Arizona Board of Regents / Artists Rights Society (ARS), New York",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/6329"
-    },
-    {
-        "Artist": "Edward Weston",
-        "Title": "Dante's View, Death Valley",
-        "Year": "1938",
-        "ObjectID": "53271",
-        "Work": "https://www.moma.org/collection/works/53271",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwODkzMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8ac7fe20c72e28c3",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "7 7/16 \u00d7 9 1/2\" (18.9 \u00d7 24.1 cm)",
-            "Credit": "Gift of David H. McAlpin",
-            "Object number": "430.1956",
-            "Copyright": "\u00a9 Center for Creative Photography, Arizona Board of Regents / Artists Rights Society (ARS), New York",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/6329"
-    },
-    {
-        "Artist": "Edward Weston",
-        "Title": "Rhyolite, Nevada",
-        "Year": "1938",
-        "ObjectID": "53590",
-        "Work": "https://www.moma.org/collection/works/53590",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwODk2NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=91aed9bc2972df87",
-        "Details": {
-            "Medium": "Gelatin silver print, printed 1941",
-            "Dimensions": "7 1/2 \u00d7 9 5/8\" (19.1 \u00d7 24.5 cm)",
-            "Credit": "Anonymous gift",
-            "Object number": "455.1941",
-            "Copyright": "\u00a9 Center for Creative Photography, Arizona Board of Regents / Artists Rights Society (ARS), New York",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/6329"
-    },
-    {
-        "Artist": "Edward Weston",
-        "Title": "Yosemite",
-        "Year": "1938",
-        "ObjectID": "53639",
-        "Work": "https://www.moma.org/collection/works/53639",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwODk3NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f0b3bd072ad2b9db",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "9 1/2 \u00d7 7 1/2\" (24.1 \u00d7 19.1 cm)",
-            "Credit": "Anonymous gift",
-            "Object number": "459.1941",
-            "Copyright": "\u00a9 Center for Creative Photography, Arizona Board of Regents / Artists Rights Society (ARS), New York",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/6329"
-    },
-    {
-        "Artist": "Edward Weston",
-        "Title": "Graveyard, Rhyolite, Nevada",
-        "Year": "1938",
-        "ObjectID": "58232",
-        "Work": "https://www.moma.org/collection/works/58232",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwOTYxNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=479b0bb04b72da7d",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "7 1/2 \u00d7 9 1/2\" (19 \u00d7 24.1 cm)",
-            "Credit": "Gift of Willard Van Dyke",
-            "Object number": "1509.1968",
-            "Copyright": "\u00a9 Center for Creative Photography, Arizona Board of Regents / Artists Rights Society (ARS), New York",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/6329"
-    },
-    {
-        "Artist": "Edward Weston",
-        "Title": "Meyer's Ranch, Yosemite",
-        "Year": "1938",
-        "ObjectID": "58442",
-        "Work": "https://www.moma.org/collection/works/58442",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwOTYzNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3899a594431f292e",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "7 9/16 \u00d7 9 9/16\" (19.3 \u00d7 24.3 cm)",
-            "Credit": "Gift of David H. McAlpin",
-            "Object number": "1859.1968",
-            "Copyright": "\u00a9 Center for Creative Photography, Arizona Board of Regents / Artists Rights Society (ARS), New York",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/6329"
-    },
-    {
-        "Artist": "Edward Weston",
-        "Title": "Surf, China Cove, Point Lobos",
-        "Year": "1938",
-        "ObjectID": "58443",
-        "Work": "https://www.moma.org/collection/works/58443",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwOTYzNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=762f86806f38bd16",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "7 11/16 \u00d7 9 5/8\" (19.5 \u00d7 24.4 cm)",
-            "Credit": "Gift of David H. McAlpin",
-            "Object number": "1860.1968",
-            "Copyright": "\u00a9 Center for Creative Photography, Arizona Board of Regents / Artists Rights Society (ARS), New York",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/6329"
-    },
-    {
-        "Artist": "Edward Weston",
-        "Title": "Rock Erosion, Point Lobos",
-        "Year": "1938",
-        "ObjectID": "58444",
-        "Work": "https://www.moma.org/collection/works/58444",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwOTYzNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8e7ffce07fae28d8",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "7 1/2 \u00d7 9 5/8\" (19.1 \u00d7 24.4 cm)",
-            "Credit": "Gift of David H. McAlpin",
-            "Object number": "1861.1968",
-            "Copyright": "\u00a9 Center for Creative Photography, Arizona Board of Regents / Artists Rights Society (ARS), New York",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/6329"
-    },
-    {
-        "Artist": "Edward Weston",
-        "Title": "Rock and Sea, Point Lobos",
-        "Year": "1938",
-        "ObjectID": "58451",
-        "Work": "https://www.moma.org/collection/works/58451",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwOTY0NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=465f0f641db9ea01",
-        "Details": {
-            "Medium": "Gelatin silver print, printed c. 1953",
-            "Dimensions": "7 1/2 \u00d7 9 1/2\" (19.1 \u00d7 24.1 cm)",
-            "Credit": "Gift of David H. McAlpin",
-            "Object number": "1868.1968",
-            "Copyright": "\u00a9 Center for Creative Photography, Arizona Board of Regents / Artists Rights Society (ARS), New York",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/6329"
-    },
-    {
-        "Artist": "Edward Weston",
-        "Title": "Jerome, Arizona",
-        "Year": "1938",
-        "ObjectID": "58462",
-        "Work": "https://www.moma.org/collection/works/58462",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwOTY1NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=25ed3b1b34b13f5e",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "7 9/16 \u00d7 9 9/16\" (19.3 \u00d7 24.3 cm)",
-            "Credit": "Gift of David H. McAlpin",
-            "Object number": "1879.1968",
-            "Copyright": "\u00a9 Center for Creative Photography, Arizona Board of Regents / Artists Rights Society (ARS), New York",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/6329"
-    },
-    {
-        "Artist": "Edward Weston",
-        "Title": "Zabriskie Point, Death Valley",
-        "Year": "1938",
-        "ObjectID": "58464",
-        "Work": "https://www.moma.org/collection/works/58464",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwOTY1NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1a844b758db33699",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "7 5/8 \u00d7 9 5/8\" (19.4 \u00d7 24.4 cm)",
-            "Credit": "Gift of David H. McAlpin",
-            "Object number": "1881.1968",
-            "Copyright": "\u00a9 Center for Creative Photography, Arizona Board of Regents / Artists Rights Society (ARS), New York",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/6329"
-    },
-    {
-        "Artist": "Edward Weston",
-        "Title": "Surf on Black Beach, Point Lobos",
-        "Year": "1938",
-        "ObjectID": "58467",
-        "Work": "https://www.moma.org/collection/works/58467",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwOTY1OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b9706611b2ef9cc9",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "7 5/8 \u00d7 9 5/8\" (19.4 \u00d7 24.4 cm)",
-            "Credit": "Gift of David H. McAlpin",
-            "Object number": "1884.1968",
-            "Copyright": "\u00a9 Center for Creative Photography, Arizona Board of Regents / Artists Rights Society (ARS), New York",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/6329"
-    },
-    {
-        "Artist": "Edward Weston",
-        "Title": "China Cove, Point Lobos",
-        "Year": "1938",
-        "ObjectID": "58470",
-        "Work": "https://www.moma.org/collection/works/58470",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwOTY2MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=74039bc9cc3b7442",
-        "Details": {
-            "Medium": "Gelatin silver print, printed c. 1953",
-            "Dimensions": "7 9/16 \u00d7 9 9/16\" (19.2 \u00d7 24.3 cm)",
-            "Credit": "Gift of David H. McAlpin",
-            "Object number": "1887.1968",
-            "Copyright": "\u00a9 Center for Creative Photography, Arizona Board of Regents / Artists Rights Society (ARS), New York",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/6329"
-    },
-    {
-        "Artist": "Edward Weston",
-        "Title": "Melting Ice, Arizona",
-        "Year": "1938",
-        "ObjectID": "58471",
-        "Work": "https://www.moma.org/collection/works/58471",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwOTY2MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=59658c52d27e1bc2",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "7 9/16 \u00d7 9 1/2\" (19.3 \u00d7 24.1 cm)",
-            "Credit": "Gift of David H. McAlpin",
-            "Object number": "1888.1968",
-            "Copyright": "\u00a9 Center for Creative Photography, Arizona Board of Regents / Artists Rights Society (ARS), New York",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/6329"
+        "Profile": "https://www.moma.org/artists/4609"
     }
 ]

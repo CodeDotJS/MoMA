@@ -1,825 +1,833 @@
 [
     {
-        "Artist": "Henri Matisse",
-        "Title": "Reclining Nude, with Necklace (Femme etendue aux perles)",
-        "Year": "1925",
-        "ObjectID": "62366",
-        "Work": "https://www.moma.org/collection/works/62366",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NDA2MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0604fab1a5ac1d9f",
+        "Artist": "Alexander Calder",
+        "Title": "Untitled",
+        "Year": "1939",
+        "ObjectID": "81965",
+        "Work": "https://www.moma.org/collection/works/81965",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMTk3OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8d68ea01f6958673",
         "Details": {
-            "Medium": "Etching with chine coll\u00e9",
-            "Dimensions": "plate: 3 5/8 x 4 3/4\" (9.2 x 12 cm); sheet: 14 15/16 x 11 1/16\" (38 x 28.1 cm)",
-            "Credit": "Stephen C. Clark Fund",
-            "Object number": "128.1951",
-            "Copyright": "\u00a9 2023 Succession H. Matisse / Artists Rights Society (ARS), New York",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/3832"
-    },
-    {
-        "Artist": "Henri Matisse",
-        "Title": "Study of Legs (Etude de jambes)",
-        "Year": "1925",
-        "ObjectID": "67917",
-        "Work": "https://www.moma.org/collection/works/67917",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxODUxMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=bbf014c66ae87197",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "composition: 21 5/16 x 17 3/16\" (54.1 x 43.6cm); sheet: 29 1/8 x 21 5/8\" (74 x 54.9cm)",
-            "Printer": "probably Atelier Duch\u00e2tel, Paris",
-            "Edition": "50",
-            "Credit": "Purchase",
-            "Object number": "369.1956",
-            "Copyright": "\u00a9 2023 Succession H. Matisse / Artists Rights Society (ARS), New York",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/3832"
-    },
-    {
-        "Artist": "Henri Matisse",
-        "Title": "Odalisque in Red Satin Pantaloons (Odalisque a la culotte de satin rouge)",
-        "Year": "1925",
-        "ObjectID": "68994",
-        "Work": "https://www.moma.org/collection/works/68994",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMjIwMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c0c4051379ae9666",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "composition: 7 1/2 x 10 5/8\" (19 x 27cm); sheet: 11 1/4 \u00d7 14 3/8\" (28.5 \u00d7 36.5 cm)",
-            "Printer": "probably Atelier Duch\u00e2tel, Paris",
-            "Edition": "50",
-            "Credit": "Gift of Abby Aldrich Rockefeller",
-            "Object number": "430.1940",
-            "Copyright": "\u00a9 2023 Succession H. Matisse / Artists Rights Society (ARS), New York",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/3832"
-    },
-    {
-        "Artist": "Henri Matisse",
-        "Title": "Veiled Odalisque (Odalisque voilee)",
-        "Year": "1925",
-        "ObjectID": "71325",
-        "Work": "https://www.moma.org/collection/works/71325",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMzQ3NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e06618b251827587",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "composition: 21 5/16 x 17 3/16\" (54.1 x 43.6 cm); sheet: 29 1/8 x 21 5/8\" (74 x 54.9 cm)",
-            "Printer": "probably Atelier Duch\u00e2tel, Paris",
-            "Edition": "50",
-            "Credit": "Gift of Abby Aldrich Rockefeller (by exchange)",
-            "Object number": "572.1951",
-            "Copyright": "\u00a9 2023 Succession H. Matisse / Artists Rights Society (ARS), New York",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/3832"
-    },
-    {
-        "Artist": "Henri Matisse",
-        "Title": "Large Odalisque in Striped Pantaloons (Grande Odalisque a culotte bayadere)",
-        "Year": "1925",
-        "ObjectID": "75574",
-        "Work": "https://www.moma.org/collection/works/75574",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMDgzNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d0b449b0676fee27",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "composition: 21 1/2 x 17 3/8\" (54.6 x 44.1 cm); sheet: 28 5/8 x 22 5/8\" (72 x 57.5 cm)",
-            "Publisher": "Edmond Frapier, Paris",
-            "Printer": "Atelier Duch\u00e2tel, Paris",
-            "Edition": "50",
-            "Credit": "Nelson A. Rockefeller Bequest",
-            "Object number": "1084.1979",
-            "Copyright": "\u00a9 2023 Succession H. Matisse / Artists Rights Society (ARS), New York",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/3832"
-    },
-    {
-        "Artist": "Jan Matulka",
-        "Title": "Cityscape",
-        "Year": "(c. 1925)",
-        "ObjectID": "36951",
-        "Work": "https://www.moma.org/collection/works/36951",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQwMjYyMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9100c0c4d678bd5d",
-        "Details": {
-            "Medium": "Crayon on paper",
-            "Dimensions": "10 7/8 x 8 3/8\" (27.8 x 21.5 cm)",
-            "Credit": "Gift of Mrs. Jan Matulka",
-            "Object number": "446.1981",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/3848"
-    },
-    {
-        "Artist": "Jan Matulka",
-        "Title": "Cityscape",
-        "Year": "(c. 1925)",
-        "ObjectID": "36957",
-        "Work": "https://www.moma.org/collection/works/36957",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQwMjYyMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4cbffda886c48440",
-        "Details": {
-            "Medium": "Ink on paper",
-            "Dimensions": "10 7/8 x 8 3/8\" (27.8 x 21.5 cm)",
-            "Credit": "Gift of Mrs. Jan Matulka",
-            "Object number": "447.1981",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/3848"
-    },
-    {
-        "Artist": "Moriz Melzer",
-        "Title": "Poster design (unrealized) for November Group Artists' Festival (Kunstlerfest der Novembergruppe)",
-        "Year": "c. 1920",
-        "ObjectID": "220963",
-        "Work": "https://www.moma.org/collection/works/220963",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ0MDMwNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=66d7c760de6c9a7c",
-        "Details": {
-            "Medium": "Gouache and pencil on paper",
-            "Dimensions": "34 1/4 \u00d7 19 7/8\" (87 \u00d7 50.5 cm)",
-            "Credit": "The Merrill C. Berman Collection. Acquired through the generosity of Alice and Tom Tisch, Jo Carole and Ronald S. Lauder, Sue and Edgar Wachenheim III, David Booth, Marlene Hess and James D. Zirin, Marie-Jos\u00e9e and Henry R. Kravis, Jack Shear, the Patricia Bonfield Endowed Acquisition Fund for the Design Collection, Daniel and Jane Och, The Orentreich Family Foundation, Emily Rauh Pulitzer, The Modern Women's Fund; and by exchange: Gift of Jean Dubuffet in honor of Mr. and Mrs. Ralph Colin, The Judith Rothschild Foundation Contemporary Drawings Collection, and the Richard S. Zeisler Bequest",
-            "Object number": "457.2018",
-            "Copyright": "\u00a9 Moriz Melzer. Used by permission.",
-            "Associated work": "The Merrill C. Berman Collection at MoMA",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/36729"
-    },
-    {
-        "Artist": "Ludwig Mies van der Rohe",
-        "Title": "Eliat House Project, Potsdam-Nedlitz, Germany, Perspective",
-        "Year": "1925",
-        "ObjectID": "100362",
-        "Work": "https://www.moma.org/collection/works/100362",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0NTMyNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=54513ca2fdd8942f",
-        "Details": {
-            "Medium": "Pastel on paper",
-            "Dimensions": "12 1/4 x 24 1/4\" (31.1 x 61.6 cm)",
-            "Credit": "Mies van der Rohe Archive Purchase",
-            "Object number": "826.2005",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/7166"
-    },
-    {
-        "Artist": "Joan Miro",
-        "Title": "The Birth of the World",
-        "Year": "Montroig, late summer-fall 1925",
-        "ObjectID": "79321",
-        "Work": "https://www.moma.org/collection/works/79321",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQzODQ1MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9d04793ed5f34f13",
-        "Details": {
-            "Medium": "Oil on canvas",
-            "Dimensions": "8' 2 3/4\" x 6' 6 3/4\" (250.8 x 200 cm)",
-            "Credit": "Acquired through an anonymous fund, the Mr. and Mrs. Joseph Slifka and Armand G. Erpf Funds, and by gift of the artist",
-            "Object number": "262.1972",
-            "Copyright": "\u00a9 2023 Successi\u00f3  Mir\u00f3 / Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Medium": "Painted sheet aluminum and steel wire",
+            "Dimensions": "14 5/8 x 9 x 10 7/8\" (37.1 x 22.8 x 27.5 cm)",
+            "Credit": "Kay Sage Tanguy Bequest",
+            "Object number": "1122.1964",
+            "Copyright": "\u00a9 2023 Calder Foundation, New York / Artists Rights Society (ARS), New York",
             "Department": "Painting and Sculpture"
         },
-        "Profile": "https://www.moma.org/artists/4016"
+        "Profile": "https://www.moma.org/artists/922"
     },
     {
-        "Artist": "Tina Modotti",
-        "Title": "Cactus",
-        "Year": "1925",
-        "ObjectID": "51070",
-        "Work": "https://www.moma.org/collection/works/51070",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQzOTY5NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=edc4f4195cabf5fa",
+        "Artist": "Frank Capra",
+        "Title": "Mr. Smith Goes to Washington",
+        "Year": "1939",
+        "ObjectID": "308112",
+        "Work": "https://www.moma.org/collection/works/308112",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExMzA4OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2787d04bb35f263d",
         "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "9 1/16 \u00d7 6 5/8\" (23.1 \u00d7 16.8 cm)",
-            "Credit": "Anonymous gift",
-            "Object number": "335.1965",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/4039"
-    },
-    {
-        "Artist": "Lucia Moholy",
-        "Title": "Alma Buscher\u2019s Ladder Chair for Children\u2019s Room",
-        "Year": "1923-25",
-        "ObjectID": "83981",
-        "Work": "https://www.moma.org/collection/works/83981",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1NjMyNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=30c7e6f47e0a4715",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "6 9/16 \u00d7 8 3/8\" (16.7 \u00d7 21.2 cm)",
-            "Designer": "Alma Siedhoff-Buscher",
-            "Credit": "Thomas Walther Collection. Gift of Thomas Walther",
-            "Object number": "1647.2001",
-            "Copyright": "\u00a9 2023 Lucia Moholy Estate/Artists Rights Society (ARS), New York/VG Bild-Kunst, Bonn",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/6922"
-    },
-    {
-        "Artist": "Laszlo Moholy-Nagy",
-        "Title": "Stationery invoice for Staatliches Bauhaus Weimar Rechnung (State Bauhaus Weimar)",
-        "Year": "c. 1924",
-        "ObjectID": "8051",
-        "Work": "https://www.moma.org/collection/works/8051",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDkzMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=34899842f152f2e8",
-        "Details": {
-            "Medium": "Letterpress",
-            "Dimensions": "11 1/4 x 8 7/8\" (28.6 x 22.5 cm)",
-            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
-            "Object number": "754.1999",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/4048"
-    },
-    {
-        "Artist": "Laszlo Moholy-Nagy",
-        "Title": "Staatliches Bauhaus Weimar",
-        "Year": "1919-25",
-        "ObjectID": "8056",
-        "Work": "https://www.moma.org/collection/works/8056",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDkzMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c553be53da32819a",
-        "Details": {
-            "Medium": "Letterpress",
-            "Dimensions": "11 3/16 x 8 13/16\" (28.4 x 22.4 cm)",
-            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
-            "Object number": "755.1999",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/4048"
-    },
-    {
-        "Artist": "Laszlo Moholy-Nagy",
-        "Title": "Bauhausbucher",
-        "Year": "1925",
-        "ObjectID": "8059",
-        "Work": "https://www.moma.org/collection/works/8059",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDkzNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5477d2ee6dddcfe2",
-        "Details": {
-            "Medium": "Letterpress",
-            "Dimensions": "9 x 6 5/16\" (22.9 x 16 cm)",
-            "Publisher": "Verlag Albert Langen",
-            "Printer": "Bauhausdruck",
-            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
-            "Object number": "756.1999",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/4048"
-    },
-    {
-        "Artist": "Laszlo Moholy-Nagy",
-        "Title": "Bauhausbucher",
-        "Year": "1925",
-        "ObjectID": "8062",
-        "Work": "https://www.moma.org/collection/works/8062",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDkzNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=468d47c99356c9a2",
-        "Details": {
-            "Medium": "Letterpress",
-            "Dimensions": "11 5/8 x 8 1/4\" (29.5 x 21 cm)",
-            "Printer": "Bauhausdruck",
-            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
-            "Object number": "757.1999",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/4048"
-    },
-    {
-        "Artist": "Laszlo Moholy-Nagy",
-        "Title": "Untitled",
-        "Year": "1923-25",
-        "ObjectID": "54279",
-        "Work": "https://www.moma.org/collection/works/54279",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMTUzMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8ee7aa87ad6f3dec",
-        "Details": {
-            "Medium": "Gelatin silver print (photogram)",
-            "Dimensions": "6 5/8 \u00d7 9 1/16\" (16.8 \u00d7 23.1 cm)",
-            "Credit": "Anonymous gift",
-            "Object number": "490.1939",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/4048"
-    },
-    {
-        "Artist": "Laszlo Moholy-Nagy",
-        "Title": "Untitled",
-        "Year": "1925",
-        "ObjectID": "54311",
-        "Work": "https://www.moma.org/collection/works/54311",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ0NDk1MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=74c47d6c13a20efd",
-        "Details": {
-            "Medium": "Gelatin silver print (photogram)",
-            "Dimensions": "13 1/8 \u00d7 10 1/2\" (33.4 \u00d7 26.6 cm)",
-            "Credit": "Anonymous gift",
-            "Object number": "492.1939",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/4048"
-    },
-    {
-        "Artist": "Laszlo Moholy-Nagy",
-        "Title": "The Law of Series",
-        "Year": "1925",
-        "ObjectID": "54364",
-        "Work": "https://www.moma.org/collection/works/54364",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNzA1OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=453a7e15eb9b8d5e",
-        "Details": {
-            "Medium": "Gelatin silver print (photomontage)",
-            "Dimensions": "8 7/16 \u00d7 6 7/16\" (21.4 \u00d7 16.3 cm)",
-            "Credit": "Anonymous gift",
-            "Object number": "495.1939",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/4048"
-    },
-    {
-        "Artist": "Laszlo Moholy-Nagy",
-        "Title": "Love Your Neighbor; Murder on the Railway",
-        "Year": "1925",
-        "ObjectID": "54392",
-        "Work": "https://www.moma.org/collection/works/54392",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNzA2MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=51b9e37890c9b49a",
-        "Details": {
-            "Medium": "Gelatin silver print (photomontage)",
-            "Dimensions": "11 1/16 \u00d7 8 3/16\" (28.1 \u00d7 20.8 cm)",
-            "Credit": "Anonymous gift",
-            "Object number": "497.1939",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/4048"
-    },
-    {
-        "Artist": "Laszlo Moholy-Nagy",
-        "Title": "Geometry and Texture of Landscape",
-        "Year": "1925",
-        "ObjectID": "54429",
-        "Work": "https://www.moma.org/collection/works/54429",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1Mjk1MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4322560ad142300f",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "11 1/8 \u00d7 8 1/16\" (28.3 \u00d7 20.5 cm)",
-            "Credit": "Anonymous gift",
-            "Object number": "500.1939",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/4048"
-    },
-    {
-        "Artist": "Laszlo Moholy-Nagy",
-        "Title": "Notre Dame de Paris",
-        "Year": "1925",
-        "ObjectID": "54454",
-        "Work": "https://www.moma.org/collection/works/54454",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwOTAxOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8ebf9e8964651437",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "9 1/16 \u00d7 6 5/8\" (23 \u00d7 16.8 cm)",
-            "Credit": "Anonymous gift",
-            "Object number": "502.1939",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/4048"
-    },
-    {
-        "Artist": "Laszlo Moholy-Nagy",
-        "Title": "Untitled",
-        "Year": "1925",
-        "ObjectID": "54466",
-        "Work": "https://www.moma.org/collection/works/54466",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMTU2NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b96e756da7209f45",
-        "Details": {
-            "Medium": "Gelatin silver print (photogram)",
-            "Dimensions": "9 3/8 \u00d7 7\" (23.9 \u00d7 17.8 cm)",
-            "Credit": "Anonymous gift",
-            "Object number": "503.1939",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/4048"
-    },
-    {
-        "Artist": "Laszlo Moholy-Nagy",
-        "Title": "Z II",
-        "Year": "1925",
-        "ObjectID": "78472",
-        "Work": "https://www.moma.org/collection/works/78472",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1MTA4OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=245f1bbff243b7d4",
-        "Details": {
-            "Medium": "Oil on canvas",
-            "Dimensions": "37 5/8 x 29 5/8\" (95.4 x 75.1 cm)",
-            "Credit": "Gift of Mrs. Sibyl Moholy-Nagy",
-            "Object number": "18.1956",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/4048"
-    },
-    {
-        "Artist": "Laszlo Moholy-Nagy",
-        "Title": "Stationery invoice for Das Bauhaus in Dessau (For sale of a doll by Alma Siedhoff-Buscher)",
-        "Year": "1925",
-        "ObjectID": "198455",
-        "Work": "https://www.moma.org/collection/works/198455",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0ODM2OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b8203c5594a07d93",
-        "Details": {
-            "Medium": "Letterpress",
-            "Dimensions": "11 3/8 \u00d7 8 1/8\" (28.9 \u00d7 20.6 cm)",
-            "Credit": "Elaine Lustig Cohen Collection, gift of Lawrence Benenson and the Committee on Architecture and Design Funds",
-            "Object number": "1291.2015",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/4048"
-    },
-    {
-        "Artist": "Laszlo Moholy-Nagy, Lucia Moholy",
-        "Title": "Untitled",
-        "Year": "1925",
-        "ObjectID": "83854",
-        "Work": "https://www.moma.org/collection/works/83854",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0MjAyMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=961cf854010da7a8",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "3 11/16 \u00d7 2 1/2\" (9.3 \u00d7 6.3 cm)",
-            "Credit": "Thomas Walther Collection. The Family of Man Fund",
-            "Object number": "1791.2001",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/4048"
-    },
-    {
-        "Artist": "Johannes Molzahn",
-        "Title": "Mitteldeutsche Handwerks Ausstellung",
-        "Year": "1925",
-        "ObjectID": "8173",
-        "Work": "https://www.moma.org/collection/works/8173",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMTAxMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6b4524aa7c6404f9",
-        "Details": {
-            "Medium": "Letterpress",
-            "Dimensions": "5 1/16 x 7 11/16\" (12.9 x 19.5 cm)",
-            "Printer": "Attributed to Br\u00fcckner, Magdeburg, Germany",
-            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
-            "Object number": "802.1999",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/4054"
-    },
-    {
-        "Artist": "Johannes Molzahn",
-        "Title": "Mitteldeutsche Handwerks Ausstellung, Programm",
-        "Year": "1925",
-        "ObjectID": "8175",
-        "Work": "https://www.moma.org/collection/works/8175",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMTAxMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=16ca338c34823783",
-        "Details": {
-            "Medium": "Letterpress",
-            "Dimensions": "12 7/8 x 8 1/4\" (32.7 x 21 cm)",
-            "Printer": "Br\u00fcckner, Magdeburg, Germany",
-            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
-            "Object number": "803.1999",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/4054"
-    },
-    {
-        "Artist": "Johannes Molzahn",
-        "Title": "Mitteldeutsche Handwerks Ausstellung",
-        "Year": "1925",
-        "ObjectID": "8177",
-        "Work": "https://www.moma.org/collection/works/8177",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMTAxMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=87a0187f32c1305e",
-        "Details": {
-            "Medium": "Letterpress",
-            "Dimensions": "13 x 8 1/4\" (33 x 21 cm)",
-            "Printer": "Br\u00fcckner, Magdeburg, Germany",
-            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
-            "Object number": "804.1999",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/4054"
-    },
-    {
-        "Artist": "Johannes Molzahn",
-        "Title": "Magdeburg Handwerksausstellung",
-        "Year": "1925",
-        "ObjectID": "84261",
-        "Work": "https://www.moma.org/collection/works/84261",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyNzk2MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e1c1b9cd11d1666b",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "34 1/8 x 24 3/4\" (86.7 x 62.9 cm)",
-            "Printer": "Julius Br\u00fcckner, Magdeburg, Germany",
-            "Credit": "Gift of Patricia Phelps de Cisneros in honor of Leonard and Evelyn Lauder",
-            "Object number": "157.2002",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/4054"
-    },
-    {
-        "Artist": "Dmitrii Moor",
-        "Title": "The Soviet Turnip (Sovetskaia repka)",
-        "Year": "c. 1920",
-        "ObjectID": "280232",
-        "Work": "https://www.moma.org/collection/works/280232",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQzODA0NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=79c89d241218bea7",
-        "Details": {
-            "Medium": "Letterpress",
-            "Dimensions": "composition (irreg.): 26 5/16 \u00d7 17\" (66.8 \u00d7 43.2 cm); sheet: 28 1/16 \u00d7 21\" (71.2 \u00d7 53.3 cm)",
-            "Publisher": "Political Directorate of the R.V.S.R. (Revolutionary Military Council of the Republic) Literary Publication Department, Moscow",
-            "Printer": "Third State Typo-lithography Workshop (former proprietor Kushnerev), Moscow",
-            "Credit": "The Merrill C. Berman Collection. Acquired through the generosity of Alice and Tom Tisch, Jo Carole and Ronald S. Lauder, Sue and Edgar Wachenheim III, David Booth, Marlene Hess and James D. Zirin, Marie-Jos\u00e9e and Henry R. Kravis, Jack Shear, the Patricia Bonfield Endowed Acquisition Fund for the Design Collection, Daniel and Jane Och, The Orentreich Family Foundation, Emily Rauh Pulitzer, The Modern Women's Fund; and by exchange: Gift of Jean Dubuffet in honor of Mr. and Mrs. Ralph Colin, The Judith Rothschild Foundation Contemporary Drawings Collection, and the Richard S. Zeisler Bequest",
-            "Object number": "460.2018",
-            "Associated work": "The Merrill C. Berman Collection at MoMA",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/24165"
-    },
-    {
-        "Artist": "Dmitrii Moor",
-        "Title": "Maquette for the poster The Soviet Turnip (Sovetskaia repka)",
-        "Year": "c. 1920",
-        "ObjectID": "280233",
-        "Work": "https://www.moma.org/collection/works/280233",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQzNzY0OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e47daf020b7de3c7",
-        "Details": {
-            "Medium": "Gouache and ink on paper",
-            "Dimensions": "24 \u00d7 19 1/4\" (60.9 \u00d7 48.9 cm)",
-            "Credit": "The Merrill C. Berman Collection. Acquired through the generosity of Alice and Tom Tisch, Jo Carole and Ronald S. Lauder, Sue and Edgar Wachenheim III, David Booth, Marlene Hess and James D. Zirin, Marie-Jos\u00e9e and Henry R. Kravis, Jack Shear, the Patricia Bonfield Endowed Acquisition Fund for the Design Collection, Daniel and Jane Och, The Orentreich Family Foundation, Emily Rauh Pulitzer, The Modern Women's Fund; and by exchange: Gift of Jean Dubuffet in honor of Mr. and Mrs. Ralph Colin, The Judith Rothschild Foundation Contemporary Drawings Collection, and the Richard S. Zeisler Bequest",
-            "Object number": "461.2018",
-            "Associated work": "The Merrill C. Berman Collection at MoMA",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/24165"
-    },
-    {
-        "Artist": "Otto Mueller",
-        "Title": "Boy among Leaves (Boy in Reeds) (Knabe zwischen Blattpflanzen [Knabe im Schilf])",
-        "Year": "(1912, printed c. 1913-1925)",
-        "ObjectID": "69154",
-        "Work": "https://www.moma.org/collection/works/69154",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyODgwNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2df085a734e26624",
-        "Details": {
-            "Medium": "Woodcut",
-            "Dimensions": "composition (irreg.): 11 1/8 x 14 13/16\" (28.3 x 37.6 cm); sheet: 13 7/16 x 19 3/4\" (34.2 x 50.2 cm)",
-            "Publisher": "unpublished",
-            "Printer": "Otto Mueller, Berlin, Maschka Mueller, Berlin",
-            "Edition": "state I: 10 numbered ex. on various papers, printed 1912; state II: approx. 15-20, printed c. 1913-25 (this ex.) and approx. 400 printed after 1945 and 1952",
-            "Credit": "Gift of Abby Aldrich Rockefeller",
-            "Object number": "440.1940",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/4140"
-    },
-    {
-        "Artist": "Elie Nadelman",
-        "Title": "Head of a Woman",
-        "Year": "c. 1923-25",
-        "ObjectID": "35611",
-        "Work": "https://www.moma.org/collection/works/35611",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQyODc3NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=71a5f263355960f2",
-        "Details": {
-            "Medium": "Ink and pencil on paper",
-            "Dimensions": "9 7/8 x 7 7/8\" (25.3 x 20 cm)",
-            "Credit": "Gift of Lincoln Kirstein in honor of Ren\u00e9 d'Harnoncourt",
-            "Object number": "252.1969",
-            "Copyright": "\u00a9 Estate of Elie Nadelman",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/4197"
-    },
-    {
-        "Artist": "Oskar Nerlinger",
-        "Title": "Motorcycle in the Race",
-        "Year": "1925",
-        "ObjectID": "83859",
-        "Work": "https://www.moma.org/collection/works/83859",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMjg4MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8cc57db47cd47e4e",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "8 11/16 \u00d7 6 7/8\" (22 \u00d7 17.4 cm)",
-            "Credit": "Thomas Walther Collection. Abbott-Levy Collection funds, by exchange",
-            "Object number": "1798.2001",
-            "Copyright": "\u00a9 Sigrid Nerlinger",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/24533"
-    },
-    {
-        "Artist": "Amedee Ozenfant",
-        "Title": "Fugue",
-        "Year": "1925",
-        "ObjectID": "34934",
-        "Work": "https://www.moma.org/collection/works/34934",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5Mzk4MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1d0e064e3430fe3d",
-        "Details": {
-            "Medium": "Pencil on paper",
-            "Dimensions": "18 x 24\" (45.7 x 61 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "161.1942",
-            "Copyright": "\u00a9 2023 Am\u00e9d\u00e9e Ozenfant / Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/4458"
-    },
-    {
-        "Artist": "Amedee Ozenfant",
-        "Title": "The Vases",
-        "Year": "1925",
-        "ObjectID": "79028",
-        "Work": "https://www.moma.org/collection/works/79028",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1MTA1NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9cda972347dccd90",
-        "Details": {
-            "Medium": "Oil on canvas",
-            "Dimensions": "51 3/8 x 38 3/8\" (130.5 x 97.5 cm)",
-            "Credit": "Acquired through the Lillie P. Bliss Bequest (by exchange)",
-            "Object number": "164.1945",
-            "Copyright": "\u00a9 2023 Am\u00e9d\u00e9e Ozenfant / Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/4458"
-    },
-    {
-        "Artist": "G. W. Pabst",
-        "Title": "Die freudlose Gasse (The Joyless Street)",
-        "Year": "1925",
-        "ObjectID": "302312",
-        "Work": "https://www.moma.org/collection/works/302312",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExMzE0MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8084ef8083c73593",
-        "Details": {
-            "Object number": "W1270",
+            "Producer": "Frank Capra",
+            "Object number": "W4540",
             "Department": "Film"
         },
-        "Profile": "https://www.moma.org/artists/32336"
+        "Profile": "https://www.moma.org/artists/32198"
     },
     {
-        "Artist": "Jules Pascin",
-        "Title": "The Judgment of Solomon",
-        "Year": "1925",
-        "ObjectID": "69628",
-        "Work": "https://www.moma.org/collection/works/69628",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwMjEyNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1f1fd8814a7d6aeb",
+        "Artist": "Luis B. Caputo Demarco",
+        "Title": "Fabulas nativas",
+        "Year": "1939",
+        "ObjectID": "72645",
+        "Work": "https://www.moma.org/collection/works/72645",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4MDAzOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b4bd82dab689339a",
         "Details": {
-            "Medium": "Drypoint",
-            "Dimensions": "plate  10 5/8 x 10 7/16\" (27 x 26.5 cm)\r\nsheet  19 3/4 x 15 5/8\" (50 x 39.7 cm)",
-            "Edition": "100",
-            "Credit": "Gift of Abby Aldrich Rockefeller",
-            "Object number": "466.1940",
+            "Medium": "Series of twelve aquatints",
+            "Dimensions": "plate (see child records): various dimensions; sheet (each): 18 13/16 \u00d7 12 7/16\" (47.8 \u00d7 31.6 cm)",
+            "Edition": "unknown",
+            "Object number": "654.1942.1-12",
+            "Type": "Series",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/4514"
+        "Profile": "https://www.moma.org/artists/963"
     },
     {
-        "Artist": "Jules Pascin",
-        "Title": "Reclining Model",
-        "Year": "c. 1925",
-        "ObjectID": "79973",
-        "Work": "https://www.moma.org/collection/works/79973",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4MjcwOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a13bfa9274ba6e96",
+        "Artist": "Luis B. Caputo Demarco",
+        "Title": "El burro flaco from Fabulas nativas",
+        "Year": "1939",
+        "ObjectID": "200432",
+        "Work": "https://www.moma.org/collection/works/200432",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4MDAzOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b4bd82dab689339a",
         "Details": {
-            "Medium": "Oil on canvas",
-            "Dimensions": "28 3/4 x 36 1/4\" (73 x 92.1 cm)",
-            "Credit": "Gift of A. Conger Goodyear",
-            "Object number": "564.1941",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/4514"
-    },
-    {
-        "Artist": "Robert Petschow",
-        "Title": "Ice Floes on the Elbe",
-        "Year": "1924",
-        "ObjectID": "83866",
-        "Work": "https://www.moma.org/collection/works/83866",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMzM5MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=239e8e08f4e7d2ec",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "3 5/16 \u00d7 4 1/2\" (8.4 \u00d7 11.5 cm)",
-            "Credit": "Thomas Walther Collection. Gift of Mrs. Mervyn Palmer and Eliot Porter, by exchange",
-            "Object number": "1811.2001",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/24540"
-    },
-    {
-        "Artist": "Pablo Picasso",
-        "Title": "Four Dancers",
-        "Year": "1925",
-        "ObjectID": "34480",
-        "Work": "https://www.moma.org/collection/works/34480",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEwMTQxMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6aee8d94ccd5f376",
-        "Details": {
-            "Medium": "Ink on paper",
-            "Dimensions": "13 7/8 x 10\" (35.2 x 25.4 cm)",
-            "Credit": "Gift of Abby Aldrich Rockefeller",
-            "Object number": "128.1935",
-            "Copyright": "\u00a9 2023 Estate of Pablo Picasso / Artists Rights Society (ARS), New York",
+            "Medium": "One from a series of twelve aquatints",
+            "Dimensions": "plate: 6 7/8 \u00d7 6 7/8\" (17.5 \u00d7 17.5 cm); sheet: 18 13/16 \u00d7 12 7/16\" (47.8 \u00d7 31.6 cm)",
+            "Edition": "unknown",
+            "Object number": "654.1942.1",
+            "Series": "F\u00e1bulas nativas",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/4609"
+        "Profile": "https://www.moma.org/artists/963"
     },
     {
-        "Artist": "Pablo Picasso",
-        "Title": "Studio with Plaster Head",
-        "Year": "Juan-les-Pins, summer 1925",
-        "ObjectID": "78860",
-        "Work": "https://www.moma.org/collection/works/78860",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1MDk4MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=77ec4d469115cd93",
+        "Artist": "Luis B. Caputo Demarco",
+        "Title": "El condor que no quiso hablar from Fabulas nativas",
+        "Year": "1939",
+        "ObjectID": "200433",
+        "Work": "https://www.moma.org/collection/works/200433",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4MDAzOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=88e9ec98b02b8352",
         "Details": {
-            "Medium": "Oil on canvas",
-            "Dimensions": "38 5/8 x 51 5/8\" (97.9 x 131.1 cm)",
-            "Credit": "Purchase",
-            "Object number": "116.1964",
-            "Copyright": "\u00a9 2023 Estate of Pablo Picasso / Artists Rights Society (ARS), New York",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/4609"
-    },
-    {
-        "Artist": "Liubov Popova",
-        "Title": "Composition",
-        "Year": "c. 1920",
-        "ObjectID": "38308",
-        "Work": "https://www.moma.org/collection/works/38308",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwOTUwMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9af936d60b7cfc60",
-        "Details": {
-            "Medium": "Gouache, watercolor, and pencil on colored paper",
-            "Dimensions": "13 1/4 x 9 3/4\" (33.5 x 25 cm)",
-            "Credit": "The Riklis Collection of McCrory Corporation",
-            "Object number": "940.1983",
+            "Medium": "One from a series of twelve aquatints",
+            "Dimensions": "plate: 9 3/4 \u00d7 7 1/16\" (24.8 \u00d7 18 cm); sheet: 18 13/16 \u00d7 12 7/16\" (47.8 \u00d7 31.6 cm)",
+            "Edition": "unknown",
+            "Object number": "654.1942.2",
+            "Series": "F\u00e1bulas nativas",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/4694"
+        "Profile": "https://www.moma.org/artists/963"
     },
     {
-        "Artist": "Jean Pougny (Ivan Puni)",
-        "Title": "Suprematist Relief-Sculpture",
-        "Year": "1920s (reconstruction of 1915 original)",
-        "ObjectID": "80522",
-        "Work": "https://www.moma.org/collection/works/80522",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1MDk1NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d6a3438c0b11463a",
+        "Artist": "Luis B. Caputo Demarco",
+        "Title": "El pollino y el automovil from Fabulas nativas",
+        "Year": "1939",
+        "ObjectID": "200434",
+        "Work": "https://www.moma.org/collection/works/200434",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3OTgzNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7a805667cfb76ce9",
         "Details": {
-            "Medium": "Painted wood, metal, and cardboard, mounted on wood panel",
-            "Dimensions": "20 x 15 1/2 x 3\" (50.8 x 39.3 x 7.6 cm)",
-            "Credit": "The Riklis Collection of McCrory Corporation",
-            "Object number": "1060.1983",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Department": "Painting and Sculpture"
+            "Medium": "One from a series of twelve aquatints",
+            "Dimensions": "plate: 7 \u00d7 9 7/16\" (17.8 \u00d7 24 cm); sheet: 18 7/8 x 12 1/2\" (47.9 x 31.8cm)",
+            "Edition": "unknown",
+            "Object number": "654.1942.3",
+            "Series": "F\u00e1bulas nativas",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/4754"
+        "Profile": "https://www.moma.org/artists/963"
     },
     {
-        "Artist": "Tom Purvis",
-        "Title": "East Coast Resorts",
-        "Year": "1925",
-        "ObjectID": "5661",
-        "Work": "https://www.moma.org/collection/works/5661",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEwNTc2OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ecb5e5588e203dd2",
+        "Artist": "Luis B. Caputo Demarco",
+        "Title": "Los gansos del Capitolio from Fabulas nativas",
+        "Year": "1939",
+        "ObjectID": "200435",
+        "Work": "https://www.moma.org/collection/works/200435",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4MDA0NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fda7c399cc80064e",
+        "Details": {
+            "Medium": "One from a series of twelve aquatints",
+            "Dimensions": "plate: 9 1/2 \u00d7 6 15/16\" (24.2 \u00d7 17.7 cm); sheet: 18 13/16 \u00d7 12 7/16\" (47.8 \u00d7 31.6 cm)",
+            "Edition": "unknown",
+            "Object number": "654.1942.4",
+            "Series": "F\u00e1bulas nativas",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/963"
+    },
+    {
+        "Artist": "Luis B. Caputo Demarco",
+        "Title": "La narracion del gato from Fabulas nativas",
+        "Year": "1939",
+        "ObjectID": "200436",
+        "Work": "https://www.moma.org/collection/works/200436",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4MDAzMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=02cd8e01cc9aa50f",
+        "Details": {
+            "Medium": "One from a series of twelve aquatints",
+            "Dimensions": "plate: 6 7/8 \u00d7 7 1/16\" (17.5 \u00d7 18 cm); sheet: 18 13/16 \u00d7 12 7/16\" (47.8 \u00d7 31.6 cm)",
+            "Edition": "unknown",
+            "Object number": "654.1942.5",
+            "Series": "F\u00e1bulas nativas",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/963"
+    },
+    {
+        "Artist": "Luis B. Caputo Demarco",
+        "Title": "Los dos sabios from Fabulas nativas",
+        "Year": "1939",
+        "ObjectID": "200437",
+        "Work": "https://www.moma.org/collection/works/200437",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4MDAxMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0e4303e699a8459d",
+        "Details": {
+            "Medium": "One from a series of twelve aquatints",
+            "Dimensions": "plate: 9 3/16 \u00d7 6 7/8\" (23.4 \u00d7 17.4 cm); sheet: 18 13/16 \u00d7 12 7/16\" (47.8 \u00d7 31.6 cm)",
+            "Edition": "unknown",
+            "Object number": "654.1942.6",
+            "Series": "F\u00e1bulas nativas",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/963"
+    },
+    {
+        "Artist": "Luis B. Caputo Demarco",
+        "Title": "La armonia oculta from Fabulas nativas",
+        "Year": "1939",
+        "ObjectID": "200438",
+        "Work": "https://www.moma.org/collection/works/200438",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4MDA0MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=46c3e04ab975e07f",
+        "Details": {
+            "Medium": "One from a series of twelve aquatints",
+            "Dimensions": "plate: 9 7/16 \u00d7 7 7/16\" (24 \u00d7 18.9 cm); sheet: 18 13/16 \u00d7 12 7/16\" (47.8 \u00d7 31.6 cm)",
+            "Edition": "unknown",
+            "Object number": "654.1942.7",
+            "Series": "F\u00e1bulas nativas",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/963"
+    },
+    {
+        "Artist": "Luis B. Caputo Demarco",
+        "Title": "La sinfonia de la calandria from Fabulas nativas",
+        "Year": "1939",
+        "ObjectID": "200439",
+        "Work": "https://www.moma.org/collection/works/200439",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4MDAwNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=89f31b33c0dc919d",
+        "Details": {
+            "Medium": "One from a series of twelve aquatints",
+            "Dimensions": "plate: 9 7/16 \u00d7 6 15/16\" (24 \u00d7 17.6 cm); sheet: 18 13/16 \u00d7 12 7/16\" (47.8 \u00d7 31.6 cm)",
+            "Edition": "unknown",
+            "Object number": "654.1942.8",
+            "Series": "F\u00e1bulas nativas",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/963"
+    },
+    {
+        "Artist": "Luis B. Caputo Demarco",
+        "Title": "Los perros ladrano a la luna from Fabulas nativas",
+        "Year": "1939",
+        "ObjectID": "200440",
+        "Work": "https://www.moma.org/collection/works/200440",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4MDAyMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9be0a3688c321b51",
+        "Details": {
+            "Medium": "One from a series of twelve aquatints",
+            "Dimensions": "plate: 9 1/2 \u00d7 6 15/16\" (24.2 \u00d7 17.7 cm); sheet: 18 13/16 \u00d7 12 7/16\" (47.8 \u00d7 31.6 cm)",
+            "Edition": "unknown",
+            "Object number": "654.1942.9",
+            "Series": "F\u00e1bulas nativas",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/963"
+    },
+    {
+        "Artist": "Luis B. Caputo Demarco",
+        "Title": "Los protagonistas from Fabulas nativas",
+        "Year": "1939",
+        "ObjectID": "200441",
+        "Work": "https://www.moma.org/collection/works/200441",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4MDA0MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=865b7aebad45c2a8",
+        "Details": {
+            "Medium": "One from a series of twelve aquatints",
+            "Dimensions": "plate: 9 7/16 \u00d7 6 7/8\" (24 \u00d7 17.5 cm); sheet: 18 13/16 \u00d7 12 7/16\" (47.8 \u00d7 31.6 cm)",
+            "Edition": "unknown",
+            "Object number": "654.1942.10",
+            "Series": "F\u00e1bulas nativas",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/963"
+    },
+    {
+        "Artist": "Luis B. Caputo Demarco",
+        "Title": "El viejo buldog from Fabulas nativas",
+        "Year": "1939",
+        "ObjectID": "200442",
+        "Work": "https://www.moma.org/collection/works/200442",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4MDA0OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3a761e52dc7631d1",
+        "Details": {
+            "Medium": "One from a series of twelve aquatints",
+            "Dimensions": "plate: 6 7/8 \u00d7 6 15/16\" (17.5 \u00d7 17.7 cm); sheet: 18 13/16 \u00d7 12 7/16\" (47.8 \u00d7 31.6 cm)",
+            "Edition": "unknown",
+            "Object number": "654.1942.11",
+            "Series": "F\u00e1bulas nativas",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/963"
+    },
+    {
+        "Artist": "Luis B. Caputo Demarco",
+        "Title": "La ampalahua y el zorro from Fabulas nativas",
+        "Year": "1939",
+        "ObjectID": "200443",
+        "Work": "https://www.moma.org/collection/works/200443",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4MDA0OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b5233347dffbb32f",
+        "Details": {
+            "Medium": "One from a series of twelve aquatints",
+            "Dimensions": "plate: 7 1/16 \u00d7 6 7/8\" (18 \u00d7 17.5 cm); sheet: 18 13/16 \u00d7 12 7/16\" (47.8 \u00d7 31.6 cm)",
+            "Edition": "unknown",
+            "Object number": "654.1942.12",
+            "Series": "F\u00e1bulas nativas",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/963"
+    },
+    {
+        "Artist": "Federico Castellon",
+        "Title": "Rendezvous in a Landscape",
+        "Year": "1939",
+        "ObjectID": "72390",
+        "Work": "https://www.moma.org/collection/works/72390",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5NTg4OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=55c4f734c9480234",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "39 1/2 x 50\" (100.3 x 127 cm)",
-            "Credit": "Given anonymously",
-            "Object number": "201.1968.2",
-            "Department": "Architecture and Design"
+            "Dimensions": "composition: 9 5/8 x 15 1/16\" (24.4 x 38.3cm); sheet: 11 13/16 x 18 7/8\" (30 x 47.9 cm)",
+            "Printer": "probably George C. Miller",
+            "Credit": "Purchase",
+            "Object number": "642.1939",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/4757"
+        "Profile": "https://www.moma.org/artists/1027"
     },
     {
-        "Artist": "Quezal Art Glass and Decorating Co., Brooklyn, NY",
-        "Title": "Tumblers",
-        "Year": "c. 1916",
-        "ObjectID": "1844",
-        "Work": "https://www.moma.org/collection/works/1844",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyODI2NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c6586ac0f99376dc",
+        "Artist": "Marc Chagall",
+        "Title": "The Sacrifice of Noah",
+        "Year": "(1931)",
+        "ObjectID": "61000",
+        "Work": "https://www.moma.org/collection/works/61000",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MTg4NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=384083c2330a03da",
         "Details": {
-            "Manufacturer": "Quezal Art Glass and Decorating Co., Brooklyn, NY",
-            "Medium": "Glass",
-            "Dimensions": "Each: 3 x 1 3/4\" (7.6 x 4.5 cm)",
-            "Credit": "Given anonymously",
-            "Object number": "SC50.1977.1-2",
-            "Department": "Architecture and Design"
+            "Medium": "Etching",
+            "Dimensions": "plate: 11 3/4 x 9 3/8\" (29.9 x 23.8 cm); sheet: 15 9/16 x 11 7/8\" (39.5 x 30.2 cm)",
+            "Edition": "350",
+            "Credit": "Larry Aldrich Fund",
+            "Object number": "54.1954",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/9479"
+        "Profile": "https://www.moma.org/artists/1055"
     },
     {
-        "Artist": "Albert Renger-Patzsch",
-        "Title": "Potter's Hands",
-        "Year": "1925",
-        "ObjectID": "46894",
-        "Work": "https://www.moma.org/collection/works/46894",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwNzE1NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a7ee5f2177b4f2db",
+        "Artist": "Marc Chagall",
+        "Title": "King Saul Falling on His Sword",
+        "Year": "(1931)",
+        "ObjectID": "61016",
+        "Work": "https://www.moma.org/collection/works/61016",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MTg5MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4ea125915d6bb7f0",
         "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "15 \u00d7 11 3/16\" (38.2 \u00d7 28.4 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "148.1967",
-            "Copyright": "\u00a9 2023 / Artists Rights Society (ARS), New York / VG Bild-Kunst, Germany",
+            "Medium": "Etching",
+            "Dimensions": "plate: 13 7/8 x 9 15/16\" (35.3 x 25.2 cm); sheet: 17 1/2 x 13 1/4\" (44.5 x 33.7 cm)",
+            "Edition": "350",
+            "Credit": "Larry Aldrich Fund",
+            "Object number": "55.1954",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1055"
+    },
+    {
+        "Artist": "Marc Chagall",
+        "Title": "Joseph Explains Pharaoh's Dream",
+        "Year": "1931-39",
+        "ObjectID": "64403",
+        "Work": "https://www.moma.org/collection/works/64403",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5NTc3NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2ba9998dd7654c10",
+        "Details": {
+            "Medium": "Etching",
+            "Dimensions": "plate: 11 5/16 x 8 15/16\" (28.8 x 22.7cm); sheet: 17 1/4 x 13 3/16\" (43.8 x 33.5cm)",
+            "Edition": "unpublished",
+            "Credit": "Purchase",
+            "Object number": "208.1955",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1055"
+    },
+    {
+        "Artist": "Marc Chagall",
+        "Title": "Abraham Mourns Sarah",
+        "Year": "(1931-39)",
+        "ObjectID": "71290",
+        "Work": "https://www.moma.org/collection/works/71290",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MTg5NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=783693a852d9d393",
+        "Details": {
+            "Medium": "Etching",
+            "Dimensions": "composition: 11 7/16 x 9 7/16\" (29.1 x 23.9 cm); sheet: 12 5/8 x 11 5/8\" (32.1 x 29.5 cm)",
+            "Credit": "Larry Aldrich Fund",
+            "Object number": "570.1954",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1055"
+    },
+    {
+        "Artist": "Marc Chagall",
+        "Title": "Jacob Blessing the Children of Joseph",
+        "Year": "(1931)",
+        "ObjectID": "71304",
+        "Work": "https://www.moma.org/collection/works/71304",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5NTg2OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cf66016b0e45bef7",
+        "Details": {
+            "Medium": "Etching",
+            "Dimensions": "plate: 11 9/16 \u00d7 9 3/16\" (29.4 \u00d7 23.3 cm); sheet: 17 5/16 \u00d7 12 7/8\" (44 \u00d7 32.7 cm)",
+            "Credit": "Larry Aldrich Fund",
+            "Object number": "571.1954",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1055"
+    },
+    {
+        "Artist": "Martin Chambi",
+        "Title": "Family Group at Cuzco Cemetery",
+        "Year": "1939",
+        "ObjectID": "157554",
+        "Work": "https://www.moma.org/collection/works/157554",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0MjQzNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b30a5539cac75d70",
+        "Details": {
+            "Medium": "Gelatin silver print, printed 1978",
+            "Dimensions": "8 3/8 \u00d7 11 5/16\" (21.3 \u00d7 28.7 cm)",
+            "Credit": "Gift Edward Ranney in memory of Julia and V\u00edctor Chambi",
+            "Object number": "414.2012",
+            "Copyright": "\u00a9 2023 Mart\u00edn Chambi Archive",
             "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/4866"
+        "Profile": "https://www.moma.org/artists/1063"
+    },
+    {
+        "Artist": "Edward Chavez",
+        "Title": "Colt",
+        "Year": "(c. 1939)",
+        "ObjectID": "37358",
+        "Work": "https://www.moma.org/collection/works/37358",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQzMDQyOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a4ce4b35af229969",
+        "Details": {
+            "Medium": "Gouache on board",
+            "Dimensions": "17 7/8 x 21 1/2\" (45.4 x 54.6 cm)",
+            "Credit": "Abby Aldrich Rockefeller Fund",
+            "Object number": "569.1939",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1083"
+    },
+    {
+        "Artist": "Jose Chavez Morado",
+        "Title": "\"Judas\" effigy (El Judas)",
+        "Year": "1939",
+        "ObjectID": "72892",
+        "Work": "https://www.moma.org/collection/works/72892",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5NTkwNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=703a6fd927b3aa92",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition: 11 5/8 x 6 5/16\" (29.6 x 16.1cm); sheet: 16 9/16 x 12 1/2\" (42 x 31.8 cm)",
+            "Edition": "25",
+            "Credit": "Inter-American Fund",
+            "Object number": "669.1942",
+            "Copyright": "\u00a9 2023 Estate of Jos\u00e9 Ch\u00e1vez Morado / Artists Rights Society (ARS), New York / SOMAAP, Mexico",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1084"
+    },
+    {
+        "Artist": "Jose Chavez Morado",
+        "Title": "Repose (Reposo)",
+        "Year": "1939",
+        "ObjectID": "72950",
+        "Work": "https://www.moma.org/collection/works/72950",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNTM0MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4f54be3a9e268910",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition: 17 7/8 x 14 3/4\" (45.4 x 37.5cm); sheet: 25 9/16 x 19 11/16\" (64.9 x 50cm)",
+            "Publisher": "Taller de Gr\u00e1fica Popular, Mexico City",
+            "Printer": "Taller de Gr\u00e1fica Popular, Mexico City",
+            "Edition": "unknown",
+            "Credit": "Inter-American Fund",
+            "Object number": "671.1942",
+            "Copyright": "\u00a9 2023 Estate of Jos\u00e9 Ch\u00e1vez Morado / Artists Rights Society (ARS), New York / SOMAAP, Mexico",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1084"
+    },
+    {
+        "Artist": "Jose Chavez Morado",
+        "Title": "The Coin Swallower (El Tragaquintos)",
+        "Year": "1939",
+        "ObjectID": "72986",
+        "Work": "https://www.moma.org/collection/works/72986",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5NTkwOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8a1bd4fa96b590a3",
+        "Details": {
+            "Medium": "Linoleum cut",
+            "Dimensions": "composition: 5 11/16 x 8 9/16\" (14.5 x 21.8cm); sheet: 7 9/16 x 9 1/8\" (19.2 x 23.2cm)",
+            "Edition": "unknown",
+            "Credit": "Inter-American Fund",
+            "Object number": "674.1942",
+            "Copyright": "\u00a9 2023 Estate of Jos\u00e9 Ch\u00e1vez Morado / Artists Rights Society (ARS), New York / SOMAAP, Mexico",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1084"
+    },
+    {
+        "Artist": "Jose Chavez Morado",
+        "Title": "Ballad of the Street Cars (Corrido de los Tranvias)",
+        "Year": "1939",
+        "ObjectID": "72997",
+        "Work": "https://www.moma.org/collection/works/72997",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5NTkxMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f379bc46eb2cf973",
+        "Details": {
+            "Medium": "Linoleum cut",
+            "Dimensions": "composition: 6 x 8 13/16\" (15.3 x 22.4cm); sheet: 17 1/8 x 13 3/16\" (43.5 x 33.5cm)",
+            "Publisher": "Taller de Gr\u00e1fica Popular, Mexico City",
+            "Printer": "Taller de Gr\u00e1fica Popular, Mexico City",
+            "Credit": "Inter-American Fund",
+            "Object number": "675.1942",
+            "Copyright": "\u00a9 2023 Estate of Jos\u00e9 Ch\u00e1vez Morado / Artists Rights Society (ARS), New York / SOMAAP, Mexico",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1084"
+    },
+    {
+        "Artist": "Jose Chavez Morado",
+        "Title": "50,000 Meals Served (50,000 Cubiertos)",
+        "Year": "1939",
+        "ObjectID": "73018",
+        "Work": "https://www.moma.org/collection/works/73018",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNTk5NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d3bc54712101bae7",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition (without letters): 12 3/8 x 17 5/16\" (31.4 x 44 cm); sheet: 25 1/8 x 19 1/2\" (63.8 x 49.5 cm)",
+            "Publisher": "Taller de Gr\u00e1fica Popular, Mexico City",
+            "Printer": "Taller de Gr\u00e1fica Popular, Mexico City",
+            "Credit": "Inter-American Fund",
+            "Object number": "676.1942",
+            "Copyright": "\u00a9 2023 Estate of Jos\u00e9 Ch\u00e1vez Morado / Artists Rights Society (ARS), New York / SOMAAP, Mexico",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1084"
+    },
+    {
+        "Artist": "Jose Chavez Morado",
+        "Title": "Fascism, 6th Lecture: Fascism in Latin America (El Fascismo, 6a conferencia: El Fascimo en Latino-America)",
+        "Year": "1939",
+        "ObjectID": "73030",
+        "Work": "https://www.moma.org/collection/works/73030",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNTk5NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=773bd67ffc330d50",
+        "Details": {
+            "Medium": "Lithograph and letterpress",
+            "Dimensions": "composition: 12 5/16 x 17 1/4\" (31.2 x 43.8cm); sheet: 18 1/4 x 26 5/8\" (46.4 x 67.6 cm)",
+            "Publisher": "Taller de Gr\u00e1fica Popular, Mexico City",
+            "Printer": "Taller de Gr\u00e1fica Popular, Mexico City",
+            "Credit": "Inter-American Fund",
+            "Object number": "677.1942",
+            "Copyright": "\u00a9 2023 Estate of Jos\u00e9 Ch\u00e1vez Morado / Artists Rights Society (ARS), New York / SOMAAP, Mexico",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1084"
+    },
+    {
+        "Artist": "Jose Chavez Morado",
+        "Title": "Let's All Burn Judas! (\u00a1Todos a tronar Judas!)",
+        "Year": "1939",
+        "ObjectID": "73042",
+        "Work": "https://www.moma.org/collection/works/73042",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNTM0MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=122df7be38e8227e",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "Comp. 15 5/8 x 23 1/16\" (39.8 x 58.5 cm)",
+            "Publisher": "Taller de Gr\u00e1fica Popular, Mexico City",
+            "Printer": "Taller de Gr\u00e1fica Popular, Mexico City",
+            "Edition": "unknown",
+            "Credit": "Inter-American Fund",
+            "Object number": "678.1942",
+            "Copyright": "\u00a9 2023 Estate of Jos\u00e9 Ch\u00e1vez Morado / Artists Rights Society (ARS), New York / SOMAAP, Mexico",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1084"
+    },
+    {
+        "Artist": "Sam Cocomise",
+        "Title": "Americans",
+        "Year": "1939",
+        "ObjectID": "55785",
+        "Work": "https://www.moma.org/collection/works/55785",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1MzA5OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=547433306658e30b",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "7 \u00d7 9\" (17.8 \u00d7 22.9 cm)",
+            "Credit": "Purchase",
+            "Object number": "643.1941",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/1167"
+    },
+    {
+        "Artist": "Eleanor Coen",
+        "Title": "Young Girl",
+        "Year": "1939",
+        "ObjectID": "181557",
+        "Work": "https://www.moma.org/collection/works/181557",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ4NTA0NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=28803eef1da78b74",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition (irreg.): 17 9/16 \u00d7 13 3/16\" (44.6 \u00d7 33.5 cm); sheet: 23 1/16 \u00d7 14 3/4\" (58.5 \u00d7 37.5 cm)",
+            "Publisher": "Works Progress Administration (WPA), Federal Art Project, Chicago",
+            "Printer": "Works Progress Administration (WPA), Federal Art Project, Chicago",
+            "Edition": "probably fewer than 25",
+            "Credit": "Extended loan from the United States WPA Art Program. Fine Arts Collection, Public Buildings Service, General Services Administration",
+            "Object number": "EL1957.1103",
+            "Associated work": "Works Progress Administration (WPA), Federal Art Project, Graphic Arts Division, Chicago",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/7784"
+    },
+    {
+        "Artist": "Fre Cohen",
+        "Title": "Poems (Gedichten) by Frans Bastiaanse",
+        "Year": "1930s",
+        "ObjectID": "217932",
+        "Work": "https://www.moma.org/collection/works/217932",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ1NTIxOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=64f5e93cced754a8",
+        "Details": {
+            "Medium": "Letterpress",
+            "Dimensions": "7 3/8 \u00d7 4 7/8 \u00d7 1/4\" (18.7 \u00d7 12.4 \u00d7 0.6 cm)",
+            "Credit": "The Merrill C. Berman Collection. Riva Castleman Endowment",
+            "Object number": "555.2018",
+            "Associated work": "The Merrill C. Berman Collection at MoMA",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/67665"
+    },
+    {
+        "Artist": "Paul Colin",
+        "Title": "Jean-Pierre Aumont",
+        "Year": "1930s",
+        "ObjectID": "5409",
+        "Work": "https://www.moma.org/collection/works/5409",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMjE0NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c093f19114db2cfd",
+        "Details": {
+            "Medium": "Photolithograph",
+            "Dimensions": "61 1/2 x 44 1/2",
+            "Printer": "B\u00e9dos & Cie., Imp., Paris",
+            "Credit": "Gift of Bernard Davis",
+            "Object number": "162.1950",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/1185"
+    },
+    {
+        "Artist": "Alvin Colt",
+        "Title": "New Girl. Costume design for the ballet Charade (or The Debutante)",
+        "Year": "1939",
+        "ObjectID": "86113",
+        "Work": "https://www.moma.org/collection/works/86113",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ0NDE3MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=57e071fa39f50936",
+        "Details": {
+            "Medium": "Gouache, stapled fabric and feathers, pencil, and stamped colored ink on colored card",
+            "Dimensions": "20 1/8 \u00d7 13 3/8\" (51.1 \u00d7 34 cm)",
+            "Credit": "Gift of Lincoln Kirstein",
+            "Object number": "274.1942.1",
+            "Associated work": "Eleven costume designs and two set designs for the ballet Charade (or The Debutante)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1201"
+    },
+    {
+        "Artist": "Alvin Colt",
+        "Title": "Costume design for the ballet Charade (or The Debutante)",
+        "Year": "1939",
+        "ObjectID": "86114",
+        "Work": "https://www.moma.org/collection/works/86114",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQzNzgxMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=707a25c1cca555cb",
+        "Details": {
+            "Medium": "Gouache, stapled fabric, pencil, and stamped colored ink on colored card",
+            "Dimensions": "20 1/8 x 13 1/4\" (51.1 x 33.7 cm)",
+            "Credit": "Gift of Lincoln Kirstein",
+            "Object number": "274.1942.2",
+            "Associated work": "Eleven costume designs and two set designs for the ballet Charade (or The Debutante)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1201"
+    },
+    {
+        "Artist": "Alvin Colt",
+        "Title": "Costume design for the ballet Charade (or The Debutante)",
+        "Year": "1939",
+        "ObjectID": "86115",
+        "Work": "https://www.moma.org/collection/works/86115",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ0NDE3NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=292686d9224d1e69",
+        "Details": {
+            "Medium": "Gouache, stapled fabric, pencil, and stamped colored ink on colored card",
+            "Dimensions": "20 1/8 x 13 1/4\" (51.1 x 33.7 cm)",
+            "Credit": "Gift of Lincoln Kirstein",
+            "Object number": "274.1942.3",
+            "Associated work": "Eleven costume designs and two set designs for the ballet Charade (or The Debutante)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1201"
+    },
+    {
+        "Artist": "Alvin Colt",
+        "Title": "Costume design for the ballet Charade (or The Debutante)",
+        "Year": "1939",
+        "ObjectID": "86116",
+        "Work": "https://www.moma.org/collection/works/86116",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ0NDE3NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=73ad3649daea7903",
+        "Details": {
+            "Medium": "Gouache, stapled fabric, pencil, and stamped colored ink on colored card",
+            "Dimensions": "20 1/8 x 13 1/4\" (51.1 x 33.7 cm)",
+            "Credit": "Gift of Lincoln Kirstein",
+            "Object number": "274.1942.4",
+            "Associated work": "Eleven costume designs and two set designs for the ballet Charade (or The Debutante)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1201"
+    },
+    {
+        "Artist": "Alvin Colt",
+        "Title": "Costume design for the ballet Charade (or The Debutante)",
+        "Year": "1939",
+        "ObjectID": "86117",
+        "Work": "https://www.moma.org/collection/works/86117",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ0NDE3OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=55a9739dbb59db67",
+        "Details": {
+            "Medium": "Gouache, stapled fabric, pencil, and stamped colored ink on colored card",
+            "Dimensions": "20 1/8 \u00d7 13 3/8\" (51.1 \u00d7 34 cm)",
+            "Credit": "Gift of Lincoln Kirstein",
+            "Object number": "274.1942.5",
+            "Associated work": "Eleven costume designs and two set designs for the ballet Charade (or The Debutante)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1201"
+    },
+    {
+        "Artist": "Alvin Colt",
+        "Title": "Costume design for the ballet Charade (or The Debutante)",
+        "Year": "1939",
+        "ObjectID": "86118",
+        "Work": "https://www.moma.org/collection/works/86118",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ0NDE3OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a4a58f4414f72f8c",
+        "Details": {
+            "Medium": "Gouache, stapled fabric, and pencil on colored card",
+            "Dimensions": "20 1/8 x 13 1/4\" (51.1 x 33.7 cm)",
+            "Credit": "Gift of Lincoln Kirstein",
+            "Object number": "274.1942.6",
+            "Associated work": "Eleven costume designs and two set designs for the ballet Charade (or The Debutante)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1201"
+    },
+    {
+        "Artist": "Alvin Colt",
+        "Title": "Costume design for the ballet Charade (or The Debutante)",
+        "Year": "1939",
+        "ObjectID": "86119",
+        "Work": "https://www.moma.org/collection/works/86119",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ0NDE4MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3656d0d23962a975",
+        "Details": {
+            "Medium": "Gouache, stapled and pinned fabric, and pencil on colored card",
+            "Dimensions": "20 1/8 \u00d7 13 3/8\" (51.1 \u00d7 34 cm)",
+            "Credit": "Gift of Lincoln Kirstein",
+            "Object number": "274.1942.7",
+            "Associated work": "Eleven costume designs and two set designs for the ballet Charade (or The Debutante)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1201"
+    },
+    {
+        "Artist": "Alvin Colt",
+        "Title": "Costume design for the ballet Charade (or The Debutante)",
+        "Year": "1939",
+        "ObjectID": "86120",
+        "Work": "https://www.moma.org/collection/works/86120",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ0NDE4MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=222c4d7ad7547fc4",
+        "Details": {
+            "Medium": "Gouache and pencil on colored paper on colored card",
+            "Dimensions": "21 \u00d7 13 1/2\" (53.3 \u00d7 34.3 cm)",
+            "Credit": "Gift of Lincoln Kirstein",
+            "Object number": "274.1942.8",
+            "Associated work": "Eleven costume designs and two set designs for the ballet Charade (or The Debutante)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1201"
+    },
+    {
+        "Artist": "Alvin Colt",
+        "Title": "Costume design for the ballet Charade (or The Debutante)",
+        "Year": "1939",
+        "ObjectID": "86121",
+        "Work": "https://www.moma.org/collection/works/86121",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ0NDE4MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=13c714995f252093",
+        "Details": {
+            "Medium": "Gouache and pencil on colored paper",
+            "Dimensions": "20 x 12 3/4\" (50.8 x 32.4 cm)",
+            "Credit": "Gift of Lincoln Kirstein",
+            "Object number": "274.1942.9",
+            "Associated work": "Eleven costume designs and two set designs for the ballet Charade (or The Debutante)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1201"
+    },
+    {
+        "Artist": "Alvin Colt",
+        "Title": "Costume design for the ballet Charade (or The Debutante)",
+        "Year": "1939",
+        "ObjectID": "86122",
+        "Work": "https://www.moma.org/collection/works/86122",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ0NDE3MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=38693707952aefaf",
+        "Details": {
+            "Medium": "Gouache, pinned and stapled fabric, and pencil on colored paper on colored board",
+            "Dimensions": "22 \u00d7 14 1/8\" (55.9 \u00d7 35.9 cm)",
+            "Credit": "Gift of Lincoln Kirstein",
+            "Object number": "274.1942.10",
+            "Associated work": "Eleven costume designs and two set designs for the ballet Charade (or The Debutante)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1201"
+    },
+    {
+        "Artist": "Alvin Colt",
+        "Title": "Costume design for the ballet Charade (or The Debutante)",
+        "Year": "1939",
+        "ObjectID": "86123",
+        "Work": "https://www.moma.org/collection/works/86123",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ0NDE3NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e839dd1ad6a26153",
+        "Details": {
+            "Medium": "Gouache, stapled fabric, and pencil on colored paper on colored card",
+            "Dimensions": "22 \u00d7 14 1/8\" (55.9 \u00d7 35.9 cm)",
+            "Credit": "Gift of Lincoln Kirstein",
+            "Object number": "274.1942.11",
+            "Associated work": "Eleven costume designs and two set designs for the ballet Charade (or The Debutante)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1201"
+    },
+    {
+        "Artist": "Alvin Colt",
+        "Title": "Set design for the ballet Charade (or The Debutante)",
+        "Year": "1939",
+        "ObjectID": "86124",
+        "Work": "https://www.moma.org/collection/works/86124",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ0NDE3NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e9a84b1389c0802f",
+        "Details": {
+            "Medium": "Gouache, pinned fabric, and pencil on colored card",
+            "Dimensions": "22 \u00d7 14 1/4\" (55.9 \u00d7 36.2 cm)",
+            "Credit": "Gift of Lincoln Kirstein",
+            "Object number": "274.1942.12",
+            "Associated work": "Eleven costume designs and two set designs for the ballet Charade (or The Debutante)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1201"
+    },
+    {
+        "Artist": "Alvin Colt",
+        "Title": "Set design for the ballet Charade (or The Debutante)",
+        "Year": "1939",
+        "ObjectID": "86125",
+        "Work": "https://www.moma.org/collection/works/86125",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ0NTU2NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=aaef00b72a5599fa",
+        "Details": {
+            "Medium": "Gouache and pencil on colored card",
+            "Dimensions": "21 \u00d7 27\" (53.3 \u00d7 68.6 cm)",
+            "Credit": "Gift of Lincoln Kirstein",
+            "Object number": "274.1942.13",
+            "Associated work": "Eleven costume designs and two set designs for the ballet Charade (or The Debutante)",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1201"
+    },
+    {
+        "Artist": "Erich Comeriner",
+        "Title": "Loewe--Radio GmbH stationery invoice",
+        "Year": "1930s",
+        "ObjectID": "198386",
+        "Work": "https://www.moma.org/collection/works/198386",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM3NTI2MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ddeddd2f15de0287",
+        "Details": {
+            "Medium": "Letterpress",
+            "Dimensions": "11 3/4 \u00d7 8 1/4\" (29.8 \u00d7 21 cm)",
+            "Credit": "Elaine Lustig Cohen Collection, gift of Lawrence Benenson and the Committee on Architecture and Design Funds",
+            "Object number": "1175.2015",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/24429"
     }
 ]

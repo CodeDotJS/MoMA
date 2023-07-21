@@ -1,386 +1,386 @@
 [
     {
-        "Artist": "William Christenberry",
+        "Artist": "Kathleen Agnoli",
+        "Title": "Denise Greene",
+        "Year": "1980",
+        "ObjectID": "53437",
+        "Work": "https://www.moma.org/collection/works/53437",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzOTU3MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6a924e9b18cafeb5"
+    },
+    {
+        "Artist": "Roberta Allen",
+        "Title": "One as Two & More: Ascending & Descending Arrows II",
+        "Year": "1978-80",
+        "ObjectID": "288825",
+        "Work": "https://www.moma.org/collection/works/288825",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ1NTEyOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6ed0d2c3eb1b3e51"
+    },
+    {
+        "Artist": "Henry Altchek",
+        "Title": "Bottle Opener",
+        "Year": "1980",
+        "ObjectID": "4140",
+        "Work": "https://www.moma.org/collection/works/4140",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMDk0MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=56b8183d3d3c6f31"
+    },
+    {
+        "Artist": "Emilio Ambasz",
+        "Title": "Center for Applied Computer Research, Las Promesas, Mexico, Site plan",
+        "Year": "1975",
+        "ObjectID": "219",
+        "Work": "https://www.moma.org/collection/works/219",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyNzM5NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6edadd70d3ef5d01"
+    },
+    {
+        "Artist": "Emilio Ambasz",
+        "Title": "Center for Applied Computer Research, Las Promesas, Mexico, Axonometric",
+        "Year": "1975",
+        "ObjectID": "672",
+        "Work": "https://www.moma.org/collection/works/672",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyNzE2MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c69f433c39f1b0b3"
+    },
+    {
+        "Artist": "Emilio Ambasz",
+        "Title": "Center for Applied Computer Research, Las Promesas, Mexico, Elevation",
+        "Year": "1975",
+        "ObjectID": "675",
+        "Work": "https://www.moma.org/collection/works/675",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyNzE2MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=73994f4de9e9db18"
+    },
+    {
+        "Artist": "Emilio Ambasz",
+        "Title": "Center for Applied Computer Research, Las Promesas, Mexico, Section",
+        "Year": "1975",
+        "ObjectID": "680",
+        "Work": "https://www.moma.org/collection/works/680",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyNzE2NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5fd8753ac2b55e3e"
+    },
+    {
+        "Artist": "Henning Andreasen",
+        "Title": "Folle 26 Stapler",
+        "Year": "1977",
+        "ObjectID": "1278",
+        "Work": "https://www.moma.org/collection/works/1278",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNjU2NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d519d043b6d0c8ff"
+    },
+    {
+        "Artist": "Henning Andreasen",
+        "Title": "Telephone (model F78)",
+        "Year": "1977",
+        "ObjectID": "1308",
+        "Work": "https://www.moma.org/collection/works/1308",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwOTk4OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5e95afcc45fae1d0"
+    },
+    {
+        "Artist": "Anna Andreeva",
+        "Title": "Moscow Olympics (design for children's textile)",
+        "Year": "1980",
+        "ObjectID": "290368",
+        "Work": "https://www.moma.org/collection/works/290368",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ0MjUyMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=390b170209cf3ec0"
+    },
+    {
+        "Artist": "Arman",
+        "Title": "Black Values, Praying Mantis (Valeurs de noirs, Prey mantis)",
+        "Year": "1980",
+        "ObjectID": "59793",
+        "Work": "https://www.moma.org/collection/works/59793",
+        "Thumbnail": null
+    },
+    {
+        "Artist": "Arman",
+        "Title": "Black Values, Praying Mantis (Valeurs de noirs, Prey mantis)",
+        "Year": "1980",
+        "ObjectID": "146506",
+        "Work": "https://www.moma.org/collection/works/146506",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNDM0MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=38109ccd3d0b6941"
+    },
+    {
+        "Artist": "Arman",
+        "Title": "Black Values, Praying Mantis (Valeurs de noirs, Prey mantis)",
+        "Year": "1980",
+        "ObjectID": "146507",
+        "Work": "https://www.moma.org/collection/works/146507",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNDM0NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3d68786a9d791eae"
+    },
+    {
+        "Artist": "Tom Arndt",
+        "Title": "Street Scene, 49th Street, New York City",
+        "Year": "1980",
+        "ObjectID": "50981",
+        "Work": "https://www.moma.org/collection/works/50981",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ0MzMzNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=44f809c59802d5e3"
+    },
+    {
+        "Artist": "Charles Arnoldi",
         "Title": "Untitled",
-        "Year": "c. 1975",
-        "ObjectID": "50872",
-        "Work": "https://www.moma.org/collection/works/50872",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNjQ1MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=867b1dba5bfaa799"
+        "Year": "1980",
+        "ObjectID": "33604",
+        "Work": "https://www.moma.org/collection/works/33604",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwMzYzOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0e377853cb47d557"
     },
     {
-        "Artist": "Peter Martin Christopherson, Charisma Records",
-        "Title": "Cover for Peter Gabriel self-titled album",
-        "Year": "1977",
-        "ObjectID": "185445",
-        "Work": "https://www.moma.org/collection/works/185445",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwNTUxNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c37ce0276efd2647"
+        "Artist": "Artrouble",
+        "Title": "Album cover for Devo, Freedom of Choice",
+        "Year": "1980",
+        "ObjectID": "189052",
+        "Work": "https://www.moma.org/collection/works/189052",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMxNTg3MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6bdb44ae5e1bcc2b"
     },
     {
-        "Artist": "Chryssa",
-        "Title": "Air",
-        "Year": "(n.d.)",
-        "ObjectID": "37149",
-        "Work": "https://www.moma.org/collection/works/37149",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM4Nzk0MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=336037b63ec92507"
+        "Artist": "Frank Auerbach",
+        "Title": "Head of Catherine Lampert VI",
+        "Year": "(1979-80)",
+        "ObjectID": "36886",
+        "Work": "https://www.moma.org/collection/works/36886",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NjI4NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=44cd4cf65961164e"
     },
     {
-        "Artist": "Chung Chang-Sup",
-        "Title": "Return 77-A",
-        "Year": "1977",
-        "ObjectID": "220491",
-        "Work": "https://www.moma.org/collection/works/220491",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5MzQxNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9720267af673eb7f"
+        "Artist": "Gae Aulenti",
+        "Title": "Table with Wheels (model 2652)",
+        "Year": "1980",
+        "ObjectID": "3366",
+        "Work": "https://www.moma.org/collection/works/3366",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMTEzMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f78ab786b5321d9f"
     },
     {
-        "Artist": "Chuck Close",
-        "Title": "Robert",
-        "Year": "1977",
-        "ObjectID": "33685",
-        "Work": "https://www.moma.org/collection/works/33685",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3OTA1NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c21071e20dd6e2da"
+        "Artist": "Alice Aycock",
+        "Title": "Collected Ghost Stories from the Workhouse from the series How to Catch and Manufacture Ghosts",
+        "Year": "1980",
+        "ObjectID": "288846",
+        "Work": "https://www.moma.org/collection/works/288846",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ1NTI4NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=28bd3065bdfc9f1c"
     },
     {
-        "Artist": "Chuck Close",
-        "Title": "Self-Portrait",
-        "Year": "1977",
-        "ObjectID": "68483",
-        "Work": "https://www.moma.org/collection/works/68483",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ3NzQ2MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3f2abb5a05d1f9f3"
+        "Artist": "Heinz Bahr",
+        "Title": "Fachkursstipendien (Specialized Course Scholarships)",
+        "Year": "1980",
+        "ObjectID": "6857",
+        "Work": "https://www.moma.org/collection/works/6857",
+        "Thumbnail": null
     },
     {
-        "Artist": "Chuck Close",
-        "Title": "Self-Portrait 6x1",
-        "Year": "1977",
-        "ObjectID": "142987",
-        "Work": "https://www.moma.org/collection/works/142987",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMzM4NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=313c1a4912000945"
+        "Artist": "Juan Baixas",
+        "Title": "La Dehesa, Santiago, Chile",
+        "Year": "1980",
+        "ObjectID": "184863",
+        "Work": "https://www.moma.org/collection/works/184863",
+        "Thumbnail": null
     },
     {
-        "Artist": "Guy de Cointet, Robert Wilhite",
-        "Title": "Ethiopia",
-        "Year": "1977",
-        "ObjectID": "163396",
-        "Work": "https://www.moma.org/collection/works/163396",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzNzE5NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ac3c7b6fd754586f"
+        "Artist": "Juan Baixas",
+        "Title": "La Dehesa, Santiago, Chile",
+        "Year": "1980",
+        "ObjectID": "184864",
+        "Work": "https://www.moma.org/collection/works/184864",
+        "Thumbnail": null
     },
     {
-        "Artist": "Augusto Concato",
-        "Title": "Without/Senza",
-        "Year": "1977",
-        "ObjectID": "183938",
-        "Work": "https://www.moma.org/collection/works/183938",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQwMDE1NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8e675f3af13fe0cf"
+        "Artist": "Juan Baixas",
+        "Title": "La Dehesa, Santiago, Chile",
+        "Year": "1980",
+        "ObjectID": "184866",
+        "Work": "https://www.moma.org/collection/works/184866",
+        "Thumbnail": null
     },
     {
-        "Artist": "Neelon Crawford",
-        "Title": "Banana Leaves",
-        "Year": "1977",
-        "ObjectID": "315261",
-        "Work": "https://www.moma.org/collection/works/315261",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUwNjExOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=81c517e05bb3addc"
+        "Artist": "Juan Baixas",
+        "Title": "Casa La Villa, La Dehesa, Chile",
+        "Year": "1980",
+        "ObjectID": "184867",
+        "Work": "https://www.moma.org/collection/works/184867",
+        "Thumbnail": null
     },
     {
-        "Artist": "Neelon Crawford",
-        "Title": "Lago Agrio Gas Burn",
-        "Year": "1977",
-        "ObjectID": "320907",
-        "Work": "https://www.moma.org/collection/works/320907",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUwNjExNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c169a039bceac875"
+        "Artist": "Juan Baixas",
+        "Title": "Casa La Villa, La Dehesa, Chile",
+        "Year": "1980",
+        "ObjectID": "184868",
+        "Work": "https://www.moma.org/collection/works/184868",
+        "Thumbnail": null
     },
     {
-        "Artist": "Neelon Crawford",
-        "Title": "Banana Leaves",
-        "Year": "1977",
-        "ObjectID": "420368",
-        "Work": "https://www.moma.org/collection/works/420368",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUwNjExOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=81c517e05bb3addc"
+        "Artist": "Juan Baixas",
+        "Title": "Casa La Villa, La Dehesa, Chile",
+        "Year": "1980",
+        "ObjectID": "184870",
+        "Work": "https://www.moma.org/collection/works/184870",
+        "Thumbnail": null
     },
     {
-        "Artist": "Neelon Crawford",
-        "Title": "Lago Agrio Gas Burn",
-        "Year": "1977",
-        "ObjectID": "420373",
-        "Work": "https://www.moma.org/collection/works/420373",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUwNjExNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c169a039bceac875"
+        "Artist": "Juan Baixas",
+        "Title": "Casa La Villa, La Dehesa, Chile",
+        "Year": "1980",
+        "ObjectID": "184871",
+        "Work": "https://www.moma.org/collection/works/184871",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzMDk3MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8e1ca865414dd66a"
     },
     {
-        "Artist": "Michael D. Dailey",
-        "Title": "Landscape Drawing, No. 1",
-        "Year": "1977",
-        "ObjectID": "35813",
-        "Work": "https://www.moma.org/collection/works/35813",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMyMTYxNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b4d6d4983059450d"
+        "Artist": "Juan Baixas",
+        "Title": "Casa La Villa, La Dehesa, Chile",
+        "Year": "1980",
+        "ObjectID": "184872",
+        "Work": "https://www.moma.org/collection/works/184872",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzMTE1OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=baad8b857d40a7c4"
     },
     {
-        "Artist": "Ele D'Artagnan (Michele Lombardi-Toscanini)",
-        "Title": "The Coming of Harpy (#217)",
-        "Year": "1977",
-        "ObjectID": "95766",
-        "Work": "https://www.moma.org/collection/works/95766",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExMjM4NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=73a04ffbb01dd1f1"
+        "Artist": "Juan Baixas",
+        "Title": "Casa La Villa, La Dehesa, Chile",
+        "Year": "1980",
+        "ObjectID": "184873",
+        "Work": "https://www.moma.org/collection/works/184873",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzMDk3NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c3531e4aa76f0636"
     },
     {
-        "Artist": "Robert De Boeck",
-        "Title": "Cheque H.Daled",
-        "Year": "1977",
-        "ObjectID": "147018",
-        "Work": "https://www.moma.org/collection/works/147018",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQwMDU4NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=707774fab748bfd2"
+        "Artist": "Juan Baixas",
+        "Title": "Casa La Villa, La Dehesa, Chile",
+        "Year": "1980",
+        "ObjectID": "184874",
+        "Work": "https://www.moma.org/collection/works/184874",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzMDk3OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=280f45cef01eb43f"
     },
     {
-        "Artist": "Robert De Boeck",
-        "Title": "Cheque Ch. De Boeck",
-        "Year": "1977",
-        "ObjectID": "147019",
-        "Work": "https://www.moma.org/collection/works/147019",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5Mzg2OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b71ce5e1a1f23d96"
+        "Artist": "Juan Baixas",
+        "Title": "Casa La Villa, La Dehesa, Chile",
+        "Year": "1980",
+        "ObjectID": "184875",
+        "Work": "https://www.moma.org/collection/works/184875",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzMDk4MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=07d3a66b734882bb"
     },
     {
-        "Artist": "Robert De Boeck",
-        "Title": "Cheque J. Kosuth",
-        "Year": "1977",
-        "ObjectID": "147020",
-        "Work": "https://www.moma.org/collection/works/147020",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM2NjIyNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4fc3bda5218d647c"
+        "Artist": "Juan Baixas",
+        "Title": "Casa La Villa, La Dehesa, Chile",
+        "Year": "1980",
+        "ObjectID": "184876",
+        "Work": "https://www.moma.org/collection/works/184876",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzMDk4MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c1e0c0d41ac2372c"
     },
     {
-        "Artist": "Jay DeFeo",
-        "Title": "Untitled from the Tripod series",
-        "Year": "1977",
-        "ObjectID": "95786",
-        "Work": "https://www.moma.org/collection/works/95786",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExODU2OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4182313f81d67fbc"
+        "Artist": "Juan Baixas",
+        "Title": "Casa La Villa, La Dehesa, Chile",
+        "Year": "1980",
+        "ObjectID": "184877",
+        "Work": "https://www.moma.org/collection/works/184877",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzMDk4MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c84405d01f351e99"
     },
     {
-        "Artist": "Willem de Kooning",
-        "Title": "Untitled",
-        "Year": "1976",
-        "ObjectID": "38092",
-        "Work": "https://www.moma.org/collection/works/38092",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwNzY5OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=115a079fa3b0c0ff"
+        "Artist": "Juan Baixas",
+        "Title": "Casa La Villa, La Dehesa, Chile",
+        "Year": "1980",
+        "ObjectID": "184878",
+        "Work": "https://www.moma.org/collection/works/184878",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzMTMxMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=07c79e4b7e69c50c"
     },
     {
-        "Artist": "Willem de Kooning",
-        "Title": "Untitled XIX",
-        "Year": "1977",
-        "ObjectID": "79870",
-        "Work": "https://www.moma.org/collection/works/79870",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MzI5NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6f7d35fe5588f170"
+        "Artist": "Juan Baixas",
+        "Title": "Casa La Villa, La Dehesa, Chile",
+        "Year": "1980",
+        "ObjectID": "184879",
+        "Work": "https://www.moma.org/collection/works/184879",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzMTUzOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4759c2367612947e"
     },
     {
-        "Artist": "Sonia Delaunay-Terk",
-        "Title": "Double page half title from Le Coeur a Gaz (The Gas Heart)",
-        "Year": "1923, published 1977",
-        "ObjectID": "20039",
-        "Work": "https://www.moma.org/collection/works/20039",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ3MDYyMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=129ef9b342d37d01"
+        "Artist": "Juan Baixas",
+        "Title": "Casa La Villa, La Dehesa, Chile",
+        "Year": "1980",
+        "ObjectID": "184880",
+        "Work": "https://www.moma.org/collection/works/184880",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzMTMxNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e32be4c4305676b1"
     },
     {
-        "Artist": "Sonia Delaunay-Terk",
-        "Title": "Le Coeur a Gaz (The Gas Heart)",
-        "Year": "1923, published 1977",
-        "ObjectID": "20040",
-        "Work": "https://www.moma.org/collection/works/20040",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ3MDYzMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a89e1e18e34673e9"
+        "Artist": "Juan Baixas",
+        "Title": "Casa La Villa, La Dehesa, Chile",
+        "Year": "1980",
+        "ObjectID": "184881",
+        "Work": "https://www.moma.org/collection/works/184881",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzMTMxNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e109626d8519ddfc"
     },
     {
-        "Artist": "Sonia Delaunay-Terk",
-        "Title": "Double page plate (pages 46 and 47) from Le Coeur a Gaz (The Gas Heart)",
-        "Year": "1923, published 1977",
-        "ObjectID": "20041",
-        "Work": "https://www.moma.org/collection/works/20041",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ3MDYzMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e4a7ae151a2103a3"
+        "Artist": "Juan Baixas",
+        "Title": "Casa La Villa, La Dehesa, Chile",
+        "Year": "1980",
+        "ObjectID": "184891",
+        "Work": "https://www.moma.org/collection/works/184891",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzMTMxNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7b00fc298084ff10"
     },
     {
-        "Artist": "Sonia Delaunay-Terk",
-        "Title": "In-text plate (page 49) from Le Coeur a Gaz (The Gas Heart)",
-        "Year": "1923, published 1977",
-        "ObjectID": "20042",
-        "Work": "https://www.moma.org/collection/works/20042",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ3MDYzMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=48d340ce01631e2f"
+        "Artist": "Juan Baixas",
+        "Title": "Casa La Villa, La Dehesa, Chile",
+        "Year": "1980",
+        "ObjectID": "186777",
+        "Work": "https://www.moma.org/collection/works/186777",
+        "Thumbnail": null
     },
     {
-        "Artist": "Sonia Delaunay-Terk",
-        "Title": "Tailpiece (page 51) from Le Coeur a Gaz (The Gas Heart)",
-        "Year": "1923, published 1977",
-        "ObjectID": "20043",
-        "Work": "https://www.moma.org/collection/works/20043",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ3MDYzMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=72838a821e21f272"
+        "Artist": "Alvaro Barrios",
+        "Title": "Popular Print \"The Martyrdom of Saint Sebastian\"",
+        "Year": "1980",
+        "ObjectID": "99333",
+        "Work": "https://www.moma.org/collection/works/99333",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5NDE4NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a9e4b74e937c8442"
     },
     {
-        "Artist": "Sonia Delaunay-Terk",
-        "Title": "Plate (page 10) from Le Coeur a Gaz (The Gas Heart)",
-        "Year": "1923, published 1977",
-        "ObjectID": "20051",
-        "Work": "https://www.moma.org/collection/works/20051",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ3MDYyMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=264bc7910d70ecfd"
+        "Artist": "Alvaro Barrios",
+        "Title": "Popular Print for the exhibition \"Dreams About Marcel Duchamp\" (Grabado popular impreso para la exhibicion \"Suenos con Marcel Duchamp\"), Popular Print for the exhibition _\"_Dreams About Marcel Duchamp_\" (_Grabado popular impreso para la exhibicion _\"_Suenos con Marcel Duchamp_\")_",
+        "Year": "1980",
+        "ObjectID": "99335",
+        "Work": "https://www.moma.org/collection/works/99335",
+        "Thumbnail": null
     },
     {
-        "Artist": "Sonia Delaunay-Terk",
-        "Title": "Plate (page 14) from Le Coeur a Gaz (The Gas Heart)",
-        "Year": "1923, published 1977",
-        "ObjectID": "20052",
-        "Work": "https://www.moma.org/collection/works/20052",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ3MDYyMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2cfa5aa9a27c1bf2"
+        "Artist": "Alvaro Barrios",
+        "Title": "Popular Print for the exhibition \"Dreams About Marcel Duchamp\" (Grabado popular impreso para la exhibicion \"Suenos con Marcel Duchamp\")",
+        "Year": "1980",
+        "ObjectID": "110514",
+        "Work": "https://www.moma.org/collection/works/110514",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMyMzMzNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8696935d5c2bebc6"
     },
     {
-        "Artist": "Sonia Delaunay-Terk",
-        "Title": "Plate (page 22) from Le Coeur a Gaz (The Gas Heart)",
-        "Year": "1923, published 1977",
-        "ObjectID": "20053",
-        "Work": "https://www.moma.org/collection/works/20053",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ3MDYyNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8871f61673810000"
+        "Artist": "Alvaro Barrios",
+        "Title": "Popular Print for the exhibition \"Dreams About Marcel Duchamp\" (Grabado popular impreso para la exhibicion \"Suenos con Marcel Duchamp\")",
+        "Year": "1980",
+        "ObjectID": "110515",
+        "Work": "https://www.moma.org/collection/works/110515",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMyMzMzNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=04a01f1d02710312"
     },
     {
-        "Artist": "Sonia Delaunay-Terk",
-        "Title": "Plate (page 25) from Le Coeur a Gaz (The Gas Heart)",
-        "Year": "1923, published 1977",
-        "ObjectID": "20054",
-        "Work": "https://www.moma.org/collection/works/20054",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ3MDYyNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=da9201caaca26197"
+        "Artist": "Alvaro Barrios",
+        "Title": "Popular Print for the exhibition \"Dreams About Marcel Duchamp\" (Grabado popular impreso para la exhibicion \"Suenos con Marcel Duchamp\")",
+        "Year": "1980",
+        "ObjectID": "110516",
+        "Work": "https://www.moma.org/collection/works/110516",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMyMzMzNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cadc05778388a1e9"
     },
     {
-        "Artist": "Sonia Delaunay-Terk",
-        "Title": "Plate (page 30) from Le Coeur a Gaz (The Gas Heart)",
-        "Year": "1923, published 1977",
-        "ObjectID": "20055",
-        "Work": "https://www.moma.org/collection/works/20055",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ3MDYyNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8913382efa7b0a24"
+        "Artist": "Alvaro Barrios",
+        "Title": "Popular Print for the exhibition \"Dreams About Marcel Duchamp\" (Grabado popular impreso para la exhibicion \"Suenos con Marcel Duchamp\")",
+        "Year": "1980",
+        "ObjectID": "110517",
+        "Work": "https://www.moma.org/collection/works/110517",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMyMzMzNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=327a487ceb64400e"
     },
     {
-        "Artist": "Sonia Delaunay-Terk",
-        "Title": "Plate (page 25) from Le Coeur a Gaz (The Gas Heart)",
-        "Year": "1923, published 1977",
-        "ObjectID": "20056",
-        "Work": "https://www.moma.org/collection/works/20056",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ3MDYyNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c5a1354159874a91"
+        "Artist": "Alvaro Barrios",
+        "Title": "Popular Print for the exhibition \"Dreams About Marcel Duchamp\" (Grabado popular impreso para la exhibicion \"Suenos con Marcel Duchamp\")",
+        "Year": "1980",
+        "ObjectID": "110518",
+        "Work": "https://www.moma.org/collection/works/110518",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMyMzMzOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5e65e2b314311315"
     },
     {
-        "Artist": "Sonia Delaunay-Terk",
-        "Title": "Double page in-text plate (pages 38 and 39) from Le Coeur a Gaz (The Gas Heart)",
-        "Year": "1923, published 1977",
-        "ObjectID": "20057",
-        "Work": "https://www.moma.org/collection/works/20057",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ3MDYyOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1cc3db110e4a5311"
+        "Artist": "Alvaro Barrios",
+        "Title": "Popular Print for the exhibition \"Dreams About Marcel Duchamp\" (Grabado popular impreso para la exhibicion \"Suenos con Marcel Duchamp\")",
+        "Year": "1980",
+        "ObjectID": "110519",
+        "Work": "https://www.moma.org/collection/works/110519",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMyMzMzOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c9cc695de0dc39b8"
     },
     {
-        "Artist": "Sonia Delaunay-Terk",
-        "Title": "Plate (page 43) from Le Coeur a Gaz (The Gas Heart)",
-        "Year": "1923, published 1977",
-        "ObjectID": "20058",
-        "Work": "https://www.moma.org/collection/works/20058",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ3MDYyOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4949ff56c1a95f12"
-    },
-    {
-        "Artist": "Sonia Delaunay-Terk",
-        "Title": "Untitled",
-        "Year": "1968-77",
-        "ObjectID": "66600",
-        "Work": "https://www.moma.org/collection/works/66600",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxOTAyOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=dbda0a1534f68a68"
-    },
-    {
-        "Artist": "Robyn Denny",
-        "Title": "Graffiti 15",
-        "Year": "1977",
-        "ObjectID": "68847",
-        "Work": "https://www.moma.org/collection/works/68847",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxODU3MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0e261eead4c56589"
-    },
-    {
-        "Artist": "Robyn Denny",
-        "Title": "Graffiti 14",
-        "Year": "1977",
-        "ObjectID": "68871",
-        "Work": "https://www.moma.org/collection/works/68871",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxODU3MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7a602a5dc9264873"
-    },
-    {
-        "Artist": "Marco De Valdivia",
-        "Title": "Untitled",
-        "Year": "1977",
-        "ObjectID": "57502",
-        "Work": "https://www.moma.org/collection/works/57502",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzOTY0NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0e359ae5a405344b"
-    },
-    {
-        "Artist": "Marco De Valdivia",
-        "Title": "Untitled",
-        "Year": "1977",
-        "ObjectID": "57504",
-        "Work": "https://www.moma.org/collection/works/57504",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzOTY0NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=20856f65d361d601"
-    },
-    {
-        "Artist": "John Edward Devine",
-        "Title": "Tree, New Haven",
-        "Year": "1977",
-        "ObjectID": "44952",
-        "Work": "https://www.moma.org/collection/works/44952",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxOTYyNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2cf8d23f93a6aef5"
-    },
-    {
-        "Artist": "Jan Dibbets",
-        "Title": "The Black Vase, De Zwarte Vaas",
-        "Year": "c. 1972",
-        "ObjectID": "165003",
-        "Work": "https://www.moma.org/collection/works/165003",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4MDQ3MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=31cfd27baad49a66"
-    },
-    {
-        "Artist": "Richard Diebenkorn",
-        "Title": "Untitled (Ocean Park)",
-        "Year": "1977",
-        "ObjectID": "36562",
-        "Work": "https://www.moma.org/collection/works/36562",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyNDA3MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3a6951ea861d7e61"
-    },
-    {
-        "Artist": "Rick Dingus",
-        "Title": "Untitled (Grave Mound, Santa Fe)",
-        "Year": "1977",
-        "ObjectID": "54181",
-        "Work": "https://www.moma.org/collection/works/54181",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0MDE0NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=73a10914988e8022"
-    },
-    {
-        "Artist": "The Diodes, Amerigo Marras, Bruce Eves",
-        "Title": "The Diodes",
-        "Year": "1977",
-        "ObjectID": "183949",
-        "Work": "https://www.moma.org/collection/works/183949",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQwMDI2MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=161597df4e7a9353"
-    },
-    {
-        "Artist": "Wes Disney",
-        "Title": "The House of Clocks",
-        "Year": "1977",
-        "ObjectID": "50934",
-        "Work": "https://www.moma.org/collection/works/50934",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1MTE4MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f017f7720cf13b04"
-    },
-    {
-        "Artist": "John Divola",
-        "Title": "Untitled",
-        "Year": "1977",
-        "ObjectID": "56529",
-        "Work": "https://www.moma.org/collection/works/56529",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNjczMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=042466c85e649885"
-    },
-    {
-        "Artist": "Juan Downey",
-        "Title": "Yanomami Healing One",
-        "Year": "1977",
-        "ObjectID": "118232",
-        "Work": "https://www.moma.org/collection/works/118232",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1MTYzOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=da9f75e61a964463"
-    },
-    {
-        "Artist": "Richard Drew/Associated Press",
-        "Title": "\"Diana Ross Arrives\"",
-        "Year": "June 5, 1977",
-        "ObjectID": "58583",
-        "Work": "https://www.moma.org/collection/works/58583",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMjA4MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6666a84798d7e41f"
+        "Artist": "Jennifer Bartlett",
+        "Title": "At Sea, Japan",
+        "Year": "1980",
+        "ObjectID": "69410",
+        "Work": "https://www.moma.org/collection/works/69410",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwNjI2NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3f23115d9e485283"
     }
 ]

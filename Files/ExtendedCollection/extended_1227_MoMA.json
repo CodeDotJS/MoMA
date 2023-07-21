@@ -1,778 +1,825 @@
 [
     {
-        "Artist": "Herbert Tomlinson",
-        "Title": "Remove Old Lumber",
-        "Year": "c.1941",
-        "ObjectID": "5809",
-        "Work": "https://www.moma.org/collection/works/5809",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MzI0MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4127d089bdae087a",
+        "Artist": "Carl Van Vechten",
+        "Title": "Leontyne Price",
+        "Year": "1950s",
+        "ObjectID": "178891",
+        "Work": "https://www.moma.org/collection/works/178891",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMxNjkzNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fe1fa9494251556f",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "5 7/16 \u00d7 3 7/16\" (13.8 \u00d7 8.7 cm)",
+            "Credit": "The Family of Man Fund",
+            "Object number": "1056.2014",
+            "Copyright": "\u00a9 Carl Van Vechten Trust",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/11663"
+    },
+    {
+        "Artist": "Carl Van Vechten",
+        "Title": "Joyce Bryant",
+        "Year": "1950s",
+        "ObjectID": "178892",
+        "Work": "https://www.moma.org/collection/works/178892",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMxNjg5NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f3b2416383d2178e",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "5 3/8 \u00d7 3 1/4\" (13.7 \u00d7 8.2 cm)",
+            "Credit": "The Family of Man Fund",
+            "Object number": "1054.2014",
+            "Copyright": "\u00a9 Carl Van Vechten Trust",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/11663"
+    },
+    {
+        "Artist": "Carl Van Vechten",
+        "Title": "Althea Gibson",
+        "Year": "1950s",
+        "ObjectID": "178893",
+        "Work": "https://www.moma.org/collection/works/178893",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMxNjkwNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6caefa3dd0a22835",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "5 1/4 \u00d7 3 1/4\" (13.4 \u00d7 8.3 cm)",
+            "Credit": "The Family of Man Fund",
+            "Object number": "1051.2014",
+            "Copyright": "\u00a9 Carl Van Vechten Trust",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/11663"
+    },
+    {
+        "Artist": "Various Artists",
+        "Title": "Semina 4",
+        "Year": "1959",
+        "ObjectID": "204607",
+        "Work": "https://www.moma.org/collection/works/204607",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM3NjM5MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e62075b3fc39d116",
+        "Details": {
+            "Medium": "Journal with twenty-three cards and cover, offset lithograph, lithograph, and letterpress printed",
+            "Dimensions": "overall (.a): 9 1/2 \u00d7 8\" (24.1 \u00d7 20.3 cm); sheet (.b-.x): various dimensions",
+            "Publisher": "Wallace Berman, San Francisco",
+            "Printer": "Wallace Berman",
+            "Edition": "unknown",
+            "Credit": "The Sue and Edgar Wachenheim III Endowment, The Library Council of The Museum of Modern Art, and gift of Philip E. Aarons and Shelley Fox Aarons, in memory of Gilbert Silverman",
+            "Object number": "608.2016.4.a-x",
+            "Periodical": "Semina 1-7, and A Portents Semina",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/24409"
+    },
+    {
+        "Artist": "Various Artists",
+        "Title": "Semina 5",
+        "Year": "1959",
+        "ObjectID": "204608",
+        "Work": "https://www.moma.org/collection/works/204608",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM3NjM5NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c4d815c5b1de84ec",
+        "Details": {
+            "Medium": "Journal with eighteen cards and cover, offset lithograph and letterpress printed",
+            "Dimensions": "overall (.a): 7 7/8 \u00d7 4 7/8\" (20 \u00d7 12.4 cm); sheet (.b-.s): various dimensions",
+            "Publisher": "Wallace Berman, San Francisco",
+            "Printer": "Wallace Berman",
+            "Edition": "350",
+            "Credit": "The Sue and Edgar Wachenheim III Endowment, The Library Council of The Museum of Modern Art, and gift of Philip E. Aarons and Shelley Fox Aarons, in memory of Gilbert Silverman",
+            "Object number": "608.2016.5.a-s",
+            "Periodical": "Semina 1-7, and A Portents Semina",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/24409"
+    },
+    {
+        "Artist": "Ben Vautier",
+        "Title": "Poster for Sculpture vivante, Galerie d'Art Total, Nice",
+        "Year": "1959",
+        "ObjectID": "140229",
+        "Work": "https://www.moma.org/collection/works/140229",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4ODM1MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=df8e1e2cb11f2a33",
+        "Details": {
+            "Medium": "Letterpress with pasted stamp",
+            "Dimensions": "sheet: 23 7/16 \u00d7 15 3/16\" (59.6 \u00d7 38.6 cm)",
+            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
+            "Object number": "3831.2008",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6115"
+    },
+    {
+        "Artist": "Mary Vieira",
+        "Title": "Brasilien Baut (Brazil builds) (Poster for an exhibition at the Kunstgewerbemuseum, Zurich)",
+        "Year": "c. 1954",
+        "ObjectID": "167939",
+        "Work": "https://www.moma.org/collection/works/167939",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3NDc1NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c9a4c6b7a9dd0d7d",
         "Details": {
             "Medium": "Lithograph",
-            "Credit": "Gift of Mrs. John Carter",
-            "Object number": "243.1943",
+            "Dimensions": "50 3/8 x 35 1/2\" (128 x 90.2 cm)",
+            "Credit": "Gift of Artur Walther",
+            "Object number": "699.2013",
             "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/38129"
+        "Profile": "https://www.moma.org/artists/43281"
     },
     {
-        "Artist": "Herbert Tomlinson",
-        "Title": "One Pair Can Eat Half a Loaf in a Month",
-        "Year": "c.1941",
-        "ObjectID": "135674",
-        "Work": "https://www.moma.org/collection/works/135674",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MzM4MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=64d08ef673a558a5",
+        "Artist": "Alfredo Volpi",
+        "Title": "Study with Flag and Pole",
+        "Year": "(1950-59)",
+        "ObjectID": "94521",
+        "Work": "https://www.moma.org/collection/works/94521",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ3NzM2MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f9d4b045c0bbe037",
+        "Details": {
+            "Medium": "Ink and pencil on paper",
+            "Dimensions": "12 7/8 x 9 7/8\" (32.7 x 25.1 cm)",
+            "Credit": "Purchase",
+            "Object number": "129.2005",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/27989"
+    },
+    {
+        "Artist": "Monika Von Boch",
+        "Title": "Forest",
+        "Year": "1959",
+        "ObjectID": "54690",
+        "Work": "https://www.moma.org/collection/works/54690",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4ODM4NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4fd35b404624bcf4",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "11 7/8 \u00d7 15 5/8\" (30.1 \u00d7 39.7 cm)",
+            "Credit": "Purchase",
+            "Object number": "523.1960",
+            "Copyright": "\u00a9 2023 Monika Von Boch / Artists Rights Society (ARS), New York / VG Bild-Kunst, Germany",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/6183"
+    },
+    {
+        "Artist": "John Von Wicht",
+        "Title": "Improvisation, Red and Black",
+        "Year": "c. 1954",
+        "ObjectID": "63771",
+        "Work": "https://www.moma.org/collection/works/63771",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMzE2MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a00d5907dc68c34a",
         "Details": {
             "Medium": "Lithograph",
-            "Object number": "P351",
-            "Department": "Architecture and Design"
+            "Dimensions": "composition (irreg.): 16 5/16 x 8 1/8\" (41.5 x 20.6cm); sheet: 22 3/4 x 15 15/16\" (57.8 x 40.5cm)",
+            "Publisher": "John Von Wicht",
+            "Printer": "Robert Blackburn",
+            "Edition": "10",
+            "Credit": "Blanchette Hooker Rockefeller Fund",
+            "Object number": "178.1987",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/38129"
+        "Profile": "https://www.moma.org/artists/6187"
     },
     {
-        "Artist": "Jan Tschichold",
-        "Title": "Generalversammlung des Verbandes schweizerischer Graphiker Basel, 15. und 16. Juni 1946",
-        "Year": "1946",
-        "ObjectID": "8523",
-        "Work": "https://www.moma.org/collection/works/8523",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyOTkzMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3018a6fc4f2e958c",
+        "Artist": "Wolf Vostell",
+        "Title": "TV-De-coll/age, no. 1",
+        "Year": "1958-59",
+        "ObjectID": "284439",
+        "Work": "https://www.moma.org/collection/works/284439",
+        "Thumbnail": null,
         "Details": {
-            "Medium": "Letterpress",
-            "Dimensions": "13 3/4 x 9 7/8\" (34.9 x 25.1 cm)",
-            "Printer": "E. Birkh\u00e4user & Cie. AG",
-            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
-            "Object number": "1047.1999",
-            "Department": "Architecture and Design"
+            "Medium": "Six television monitors, canvas",
+            "Dimensions": "99 \u00d7 134 \u00d7 32\" (251.5 \u00d7 340.4 \u00d7 81.3 cm)",
+            "Credit": "Gift of Yoko Ono",
+            "Object number": "1232.2018",
+            "Copyright": "\u00a9 2023 The Wolf Vostell Estate",
+            "Department": "Media and Performance"
         },
-        "Profile": "https://www.moma.org/artists/5951"
+        "Profile": "https://www.moma.org/artists/6191"
     },
     {
-        "Artist": "Earl S. Tupper",
-        "Title": "Drinking Cups",
-        "Year": "1946",
-        "ObjectID": "1172",
-        "Work": "https://www.moma.org/collection/works/1172",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMDI2MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5307ef5807ace904",
+        "Artist": "Wilhelm Wagenfeld",
+        "Title": "Ceiling Light",
+        "Year": "1959",
+        "ObjectID": "82780",
+        "Work": "https://www.moma.org/collection/works/82780",
+        "Thumbnail": null,
         "Details": {
-            "Manufacturer": "Manufactured by Tupper Corporation, Farnumsville, MA",
-            "Medium": "Polyethylene",
-            "Dimensions": "Each: 2 7/8 x 4\" (7.3 x 10.2 cm)",
+            "Manufacturer": "Lindner GmbH, Bamberg, Germany",
+            "Medium": "Porcelain and glass",
+            "Dimensions": "h. 4 7/8\" (12.4 cm), diam. 2 11/16\" (6.8 cm)",
             "Credit": "Gift of the manufacturer",
-            "Object number": "2301.2001.1-5",
+            "Object number": "2318.2001",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
             "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/5970"
+        "Profile": "https://www.moma.org/artists/6208"
     },
     {
-        "Artist": "Unidentified Artist",
-        "Title": "Russian Poster Dealing with the Five-Year Plan",
-        "Year": "c.1941",
-        "ObjectID": "6154",
-        "Work": "https://www.moma.org/collection/works/6154",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNzQ5NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=87e33545843494aa",
+        "Artist": "June Wayne",
+        "Title": "Songs and Sonets",
+        "Year": "1959",
+        "ObjectID": "18261",
+        "Work": "https://www.moma.org/collection/works/18261",
+        "Thumbnail": null,
         "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "40 5/8 x 29 1/8\" (103.2 x 74 cm)",
-            "Credit": "Gift of Miss Jessie Rosenfeld",
-            "Object number": "302.1943",
+            "Author": "John Donne",
+            "Medium": "Illustrated bok with seventeen lithographs, including two rejected plates",
+            "Dimensions": "various composition dimensions; page: 14 15/16 \u00d7 11 1/8\" (38 \u00d7 28.2 cm)",
+            "Publisher": "June Wayne, Los Angeles",
+            "Printer": "Marcel Durassier",
+            "Edition": "110",
+            "Credit": "Gift of Evelyn and Robert Frank",
+            "Object number": "531.1984.1-17",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6271"
+    },
+    {
+        "Artist": "Todd Webb",
+        "Title": "Untitled",
+        "Year": "c.1955",
+        "ObjectID": "52371",
+        "Work": "https://www.moma.org/collection/works/52371",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4ODMyMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6a5c85fc7417c8dc",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "10 1/4 \u00d7 13 3/8\" (26 \u00d7 34 cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "390.1959",
+            "Copyright": "\u00a9 2023 Estate of Todd Webb",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/6272"
+    },
+    {
+        "Artist": "Dan Weiner",
+        "Title": "Barber Shop, New York",
+        "Year": "c. 1955",
+        "ObjectID": "54627",
+        "Work": "https://www.moma.org/collection/works/54627",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MjY4NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d3acaf82693fdb6f",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "10 3/8 \u00d7 13 5/16\" (26.4 \u00d7 33.8 cm)",
+            "Credit": "Gift of Sandra Weiner",
+            "Object number": "517.1994",
+            "Copyright": "\u00a9 2023 John Broderick, courtesy of Sandra Weiner",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/6287"
+    },
+    {
+        "Artist": "Dan Weiner",
+        "Title": "Nova Scotia",
+        "Year": "1959",
+        "ObjectID": "88086",
+        "Work": "https://www.moma.org/collection/works/88086",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MjczOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=876d3670b6bcb30e",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "10 7/16 \u00d7 13 3/8\" (26.5 \u00d7 34 cm)",
+            "Credit": "Gift of Sandra Weiner",
+            "Object number": "54.2003",
+            "Copyright": "\u00a9 2023 John Broderick, courtesy of Sandra Weiner",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/6287"
+    },
+    {
+        "Artist": "Dan Weiner",
+        "Title": "Italy",
+        "Year": "1950s",
+        "ObjectID": "88102",
+        "Work": "https://www.moma.org/collection/works/88102",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MjgzMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3fff2c6555c56504",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "13 9/16 \u00d7 8 15/16\" (34.4 \u00d7 22.7 cm)",
+            "Credit": "Gift of Sandra Weiner",
+            "Object number": "70.2003",
+            "Copyright": "\u00a9 2023 John Broderick, courtesy of Sandra Weiner",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/6287"
+    },
+    {
+        "Artist": "Dan Weiner",
+        "Title": "Venezuela",
+        "Year": "1950s",
+        "ObjectID": "88103",
+        "Work": "https://www.moma.org/collection/works/88103",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5Mjg0OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7775641b5b8a472d",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "9 7/16 \u00d7 13 7/16\" (23.9 \u00d7 34.1 cm)",
+            "Credit": "Gift of Sandra Weiner",
+            "Object number": "71.2003",
+            "Copyright": "\u00a9 2023 John Broderick, courtesy of Sandra Weiner",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/6287"
+    },
+    {
+        "Artist": "Dan Weiner",
+        "Title": "Venezuela",
+        "Year": "1950s",
+        "ObjectID": "88104",
+        "Work": "https://www.moma.org/collection/works/88104",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5Mjg1NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d11d22e111506a12",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "9 1/16 \u00d7 13 5/16\" (23 \u00d7 33.8 cm)",
+            "Credit": "Gift of Sandra Weiner",
+            "Object number": "72.2003",
+            "Copyright": "\u00a9 2023 John Broderick, courtesy of Sandra Weiner",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/6287"
+    },
+    {
+        "Artist": "Dan Weiner",
+        "Title": "Untitled",
+        "Year": "1950s",
+        "ObjectID": "88105",
+        "Work": "https://www.moma.org/collection/works/88105",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5Mjg2MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5cd89105870c938f",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "13 7/16 \u00d7 8 7/8\" (34.2 \u00d7 22.6 cm)",
+            "Credit": "Gift of Sandra Weiner",
+            "Object number": "73.2003",
+            "Copyright": "\u00a9 2023 John Broderick, courtesy of Sandra Weiner",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/6287"
+    },
+    {
+        "Artist": "W. Archibald Welden",
+        "Title": "Saucepans",
+        "Year": "1954",
+        "ObjectID": "4075",
+        "Work": "https://www.moma.org/collection/works/4075",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyOTkwMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c5e3b9236614b850",
+        "Details": {
+            "Manufacturer": "Rome Manufacturing Co., Div. of Revere Copper and Brass, Inc., Rome, NY",
+            "Medium": "Copper-clad stainless steel",
+            "Dimensions": ".1 (1-qt open saucepan): 2 1/4 x 6 1/8\" (5.7 x 15.5 cm)\r\n.2a (4-qt saucepan): 5 3/8 x 7 5/8\" (13.7 x 19.3 cm)\r\n.2b (cover): 8\" (20.3 cm)",
+            "Credit": "Gift of the manufacturer",
+            "Object number": "495.1956.1-2",
             "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/23390"
+        "Profile": "https://www.moma.org/artists/6304"
     },
     {
-        "Artist": "Unidentified Artist",
-        "Title": "In Answer to the International Insolent Clergy and Bourgeoisie We Shall Defend the Capacity of Defense of USSR and the Power of the Red Army",
-        "Year": "c.1941",
-        "ObjectID": "6166",
-        "Work": "https://www.moma.org/collection/works/6166",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNzQ5NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=42fb0d8e76f6eeb1",
+        "Artist": "W. Archibald Welden",
+        "Title": "Saucepan and Stockpot",
+        "Year": "1954",
+        "ObjectID": "4241",
+        "Work": "https://www.moma.org/collection/works/4241",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNzk5OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1cc7ffca16696227",
         "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "41 1/4 x 28 1/4\" (104.5 x 71.3 cm)",
-            "Credit": "Gift of Miss Jessie Rosenfeld",
-            "Object number": "305.1943",
+            "Manufacturer": "Rome Manufacturing Co., Div. of Revere Copper and Brass, Inc., Rome, NY",
+            "Medium": "Stainless steel with copper-clad bottom",
+            "Dimensions": ".1a: 6 3/4 x 9 5/8\" (17.1 x 24.4 cm)\r\n.1b: 10\" (25.4 cm)\r\n.2: 5 1/8 x 9 11/16\" (13 x 24.6 cm)",
+            "Credit": "Gift of the manufacturer",
+            "Object number": "497.1956.1-2",
             "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/23390"
+        "Profile": "https://www.moma.org/artists/6304"
     },
     {
-        "Artist": "Unidentified Artist",
-        "Title": "The International Proletariat Will Tear Down the Antisoviet Imperialist Campaign, for Soviet China, for Soviet Germany, for the Defense of the USSR",
-        "Year": "c.1941",
-        "ObjectID": "6199",
-        "Work": "https://www.moma.org/collection/works/6199",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNzUwMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=93fdae9968b9631e",
+        "Artist": "Minor White",
+        "Title": "Frost Forms: Galaxy",
+        "Year": "1959",
+        "ObjectID": "46713",
+        "Work": "https://www.moma.org/collection/works/46713",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5NjY4OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=875034fbb3521d39",
         "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "28 1/2 x 41 1/16\" (72.4 x 104.3 cm)",
-            "Credit": "Gift of Miss Jessie Rosenfeld",
-            "Object number": "313.1943",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/23390"
-    },
-    {
-        "Artist": "Unidentified Artist",
-        "Title": "Rad Weltmeisterschaften, Zurich 1946",
-        "Year": "1946",
-        "ObjectID": "6425",
-        "Work": "https://www.moma.org/collection/works/6425",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMTEyOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4ee2eb85771d740f",
-        "Details": {
-            "Medium": "Photolithograph",
-            "Dimensions": "50 1/4 x 35 1/2\" (128 x 89.6 cm)",
-            "Credit": "Gift of the Kunstgewerbe Museum, Z\u00fcrich",
-            "Object number": "348.1957",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/23390"
-    },
-    {
-        "Artist": "Unidentified Artist",
-        "Title": "Snowflake and Empire",
-        "Year": "c.1941",
-        "ObjectID": "135680",
-        "Work": "https://www.moma.org/collection/works/135680",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MzM4NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fc65e61959ba63cc",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "30 1/4 x 45 3/8\" (76.8 x 115.3 cm)",
-            "Object number": "P357",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/23390"
-    },
-    {
-        "Artist": "Unidentified Designer",
-        "Title": "Beer Glasses",
-        "Year": "Before 1946",
-        "ObjectID": "2065",
-        "Work": "https://www.moma.org/collection/works/2065",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMDIxOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1e80763a46b17704",
-        "Details": {
-            "Medium": "Glass",
-            "Dimensions": "Each: 8 1/2 x 2 13/16\" (21.6 x 7.1 cm)",
+            "Medium": "Gelatin silver print",
+            "Dimensions": "12 1/4 \u00d7 9 1/4\" (31.1 \u00d7 23.5 cm)",
             "Credit": "Purchase",
-            "Object number": "88.1946.1-3",
-            "Department": "Architecture and Design"
+            "Object number": "129.1967",
+            "Copyright": "\u00a9 Trustees of Princeton University",
+            "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/6011"
+        "Profile": "https://www.moma.org/artists/6342"
     },
     {
-        "Artist": "Unidentified Designer",
-        "Title": "Highball Glasses",
-        "Year": "Before 1946",
-        "ObjectID": "2068",
-        "Work": "https://www.moma.org/collection/works/2068",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMDIyMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1abdac0e90f07b5c",
+        "Artist": "Minor White",
+        "Title": "Frost Forms: The ID Face",
+        "Year": "1959",
+        "ObjectID": "46723",
+        "Work": "https://www.moma.org/collection/works/46723",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5NjY5MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=86db64e5bdd9a7bc",
         "Details": {
-            "Medium": "Glass",
-            "Dimensions": "Each: 5 1/2 x 2 13/16\" (14 x 7.1 cm)",
+            "Medium": "Gelatin silver print",
+            "Dimensions": "12 13/16 \u00d7 9 1/4\" (32.5 \u00d7 23.5 cm)",
             "Credit": "Purchase",
-            "Object number": "89.1946.1-2",
-            "Department": "Architecture and Design"
+            "Object number": "130.1967",
+            "Copyright": "\u00a9 Trustees of Princeton University",
+            "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/6011"
+        "Profile": "https://www.moma.org/artists/6342"
     },
     {
-        "Artist": "Unidentified Designer",
-        "Title": "Tumblers",
-        "Year": "Before 1946",
-        "ObjectID": "2070",
-        "Work": "https://www.moma.org/collection/works/2070",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMDIyOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=13d5e212bcdf840a",
+        "Artist": "Minor White",
+        "Title": "Burned Mirror",
+        "Year": "1959",
+        "ObjectID": "46732",
+        "Work": "https://www.moma.org/collection/works/46732",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxOTQwMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=421bd3285bdbc980",
         "Details": {
-            "Medium": "Glass",
-            "Dimensions": "Each: 5 1/16 x 2 11/16\" (12.9 x 6.8 cm)",
+            "Medium": "Gelatin silver print",
+            "Dimensions": "12 3/4 \u00d7 8 1/2\" (32.4 \u00d7 21.6 cm)",
             "Credit": "Purchase",
-            "Object number": "90.1946.1-2",
-            "Department": "Architecture and Design"
+            "Object number": "131.1967",
+            "Copyright": "Reproduced with permission of the Minor White Archive, Princeton University Art Museum. \u00a9 Trustees of Princeton University",
+            "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/6011"
+        "Profile": "https://www.moma.org/artists/6342"
     },
     {
-        "Artist": "Unidentified Designer",
-        "Title": "Old-fashioned Glass",
-        "Year": "Before 1946",
-        "ObjectID": "2073",
-        "Work": "https://www.moma.org/collection/works/2073",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMDIzNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=755203b840777459",
+        "Artist": "Minor White",
+        "Title": "Night Icicle",
+        "Year": "1959",
+        "ObjectID": "46741",
+        "Work": "https://www.moma.org/collection/works/46741",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5NjY5MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=46d394702bc437e7",
         "Details": {
-            "Medium": "Glass",
-            "Dimensions": "3 1/4 x 3 1/16\" (8.2 x 7.8 cm)",
+            "Medium": "Gelatin silver print",
+            "Dimensions": "12 7/16 \u00d7 9 3/16\" (31.6 \u00d7 23.4 cm)",
             "Credit": "Purchase",
-            "Object number": "91.1946",
-            "Department": "Architecture and Design"
+            "Object number": "132.1967",
+            "Copyright": "\u00a9 Trustees of Princeton University",
+            "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/6011"
+        "Profile": "https://www.moma.org/artists/6342"
     },
     {
-        "Artist": "Unidentified Designer",
-        "Title": "Bottle Opener",
-        "Year": "1946",
-        "ObjectID": "2086",
-        "Work": "https://www.moma.org/collection/works/2086",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMDI1MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=bd216ca10499f039",
+        "Artist": "Minor White",
+        "Title": "Frost Forms: Sound of One Hand",
+        "Year": "1959",
+        "ObjectID": "46772",
+        "Work": "https://www.moma.org/collection/works/46772",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5NjY5MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0f9b4c15fe9fc43e",
         "Details": {
-            "Medium": "Stainless steel",
-            "Dimensions": "5 1/4 x 2 1/2\" (13.3 x 6.4 cm)",
-            "Credit": "Gift of Edgar Kaufmann, Jr.",
-            "Object number": "96.1946",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/6011"
-    },
-    {
-        "Artist": "Unidentified Designer",
-        "Title": "Plate",
-        "Year": "Unknown",
-        "ObjectID": "2094",
-        "Work": "https://www.moma.org/collection/works/2094",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMDI1OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f09be438cb2daab4",
-        "Details": {
-            "Medium": "Glass",
-            "Dimensions": "diam. 8 1/8\" (20.6 cm)",
-            "Credit": "Gift of Edgar Kaufmann, Jr.",
-            "Object number": "98.1946",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/6011"
-    },
-    {
-        "Artist": "Unidentified Designer",
-        "Title": "Cigarette Box",
-        "Year": "Unknown",
-        "ObjectID": "2102",
-        "Work": "https://www.moma.org/collection/works/2102",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNzkxMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=304ff86d0d0d6c0a",
-        "Details": {
-            "Manufacturer": "Unidentified Russian manufacturer",
-            "Medium": "Karelian birchwood",
-            "Dimensions": "1 15/16 x 6 3/4 x 3 5/8\" (4.9 x 17.2 x 9.2 cm)",
-            "Credit": "Gift of Pennsylvania Drug Co.",
-            "Object number": "100.1946",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/6011"
-    },
-    {
-        "Artist": "Unidentified Designer",
-        "Title": "Tumbler",
-        "Year": "1940s",
-        "ObjectID": "2603",
-        "Work": "https://www.moma.org/collection/works/2603",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNzQ2MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a7df28caf210dbc0",
-        "Details": {
-            "Manufacturer": "Unidentified American Manufacturer",
-            "Medium": "Glass",
-            "Dimensions": "h. 4 3/4\" (12.1 cm), diam. 2 5/8\" (6.7 cm)",
+            "Medium": "Gelatin silver print",
+            "Dimensions": "13 1/16 \u00d7 9 1/4\" (33.2 \u00d7 23.5 cm)",
             "Credit": "Purchase",
-            "Object number": "199.1947",
-            "Department": "Architecture and Design"
+            "Object number": "135.1967",
+            "Copyright": "\u00a9 Trustees of Princeton University",
+            "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/6011"
+        "Profile": "https://www.moma.org/artists/6342"
     },
     {
-        "Artist": "Unidentified Designer",
-        "Title": "Battery Jar",
-        "Year": "1940s",
-        "ObjectID": "2611",
-        "Work": "https://www.moma.org/collection/works/2611",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMDY2NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fb26312e44fd1ec6",
+        "Artist": "Minor White",
+        "Title": "Peeled Paint",
+        "Year": "June 1959",
+        "ObjectID": "47113",
+        "Work": "https://www.moma.org/collection/works/47113",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxOTgzOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cd3c1ff3a18d48f5",
         "Details": {
-            "Medium": "Glass",
-            "Dimensions": "7 x 5 5/16\" (17.8 x 13.5 cm)",
+            "Medium": "Polaroid negative",
+            "Dimensions": "9 1/2 \u00d7 7 3/8\" (24.1 \u00d7 18.7 cm)",
+            "Credit": "Gift of Robert M. Doty",
+            "Object number": "164.1969",
+            "Copyright": "Reproduced with permission of the Minor White Archive, Princeton University Art Museum. \u00a9 Trustees of Princeton University",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/6342"
+    },
+    {
+        "Artist": "Minor White",
+        "Title": "Grand Teton National Park, Wyoming",
+        "Year": "1959",
+        "ObjectID": "47128",
+        "Work": "https://www.moma.org/collection/works/47128",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzMzc2MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7b2dadb638405102",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "9 1/2 \u00d7 12 1/8\" (24.1 \u00d7 30.8 cm)",
+            "Credit": "Gift of Robert M. Doty",
+            "Object number": "165.1969",
+            "Copyright": "Reproduced with permission of the Minor White Archive, Princeton University Art Museum. \u00a9 Trustees of Princeton University",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/6342"
+    },
+    {
+        "Artist": "Minor White",
+        "Title": "Dumb Face",
+        "Year": "1959",
+        "ObjectID": "54646",
+        "Work": "https://www.moma.org/collection/works/54646",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwNTgxNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3f373d7e36f5d6ed",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "22 1/16 \u00d7 17 5/16\" (56.1 \u00d7 44 cm)",
+            "Credit": "Gift of David Laing",
+            "Object number": "519.1992",
+            "Copyright": "Reproduced with permission of the Minor White Archive, Princeton University Art Museum. \u00a9 Trustees of Princeton University",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/6342"
+    },
+    {
+        "Artist": "Minor White",
+        "Title": "Rock in Sandstone",
+        "Year": "1959",
+        "ObjectID": "54738",
+        "Work": "https://www.moma.org/collection/works/54738",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5ODI0NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6f7bb8e683af1456",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "10 1/2 \u00d7 13 1/2\" (26.6 \u00d7 34.3 cm)",
+            "Credit": "Courtesy of the photographer",
+            "Object number": "528.1960",
+            "Copyright": "Reproduced with permission of the Minor White Archive, Princeton University Art Museum. \u00a9 Trustees of Princeton University",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/6342"
+    },
+    {
+        "Artist": "Minor White",
+        "Title": "Frost Wave",
+        "Year": "1959",
+        "ObjectID": "55361",
+        "Work": "https://www.moma.org/collection/works/55361",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5ODI2MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=456057a4b35e1cfe",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "11 3/4 \u00d7 8 1/2\" (29.9 \u00d7 21.7 cm)",
+            "Credit": "Anonymous gift",
+            "Object number": "582.1973",
+            "Copyright": "\u00a9 Trustees of Princeton University",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/6342"
+    },
+    {
+        "Artist": "Garry Winogrand",
+        "Title": "Castle Rock, Colorado",
+        "Year": "1959",
+        "ObjectID": "53188",
+        "Work": "https://www.moma.org/collection/works/53188",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzOTU5MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5c2c9d5b67def011",
+        "Details": {
+            "Medium": "Gelatin silver print, printed 1978",
+            "Dimensions": "8 7/8 \u00d7 13 3/8\" (22.5 \u00d7 34 cm)",
+            "Credit": "Gift of Mr. and Mrs. James Hunter",
+            "Object number": "423.1992.14",
+            "Copyright": "\u00a9 The Estate of Garry Winogrand, courtesy Fraenkel Gallery",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/6399"
+    },
+    {
+        "Artist": "Garry Winogrand",
+        "Title": "Park Avenue, New York",
+        "Year": "1959",
+        "ObjectID": "54667",
+        "Work": "https://www.moma.org/collection/works/54667",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzOTcwOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1621c452c45b82e3",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "13 3/8 \u00d7 8 11/16\" (34 \u00d7 22.1 cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "520.1994",
+            "Copyright": "\u00a9 The Estate of Garry Winogrand, courtesy Fraenkel Gallery",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/6399"
+    },
+    {
+        "Artist": "Garry Winogrand",
+        "Title": "Untitled",
+        "Year": "c. 1959",
+        "ObjectID": "101869",
+        "Work": "https://www.moma.org/collection/works/101869",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNDA0OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f9a1b0104859c259",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "8 11/16 \u00d7 13 5/16\" (22 \u00d7 33.8 cm)",
+            "Credit": "Gift of Alan and Michael Chasanoff",
+            "Object number": "435.2006",
+            "Copyright": "\u00a9 The Estate of Garry Winogrand, courtesy Fraenkel Gallery",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/6399"
+    },
+    {
+        "Artist": "Garry Winogrand",
+        "Title": "Untitled",
+        "Year": "c. 1959",
+        "ObjectID": "101873",
+        "Work": "https://www.moma.org/collection/works/101873",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNDA1MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3e3b82ffd6ad3f28",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "8 7/16 \u00d7 12 13/16\" (21.5 \u00d7 32.5 cm)",
+            "Credit": "Gift of Alan and Michael Chasanoff",
+            "Object number": "436.2006",
+            "Copyright": "\u00a9 The Estate of Garry Winogrand, courtesy Fraenkel Gallery",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/6399"
+    },
+    {
+        "Artist": "Garry Winogrand",
+        "Title": "Untitled from Women are Beautiful",
+        "Year": "1950s",
+        "ObjectID": "111055",
+        "Work": "https://www.moma.org/collection/works/111055",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MjkzNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e3c57db1cc1fc682",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "13 1/16 \u00d7 8 11/16\" (33.1 \u00d7 22 cm)",
+            "Credit": "Gift of Mitchell Deutsch",
+            "Object number": "815.2007",
+            "Copyright": "\u00a9 The Estate of Garry Winogrand, courtesy Fraenkel Gallery",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/6399"
+    },
+    {
+        "Artist": "Garry Winogrand",
+        "Title": "Castle Rock, Colorado",
+        "Year": "1959",
+        "ObjectID": "111082",
+        "Work": "https://www.moma.org/collection/works/111082",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNDA5NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d7d3dd7841abc297",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "8 7/8 \u00d7 13 1/2\" (22.6 \u00d7 34.3 cm)",
+            "Credit": "Purchase and gift of Barbara Schwartz in memory of Eugene M. Schwartz",
+            "Object number": "741.2007",
+            "Copyright": "\u00a9 The Estate of Garry Winogrand, courtesy Fraenkel Gallery",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/6399"
+    },
+    {
+        "Artist": "Garry Winogrand",
+        "Title": "Park Avenue, New York",
+        "Year": "1959",
+        "ObjectID": "111131",
+        "Work": "https://www.moma.org/collection/works/111131",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMTI2MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=11b712259618aed6",
+        "Details": {
+            "Medium": "Gelatin silver print, printed 1987-88 by Tom Consilvio",
+            "Dimensions": "22 1/4 \u00d7 14 13/16\" (56.5 \u00d7 37.6 cm)",
             "Credit": "Purchase",
-            "Object number": "200.1947",
+            "Object number": "742.2007",
+            "Copyright": "\u00a9 The Estate of Garry Winogrand, courtesy Fraenkel Gallery",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/6399"
+    },
+    {
+        "Artist": "Tapio Wirkkala",
+        "Title": "Incandescent Bulb (model 85)",
+        "Year": "1959",
+        "ObjectID": "3095",
+        "Work": "https://www.moma.org/collection/works/3095",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMDkwNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c6bcac0c746ca023",
+        "Details": {
+            "Manufacturer": "Oy Airam Ab, Helsinki",
+            "Medium": "Glass",
+            "Dimensions": "8 1/4 x 3 11/16\" (21 x 9.4 cm)",
+            "Credit": "Gift of the manufacturer",
+            "Object number": "257.1962",
             "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/6011"
+        "Profile": "https://www.moma.org/artists/6409"
     },
     {
-        "Artist": "Unidentified photographer",
-        "Title": "That's me in a dive after a few sets of tennis, Thanksgiving day",
-        "Year": "November 28, 1946",
-        "ObjectID": "98130",
-        "Work": "https://www.moma.org/collection/works/98130",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5MDE3OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c8e6220f7673ea3f",
+        "Artist": "Stanislav Wojtowicz",
+        "Title": "Dream XXX ( Sen XXX )",
+        "Year": "1959",
+        "ObjectID": "70257",
+        "Work": "https://www.moma.org/collection/works/70257",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1MzgyNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=327826149f9965cc",
         "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "3 7/16 \u00d7 4 1/2\" (8.8 \u00d7 11.4 cm)",
-            "Credit": "Gift of Thomas Walther",
-            "Object number": "418.2005",
-            "Department": "Photography"
+            "Medium": "Woodcut",
+            "Dimensions": "composition: 28 1/8 \u00d7 19 3/4\" (71.5 \u00d7 50.2 cm); sheet: 31 11/16 \u00d7 23 1/16\" (80.5 \u00d7 58.6 cm)",
+            "Edition": "7",
+            "Credit": "Gift of Dr. and Mrs. Arthur Lejwa",
+            "Object number": "507.1961",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/8595"
+        "Profile": "https://www.moma.org/artists/6424"
     },
     {
-        "Artist": "Unidentified photographer",
-        "Title": "Untitled",
-        "Year": "c. 1946",
-        "ObjectID": "111506",
-        "Work": "https://www.moma.org/collection/works/111506",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0NDYyMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a01fd38ca2946858",
+        "Artist": "Frank Lloyd Wright",
+        "Title": "Solomon R. Guggenheim Museum, New York (Model)",
+        "Year": "1943-1959",
+        "ObjectID": "161782",
+        "Work": "https://www.moma.org/collection/works/161782",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ1MzQ5MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=caa39ac3da580508",
         "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "2 3/8 \u00d7 3 9/16\" (6 \u00d7 9 cm)",
-            "Credit": "Gift of Jeffrey Fraenkel",
-            "Object number": "687.2007",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/8595"
-    },
-    {
-        "Artist": "Unidentified photographer",
-        "Title": "Untitled",
-        "Year": "c. 1946",
-        "ObjectID": "111512",
-        "Work": "https://www.moma.org/collection/works/111512",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0OTczNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0dbf984cb6d705da",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "4 1/2 \u00d7 2 15/16\" (11.5 \u00d7 7.5 cm)",
-            "Credit": "Gift of Jeffrey Fraenkel",
-            "Object number": "693.2007",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/8595"
-    },
-    {
-        "Artist": "Unidentified photographer",
-        "Title": "Untitled",
-        "Year": "c. 1946",
-        "ObjectID": "111513",
-        "Work": "https://www.moma.org/collection/works/111513",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0OTczOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=49584bf9cc1a3462",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "3 15/16 \u00d7 2 5/8\" (10 \u00d7 6.7 cm)",
-            "Credit": "Gift of Jeffrey Fraenkel",
-            "Object number": "694.2007",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/8595"
-    },
-    {
-        "Artist": "Unidentified photographer",
-        "Title": "Mariam and James McGlone with Their Piper Cub",
-        "Year": "1946",
-        "ObjectID": "124814",
-        "Work": "https://www.moma.org/collection/works/124814",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUwMjIzMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fc31035b12d43654",
-        "Details": {
-            "Medium": "Kodachrome print",
-            "Dimensions": "5 1/2 \u00d7 7 7/8\" (14 \u00d7 20 cm)",
-            "Credit": "Gift of Richard Benson",
-            "Object number": "SC2008.1.97",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/8595"
-    },
-    {
-        "Artist": "Unidentified photographer",
-        "Title": "Untitled",
-        "Year": "June 1946",
-        "ObjectID": "141257",
-        "Work": "https://www.moma.org/collection/works/141257",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMyMjQ2OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4f33aaeb08e3f99c",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "1 3/4 \u00d7 3 1/8\" (4.4 \u00d7 8 cm)",
-            "Credit": "Gift of Peter J. Cohen",
-            "Object number": "847.2010",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/8595"
-    },
-    {
-        "Artist": "Unidentified photographer",
-        "Title": "Untitled",
-        "Year": "1946",
-        "ObjectID": "277157",
-        "Work": "https://www.moma.org/collection/works/277157",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQzMjE2MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=eed2fe035fd4ca4d",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "Approx. 2 \u00d7 2\" (5.1 \u00d7 5.1 cm)",
-            "Credit": "Gift of Peter J. Cohen",
-            "Object number": "767.2017.158",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/8595"
-    },
-    {
-        "Artist": "Unidentified photographer",
-        "Title": "Untitled",
-        "Year": "1946",
-        "ObjectID": "400000",
-        "Work": "https://www.moma.org/collection/works/400000",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ3MzM2NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b351af8c8f64bcfd",
-        "Details": {
-            "Medium": "Gelatin silver print with ink",
-            "Dimensions": "4 3/16 \u00d7 2 3/8\" (10.7 \u00d7 6 cm)",
-            "Credit": "Gift of Peter J. Cohen",
-            "Object number": "503.2019",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/8595"
-    },
-    {
-        "Artist": "Unidentified photographer",
-        "Title": "Untitled",
-        "Year": "1945-46",
-        "ObjectID": "400028",
-        "Work": "https://www.moma.org/collection/works/400028",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ3NjEyMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=df2acc6e8315c4ea",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "1 15/16 \u00d7 1 3/16\" (5 \u00d7 3 cm)",
-            "Credit": "Gift of Peter J. Cohen",
-            "Object number": "531.2019",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/8595"
-    },
-    {
-        "Artist": "Unidentified photographer",
-        "Title": "Untitled",
-        "Year": "1946",
-        "ObjectID": "400134",
-        "Work": "https://www.moma.org/collection/works/400134",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ3MzI3OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c18bc0927efa1763",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "3 \u00d7 4 1/2\" (7.6 \u00d7 11.5 cm)",
-            "Credit": "Gift of Peter J. Cohen",
-            "Object number": "637.2019",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/8595"
-    },
-    {
-        "Artist": "Hendrik Van Keppel, Taylor Green",
-        "Title": "Lounge Chair and Ottoman (Exhibited in the US Pavilion in the 1951 Milan Triennale)",
-        "Year": "1946",
-        "ObjectID": "3235",
-        "Work": "https://www.moma.org/collection/works/3235",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyOTIyNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fbc678e9a9e32a80",
-        "Details": {
-            "Manufacturer": "Van Keppel-Green, USA",
-            "Medium": "Enameled tubular steel and cotton",
-            "Dimensions": ".1 (chair): 25 3/4 x 21 x 34 3/8\" (65.4 x 53.3 x 87.3 cm)\r\n.2 (ottoman): 12 1/4 x 21 3/8 x 18\" (31.1 x 54.3 x 45.7 cm)",
-            "Credit": "Gift of Mr. and Mrs. Gifford Phillips",
-            "Object number": "301.1984.1-2",
+            "Medium": "Painted wood, plastic, glass beads, ink, and watercolor on paper",
+            "Dimensions": "29 \u00d7 62 \u00d7 44\" (73.7 \u00d7 157.5 \u00d7 111.8 cm)",
+            "Credit": "The Frank Lloyd Wright Foundation Archives (The Museum of Modern Art | Avery Architectural & Fine Arts Library, Columbia University, New York)",
+            "Object number": "1863.2012",
+            "Copyright": "\u00a9 2023 Frank Lloyd Wright Foundation / Artists Rights Society (ARS), New York",
             "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/22676"
+        "Profile": "https://www.moma.org/artists/6459"
     },
     {
-        "Artist": "Renzo Vespignani",
-        "Title": "Ruined Building",
-        "Year": "1946",
-        "ObjectID": "33167",
-        "Work": "https://www.moma.org/collection/works/33167",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQyMDgwOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=bc4d3889741b10b3",
+        "Artist": "Frank Lloyd Wright",
+        "Title": "Solomon R. Guggenheim Museum, New York (Perspective of rose marble scheme)",
+        "Year": "1943-1959",
+        "ObjectID": "201235",
+        "Work": "https://www.moma.org/collection/works/201235",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Gouache on paper mounted on board",
+            "Dimensions": "20 \u00d7 24 1/4\" (50.8 \u00d7 61.6 cm)",
+            "Credit": "The Frank Lloyd Wright Foundation Archives (The Museum of Modern Art | Avery Architectural & Fine Arts Library, Columbia University, New York)",
+            "Object number": "FLW.DR.4305.745",
+            "Copyright": "\u00a9 2023 Frank Lloyd Wright Foundation / Artists Rights Society (ARS), New York",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/6459"
+    },
+    {
+        "Artist": "Russel Wright",
+        "Title": "\"American Modern\" Dinnerware",
+        "Year": "1937",
+        "ObjectID": "3009",
+        "Work": "https://www.moma.org/collection/works/3009",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNzQ3NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a95c27d53835d698",
+        "Details": {
+            "Manufacturer": "The Steubenville Pottery Company, Steubenville, OH",
+            "Medium": "Glazed earthenware",
+            "Dimensions": ".1 (bowl): 2 x 5 9/16\" (5.1 x 14.1 cm)\r\n.2 (small plate): 9/16 x 6 1/8\" (1.4 x 15.6 cm)\r\n.3 (luncheon plate): 3/4 x 8\" (1.9 x 20.3 cm)\r\n.4 (dinner plate): 13/16 x 9 13/16\" (2.1 x 25 cm)\r\n.5 (water pitcher): 10 3/4 x 6 1/2\" (27.3 x 16.5 cm)\r\n.6 (teapot): 4 1/4 x 8 1/2\" (10.8 x 21.6 cm)",
+            "Credit": "Gift of the manufacturer",
+            "Object number": "244.1944.1-6",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/6460"
+    },
+    {
+        "Artist": "Kazuo Yagi",
+        "Title": "A Cloud Remembered",
+        "Year": "1959",
+        "ObjectID": "81675",
+        "Work": "https://www.moma.org/collection/works/81675",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMDQwMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b93531d6591c2604",
+        "Details": {
+            "Medium": "Unglazed stoneware",
+            "Dimensions": "8 7/8 x 8 1/2 x 9 3/4\" (22.6 x 21.5 x 24.8 cm), on wood base 7 1/8 x 3 1/2 x 3 1/2\" (18 x 8.9 x 8.9 cm)",
+            "Credit": "John G. Powers Fund",
+            "Object number": "613.1965",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/6478"
+    },
+    {
+        "Artist": "Chuji Yao",
+        "Title": "Wind",
+        "Year": "1900-59",
+        "ObjectID": "49541",
+        "Work": "https://www.moma.org/collection/works/49541",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwNzU0NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7c0a246a202a304e",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "8 \u00d7 10 1/8\"  (20.3 \u00d7 25.5 cm)",
+            "Credit": "Gift of Nihon Keizai Shimbun",
+            "Object number": "251.1959",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/6493"
+    },
+    {
+        "Artist": "Manoucher Yektai",
+        "Title": "Still Life D",
+        "Year": "February 1959",
+        "ObjectID": "80102",
+        "Work": "https://www.moma.org/collection/works/80102",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUwOTAxNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8be018b742abe77f",
+        "Details": {
+            "Medium": "Oil on canvas",
+            "Dimensions": "48 1/4 x 68\" (122.3 x 172.8 cm)",
+            "Credit": "Gift of Mr. and Mrs. Bernard J. Reis",
+            "Object number": "618.1959",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/6497"
+    },
+    {
+        "Artist": "Ray Yoshida",
+        "Title": "Unexplored Pacific Waters",
+        "Year": "1959",
+        "ObjectID": "148107",
+        "Work": "https://www.moma.org/collection/works/148107",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzOTMzOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=59f014e4afea2eb1",
         "Details": {
             "Medium": "Ink on paper",
-            "Dimensions": "14 3/4 x 10 3/4\" (37.5 x 27.3 cm)",
-            "Credit": "Purchase",
-            "Object number": "14.1949",
-            "Copyright": "\u00a9 2023 Renzo Vespignani / Artists Rights Society (ARS), New York / SIAE, Rome",
+            "Dimensions": "19 1/8 x 24 1/8\" (48.6 x 61.3 cm)",
+            "Credit": "Gift of the Raymond K. Yoshida Living Trust and Kohler Foundation, Inc.",
+            "Object number": "1182.2011",
+            "Copyright": "@ 2013 Ray Yoshida",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/6140"
-    },
-    {
-        "Artist": "Andy Warhol",
-        "Title": "Untitled ([Early Work] Woman)",
-        "Year": "(c. 1946)",
-        "ObjectID": "33443",
-        "Work": "https://www.moma.org/collection/works/33443",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2ODkwOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3a19f0596d819514",
-        "Details": {
-            "Medium": "Pencil on paper",
-            "Dimensions": "11 x 8 1/2\" (28 x 21.6 cm)",
-            "Credit": "Purchased with funds provided by Sarah-Ann and Werner H. Kramarsky",
-            "Object number": "37.1999",
-            "Copyright": "\u00a9 2023 Andy Warhol Foundation for the Visual Arts / Artists Rights Society (ARS), New York",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/6246"
-    },
-    {
-        "Artist": "Andy Warhol",
-        "Title": "Untitled ([Early Work] Woman)",
-        "Year": "(c. 1946)",
-        "ObjectID": "33449",
-        "Work": "https://www.moma.org/collection/works/33449",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2ODkwOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9a7a22b249a25d4b",
-        "Details": {
-            "Medium": "Pencil on paper",
-            "Dimensions": "11 x 8 1/2\" (28 x 21.6 cm)",
-            "Credit": "Purchased with funds provided by Sarah-Ann and Werner H. Kramarsky",
-            "Object number": "38.1999",
-            "Copyright": "\u00a9 2023 Andy Warhol Foundation for the Visual Arts / Artists Rights Society (ARS), New York",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/6246"
-    },
-    {
-        "Artist": "Todd Webb",
-        "Title": "Universal Church of Christ, New York",
-        "Year": "1945-46",
-        "ObjectID": "48101",
-        "Work": "https://www.moma.org/collection/works/48101",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MjIwOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b0712b5db68147d1",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "4 9/16 \u00d7 6 3/4\" (11.6 \u00d7 17.1 cm)",
-            "Credit": "Purchase",
-            "Object number": "191.1964",
-            "Copyright": "\u00a9 2023 Estate of Todd Webb",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/6272"
-    },
-    {
-        "Artist": "Todd Webb",
-        "Title": "Brooklyn Bridge, New York",
-        "Year": "1946",
-        "ObjectID": "58395",
-        "Work": "https://www.moma.org/collection/works/58395",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MjIwMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f56c117985585bb0",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "6 5/8 \u00d7 4 5/8\" (16.8 \u00d7 11.7 cm)",
-            "Credit": "Gift of David H. McAlpin",
-            "Object number": "1812.1968",
-            "Copyright": "\u00a9 2023 Estate of Todd Webb",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/6272"
-    },
-    {
-        "Artist": "Brett Weston",
-        "Title": "Brooklyn Bridge",
-        "Year": "1946",
-        "ObjectID": "44327",
-        "Work": "https://www.moma.org/collection/works/44327",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5Njc2NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a6e88290d1bf6ba9",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "7 5/8 \u00d7 9 5/8\" (19.4 \u00d7 24.5 cm)",
-            "Credit": "Gift of Edward Steichen",
-            "Object number": "33.1971.6",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/6327"
-    },
-    {
-        "Artist": "Brett Weston",
-        "Title": "Untitled",
-        "Year": "1946",
-        "ObjectID": "52656",
-        "Work": "https://www.moma.org/collection/works/52656",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5ODE1NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3f6472f52a314b7c",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "10 1/4 \u00d7 13 1/2\" (26 \u00d7 34.3 cm)",
-            "Credit": "Gift of Philip L. Goodwin",
-            "Object number": "403.1956",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/6327"
-    },
-    {
-        "Artist": "Brett Weston",
-        "Title": "White Sands",
-        "Year": "1946",
-        "ObjectID": "58427",
-        "Work": "https://www.moma.org/collection/works/58427",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5NjY5NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=72e10c6b58727ed5",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "7 5/8 \u00d7 9 1/16\" (19.5 \u00d7 24.6 cm)",
-            "Credit": "Gift of David H. McAlpin",
-            "Object number": "1844.1968",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/6327"
-    },
-    {
-        "Artist": "Brett Weston",
-        "Title": "White Sands",
-        "Year": "1946",
-        "ObjectID": "58428",
-        "Work": "https://www.moma.org/collection/works/58428",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5NjY5NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=77d1eef97f5a2613",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "7 5/8 \u00d7 9 5/8\" (19.5 \u00d7 24.5 cm)",
-            "Credit": "Gift of David H. McAlpin",
-            "Object number": "1845.1968",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/6327"
-    },
-    {
-        "Artist": "Brett Weston",
-        "Title": "White Sands",
-        "Year": "1946",
-        "ObjectID": "58429",
-        "Work": "https://www.moma.org/collection/works/58429",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5NjY5NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4d199b5660e1b028",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "7 9/16 \u00d7 9 5/8\" (19.2 \u00d7 24.5 cm)",
-            "Credit": "Gift of David H. McAlpin",
-            "Object number": "1846.1968",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/6327"
-    },
-    {
-        "Artist": "Brett Weston",
-        "Title": "White Sands",
-        "Year": "1946",
-        "ObjectID": "58430",
-        "Work": "https://www.moma.org/collection/works/58430",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5NjY5OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b114aeaab589cf86",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "7 9/16 \u00d7 9 9/16\" (19.2 \u00d7 24.4 cm)",
-            "Credit": "Gift of David H. McAlpin",
-            "Object number": "1847.1968",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/6327"
-    },
-    {
-        "Artist": "Brett Weston",
-        "Title": "White Sands",
-        "Year": "1946",
-        "ObjectID": "58431",
-        "Work": "https://www.moma.org/collection/works/58431",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5NjY5OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d0368e387b57901e",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "7 11/16 \u00d7 9 5/8\" (19.5 \u00d7 24.5 cm)",
-            "Credit": "Gift of David H. McAlpin",
-            "Object number": "1848.1968",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/6327"
-    },
-    {
-        "Artist": "Brett Weston",
-        "Title": "White Sands",
-        "Year": "1946",
-        "ObjectID": "58432",
-        "Work": "https://www.moma.org/collection/works/58432",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5NjcwMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6588164a8d15c40b",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "7 11/16 \u00d7 9 11/16\" (19.5 \u00d7 24.6 cm)",
-            "Credit": "Gift of David H. McAlpin",
-            "Object number": "1849.1968",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/6327"
-    },
-    {
-        "Artist": "Brett Weston",
-        "Title": "White Sands",
-        "Year": "1946",
-        "ObjectID": "58433",
-        "Work": "https://www.moma.org/collection/works/58433",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5NjcwMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c64695f918017e57",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "7 5/8 \u00d7 9 5/8\" (19.5 \u00d7 24.5 cm)",
-            "Credit": "Gift of David H. McAlpin",
-            "Object number": "1850.1968",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/6327"
-    },
-    {
-        "Artist": "Brett Weston",
-        "Title": "White Sands",
-        "Year": "1946",
-        "ObjectID": "58434",
-        "Work": "https://www.moma.org/collection/works/58434",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5NjcwMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f6ea3619f38983e8",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "7 11/16 \u00d7 9 11/16\" (19.6 \u00d7 24.6 cm)",
-            "Credit": "Gift of David H. McAlpin",
-            "Object number": "1851.1968",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/6327"
-    },
-    {
-        "Artist": "Brett Weston",
-        "Title": "White Sands",
-        "Year": "1946",
-        "ObjectID": "58435",
-        "Work": "https://www.moma.org/collection/works/58435",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5NjcwMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a2252b17508143af",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "7 5/8 \u00d7 9 5/8\" (19.4 \u00d7 24.4 cm)",
-            "Credit": "Gift of David H. McAlpin",
-            "Object number": "1852.1968",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/6327"
-    },
-    {
-        "Artist": "Brett Weston",
-        "Title": "White Sands",
-        "Year": "1946",
-        "ObjectID": "58436",
-        "Work": "https://www.moma.org/collection/works/58436",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5NjcwNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c24abf464c8c189e",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "7 11/16 \u00d7 9 9/16\" (19.5 \u00d7 24.3 cm)",
-            "Credit": "Gift of David H. McAlpin",
-            "Object number": "1853.1968",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/6327"
-    },
-    {
-        "Artist": "Edward Weston",
-        "Title": "North Shore, Point Lobos",
-        "Year": "1946",
-        "ObjectID": "46265",
-        "Work": "https://www.moma.org/collection/works/46265",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxOTM5OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=948bf7c18c0448e0",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "9 9/16 \u00d7 7 9/16\" (24.3 \u00d7 19.2 cm)",
-            "Credit": "Purchase",
-            "Object number": "102.1966",
-            "Copyright": "\u00a9 Center for Creative Photography, Arizona Board of Regents / Artists Rights Society (ARS), New York",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/6329"
-    },
-    {
-        "Artist": "Edward Weston",
-        "Title": "Cypress and Stone Crop, Point Lobos",
-        "Year": "1946",
-        "ObjectID": "46656",
-        "Work": "https://www.moma.org/collection/works/46656",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwODI2MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f9c5e2f330133cb3",
-        "Details": {
-            "Medium": "Gelatin silver print, printed 1952",
-            "Dimensions": "9 1/2 \u00d7 7 5/8\" (24.2 \u00d7 19.3 cm)",
-            "Credit": "Gift of T.J. Maloney",
-            "Object number": "123.1952.9",
-            "Copyright": "\u00a9 Center for Creative Photography, Arizona Board of Regents / Artists Rights Society (ARS), New York",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/6329"
+        "Profile": "https://www.moma.org/artists/39943"
     }
 ]

@@ -1,818 +1,848 @@
 [
     {
-        "Artist": "Anton Giulio Bragaglia, Arturo Bragaglia",
-        "Title": "The Smoker\u2013The Match\u2013The Cigarette",
-        "Year": "1911",
-        "ObjectID": "83974",
-        "Work": "https://www.moma.org/collection/works/83974",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMjk5NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=acd5f5c074f52318",
+        "Artist": "Marianne Brandt",
+        "Title": "Fruit Bowl and Fruit Dish",
+        "Year": "1929",
+        "ObjectID": "2445",
+        "Work": "https://www.moma.org/collection/works/2445",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMDYwNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5d9b6083d7b45a68",
+        "Details": {
+            "Manufacturer": "Bauhaus Metal Workshop, Germany",
+            "Medium": "Chrome-plated brass",
+            "Dimensions": ".1 (bowl): 1 1/4 x 11 1/4\" (3.1 x 28.6 cm)\r\n.2 (dish): 15/16 x 8 3/8\" (2.4 x 21.2 cm)",
+            "Credit": "Phyllis B. Lambert Fund",
+            "Object number": "187.1958.1-2",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/741"
+    },
+    {
+        "Artist": "Marianne Brandt",
+        "Title": "Fruit Bowl",
+        "Year": "1929",
+        "ObjectID": "2453",
+        "Work": "https://www.moma.org/collection/works/2453",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyODY1MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b510a3e50b47b60e",
+        "Details": {
+            "Manufacturer": "Bauhaus Metal Workshop, Germany",
+            "Medium": "Brass",
+            "Dimensions": "1 3/8 x 11 1/4\" (3.5 x 28.6 cm)",
+            "Credit": "Gift of Howard Dearstyne",
+            "Object number": "189.1958",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/741"
+    },
+    {
+        "Artist": "Marcel Breuer",
+        "Title": "Child's side chair (model B33 1/2)",
+        "Year": "1929",
+        "ObjectID": "1918",
+        "Work": "https://www.moma.org/collection/works/1918",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMDE1NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=959050f2d23ab0af",
+        "Details": {
+            "Manufacturer": "Gebr\u00fcder Thonet, Vienna, Austria",
+            "Medium": "Tubular steel and canvas",
+            "Dimensions": "21 1/2 x 15 1/4 x 13 1/4\" (54.6 x 38.7 x 33.6 cm)",
+            "Credit": "Edgar Kaufmann, Jr. Purchase Fund",
+            "Object number": "61.1948",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/769"
+    },
+    {
+        "Artist": "Marcel Breuer",
+        "Title": "Child's Armchair (model B34 1/2)",
+        "Year": "1929",
+        "ObjectID": "1923",
+        "Work": "https://www.moma.org/collection/works/1923",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMDE1NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9bd7f3d4bf62cec9",
+        "Details": {
+            "Manufacturer": "Gebr\u00fcder Thonet A.G., Germany",
+            "Medium": "Tubular steel and canvas",
+            "Dimensions": "21 1/2 x 15 1/4 x 13 1/4\" (54.6 x 38.7 x 33.7 cm)",
+            "Credit": "Edgar Kaufmann, Jr. Purchase Fund",
+            "Object number": "62.1948",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/769"
+    },
+    {
+        "Artist": "Marcel Breuer",
+        "Title": "Lounge Chair (model B25)",
+        "Year": "1928-1929",
+        "ObjectID": "3400",
+        "Work": "https://www.moma.org/collection/works/3400",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQwMjU2NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=72c2dc1b5835f077",
+        "Details": {
+            "Manufacturer": "Thonet, Germany",
+            "Medium": "Chrome-plated tubular steel, rattan, and wood",
+            "Dimensions": "42 3/16 x 25 5/8 x 33 1/2\" (107.2 x 65.1 x 85.1 cm), seat h. 13\" (33 cm)",
+            "Credit": "Marshall Cogan Purchase Fund",
+            "Object number": "354.1982",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/769"
+    },
+    {
+        "Artist": "Marcel Breuer",
+        "Title": "Armchair (model B35)",
+        "Year": "1928-1929",
+        "ObjectID": "4306",
+        "Work": "https://www.moma.org/collection/works/4306",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMTYxMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7f10223006ff592d",
+        "Details": {
+            "Manufacturer": "Gebr\u00fcder Thonet A.G., Germany",
+            "Medium": "Chrome-plated tubular steel, wood, lacquer arm rests, and canvas",
+            "Dimensions": "31 1/2\" x 24 x 31 1/2\" (80 x 61 x 80 cm),  seat h. 12\" (30.5 cm)",
+            "Credit": "Est\u00e9e and Joseph Lauder Design Fund",
+            "Object number": "523.1977",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/769"
+    },
+    {
+        "Artist": "Marcel Breuer",
+        "Title": "Potsdamer Platz Project, Berlin, Germany, Axonometric",
+        "Year": "1929",
+        "ObjectID": "86501",
+        "Work": "https://www.moma.org/collection/works/86501",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDU0OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9a60a0d4afc53a17",
+        "Details": {
+            "Medium": "Ink, pencil, gouache and wash",
+            "Dimensions": "Composition: 21 7/8 x 30 7/16\" (55.5 x 77.3 cm)\r\nSheet: 24 3/4 x 33 11/16\" (62.8 x 85.5 cm)",
+            "Credit": "Gift of Elise Jaffe + Jeffrey Brown",
+            "Object number": "246.2002",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/769"
+    },
+    {
+        "Artist": "Alexander Brook",
+        "Title": "Standing Figure",
+        "Year": "(c. 1929)",
+        "ObjectID": "33450",
+        "Work": "https://www.moma.org/collection/works/33450",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Pencil on paper",
+            "Dimensions": "23 7/8 x 18 5/8\" (60.6 x 47.4 cm)",
+            "Credit": "Given anonymously",
+            "Object number": "39.1935",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/796"
+    },
+    {
+        "Artist": "Brown & Sharpe Mfg. Co., Providence, RI",
+        "Title": "Outside Firm-Joint Calipers",
+        "Year": "1920s",
+        "ObjectID": "2712",
+        "Work": "https://www.moma.org/collection/works/2712",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyODgwMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3e84c0d97c8d02e1",
+        "Details": {
+            "Manufacturer": "Brown & Sharpe Mfg. Co., Providence, RI",
+            "Medium": "Tempered steel",
+            "Dimensions": ".1: 4 1/4 x 3 1/2 x 3/8\" (10.8 x 8.9 x 1 cm)\r\n.2: 3 1/4 x 2 1/4 x 1/4\" (8.3 x 5.7 x 0.6 cm)\r\n.3: 4 1/4 x 2 7/8 x 1/4\" (10.8 x 7.3 x 0.6 cm)\r\n.4: 6 3/8 x 4 3/4 x 1/2\" (16.2 x 12.1 x 1.3 cm)\r\n.5: 8 1/2 x 6 1/2 x 1/2\" (21.6 x 16.5 x 1.3 cm)",
+            "Credit": "Gift of Brown & Sharpe",
+            "Object number": "215.1934.1-5",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/10044"
+    },
+    {
+        "Artist": "Anton Bruehl",
+        "Title": "Untitled",
+        "Year": "1929",
+        "ObjectID": "83978",
+        "Work": "https://www.moma.org/collection/works/83978",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMDY3MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=612126c72f83702d",
         "Details": {
             "Medium": "Gelatin silver print",
-            "Dimensions": "4 5/16 \u00d7 4 1/8\" (11 \u00d7 10.4 cm)",
+            "Dimensions": "9 15/16 \u00d7 7 15/16\" (25.3 \u00d7 20.2 cm)",
             "Credit": "Thomas Walther Collection. Gift of Thomas Walther",
-            "Object number": "1635.2001",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / SIAE, Rome",
+            "Object number": "1641.2001",
+            "Copyright": "\u00a9 2023 Anton Bruehl Estate",
             "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/16790"
+        "Profile": "https://www.moma.org/artists/822"
     },
     {
-        "Artist": "Georges Braque",
-        "Title": "Bass",
-        "Year": "1911, printed 1950",
-        "ObjectID": "66902",
-        "Work": "https://www.moma.org/collection/works/66902",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNDE4MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d7ff1531f84187ae",
+        "Artist": "Francis Bruguiere",
+        "Title": "Violent Intervention",
+        "Year": "1925-29",
+        "ObjectID": "83690",
+        "Work": "https://www.moma.org/collection/works/83690",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMjk5NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c47ad2ef283b4740",
         "Details": {
-            "Medium": "Drypoint and etching",
-            "Dimensions": "plate: 18 x 12 15/16\" (45.7 x 32.8cm); sheet: 25 7/8 x 19 3/4\" (65.7 x 50.2cm)",
-            "Publisher": "Maeght \u00c9diteur, Paris",
-            "Printer": "\u00c9ditions Georges Visat & Cie., Paris",
-            "Edition": "50",
-            "Credit": "Purchase",
-            "Object number": "322.1951",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/744"
-    },
-    {
-        "Artist": "Anne W. Brigman",
-        "Title": "The Storm Tree",
-        "Year": "1911",
-        "ObjectID": "51709",
-        "Work": "https://www.moma.org/collection/works/51709",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5MzQ3MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f0efb1cafc1cc14d",
-        "Details": {
-            "Medium": "Platinum print",
-            "Dimensions": "7 1/2 \u00d7 9 1/2\" (19.0 \u00d7 24.1 cm)",
-            "Credit": "Gift of Mrs. B. S. Sexton in memory of her sister, Margaret DeM. Brown",
-            "Object number": "359.1961",
+            "Medium": "Gelatin silver print",
+            "Dimensions": "9 7/16 \u00d7 7 7/16\" (24 \u00d7 18.9 cm)",
+            "Credit": "Thomas Walther Collection. Abbott-Levy Collection funds, by exchange",
+            "Object number": "1644.2001",
+            "Copyright": "\u00a9 1991 Kenneth H. Brugui\u00e8re and Kathleen Brugui\u00e8re Anderson",
             "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/777"
+        "Profile": "https://www.moma.org/artists/824"
     },
     {
-        "Artist": "Andre Calmettes",
-        "Title": "Madame Sans-Gene [Excerpt]",
-        "Year": "1911",
-        "ObjectID": "307169",
-        "Work": "https://www.moma.org/collection/works/307169",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ4ODc5MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ff4ee010ade6715d",
+        "Artist": "Eugene Buechel",
+        "Title": "Sam Spotted Warbonnet and Family",
+        "Year": "October 16, 1929",
+        "ObjectID": "45434",
+        "Work": "https://www.moma.org/collection/works/45434",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MDQxOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b5eba00524a35e59",
         "Details": {
-            "Object number": "W1864",
+            "Medium": "Gelatin silver print",
+            "Dimensions": "6 7/16 \u00d7 11\" (16.4 \u00d7 28.0 cm)",
+            "Credit": "Gift of David Wing, 1976",
+            "Object number": "66.1977.16",
+            "Copyright": "\u00a9 2023 Eugene Buechel Estate",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/853"
+    },
+    {
+        "Artist": "Max Burchartz",
+        "Title": "Herner Anzeiger (Herner gazette)",
+        "Year": "c. 1929",
+        "ObjectID": "7774",
+        "Work": "https://www.moma.org/collection/works/7774",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDc1MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=262484ba6b7264dd",
+        "Details": {
+            "Medium": "Letterpress",
+            "Dimensions": "8 x 5\" (20.3 x 12.7 cm)",
+            "Printer": "Ingmanns & Koethers, Herne I. W.",
+            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
+            "Object number": "621.1999",
+            "Copyright": "\u00a9 2023 Max Burchartz / Artists Rights Society (ARS), New York / VG Bild-Kunst, Germany",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/869"
+    },
+    {
+        "Artist": "David Butler",
+        "Title": "Sunnyside Up",
+        "Year": "1929",
+        "ObjectID": "302836",
+        "Work": "https://www.moma.org/collection/works/302836",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ1MzQ5OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=427c2127186c8b34",
+        "Details": {
+            "Object number": "W2747",
             "Department": "Film"
         },
-        "Profile": "https://www.moma.org/artists/32304"
+        "Profile": "https://www.moma.org/artists/75664"
     },
     {
-        "Artist": "Carlo Carra",
-        "Title": "Ritmi Plastici",
-        "Year": "1911",
-        "ObjectID": "37817",
-        "Work": "https://www.moma.org/collection/works/37817",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEwNjkxOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b2f54d553c021942",
+        "Artist": "Alexander Calder",
+        "Title": "Cow",
+        "Year": "1929",
+        "ObjectID": "81347",
+        "Work": "https://www.moma.org/collection/works/81347",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMTA1NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=42492d720bcbb4ec",
         "Details": {
-            "Medium": "Ink on paper",
-            "Dimensions": "4 1/4 x 2 7/8\" (10.7 x 7.4 cm)",
-            "Credit": "The Joan and Lester Avnet Fund",
-            "Object number": "703.1980",
-            "Copyright": "\u00a9 2023 Carlo Carr\u00e0 / Artists Rights Society (ARS), New York / SIAE, Rome",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/987"
-    },
-    {
-        "Artist": "Carlo Carra",
-        "Title": "Funeral of the Anarchist Galli",
-        "Year": "1910-11",
-        "ObjectID": "79225",
-        "Work": "https://www.moma.org/collection/works/79225",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ2ODM2NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1f8621dfdca45c9d",
-        "Details": {
-            "Medium": "Oil on canvas",
-            "Dimensions": "6' 6 1/4\" x 8' 6\" (198.7 x 259.1 cm)",
-            "Credit": "Acquired through the Lillie P. Bliss Bequest (by exchange)",
-            "Object number": "235.1948",
-            "Copyright": "\u00a9 2023 Carlo Carr\u00e0 / Artists Rights Society (ARS), New York / SIAE, Rome",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/987"
-    },
-    {
-        "Artist": "Carlo Carra",
-        "Title": "Jolts of a Cab",
-        "Year": "1911",
-        "ObjectID": "80471",
-        "Work": "https://www.moma.org/collection/works/80471",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1MDUwMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6659959a037c38a9",
-        "Details": {
-            "Medium": "Oil on canvas",
-            "Dimensions": "20 5/8 x 26 1/2\" (52.3 x 67.1 cm)",
-            "Credit": "Gift of Herbert and Nannette Rothschild",
-            "Object number": "1007.1965",
-            "Copyright": "\u00a9 2023 Carlo Carr\u00e0 / Artists Rights Society (ARS), New York / SIAE, Rome",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/987"
-    },
-    {
-        "Artist": "Marc Chagall",
-        "Title": "Vaslaw Nijinsky",
-        "Year": "(1911)",
-        "ObjectID": "37234",
-        "Work": "https://www.moma.org/collection/works/37234",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ0Mzg5MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=adbad9a2a7032240",
-        "Details": {
-            "Medium": "Watercolor on paper",
-            "Dimensions": "8 3/8 x 5 1/4\" (21.3 x 13.2 cm)",
+            "Medium": "Steel wire",
+            "Dimensions": "6 1/2 x 16 x 4 1/4\" (16.5 x 40.7 x 10.5 cm)",
             "Credit": "Gift of Edward M. M. Warburg",
-            "Object number": "507.1941",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/1055"
-    },
-    {
-        "Artist": "Marc Chagall",
-        "Title": "I and the Village",
-        "Year": "1911",
-        "ObjectID": "78984",
-        "Work": "https://www.moma.org/collection/works/78984",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ2NzUzMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c5c969eb1691b169",
-        "Details": {
-            "Medium": "Oil on canvas",
-            "Dimensions": "6' 3 5/8\" x 59 5/8\" (192.1 x 151.4 cm)",
-            "Credit": "Mrs. Simon Guggenheim Fund",
-            "Object number": "146.1945",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Object number": "318.1941.a-d",
+            "Copyright": "\u00a9 2023 Calder Foundation, New York / Artists Rights Society (ARS), New York",
             "Department": "Painting and Sculpture"
         },
-        "Profile": "https://www.moma.org/artists/1055"
+        "Profile": "https://www.moma.org/artists/922"
     },
     {
-        "Artist": "Jean Cocteau",
-        "Title": "Spectre de la Rose (Nijinsky)",
-        "Year": "1911",
-        "ObjectID": "7571",
-        "Work": "https://www.moma.org/collection/works/7571",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MzI2NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c92bf8f094b80396",
+        "Artist": "Alexander Calder",
+        "Title": "Cow",
+        "Year": "c. 1926",
+        "ObjectID": "81507",
+        "Work": "https://www.moma.org/collection/works/81507",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyNDkzNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f0e8af0333759fb0",
+        "Details": {
+            "Medium": "Wire, wood, and string",
+            "Dimensions": "5 3/4 \u00d7 8 1/8 \u00d7 6\" (14.6 \u00d7 20.6 \u00d7 15.2 cm) including base",
+            "Credit": "Gift of Edward M. M. Warburg",
+            "Object number": "499.1941",
+            "Copyright": "\u00a9 2023 Calder Foundation, New York / Artists Rights Society (ARS), New York",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/922"
+    },
+    {
+        "Artist": "Alexander Calder",
+        "Title": "Portrait of a Man",
+        "Year": "New York, c. 1928",
+        "ObjectID": "81898",
+        "Work": "https://www.moma.org/collection/works/81898",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMDU4MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=587122a4c9e46efc",
+        "Details": {
+            "Medium": "Brass wire",
+            "Dimensions": "12 7/8 x 8 3/4 x 13 1/2\" (32.5 x 22.2 x 34.2 cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "843.1966",
+            "Copyright": "\u00a9 2023 Calder Foundation, New York / Artists Rights Society (ARS), New York",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/922"
+    },
+    {
+        "Artist": "Johannes Canis",
+        "Title": "Fortschritt-Stuhl",
+        "Year": "1928-29",
+        "ObjectID": "8438",
+        "Work": "https://www.moma.org/collection/works/8438",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMTE5MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=79701eb4a58713a1",
+        "Details": {
+            "Medium": "Letterpress",
+            "Dimensions": "9 7/8 x 7 7/8\" (25.1 x 20 cm)",
+            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
+            "Object number": "966.1999",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/950"
+    },
+    {
+        "Artist": "Leonetto Cappiello",
+        "Title": "Chocolat Frigor",
+        "Year": "1929",
+        "ObjectID": "7248",
+        "Work": "https://www.moma.org/collection/works/7248",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMTU0NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=bd6e69499aa47bde",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "49 3/4 x 41 7/8\" (126.4 x 106.4 cm)",
-            "Credit": "Gift of Carl Van Vechten",
-            "Object number": "572.1941",
+            "Dimensions": "50 5/8 x 35 3/4\" (128.5 x 90.6 cm)",
+            "Credit": "Acquired by exchange",
+            "Object number": "493.1983",
             "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
             "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/1168"
+        "Profile": "https://www.moma.org/artists/962"
     },
     {
-        "Artist": "Lovis Corinth",
-        "Title": "Nocturnal Scene (Nachtliche Szene) for the illustrated book Das Hohe Lied (The Song of Songs)",
-        "Year": "(1911)",
-        "ObjectID": "72332",
-        "Work": "https://www.moma.org/collection/works/72332",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExODM5MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=05b1114204480427",
+        "Artist": "Henri Cartier-Bresson",
+        "Title": "Dieppe, France",
+        "Year": "1929",
+        "ObjectID": "45744",
+        "Work": "https://www.moma.org/collection/works/45744",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1MjkwNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=25690874bc48b0a8",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "9 15/16 \u00d7 14 3/16\" (25.2 \u00d7 36.1 cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "76.1988",
+            "Copyright": "\u00a9 2023 Henri Cartier-Bresson/Magnum Photos, courtesy Fondation Henri Cartier-Bresson, Paris",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/1000"
+    },
+    {
+        "Artist": "Henri Cartier-Bresson",
+        "Title": "France",
+        "Year": "1929",
+        "ObjectID": "55120",
+        "Work": "https://www.moma.org/collection/works/55120",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE0MjgwOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c3a810485ee54745",
+        "Details": {
+            "Medium": "Gelatin silver print, printed 1986",
+            "Dimensions": "9 7/16 \u00d7 12 9/16\" (24 \u00d7 32 cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "558.1987",
+            "Copyright": "\u00a9 2023 Henri Cartier-Bresson/Magnum Photos, courtesy Fondation Henri Cartier-Bresson, Paris",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/1000"
+    },
+    {
+        "Artist": "Henri Cartier-Bresson",
+        "Title": "Rouen",
+        "Year": "1929",
+        "ObjectID": "57822",
+        "Work": "https://www.moma.org/collection/works/57822",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyMzcwNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f711b9b7d4f42b50",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "14 3/16 \u00d7 10 7/8\" (36 \u00d7 27.7 cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "1185.1964",
+            "Copyright": "\u00a9 2023 Henri Cartier-Bresson/Magnum Photos, courtesy Fondation Henri Cartier-Bresson, Paris",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/1000"
+    },
+    {
+        "Artist": "Henri Cartier-Bresson",
+        "Title": "Rouen",
+        "Year": "1929",
+        "ObjectID": "57825",
+        "Work": "https://www.moma.org/collection/works/57825",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyMzcwNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4f80cb09bac920fc",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "10 7/8 \u00d7 14 1/4\" (27.7 \u00d7 36.2 cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "1186.1964",
+            "Copyright": "\u00a9 2023 Henri Cartier-Bresson/Magnum Photos, courtesy Fondation Henri Cartier-Bresson, Paris",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/1000"
+    },
+    {
+        "Artist": "A. M. Cassandre",
+        "Title": "La Route Bleu, Londres-Paris-Cote D'Azur en Autocars de Luxe",
+        "Year": "1929",
+        "ObjectID": "6924",
+        "Work": "https://www.moma.org/collection/works/6924",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMTM0NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c8e4de3151aeecc0",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "composition: 10 13/16 x 9 3/8\" (27.5 x 23.8 cm); sheet (irreg. ): 20 1/16 x 12 15/16\" (50.9 x 32.8 cm)",
-            "Publisher": "Pan-Presse (Verlag Paul Cassirer), Berlin",
-            "Printer": "Pan-Presse, Berlin",
-            "Edition": "Proof outside the illustrated book edition of 310 (including a deluxe edition of 60 on Japan paper and a regular edition of 250 on Strathmore \"Japan\" paper); plus 1 trial proof with pastel-additions",
-            "Credit": "Given anonymously",
-            "Object number": "639.1943",
-            "Department": "Drawings and Prints"
+            "Dimensions": "39 1/4 x 24 3/8\" (99.7 x 62 cm)",
+            "Printer": "Danel, Lille",
+            "Credit": "Gift of French National Railways",
+            "Object number": "435.1976",
+            "Copyright": "\u00a9 2023 Mouron AM.Cassandre",
+            "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/1243"
+        "Profile": "https://www.moma.org/artists/1015"
     },
     {
-        "Artist": "Edward Curtis",
-        "Title": "Boughs for the Alter, Cheyenne",
-        "Year": "1911",
-        "ObjectID": "47373",
-        "Work": "https://www.moma.org/collection/works/47373",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1ODY4OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d89856e0075d0d3e",
+        "Artist": "A. M. Cassandre",
+        "Title": "Chemin De Fer Du Nord - Vitesse-Luxe-Confort",
+        "Year": "1929",
+        "ObjectID": "83512",
+        "Work": "https://www.moma.org/collection/works/83512",
+        "Thumbnail": null,
         "Details": {
-            "Medium": "Photogravure",
-            "Dimensions": "5 \u00d7 7 1/4\" (12.7 \u00d7 18.4 cm)",
-            "Credit": "Purchase",
-            "Object number": "174.1972",
+            "Medium": "Silkscreen",
+            "Dimensions": "39 x 24 1/2\" (99.1 x 62.2 cm)",
+            "Printer": "Danel, Lille",
+            "Credit": "Anonymous gift",
+            "Object number": "272.1935",
+            "Copyright": "\u00a9 2023 Mouron AM.Cassandre",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/1015"
+    },
+    {
+        "Artist": "Martin Chambi",
+        "Title": "German Technicians from Cuzco Beer Factory, Cuzco Studio",
+        "Year": "1929",
+        "ObjectID": "157536",
+        "Work": "https://www.moma.org/collection/works/157536",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0MjQxOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=44eed84a113910f7",
+        "Details": {
+            "Medium": "Gelatin silver print, printed 1978",
+            "Dimensions": "6 15/16 \u00d7 9 1/4\" (17.6 \u00d7 23.5 cm)",
+            "Credit": "Gift Edward Ranney in memory of Julia and V\u00edctor Chambi",
+            "Object number": "396.2012",
+            "Copyright": "\u00a9 2023 Mart\u00edn Chambi Archive",
             "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/1341"
+        "Profile": "https://www.moma.org/artists/1063"
     },
     {
-        "Artist": "Robert Delaunay",
-        "Title": "The Tower",
-        "Year": "1911, dated 1910",
-        "ObjectID": "35446",
-        "Work": "https://www.moma.org/collection/works/35446",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5Mzk4NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=27b5d6618524fede",
+        "Artist": "Pierre Chareau",
+        "Title": "Fleur lamp (model LP166)",
+        "Year": "c.1924",
+        "ObjectID": "292760",
+        "Work": "https://www.moma.org/collection/works/292760",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjU0MTA5NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cda046829bf95a7c",
         "Details": {
-            "Medium": "Ink and pencil on paper",
-            "Dimensions": "21 1/4 x 19 1/4\" (53.9 x 48.9 cm)",
-            "Credit": "Abby Aldrich Rockefeller Fund",
-            "Object number": "235.1935",
-            "Department": "Drawings and Prints"
+            "Medium": "Brass and alabaster",
+            "Dimensions": "9 \u00d7 10\" (22.9 \u00d7 25.4 cm)",
+            "Credit": "Gift of the George R. Kravis II Collection",
+            "Object number": "1251.2018",
+            "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/1479"
+        "Profile": "https://www.moma.org/artists/38695"
     },
     {
-        "Artist": "Marcel Duchamp",
-        "Title": "Landscape",
-        "Year": "Neuilly, January-February 1911",
-        "ObjectID": "78988",
-        "Work": "https://www.moma.org/collection/works/78988",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMDQ2MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b3ace616dccba674",
+        "Artist": "Jean Charlot",
+        "Title": "Leopard Hunter",
+        "Year": "1929",
+        "ObjectID": "72996",
+        "Work": "https://www.moma.org/collection/works/72996",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5NTkwOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=af6997987672fa9e",
         "Details": {
-            "Medium": "Oil on canvas",
-            "Dimensions": "18 1/8 x 24\" (46.3 x 61.3 cm)",
-            "Credit": "Katherine S. Dreier Bequest",
-            "Object number": "148.1953",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris / Estate of Marcel Duchamp",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/1634"
-    },
-    {
-        "Artist": "Raoul Dufy",
-        "Title": "Apollo",
-        "Year": "(1911)",
-        "ObjectID": "67020",
-        "Work": "https://www.moma.org/collection/works/67020",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2Mjc4NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=313ce222ab11cd19",
-        "Details": {
-            "Medium": "Woodcut",
-            "Dimensions": "composition: 10 1/8 x 8 1/8\" (25.7 x 20.6 cm); sheet: 13 x 12 15/16\" (33 x 32.8 cm)",
-            "Printer": "Delaplanche",
-            "Credit": "Purchase",
-            "Object number": "328.1951",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/1646"
-    },
-    {
-        "Artist": "Raoul Dufy",
-        "Title": "Lion",
-        "Year": "(1911)",
-        "ObjectID": "67042",
-        "Work": "https://www.moma.org/collection/works/67042",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2Mjc4NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1dee02e11d2c4bec",
-        "Details": {
-            "Medium": "Woodcut",
-            "Dimensions": "composition: 8 1/8 x 7 5/8\" (20.7 x 19.3 cm); sheet: 14 1/8 x 12 3/4\" (35.8 x 32.4 cm)",
-            "Printer": "Delaplanche",
-            "Credit": "Purchase",
-            "Object number": "329.1951",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/1646"
-    },
-    {
-        "Artist": "Louis Michel Eilshemius",
-        "Title": "Samoa",
-        "Year": "1911",
-        "ObjectID": "37498",
-        "Work": "https://www.moma.org/collection/works/37498",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQyMjU2NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1c99543e73548c95",
-        "Details": {
-            "Medium": "Oil on cardboard",
-            "Dimensions": "10 x 8\" (25.4 x 20.3 cm)",
-            "Credit": "The Sidney and Harriet Janis Collection",
-            "Object number": "596.1967",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/1701"
-    },
-    {
-        "Artist": "Jacob Epstein",
-        "Title": "Nan Seated",
-        "Year": "1911",
-        "ObjectID": "80761",
-        "Work": "https://www.moma.org/collection/works/80761",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwNzk4MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fa227800da17413a",
-        "Details": {
-            "Medium": "Bronze",
-            "Dimensions": "18 1/2 x 13 x 5 7/8\" (47 x 33 x 14.9 cm)",
-            "Credit": "Gift of Mrs. Frank Altschul in memory of her father, Philip J. Goodhart",
-            "Object number": "4.1949",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/1741"
-    },
-    {
-        "Artist": "Frederick H. Evans",
-        "Title": "A Norfolk Piscina (Little Snoring Church)",
-        "Year": "c. 1906",
-        "ObjectID": "53630",
-        "Work": "https://www.moma.org/collection/works/53630",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxOTQ1OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=84c126e13963c22d",
-        "Details": {
-            "Medium": "Platinum print",
-            "Dimensions": "9 \u00d7 5\" (22.9 \u00d7 12.7 cm)",
-            "Credit": "Purchase",
-            "Object number": "458.1966",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/1774"
-    },
-    {
-        "Artist": "Lyonel Feininger",
-        "Title": "On the Quay",
-        "Year": "1911",
-        "ObjectID": "35832",
-        "Work": "https://www.moma.org/collection/works/35832",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNTU5NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b073be83a7c88f81",
-        "Details": {
-            "Medium": "Ink and opaque watercolor on paper",
-            "Dimensions": "9 1/2 x 12 3/8\" (24.1 x 31.4 cm)",
-            "Credit": "Gift of Julia Feininger",
-            "Object number": "271.1964",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/1832"
-    },
-    {
-        "Artist": "Lyonel Feininger",
-        "Title": "The Disparagers",
-        "Year": "1911",
-        "ObjectID": "37098",
-        "Work": "https://www.moma.org/collection/works/37098",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNTU5OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b38e3274b6465371",
-        "Details": {
-            "Medium": "Watercolor and ink on paper",
-            "Dimensions": "9 3/8 x 12 1/4\" (23.8 x 31.1 cm)",
-            "Credit": "Acquired through the Lillie P. Bliss Bequest (by exchange)",
-            "Object number": "477.1953",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/1832"
-    },
-    {
-        "Artist": "Lyonel Feininger",
-        "Title": "The Disparagers (Die Hohnenden)",
-        "Year": "1911",
-        "ObjectID": "64604",
-        "Work": "https://www.moma.org/collection/works/64604",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NzUwMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0e000b2c988bc551",
-        "Details": {
-            "Medium": "Etching",
-            "Dimensions": "plate: 8 9/16 x 10 3/8\" (21.8 x 26.4 cm); sheet: 12 1/4 x 13 1/4\" (31.1 x 33.6 cm)",
-            "Publisher": "unpublished",
-            "Printer": "Unidentified",
-            "Edition": "10 known impressions",
-            "Credit": "Gift of Julia Feininger",
-            "Object number": "218.1955",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/1832"
-    },
-    {
-        "Artist": "Lyonel Feininger",
-        "Title": "The Anglers (Die Angler)",
-        "Year": "(c. 1910-1911)",
-        "ObjectID": "66336",
-        "Work": "https://www.moma.org/collection/works/66336",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNDc0OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e53f9ffcb6976200",
-        "Details": {
-            "Medium": "Drypoint",
-            "Dimensions": "plate: 4 3/4 x 6 5/16\" (12.1 x 16 cm); sheet: 8 3/8 x 12 3/4\" (21.3 x 32.4 cm)",
-            "Publisher": "unpublished",
-            "Printer": "Unidentified",
-            "Edition": "2 known impressions",
+            "Medium": "Lithograph",
+            "Dimensions": "composition: 10 13/16 x 14\" (27.5 x 35.6 cm); sheet: 15 7/8 x 21 15/16\" (40.3 x 55.7 cm)",
+            "Printer": "George C. Miller",
+            "Edition": "30",
             "Credit": "Gift of Abby Aldrich Rockefeller",
-            "Object number": "296.1940",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Object number": "675.1940",
+            "Copyright": "\u00a9 2023 Jean Charlot/ Artists Rights Society (ARS), New York",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/1832"
+        "Profile": "https://www.moma.org/artists/1074"
     },
     {
-        "Artist": "Lyonel Feininger",
-        "Title": "Marine, I",
-        "Year": "1911",
-        "ObjectID": "68289",
-        "Work": "https://www.moma.org/collection/works/68289",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNDc1MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=94896e129d7fecc0",
-        "Details": {
-            "Medium": "Etching",
-            "Dimensions": "plate: 6 15/16 x 9 3/16\" (17.7 x 23.4 cm); sheet: 9 15/16 x 13 3/8\" (25.2 x 34 cm)",
-            "Publisher": "unpublished",
-            "Printer": "Unidentified",
-            "Edition": "8 known impressions",
-            "Credit": "Gift of the artist and his wife",
-            "Object number": "389.1955",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/1832"
-    },
-    {
-        "Artist": "Lyonel Feininger",
-        "Title": "Sunrise (Sonnenaufgang) for the portfolio Dedicated to Arno Holz on the Occasion of his 60th Birthday by German Artists (Arno Holz zum sechzigsten Geburtstag gewidmet von deutschen Kunstlern)",
-        "Year": "1911",
-        "ObjectID": "72543",
-        "Work": "https://www.moma.org/collection/works/72543",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNDgwOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=52bc22675ce2c2ae",
-        "Details": {
-            "Medium": "Etching",
-            "Dimensions": "plate: 6 1/8 x 9 5/16\" (15.5 x 23.7 cm); sheet (irreg.): 10 5/16 x 13 1/4\" (26.2 x 33.7 cm)",
-            "Publisher": "Fritz Gurlitt, Berlin",
-            "Printer": "Unidentified",
-            "Edition": "approx. 6-15 impressions printed 1911 [this ex.]; plus 130 in the portfolio Dedicated to Arno Holz on the Occasion of his 60th Birthday by German Artists, published by Fritz Gurlitt, Berlin, 1923",
-            "Credit": "Gift of Abby Aldrich Rockefeller (by exchange)",
-            "Object number": "649.1954",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/1832"
-    },
-    {
-        "Artist": "D. W. Griffith",
-        "Title": "Fisher Folks",
-        "Year": "1911",
-        "ObjectID": "300039",
-        "Work": "https://www.moma.org/collection/works/300039",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExMzExMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=20365282195149b6",
-        "Details": {
-            "Credit": "Preserved with funding from The Lillian Gish Trust for Film Preservation",
-            "Object number": "W3305",
-            "Department": "Film"
-        },
-        "Profile": "https://www.moma.org/artists/90865"
-    },
-    {
-        "Artist": "D. W. Griffith",
-        "Title": "Her Awakening",
-        "Year": "1911",
-        "ObjectID": "300087",
-        "Work": "https://www.moma.org/collection/works/300087",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExMzIzNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3d3e4d1f954c9c13",
-        "Details": {
-            "Object number": "W3353",
-            "Department": "Film"
-        },
-        "Profile": "https://www.moma.org/artists/90865"
-    },
-    {
-        "Artist": "D. W. Griffith",
-        "Title": "The Battle",
-        "Year": "1911",
-        "ObjectID": "300711",
-        "Work": "https://www.moma.org/collection/works/300711",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExMzIzNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d78a12cba316b57c",
-        "Details": {
-            "Credit": "Preserved with funding from The Lillian Gish Trust for Film Preservation",
-            "Object number": "W2089",
-            "Department": "Film"
-        },
-        "Profile": "https://www.moma.org/artists/90865"
-    },
-    {
-        "Artist": "D. W. Griffith",
-        "Title": "Lonedale Operator",
-        "Year": "1911",
-        "ObjectID": "304881",
-        "Work": "https://www.moma.org/collection/works/304881",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExMzIzNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3a9e4d59072edbb7",
-        "Details": {
-            "Credit": "Preserved with funding from The Lillian Gish Trust for Film Preservation",
-            "Object number": "W3593",
-            "Department": "Film"
-        },
-        "Profile": "https://www.moma.org/artists/90865"
-    },
-    {
-        "Artist": "D. W. Griffith",
-        "Title": "What Shall We Do with Our Old?",
-        "Year": "1911",
-        "ObjectID": "307829",
-        "Work": "https://www.moma.org/collection/works/307829",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExMzIzOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=04c84fa3fd21098f",
-        "Details": {
-            "Object number": "W3807",
-            "Department": "Film"
-        },
-        "Profile": "https://www.moma.org/artists/90865"
-    },
-    {
-        "Artist": "Juan Gris",
-        "Title": "Still Life with Bottle and Funnel",
-        "Year": "(1911)",
-        "ObjectID": "36672",
-        "Work": "https://www.moma.org/collection/works/36672",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjk3NDg2Il0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNTEyeDUxMlx1MDAzZSJdXQ.jpg?sha=f668c98498e46884",
-        "Details": {
-            "Medium": "Charcoal on paper",
-            "Dimensions": "18 7/8 x 12 1/2\" (47.9 x 31.6 cm)",
-            "Credit": "Alva Gimbel Fund",
-            "Object number": "401.1970",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/2349"
-    },
-    {
-        "Artist": "Juan Gris",
-        "Title": "Jar, Bottle and Glass",
-        "Year": "1911",
-        "ObjectID": "79839",
-        "Work": "https://www.moma.org/collection/works/79839",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMTU2MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c5066de7bb72bf93",
-        "Details": {
-            "Medium": "Oil on canvas",
-            "Dimensions": "23 1/2 x 19 3/4\" (59.7 x 50.2 cm)",
-            "Credit": "Acquired through the Lillie P. Bliss Bequest (by exchange)",
-            "Object number": "502.1941",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/2349"
-    },
-    {
-        "Artist": "George Grosz",
-        "Title": "Two Men Watching a Couple (Zwei Manner in Betrachtung eines Paares)",
-        "Year": "1911",
-        "ObjectID": "72468",
-        "Work": "https://www.moma.org/collection/works/72468",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExMzQ1MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d138f3c0d7a95e5d",
-        "Details": {
-            "Medium": "Etching",
-            "Dimensions": "plate (irreg.): 5 1/16 x 4 11/16\" (12.9 x 11.9 cm); sheet: 12 3/8 x 9 1/2\" (31.4 x 24.1 cm)",
-            "Publisher": "unpublished",
-            "Printer": "Unidentified",
-            "Edition": "2 known impressions",
-            "Credit": "Gift of Mr. and Mrs. Eugene Victor Thaw",
-            "Object number": "645.1966",
-            "Copyright": "\u00a9 2023 Estate of George Grosz",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/2374"
-    },
-    {
-        "Artist": "Erich Heckel",
-        "Title": "Interior with Two Figures (Interieur mit zwei Figuren)",
-        "Year": "1911",
-        "ObjectID": "64788",
-        "Work": "https://www.moma.org/collection/works/64788",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNTYwOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=786b6890712aaf3a",
-        "Details": {
-            "Medium": "Woodcut",
-            "Dimensions": "composition: 5 1/16 x 6 5/16\" (12.9 x 16 cm); sheet (irreg.): 10 1/16 x 11 1/4\" (25.6 x 28.6 cm)",
-            "Publisher": "unpublished",
-            "Printer": "Erich Heckel, probably Dresden",
-            "Edition": "unknown (few impressions)",
-            "Credit": "Purchase",
-            "Object number": "229.1955",
-            "Copyright": "\u00a9 2023 Erich Heckel / Artists Rights Society (ARS), New York / VG Bild-Kunst, Germany",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/2569"
-    },
-    {
-        "Artist": "Erich Heckel",
-        "Title": "Dancers (Tanzerinnen)",
-        "Year": "1911, dated 1910",
-        "ObjectID": "67070",
-        "Work": "https://www.moma.org/collection/works/67070",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzNTUxNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=32d6ae70480bbe76",
+        "Artist": "Jean Charlot",
+        "Title": "Mestizas",
+        "Year": "1929",
+        "ObjectID": "73017",
+        "Work": "https://www.moma.org/collection/works/73017",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5NTkxMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f5676b4c8263c17d",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "composition: 9 3/4 x 7 3/8\" (24.7 x 18.8 cm); sheet: 16 5/8 x 11 7/8\" (42.3 x 30.2 cm)",
-            "Publisher": "unpublished",
-            "Printer": "Erich Heckel, Dresden",
-            "Edition": "unknown (approx. 7-10)",
-            "Credit": "Gift of Victor S. Riesenfeld",
-            "Object number": "331.1948",
-            "Copyright": "\u00a9 2023 Erich Heckel / Artists Rights Society (ARS), New York / VG Bild-Kunst, Germany",
+            "Dimensions": "composition: 14 1/8 \u00d7 10 1/2\" (35.8 \u00d7 26.7 cm); sheet: 15 7/8 \u00d7 11 1/4\" (40.3 \u00d7 28.5 cm)",
+            "Publisher": "Unidentified",
+            "Printer": "George C. Miller, New York",
+            "Edition": "50",
+            "Credit": "Gift of Abby Aldrich Rockefeller",
+            "Object number": "676.1940",
+            "Copyright": "\u00a9 2023 Jean Charlot/ Artists Rights Society (ARS), New York",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/2569"
+        "Profile": "https://www.moma.org/artists/1074"
     },
     {
-        "Artist": "Erich Heckel",
-        "Title": "Playing Ball (Ballspielende)",
-        "Year": "1911",
-        "ObjectID": "67338",
-        "Work": "https://www.moma.org/collection/works/67338",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3OTg3NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=92942258a010d4b7",
+        "Artist": "Jean Charlot",
+        "Title": "The Nurse (La Nana)",
+        "Year": "1929",
+        "ObjectID": "73029",
+        "Work": "https://www.moma.org/collection/works/73029",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5NTkxMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ca1b6029d20b79f7",
         "Details": {
-            "Medium": "Woodcut",
-            "Dimensions": "composition (illeg.): 7 5/8 x 10 7/8\" (19.3 x 27.6 cm); sheet (illeg.): 13 7/16 x 18 11/16\" (34.2 x 47.5 cm)",
-            "Publisher": "J. B. Neumann, Berlin",
-            "Printer": "probably Erich Heckel, Berlin",
-            "Edition": "unknown (not more than 50)",
-            "Credit": "Gift of Samuel A. Berger",
-            "Object number": "344.1954",
-            "Copyright": "\u00a9 2023 Erich Heckel / Artists Rights Society (ARS), New York / VG Bild-Kunst, Germany",
+            "Medium": "Lithograph",
+            "Dimensions": "composition: 10 13/16 x 14\" (27.5 x 35.5 cm); sheet: 15 13/16 x 21 15/16\" (40.2 x 55.8 cm)",
+            "Printer": "George C. Miller",
+            "Edition": "50",
+            "Credit": "Gift of Abby Aldrich Rockefeller",
+            "Object number": "677.1940",
+            "Copyright": "\u00a9 2023 Jean Charlot/ Artists Rights Society (ARS), New York",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/2569"
+        "Profile": "https://www.moma.org/artists/1074"
     },
     {
-        "Artist": "Erich Heckel",
-        "Title": "Bathers in the Pond (Badende im Teich)",
-        "Year": "1911",
-        "ObjectID": "72662",
-        "Work": "https://www.moma.org/collection/works/72662",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNDgxMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=764d81af7ae73dc9",
+        "Artist": "Jean Charlot",
+        "Title": "Mother and Child",
+        "Year": "1929",
+        "ObjectID": "73041",
+        "Work": "https://www.moma.org/collection/works/73041",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNDE5NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1871a948281d17e5",
         "Details": {
-            "Medium": "Woodcut",
-            "Dimensions": "composition: 4 7/16 x 4 7/16\" (11.2 x 11.2 cm); sheet: 8 5/8 x 9 15/16\" (21.9 x 25.2 cm)",
-            "Publisher": "unpublished",
-            "Printer": "Erich Heckel, probably Dresden",
-            "Edition": "unknown (few impressions)",
-            "Credit": "Given anonymously",
-            "Object number": "655.1943",
-            "Copyright": "\u00a9 2023 Erich Heckel / Artists Rights Society (ARS), New York / VG Bild-Kunst, Germany",
+            "Medium": "Lithograph",
+            "Dimensions": "composition: 14 1/4 x 10 7/8\" (36.2 x 27.7cm); sheet: 21 15/16 x 15 1/2\" (55.7 x 39.3cm)",
+            "Printer": "George C. Miller",
+            "Edition": "30",
+            "Credit": "Gift of Abby Aldrich Rockefeller",
+            "Object number": "678.1940",
+            "Copyright": "\u00a9 2023 Jean Charlot/ Artists Rights Society (ARS), New York",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/2569"
+        "Profile": "https://www.moma.org/artists/1074"
     },
     {
-        "Artist": "Erich Heckel",
-        "Title": "Promenade (Spaziergang)",
-        "Year": "1911",
-        "ObjectID": "72695",
-        "Work": "https://www.moma.org/collection/works/72695",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNjQ1NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9740a9593ee85cd1",
+        "Artist": "Jean Charlot",
+        "Title": "Great Builders. 1st Plate",
+        "Year": "1929",
+        "ObjectID": "73096",
+        "Work": "https://www.moma.org/collection/works/73096",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNTM0NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9d7bfdaf20492af6",
         "Details": {
-            "Medium": "Woodcut",
-            "Dimensions": "composition (irreg.): 8 x 9 7/16\" (20.3 x 24 cm); sheet: 10 1/4 x 11 7/16\" (26.1 x 29.1 cm)",
-            "Publisher": "unpublished",
-            "Printer": "Erich Heckel, probably Dresden",
-            "Edition": "unknown (few impressions)",
-            "Credit": "Given anonymously",
-            "Object number": "657.1943",
-            "Copyright": "\u00a9 2023 Erich Heckel / Artists Rights Society (ARS), New York / VG Bild-Kunst, Germany",
+            "Medium": "Lithograph, on zinc",
+            "Dimensions": "Comp. 13 3/4 x 18 5/16\" (34.8 x 46.1 cm)",
+            "Printer": "George C. Miller & Son, New York",
+            "Credit": "Gift of Abby Aldrich Rockefeller",
+            "Object number": "682.1940",
+            "Copyright": "\u00a9 2023 Jean Charlot/ Artists Rights Society (ARS), New York",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/2569"
+        "Profile": "https://www.moma.org/artists/1074"
     },
     {
-        "Artist": "Lewis Wickes Hine",
-        "Title": "Breaker Boys in a Pennsylvania Coal Mine",
-        "Year": "1911",
-        "ObjectID": "44027",
-        "Work": "https://www.moma.org/collection/works/44027",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMDIxOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ffe168329e18b0d4",
+        "Artist": "Jean Charlot",
+        "Title": "Luz Seated (to the right)",
+        "Year": "1929",
+        "ObjectID": "73106",
+        "Work": "https://www.moma.org/collection/works/73106",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5NTkxMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8f2974c2eb47e40b",
         "Details": {
-            "Medium": "Gelatin silver print, printed 1945",
-            "Dimensions": "4 7/16 \u00d7 6 9/16\" (11.3 \u00d7 16.6 cm)",
-            "Credit": "Gift of The Photo League",
-            "Object number": "18.1946",
-            "Department": "Photography"
+            "Medium": "Lithograph",
+            "Dimensions": "composition: 6 1/4 x 4 5/8\" (15.8 x 11.8 cm); sheet: 11 7/16 x 8\" (29 x 20.3 cm)",
+            "Printer": "George C. Miller",
+            "Edition": "10",
+            "Credit": "Gift of Abby Aldrich Rockefeller",
+            "Object number": "683.1940",
+            "Copyright": "\u00a9 2023 Jean Charlot/ Artists Rights Society (ARS), New York",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/2657"
+        "Profile": "https://www.moma.org/artists/1074"
     },
     {
-        "Artist": "Lewis Wickes Hine",
-        "Title": "Coalbreakers, Pittston, Pennsylvania",
-        "Year": "January 1911",
-        "ObjectID": "44080",
-        "Work": "https://www.moma.org/collection/works/44080",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5MzQzOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8d073131082beb91",
+        "Artist": "Jean Charlot",
+        "Title": "Luz Seated (to the left)",
+        "Year": "1929",
+        "ObjectID": "73117",
+        "Work": "https://www.moma.org/collection/works/73117",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5NTkxNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9448db22e735b569",
         "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "4 9/16 \u00d7 6 11/16\" (11.6 \u00d7 17 cm)",
-            "Credit": "Gift of John C. Waddell",
-            "Object number": "21.1992",
-            "Department": "Photography"
+            "Medium": "Lithograph",
+            "Dimensions": "composition: 6 9/16 x 4 11/16\" (16.6 x 11.9 cm); sheet: 11 7/16 x 8 1/16\" (29 x 20.5 cm)",
+            "Printer": "George C. Miller",
+            "Edition": "10",
+            "Credit": "Gift of Abby Aldrich Rockefeller",
+            "Object number": "684.1940",
+            "Copyright": "\u00a9 2023 Jean Charlot/ Artists Rights Society (ARS), New York",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/2657"
+        "Profile": "https://www.moma.org/artists/1074"
     },
     {
-        "Artist": "Lewis Wickes Hine",
-        "Title": "Homework",
-        "Year": "1911",
-        "ObjectID": "54606",
-        "Work": "https://www.moma.org/collection/works/54606",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMTQ2OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6e31865d6c5be347",
+        "Artist": "Jean Charlot",
+        "Title": "Small Builders",
+        "Year": "1929",
+        "ObjectID": "73129",
+        "Work": "https://www.moma.org/collection/works/73129",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5NTkxNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3969cf0b47d2c7cb",
         "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "4 1/8 \u00d7 6 3/16\" (10.5 \u00d7 15.7 cm)",
-            "Credit": "Gift of June Sidman",
-            "Object number": "515.1981",
-            "Department": "Photography"
+            "Medium": "Lithograph",
+            "Dimensions": "composition: 11 1/8 x 8 1/8\" (28.3 x 20.6 cm); sheet: 15 3/4 x 11 7/16\" (40 x 29 cm)",
+            "Printer": "George C. Miller & Son, New York",
+            "Edition": "11",
+            "Credit": "Gift of Abby Aldrich Rockefeller",
+            "Object number": "685.1940",
+            "Copyright": "\u00a9 2023 Jean Charlot/ Artists Rights Society (ARS), New York",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/2657"
+        "Profile": "https://www.moma.org/artists/1074"
     },
     {
-        "Artist": "Lewis Wickes Hine",
-        "Title": "Coalbreakers, Pittston, Pennsylvania",
-        "Year": "January 1911",
-        "ObjectID": "55018",
-        "Work": "https://www.moma.org/collection/works/55018",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5MzUwMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=433cd4a32ff9e3ac",
+        "Artist": "Jean Charlot",
+        "Title": "Maya Workers",
+        "Year": "1929",
+        "ObjectID": "73137",
+        "Work": "https://www.moma.org/collection/works/73137",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MjQ0NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=21c972458fb7a443",
         "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "4 3/4 \u00d7 6 3/4\" (12.0 \u00d7 17.1 cm)",
-            "Credit": "Stephen R. Currier Memorial Fund",
-            "Object number": "550.1970",
-            "Department": "Photography"
+            "Medium": "Lithograph",
+            "Dimensions": "composition: 7 5/16 x 4 9/16\" (18.5 x 11.6cm); sheet: 11 7/16 \u00d7 7 15/16\" (29 \u00d7 20.2 cm)",
+            "Printer": "George C. Miller",
+            "Edition": "11",
+            "Credit": "Gift of Abby Aldrich Rockefeller",
+            "Object number": "686.1940",
+            "Copyright": "\u00a9 2023 Jean Charlot/ Artists Rights Society (ARS), New York",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/2657"
+        "Profile": "https://www.moma.org/artists/1074"
     },
     {
-        "Artist": "Lewis Wickes Hine",
-        "Title": "Peerless Oyster Co., Bay St. Louis, Mississippi",
-        "Year": "March 1911",
-        "ObjectID": "168512",
-        "Work": "https://www.moma.org/collection/works/168512",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3MTkxNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1b48716a9c5373e3",
+        "Artist": "Il'ia Chashnik",
+        "Title": "Suprematist Composition",
+        "Year": "c. 1924",
+        "ObjectID": "38190",
+        "Work": "https://www.moma.org/collection/works/38190",
+        "Thumbnail": null,
         "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "4 11/16 \u00d7 6 5/8\" (11.9 \u00d7 16.8 cm)",
-            "Credit": "Gift of Herbert Weller",
-            "Object number": "477.2013",
-            "Department": "Photography"
+            "Medium": "Watercolor and pencil on paper",
+            "Dimensions": "7 3/4 x 11 3/4\" (19.3 x 29.1 cm)",
+            "Credit": "The Riklis Collection of McCrory Corporation",
+            "Object number": "864.1983",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/2657"
+        "Profile": "https://www.moma.org/artists/23706"
     },
     {
-        "Artist": "Lewis Wickes Hine",
-        "Title": "Fries, Virginia",
-        "Year": "May 1911",
-        "ObjectID": "168513",
-        "Work": "https://www.moma.org/collection/works/168513",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3MTkxNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=75104effe2eb21e2",
+        "Artist": "Il'ia Chashnik",
+        "Title": "Suprematist Composition",
+        "Year": "c. 1924",
+        "ObjectID": "38191",
+        "Work": "https://www.moma.org/collection/works/38191",
+        "Thumbnail": null,
         "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "4 7/16 \u00d7 6 7/16\" (11.3 \u00d7 16.3 cm)",
-            "Credit": "Gift of Herbert Weller",
-            "Object number": "478.2013",
-            "Department": "Photography"
+            "Medium": "Watercolor and pencil on paper",
+            "Dimensions": "5 1/2 x 3 7/8\" (14 x 10 cm)",
+            "Credit": "The Riklis Collection of McCrory Corporation",
+            "Object number": "865.1983",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/2657"
+        "Profile": "https://www.moma.org/artists/23706"
     },
     {
-        "Artist": "Lewis Wickes Hine",
-        "Title": "Alexandria, Virginia",
-        "Year": "June 1911",
-        "ObjectID": "168515",
-        "Work": "https://www.moma.org/collection/works/168515",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3MTkxNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a1b316d6de5440cb",
+        "Artist": "Mikhail Cheremnykh",
+        "Title": "Imperialism and Religion",
+        "Year": "late 1920s",
+        "ObjectID": "6174",
+        "Work": "https://www.moma.org/collection/works/6174",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5NjgxNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=db7f028e23288ade",
         "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "3 3/4 \u00d7 6 9/16\" (9.6 \u00d7 16.6 cm)",
-            "Credit": "Gift of Herbert Weller",
-            "Object number": "479.2013",
-            "Department": "Photography"
+            "Medium": "Lithograph",
+            "Dimensions": "20 x 28 1/4\" (50.8 x 71.8 cm)",
+            "Credit": "Gift of Miss Jessie Rosenfeld",
+            "Object number": "307.1943",
+            "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/2657"
+        "Profile": "https://www.moma.org/artists/38273"
     },
     {
-        "Artist": "Lewis Wickes Hine",
-        "Title": "Riverside Cotton Mills, Danville, Virginia",
-        "Year": "June 1911",
-        "ObjectID": "168516",
-        "Work": "https://www.moma.org/collection/works/168516",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3MTkxOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ad70581088990a3d",
+        "Artist": "Giorgio de Chirico",
+        "Title": "School of the Gladiators II (Scuola di Gladiatori II) from Metamorphosis",
+        "Year": "1929",
+        "ObjectID": "60354",
+        "Work": "https://www.moma.org/collection/works/60354",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNTE3MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=bd4f3e1625590604",
         "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "4 1/2 \u00d7 6 7/16\" (11.4 \u00d7 16.3 cm)",
-            "Credit": "Gift of Herbert Weller",
-            "Object number": "480.2013",
-            "Department": "Photography"
+            "Medium": "One from a portfolio with six lithographs",
+            "Dimensions": "composition: 12 5/16 \u00d7 16 5/16\" (31.2 \u00d7 41.5 cm); sheet: 17 13/16 \u00d7 22 3/16\" (45.2 \u00d7 56.4 cm)",
+            "Publisher": "\u00c9ditions des Quatre Chemins, Paris",
+            "Printer": "\u00c9ditions Jeanne Bucher, Paris",
+            "Edition": "100",
+            "Credit": "Acquired through the Lillie P. Bliss Bequest (by exchange)",
+            "Object number": "26.1948",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / SIAE, Rome",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/2657"
+        "Profile": "https://www.moma.org/artists/1106"
     },
     {
-        "Artist": "Lewis Wickes Hine",
-        "Title": "Danville Cigarette Factory, Danville, Virginia",
-        "Year": "June 1911",
-        "ObjectID": "168517",
-        "Work": "https://www.moma.org/collection/works/168517",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3MTkxOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f9a7a9f729cfd825",
+        "Artist": "Giorgio de Chirico",
+        "Title": "The Archaeologists IV (Gli Archeologi IV) from Metamorphosis",
+        "Year": "1929",
+        "ObjectID": "61074",
+        "Work": "https://www.moma.org/collection/works/61074",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNzcxOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ec72892e22db3fbd",
         "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "4 5/8 \u00d7 4 9/16\" (11.7 \u00d7 11.6 cm)",
-            "Credit": "Gift of Herbert Weller",
-            "Object number": "481.2013",
-            "Department": "Photography"
+            "Medium": "One from a portfolio with six lithographs",
+            "Dimensions": "composition: 15 3/4 x 11 3/4\" (40 x 29.8 cm); sheet: 22 3/8 x 18\" (56.8 x 45.7 cm)",
+            "Publisher": "\u00c9ditions des Quatre Chemins, Paris",
+            "Printer": "\u00c9ditions Jeanne Bucher, Paris",
+            "Edition": "100",
+            "Credit": "Gift of Mrs. Stanley Resor",
+            "Object number": "58.1954",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / SIAE, Rome",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/2657"
+        "Profile": "https://www.moma.org/artists/1106"
     },
     {
-        "Artist": "Lewis Wickes Hine",
-        "Title": "Western Union Messenger, Norfolk, Virginia",
-        "Year": "June 1911",
-        "ObjectID": "168518",
-        "Work": "https://www.moma.org/collection/works/168518",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3MTkyMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=01a9856778b6ae6e",
+        "Artist": "Giorgio de Chirico",
+        "Title": "Hebdomeros from Metamorphosis",
+        "Year": "1929",
+        "ObjectID": "63807",
+        "Work": "https://www.moma.org/collection/works/63807",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNzk5MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4b1d59e5e3e53aaa",
         "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "4 5/8 \u00d7 6 9/16\" (11.8 \u00d7 16.6 cm)",
-            "Credit": "Gift of Herbert Weller",
-            "Object number": "482.2013",
-            "Department": "Photography"
+            "Medium": "One from a portfolio with six lithographs",
+            "Dimensions": "composition: 16 1/8 \u00d7 11 15/16\" (41 \u00d7 30.3 cm); sheet: 22 1/4 \u00d7 17 7/8\" (56.5 \u00d7 45.4 cm)",
+            "Publisher": "\u00c9ditions des Quatre Chemins, Paris",
+            "Printer": "\u00c9ditions Jeanne Bucher, Paris",
+            "Edition": "100",
+            "Credit": "Gift of Abby Aldrich Rockefeller",
+            "Object number": "180.1934",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / SIAE, Rome",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/2657"
+        "Profile": "https://www.moma.org/artists/1106"
+    },
+    {
+        "Artist": "Giorgio de Chirico",
+        "Title": "The Return of the Prodigal Son I (Il Ritorno del Figliol Prodigo I) from Metamorphosis",
+        "Year": "1929",
+        "ObjectID": "63857",
+        "Work": "https://www.moma.org/collection/works/63857",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNzk5MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=89853cbf0fd47675",
+        "Details": {
+            "Medium": "One from a portfolio with six lithographs",
+            "Dimensions": "composition: 16 1/8 \u00d7 12 1/4\" (41 \u00d7 31.1 cm); sheet: 22 3/8 \u00d7 17 3/4\" (56.9 \u00d7 45.1 cm)",
+            "Publisher": "\u00c9ditions des Quatre Chemins, Paris",
+            "Printer": "\u00c9ditions Jeanne Bucher, Paris",
+            "Edition": "100",
+            "Credit": "Gift of Abby Aldrich Rockefeller",
+            "Object number": "182.1934",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / SIAE, Rome",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1106"
+    },
+    {
+        "Artist": "Giorgio de Chirico",
+        "Title": "Villa by the Sea (Villa Sul Mare) from Metamorphosis",
+        "Year": "1929",
+        "ObjectID": "63924",
+        "Work": "https://www.moma.org/collection/works/63924",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNzk5MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0451d8eb2ad68c4f",
+        "Details": {
+            "Medium": "One from a portfolio with six lithographs",
+            "Dimensions": "composition: 12 5/8 \u00d7 16 1/8\" (32.1 \u00d7 41 cm); sheet: 17 13/16 \u00d7 22 3/16\" (45.3 \u00d7 56.3 cm)",
+            "Publisher": "\u00c9ditions des Quatre Chemins, Paris",
+            "Printer": "\u00c9ditions Jeanne Bucher, Paris",
+            "Edition": "100",
+            "Credit": "Gift of Abby Aldrich Rockefeller",
+            "Object number": "183.1934",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / SIAE, Rome",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1106"
+    },
+    {
+        "Artist": "Giorgio de Chirico",
+        "Title": "Gladiator (Gladiatore) from Metamorphosis",
+        "Year": "1929",
+        "ObjectID": "63949",
+        "Work": "https://www.moma.org/collection/works/63949",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNzk5MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=834e334aad5fd3c2",
+        "Details": {
+            "Medium": "One from a portfolio with six lithographs",
+            "Dimensions": "composition: 16 1/8 \u00d7 12 5/8\" (41 \u00d7 32.1 cm); sheet: 22 5/16 \u00d7 17 15/16\" (56.7 \u00d7 45.5 cm)",
+            "Publisher": "\u00c9ditions des Quatre Chemins, Paris",
+            "Printer": "\u00c9ditions Jeanne Bucher, Paris",
+            "Edition": "100",
+            "Credit": "Gift of Abby Aldrich Rockefeller",
+            "Object number": "184.1934",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / SIAE, Rome",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1106"
+    },
+    {
+        "Artist": "Franciska Clausen",
+        "Title": "Untitled",
+        "Year": "1929",
+        "ObjectID": "220979",
+        "Work": "https://www.moma.org/collection/works/220979",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQzNjI2OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=380970a223a5b063",
+        "Details": {
+            "Medium": "Gouache, cut-and-pasted painted paper, ink, and pencil on paper",
+            "Dimensions": "12 1/2 \u00d7 9 1/2\" (31.8 \u00d7 24.1 cm)",
+            "Credit": "The Merrill C. Berman Collection. Acquired through the generosity of Alice and Tom Tisch, Jo Carole and Ronald S. Lauder, Sue and Edgar Wachenheim III, David Booth, Marlene Hess and James D. Zirin, Marie-Jos\u00e9e and Henry R. Kravis, Jack Shear, the Patricia Bonfield Endowed Acquisition Fund for the Design Collection, Daniel and Jane Och, The Orentreich Family Foundation, Emily Rauh Pulitzer, The Modern Women's Fund; and by exchange: Gift of Jean Dubuffet in honor of Mr. and Mrs. Ralph Colin, The Judith Rothschild Foundation Contemporary Drawings Collection, and the Richard S. Zeisler Bequest",
+            "Object number": "420.2018",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VISDA",
+            "Associated work": "The Merrill C. Berman Collection at MoMA",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/69650"
+    },
+    {
+        "Artist": "Fre Cohen",
+        "Title": "Goal and Substance of the Workers' Youth Movement (Doel en Wezen van de Arbeiders Jeugdbeweging) by Koos Vorrink",
+        "Year": "1929",
+        "ObjectID": "280192",
+        "Work": "https://www.moma.org/collection/works/280192",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ1NDkxNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=488e794c23d2bd77",
+        "Details": {
+            "Medium": "Letterpress",
+            "Dimensions": "7 7/8 \u00d7 5 3/4 \u00d7 1/8\" (20 \u00d7 14.6 \u00d7 0.3 cm)",
+            "Publisher": "AJC (Arbeiders Jeugd Centrale), Amsterdam",
+            "Credit": "The Merrill C. Berman Collection. Riva Castleman Endowment",
+            "Object number": "550.2018",
+            "Associated work": "The Merrill C. Berman Collection at MoMA",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/67665"
+    },
+    {
+        "Artist": "Fre Cohen",
+        "Title": "Certificate (Getuigschrift) for an Amsterdam primary school",
+        "Year": "1929",
+        "ObjectID": "280193",
+        "Work": "https://www.moma.org/collection/works/280193",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ0OTUyOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=052515addea79420",
+        "Details": {
+            "Medium": "Letterpress",
+            "Dimensions": "7 5/16 \u00d7 4 15/16\" (18.6 \u00d7 12.5 cm)",
+            "Credit": "The Merrill C. Berman Collection. Riva Castleman Endowment",
+            "Object number": "551.2018",
+            "Associated work": "The Merrill C. Berman Collection at MoMA",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/67665"
     }
 ]

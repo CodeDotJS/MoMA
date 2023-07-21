@@ -1,806 +1,886 @@
 [
     {
-        "Artist": "John Griffiths",
-        "Title": "Camberwell Food Office",
-        "Year": "1955",
-        "ObjectID": "60644",
-        "Work": "https://www.moma.org/collection/works/60644",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNTg3NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d5f17d5ed4d876a6",
+        "Artist": "Andy Warhol",
+        "Title": "Heinz Tomato Ketchup Box [Prototype]",
+        "Year": "1963-64",
+        "ObjectID": "81559",
+        "Work": "https://www.moma.org/collection/works/81559",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyOTk1MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ffa6ba413faadb77",
         "Details": {
-            "Medium": "Screenprint",
-            "Dimensions": "composition: 14 13/16 x 19 3/4\" (37.6 x 50.2 cm); sheet: 15 x 20 1/16\" (38.1 x 51 cm)",
-            "Credit": "Gift of Mrs. Donald B. Straus",
-            "Object number": "38.1958",
-            "Department": "Drawings and Prints"
+            "Medium": "Synthetic polymer paint and silkscreen ink on wood",
+            "Dimensions": "10 1/2 x 15 1/2 x 10 1/2\" (26.7 x 39.4 x 26.7 cm)",
+            "Credit": "Gift of Jasper Johns",
+            "Object number": "527.1998",
+            "Copyright": "\u00a9 2023 Andy Warhol Foundation for the Visual Arts / Artists Rights Society (ARS), New York",
+            "Department": "Painting and Sculpture"
         },
-        "Profile": "https://www.moma.org/artists/2339"
+        "Profile": "https://www.moma.org/artists/6246"
     },
     {
-        "Artist": "Philip Guston",
-        "Title": "Frank",
-        "Year": "1955",
-        "ObjectID": "429495",
-        "Work": "https://www.moma.org/collection/works/429495",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjU0MDYwNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=aea044c2d12d44ba",
+        "Artist": "Andy Warhol",
+        "Title": "Kiss",
+        "Year": "1964",
+        "ObjectID": "141440",
+        "Work": "https://www.moma.org/collection/works/141440",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExMzA3NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2ea079b27e435f20",
         "Details": {
-            "Medium": "Pencil on paper",
-            "Dimensions": "11 \u00d7 8 1/2\" (27.9 \u00d7 21.6 cm)",
-            "Credit": "Gift of the Estate of Bill Berkson",
-            "Object number": "554.2021",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/2419"
-    },
-    {
-        "Artist": "Heinz Hajek-Halke",
-        "Title": "Komposition 333",
-        "Year": "c. 1950",
-        "ObjectID": "205713",
-        "Work": "https://www.moma.org/collection/works/205713",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM3NDY1MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d45b6359c9bcbb58",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "15 7/8 \u00d7 11 11/16\" (40.4 \u00d7 29.7 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "904.2016",
-            "Copyright": "\u00a9 2023 Estate of Heinz Hajek-Halke",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/2458"
-    },
-    {
-        "Artist": "Heinz Hajek-Halke",
-        "Title": "Komposition E G E",
-        "Year": "c. 1950",
-        "ObjectID": "205715",
-        "Work": "https://www.moma.org/collection/works/205715",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM3NDY1NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=89a886c4b9dda997",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "15 7/8 \u00d7 11 11/16\" (40.4 \u00d7 29.7 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "906.2016",
-            "Copyright": "\u00a9 2023 Estate of Heinz Hajek-Halke",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/2458"
-    },
-    {
-        "Artist": "Heinz Hajek-Halke",
-        "Title": "Es war einmal eine aufbluehende Stadt",
-        "Year": "c. 1950",
-        "ObjectID": "205717",
-        "Work": "https://www.moma.org/collection/works/205717",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM3NDY1MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f37b55869b402c2a",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "15 7/8 \u00d7 11 11/16\" (40.4 \u00d7 29.7 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "905.2016",
-            "Copyright": "\u00a9 2023 Estate of Heinz Hajek-Halke",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/2458"
-    },
-    {
-        "Artist": "Heinz Hajek-Halke",
-        "Title": "Komposition Z E N",
-        "Year": "c. 1950",
-        "ObjectID": "205720",
-        "Work": "https://www.moma.org/collection/works/205720",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM3NDY1MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=826703a508ea85f6",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "15 7/8 \u00d7 11 11/16\" (40.4 \u00d7 29.7 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "907.2016",
-            "Copyright": "\u00a9 2023 Estate of Heinz Hajek-Halke",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/2458"
-    },
-    {
-        "Artist": "Philippe Halsman",
-        "Title": "Vice President Richard Nixon, White House",
-        "Year": "1955",
-        "ObjectID": "51919",
-        "Work": "https://www.moma.org/collection/works/51919",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMzYxMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b1af1bf821ccaebd",
-        "Details": {
-            "Sitter": "Richard Nixon",
-            "Medium": "Gelatin silver print",
-            "Dimensions": "9 3/4 \u00d7 7 5/8\" (24.7 \u00d7 19.4 cm)",
-            "Credit": "Gift of Jane Halsman Bello",
-            "Object number": "368.1998",
-            "Copyright": "\u00a9 2023 Halsman Estate",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/2470"
-    },
-    {
-        "Artist": "Hiroshi Hamaya",
-        "Title": "Harvest",
-        "Year": "1955",
-        "ObjectID": "53366",
-        "Work": "https://www.moma.org/collection/works/53366",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMzY3MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=97e004585370cc8e",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "14 1/16 \u00d7 9 1/8\" (35.7 \u00d7 23.1 cm)\r\nsheet  14 1/16 \u00d7 11\" (35.7 \u00d7 28 cm)",
-            "Credit": "Gift of Nihon Keizai Shimbun",
-            "Object number": "437.1959",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/2475"
-    },
-    {
-        "Artist": "Eszter Haraszty",
-        "Title": "Triad",
-        "Year": "c. 1951",
-        "ObjectID": "1615",
-        "Work": "https://www.moma.org/collection/works/1615",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMDc5MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=28951d55fbfcd762",
-        "Details": {
-            "Manufacturer": "Manufactured by Knoll Textiles, New York, NY",
-            "Medium": "Screenprinted cotton",
-            "Dimensions": "64 1/2 x 45\" (163.8 x 114.3 cm)",
-            "Credit": "Gift of the manufacturer, 1955",
-            "Object number": "476.1975.1",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/7336"
-    },
-    {
-        "Artist": "Eszter Haraszty",
-        "Title": "Triad",
-        "Year": "c. 1951",
-        "ObjectID": "1616",
-        "Work": "https://www.moma.org/collection/works/1616",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMDc5NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=259d3a543e27033f",
-        "Details": {
-            "Manufacturer": "Manufactured by Knoll Textiles, New York, NY",
-            "Medium": "Screenprinted cotton",
-            "Dimensions": "59 3/4 x 44\" (151.8 x 111.8 cm)",
-            "Credit": "Gift of the manufacturer",
-            "Object number": "476.1975.2",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/7336"
-    },
-    {
-        "Artist": "Eszter Haraszty",
-        "Title": "Triad",
-        "Year": "c. 1951",
-        "ObjectID": "1617",
-        "Work": "https://www.moma.org/collection/works/1617",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMDc5NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d7b7b6e1e479cbdc",
-        "Details": {
-            "Manufacturer": "Manufactured by Knoll Textiles, New York, NY",
-            "Medium": "Screenprinted cotton",
-            "Dimensions": "61 x 44 1/2\" (155 x 113 cm)",
-            "Credit": "Gift of the manufacturer",
-            "Object number": "476.1975.3",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/7336"
-    },
-    {
-        "Artist": "Eszter Haraszty",
-        "Title": "Tracy Sheer Fabric",
-        "Year": "1952",
-        "ObjectID": "1677",
-        "Work": "https://www.moma.org/collection/works/1677",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMDIzOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a240a384a821a3be",
-        "Details": {
-            "Manufacturer": "Knoll Textiles, New York, NY",
-            "Medium": "Silk gauze",
-            "Dimensions": "55 x 43 1/2\" (139.7 x 110.5 cm)",
-            "Credit": "Gift of the manufacturer",
-            "Object number": "477.1975",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/7336"
-    },
-    {
-        "Artist": "Anthony Harrison",
-        "Title": "The Lamp",
-        "Year": "1955",
-        "ObjectID": "60867",
-        "Work": "https://www.moma.org/collection/works/60867",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNTkwOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=904a64c4e08c6997",
-        "Details": {
-            "Medium": "Aquatint",
-            "Dimensions": "plate: 19 7/8 x 11 3/4\" (50.5 x 29.8cm); sheet: 27 7/16 x 21 3/4\" (69.7 x 55.3cm)",
-            "Credit": "Gift of Mrs. Donald B. Straus",
-            "Object number": "47.1959",
-            "Copyright": "\u00a9 2023 Anthony Harrison / Artists Rights Society (ARS), New York / VISCOPY, Australia",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/2516"
-    },
-    {
-        "Artist": "Keld Helmer-Petersen",
-        "Title": "Untitled",
-        "Year": "c. 1950",
-        "ObjectID": "182639",
-        "Work": "https://www.moma.org/collection/works/182639",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM4MzM3MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e723eee0901c4f97",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "9 1/2 \u00d7 6 9/16\" (24.1 \u00d7 16.7 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "305.2016",
-            "Copyright": "\u00a9 2023 Estate of Keld Helmer-Petersen",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/46203"
-    },
-    {
-        "Artist": "Auguste Herbin",
-        "Title": "Project for a Painting",
-        "Year": "c. 1955",
-        "ObjectID": "38227",
-        "Work": "https://www.moma.org/collection/works/38227",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQwMDYwOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0ffc45817033e764",
-        "Details": {
-            "Medium": "Pencil, crayon, and ink on transparentized paper (recto); Pencil on transparentized paper (verso)",
-            "Dimensions": "13 5/8 x 10 1/2\" (34.6 x 26.7 cm)",
-            "Credit": "The Riklis Collection of McCrory Corporation",
-            "Object number": "897.1983.a-b",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/2602"
-    },
-    {
-        "Artist": "Lucien Herve",
-        "Title": "The Accuser, Delhi, India",
-        "Year": "1955",
-        "ObjectID": "177724",
-        "Work": "https://www.moma.org/collection/works/177724",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5MjA5MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=34eec29af6a28b7c",
-        "Details": {
-            "Medium": "Gelatin silver print, printed 1988",
-            "Dimensions": "10 5/8 \u00d7 11 7/16\" (27 \u00d7 29 cm)",
-            "Credit": "Gift of agn\u00e8s b.",
-            "Object number": "132.2014",
-            "Copyright": "\u00a9 2023 Estate of Lucien Herv\u00e9",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/41224"
-    },
-    {
-        "Artist": "Lucien Herve",
-        "Title": "High Court, Chandigarh, India",
-        "Year": "1955",
-        "ObjectID": "177726",
-        "Work": "https://www.moma.org/collection/works/177726",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5MjA5NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0eb2346bb66e207b",
-        "Details": {
-            "Medium": "Gelatin silver print, printed 1967",
-            "Dimensions": "10 1/4 \u00d7 9 5/8\" (26 \u00d7 24.5 cm)",
-            "Credit": "Gift of Judith Herv\u00e9",
-            "Object number": "133.2014",
-            "Copyright": "\u00a9 2023 Estate of Lucien Herv\u00e9",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/41224"
-    },
-    {
-        "Artist": "Lucien Herve",
-        "Title": "High Court, Chandigarh, India",
-        "Year": "1955",
-        "ObjectID": "177729",
-        "Work": "https://www.moma.org/collection/works/177729",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5MjA5NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3e9e227a063d6aca",
-        "Details": {
-            "Medium": "Gelatin silver print, printed 1967",
-            "Dimensions": "13 3/8 \u00d7 10 1/4\" (34 \u00d7 26 cm)",
-            "Credit": "Gift of agn\u00e8s b.",
-            "Object number": "134.2014",
-            "Copyright": "\u00a9 2023 Estate of Lucien Herv\u00e9",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/41224"
-    },
-    {
-        "Artist": "Susumu Higuchi",
-        "Title": "The Oi River",
-        "Year": "c. 1950",
-        "ObjectID": "48348",
-        "Work": "https://www.moma.org/collection/works/48348",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMDI0MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=31f678df68716276",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "9 7/8 \u00d7 14\" (24.9 \u00d7 35.5 cm)",
-            "Credit": "Gift of Nihon Keizai Shimbun",
-            "Object number": "200.1959",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/2643"
-    },
-    {
-        "Artist": "Susumu Higuchi",
-        "Title": "Cultivated Field on Mountain Slide",
-        "Year": "c. 1950",
-        "ObjectID": "53379",
-        "Work": "https://www.moma.org/collection/works/53379",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMTYyNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=48c24a47f7116590",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "13 15/16 \u00d7 9 5/16\" (35.5 \u00d7 23.6 cm)",
-            "Credit": "Gift of Nihon Keizai Shimbun",
-            "Object number": "438.1959",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/2643"
-    },
-    {
-        "Artist": "Susumu Higuchi",
-        "Title": "Cultivation",
-        "Year": "c. 1950",
-        "ObjectID": "53391",
-        "Work": "https://www.moma.org/collection/works/53391",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMTYyOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=64d921cf588c9928",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "14 \u00d7 10 15/16\" (35.5 \u00d7 27.8 cm)",
-            "Credit": "Gift of Nihon Keizai Shimbun",
-            "Object number": "439.1959",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/2643"
-    },
-    {
-        "Artist": "Armin Hofmann",
-        "Title": "Theater Bau Von der Antike bis zur Moderne",
-        "Year": "1955",
-        "ObjectID": "6270",
-        "Work": "https://www.moma.org/collection/works/6270",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNzk2NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e9dc1d0efb26c7be",
-        "Details": {
-            "Medium": "Offset lithograph",
-            "Dimensions": "50 5/16 x 35 3/16\" (127.8 x 89.4 cm)",
-            "Printer": "Buchdruckerei VSK, Basel",
-            "Credit": "Gift of the Kunstgewerbe Museum, Z\u00fcrich",
-            "Object number": "326.1957",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/2697"
-    },
-    {
-        "Artist": "Koyo Hosoi",
-        "Title": "Bulls and Snow",
-        "Year": "c. 1950",
-        "ObjectID": "48385",
-        "Work": "https://www.moma.org/collection/works/48385",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMTAwNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=888ee7ec68e0deae",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "10 13/16 \u00d7 13 11/16\" (27.5 \u00d7 34.7 cm)",
-            "Credit": "Gift of Nihon Keizai Shimbun",
-            "Object number": "202.1959",
-            "Copyright": "\u00a9 2023 Koyo Hosoi",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/2733"
-    },
-    {
-        "Artist": "IBM Corporation",
-        "Title": "Ferrite Memory Core",
-        "Year": "c. 1955",
-        "ObjectID": "4242",
-        "Work": "https://www.moma.org/collection/works/4242",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ1OTA1MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0fe7f29ba554ffe7",
-        "Details": {
-            "Manufacturer": "IBM, East Fishkill, NY",
-            "Medium": "Copper wiring, ferrite, and plastic",
-            "Dimensions": "10 3/8 x 10 3/8\" (26.4 x 26.4 cm)",
-            "Credit": "Gift of the manufacturer",
-            "Object number": "497.1990.1",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/7636"
-    },
-    {
-        "Artist": "Inagaki Tomoo",
-        "Title": "Pumpkins",
-        "Year": "1955",
-        "ObjectID": "60805",
-        "Work": "https://www.moma.org/collection/works/60805",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNTkwMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=dcb82cb0cba32950",
-        "Details": {
-            "Medium": "Woodcut",
-            "Dimensions": "composition: 13 9/16 x 17 11/16\" (34.4 x 45cm); sheet: 15 7/8 x 19 11/16\" (40.4 x 50cm)",
-            "Credit": "Mrs. Bertram Smith Fund",
-            "Object number": "44.1957",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/2810"
-    },
-    {
-        "Artist": "Takeji Iwamiya",
-        "Title": "Stone Hedge",
-        "Year": "c. 1950",
-        "ObjectID": "53433",
-        "Work": "https://www.moma.org/collection/works/53433",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNDA1NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8a91f01511c856b7",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "7 1/16 \u00d7 14 1/16\" (18 \u00d7 35.7 cm)",
-            "Credit": "Gift of Nihon Keizai Shimbun",
-            "Object number": "442.1959",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/2850"
-    },
-    {
-        "Artist": "Lotte Jacobi",
-        "Title": "Photogenics #303",
-        "Year": "c. 1950",
-        "ObjectID": "52110",
-        "Work": "https://www.moma.org/collection/works/52110",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMzYyNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ae2aae35120af033",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "7 3/8 \u00d7 9 1/2\" (18.7 \u00d7 24.2 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "377.1972",
-            "Copyright": "\u00a9 Lotte Jacobi Collection, University of New Hampshire",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/2868"
-    },
-    {
-        "Artist": "Lotte Jacobi",
-        "Title": "Photogenics #254",
-        "Year": "c. 1950",
-        "ObjectID": "52151",
-        "Work": "https://www.moma.org/collection/works/52151",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMzYyNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=041939ea40f4827d",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "9 3/4 \u00d7 9 1/2\" (24.9 \u00d7 19.0 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "379.1972",
-            "Copyright": "\u00a9 Lotte Jacobi Collection, University of New Hampshire",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/2868"
-    },
-    {
-        "Artist": "Ken Jacobs",
-        "Title": "Orchard Street",
-        "Year": "1955",
-        "ObjectID": "322306",
-        "Work": "https://www.moma.org/collection/works/322306",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMzY2MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0f3222b973d56f63",
-        "Details": {
-            "Object number": "W19523",
+            "Production": "USA",
+            "Medium": "16mm film transferred to video (black and white, silent)",
+            "Duration": "58 min. at 16 fps",
+            "Credit": "The Museum of Modern Art, New York, 1983. Courtesy The Andy Warhol Museum, Pittsburgh, and The Andy Warhol Foundation for the Visual Arts, Inc. Digital media management by MPC New York. Film scanning by Technicolor-PostWorks New York",
+            "Object number": "W6710.18.AV",
+            "Copyright": "\u00a9 2023 Andy Warhol Foundation for the Visual Arts / Artists Rights Society (ARS), New York",
             "Department": "Film"
         },
-        "Profile": "https://www.moma.org/artists/32279"
+        "Profile": "https://www.moma.org/artists/6246"
     },
     {
-        "Artist": "James J. Jacobson",
-        "Title": "Meat Skewer",
-        "Year": "c. 1950",
-        "ObjectID": "2716",
-        "Work": "https://www.moma.org/collection/works/2716",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMDcyMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c297f90416d8804c",
+        "Artist": "Andy Warhol",
+        "Title": "Blow Job",
+        "Year": "1964",
+        "ObjectID": "142425",
+        "Work": "https://www.moma.org/collection/works/142425",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ3MjQ0NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a1b8ce3bd80b3dfa",
         "Details": {
-            "Manufacturer": "Manhattan Wire Goods Co., Inc., USA",
-            "Medium": "Stainless steel wire",
-            "Dimensions": "l. 15 1/2\" (39.4 cm)",
-            "Credit": "Gift of Lewis & Conger",
-            "Object number": "215.1958",
-            "Department": "Architecture and Design"
+            "Medium": "16mm film transferred to video (black and white, silent)",
+            "Duration": "41 min. at 16 fps",
+            "Credit": "The Museum of Modern Art, New York, 1983. Courtesy The Andy Warhol Museum, Pittsburgh, and The Andy Warhol Foundation for the Visual Arts, Inc. Digital media management by MPC New York. Film scanning by Technicolor-PostWorks New York",
+            "Object number": "W6692.10.AV",
+            "Department": "Film"
         },
-        "Profile": "https://www.moma.org/artists/2872"
+        "Profile": "https://www.moma.org/artists/6246"
     },
     {
-        "Artist": "Raymond Jacobs",
-        "Title": "New York",
-        "Year": "c. 1950",
-        "ObjectID": "132324",
-        "Work": "https://www.moma.org/collection/works/132324",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwNzQ3MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9528e4d658eb226a",
+        "Artist": "Andy Warhol",
+        "Title": "Blow Job",
+        "Year": "1964",
+        "ObjectID": "302044",
+        "Work": "https://www.moma.org/collection/works/302044",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ3MjQ0NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c22feb8fb896fd47",
         "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "9 1/16 \u00d7 13 3/4\" (23 \u00d7 34.9 cm)",
-            "Credit": "Edward Steichen Fund",
-            "Object number": "1252.2009",
-            "Copyright": "\u00a9 2023 Raymond Jacobs Estate",
-            "Department": "Photography"
+            "Producer": "Andy Warhol",
+            "Object number": "W6692",
+            "Department": "Film"
         },
-        "Profile": "https://www.moma.org/artists/37679"
+        "Profile": "https://www.moma.org/artists/6246"
     },
     {
-        "Artist": "N. Jay Jaffee",
-        "Title": "Crown Heights, Brooklyn",
-        "Year": "1947-55",
-        "ObjectID": "55985",
-        "Work": "https://www.moma.org/collection/works/55985",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMzUwNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=bbd7feac7c1d430c",
+        "Artist": "Andy Warhol",
+        "Title": "Eat",
+        "Year": "1964",
+        "ObjectID": "303028",
+        "Work": "https://www.moma.org/collection/works/303028",
+        "Thumbnail": null,
         "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "6 1/8 \u00d7 4 3/8\" (15.6 \u00d7 11.1 cm)",
-            "Credit": "Edward Steichen Fund",
-            "Object number": "675.1976",
-            "Department": "Photography"
+            "Producer": "Andy Warhol",
+            "Credit": "Original film elements preserved by The Museum of Modern Art, New York",
+            "Object number": "W6694",
+            "Department": "Film"
         },
-        "Profile": "https://www.moma.org/artists/2878"
+        "Profile": "https://www.moma.org/artists/6246"
     },
     {
-        "Artist": "Jasper Johns",
-        "Title": "Target with Four Faces",
-        "Year": "1955",
-        "ObjectID": "78393",
-        "Work": "https://www.moma.org/collection/works/78393",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxODAzMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cc1a344983ea403d",
+        "Artist": "Andy Warhol",
+        "Title": "Kiss",
+        "Year": "1963-1964",
+        "ObjectID": "303044",
+        "Work": "https://www.moma.org/collection/works/303044",
+        "Thumbnail": null,
         "Details": {
-            "Medium": "Encaustic on newspaper and cloth over canvas surmounted by four tinted-plaster faces in wood box with hinged front",
-            "Dimensions": "Overall, with box open, 33 5/8 x 26 x 3\" (85.3 x 66 x 7.6 cm); canvas 26 x 26\" (66 x 66 cm); box (closed) 3 3/4 x 26 x 3 1/2\" (9.5 x 66 x 8.8 cm)",
-            "Credit": "Gift of Mr. and Mrs. Robert C. Scull",
-            "Object number": "8.1958",
-            "Copyright": "\u00a9 2023 Jasper Johns / Licensed by VAGA at Artists Rights Society (ARS), NY",
-            "Department": "Painting and Sculpture"
+            "Producer": "Andy Warhol",
+            "Object number": "W6710",
+            "Department": "Film"
         },
-        "Profile": "https://www.moma.org/artists/2923"
+        "Profile": "https://www.moma.org/artists/6246"
     },
     {
-        "Artist": "Jasper Johns",
-        "Title": "Green Target",
-        "Year": "1955",
-        "ObjectID": "78401",
-        "Work": "https://www.moma.org/collection/works/78401",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1MTUzNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b13212f8fc2f5c1c",
+        "Artist": "Andy Warhol",
+        "Title": "Andy Warhol Screen Test: Susan Sontag [300.728]",
+        "Year": "1964 (Production Year)",
+        "ObjectID": "316943",
+        "Work": "https://www.moma.org/collection/works/316943",
+        "Thumbnail": null,
         "Details": {
-            "Medium": "Encaustic on newspaper and cloth over canvas",
-            "Dimensions": "60 x 60\" (152.4 x 152.4 cm)",
-            "Credit": "Richard S. Zeisler Fund",
-            "Object number": "9.1958",
-            "Copyright": "\u00a9 2023 Jasper Johns / Licensed by VAGA at Artists Rights Society (ARS), NY",
-            "Department": "Painting and Sculpture"
+            "Producer": "Andy Warhol",
+            "Object number": "W16770",
+            "Department": "Film"
         },
-        "Profile": "https://www.moma.org/artists/2923"
+        "Profile": "https://www.moma.org/artists/6246"
     },
     {
-        "Artist": "Jasper Johns",
-        "Title": "Flag",
-        "Year": "1954-55  (dated on reverse 1954)",
-        "ObjectID": "78805",
-        "Work": "https://www.moma.org/collection/works/78805",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ2NzUxNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9868d9dca7852891",
+        "Artist": "Andy Warhol, John Palmer",
+        "Title": "Empire",
+        "Year": "1964",
+        "ObjectID": "303039",
+        "Work": "https://www.moma.org/collection/works/303039",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMyODE2NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8a70744d1cdeaeec",
         "Details": {
-            "Medium": "Encaustic, oil, and collage on fabric mounted on plywood, three panels",
-            "Dimensions": "42 1/4 x 60 5/8\" (107.3 x 153.8 cm)",
-            "Credit": "Gift of Philip Johnson in honor of Alfred H. Barr, Jr.",
-            "Object number": "106.1973",
-            "Copyright": "\u00a9 2023 Jasper Johns / Licensed by VAGA at Artists Rights Society (ARS), NY",
-            "Department": "Painting and Sculpture"
+            "Producer": "Andy Warhol",
+            "Credit": "Original film elements preserved by The Museum of Modern Art, New York",
+            "Object number": "W6705",
+            "Department": "Film"
         },
-        "Profile": "https://www.moma.org/artists/2923"
+        "Profile": "https://www.moma.org/artists/6246"
     },
     {
-        "Artist": "Jasper Johns",
-        "Title": "Flag",
-        "Year": "1955",
-        "ObjectID": "93261",
-        "Work": "https://www.moma.org/collection/works/93261",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNDczMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=76207326710a9224",
+        "Artist": "Robert Watts",
+        "Title": "Fluxpost 17-17",
+        "Year": "1964",
+        "ObjectID": "73777",
+        "Work": "https://www.moma.org/collection/works/73777",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3NzM0MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ab37c1253fe1a568",
         "Details": {
-            "Medium": "Graphite and graphite wash on prepared paper",
-            "Dimensions": "8 5/8 x 10 1/8\" (21.9 x 25.7 cm)",
-            "Credit": "Gift of Edgar Kaufmann, Jr. (by exchange) and Committee on Drawings Funds",
-            "Object number": "438.2004",
-            "Copyright": "\u00a9 2023 Jasper Johns / Licensed by VAGA at Artists Rights Society (ARS), NY",
+            "Medium": "Offset lithograph",
+            "Dimensions": "sheet  10 7/8 x 8 1/2\" (27 x 21.6 cm)",
+            "Credit": "Purchase",
+            "Object number": "749.1995",
+            "Copyright": "\u00a9 2023 Estate of Robert Watts",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/2923"
+        "Profile": "https://www.moma.org/artists/6269"
     },
     {
-        "Artist": "Consuelo Kanaga",
-        "Title": "Untitled",
-        "Year": "1955",
-        "ObjectID": "58968",
-        "Work": "https://www.moma.org/collection/works/58968",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MjMxNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8437ad4bd0ee1977",
+        "Artist": "Robert Watts",
+        "Title": "Chrome Cabbage",
+        "Year": "1964",
+        "ObjectID": "81980",
+        "Work": "https://www.moma.org/collection/works/81980",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMDAyNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a61b9a2e84ae325f",
         "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "13 1/8 \u00d7 7 1/4\" (33.3 \u00d7 18.4 cm)",
-            "Credit": "The Ben Schultz Memorial Collection. Gift of the photographer",
-            "Object number": "2697.1967",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/2978"
-    },
-    {
-        "Artist": "Eiichiro Katayama",
-        "Title": "Bird's Eye View",
-        "Year": "c. 1950",
-        "ObjectID": "48595",
-        "Work": "https://www.moma.org/collection/works/48595",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMTAxNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=080808c2851a98c0",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "10 3/4 \u00d7 13 3/4\" (27.3 \u00d7 34.9 cm)",
-            "Credit": "Gift of Nihon Keizai Shimbun",
-            "Object number": "212.1959",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/3014"
-    },
-    {
-        "Artist": "Leo Katz",
-        "Title": "Struthiomimus",
-        "Year": "1955",
-        "ObjectID": "62554",
-        "Work": "https://www.moma.org/collection/works/62554",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMzAxOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=84be2e95c4039099",
-        "Details": {
-            "Medium": "Engraving",
-            "Dimensions": "plate: 15 1/16 \u00d7 23 7/8\" (38.3 \u00d7 60.6 cm); sheet: 17 5/8 \u00d7 27 1/16\" (44.8 \u00d7 68.8 cm)",
-            "Publisher": "Atelier 17, New York",
-            "Printer": "the artist at Atelier 17, New York",
-            "Edition": "50",
-            "Credit": "Gift of Miss Lotte Jacobi",
-            "Object number": "135.1964",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/3018"
-    },
-    {
-        "Artist": "Ellsworth Kelly",
-        "Title": "Study for Rebound",
-        "Year": "1955",
-        "ObjectID": "37221",
-        "Work": "https://www.moma.org/collection/works/37221",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMxMDY5OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c914e6905504a3b9",
-        "Details": {
-            "Medium": "Ink and pencil on paper",
-            "Dimensions": "17 5/8 \u00d7 18 3/8\" (44.8 \u00d7 46.7 cm)",
-            "Credit": "Gift of the artist in honor of Dorothy Miller",
-            "Object number": "503.1997",
-            "Copyright": "\u00a9 2023 Ellsworth Kelly",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/3048"
-    },
-    {
-        "Artist": "Ellsworth Kelly",
-        "Title": "White Plaque: Bridge Arch and Reflection",
-        "Year": "1955",
-        "ObjectID": "79793",
-        "Work": "https://www.moma.org/collection/works/79793",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1MTM0MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c6ffd5a0951f857e",
-        "Details": {
-            "Medium": "Oil on wood, two panels separated by a wood strip",
-            "Dimensions": "64 7/8 x 47 7/8\" (164.6 x 121.6 cm)",
-            "Credit": "Fractional and promised gift of Emily Rauh Pulitzer; Vincent D' Aquila and Harry Soviak Bequest Fund, and Enid A. Haupt Fund",
-            "Object number": "468.1996",
-            "Copyright": "\u00a9 2023 Ellsworth Kelly",
+            "Medium": "Chrome plate over plastic cabbage",
+            "Dimensions": "5 1/4 x 7 x 6 3/4\" (13.3 x 18 x 17.2 cm)\r\nbase  2 3/8 x 8 1/8 x 8 1/8\" (6.2 x 20.7 x 20.7 cm)",
+            "Credit": "Patricia Phelps de Cisneros, Emily Rauh Pulitzer and Richard S. Zeisler Funds",
+            "Object number": "1151.2001",
+            "Copyright": "\u00a9 2023 Estate of Robert Watts",
             "Department": "Painting and Sculpture"
         },
-        "Profile": "https://www.moma.org/artists/3048"
+        "Profile": "https://www.moma.org/artists/6269"
     },
     {
-        "Artist": "Ellsworth Kelly",
-        "Title": "Two Blacks, White and Blue",
-        "Year": "1955",
-        "ObjectID": "169713",
-        "Work": "https://www.moma.org/collection/works/169713",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NTY5MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=194e4dbe3839e45b",
+        "Artist": "Robert Watts",
+        "Title": "Yam Ride",
+        "Year": "c. 1962",
+        "ObjectID": "127488",
+        "Work": "https://www.moma.org/collection/works/127488",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NTg2NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8e629b733ac5a64c",
         "Details": {
-            "Medium": "Oil on canvas",
-            "Dimensions": "92 x 24\" (233.7 x 61 cm)",
-            "Credit": "Promised gift of Glenn and Eva Dubin",
-            "Object number": "PG542.2013",
-            "Copyright": "\u00a9 2023 Ellsworth Kelly",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/3048"
-    },
-    {
-        "Artist": "Ellsworth Kelly",
-        "Title": "Six Studies for Red Yellow Blue and Blue Yellow Red",
-        "Year": "1955",
-        "ObjectID": "439006",
-        "Work": "https://www.moma.org/collection/works/439006",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzNzc3MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5c720169cb0a53cc",
-        "Details": {
-            "Medium": "Colored ink and ballpoint pen on paper",
-            "Dimensions": "10 5/8 \u00d7 8 1/4\" (27 \u00d7 21 cm)",
-            "Credit": "In honor of the 2023 Ellsworth Kelly Centennial. Gift of Jack Shear",
-            "Object number": "698.2022",
+            "Medium": "Stencil on rubber tire",
+            "Dimensions": "overall: 3 1/8 x 10 1/2 x 10 1/2\" (8 x 26.6 x 26.6 cm)",
+            "Fabricator": "Robert Watts",
+            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
+            "Object number": "2797.2008",
+            "Copyright": "\u00a9 2023 Estate of Robert Watts",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/3048"
+        "Profile": "https://www.moma.org/artists/6269"
     },
     {
-        "Artist": "Paul Klee",
-        "Title": "Poster for Klee Exhibition at Berggruen & Cie",
-        "Year": "1955",
-        "ObjectID": "5686",
-        "Work": "https://www.moma.org/collection/works/5686",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2OTg2NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=db5423b653c11a91",
+        "Artist": "Robert Watts",
+        "Title": "Mechanical for page 2 of Fluxus cc fiVe ThReE Fluxus newspaper no. 4, June 1964",
+        "Year": "1964",
+        "ObjectID": "127612",
+        "Work": "https://www.moma.org/collection/works/127612",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzODQ1OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=81f0b150c67cb14f",
+        "Details": {
+            "Medium": "Cut-and-pasted printed papers and ink on paper",
+            "Dimensions": "sheet: 22 1/2 x 17 15/16\" (57.2 x 45.5 cm)",
+            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
+            "Object number": "2806.2008",
+            "Copyright": "\u00a9 2023 Estate of Robert Watts",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6269"
+    },
+    {
+        "Artist": "Robert Watts",
+        "Title": "Events",
+        "Year": "1964",
+        "ObjectID": "128149",
+        "Work": "https://www.moma.org/collection/works/128149",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwMDUzNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=882bd5425d07cc42",
+        "Details": {
+            "Medium": "Wood box with offset label, containing 92 offset cards and plastic carrot",
+            "Dimensions": "overall (closed): 5 7/16 x 6 1/2 x 1 7/8\" (13.8 x 16.5 x 4.7 cm)",
+            "Designer": "George Maciunas",
+            "Publisher": "Fluxus",
+            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
+            "Object number": "2808.2008.a-pppp",
+            "Copyright": "\u00a9 2023 Estate of Robert Watts",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6269"
+    },
+    {
+        "Artist": "Robert Watts",
+        "Title": "Flux Rock Marked by Volume in cc",
+        "Year": "1964",
+        "ObjectID": "128151",
+        "Work": "https://www.moma.org/collection/works/128151",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwMTUyMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7d786da20c087597",
+        "Details": {
+            "Medium": "Plastic box with offset label, containing rock with transfer type",
+            "Dimensions": "overall (closed): 2 5/8 x 2 5/8 x 2\" (6.6 x 6.6 x 5.1 cm)",
+            "Designer": "George Maciunas",
+            "Publisher": "Fluxus",
+            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
+            "Object number": "2810.2008",
+            "Copyright": "\u00a9 2023 Estate of Robert Watts",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6269"
+    },
+    {
+        "Artist": "Robert Watts",
+        "Title": "Worm Box",
+        "Year": "1964",
+        "ObjectID": "128661",
+        "Work": "https://www.moma.org/collection/works/128661",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNTg0NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8c400235ec2620c0",
+        "Details": {
+            "Medium": "Chrome plating over steel box and unidentified substrates, with sand",
+            "Dimensions": "overall (box): 6 5/16 x 3 3/8 x 1 3/4\" (16 x 8.5 x 4.5 cm)",
+            "Publisher": "Fluxus",
+            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
+            "Object number": "2894.2008",
+            "Copyright": "\u00a9 2023 Estate of Robert Watts",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6269"
+    },
+    {
+        "Artist": "Robert Watts",
+        "Title": "Chromed Lollipop",
+        "Year": "1964",
+        "ObjectID": "128662",
+        "Work": "https://www.moma.org/collection/works/128662",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNTg0NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4fa1f97331bba906",
+        "Details": {
+            "Medium": "Chrome plating over unidentified substrate",
+            "Dimensions": "overall (approx.): 4 13/16 x 1 3/8 x 1 3/16\" (12.2 x 3.5 x 3 cm)",
+            "Publisher": "Fluxus",
+            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
+            "Object number": "2893.2008",
+            "Copyright": "\u00a9 2023 Estate of Robert Watts",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6269"
+    },
+    {
+        "Artist": "Robert Watts",
+        "Title": "Chromed Pencil",
+        "Year": "c. 1963-64",
+        "ObjectID": "128664",
+        "Work": "https://www.moma.org/collection/works/128664",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNTg0MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6c3d0514690fe505",
+        "Details": {
+            "Medium": "Chrome plating over unidentified substrate with paint additions",
+            "Dimensions": "overall: 7 1/2 x 1/4 x 1/4\" (19 x 0.7 x 0.7 cm)",
+            "Publisher": "Fluxus",
+            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
+            "Object number": "2892.2008",
+            "Copyright": "\u00a9 2023 Estate of Robert Watts",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6269"
+    },
+    {
+        "Artist": "Robert Watts",
+        "Title": "Light Flux Kit",
+        "Year": "1964",
+        "ObjectID": "130572",
+        "Work": "https://www.moma.org/collection/works/130572",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0NzQzMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=aa8b825d4bd76f79",
+        "Details": {
+            "Medium": "Wood box containing five lightbulbs and mirror glass",
+            "Dimensions": "4 \u00d7 15 1/4 \u00d7 2 5/8\" (10.2 \u00d7 38.8 \u00d7 6.7 cm)",
+            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
+            "Object number": "3690.2008.a-g",
+            "Copyright": "\u00a9 2023 Estate of Robert Watts",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6269"
+    },
+    {
+        "Artist": "Robert Watts",
+        "Title": "Events",
+        "Year": "1964",
+        "ObjectID": "131796",
+        "Work": "https://www.moma.org/collection/works/131796",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMyMzc1NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d84400d6e297e2ea",
+        "Details": {
+            "Medium": "Plastic box with offset label, containing ninety-seven offset cards and plastic banana",
+            "Dimensions": "overall (closed): 5 7/16 x 7 1/16 x 1 1/8\" (13.8 x 18 x 2.9 cm)",
+            "Designer": "George Maciunas",
+            "Publisher": "Fluxus",
+            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
+            "Object number": "3479.2008.a-uuuu",
+            "Copyright": "\u00a9 2023 Estate of Robert Watts",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6269"
+    },
+    {
+        "Artist": "Robert Watts",
+        "Title": "Rocks Marked by Wgt",
+        "Year": "1964",
+        "ObjectID": "131849",
+        "Work": "https://www.moma.org/collection/works/131849",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMxNjEyOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=883673d22a146d31",
+        "Details": {
+            "Medium": "Plastic box with offset label, containing seven rocks with transfer type",
+            "Dimensions": "overall (closed): 3 15/16 x 4 11/16 x 7/8\" (10 x 11.9 x 2.3 cm)",
+            "Designer": "George Maciunas",
+            "Publisher": "Fluxus",
+            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
+            "Object number": "3387.2008.a-h",
+            "Copyright": "\u00a9 2023 Estate of Robert Watts",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6269"
+    },
+    {
+        "Artist": "Robert Watts",
+        "Title": "Rocks Marked by Wgt",
+        "Year": "1964",
+        "ObjectID": "131892",
+        "Work": "https://www.moma.org/collection/works/131892",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMxNjE1NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6438c6bdff3151cf",
+        "Details": {
+            "Medium": "Plastic box with offset label, containing seven rocks with paint and pen additions",
+            "Dimensions": "overall (closed): 3 15/16 x 4 11/16 x 7/8\" (10 x 11.9 x 2.3 cm)",
+            "Designer": "George Maciunas",
+            "Publisher": "Fluxus",
+            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
+            "Object number": "3386.2008.a-h",
+            "Copyright": "\u00a9 2023 Estate of Robert Watts",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6269"
+    },
+    {
+        "Artist": "Robert Watts",
+        "Title": "Fluxpost 17-17",
+        "Year": "1964",
+        "ObjectID": "136726",
+        "Work": "https://www.moma.org/collection/works/136726",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQyNDY3OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3344e1da3edc66ed",
+        "Details": {
+            "Medium": "Offset lithograph on gummed and perforated paper",
+            "Dimensions": "sheet: 11 \u00d7 8 7/16\" (28 \u00d7 21.5 cm)",
+            "Publisher": "Fluxus",
+            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
+            "Object number": "3972.2008.x1-x2",
+            "Copyright": "\u00a9 2023 Estate of Robert Watts",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6269"
+    },
+    {
+        "Artist": "Robert Watts",
+        "Title": "Events from Fluxkit",
+        "Year": "1964, assembled 1965",
+        "ObjectID": "149327",
+        "Work": "https://www.moma.org/collection/works/149327",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNTM5NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d8c54e2e012fe140",
+        "Details": {
+            "Medium": "Plastic box with offset label, containing 71 offset cards and one sheet of stamps",
+            "Dimensions": "overall (closed): 5 1/2 \u00d7 7 1/16 \u00d7 1 3/16\" (14 \u00d7 18 \u00d7 3 cm)",
+            "Designer": "George Maciunas",
+            "Publisher": "Fluxus",
+            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
+            "Object number": "2182.2008.19.a-uuu",
+            "Copyright": "\u00a9 2023 Estate of Robert Watts",
+            "Associated work": "Fluxkit",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6269"
+    },
+    {
+        "Artist": "June Wayne",
+        "Title": "Last Conversation",
+        "Year": "1963",
+        "ObjectID": "76272",
+        "Work": "https://www.moma.org/collection/works/76272",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ0MjA1MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9927b2e485256a8e",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "25 3/8 x 18 11/16\" (64.4 x 47.4 cm)",
-            "Publisher": "Mourlot, Paris",
-            "Credit": "Purchase",
-            "Object number": "208.1956",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Dimensions": "composition and sheet: 28 15/16 \u00d7 19 3/16\" (73.5 \u00d7 48.8 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1290.1967",
+            "Copyright": "\u00a9 2023 June Wayne / Licensed by VAGA, New York",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6271"
+    },
+    {
+        "Artist": "June Wayne",
+        "Title": "Three Observers",
+        "Year": "1964",
+        "ObjectID": "76577",
+        "Work": "https://www.moma.org/collection/works/76577",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ0MTcyNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7d5dc37d824c3b79",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition and sheet: 29 15/16 \u00d7 22 3/16\" (76 \u00d7 56.4 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1373.1967",
+            "Copyright": "\u00a9 2023 June Wayne / Licensed by VAGA, New York",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6271"
+    },
+    {
+        "Artist": "June Wayne",
+        "Title": "Walk on the Rocks",
+        "Year": "1964",
+        "ObjectID": "76591",
+        "Work": "https://www.moma.org/collection/works/76591",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ0MjA1MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d41c2b444612bd96",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition and sheet: 30 \u00d7 22 5/16\" (76.2 \u00d7 56.6 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1374.1967",
+            "Copyright": "\u00a9 2023 June Wayne / Licensed by VAGA, New York",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6271"
+    },
+    {
+        "Artist": "Hugo Weber",
+        "Title": "Untitled",
+        "Year": "1964",
+        "ObjectID": "76595",
+        "Work": "https://www.moma.org/collection/works/76595",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition (irreg.): 13 3/16 \u00d7 19 1/8\" (33.5 \u00d7 48.5 cm); sheet: 13 15/16 \u00d7 19 1/8\" (35.4 \u00d7 48.5 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1375.1967",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6274"
+    },
+    {
+        "Artist": "Hugo Weber",
+        "Title": "Black Punch",
+        "Year": "1964",
+        "ObjectID": "76599",
+        "Work": "https://www.moma.org/collection/works/76599",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition and sheet: 22 5/16 \u00d7 30 1/16\" (56.7 \u00d7 76.3 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1376.1967",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6274"
+    },
+    {
+        "Artist": "Hugo Weber",
+        "Title": "Untitled",
+        "Year": "1964",
+        "ObjectID": "76603",
+        "Work": "https://www.moma.org/collection/works/76603",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition and sheet: 15 1/16 \u00d7 22 5/16\" (38.2 \u00d7 56.7 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1377.1967",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6274"
+    },
+    {
+        "Artist": "Hugo Weber",
+        "Title": "L.A. Sunset",
+        "Year": "1964",
+        "ObjectID": "76607",
+        "Work": "https://www.moma.org/collection/works/76607",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition and sheet: 22 1/4 \u00d7 29 15/16\" (56.5 \u00d7 76.1 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1378.1967",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6274"
+    },
+    {
+        "Artist": "Hugo Weber",
+        "Title": "Plum De De",
+        "Year": "1964",
+        "ObjectID": "76611",
+        "Work": "https://www.moma.org/collection/works/76611",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition and sheet: 15 1/8 \u00d7 22 3/16\" (38.4 \u00d7 56.4 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1379.1967",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6274"
+    },
+    {
+        "Artist": "Hugo Weber",
+        "Title": "Untitled",
+        "Year": "1964",
+        "ObjectID": "76615",
+        "Work": "https://www.moma.org/collection/works/76615",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition and sheet: 10 3/4 \u00d7 16 3/16\" (27.3 \u00d7 41.1 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "18, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1380.1967",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6274"
+    },
+    {
+        "Artist": "Hugo Weber",
+        "Title": "Untitled",
+        "Year": "1964",
+        "ObjectID": "76619",
+        "Work": "https://www.moma.org/collection/works/76619",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition and sheet: 18 1/8 \u00d7 26\" (46 \u00d7 66.1 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1381.1967",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6274"
+    },
+    {
+        "Artist": "Hugo Weber",
+        "Title": "L.A. Grisaille",
+        "Year": "1964",
+        "ObjectID": "76623",
+        "Work": "https://www.moma.org/collection/works/76623",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition and sheet: 14 15/16 \u00d7 18 9/16\" (37.9 \u00d7 47.1 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1382.1967",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6274"
+    },
+    {
+        "Artist": "Hugo Weber",
+        "Title": "Smog Ballade",
+        "Year": "1964",
+        "ObjectID": "76627",
+        "Work": "https://www.moma.org/collection/works/76627",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition (irreg.): 13 9/16 \u00d7 21 7/8\" (34.5 \u00d7 55.5 cm); sheet: 15 1/16 \u00d7 22 5/16\" (38.2 \u00d7 56.6 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1383.1967",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6274"
+    },
+    {
+        "Artist": "Hugo Weber",
+        "Title": "Untitled",
+        "Year": "1964",
+        "ObjectID": "76630",
+        "Work": "https://www.moma.org/collection/works/76630",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition and sheet: 22 5/8 \u00d7 30 5/16\" (57.5 \u00d7 77 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1384.1967",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6274"
+    },
+    {
+        "Artist": "Hugo Weber",
+        "Title": "Blue Up",
+        "Year": "1964",
+        "ObjectID": "76633",
+        "Work": "https://www.moma.org/collection/works/76633",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition (irreg.): 23 1/4 \u00d7 31 7/16\" (59.1 \u00d7 79.8 cm); sheet: 27 1/8 \u00d7 33 1/16\" (68.9 \u00d7 83.9 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1385.1967",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6274"
+    },
+    {
+        "Artist": "Hugo Weber",
+        "Title": "P. L.",
+        "Year": "1964",
+        "ObjectID": "76636",
+        "Work": "https://www.moma.org/collection/works/76636",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition (irreg.): 19 5/16 \u00d7 24\" (49 \u00d7 60.9 cm); sheet: 20 1/8 \u00d7 26 1/8\" (51.1 \u00d7 66.3 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1386.1967",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6274"
+    },
+    {
+        "Artist": "Hugo Weber",
+        "Title": "Verdure",
+        "Year": "1964",
+        "ObjectID": "76639",
+        "Work": "https://www.moma.org/collection/works/76639",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition (irreg.) and sheet: 19 5/8 \u00d7 27 1/8\" (49.9 \u00d7 68.9 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1387.1967",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6274"
+    },
+    {
+        "Artist": "Hugo Weber",
+        "Title": "Black II",
+        "Year": "1964",
+        "ObjectID": "76642",
+        "Work": "https://www.moma.org/collection/works/76642",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition: 22 1/4 \u00d7 30 1/16\" (56.5 \u00d7 76.3 cm); sheet: 22 5/16 \u00d7 30 1/16\" (56.7 \u00d7 76.3 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & C",
+            "Object number": "1388.1967",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6274"
+    },
+    {
+        "Artist": "Hugo Weber",
+        "Title": "Spook Noir",
+        "Year": "1964",
+        "ObjectID": "76645",
+        "Work": "https://www.moma.org/collection/works/76645",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition and sheet: 20 5/8 \u00d7 30 1/16\" (52.4 \u00d7 76.3 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1389.1967",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6274"
+    },
+    {
+        "Artist": "Hugo Weber",
+        "Title": "Black Up and Down",
+        "Year": "1964",
+        "ObjectID": "76649",
+        "Work": "https://www.moma.org/collection/works/76649",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition: 22 3/16 \u00d7 30\" (56.3 \u00d7 76.2 cm); sheet: 22 5/16 \u00d7 30\" (56.6 \u00d7 76.2 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1390.1967",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6274"
+    },
+    {
+        "Artist": "Hugo Weber",
+        "Title": "Her House (Chez elle)",
+        "Year": "1964",
+        "ObjectID": "76653",
+        "Work": "https://www.moma.org/collection/works/76653",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition (irreg.): 17 3/8 \u00d7 27 3/8\" (44.2 \u00d7 69.6 cm); sheet: 22 1/16 \u00d7 33 1/8\" (56.1 \u00d7 84.1 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "10, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1391.1967",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6274"
+    },
+    {
+        "Artist": "Hugo Weber",
+        "Title": "Late, Late",
+        "Year": "1964",
+        "ObjectID": "76657",
+        "Work": "https://www.moma.org/collection/works/76657",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition and sheet: 14 7/16 \u00d7 18 3/4\" (36.6 \u00d7 47.6 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1392.1967",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6274"
+    },
+    {
+        "Artist": "Lawrence Weiner",
+        "Title": "Heather Honey",
+        "Year": "1963-64",
+        "ObjectID": "137423",
+        "Work": "https://www.moma.org/collection/works/137423",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MTMwMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8207f5572117c44b",
+        "Details": {
+            "Medium": "Gouache, ink, charcoal, and pencil on paper",
+            "Dimensions": "8 1/8 x 6 1/8\" (20.6 x 15.6 cm)",
+            "Credit": "The Seth Siegelaub Collection. Gift of Richard S. Zeisler (by exchange)",
+            "Object number": "338.2010",
+            "Copyright": "\u00a9 2023 Lawrence Weiner / Artists Rights Society (ARS), New York",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6288"
+    },
+    {
+        "Artist": "Munio Gitai Weinraub",
+        "Title": "Kibbutz Kfar Masaryk, Israel (Ground floor plan)",
+        "Year": "1962-1964",
+        "ObjectID": "161180",
+        "Work": "https://www.moma.org/collection/works/161180",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NDk1MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f322af9711e3ee51",
+        "Details": {
+            "Medium": "Pencil on vellum",
+            "Dimensions": "27 x 38 3/4\" (68.6 x 98.4 cm)",
+            "Credit": "Gift of Amos Gitai courtesy of the Munio Gitai Weinraub Foundation",
+            "Object number": "899.2012",
             "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/3130"
+        "Profile": "https://www.moma.org/artists/39164"
     },
     {
-        "Artist": "William Klein",
-        "Title": "Gun, Gun, Gun, New York",
-        "Year": "1955",
-        "ObjectID": "44260",
-        "Work": "https://www.moma.org/collection/works/44260",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyNzA5MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=edfb6c2331bc6cb1",
+        "Artist": "Munio Gitai Weinraub",
+        "Title": "Kibbutz Kfar Masaryk, Israel (Floor plan)",
+        "Year": "1962-1964",
+        "ObjectID": "161181",
+        "Work": "https://www.moma.org/collection/works/161181",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NDA3NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=45ab9a177d065964",
         "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "9 1/2 \u00d7 13 5/16\" (24.2 \u00d7 33.8 cm)",
-            "Credit": "The Fellows of Photography Fund",
-            "Object number": "30.1992",
-            "Copyright": "\u00a9 2023 William Klein",
-            "Department": "Photography"
+            "Medium": "Ink on vellum",
+            "Dimensions": "26 1/4 x 28 3/8\" (66.7 x 72.1 cm)",
+            "Credit": "Gift of Amos Gitai courtesy of the Munio Gitai Weinraub Foundation",
+            "Object number": "900.2012",
+            "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/3136"
+        "Profile": "https://www.moma.org/artists/39164"
     },
     {
-        "Artist": "William Klein",
-        "Title": "Stickball Team Portrait, 40th Street between 2nd and 3rd Avenues",
-        "Year": "1954-55",
-        "ObjectID": "47039",
-        "Work": "https://www.moma.org/collection/works/47039",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzNjM1OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7ab1aea6d618fdd6",
+        "Artist": "Munio Gitai Weinraub",
+        "Title": "Kibbutz Kfar Masaryk, Israel (Details)",
+        "Year": "1962-1964",
+        "ObjectID": "161182",
+        "Work": "https://www.moma.org/collection/works/161182",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NDk1MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=bf0102b2df45ba4a",
         "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "11 \u00d7 13 7/8\" (28.0 \u00d7 35.2 cm)",
-            "Credit": "Purchase",
-            "Object number": "159.1982",
-            "Copyright": "\u00a9 2023 William Klein",
-            "Department": "Photography"
+            "Medium": "Ink on vellum",
+            "Dimensions": "14 x 27 1/4\" (35.6 x 69.2 cm)",
+            "Credit": "Gift of Amos Gitai courtesy of the Munio Gitai Weinraub Foundation",
+            "Object number": "901.2012",
+            "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/3136"
-    },
-    {
-        "Artist": "William Klein",
-        "Title": "Boy and Dollar, New York",
-        "Year": "1955",
-        "ObjectID": "177224",
-        "Work": "https://www.moma.org/collection/works/177224",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5MTAzNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4fafd85097b38f2f",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "13 5/8 \u00d7 10 3/4\" (34.6 \u00d7 27.3 cm)",
-            "Credit": "Committee on Photography Fund",
-            "Object number": "141.2014",
-            "Copyright": "\u00a9 2023 William Klein",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/3136"
-    },
-    {
-        "Artist": "William Klein",
-        "Title": "Closed on Kind of Fire, New York",
-        "Year": "1955",
-        "ObjectID": "177225",
-        "Work": "https://www.moma.org/collection/works/177225",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5MTAzNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9184f25409a91c46",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "11 \u00d7 13 15/16\" (27.9 \u00d7 35.4 cm)",
-            "Credit": "Committee on Photography Fund",
-            "Object number": "142.2014",
-            "Copyright": "\u00a9 2023 William Klein",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/3136"
+        "Profile": "https://www.moma.org/artists/39164"
     }
 ]

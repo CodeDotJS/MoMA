@@ -1,16 +1,455 @@
 [
     {
+        "Artist": "Paul Mayen",
+        "Title": "Greeting Object",
+        "Year": "1959",
+        "ObjectID": "4539",
+        "Work": "https://www.moma.org/collection/works/4539",
+        "Thumbnail": null,
+        "Details": {
+            "Manufacturer": "Paul Mayen",
+            "Medium": "Chrome-plated metal and paper",
+            "Dimensions": "1/4 x 3 1/4 x 3 1/4\" (0.7 x 8.3 x 8.3 cm)",
+            "Credit": "Gift of the designer",
+            "Object number": "908.1965",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/3860"
+    },
+    {
+        "Artist": "Fred W. McDarrah",
+        "Title": "18 Happenings in 6 Parts, Reuben Gallery, New York, October 1959",
+        "Year": "1959",
+        "ObjectID": "173009",
+        "Work": "https://www.moma.org/collection/works/173009",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwMjA4MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ad01b88f8ce435b0",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "composition: 7 3/8 \u00d7 7 3/8\" (18.8 \u00d7 18.8 cm); sheet: 10 \u00d7 8\" (25.4 \u00d7 20.3 cm)",
+            "Credit": "Gift of the Estate of Fred W. McDarrah",
+            "Object number": "1216.2013.4",
+            "Copyright": "\u00a9 2023 Estate of Fred W. McDarrah",
+            "Associated work": "Allan Kaprow's 18 Happenings in 6 Parts, Reuben Gallery, New York, October 1959",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/30845"
+    },
+    {
+        "Artist": "Fred W. McDarrah",
+        "Title": "18 Happenings in 6 Parts, Reuben Gallery, New York, October 1959",
+        "Year": "1959",
+        "ObjectID": "173010",
+        "Work": "https://www.moma.org/collection/works/173010",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwMjA4MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=769848effb17669f",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "composition: 7 3/8 \u00d7 7 3/8\" (18.8 \u00d7 18.8 cm); sheet: 10 \u00d7 8\" (25.4 \u00d7 20.3 cm)",
+            "Credit": "Gift of the Estate of Fred W. McDarrah",
+            "Object number": "1216.2013.5",
+            "Copyright": "\u00a9 2023 Estate of Fred W. McDarrah",
+            "Associated work": "Allan Kaprow's 18 Happenings in 6 Parts, Reuben Gallery, New York, October 1959",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/30845"
+    },
+    {
+        "Artist": "Fred W. McDarrah",
+        "Title": "18 Happenings in 6 Parts, Reuben Gallery, New York, October 1959",
+        "Year": "1959",
+        "ObjectID": "173011",
+        "Work": "https://www.moma.org/collection/works/173011",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwMjA4MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4bf4b0279fc88fe9",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "composition: 7 3/8 \u00d7 7 3/8\" (18.8 \u00d7 18.8 cm); sheet: 10 \u00d7 8\" (25.4 \u00d7 20.3 cm)",
+            "Credit": "Gift of the Estate of Fred W. McDarrah",
+            "Object number": "1216.2013.6",
+            "Copyright": "\u00a9 2023 Estate of Fred W. McDarrah",
+            "Associated work": "Allan Kaprow's 18 Happenings in 6 Parts, Reuben Gallery, New York, October 1959",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/30845"
+    },
+    {
+        "Artist": "Fred W. McDarrah",
+        "Title": "18 Happenings in 6 Parts, Reuben Gallery, New York, October 1959",
+        "Year": "1959",
+        "ObjectID": "173013",
+        "Work": "https://www.moma.org/collection/works/173013",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwMjA4MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ca67f7e3f1e17d3b",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "composition: 7 3/8 \u00d7 7 3/8\" (18.8 \u00d7 18.8 cm); sheet: 10 \u00d7 8\" (25.4 \u00d7 20.3 cm)",
+            "Credit": "Gift of the Estate of Fred W. McDarrah",
+            "Object number": "1216.2013.7",
+            "Copyright": "\u00a9 2023 Estate of Fred W. McDarrah",
+            "Associated work": "Allan Kaprow's 18 Happenings in 6 Parts, Reuben Gallery, New York, October 1959",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/30845"
+    },
+    {
+        "Artist": "Fred W. McDarrah",
+        "Title": "18 Happenings in 6 Parts, Reuben Gallery, New York, October 1959",
+        "Year": "1959",
+        "ObjectID": "173014",
+        "Work": "https://www.moma.org/collection/works/173014",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwMjA4NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8c3d4bdc4e3adbaf",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "composition: 7 1/2 \u00d7 7 1/2\" (19 \u00d7 19 cm); sheet: 10 \u00d7 8\" (25.4 \u00d7 20.3 cm)",
+            "Credit": "Gift of the Estate of Fred W. McDarrah",
+            "Object number": "1216.2013.8",
+            "Copyright": "\u00a9 2023 Estate of Fred W. McDarrah",
+            "Associated work": "Allan Kaprow's 18 Happenings in 6 Parts, Reuben Gallery, New York, October 1959",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/30845"
+    },
+    {
+        "Artist": "Fred W. McDarrah",
+        "Title": "18 Happenings in 6 Parts, Reuben Gallery, New York, October 1959",
+        "Year": "1959",
+        "ObjectID": "173015",
+        "Work": "https://www.moma.org/collection/works/173015",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwMjA4NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b1cd7804a4776e4d",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "composition: 7 5/16 \u00d7 7 5/16\" (18.5 \u00d7 18.5 cm); sheet: 10 \u00d7 8\" (25.4 \u00d7 20.3 cm)",
+            "Credit": "Gift of the Estate of Fred W. McDarrah",
+            "Object number": "1216.2013.9",
+            "Copyright": "\u00a9 2023 Estate of Fred W. McDarrah",
+            "Associated work": "Allan Kaprow's 18 Happenings in 6 Parts, Reuben Gallery, New York, October 1959",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/30845"
+    },
+    {
+        "Artist": "Fred W. McDarrah",
+        "Title": "Contact sheet of John Cage's class at the New School for Social Research, New York",
+        "Year": "1959",
+        "ObjectID": "173016",
+        "Work": "https://www.moma.org/collection/works/173016",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwMjA4NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2a68f2a657260088",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "10 x 8\" (25.4 x 20.3 cm)",
+            "Credit": "Gift of the Estate of Fred W. McDarrah",
+            "Object number": "1218.2013",
+            "Copyright": "\u00a9 2023 Estate of Fred W. McDarrah",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/30845"
+    },
+    {
+        "Artist": "Fred W. McDarrah",
+        "Title": "18 Happenings in 6 Parts, Reuben Gallery, New York, October 1959",
+        "Year": "1959",
+        "ObjectID": "174997",
+        "Work": "https://www.moma.org/collection/works/174997",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwMjA3MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=88eb6c26b67796fa",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "composition: 10 1/4 x 10 3/16\" (26 x 25.8 cm); sheet: 13 7/8 x 10 7/8\" (35.3 x 27.7 cm)",
+            "Credit": "Gift of the Estate of Fred W. McDarrah",
+            "Object number": "1216.2013.1",
+            "Copyright": "\u00a9 2023 Estate of Fred W. McDarrah",
+            "Associated work": "Allan Kaprow's 18 Happenings in 6 Parts, Reuben Gallery, New York, October 1959",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/30845"
+    },
+    {
+        "Artist": "Fred W. McDarrah",
+        "Title": "18 Happenings in 6 Parts, Reuben Gallery, New York, October 1959",
+        "Year": "1959",
+        "ObjectID": "174998",
+        "Work": "https://www.moma.org/collection/works/174998",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwMjA3OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9177809399d9e7d9",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "composition and sheet: 7 7/16 x 9 1/2\" (18.9 x 24.2 cm)",
+            "Credit": "Gift of the Estate of Fred W. McDarrah",
+            "Object number": "1216.2013.2",
+            "Copyright": "\u00a9 2023 Estate of Fred W. McDarrah",
+            "Associated work": "Allan Kaprow's 18 Happenings in 6 Parts, Reuben Gallery, New York, October 1959",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/30845"
+    },
+    {
+        "Artist": "Fred W. McDarrah",
+        "Title": "Allan Kaprow portrait in front of painted brick wall",
+        "Year": "1959",
+        "ObjectID": "174999",
+        "Work": "https://www.moma.org/collection/works/174999",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwMjA4NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=61c3dd180d62fec1",
+        "Details": {
+            "Sitter": "Allan Kaprow",
+            "Medium": "Gelatin silver print",
+            "Dimensions": "composition and sheet: 7 3/16 x 9 3/16\" (18.3 x 23.4 cm)",
+            "Credit": "Gift of the Estate of Fred W. McDarrah",
+            "Object number": "1217.2013",
+            "Copyright": "\u00a9 2023 Estate of Fred W. McDarrah",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/30845"
+    },
+    {
+        "Artist": "Fred W. McDarrah",
+        "Title": "18 Happenings in 6 Parts, Reuben Gallery, New York, October 1959",
+        "Year": "1959",
+        "ObjectID": "175000",
+        "Work": "https://www.moma.org/collection/works/175000",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwMjA3OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b507ef5179c8c3a6",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "composition and sheet: 7 1/2 x 9 1/2\" (19.1 x 24.1 cm)",
+            "Credit": "Gift of the Estate of Fred W. McDarrah",
+            "Object number": "1216.2013.3",
+            "Copyright": "\u00a9 2023 Estate of Fred W. McDarrah",
+            "Associated work": "Allan Kaprow's 18 Happenings in 6 Parts, Reuben Gallery, New York, October 1959",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/30845"
+    },
+    {
+        "Artist": "Fred W. McDarrah",
+        "Title": "18 Happenings in 6 Parts, Reuben Gallery, New York, October 1959",
+        "Year": "1959 (printed 1992)",
+        "ObjectID": "175001",
+        "Work": "https://www.moma.org/collection/works/175001",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwMjA3NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fd646e742e89bfc9",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "composition: 7 7/16 x 7 7/16\" (18.9 x 18.9 cm); sheet: 9 15/16 x 7 15/16\" (25.3 x 20.2 cm)",
+            "Credit": "Gift of the Estate of Fred W. McDarrah",
+            "Object number": "1216.2013.12",
+            "Copyright": "\u00a9 2023 Estate of Fred W. McDarrah",
+            "Associated work": "Allan Kaprow's 18 Happenings in 6 Parts, Reuben Gallery, New York, October 1959",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/30845"
+    },
+    {
+        "Artist": "Fred W. McDarrah",
+        "Title": "18 Happenings in 6 Parts, Reuben Gallery, New York, October 1959",
+        "Year": "1959 (printed 1992)",
+        "ObjectID": "175003",
+        "Work": "https://www.moma.org/collection/works/175003",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwMjA3MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2f4be348eca8ecc0",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "composition: 7 3/8 x 7 3/8\" (18.7 x 18.7 cm); sheet: 9 15/16 x 8\" (25.3 x 20.3 cm)",
+            "Credit": "Gift of the Estate of Fred W. McDarrah",
+            "Object number": "1216.2013.10",
+            "Copyright": "\u00a9 2023 Estate of Fred W. McDarrah",
+            "Associated work": "Allan Kaprow's 18 Happenings in 6 Parts, Reuben Gallery, New York, October 1959",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/30845"
+    },
+    {
+        "Artist": "Fred W. McDarrah",
+        "Title": "18 Happenings in 6 Parts, Reuben Gallery, New York, October 1959",
+        "Year": "1959 (printed 1992)",
+        "ObjectID": "175004",
+        "Work": "https://www.moma.org/collection/works/175004",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwMjA3NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b7bce17f5d902c97",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "composition: 6 5/16 x 6 1/8\" (16 x 15.6 cm); sheet: 9 15/16 x 7 15/16\" (25.3 x 20.2 cm)",
+            "Credit": "Gift of the Estate of Fred W. McDarrah",
+            "Object number": "1216.2013.11",
+            "Copyright": "\u00a9 2023 Estate of Fred W. McDarrah",
+            "Associated work": "Allan Kaprow's 18 Happenings in 6 Parts, Reuben Gallery, New York, October 1959",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/30845"
+    },
+    {
+        "Artist": "Fred W. McDarrah",
+        "Title": "18 Happenings in 6 Parts, Reuben Gallery, New York, October 1959",
+        "Year": "1959 (printed 1992)",
+        "ObjectID": "175005",
+        "Work": "https://www.moma.org/collection/works/175005",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwMjA3NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=db92c8293af5d46d",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "composition: 7 3/8 x 7 1/2\" (18.7 x 19 cm); sheet: 9 15/16 x 7 15/16\" (25.3 x 20.2 cm)",
+            "Credit": "Gift of the Estate of Fred W. McDarrah",
+            "Object number": "1216.2013.13",
+            "Copyright": "\u00a9 2023 Estate of Fred W. McDarrah",
+            "Associated work": "Allan Kaprow's 18 Happenings in 6 Parts, Reuben Gallery, New York, October 1959",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/30845"
+    },
+    {
+        "Artist": "Fred W. McDarrah",
+        "Title": "18 Happenings in 6 Parts, Reuben Gallery, New York, October 1959",
+        "Year": "1959 (printed 1992)",
+        "ObjectID": "175006",
+        "Work": "https://www.moma.org/collection/works/175006",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwMjA3NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d0fc5d1a44352c96",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "composition: 7 7/16 x 7 7/16\" (18.9 x 18.9 cm); sheet: 9 15/16 x 7 15/16\" (25.3 x 20.2 cm)",
+            "Credit": "Gift of the Estate of Fred W. McDarrah",
+            "Object number": "1216.2013.14",
+            "Copyright": "\u00a9 2023 Estate of Fred W. McDarrah",
+            "Associated work": "Allan Kaprow's 18 Happenings in 6 Parts, Reuben Gallery, New York, October 1959",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/30845"
+    },
+    {
+        "Artist": "James McGarrell",
+        "Title": "Siena, second state",
+        "Year": "1959",
+        "ObjectID": "65078",
+        "Work": "https://www.moma.org/collection/works/65078",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Etching",
+            "Dimensions": "plate: 17 11/16 \u00d7 23 3/4\" (45 \u00d7 60.3 cm); sheet: 19 11/16 \u00d7 27 1/2\" (50 \u00d7 69.9 cm)",
+            "Credit": "Gift of Mr. and Mrs. Carroll L. Cartwright",
+            "Object number": "243.1963",
+            "Copyright": "\u00a9 2023 Estate of James McGarrell",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3884"
+    },
+    {
+        "Artist": "Althea McNish",
+        "Title": "Van Gogh textile",
+        "Year": "1959",
+        "ObjectID": "418700",
+        "Work": "https://www.moma.org/collection/works/418700",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUwNjQxOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f19c83bb5f43451e",
+        "Details": {
+            "Medium": "Screen-printed cotton",
+            "Dimensions": "56 \u00d7 49 1/2\" (142.2 \u00d7 125.7 cm)",
+            "Credit": "Committee on Architecture and Design Funds",
+            "Object number": "301.2020",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/132998"
+    },
+    {
+        "Artist": "Midorikawa Yoichi",
+        "Title": "Lantern, Offering on the Water",
+        "Year": "c. 1950",
+        "ObjectID": "48911",
+        "Work": "https://www.moma.org/collection/works/48911",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1OTQzNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ef0eaee271072e57",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "6 1/8 \u00d7 14\" (15.4 \u00d7 35.4 cm)",
+            "Credit": "Gift of Nihon Keizai Shimbun",
+            "Object number": "222.1959",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/3965"
+    },
+    {
         "Artist": "Ludwig Mies van der Rohe",
-        "Title": "Unidentified sketches",
-        "Year": "1926-46",
-        "ObjectID": "87971",
-        "Work": "https://www.moma.org/collection/works/87971",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNTAyNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a7c4786710c4d2e3",
+        "Title": "Federal Center, Chicago, Illinois (Floor plan)",
+        "Year": "1959",
+        "ObjectID": "87436",
+        "Work": "https://www.moma.org/collection/works/87436",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Pencil and colored pencil on tracing paper",
+            "Dimensions": "21 x 31 1/4\" (53.3 x 79.4 cm)",
+            "Delineator": "Gene Summers",
+            "Credit": "Mies van der Rohe Archive, gift of the architect",
+            "Object number": "MR5904.76",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7166"
+    },
+    {
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "Pavilion Apartments and Town Houses, Lafayette Park, Detroit, MI, Planting plan (Low-rise building. Parcel 21.)",
+        "Year": "1959",
+        "ObjectID": "104008",
+        "Work": "https://www.moma.org/collection/works/104008",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEwNzY1NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=820adab14d630a25",
+        "Details": {
+            "Medium": "Ink on ozalid",
+            "Dimensions": "31 1/4 x 56\" (79.4 x 142.2 cm)",
+            "Credit": "Mies van der Rohe Archive, gift of the architect",
+            "Object number": "MR5506.65",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7166"
+    },
+    {
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "Pavilion Apartments and Town Houses, Lafayette Park, Detroit, MI, Elevations, site plan, key plan (Parcel 20. Low rise. Walk and step ramp.)",
+        "Year": "1959",
+        "ObjectID": "104013",
+        "Work": "https://www.moma.org/collection/works/104013",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEwNzY2MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3d89c16eaa912660",
+        "Details": {
+            "Medium": "Pencil and ink on paper",
+            "Dimensions": "30 x 55 3/4\" (76.2 x 141.6 cm)",
+            "Credit": "Mies van der Rohe Archive, gift of the architect",
+            "Object number": "MR5506.206",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7166"
+    },
+    {
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "Pavilion Apartments and Town Houses, Lafayette Park, Detroit, MI, Site plan (Low-rise building. Types B and C. Parcel 22.)",
+        "Year": "1959",
+        "ObjectID": "104275",
+        "Work": "https://www.moma.org/collection/works/104275",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEwNjY3MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=902d048c7cdd6cff",
+        "Details": {
+            "Medium": "Pencil on ozalid",
+            "Dimensions": "30 x 55 1/2\" (76.2 x 141 cm)",
+            "Credit": "Mies van der Rohe Archive, gift of the architect",
+            "Object number": "MR5506.68",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7166"
+    },
+    {
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "Pavilion Apartments and Town Houses, Lafayette Park, Detroit, MI, Sections, elevation (Revised window details. Stage 2. Parcels 21 and 22.)",
+        "Year": "1959",
+        "ObjectID": "104286",
+        "Work": "https://www.moma.org/collection/works/104286",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEwNjY2NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=efa033b526846abf",
+        "Details": {
+            "Medium": "Pencil on tracing paper",
+            "Dimensions": "21 x 30 1/2\" (53.3 x 77.5 cm)",
+            "Credit": "Mies van der Rohe Archive, gift of the architect",
+            "Object number": "MR5506.204",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7166"
+    },
+    {
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "Pavilion Apartments and Town Houses, Lafayette Park, Detroit, MI, Elevations, sections, and isometric views",
+        "Year": "1959",
+        "ObjectID": "105108",
+        "Work": "https://www.moma.org/collection/works/105108",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEwODc1NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a4f61083408ad74f",
         "Details": {
             "Medium": "Pencil on paper",
-            "Dimensions": "4 1/16 x 6 13/16\" (10.3 x 17.3 cm)",
+            "Dimensions": "30 x 55 3/4\" (76.2 x 141.6 cm)",
             "Credit": "Mies van der Rohe Archive, gift of the architect",
-            "Object number": "1223.1974",
+            "Object number": "MR5506.207",
             "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
             "Department": "Architecture and Design"
         },
@@ -18,16 +457,33 @@
     },
     {
         "Artist": "Ludwig Mies van der Rohe",
-        "Title": "Furniture Details (Perspective and elevation sketches)",
-        "Year": "1926-46",
-        "ObjectID": "87972",
-        "Work": "https://www.moma.org/collection/works/87972",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNTAyOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c672685290743747",
+        "Title": "Colonnade Apartments, Newark, New Jersey, Site plan",
+        "Year": "1959",
+        "ObjectID": "134556",
+        "Work": "https://www.moma.org/collection/works/134556",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NDQ4MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=29f0e8e96a5b097a",
+        "Details": {
+            "Medium": "Pencil and ink on acetate",
+            "Dimensions": "36 1/2 x 63 1/2\" (92.7 x 161.3 cm)",
+            "Credit": "Mies van der Rohe Archive, gift of the architect",
+            "Object number": "MR5801.177",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7166"
+    },
+    {
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "Pavilion Apartments, Newark, New Jersey (Floor plan)",
+        "Year": "1958-1959",
+        "ObjectID": "162643",
+        "Work": "https://www.moma.org/collection/works/162643",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3MjEzNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=db716af29c88e8bf",
         "Details": {
             "Medium": "Pencil on paper",
-            "Dimensions": "4 1/16 x 6 13/16\" (10.3 x 17.3 cm)",
+            "Dimensions": "31 1/4 x 59\" (79.4 x 149.9 cm)",
             "Credit": "Mies van der Rohe Archive, gift of the architect",
-            "Object number": "1224.1974",
+            "Object number": "MR5801.124",
             "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
             "Department": "Architecture and Design"
         },
@@ -35,784 +491,340 @@
     },
     {
         "Artist": "Ludwig Mies van der Rohe",
-        "Title": "Reclining Chair without Arms (Elevation sketch)",
-        "Year": "1926-46",
-        "ObjectID": "87975",
-        "Work": "https://www.moma.org/collection/works/87975",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMjk5MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=481dc2593e1f2d28",
+        "Title": "Pavilion Apartments, Newark, New Jersey (Plan at ceiling of ground floor, building 1)",
+        "Year": "1958-1959",
+        "ObjectID": "274758",
+        "Work": "https://www.moma.org/collection/works/274758",
+        "Thumbnail": null,
         "Details": {
             "Medium": "Pencil on paper",
-            "Dimensions": "4 1/16 x 6 13/16\" (10.3 x 17.3 cm)",
+            "Dimensions": "30 3/4 \u00d7 58 1/4\" (78.1 \u00d7 148 cm)",
             "Credit": "Mies van der Rohe Archive, gift of the architect",
-            "Object number": "1227.1974",
+            "Object number": "MR5801.117",
             "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
             "Department": "Architecture and Design"
         },
         "Profile": "https://www.moma.org/artists/7166"
     },
     {
-        "Artist": "Ludwig Mies van der Rohe",
-        "Title": "Lounge Chair without Arms (Elevation sketches)",
-        "Year": "1926-46",
-        "ObjectID": "87977",
-        "Work": "https://www.moma.org/collection/works/87977",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMjE2MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1aa19924903d45c4",
+        "Artist": "Fumiko Miki",
+        "Title": "Puppet's Head",
+        "Year": "1900-59",
+        "ObjectID": "53481",
+        "Work": "https://www.moma.org/collection/works/53481",
+        "Thumbnail": null,
         "Details": {
-            "Medium": "Pencil on paper",
-            "Dimensions": "8 3/8 x 12 1/4\" (21.2 x 31.1 cm)",
-            "Credit": "Mies van der Rohe Archive, gift of the architect",
-            "Object number": "1229.1974",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Architecture and Design"
+            "Medium": "Gelatin silver print",
+            "Dimensions": "13 1/8 \u00d7 9 5/8\" (33.4 \u00d7 24.5 cm)",
+            "Credit": "Gift of Nihon Keizai Shimbun",
+            "Object number": "446.1959",
+            "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/7166"
+        "Profile": "https://www.moma.org/artists/3971"
     },
     {
-        "Artist": "Ludwig Mies van der Rohe",
-        "Title": "Furniture Joining System Detail (Plan sketches)",
-        "Year": "1926-46",
-        "ObjectID": "87978",
-        "Work": "https://www.moma.org/collection/works/87978",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNTAzMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3b838664a1d97418",
+        "Artist": "Jun Miki",
+        "Title": "Dogs",
+        "Year": "c. 1950",
+        "ObjectID": "53493",
+        "Work": "https://www.moma.org/collection/works/53493",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNDA2MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d0c36f76b692dbbf",
         "Details": {
-            "Medium": "Pencil on paper",
-            "Dimensions": "8 1/4 x 12 15/16\" (20.9 x 32.8 cm)",
-            "Credit": "Mies van der Rohe Archive, gift of the architect",
-            "Object number": "1230.1974",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Architecture and Design"
+            "Medium": "Gelatin silver print",
+            "Dimensions": "11 \u00d7 14 1/4\" (27.9 \u00d7 36.2 cm)",
+            "Credit": "Gift of Nihon Keizai Shimbun",
+            "Object number": "447.1959",
+            "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/7166"
+        "Profile": "https://www.moma.org/artists/3972"
     },
     {
-        "Artist": "Ludwig Mies van der Rohe",
-        "Title": "Furniture Details (Perspective and elevation sketches)",
-        "Year": "1926-46",
-        "ObjectID": "87980",
-        "Work": "https://www.moma.org/collection/works/87980",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNTAzMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fb77f742c9ee7262",
+        "Artist": "Josef Mikl",
+        "Title": "Exhibition at the Gallery St. Stephen, Vienna",
+        "Year": "1959",
+        "ObjectID": "4873",
+        "Work": "https://www.moma.org/collection/works/4873",
+        "Thumbnail": null,
         "Details": {
-            "Medium": "Pencil on paper",
-            "Dimensions": "4 15/16 x 6 1/8\" (12.5 x 15.5 cm.).",
-            "Credit": "Mies van der Rohe Archive, gift of the architect",
-            "Object number": "1232.1974",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Medium": "Lithograph",
+            "Dimensions": "24 x 17\" (60.9 x 43.1 cm)",
+            "Credit": "Gift of Peter Selz",
+            "Object number": "55.1960",
             "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/7166"
+        "Profile": "https://www.moma.org/artists/3974"
     },
     {
-        "Artist": "Ludwig Mies van der Rohe",
-        "Title": "Chair without Arms (Elevation sketches)",
-        "Year": "1926-46",
-        "ObjectID": "87981",
-        "Work": "https://www.moma.org/collection/works/87981",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMjk5MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=bd0980c1e5c269b3",
+        "Artist": "Raul Milian",
+        "Title": "Untitled",
+        "Year": "1959",
+        "ObjectID": "33761",
+        "Work": "https://www.moma.org/collection/works/33761",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3OTMwOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=89c72a0a02f9f010",
         "Details": {
-            "Medium": "Pencil on paper",
-            "Dimensions": "8 1/4 x 12 15/16\" (20.9 x 32.8 cm)",
-            "Credit": "Mies van der Rohe Archive, gift of the architect",
-            "Object number": "1233.1974",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Architecture and Design"
+            "Medium": "Watercolor and ink on paper",
+            "Dimensions": "14 7/8 x 11\" (37.7 x 27.9 cm)",
+            "Credit": "Gift of Emilio del Junco",
+            "Object number": "86.1960",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/7166"
+        "Profile": "https://www.moma.org/artists/3980"
     },
     {
-        "Artist": "Ludwig Mies van der Rohe",
-        "Title": "Unidentified sketches",
-        "Year": "1926-46",
-        "ObjectID": "87982",
-        "Work": "https://www.moma.org/collection/works/87982",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNTAzNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=15f9097e567bfadf",
+        "Artist": "Raul Milian",
+        "Title": "Untitled",
+        "Year": "1959",
+        "ObjectID": "33775",
+        "Work": "https://www.moma.org/collection/works/33775",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3OTMxMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9aaafa79a1e9a66a",
         "Details": {
-            "Medium": "Pencil on paper",
-            "Dimensions": "12 15/16 x 8 1/4\" (32.8 x 20.9 cm)",
-            "Credit": "Mies van der Rohe Archive, gift of the architect",
-            "Object number": "1234.1974",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Architecture and Design"
+            "Medium": "Watercolor and ink on paper",
+            "Dimensions": "15 x 11\" (38.0 x 27.9 cm)",
+            "Credit": "Gift of Emilio del Junco",
+            "Object number": "87.1960",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/7166"
+        "Profile": "https://www.moma.org/artists/3980"
     },
     {
-        "Artist": "Ludwig Mies van der Rohe",
-        "Title": "Chair without Arms. Reclining Chair without Arms. (Perspective and elevation sketches)",
-        "Year": "1926-46",
-        "ObjectID": "87984",
-        "Work": "https://www.moma.org/collection/works/87984",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMjk5NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a82205740ece09d9",
+        "Artist": "Joan Miro",
+        "Title": "Constellations",
+        "Year": "1959",
+        "ObjectID": "29082",
+        "Work": "https://www.moma.org/collection/works/29082",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ1NzI4MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cef340ac44d9f787",
         "Details": {
-            "Medium": "Pencil on paper",
-            "Dimensions": "8 9/16 x 6 3/8\" (21.8 x 16.2 cm)",
-            "Credit": "Mies van der Rohe Archive, gift of the architect",
-            "Object number": "1236.1974",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Architecture and Design"
+            "Author": "Andr\u00e9 Breton",
+            "Medium": "Illustrated book with one lithograph and twenty-two pochoir reproductions after gouache",
+            "Dimensions": "composition (irreg.): 11 3/4 \u00d7 9 7/16\" (29.9 \u00d7 24 cm); page (each, irreg.): 17 3/16 \u00d7 14\" (43.6 \u00d7 35.5 cm); overall (closed): 17 11/16 \u00d7 14 3/8 \u00d7 1 3/8\" (44.9 \u00d7 36.5 \u00d7 3.5 cm)",
+            "Publisher": "Pierre Matisse, New York",
+            "Printer": "Mourlot, Paris, Daniel Jacomet et Cie., Paris",
+            "Edition": "22",
+            "Credit": "The Louis E. Stern Collection",
+            "Object number": "942.1964",
+            "Copyright": "\u00a9 2023 Successi\u00f3  Mir\u00f3 / Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/7166"
+        "Profile": "https://www.moma.org/artists/4016"
     },
     {
-        "Artist": "Ludwig Mies van der Rohe",
-        "Title": "Tables (Perspective and elevation sketches)",
-        "Year": "1926-46",
-        "ObjectID": "87986",
-        "Work": "https://www.moma.org/collection/works/87986",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNTAzNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=abb73e8ab359bf8a",
+        "Artist": "Joan Miro",
+        "Title": "Plate from Constellations",
+        "Year": "1959",
+        "ObjectID": "73191",
+        "Work": "https://www.moma.org/collection/works/73191",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NzY4NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=822b05f490c3fdfe",
         "Details": {
-            "Medium": "Pencil on paper",
-            "Dimensions": "11 1/4 x 8 3/4\" (28.5 x 22.3 cm)",
-            "Credit": "Mies van der Rohe Archive, gift of the architect",
-            "Object number": "1238.1974",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Architecture and Design"
+            "Author": "Andr\u00e9 Breton",
+            "Medium": "Lithograph",
+            "Dimensions": "composition: 11 13/16 \u00d7 9 7/16\" (30 \u00d7 24 cm); sheet: 17 1/8 \u00d7 14\" (43.5 \u00d7 35.6 cm)",
+            "Publisher": "Pierre Matisse, New York",
+            "Printer": "Mourlot, Paris",
+            "Edition": "22",
+            "Credit": "Gift of Pierre Matisse",
+            "Object number": "693.1959",
+            "Copyright": "\u00a9 2023 Successi\u00f3  Mir\u00f3 / Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/7166"
+        "Profile": "https://www.moma.org/artists/4016"
     },
     {
-        "Artist": "Ludwig Mies van der Rohe",
-        "Title": "Furniture Details (Perspective sketches)",
-        "Year": "1926-46",
-        "ObjectID": "87987",
-        "Work": "https://www.moma.org/collection/works/87987",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMjk5NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b98a837435ad0c88",
+        "Artist": "Akira Miyoshi",
+        "Title": "Rock Pattern",
+        "Year": "c. 1950",
+        "ObjectID": "48963",
+        "Work": "https://www.moma.org/collection/works/48963",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1OTQzNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e6a3c81f9b07f5f0",
         "Details": {
-            "Medium": "Pencil on paper",
-            "Dimensions": "11 1/4 x 8 13/16\" (28.5 x 22.4 cm)",
-            "Credit": "Mies van der Rohe Archive, gift of the architect",
-            "Object number": "1239.1974",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Architecture and Design"
+            "Medium": "Gelatin silver print",
+            "Dimensions": "13 15/16 \u00d7 10 13/16\" (35.4 \u00d7 27.4 cm)",
+            "Credit": "Gift of Nihon Keizai Shimbun",
+            "Object number": "223.1959",
+            "Copyright": "\u00a9 2023 Akira Miyoshi",
+            "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/7166"
+        "Profile": "https://www.moma.org/artists/4032"
     },
     {
-        "Artist": "Ludwig Mies van der Rohe",
-        "Title": "Furniture Details (Perspective and elevation sketches)",
-        "Year": "1926-46",
-        "ObjectID": "87988",
-        "Work": "https://www.moma.org/collection/works/87988",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMjk5NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=111a5bb9f264832f",
+        "Artist": "Guido Molinari",
+        "Title": "Yellow Asymmetry",
+        "Year": "1959",
+        "ObjectID": "78693",
+        "Work": "https://www.moma.org/collection/works/78693",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwODE0OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=139588b45607306f",
         "Details": {
-            "Medium": "Pencil on paper",
-            "Dimensions": "11 1/4 x 8 13/16\" (28.5 x 22.4 cm)",
-            "Credit": "Mies van der Rohe Archive, gift of the architect",
-            "Object number": "1240.1974",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Architecture and Design"
+            "Medium": "Synthetic polymer paint on canvas",
+            "Dimensions": "60 x 48\" (152.1 x 122 cm)",
+            "Credit": "Gift of Mr. and Mrs. Monroe Geller",
+            "Object number": "75.1963",
+            "Department": "Painting and Sculpture"
         },
-        "Profile": "https://www.moma.org/artists/7166"
+        "Profile": "https://www.moma.org/artists/4050"
     },
     {
-        "Artist": "Ludwig Mies van der Rohe",
-        "Title": "Furniture Details (Perspective and elevation sketches)",
-        "Year": "1926-46",
-        "ObjectID": "87989",
-        "Work": "https://www.moma.org/collection/works/87989",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMjk5OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=407579d83081f8a3",
+        "Artist": "Ana Maria Moncalvo",
+        "Title": "Abstraction No. 2 (Abstraccion No. 2)",
+        "Year": "1959",
+        "ObjectID": "73953",
+        "Work": "https://www.moma.org/collection/works/73953",
+        "Thumbnail": null,
         "Details": {
-            "Medium": "Pencil on paper",
-            "Dimensions": "11 1/4 x 8 13/16\" (28.5 x 22.4 cm)",
-            "Credit": "Mies van der Rohe Archive, gift of the architect",
-            "Object number": "1241.1974",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Architecture and Design"
+            "Medium": "Etching and aquatint",
+            "Dimensions": "plate: 19 5/16 \u00d7 13 3/8\" (49.1 \u00d7 34 cm); sheet: 23 \u00d7 15 3/8\" (58.4 \u00d7 39 cm)",
+            "Edition": "25",
+            "Credit": "Inter-American Fund",
+            "Object number": "769.1966",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/7166"
+        "Profile": "https://www.moma.org/artists/4056"
     },
     {
-        "Artist": "Ludwig Mies van der Rohe",
-        "Title": "Furniture Joining System Detail (Perspective sketch)",
-        "Year": "1926-46",
-        "ObjectID": "87990",
-        "Work": "https://www.moma.org/collection/works/87990",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMzAwMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cf3c6e39cb48638b",
+        "Artist": "Shiko Munakata",
+        "Title": "Self-Portrait with Boat on the Hudson River",
+        "Year": "1959",
+        "ObjectID": "61746",
+        "Work": "https://www.moma.org/collection/works/61746",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxODczNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3c589565900a6cee",
         "Details": {
-            "Medium": "Pencil on paper",
-            "Dimensions": "11 1/4 x 8 13/16\" (28.5 x 22.4 cm)",
-            "Credit": "Mies van der Rohe Archive, gift of the architect",
-            "Object number": "1242.1974",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Architecture and Design"
+            "Medium": "Woodcut",
+            "Dimensions": "composition: 15 3/4 x 11 13/16\" (40 x 30cm); sheet (irreg.): 21 3/16 x 16 9/16\" (53.8 x 42cm)",
+            "Edition": "70",
+            "Credit": "Blanchette Rockefeller Fund",
+            "Object number": "96.1965",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/7166"
+        "Profile": "https://www.moma.org/artists/4162"
     },
     {
-        "Artist": "Ludwig Mies van der Rohe",
-        "Title": "IIT Metallurgical and Chemical Engineering Building (Perlstein Hall) Chicago, Illinois, Section, structural detail",
-        "Year": "1945-1946",
-        "ObjectID": "88275",
-        "Work": "https://www.moma.org/collection/works/88275",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMTI3NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=832fbf31acca2bab",
+        "Artist": "Shiko Munakata",
+        "Title": "The Visit",
+        "Year": "1959",
+        "ObjectID": "72826",
+        "Work": "https://www.moma.org/collection/works/72826",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NzY4MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=24076c2661a8d23e",
         "Details": {
-            "Medium": "Pencil and colored pencil on vellum",
-            "Dimensions": "36 x 42\" (91.4 x 106.7 cm)",
-            "Credit": "Mies van der Rohe Archive, gift of the architect",
-            "Object number": "MR4512.640",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Architecture and Design"
+            "Medium": "Woodcut",
+            "Dimensions": "composition: 10 3/16 x 11 1/8\" (25.8 x 28.3cm); sheet: 13 1/16 x 15\" (33.2 x 38.1cm)",
+            "Credit": "Blanchette Rockefeller Fund",
+            "Object number": "665.1963",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/7166"
+        "Profile": "https://www.moma.org/artists/4162"
     },
     {
-        "Artist": "Ludwig Mies van der Rohe",
-        "Title": "Chemical Engineering & Metallurgy Building, First Floor Plan",
-        "Year": "1945-46",
-        "ObjectID": "104267",
-        "Work": "https://www.moma.org/collection/works/104267",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEwNjYzNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9b14001f92e9249e",
+        "Artist": "Saburo Murakami",
+        "Title": "Work",
+        "Year": "1959",
+        "ObjectID": "156681",
+        "Work": "https://www.moma.org/collection/works/156681",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1MTIwNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=771f47cd0e35da12",
         "Details": {
-            "Medium": "Pencil on vellum",
-            "Dimensions": "26 x 45 3/4\" (66 x 116.2 cm)",
-            "Credit": "Mies van der Rohe Archive, gift of the architect",
-            "Object number": "MR4512.429",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Architecture and Design"
+            "Medium": "Synthetic resin paint on canvas",
+            "Dimensions": "72 x 58\" (182.9 x 147.3 cm)",
+            "Credit": "Gift of Makiko Murakami and Tomohiko Murakami",
+            "Object number": "529.2012",
+            "Department": "Painting and Sculpture"
         },
-        "Profile": "https://www.moma.org/artists/7166"
+        "Profile": "https://www.moma.org/artists/38991"
     },
     {
-        "Artist": "Ludwig Mies van der Rohe",
-        "Title": "Reclining Chair without Arms (Elevation sketch with figure)",
-        "Year": "1926-46",
-        "ObjectID": "106208",
-        "Work": "https://www.moma.org/collection/works/106208",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMzQ4MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b1f9ac8c8830d7df",
+        "Artist": "Takeo Nagasawa",
+        "Title": "Evening at Twilight",
+        "Year": "c. 1950",
+        "ObjectID": "49094",
+        "Work": "https://www.moma.org/collection/works/49094",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1OTQzOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2cec76b1d5ff0b6d",
         "Details": {
-            "Medium": "Pencil on paper",
-            "Dimensions": "6 3/8 x 8 1/6\" (16.2 x 20.4 cm.)",
-            "Credit": "Mies van der Rohe Archive, gift of the architect",
-            "Object number": "480.1974",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Architecture and Design"
+            "Medium": "Gelatin silver print",
+            "Dimensions": "9 3/16 \u00d7 13 7/8\" (23.3 \u00d7 35.2 cm)",
+            "Credit": "Gift of Nihon Keizai Shimbun",
+            "Object number": "225.1959",
+            "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/7166"
+        "Profile": "https://www.moma.org/artists/4202"
     },
     {
-        "Artist": "Ludwig Mies van der Rohe",
-        "Title": "Reclining Chair without Arms. Chair with Arms. (Elevation sketches)",
-        "Year": "1926-46",
-        "ObjectID": "106225",
-        "Work": "https://www.moma.org/collection/works/106225",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMzUwNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=82d1847c0312cbde",
+        "Artist": "George Nelson Associates",
+        "Title": "\"Fan\" Wall Clock (model 2223)",
+        "Year": "c.1954",
+        "ObjectID": "292718",
+        "Work": "https://www.moma.org/collection/works/292718",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzNjQ0MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=775be10b07afd7a7",
         "Details": {
-            "Medium": "Pencil on paper",
-            "Dimensions": "5 13/16 x 11 1/4\" (14.8 x 28.6 cm)",
-            "Credit": "Mies van der Rohe Archive, gift of the architect",
-            "Object number": "497.1974",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Manufacturer": "Howard Miller Clock Co., Zeeland, MI",
+            "Medium": "Lacquered walnut, aluminum, and lacquered steel",
+            "Dimensions": "3 \u00d7 15\" (7.6 \u00d7 38.1 cm)",
+            "Credit": "Gift of the George R. Kravis II Collection",
+            "Object number": "1275.2018",
             "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/7166"
+        "Profile": "https://www.moma.org/artists/49209"
     },
     {
-        "Artist": "Ludwig Mies van der Rohe",
-        "Title": "Lounge Chair without Arms. Chair without Arms. Chair with Arms. (Five elevation sketches; two elevation sketches; one elevation sketch.)",
-        "Year": "1926-46",
-        "ObjectID": "106236",
-        "Work": "https://www.moma.org/collection/works/106236",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNTAwNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4b2d0a1ef2711c74",
+        "Artist": "Louise Nevelson",
+        "Title": "Hanging Column (from Dawn's Wedding Feast)",
+        "Year": "1959",
+        "ObjectID": "80815",
+        "Work": "https://www.moma.org/collection/works/80815",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNjQ3OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b9a34336c1614234",
         "Details": {
-            "Medium": "Pencil on paper",
-            "Dimensions": "8 1/4 x 12 15/16\" (21 x 32.9 cm)",
-            "Credit": "Mies van der Rohe Archive, gift of the architect",
-            "Object number": "508.1974",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Architecture and Design"
+            "Medium": "Painted wood",
+            "Dimensions": "6' x 6 5/8\" x 6 5/8\" (182.8 x 16.7 x 16.7 cm)",
+            "Credit": "Blanchette Hooker Rockefeller Fund",
+            "Object number": "14.1960",
+            "Copyright": "\u00a9 2023 Estate of Louise Nevelson / Artists Rights Society (ARS), New York",
+            "Department": "Painting and Sculpture"
         },
-        "Profile": "https://www.moma.org/artists/7166"
+        "Profile": "https://www.moma.org/artists/4278"
     },
     {
-        "Artist": "Ludwig Mies van der Rohe",
-        "Title": "Adjustable Day Bed (Elevation sketches)",
-        "Year": "1926-46",
-        "ObjectID": "106243",
-        "Work": "https://www.moma.org/collection/works/106243",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMzUyMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6e1e3ed0a4d8ac72",
+        "Artist": "Louise Nevelson",
+        "Title": "Hanging Column (from Dawn's Wedding Feast)",
+        "Year": "1959",
+        "ObjectID": "80822",
+        "Work": "https://www.moma.org/collection/works/80822",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNjQ4OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=da6b59ec355ac59d",
         "Details": {
-            "Medium": "Pencil on paper",
-            "Dimensions": "8 1/4 x 11 11/16\" (21 x 29.7 cm)",
-            "Credit": "Mies van der Rohe Archive, gift of the architect",
-            "Object number": "515.1974",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Architecture and Design"
+            "Medium": "Painted wood",
+            "Dimensions": "6' x 10 1/8\" x 10 1/8\" (182.8 x 25.7 x 25.7 cm)",
+            "Credit": "Blanchette Hooker Rockefeller Fund",
+            "Object number": "15.1960",
+            "Copyright": "\u00a9 2023 Estate of Louise Nevelson / Artists Rights Society (ARS), New York",
+            "Department": "Painting and Sculpture"
         },
-        "Profile": "https://www.moma.org/artists/7166"
+        "Profile": "https://www.moma.org/artists/4278"
     },
     {
-        "Artist": "Ludwig Mies van der Rohe",
-        "Title": "Reclining Chair without Arms (Elevation sketch)",
-        "Year": "1926-46",
-        "ObjectID": "106261",
-        "Work": "https://www.moma.org/collection/works/106261",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0ODcwOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6d21674332304712",
+        "Artist": "New Era Cap Co., Inc",
+        "Title": "Baseball cap",
+        "Year": "Designed 1950s (this example 2017)",
+        "ObjectID": "223183",
+        "Work": "https://www.moma.org/collection/works/223183",
+        "Thumbnail": null,
         "Details": {
-            "Medium": "Pencil on paper",
-            "Dimensions": "8 5/16 x 11 11/16\" (21.1 x 29.7 cm)",
-            "Credit": "Mies van der Rohe Archive, gift of the architect",
-            "Object number": "533.1974",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Medium": "Wool and cotton",
+            "Dimensions": "4 1/2 \u00d7 7 \u00d7 10 1/2\" (11.4 \u00d7 17.8 \u00d7 26.7 cm)",
+            "Credit": "Gift of New Era Cap Co., Inc.",
+            "Object number": "90.2018",
+            "Copyright": "\u00a9 2023 New Era Cap Co., Inc. Used by permission.",
             "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/7166"
+        "Profile": "https://www.moma.org/artists/67194"
     },
     {
-        "Artist": "Ludwig Mies van der Rohe",
-        "Title": "Lounge Chair without Arms (Three elevation sketches)",
-        "Year": "1926-46",
-        "ObjectID": "106268",
-        "Work": "https://www.moma.org/collection/works/106268",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMzU1MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=71a441f780300244",
+        "Artist": "Key L. Nilson",
+        "Title": "Poker",
+        "Year": "1959",
+        "ObjectID": "54234",
+        "Work": "https://www.moma.org/collection/works/54234",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMjAzNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0bd7c1cc10e4b8d7",
         "Details": {
-            "Medium": "Pencil on paper",
-            "Dimensions": "11 1/4 x 8 7/8\" (63 lb., 22.5 cm)",
-            "Credit": "Mies van der Rohe Archive, gift of the architect",
-            "Object number": "540.1974",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Architecture and Design"
+            "Medium": "Gelatin silver print",
+            "Dimensions": "11 1/2 \u00d7 15 1/4\" (29.0 \u00d7 38.7 cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "487.1960",
+            "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/7166"
-    },
-    {
-        "Artist": "Ludwig Mies van der Rohe",
-        "Title": "Lounge Chair without Arms (Elevation sketch)",
-        "Year": "1926-46",
-        "ObjectID": "106270",
-        "Work": "https://www.moma.org/collection/works/106270",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMzU1NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=780bf0714722f7b9",
-        "Details": {
-            "Medium": "Pencil on paper",
-            "Dimensions": "11 3/16 x 8 7/8\" (28.4 x 22.5 cm)",
-            "Credit": "Mies van der Rohe Archive, gift of the architect",
-            "Object number": "542.1974",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/7166"
-    },
-    {
-        "Artist": "Ludwig Mies van der Rohe",
-        "Title": "Chair without Arms (Three elevation sketches)",
-        "Year": "1926-46",
-        "ObjectID": "106272",
-        "Work": "https://www.moma.org/collection/works/106272",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMzU1NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6d574b6335f63559",
-        "Details": {
-            "Medium": "Pencil on paper",
-            "Dimensions": "11 1/4 x 8 7/8\" (28.6 x 22.5 cm)",
-            "Credit": "Mies van der Rohe Archive, gift of the architect",
-            "Object number": "544.1974",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/7166"
-    },
-    {
-        "Artist": "Ludwig Mies van der Rohe",
-        "Title": "Reclining Chair without Arms (Three elevation sketches)",
-        "Year": "1926-46",
-        "ObjectID": "106275",
-        "Work": "https://www.moma.org/collection/works/106275",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMzU2MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5b546947e8889505",
-        "Details": {
-            "Medium": "Pencil on paper",
-            "Dimensions": "11 1/4 x 8 7/8\" (28.6 x 22.5 cm)",
-            "Credit": "Mies van der Rohe Archive, gift of the architect",
-            "Object number": "547.1974",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/7166"
-    },
-    {
-        "Artist": "Ludwig Mies van der Rohe",
-        "Title": "Lounge Chair with Arms",
-        "Year": "1926-46",
-        "ObjectID": "106276",
-        "Work": "https://www.moma.org/collection/works/106276",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMzU2MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d257c4e724609aa2",
-        "Details": {
-            "Medium": "Pencil on paper",
-            "Dimensions": "8 5/8 x 11 1/8\" (21.9 x 28.3 cm)",
-            "Credit": "Mies van der Rohe Archive, gift of the architect",
-            "Object number": "548.1974",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/7166"
-    },
-    {
-        "Artist": "Ludwig Mies van der Rohe",
-        "Title": "Lounge Chair with and without Arms (Eight elevation sketches)",
-        "Year": "1926-46",
-        "ObjectID": "106282",
-        "Work": "https://www.moma.org/collection/works/106282",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMzU2OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8de41a8c131e0b5b",
-        "Details": {
-            "Medium": "Pencil on paper",
-            "Dimensions": "8 7/8 x 11 1/4\" (22.5 x 28.6 cm)",
-            "Credit": "Mies van der Rohe Archive, gift of the architect",
-            "Object number": "554.1974",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/7166"
-    },
-    {
-        "Artist": "Ludwig Mies van der Rohe",
-        "Title": "Lounge and Reclining Chairs without Arms (Elevation sketches)",
-        "Year": "1926-46",
-        "ObjectID": "106292",
-        "Work": "https://www.moma.org/collection/works/106292",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMzU4NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=085aa9b42100e681",
-        "Details": {
-            "Medium": "Pencil on paper",
-            "Dimensions": "8 1/4 x 11 5/8\" (21 x 29.5 cm)",
-            "Credit": "Mies van der Rohe Archive, gift of the architect",
-            "Object number": "564.1974",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/7166"
-    },
-    {
-        "Artist": "Ludwig Mies van der Rohe",
-        "Title": "Reclining Chair without Arms (Two elevation sketches; one unidentified sketch)",
-        "Year": "1926-46",
-        "ObjectID": "106293",
-        "Work": "https://www.moma.org/collection/works/106293",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMzU4NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2a9db43974ca0242",
-        "Details": {
-            "Medium": "Pencil on paper",
-            "Dimensions": "8 1/4 x 11 11/16\" (21 x 29.7 cm)",
-            "Credit": "Mies van der Rohe Archive, gift of the architect",
-            "Object number": "565.1974",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/7166"
-    },
-    {
-        "Artist": "Ludwig Mies van der Rohe",
-        "Title": "Reclining Chair without Arms (Numerous elevation sketches)",
-        "Year": "1926-46",
-        "ObjectID": "106317",
-        "Work": "https://www.moma.org/collection/works/106317",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0MTgzMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=88510fe35ad145d8",
-        "Details": {
-            "Medium": "Pencil on paper",
-            "Dimensions": "15 3/8 x 11 3/16\" (39.1 x 28.4 cm)",
-            "Credit": "Mies van der Rohe Archive, gift of the architect",
-            "Object number": "589.1974",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/7166"
-    },
-    {
-        "Artist": "Ludwig Mies van der Rohe",
-        "Title": "Chair Frame Detail (Two elevation sketches)",
-        "Year": "1926-46",
-        "ObjectID": "106318",
-        "Work": "https://www.moma.org/collection/works/106318",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMzYzOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=573d2d2aec81e7f1",
-        "Details": {
-            "Medium": "Pencil on paper",
-            "Dimensions": "2 15/16 x 4 1/8\" (7.5 x 10.5 cm)",
-            "Credit": "Mies van der Rohe Archive, gift of the architect",
-            "Object number": "590.1974",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/7166"
-    },
-    {
-        "Artist": "Ludwig Mies van der Rohe",
-        "Title": "Chair with Arms (Two elevation sketches)",
-        "Year": "1926-46",
-        "ObjectID": "106319",
-        "Work": "https://www.moma.org/collection/works/106319",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMzYzOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=988e9480c5765196",
-        "Details": {
-            "Medium": "Pencil on graph paper",
-            "Dimensions": "4 5/8 x 3 1/16\" (11.7 x 7.8 cm)",
-            "Credit": "Mies van der Rohe Archive, gift of the architect",
-            "Object number": "591.1974",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/7166"
-    },
-    {
-        "Artist": "Ludwig Mies van der Rohe",
-        "Title": "Stool (Two elevation sketches)",
-        "Year": "1926-46",
-        "ObjectID": "106320",
-        "Work": "https://www.moma.org/collection/works/106320",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMzY0MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0d810ccb4c1113ea",
-        "Details": {
-            "Medium": "Pencil on paper",
-            "Dimensions": "2 15/16 x 4 1/8\" (7.5 x 10.5 cm)",
-            "Credit": "Mies van der Rohe Archive, gift of the architect",
-            "Object number": "592.1974",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/7166"
-    },
-    {
-        "Artist": "Ludwig Mies van der Rohe",
-        "Title": "Lounge Chair with Arms (Elevation sketch)",
-        "Year": "1926-46",
-        "ObjectID": "106321",
-        "Work": "https://www.moma.org/collection/works/106321",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMjIwOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=638fb4393400c0e9",
-        "Details": {
-            "Medium": "Pencil on paper",
-            "Dimensions": "2 15/16 x 4 1/8\" (7.5 x 10.5 cm)",
-            "Credit": "Mies van der Rohe Archive, gift of the architect",
-            "Object number": "593.1974",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/7166"
-    },
-    {
-        "Artist": "Ludwig Mies van der Rohe",
-        "Title": "Chair with Arms (Elevation sketch)",
-        "Year": "1926-46",
-        "ObjectID": "106322",
-        "Work": "https://www.moma.org/collection/works/106322",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMjIxMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=61372a1d3a8cdf28",
-        "Details": {
-            "Medium": "Pencil on paper",
-            "Dimensions": "2 15/16 x 4 1/8\" (7.5 x 10.5 cm)",
-            "Credit": "Mies van der Rohe Archive, gift of the architect",
-            "Object number": "594.1974",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/7166"
-    },
-    {
-        "Artist": "Ludwig Mies van der Rohe",
-        "Title": "Lounge Chair with Arms (Six elevation sketches)",
-        "Year": "1926-46",
-        "ObjectID": "106326",
-        "Work": "https://www.moma.org/collection/works/106326",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMzY0NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2e43b0b2e995f995",
-        "Details": {
-            "Medium": "Pencil on paper",
-            "Dimensions": "4 1/8 x 5 7/8\" (10.5 x 14.9 cm)",
-            "Credit": "Mies van der Rohe Archive, gift of the architect",
-            "Object number": "598.1974",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/7166"
-    },
-    {
-        "Artist": "Ludwig Mies van der Rohe",
-        "Title": "Lounge Chair with and without Arms (Elevation sketches)",
-        "Year": "1926-46",
-        "ObjectID": "106328",
-        "Work": "https://www.moma.org/collection/works/106328",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMjIxNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=018186bf9e254f6b",
-        "Details": {
-            "Medium": "Pencil on paper",
-            "Dimensions": "8 15/16 x 6\" (22.7 x 15.2 cm)",
-            "Credit": "Mies van der Rohe Archive, gift of the architect",
-            "Object number": "600.1974",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/7166"
-    },
-    {
-        "Artist": "Ludwig Mies van der Rohe",
-        "Title": "Lounge Chair without Arms (Two elevation sketches)",
-        "Year": "1926-46",
-        "ObjectID": "106329",
-        "Work": "https://www.moma.org/collection/works/106329",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMzY1MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f4bf265c0fbe6d17",
-        "Details": {
-            "Medium": "Pencil and colored pencil on paper",
-            "Dimensions": "6 1/2 x 8 5/16\" (16.5 x 21.1 cm)",
-            "Credit": "Mies van der Rohe Archive, gift of the architect",
-            "Object number": "601.1974",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/7166"
-    },
-    {
-        "Artist": "Ludwig Mies van der Rohe",
-        "Title": "Lounge Chair with Rocker without Arm, with Figure (Perspective sketch)",
-        "Year": "1926-46",
-        "ObjectID": "106331",
-        "Work": "https://www.moma.org/collection/works/106331",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ0Njg3NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=bdbfa7f426fbcc1e",
-        "Details": {
-            "Medium": "Pencil and colored pencil on paper",
-            "Dimensions": "8 5/16 x 11 5/8\" (21.1 x 29.5 cm)",
-            "Credit": "Mies van der Rohe Archive, gift of the architect",
-            "Object number": "603.1974",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/7166"
-    },
-    {
-        "Artist": "Ludwig Mies van der Rohe",
-        "Title": "MR 10 Chair (Perspective sketch)",
-        "Year": "1926-46",
-        "ObjectID": "106347",
-        "Work": "https://www.moma.org/collection/works/106347",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNTkwMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=aff41fe2ab4b1b26",
-        "Details": {
-            "Medium": "Pencil on paper",
-            "Dimensions": "11 1/4 x 8 11/16\" (28.6 x 22.1 cm)",
-            "Credit": "Mies van der Rohe Archive, gift of the architect",
-            "Object number": "619.1974",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/7166"
-    },
-    {
-        "Artist": "Ludwig Mies van der Rohe",
-        "Title": "Lounge Chair with Arms (Elevation sketch)",
-        "Year": "1926-46",
-        "ObjectID": "106351",
-        "Work": "https://www.moma.org/collection/works/106351",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMjIxNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=34df3069b60f2bc7",
-        "Details": {
-            "Medium": "Pencil on paper",
-            "Dimensions": "10 5/8 x 8 1/4\" (27 x 21 cm)",
-            "Credit": "Mies van der Rohe Archive, gift of the architect",
-            "Object number": "623.1974",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/7166"
-    },
-    {
-        "Artist": "Ludwig Mies van der Rohe",
-        "Title": "Chair Frame Detail (Elevation sketch)",
-        "Year": "1926-46",
-        "ObjectID": "106361",
-        "Work": "https://www.moma.org/collection/works/106361",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMjIyMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d44d01dafd51ec93",
-        "Details": {
-            "Medium": "Pencil on paper",
-            "Dimensions": "11 1/4 x 8 7/8\" (28.6 x 22.5 cm)",
-            "Credit": "Mies van der Rohe Archive, gift of the architect",
-            "Object number": "633.1974",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/7166"
-    },
-    {
-        "Artist": "Ludwig Mies van der Rohe",
-        "Title": "Lounge Chairs with Figures (Two elevation sketches)",
-        "Year": "1926-46",
-        "ObjectID": "106363",
-        "Work": "https://www.moma.org/collection/works/106363",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMjIyMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=46d72b0b1d85004d",
-        "Details": {
-            "Medium": "Pencil on paper",
-            "Dimensions": "8 7/8 x 11 1/4\" (22.5 x 28.6 cm)",
-            "Credit": "Mies van der Rohe Archive, gift of the architect",
-            "Object number": "635.1974",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/7166"
-    },
-    {
-        "Artist": "Ludwig Mies van der Rohe",
-        "Title": "Lounge Chair with Arms (Perspective sketch; elevation sketches. Frame details.)",
-        "Year": "1926-46",
-        "ObjectID": "106365",
-        "Work": "https://www.moma.org/collection/works/106365",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNjE2NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1ccfee52b2e9183f",
-        "Details": {
-            "Medium": "Pencil on paper",
-            "Dimensions": "8 7/8 x 11 1/4\" (22.5 x 28.6 cm)",
-            "Credit": "Mies van der Rohe Archive, gift of the architect",
-            "Object number": "637.1974",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/7166"
-    },
-    {
-        "Artist": "Ludwig Mies van der Rohe",
-        "Title": "Lounge Chair with Arms (Perspective sketch; two elevation sketches)",
-        "Year": "1926-46",
-        "ObjectID": "106367",
-        "Work": "https://www.moma.org/collection/works/106367",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMjIyNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ee10b4ce5929a0d1",
-        "Details": {
-            "Medium": "Pencil on paper",
-            "Dimensions": "11 1/4 x 8 7/8\" (28.6 x 22.5 cm)",
-            "Credit": "Mies van der Rohe Archive, gift of the architect",
-            "Object number": "639.1974",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/7166"
-    },
-    {
-        "Artist": "Ludwig Mies van der Rohe",
-        "Title": "Lounge Chair with Arms (Two elevation sketches)",
-        "Year": "1926-46",
-        "ObjectID": "106368",
-        "Work": "https://www.moma.org/collection/works/106368",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMjIyNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=98b19762115b69ea",
-        "Details": {
-            "Medium": "Pencil on paper",
-            "Dimensions": "11 1/4 x 8 7/8\" (28.6 x 22.5 cm)",
-            "Credit": "Mies van der Rohe Archive, gift of the architect",
-            "Object number": "640.1974",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/7166"
-    },
-    {
-        "Artist": "Ludwig Mies van der Rohe",
-        "Title": "Lounge Chair with Arms (Perspective sketch and six elevation sketches)",
-        "Year": "1926-46",
-        "ObjectID": "106370",
-        "Work": "https://www.moma.org/collection/works/106370",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMjIyNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=166980e652d5cb47",
-        "Details": {
-            "Medium": "Pencil on paper",
-            "Dimensions": "8 7/8 x 11 1/4\" (22.5 x 28.6 cm)",
-            "Credit": "Mies van der Rohe Archive, gift of the architect",
-            "Object number": "642.1974",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/7166"
-    },
-    {
-        "Artist": "Ludwig Mies van der Rohe",
-        "Title": "Lounge Chair with Arms (Perspective sketch and three elevation sketches)",
-        "Year": "1926-46",
-        "ObjectID": "106371",
-        "Work": "https://www.moma.org/collection/works/106371",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMzY5NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0b95494c27fe4e77",
-        "Details": {
-            "Medium": "Pencil on paper",
-            "Dimensions": "8 7/8 x 11 1/4\" (22.5 x 28.6 cm)",
-            "Credit": "Mies van der Rohe Archive, gift of the architect",
-            "Object number": "643.1974",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/7166"
+        "Profile": "https://www.moma.org/artists/4307"
     }
 ]

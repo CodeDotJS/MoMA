@@ -1,1040 +1,830 @@
 [
     {
-        "Artist": "Louise Bourgeois",
-        "Title": "Male and Female",
-        "Year": "2001",
-        "ObjectID": "119581",
-        "Work": "https://www.moma.org/collection/works/119581",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MTYxMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e1251e3dc68c5fc8",
+        "Artist": "Ximena Cuevas",
+        "Title": "Colchones Individuales (Single Beds) Volume 1: Desolacion",
+        "Year": "2002",
+        "ObjectID": "118639",
+        "Work": "https://www.moma.org/collection/works/118639",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNTc1NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=49c6e7a9141a73cf",
         "Details": {
-            "State/variant": "Diptych: Version 1 of 3, state I of VII, variant, and version 2 of 3, state I of VIII",
-            "Medium": "Drypoint (2 plates), with hand additions",
-            "Dimensions": "plate (each): 13 7/8 x 9 15/16\" (35.2 x 25.3 cm); sheet: 17 5/16 x 22 7/16\" (44 x 57 cm)",
-            "Publisher": "unpublished",
-            "Printer": "Harlan & Weaver, New York",
-            "Edition": "5 known diptychs, outside the edition",
-            "Impresssion": "Not numbered",
+            "Medium": "Video (black and white and color, sound)",
+            "Duration": "18 min.",
             "Credit": "Gift of the artist",
-            "Object number": "1509.2008",
-            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/710"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "Male from Male and Female",
-        "Year": "2001",
-        "ObjectID": "119585",
-        "Work": "https://www.moma.org/collection/works/119585",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MTYyNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d549267b453c8ef2",
-        "Details": {
-            "State/variant": "Version 2 of 3, state I of VIII, variant",
-            "Medium": "Drypoint, with selective wiping, and hand additions",
-            "Dimensions": "plate: 13 15/16 x 10\" (35.2 x 25.2 cm); sheet: 15 3/16 x 10 5/8\" (38.5 x 27 cm)",
-            "Publisher": "unpublished",
-            "Printer": "Harlan & Weaver, New York",
-            "Edition": "4 known variant impressions of version 2, state I",
-            "Impresssion": "Not numbered",
-            "Credit": "Gift of the artist",
-            "Object number": "1516.2008",
-            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/710"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "Untitled",
-        "Year": "2001",
-        "ObjectID": "119594",
-        "Work": "https://www.moma.org/collection/works/119594",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1ODQzNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=82cc7b6ac4c52502",
-        "Details": {
-            "State/variant": "Only state, variant",
-            "Medium": "Drypoint and engraving, with hand additions",
-            "Dimensions": "plate: 7 7/8 x 9 15/16\" (20 x 25.3 cm); sheet: 10 1/8 x 16 3/8\" (25.7 x 41.6 cm)",
-            "Publisher": "unpublished",
-            "Printer": "Harlan & Weaver, New York",
-            "Edition": "4 known impressions of the only state",
-            "Impresssion": "Not numbered",
-            "Credit": "Gift of the artist",
-            "Object number": "1547.2008",
-            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/710"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "Untitled",
-        "Year": "2001",
-        "ObjectID": "119595",
-        "Work": "https://www.moma.org/collection/works/119595",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1ODQzNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=89c383a38dca23c5",
-        "Details": {
-            "State/variant": "Only state, variant",
-            "Medium": "Drypoint and engraving, with hand additions",
-            "Dimensions": "plate: 7 7/8 x 9 15/16\" (20 x 25.3 cm); sheet: 10 1/16 x 15 9/16\" (25.5 x 39.5 cm)",
-            "Publisher": "unpublished",
-            "Printer": "Harlan & Weaver, New York",
-            "Edition": "4 known impressions of the only state",
-            "Impresssion": "Not numbered",
-            "Credit": "Gift of the artist",
-            "Object number": "1548.2008",
-            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/710"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "Untitled, state VI of VII",
-        "Year": "c. 2001",
-        "ObjectID": "119646",
-        "Work": "https://www.moma.org/collection/works/119646",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1NTUxMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=33d85ff50d9a29c1",
-        "Details": {
-            "State/variant": "State VI of VII",
-            "Medium": "Engraving and drypoint, with hand additions",
-            "Dimensions": "plate: 6 15/16 \u00d7 4 15/16\" (17.7 \u00d7 12.5 cm); sheet: 14 7/8 x 10 1/16\" (37.8 x 25.5 cm)",
-            "Publisher": "unpublished",
-            "Printer": "Harlan & Weaver, New York",
-            "Edition": "1 known impression of state VI",
-            "Impresssion": "Not numbered",
-            "Credit": "Gift of the artist",
-            "Object number": "1398.2008",
-            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/710"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "Untitled, state V of VII",
-        "Year": "c. 2001",
-        "ObjectID": "119647",
-        "Work": "https://www.moma.org/collection/works/119647",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1NTUxMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=bee8b2405feef1c3",
-        "Details": {
-            "State/variant": "State V of VII",
-            "Medium": "Engraving and drypoint, with hand additions",
-            "Dimensions": "plate: 6 15/16 \u00d7 4 15/16\" (17.7 \u00d7 12.5 cm); sheet: 15 1/16 x 10\" (38.2 x 25.4 cm)",
-            "Publisher": "unpublished",
-            "Printer": "Harlan & Weaver, New York",
-            "Edition": "1 known impression of state V",
-            "Impresssion": "Not numbered",
-            "Credit": "Gift of the artist",
-            "Object number": "1397.2008",
-            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/710"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "Untitled, state VII of VII",
-        "Year": "2001",
-        "ObjectID": "119648",
-        "Work": "https://www.moma.org/collection/works/119648",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1NjMxMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0d4e8364782cdabd",
-        "Details": {
-            "State/variant": "State VII of VII",
-            "Medium": "Engraving and drypoint",
-            "Dimensions": "plate: 6 15/16 \u00d7 4 15/16\" (17.7 \u00d7 12.5 cm); sheet: 16 x 13 1/16\" (40.7 x 33.1 cm)",
-            "Publisher": "unpublished",
-            "Printer": "Harlan & Weaver, New York",
-            "Edition": "1 known impression of state VII",
-            "Impresssion": "Not numbered",
-            "Credit": "Gift of the artist",
-            "Object number": "1399.2008",
-            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/710"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "Spider, plate 11 of 11, from the illustrated book, He Disappeared into Complete Silence, second edition",
-        "Year": "2001",
-        "ObjectID": "119649",
-        "Work": "https://www.moma.org/collection/works/119649",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1NjMxMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c7036d2fa9e693aa",
-        "Details": {
-            "State/variant": "Version 1 of 3, state II of VI",
-            "Medium": "Drypoint, with hand additions",
-            "Dimensions": "plate: 7 x 5 3/8\" (17.8 x 13.7 cm); sheet: 11 3/4 x 9 5/16\" (29.8 x 23.6 cm)",
-            "Publisher": "unpublished",
-            "Printer": "Harlan & Weaver, New York",
-            "Edition": "1 known impression of version 1, state II",
-            "Impresssion": "Not numbered",
-            "Credit": "Gift of the artist",
-            "Object number": "1479.2008",
-            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/710"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "Spider, plate 11 of 11, from the illustrated book, He Disappeared into Complete Silence, second edition",
-        "Year": "2001",
-        "ObjectID": "119650",
-        "Work": "https://www.moma.org/collection/works/119650",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1NjMxMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ab1ae39b96640e88",
-        "Details": {
-            "State/variant": "Version 1 of 3, state III of VI",
-            "Medium": "Drypoint, with hand additions",
-            "Dimensions": "plate: 7 x 5 3/8\" (17.8 x 13.7 cm); sheet: 14 15/16 x 10 1/16\" (38 x 25.5 cm)",
-            "Publisher": "unpublished",
-            "Printer": "Harlan & Weaver, New York",
-            "Edition": "1 known impression of version 1, state III",
-            "Impresssion": "Not numbered",
-            "Credit": "Gift of the artist",
-            "Object number": "1480.2008",
-            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/710"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "Spider, plate 11 of 11, from the illustrated book, He Disappeared into Complete Silence, second edition",
-        "Year": "2001",
-        "ObjectID": "119651",
-        "Work": "https://www.moma.org/collection/works/119651",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1NjMxNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e53ab3c98e0a072c",
-        "Details": {
-            "State/variant": "Version 1 of 3, state IV of VI",
-            "Medium": "Drypoint, with hand additions",
-            "Dimensions": "plate: 6 15/16 x 5 7/16\" (17.7 x 13.8 cm); sheet: 14 15/16 x 10 1/16\" (38 x 25.5 cm)",
-            "Publisher": "unpublished",
-            "Printer": "Harlan & Weaver, New York",
-            "Edition": "1 known impression of version 1, state IV",
-            "Impresssion": "Not numbered",
-            "Credit": "Gift of the artist",
-            "Object number": "1481.2008",
-            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/710"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "Spider, plate 11 of 11, from the illustrated book, He Disappeared into Complete Silence, second edition",
-        "Year": "2001",
-        "ObjectID": "119652",
-        "Work": "https://www.moma.org/collection/works/119652",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1NjMxNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5e1791bc85751320",
-        "Details": {
-            "State/variant": "Version 1 of 3, state V of VI",
-            "Medium": "Drypoint, with hand additions",
-            "Dimensions": "plate: 3 1/16 x 5 3/8\" (7.8 x 13.7 cm); sheet: 15 3/16 x 10 1/16\" (38.5 x 25.5 cm)",
-            "Publisher": "unpublished",
-            "Printer": "Harlan & Weaver, New York",
-            "Edition": "1 known impression of version 1, state V",
-            "Impresssion": "Not numbered",
-            "Credit": "Gift of the artist",
-            "Object number": "1482.2008",
-            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/710"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "Spider, plate 11 of 11, from the illustrated book, He Disappeared into Complete Silence, second edition",
-        "Year": "2001",
-        "ObjectID": "119653",
-        "Work": "https://www.moma.org/collection/works/119653",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1NjMxNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3405bf3f13ab67f4",
-        "Details": {
-            "State/variant": "Version 1 of 3, state VI of VI, variant",
-            "Medium": "Drypoint, with hand additions",
-            "Dimensions": "plate: 6 15/16 x 5 1/2\" (17.7 x 13.9 cm); sheet: 14 1/16 x 11 5/8\" (35.7 x 29.5 cm)",
-            "Publisher": "unpublished",
-            "Printer": "Harlan & Weaver, New York",
-            "Edition": "3 known variant impressions of version 1, state VI",
-            "Impresssion": "Not numbered",
-            "Credit": "Gift of the artist",
-            "Object number": "1484.2008",
-            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/710"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "La Reparation, plate 3 of 7, from the portfolio, La Reparation",
-        "Year": "2001",
-        "ObjectID": "119659",
-        "Work": "https://www.moma.org/collection/works/119659",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MTYwMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2851d6d556866c1a",
-        "Details": {
-            "State/variant": "State III of IV, variant",
-            "Medium": "Drypoint, engraving and monotype, with hand additions",
-            "Dimensions": "plate: 10 15/16 x 8 3/8\" (27.8 x 21.3 cm); sheet: 14 3/16 x 11 1/4\" (36 x 28.5 cm)",
-            "Publisher": "unpublished",
-            "Printer": "Harlan & Weaver, New York",
-            "Edition": "5 known variant impressions of state III",
-            "Impresssion": "Not numbered",
-            "Credit": "Gift of the artist",
-            "Object number": "1502.2008",
-            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/710"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "La Reparation, plate 3 of 7, from the portfolio, La Reparation",
-        "Year": "2001",
-        "ObjectID": "119660",
-        "Work": "https://www.moma.org/collection/works/119660",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwNDQ4NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4936099c00e31800",
-        "Details": {
-            "State/variant": "State II of IV",
-            "Medium": "Drypoint and engraving",
-            "Dimensions": "plate: 10 15/16 x 8 7/16\" (27.8 x 21.5 cm); sheet: 14 9/16 x 11 1/4\" (37 x 28.5 cm)",
-            "Publisher": "unpublished",
-            "Printer": "Harlan & Weaver, New York",
-            "Edition": "2 known impressions of state II",
-            "Impresssion": "Not numbered",
-            "Credit": "Gift of the artist",
-            "Object number": "1500.2008",
-            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/710"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "Female from Male and Female",
-        "Year": "c. 2001",
-        "ObjectID": "119662",
-        "Work": "https://www.moma.org/collection/works/119662",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MTYxOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8e012cd174446490",
-        "Details": {
-            "State/variant": "Version 1 of 3, state I of VII, variant",
-            "Medium": "Drypoint, with hand additions",
-            "Dimensions": "plate: 13 7/8 x 9 15/16\" (35.2 x 25.2 cm); sheet: 16 1/8 x 10 11/16\" (41 x 27.1 cm)",
-            "Publisher": "unpublished",
-            "Printer": "Harlan & Weaver, New York",
-            "Edition": "4 known variant impressions of version 1, state I",
-            "Impresssion": "Not numbered",
-            "Credit": "Gift of the artist",
-            "Object number": "1511.2008",
-            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/710"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "Female from Male and Female",
-        "Year": "c. 2001",
-        "ObjectID": "119663",
-        "Work": "https://www.moma.org/collection/works/119663",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MTYxNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2c61d9b8fc8a1af2",
-        "Details": {
-            "State/variant": "Version 1 of 3, state I of VII, variant",
-            "Medium": "Drypoint, with hand additions",
-            "Dimensions": "plate: 13 7/8 x 9 15/16\" (35.2 x 25.2 cm); sheet: 16 1/8 x 10 1/4\" (41 x 26 cm)",
-            "Publisher": "unpublished",
-            "Printer": "Harlan & Weaver, New York",
-            "Edition": "4 known variant impressions of version 1, state I",
-            "Impresssion": "Not numbered",
-            "Credit": "Gift of the artist",
-            "Object number": "1510.2008",
-            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/710"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "Male from Male and Female",
-        "Year": "c. 2001",
-        "ObjectID": "119664",
-        "Work": "https://www.moma.org/collection/works/119664",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MTYyNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a9efae37a251cc1f",
-        "Details": {
-            "State/variant": "Version 2 of 3, state I of VIII, variant",
-            "Medium": "Drypoint, with hand additions",
-            "Dimensions": "plate: 13 7/8 x 9 15/16\" (35.2 x 25.3 cm); sheet: 16 1/16 x 10 1/4\" (40.8 x 26 cm)",
-            "Publisher": "unpublished",
-            "Printer": "Harlan & Weaver, New York",
-            "Edition": "4 known variant impressions of version 2, state I",
-            "Impresssion": "Not numbered",
-            "Credit": "Gift of the artist",
-            "Object number": "1515.2008",
-            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/710"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "Le Mot Pitie M'a Apaisee",
-        "Year": "2001",
-        "ObjectID": "119665",
-        "Work": "https://www.moma.org/collection/works/119665",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NjQ2MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ec50beaab27ca084",
-        "Details": {
-            "State/variant": "State II of II",
-            "Medium": "Drypoint and aquatint",
-            "Dimensions": "plate: 10 7/8 x 8 5/8\" (27.7 x 21.9 cm); sheet: 11 13/16 x 9 5/16\" (30 x 23.6 cm)",
-            "Publisher": "unpublished",
-            "Printer": "Harlan & Weaver, New York",
-            "Edition": "1 known impression of state II",
-            "Impresssion": "Not numbered",
-            "Credit": "Gift of the artist",
-            "Object number": "1508.2008",
-            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/710"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "Embracing the Tree II",
-        "Year": "2001",
-        "ObjectID": "119669",
-        "Work": "https://www.moma.org/collection/works/119669",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MjI3OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=70ca5986bb19c01d",
-        "Details": {
-            "State/variant": "State II of IV, variant",
-            "Medium": "Drypoint, with selective wiping and hand additions",
-            "Dimensions": "plate: 9 15/16 x 7 1/2\" (25.3 x 19 cm); sheet: 13 1/8 x 10 1/16\" (33.3 x 25.5 cm)",
-            "Publisher": "unpublished",
-            "Printer": "Harlan & Weaver, New York",
-            "Edition": "3 known variant impressions of state II",
-            "Impresssion": "Not numbered",
-            "Credit": "Gift of the artist",
-            "Object number": "1466.2008",
-            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/710"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "Embracing the Tree II",
-        "Year": "2001",
-        "ObjectID": "119670",
-        "Work": "https://www.moma.org/collection/works/119670",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MjI3OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=66d43b7869ed6e08",
-        "Details": {
-            "State/variant": "State I of IV",
-            "Medium": "Drypoint, with hand additions",
-            "Dimensions": "plate: 9 15/16 x 7 1/2\" (25.3 x 19 cm); sheet: 13 1/8 x 10 3/16\" (33.3 x 25.8 cm)",
-            "Publisher": "unpublished",
-            "Printer": "Harlan & Weaver, New York",
-            "Edition": "1 known impression of state I",
-            "Impresssion": "Not numbered",
-            "Credit": "Gift of the artist",
-            "Object number": "1465.2008",
-            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/710"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "The Smile",
-        "Year": "2001",
-        "ObjectID": "119793",
-        "Work": "https://www.moma.org/collection/works/119793",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NjE2OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ac186f5a8ab9ec94",
-        "Details": {
-            "State/variant": "Only state",
-            "Medium": "Lithograph",
-            "Dimensions": "sheet: 11 1/4 x 8 11/16\" (28.5 x 22 cm)",
-            "Publisher": "Louise Bourgeois",
-            "Printer": "SOLO Impression, New York",
-            "Edition": "25",
-            "Impresssion": "\"AP 2\" left lower sheet, pencil, unknown hand.",
-            "Credit": "Gift of the artist",
-            "Object number": "1754.2008",
-            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/710"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "The Smile",
-        "Year": "2001",
-        "ObjectID": "119794",
-        "Work": "https://www.moma.org/collection/works/119794",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NjE3MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f32c9a6c88d96fd7",
-        "Details": {
-            "State/variant": "Only state",
-            "Medium": "Lithograph",
-            "Dimensions": "sheet: 11 13/16 x 8 1/4\" (30 x 21 cm)",
-            "Publisher": "Louise Bourgeois",
-            "Printer": "SOLO Impression, New York",
-            "Edition": "40",
-            "Impresssion": "\"AP 2\" right lower sheet verso, red ink, unknown hand.",
-            "Credit": "Gift of the artist",
-            "Object number": "1755.2008",
-            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/710"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "Pliers",
-        "Year": "2001",
-        "ObjectID": "119809",
-        "Work": "https://www.moma.org/collection/works/119809",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MTYzNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=76015c15d15b5547",
-        "Details": {
-            "State/variant": "Only state, variant",
-            "Medium": "Engraving and drypoint, with hand additions",
-            "Dimensions": "plate: 5 7/8 x 3 15/16\" (15 x 10 cm); sheet: 11 5/16 x 10 1/8\" (28.8 x 25.7 cm)",
-            "Publisher": "unpublished",
-            "Printer": "Harlan & Weaver, New York",
-            "Edition": "7 known impressions of only state",
-            "Impresssion": "Not numbered",
-            "Credit": "Gift of the artist",
-            "Object number": "1524.2008",
-            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/710"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "Pliers",
-        "Year": "2001",
-        "ObjectID": "119810",
-        "Work": "https://www.moma.org/collection/works/119810",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MTYzNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d03d8f952cc511b1",
-        "Details": {
-            "State/variant": "Only state, variant",
-            "Medium": "Engraving and drypoint",
-            "Dimensions": "plate: 5 7/8 x 4\" (15 x 10.2 cm); sheet: 12 x 12 3/4\" (30.5 x 32.4 cm)",
-            "Publisher": "unpublished",
-            "Printer": "Harlan & Weaver, New York",
-            "Edition": "7 known impressions of only state",
-            "Impresssion": "Not numbered",
-            "Credit": "Gift of the artist",
-            "Object number": "1525.2008",
-            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/710"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "Untitled (Study for Hairy Spider)",
-        "Year": "2001",
-        "ObjectID": "136145",
-        "Work": "https://www.moma.org/collection/works/136145",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5OTQ5MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0894e760544e395c",
-        "Details": {
-            "State/variant": "Study",
-            "Medium": "Photocopy",
-            "Dimensions": "composition and sheet: 11 x 8 1/2\" (27.9 x 21.6 cm)",
-            "Publisher": "unpublished",
-            "Edition": "2 known studies",
-            "Impresssion": "Not numbered",
-            "Credit": "Gift of the artist",
-            "Object number": "514.2010",
-            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/710"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "Untitled (Study for Hairy Spider)",
-        "Year": "2001",
-        "ObjectID": "136146",
-        "Work": "https://www.moma.org/collection/works/136146",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5OTQ5MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e609649b9a2eeed5",
-        "Details": {
-            "State/variant": "Study",
-            "Medium": "Photocopy, with hand additions",
-            "Dimensions": "composition: 12 3/16 x 9 13/16\" (30.9 x 24.9 cm); sheet: 13 3/4 x 11\" (34.9 x 28 cm)",
-            "Publisher": "unpublished",
-            "Edition": "2 known studies",
-            "Impresssion": "Not numbered",
-            "Credit": "Gift of the artist",
-            "Object number": "515.2010",
-            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/710"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "Untitled",
-        "Year": "2001",
-        "ObjectID": "150458",
-        "Work": "https://www.moma.org/collection/works/150458",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MzcwMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=db161b80e25a8744",
-        "Details": {
-            "State/variant": "Only state",
-            "Medium": "Drypoint and engraving",
-            "Dimensions": "plate: 7 7/8 x 9 15/16\" (20 x 25.3 cm); sheet: 9 x 12\" (22.9 x 30.5 cm)",
-            "Publisher": "unpublished",
-            "Printer": "Harlan & Weaver, New York",
-            "Edition": "4 known impressions of the only state",
-            "Impresssion": "Not numbered",
-            "Credit": "Gift of the artist",
-            "Object number": "1438.2012",
-            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/710"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "Nothing Escapes Me",
-        "Year": "2001",
-        "ObjectID": "150469",
-        "Work": "https://www.moma.org/collection/works/150469",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0MDY5MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0ac274371f36b199",
-        "Details": {
-            "State/variant": "State II of II, variant",
-            "Medium": "Drypoint",
-            "Dimensions": "plate: 11 1/2 x 8 7/16\" (29.2 x 21.4 cm); sheet: 17 1/8 x 15 1/16\" (43.5 x 38.2 cm)",
-            "Publisher": "unpublished",
-            "Printer": "Harlan & Weaver, New York",
-            "Edition": "6 known variant impressions of state II, 3 on fabric",
-            "Impresssion": "Not numbered",
-            "Credit": "Gift of the artist",
-            "Object number": "21.2012",
-            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/710"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "Nothing Escapes Me",
-        "Year": "2001",
-        "ObjectID": "150470",
-        "Work": "https://www.moma.org/collection/works/150470",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0MDcwOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2dcd9af5a2814799",
-        "Details": {
-            "State/variant": "State II of II, variant",
-            "Medium": "Drypoint",
-            "Dimensions": "plate: 11 7/16 x 8 7/16\" (29.1 x 21.5 cm); sheet: 14 1/2 x 10 1/2\" (36.8 x 26.7 cm)",
-            "Publisher": "unpublished",
-            "Printer": "Harlan & Weaver, New York",
-            "Edition": "6 known variant impressions of state II, 3 on fabric",
-            "Impresssion": "Not numbered",
-            "Credit": "Gift of the artist",
-            "Object number": "22.2012",
-            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/710"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "Untitled",
-        "Year": "2001",
-        "ObjectID": "150480",
-        "Work": "https://www.moma.org/collection/works/150480",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MzcwMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e2bb98c96b4880d8",
-        "Details": {
-            "State/variant": "State II of III",
-            "Medium": "Drypoint, with hand additions",
-            "Dimensions": "plate: 7 15/16 x 9 15/16\" (20.1 x 25.2 cm); sheet: 11 1/8 x 15 3/8\" (28.2 x 39.1 cm)",
-            "Publisher": "unpublished",
-            "Printer": "Harlan & Weaver, New York",
-            "Edition": "1 known impression of state II",
-            "Impresssion": "Not numbered",
-            "Credit": "Gift of the artist",
-            "Object number": "1439.2012",
-            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/710"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "Untitled",
-        "Year": "2001",
-        "ObjectID": "150481",
-        "Work": "https://www.moma.org/collection/works/150481",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NjkyNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6b3af1701d5c9096",
-        "Details": {
-            "Medium": "Ink on graph paper",
-            "Dimensions": "sheet: 11 x 8 1/2\" (28 x 21.6 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "SC1677.2012",
-            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/710"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "Untitled",
-        "Year": "2001",
-        "ObjectID": "150482",
-        "Work": "https://www.moma.org/collection/works/150482",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NjU4NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=92282b112fc0cc87",
-        "Details": {
-            "State/variant": "Version 1 of 2, state II of IV",
-            "Medium": "Drypoint, with hand additions",
-            "Dimensions": "plate: 9 3/16 x 7 1/16\" (23.4 x 18 cm); sheet: 11 5/8 x 9 3/16\" (29.6 x 23.4 cm)",
-            "Publisher": "unpublished",
-            "Printer": "Harlan & Weaver, New York",
-            "Edition": "1 known impression of version 1, state II",
-            "Impresssion": "Not numbered",
-            "Credit": "Gift of the artist",
-            "Object number": "1436.2012",
-            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/710"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "Dagger Child",
-        "Year": "2001",
-        "ObjectID": "150485",
-        "Work": "https://www.moma.org/collection/works/150485",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MzY5NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=211e3fa91abb4736",
-        "Details": {
-            "State/variant": "State III of IV",
-            "Medium": "Drypoint, with hand additions",
-            "Dimensions": "plate: 11 7/8 x 9 15/16\" (30.2 x 25.2 cm); sheet: 16 15/16 x 13 7/8\" (43.1 x 35.3 cm)",
-            "Publisher": "unpublished",
-            "Printer": "Harlan & Weaver, New York",
-            "Edition": "1 known impression of state III",
-            "Impresssion": "Not numbered",
-            "Credit": "Gift of the artist",
-            "Object number": "1432.2012",
-            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/710"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "Saturday Morning",
-        "Year": "2001",
-        "ObjectID": "150486",
-        "Work": "https://www.moma.org/collection/works/150486",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MzcxOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=315d623acc36d122",
-        "Details": {
-            "State/variant": "Version 1 of 2, state I of III",
-            "Medium": "Drypoint, with hand additions",
-            "Dimensions": "plate: 10 7/8 x 8 3/8\" (27.6 x 21.3 cm); sheet: 15 1/2 x 11 3/16\" (39.4 x 28.4 cm)",
-            "Publisher": "unpublished",
-            "Printer": "Harlan & Weaver, New York",
-            "Edition": "1 known impression of version 1, state I",
-            "Impresssion": "Not numbered",
-            "Credit": "Gift of the artist",
-            "Object number": "1462.2012",
-            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/710"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "Untitled",
-        "Year": "2001",
-        "ObjectID": "150488",
-        "Work": "https://www.moma.org/collection/works/150488",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NzE2NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a2f57a579f8f123a",
-        "Details": {
-            "State/variant": "Only state, variant",
-            "Medium": "Drypoint, with hand additions",
-            "Dimensions": "plate: 11 3/8 \u00d7 8 15/16\" (28.9 \u00d7 22.7 cm); sheet: 16 1/8 \u00d7 13\" (41 \u00d7 33 cm)",
-            "Publisher": "unpublished",
-            "Printer": "Harlan & Weaver, New York",
-            "Edition": "2 known variant impressions of the only state",
-            "Impresssion": "Not numbered",
-            "Credit": "Gift of the artist",
-            "Object number": "1434.2012",
-            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/710"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "Couples",
-        "Year": "2001",
-        "ObjectID": "150490",
-        "Work": "https://www.moma.org/collection/works/150490",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MzcwMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2b2787b0e3dd7a8a",
-        "Details": {
-            "State/variant": "Version 1 of 2, state VII of VII",
-            "Medium": "Drypoint, aquatint, and etching",
-            "Dimensions": "plate: 11 15/16 x 9 15/16\" (30.3 x 25.3 cm); sheet: 15 15/16 x 13 15/16\" (40.5 x 35.4 cm)",
-            "Publisher": "unpublished",
-            "Printer": "Harlan & Weaver, New York",
-            "Edition": "1 known impression of version 1, state VII",
-            "Impresssion": "Not numbered",
-            "Credit": "Gift of the artist",
-            "Object number": "1437.2012",
-            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/710"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "Male from Male and Female",
-        "Year": "c. 2001",
-        "ObjectID": "150491",
-        "Work": "https://www.moma.org/collection/works/150491",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4MjY3NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5cf3688160a4cfdc",
-        "Details": {
-            "State/variant": "Version 2 of 3, state I of VIII, variant",
-            "Medium": "Drypoint, with hand additions",
-            "Dimensions": "plate: 13 3/4 x 9 7/8\" (35.2 x 25.1 cm); sheet: 15 1/4 x 10 5/8\" (38.8 x 27 cm)",
-            "Publisher": "unpublished",
-            "Printer": "Harlan & Weaver, New York",
-            "Edition": "4 known variant impressions of version 2, state I",
-            "Credit": "Gift of the artist",
-            "Object number": "1507.2012",
-            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/710"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "Female from Male and Female",
-        "Year": "2001",
-        "ObjectID": "150492",
-        "Work": "https://www.moma.org/collection/works/150492",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4MjY3NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=711a38ea6ef04281",
-        "Details": {
-            "State/variant": "Version 1 of 3, state I of VII, variant",
-            "Medium": "Drypoint, with hand additions",
-            "Dimensions": "plate: 13 7/8 x 9 15/16\" (35.3 x 25.2 cm); sheet: 15 3/16 x 10 1/2\" (38.6 x 26.7 cm)",
-            "Publisher": "unpublished",
-            "Printer": "Harlan & Weaver, New York",
-            "Edition": "4 known variant impressions of version 1, state I",
-            "Impresssion": "Not numbered",
-            "Credit": "Gift of the artist",
-            "Object number": "1508.2012",
-            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/710"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "The Obese Woman",
-        "Year": "2001",
-        "ObjectID": "150507",
-        "Work": "https://www.moma.org/collection/works/150507",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NzE2NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=960e37938d5f3682",
-        "Details": {
-            "State/variant": "Version 1 of 2, state VII of VII",
-            "Medium": "Drypoint, aquatint, and engraving",
-            "Dimensions": "plate: 11 7/8 x 9 15/16\" (30.2 x 25.2 cm); sheet: 16 3/8 x 13 7/16\" (41.6 x 34.2 cm)",
-            "Publisher": "unpublished",
-            "Printer": "Harlan & Weaver, New York",
-            "Edition": "3 known impressions of version 1, state VII",
-            "Impresssion": "Not numbered",
-            "Credit": "Gift of the artist",
-            "Object number": "1450.2012",
-            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/710"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "The Smile",
-        "Year": "2001",
-        "ObjectID": "150508",
-        "Work": "https://www.moma.org/collection/works/150508",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MzY5OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=83784745c95791a6",
-        "Details": {
-            "State/variant": "Version 2 of 2, state III of IV, variant",
-            "Medium": "Drypoint, with hand additions",
-            "Dimensions": "plate: 4 15/16 x 6 15/16\" (12.6 x 17.6 cm); sheet: 9 9/16 x 9 11/16\" (24.3 x 24.6 cm)",
-            "Publisher": "unpublished",
-            "Printer": "Harlan & Weaver, New York",
-            "Edition": "6 known variant impressions of version 2, state III",
-            "Impresssion": "Not numbered",
-            "Credit": "Gift of the artist",
-            "Object number": "1433.2012",
-            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/710"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "The Couple, plate 5 of 7, from the portfolio, La Reparation",
-        "Year": "2001",
-        "ObjectID": "150534",
-        "Work": "https://www.moma.org/collection/works/150534",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MzcyMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fecba41d1ea3a102",
-        "Details": {
-            "State/variant": "State V of XVII",
-            "Medium": "Drypoint",
-            "Dimensions": "plate: 9 15/16 x 7 7/8\" (25.2 x 20 cm); sheet: 15 3/4 x 12 15/16\" (40 x 32.9 cm)",
-            "Publisher": "unpublished",
-            "Printer": "Harlan & Weaver, New York",
-            "Edition": "3 known impressions of state V",
-            "Impresssion": "Not numbered",
-            "Credit": "Gift of the artist",
-            "Object number": "1464.2012",
-            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/710"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "The Couple, plate 5 of 7, from the portfolio, La Reparation",
-        "Year": "2001",
-        "ObjectID": "150535",
-        "Work": "https://www.moma.org/collection/works/150535",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MzcyMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9a2dfe9a30737ac1",
-        "Details": {
-            "State/variant": "State IV of XVII, variant",
-            "Medium": "Drypoint, with hand additions",
-            "Dimensions": "plate: 9 15/16 x 7 7/8\" (25.3 x 20 cm); sheet: 10 11/16 x 8 11/16\" (27.2 x 22.1 cm)",
-            "Publisher": "unpublished",
-            "Printer": "Harlan & Weaver, New York",
-            "Edition": "2 known variant impressions of state IV",
-            "Impresssion": "Not numbered",
-            "Credit": "Gift of the artist",
-            "Object number": "1465.2012",
-            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/710"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "Spiral Woman, plate 2 of 7, from the portfolio, La Reparation",
-        "Year": "2001",
-        "ObjectID": "150544",
-        "Work": "https://www.moma.org/collection/works/150544",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MzcwOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b955f04383914193",
-        "Details": {
-            "State/variant": "State VI of X",
-            "Medium": "Drypoint, engraving, and aquatint",
-            "Dimensions": "plate: 11 7/16 x 8 15/16\" (29 x 22.7 cm); sheet: 15 7/8 x 13\" (40.3 x 33 cm)",
-            "Publisher": "unpublished",
-            "Printer": "Harlan & Weaver, New York",
-            "Edition": "2 known impressions of state VI",
-            "Impresssion": "Not numbered",
-            "Credit": "Gift of the artist",
-            "Object number": "1448.2012",
-            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/710"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "Spiral Woman, plate 2 of 7, from the portfolio, La Reparation",
-        "Year": "2001",
-        "ObjectID": "150545",
-        "Work": "https://www.moma.org/collection/works/150545",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MzcxMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e46e76564e50f28f",
-        "Details": {
-            "State/variant": "State IV of X",
-            "Medium": "Drypoint and engraving, with hand additions",
-            "Dimensions": "plate: 11 5/16 x 8 15/16\" (28.8 x 22.7 cm); sheet: 15 15/16 x 13\" (40.5 x 33 cm)",
-            "Publisher": "unpublished",
-            "Printer": "Harlan & Weaver, New York",
-            "Edition": "1 known impression of state IV",
-            "Impresssion": "Not numbered",
-            "Credit": "Gift of the artist",
-            "Object number": "1449.2012",
-            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/710"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "Untitled",
-        "Year": "2001",
-        "ObjectID": "150663",
-        "Work": "https://www.moma.org/collection/works/150663",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2Mzc3NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=851673204c695f8c",
-        "Details": {
-            "State/variant": "State III of III, variant",
-            "Medium": "Drypoint, with hand additions",
-            "Dimensions": "plate: 11 x 8 1/2\" (27.9 x 21.6 cm); sheet: 17 1/4 x 13 1/2\" (43.8 x 34.3 cm)",
-            "Publisher": "unpublished",
-            "Printer": "Harlan & Weaver, New York",
-            "Edition": "4 known variant impressions of state III",
-            "Impresssion": "Not numbered",
-            "Credit": "Gift of the artist",
-            "Object number": "1545.2012",
-            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/710"
-    },
-    {
-        "Artist": "Louise Bourgeois",
-        "Title": "Untitled, plate 5 of 5, from the illustrated book, The Laws of Nature",
-        "Year": "2000-2001",
-        "ObjectID": "150701",
-        "Work": "https://www.moma.org/collection/works/150701",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NzQ0NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c9e85e5c09831a8e",
-        "Details": {
-            "State/variant": "State III of V, variant",
-            "Medium": "Drypoint",
-            "Dimensions": "plate: 4 3/4 x 5 3/4\" (12.1 x 14.6 cm); sheet: 8 11/16 x 9 5/16\" (22.1 x 23.6 cm)",
-            "Publisher": "unpublished",
-            "Printer": "Harlan & Weaver, New York",
-            "Edition": "4 known variant impressions of state III",
-            "Impresssion": "Not numbered",
-            "Credit": "Gift of the artist",
-            "Object number": "73.2012",
-            "Copyright": "\u00a9 The Easton Foundation/VAGA at ARS, NY",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/710"
-    },
-    {
-        "Artist": "Ronan Bouroullec, Erwan Bouroullec",
-        "Title": "Console with Mirror",
-        "Year": "2001",
-        "ObjectID": "98956",
-        "Work": "https://www.moma.org/collection/works/98956",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MjQ0MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3b45c84cecd676cd",
-        "Details": {
-            "Medium": "Corian and glass",
-            "Dimensions": "31 1/2 x 78 3/4 x 17 3/4\" (80 x 200 x 45.1 cm)",
-            "Credit": "Gift of the manufacturer",
-            "Object number": "89.2006",
-            "Copyright": "\u00a9 2023 Erwan Bouroullec and Ronan Bouroullec",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/23262"
-    },
-    {
-        "Artist": "Marco Brambilla",
-        "Title": "Wall of Death",
-        "Year": "2001",
-        "ObjectID": "199472",
-        "Work": "https://www.moma.org/collection/works/199472",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ0Mzk2MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5e8915faa28947f3",
-        "Details": {
-            "Medium": "35mm transferred to video (color, sound)",
-            "Duration": "2:37 min.",
-            "Credit": "Gift of Ninah and Michael Lynne",
-            "Object number": "247.2016",
-            "Copyright": "\u00a9 2023 Marco Brambilla",
+            "Object number": "813.2006",
+            "Copyright": "\u00a9 2023 Ximena Cuevas",
             "Department": "Media and Performance"
         },
-        "Profile": "https://www.moma.org/artists/49140"
+        "Profile": "https://www.moma.org/artists/32216"
+    },
+    {
+        "Artist": "John Currin",
+        "Title": "The Begger's Alm (for Parkett no. 65)",
+        "Year": "2002",
+        "ObjectID": "87834",
+        "Work": "https://www.moma.org/collection/works/87834",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNDY3MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cca0294957732162",
+        "Details": {
+            "Medium": "Etching, aquatint, and drypoint",
+            "Publisher": "Parkett Publishers, Z\u00fcrich and New York",
+            "Edition": "70.",
+            "Credit": "Linda Barth Goldstein Fund",
+            "Object number": "17.2003",
+            "Copyright": "\u00a9 2023 John Currin",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/8444"
+    },
+    {
+        "Artist": "John Currin, Nic Hess, Laura Owens, Michael Raedecker, Lou Reed, Various Artists",
+        "Title": "Parkett no. 65",
+        "Year": "2002",
+        "ObjectID": "86770",
+        "Work": "https://www.moma.org/collection/works/86770",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQyOTMyMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=49f6d5a73a1b6268",
+        "Details": {
+            "Collaborating artist": "John Currin, Nic Hess, Laura Owens, Michael Raedecker, Lou Reed",
+            "Medium": "Journal",
+            "Dimensions": "Page: 10 1/16 x 8 1/16\" (25.5 x 20.4 cm)",
+            "Publisher": "Parkett Publishers, Z\u00fcrich and New York",
+            "Credit": "Gift of Parkett",
+            "Object number": "374.2002.x1-x2",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/24409"
+    },
+    {
+        "Artist": "Jose Damasceno",
+        "Title": "Organograma",
+        "Year": "2002",
+        "ObjectID": "95755",
+        "Work": "https://www.moma.org/collection/works/95755",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExMTY3OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c0c276851dd8a596",
+        "Details": {
+            "Medium": "Stamped ink on board",
+            "Dimensions": "30 x 22\" (76.2 x 55.9 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "1504.2005",
+            "Copyright": "\u00a9 2023 Jos\u00e9 Damasceno",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/28598"
+    },
+    {
+        "Artist": "Jose Damasceno",
+        "Title": "Organograma",
+        "Year": "2002",
+        "ObjectID": "95756",
+        "Work": "https://www.moma.org/collection/works/95756",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExMTY3OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=bd19c78eb0d33f73",
+        "Details": {
+            "Medium": "Stamped ink on board",
+            "Dimensions": "22 x 30\" (55.9 x 76.2 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "1505.2005",
+            "Copyright": "\u00a9 2023 Jos\u00e9 Damasceno",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/28598"
+    },
+    {
+        "Artist": "Meredith Danluck",
+        "Title": "Untitled",
+        "Year": "2002",
+        "ObjectID": "95757",
+        "Work": "https://www.moma.org/collection/works/95757",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExMTAzOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cda0881e29e0754d",
+        "Details": {
+            "Medium": "Cut-and-pasted printed paper with colored pencil, felt-tip pen, and pencil on paper",
+            "Dimensions": "14 x 17\" (35.6 x 43.2 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "1506.2005",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/28599"
+    },
+    {
+        "Artist": "Jeff Davis",
+        "Title": "Untitled (#12)",
+        "Year": "(2002)",
+        "ObjectID": "95769",
+        "Work": "https://www.moma.org/collection/works/95769",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExMTMwNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=48f01caf497a543e",
+        "Details": {
+            "Medium": "Watercolor on paper",
+            "Dimensions": "15 1/8 x 11 3/8\" (38.4 x 28.9 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "1519.2005",
+            "Copyright": "\u00a9 2023 Jeff Davis",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/29760"
+    },
+    {
+        "Artist": "Jeff Davis",
+        "Title": "Untitled (#15)",
+        "Year": "(2002)",
+        "ObjectID": "95770",
+        "Work": "https://www.moma.org/collection/works/95770",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExMTMzMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6ad27a1dd2a8ac05",
+        "Details": {
+            "Medium": "Watercolor on paper",
+            "Dimensions": "15 1/8 x 11 1/4\" (38.4 x 28.6 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "1520.2005",
+            "Copyright": "\u00a9 2023 Jeff Davis",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/29760"
+    },
+    {
+        "Artist": "Jeff Davis",
+        "Title": "Untitled (#19)",
+        "Year": "(2002)",
+        "ObjectID": "95771",
+        "Work": "https://www.moma.org/collection/works/95771",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExMTMzMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b60c16dd5a9a4626",
+        "Details": {
+            "Medium": "Watercolor and gouache on paper",
+            "Dimensions": "14 1/2 x 11 1/2\" (36.8 x 29.2 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "1521.2005",
+            "Copyright": "\u00a9 2023 Jeff Davis",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/29760"
+    },
+    {
+        "Artist": "Jeff Davis",
+        "Title": "Untitled (#24)",
+        "Year": "(2002)",
+        "ObjectID": "95772",
+        "Work": "https://www.moma.org/collection/works/95772",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExMTM0MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2b0c4cc5e59bd50c",
+        "Details": {
+            "Medium": "Watercolor on paper",
+            "Dimensions": "11 x 7 1/4\" (27.9 x 18.4 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "1522.2005",
+            "Copyright": "\u00a9 2023 Jeff Davis",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/29760"
+    },
+    {
+        "Artist": "Jeff Davis",
+        "Title": "Untitled (#28)",
+        "Year": "(2002)",
+        "ObjectID": "95773",
+        "Work": "https://www.moma.org/collection/works/95773",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExMTM0NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2ad27094ad49f1e6",
+        "Details": {
+            "Medium": "Watercolor and gouache on paper",
+            "Dimensions": "11 x 8 1/2\" (27.9 x 21.6 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "1523.2005",
+            "Copyright": "\u00a9 2023 Jeff Davis",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/29760"
+    },
+    {
+        "Artist": "Jeff Davis",
+        "Title": "Untitled (#6)",
+        "Year": "(2002)",
+        "ObjectID": "95774",
+        "Work": "https://www.moma.org/collection/works/95774",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExMTM0NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=726d37bfe5551dde",
+        "Details": {
+            "Medium": "Watercolor and gouache on paper",
+            "Dimensions": "13 7/8 x 11\" (35.2 x 27.9 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "1518.2005",
+            "Copyright": "\u00a9 2023 Jeff Davis",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/29760"
+    },
+    {
+        "Artist": "Verne Dawson",
+        "Title": "Pygmy and the Dutchman",
+        "Year": "2002",
+        "ObjectID": "95778",
+        "Work": "https://www.moma.org/collection/works/95778",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExMTA1MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=33fb3f50756eb8eb",
+        "Details": {
+            "Medium": "Ink, gouache, and pencil on paper",
+            "Dimensions": "11 x 14\" (27.9 x 35.6 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "1527.2005",
+            "Copyright": "\u00a9 2023 Verne Dawson",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/26685"
+    },
+    {
+        "Artist": "Tacita Dean",
+        "Title": "Chere petite soeur (Dear Little Sister)",
+        "Year": "2002",
+        "ObjectID": "95784",
+        "Work": "https://www.moma.org/collection/works/95784",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ2OTYxMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2dec82943159311d",
+        "Details": {
+            "Medium": "Chalk on two blackboards",
+            "Dimensions": "each: 96 x 192\" (243.8 x 487.7 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "1531.2005.a-h",
+            "Copyright": "\u00a9 2023 Tacita Dean",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/22983"
+    },
+    {
+        "Artist": "Tacita Dean",
+        "Title": "Diamond Ring from The Sun Quartet",
+        "Year": "2002",
+        "ObjectID": "110984",
+        "Work": "https://www.moma.org/collection/works/110984",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzODUwMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3bbadcc11f122f63",
+        "Details": {
+            "Medium": "16mm film (color, silent)",
+            "Duration": "12 films (each): 0:27 min. \r\nTotal duration: 6 min.",
+            "Credit": "Gift of the Hess Foundation, Kathy Fuld and Department of Film Funds",
+            "Object number": "251.2008.4",
+            "Copyright": "\u00a9 2002 Tacita Dean. Used by permission.",
+            "Installation": "The Sun Quartet",
+            "Department": "Media and Performance"
+        },
+        "Profile": "https://www.moma.org/artists/22983"
+    },
+    {
+        "Artist": "Tacita Dean",
+        "Title": "The Sun Quartet",
+        "Year": "1999-2002",
+        "ObjectID": "143617",
+        "Work": "https://www.moma.org/collection/works/143617",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Four 16mm films (color, silent and sound)",
+            "Credit": "Gift of the Hess Foundation, Kathy Fuld and Department of Film Funds",
+            "Object number": "251.2008.1-4",
+            "Type": "Installation",
+            "Department": "Media and Performance"
+        },
+        "Profile": "https://www.moma.org/artists/22983"
+    },
+    {
+        "Artist": "Berlinde De Bruyckere",
+        "Title": "UN",
+        "Year": "2002",
+        "ObjectID": "95634",
+        "Work": "https://www.moma.org/collection/works/95634",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MDY2MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e0eef1376e34e4ee",
+        "Details": {
+            "Medium": "Cut-and-pasted printed paper and pencil on five pieces of paper",
+            "Dimensions": "Each: 19 x 13\" (48.3 x 33 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "1380.2005.a-e",
+            "Copyright": "\u00a9 2023 Berlinde De Bruyckere",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/28577"
+    },
+    {
+        "Artist": "Eduardo Del Valle, Mirta Gomez",
+        "Title": "Hoctum, Yucatan Peninsula, Mexico, 2002",
+        "Year": "2002",
+        "ObjectID": "98834",
+        "Work": "https://www.moma.org/collection/works/98834",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNDIxMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=bf6a89a0b3ea404d",
+        "Details": {
+            "Collaborating artist": "Mirta G\u00f3mez",
+            "Medium": "Chromogenic print",
+            "Dimensions": "12 1/16 \u00d7 18\" (30.7 \u00d7 45.7 cm)",
+            "Credit": "E.T. Harmax Foundation Fund",
+            "Object number": "900.2005.x1-x2",
+            "Copyright": "\u00a9 2023 Eduardo Del Valle and Mirta G\u00f3mez",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/1473"
+    },
+    {
+        "Artist": "Xiomara De Oliver",
+        "Title": "Lois and Cleo",
+        "Year": "2002",
+        "ObjectID": "95780",
+        "Work": "https://www.moma.org/collection/works/95780",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzNTczNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=42c84dd0fb849bb3",
+        "Details": {
+            "Medium": "Oil, crayon, and pencil on two pieces of paper",
+            "Dimensions": "Installation: 39 1/2 x 55\" (100.3 x 139.7 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "1552.2005.a-b",
+            "Copyright": "\u00a9 2023 Xiomara De Oliver",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/28603"
+    },
+    {
+        "Artist": "Steve DiBenedetto",
+        "Title": "Untitled",
+        "Year": "2002",
+        "ObjectID": "95812",
+        "Work": "https://www.moma.org/collection/works/95812",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE0NDA5NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1173186892996305",
+        "Details": {
+            "Medium": "Pencil on paper",
+            "Dimensions": "22 1/2 x 30 1/8\" (57.2 x 76.5 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "1563.2005",
+            "Copyright": "\u00a9 2023 Steve DiBenedetto",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/28609"
+    },
+    {
+        "Artist": "Rineke Dijkstra",
+        "Title": "Almerisa, Leidschendam, The Netherlands",
+        "Year": "April 13, 2002",
+        "ObjectID": "101409",
+        "Work": "https://www.moma.org/collection/works/101409",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMjAwNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8449f1c9d3ee9723",
+        "Details": {
+            "Medium": "Chromogenic print",
+            "Dimensions": "13 3/4 \u00d7 11 1/4\" (35 \u00d7 28.5 cm)",
+            "Credit": "Acquired through the generosity of Leila and Melville Straus",
+            "Object number": "856.2005.x1-x2",
+            "Copyright": "\u00a9 2023 Rineke Dijkstra",
+            "Series": "Almerisa",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/8139"
+    },
+    {
+        "Artist": "Mark Dion",
+        "Title": "Die geoffnete Raritaten-und Naturalien-Kammer from the series Ex Libris",
+        "Year": "2002 (originally published 1704)",
+        "ObjectID": "149218",
+        "Work": "https://www.moma.org/collection/works/149218",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMzIzMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=da348d2884c9d419",
+        "Details": {
+            "Author": "Paul Jacob Marperger",
+            "Medium": "Artist's book with offset bookplate",
+            "Dimensions": "overall (closed): 7 1/2 x 4 3/4 x 11/16\" (19 x 12 x 1.8 cm)",
+            "Publisher": "Salon Verlag, Cologne",
+            "Printer": "WB Druck, Rieden im Allg\u00e4u",
+            "Edition": "200",
+            "Credit": "Acquired through the generosity of an anonymous donor in honor of Glenn D. Lowry",
+            "Object number": "1019.2011.3",
+            "Copyright": "\u00a9 2023 Mark Dion",
+            "Associated work": "Ex Libris",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/27427"
+    },
+    {
+        "Artist": "Mark Dion",
+        "Title": "Seattle Vivarium",
+        "Year": "2002",
+        "ObjectID": "169877",
+        "Work": "https://www.moma.org/collection/works/169877",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4NDAzNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8c36fbd50df76774",
+        "Details": {
+            "Medium": "Colored pencil on six sheets of paper",
+            "Dimensions": ".a): 9 x 12\" (22.9 x 30.5 cm)\r\n.b): 7 3/4 x 13 1/8\" (19.7 x 33.3 cm)\r\n.c): 9 x 12\" (22.9 x 30.5 cm)\r\n.d): 9 x 12\" (22.9 x 30.5 cm)\r\n.e): 9 x 12\" (22.9 x 30.5 cm)\r\n.f): 7 3/8 x 12\" (18.7 x 30.5 cm)",
+            "Credit": "Acquired through the generosity of the Contemporary Arts Council of The Museum of Modern Art",
+            "Object number": "646.2013.a-f",
+            "Copyright": "\u00a9 2023 Mark Dion",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/27427"
+    },
+    {
+        "Artist": "Mark Dion",
+        "Title": "Babel",
+        "Year": "2002",
+        "ObjectID": "288977",
+        "Work": "https://www.moma.org/collection/works/288977",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ1MTM0NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a24ad2f75402d4da",
+        "Details": {
+            "Medium": "Felt-tip pen on graph paper",
+            "Dimensions": "8 1/2 \u00d7 5 1/2\" (21.6 \u00d7 14 cm)",
+            "Credit": "Gift of the Gilbert B. and Lila Silverman Instruction Drawing Collection, Detroit",
+            "Object number": "1407.2018",
+            "Copyright": "\u00a9 2023 Mark Dion",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/27427"
+    },
+    {
+        "Artist": "Peter Doig",
+        "Title": "Untitled",
+        "Year": "2002",
+        "ObjectID": "88190",
+        "Work": "https://www.moma.org/collection/works/88190",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyNDk1NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e4a79ceb31d74aea",
+        "Details": {
+            "Medium": "Pencil and ink on paper",
+            "Dimensions": "19 7/8 x 26\" (50.4 x 66 cm)",
+            "Credit": "Purchased with funds provided by The Buddy Taub Foundation, Dennis A. Roach, Director",
+            "Object number": "143.2003",
+            "Copyright": "\u00a9 2023 Peter Doig",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/8087"
+    },
+    {
+        "Artist": "Peter Doig",
+        "Title": "100 Years Ago",
+        "Year": "2002",
+        "ObjectID": "88191",
+        "Work": "https://www.moma.org/collection/works/88191",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM4NTYzOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ec107704becb1c56",
+        "Details": {
+            "Medium": "Oil on paper",
+            "Dimensions": "29 7/8 x 22\" (75.8 x 55.9 cm)",
+            "Credit": "Gift of Martin and Rebecca Eisenberg",
+            "Object number": "144.2003",
+            "Copyright": "\u00a9 2023 Peter Doig",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/8087"
+    },
+    {
+        "Artist": "Nathaniel Dorsky",
+        "Title": "The Visitation",
+        "Year": "2002",
+        "ObjectID": "321751",
+        "Work": "https://www.moma.org/collection/works/321751",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ4NTM2MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ee1fb422d94e3dc9",
+        "Details": {
+            "Object number": "W19038",
+            "Department": "Film"
+        },
+        "Profile": "https://www.moma.org/artists/32229"
+    },
+    {
+        "Artist": "Winka Dubbeldam",
+        "Title": "From Hardware to Softform, project (Armature model)",
+        "Year": "2002",
+        "ObjectID": "100100",
+        "Work": "https://www.moma.org/collection/works/100100",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ0MDU1MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=699362b2680cc754",
+        "Details": {
+            "Medium": "Acrylic",
+            "Dimensions": "13 x 6 x 20\" (33 x 15.2 x 50.8 cm)",
+            "Credit": "Barbara Pine Purchase Fund and gift of Frederieke Taylor",
+            "Object number": "827.2005",
+            "Copyright": "\u00a9 2023 Winka Dubbledam",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/29620"
+    },
+    {
+        "Artist": "Winka Dubbeldam",
+        "Title": "From Hardware to Softform, project, Twist #316",
+        "Year": "2002",
+        "ObjectID": "100431",
+        "Work": "https://www.moma.org/collection/works/100431",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Digital lambda print laminated on acrylic",
+            "Dimensions": "42 x 42\" (106.7 x 106.7 cm)",
+            "Credit": "Christopher H. Browne Purchase Fund and gift of Frederieke Taylor",
+            "Object number": "823.2005",
+            "Copyright": "\u00a9 2023 Winka Dubbledam",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/29620"
+    },
+    {
+        "Artist": "Winka Dubbeldam",
+        "Title": "From Hardware to Softform, project, Taxonomy Variations 2",
+        "Year": "2002",
+        "ObjectID": "100432",
+        "Work": "https://www.moma.org/collection/works/100432",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Digital lambda print laminated on acrylic",
+            "Dimensions": "42 x 42\" (106.7 x 106.7 cm)",
+            "Credit": "Gift of Clarissa Alcock Bronfman and Frederieke Taylor",
+            "Object number": "824.2005",
+            "Copyright": "\u00a9 2023 Winka Dubbledam",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/29620"
+    },
+    {
+        "Artist": "Carroll Dunham",
+        "Title": "In Town",
+        "Year": "2002",
+        "ObjectID": "86838",
+        "Work": "https://www.moma.org/collection/works/86838",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMDM5NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5deb4ea8091992d0",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition: 14 9/16 x 21 5/8\" (37 x 55 cm); sheet: 22 1/16 x 29 7/8\" (56 x 75.9 cm)",
+            "Publisher": "Universal Limited Art Editions, West Islip, New York",
+            "Printer": "Universal Limited Art Editions, West Islip, New York",
+            "Credit": "Gift of Emily Fisher Landau",
+            "Object number": "327.2002",
+            "Copyright": "\u00a9 2023 Carroll Dunham",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1652"
+    },
+    {
+        "Artist": "Carroll Dunham",
+        "Title": "Untitled #1",
+        "Year": "1992-2002",
+        "ObjectID": "87839",
+        "Work": "https://www.moma.org/collection/works/87839",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MzE0OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1d3e865e1ace5c27",
+        "Details": {
+            "Medium": "Drypoint",
+            "Publisher": "Universal Limited Art Editions, West Islip, New York",
+            "Printer": "Universal Limited Art Editions, West Islip, New York",
+            "Edition": "7.",
+            "Credit": "Gift of Emily Fisher Landau",
+            "Object number": "18.2003",
+            "Copyright": "\u00a9 2023 Carroll Dunham",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1652"
+    },
+    {
+        "Artist": "Carroll Dunham",
+        "Title": "Untitled #2",
+        "Year": "1992-2002",
+        "ObjectID": "87840",
+        "Work": "https://www.moma.org/collection/works/87840",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MzE1MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6244840aa38cf1ac",
+        "Details": {
+            "Medium": "Drypoint",
+            "Publisher": "Universal Limited Art Editions, West Islip, New York",
+            "Printer": "Universal Limited Art Editions, West Islip, New York",
+            "Edition": "7.",
+            "Credit": "Gift of Emily Fisher Landau",
+            "Object number": "19.2003",
+            "Copyright": "\u00a9 2023 Carroll Dunham",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1652"
+    },
+    {
+        "Artist": "Carroll Dunham",
+        "Title": "Untitled #3",
+        "Year": "1992-2002",
+        "ObjectID": "87841",
+        "Work": "https://www.moma.org/collection/works/87841",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MzE1NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1a6466ca13c446a4",
+        "Details": {
+            "Medium": "Drypoint",
+            "Publisher": "Universal Limited Art Editions, West Islip, New York",
+            "Printer": "Universal Limited Art Editions, West Islip, New York",
+            "Edition": "7.",
+            "Credit": "Gift of Emily Fisher Landau",
+            "Object number": "20.2003",
+            "Copyright": "\u00a9 2023 Carroll Dunham",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1652"
+    },
+    {
+        "Artist": "Carroll Dunham",
+        "Title": "Untitled",
+        "Year": "2002",
+        "ObjectID": "95845",
+        "Work": "https://www.moma.org/collection/works/95845",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNDU4NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f52dc1279e707010",
+        "Details": {
+            "Medium": "Pencil on paper",
+            "Dimensions": "18 x 24\" (45.7 x 61 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "1589.2005",
+            "Copyright": "\u00a9 2023 Carroll Dunham",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1652"
+    },
+    {
+        "Artist": "Marcel Dzama",
+        "Title": "Untitled",
+        "Year": "(2002)",
+        "ObjectID": "95855",
+        "Work": "https://www.moma.org/collection/works/95855",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNTczMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=34d9e28bec5f0f03",
+        "Details": {
+            "Medium": "Ink, watercolor, and root beer concentrate on paper",
+            "Dimensions": "11 x 14\" (27.9 x 35.6 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "1593.2005",
+            "Copyright": "\u00a9 2023 Marcel Dzama",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/27712"
+    },
+    {
+        "Artist": "Marcel Dzama",
+        "Title": "Untitled",
+        "Year": "(2002)",
+        "ObjectID": "95856",
+        "Work": "https://www.moma.org/collection/works/95856",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNTczNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a2d5f831f6147287",
+        "Details": {
+            "Medium": "Ink, watercolor, and root beer concentrate on paper",
+            "Dimensions": "11 x 14\" (27.9 x 35.6 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "1594.2005",
+            "Copyright": "\u00a9 2023 Marcel Dzama",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/27712"
+    },
+    {
+        "Artist": "Marcel Dzama",
+        "Title": "Untitled",
+        "Year": "(2002)",
+        "ObjectID": "95857",
+        "Work": "https://www.moma.org/collection/works/95857",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNTczNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=41f47baf9272f8fe",
+        "Details": {
+            "Medium": "Ink, watercolor, and root beer concentrate on paper",
+            "Dimensions": "11 x 14\" (27.9 x 35.6 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "1595.2005",
+            "Copyright": "\u00a9 2023 Marcel Dzama",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/27712"
+    },
+    {
+        "Artist": "Marcel Dzama",
+        "Title": "Untitled",
+        "Year": "(2002)",
+        "ObjectID": "95858",
+        "Work": "https://www.moma.org/collection/works/95858",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNTczNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=dc2a57b07dd8f372",
+        "Details": {
+            "Medium": "Ink, watercolor, and root beer concentrate on paper",
+            "Dimensions": "11 x 14\" (27.9 x 35.6 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "1596.2005",
+            "Copyright": "\u00a9 2023 Marcel Dzama",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/27712"
+    },
+    {
+        "Artist": "Marcel Dzama",
+        "Title": "Untitled",
+        "Year": "(2002)",
+        "ObjectID": "95859",
+        "Work": "https://www.moma.org/collection/works/95859",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNTczNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1c0a9dd9f8851ad9",
+        "Details": {
+            "Medium": "Ink, watercolor, and root beer concentrate on paper",
+            "Dimensions": "11 x 14\" (27.9 x 35.6 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "1597.2005",
+            "Copyright": "\u00a9 2023 Marcel Dzama",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/27712"
+    },
+    {
+        "Artist": "Marcel Dzama",
+        "Title": "Untitled",
+        "Year": "(2002)",
+        "ObjectID": "95860",
+        "Work": "https://www.moma.org/collection/works/95860",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNTczOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=51bdd619e5c2c80c",
+        "Details": {
+            "Medium": "Ink, watercolor, root beer concentrate, and correction fluid on paper",
+            "Dimensions": "11 x 14\" (27.9 x 35.6 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "1598.2005",
+            "Copyright": "\u00a9 2023 Marcel Dzama",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/27712"
+    },
+    {
+        "Artist": "Marcel Dzama",
+        "Title": "Untitled",
+        "Year": "(2002)",
+        "ObjectID": "95861",
+        "Work": "https://www.moma.org/collection/works/95861",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNTczOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3f62e6d447303cf1",
+        "Details": {
+            "Medium": "Ink, watercolor, and root beer concentrate on paper",
+            "Dimensions": "11 x 14\" (27.9 x 35.6 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "1599.2005",
+            "Copyright": "\u00a9 2023 Marcel Dzama",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/27712"
+    },
+    {
+        "Artist": "Marcel Dzama",
+        "Title": "Untitled",
+        "Year": "(2002)",
+        "ObjectID": "95862",
+        "Work": "https://www.moma.org/collection/works/95862",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNTc0MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5586461214a386b9",
+        "Details": {
+            "Medium": "Ink, watercolor, and root beer concentrate on paper",
+            "Dimensions": "11 x 14\" (27.9 x 35.6 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "1600.2005",
+            "Copyright": "\u00a9 2023 Marcel Dzama",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/27712"
+    },
+    {
+        "Artist": "Marcel Dzama",
+        "Title": "Untitled",
+        "Year": "(2002)",
+        "ObjectID": "95863",
+        "Work": "https://www.moma.org/collection/works/95863",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNTc0MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=969bcbf018e91b8f",
+        "Details": {
+            "Medium": "Ink, watercolor, and root beer concentrate on paper",
+            "Dimensions": "11 x 14\" (27.9 x 35.6 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "1601.2005",
+            "Copyright": "\u00a9 2023 Marcel Dzama",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/27712"
+    },
+    {
+        "Artist": "Marcel Dzama",
+        "Title": "Untitled",
+        "Year": "(2002)",
+        "ObjectID": "95864",
+        "Work": "https://www.moma.org/collection/works/95864",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNTczMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=46646d3d37c5c571",
+        "Details": {
+            "Medium": "Ink, watercolor, and root beer concentrate on paper",
+            "Dimensions": "11 x 14\" (27.9 x 35.6 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "1602.2005",
+            "Copyright": "\u00a9 2023 Marcel Dzama",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/27712"
+    },
+    {
+        "Artist": "Marcel Dzama",
+        "Title": "Untitled",
+        "Year": "(2002)",
+        "ObjectID": "95865",
+        "Work": "https://www.moma.org/collection/works/95865",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE0NTYxOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=db6905563401a120",
+        "Details": {
+            "Medium": "Ink, watercolor, and root beer concentrate on paper",
+            "Dimensions": "11 x 14\" (27.9 x 35.6 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "1603.2005",
+            "Copyright": "\u00a9 2023 Marcel Dzama",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/27712"
+    },
+    {
+        "Artist": "Marcel Dzama",
+        "Title": "Untitled",
+        "Year": "(2002)",
+        "ObjectID": "95866",
+        "Work": "https://www.moma.org/collection/works/95866",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNTczMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7d70b84bca988d90",
+        "Details": {
+            "Medium": "Ink, watercolor, and root beer concentrate on paper",
+            "Dimensions": "11 x 14\" (27.9 x 35.6 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "1604.2005",
+            "Copyright": "\u00a9 2023 Marcel Dzama",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/27712"
+    },
+    {
+        "Artist": "Martin Eder",
+        "Title": "Untitled",
+        "Year": "2002",
+        "ObjectID": "95880",
+        "Work": "https://www.moma.org/collection/works/95880",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyNDA0OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=87a8bc700afe1d52",
+        "Details": {
+            "Medium": "Watercolor and pencil on paper",
+            "Dimensions": "11 1/8 x 8 1/2\" (28.3 x 21.6 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "1617.2005",
+            "Copyright": "\u00a9 2023 Martin Eder / Artists Rights Society (ARS), New York / VG Bild-Kunst, Germany",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/28613"
     }
 ]

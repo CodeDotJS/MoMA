@@ -1,883 +1,882 @@
 [
     {
-        "Artist": "Ellsworth Kelly",
-        "Title": "Yellow Piece",
-        "Year": "1966",
-        "ObjectID": "169715",
-        "Work": "https://www.moma.org/collection/works/169715",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5ODc0MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4237a78924454058",
+        "Artist": "Charles White",
+        "Title": "Wanted Poster Series #11 and Wanted Poster Series #11a",
+        "Year": "1970",
+        "ObjectID": "67934",
+        "Work": "https://www.moma.org/collection/works/67934",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0NTA2MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=93a074faaea6e26f",
         "Details": {
-            "Medium": "Acrylic on canvas",
-            "Dimensions": "75 x 75\" (190.5 x 190.5 cm)",
-            "Credit": "Gift of the artist and The Riklis Collection of McCrory Corporation (both by exchange)",
-            "Object number": "544.2013",
-            "Copyright": "\u00a9 2023 Ellsworth Kelly",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/3048"
-    },
-    {
-        "Artist": "Per Kirkeby",
-        "Title": "Untitled (Mannerkopf)",
-        "Year": "1966",
-        "ObjectID": "96374",
-        "Work": "https://www.moma.org/collection/works/96374",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExMDk3OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0645af6d93da2d01",
-        "Details": {
-            "Medium": "Watercolor and carbon paper transfer on paper",
-            "Dimensions": "16 1/2 x 11 1/2\" (41.9 x 29.2 cm)",
-            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
-            "Object number": "2080.2005",
-            "Copyright": "\u00a9 2023 Per Kirkeby",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/3118"
-    },
-    {
-        "Artist": "Allen Klein, Guy Teschmacher",
-        "Title": "Clock",
-        "Year": "1966",
-        "ObjectID": "4752",
-        "Work": "https://www.moma.org/collection/works/4752",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMjA2MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c5225c3d1714e033",
-        "Details": {
-            "Manufacturer": "Rothschild Plastics Corp., Philadelphia, PA",
-            "Medium": "Acrylic casing",
-            "Dimensions": "3 7/8 x 3 3/4 x 3 3/4\" (9.8 x 9.5 x 9.5 cm)",
-            "Credit": "Gift of Atelier International, New York, USA",
-            "Object number": "2236.1967",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/3132"
-    },
-    {
-        "Artist": "Werner Knaupp",
-        "Title": "Sahara",
-        "Year": "1966",
-        "ObjectID": "74638",
-        "Work": "https://www.moma.org/collection/works/74638",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNjAzNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8fed443e78a81313",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "composition: 8 9/16 x 19 9/16\" (21.7 x 49.7 cm); sheet: 17 11/16 x 19 7/8\" (44.9 x 50.5 cm)",
-            "Credit": "Grace M. Mayer Fund",
-            "Object number": "885.1969",
-            "Copyright": "\u00a9 2023 Werner Knaupp / Artists Rights Society (ARS), New York / VG Bild-Kunst, Germany",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/3160"
-    },
-    {
-        "Artist": "Oskar Kokoschka",
-        "Title": "Manhattan I from the portfolio Manhattan",
-        "Year": "1966, published 1967",
-        "ObjectID": "65948",
-        "Work": "https://www.moma.org/collection/works/65948",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2OTA4OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6db0f634fe824d13",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "composition (irreg.): 22 x 25 1/8\" (55.9 x 63.8 cm);l sheet: 29 5/8 x 35 1/16\" (75.2 x 89 cm)",
-            "Publisher": "Marlborough Fine Art Ltd., London",
-            "Printer": "J.E. Wolfensberger, Zurich",
-            "Edition": "115 (including 75 signed and numbered 1-75 [this ex.], printed in black, and 40 signed and numbered I-XL, some printed in dark blue, some printed in dark brown); plus 5 artist's proofs and several trial proofs",
-            "Credit": "Adriane Reggie Fund",
-            "Object number": "281.1968",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / Pro Litteris, Zurich",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/3197"
-    },
-    {
-        "Artist": "Arthur Kopcke",
-        "Title": "The Dog",
-        "Year": "1966",
-        "ObjectID": "127417",
-        "Work": "https://www.moma.org/collection/works/127417",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxODk3MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=41f5ff810b82a0e1",
-        "Details": {
-            "Medium": "Oil and pencil on printed paper",
-            "Dimensions": "sheet: 14 x 9 1/8\" (35.5 x 23.2 cm)",
-            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
-            "Object number": "2299.2008",
-            "Copyright": "\u00a9 2023 Arthur K\u00f6pcke / Artists Rights Society (ARS), New York / COPY-DAN, Denmark",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/18701"
-    },
-    {
-        "Artist": "Takehisa Kosugi",
-        "Title": "Biographical Sketch, Anima 7, Tender Music, For Mr. M, Instrumental Music, To W., Organic Music, and Film & Film #4",
-        "Year": "1962-1966, executed 1966",
-        "ObjectID": "127419",
-        "Work": "https://www.moma.org/collection/works/127419",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0NjU0NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=acdfc93e31abad15",
-        "Details": {
-            "Medium": "Offset lithograph with pencil and ink additions; and ink on three sheets of paper, two with cut- and-pasted additions",
-            "Dimensions": "sheet (a): 18 3/16 x 8 7/16\" (46.2 x 21.5 cm); sheet (b, c, d): 11 x 8 1/2\" (27.9 x 21.6 cm)",
-            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
-            "Object number": "2304.2008.a-d",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/3227"
-    },
-    {
-        "Artist": "Josef Koudelka",
-        "Title": "Bardejov District",
-        "Year": "1966",
-        "ObjectID": "46322",
-        "Work": "https://www.moma.org/collection/works/46322",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMzI5NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e9629a90c2167a77",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "14 \u00d7 9 5/16\" (35.6 \u00d7 23.7 cm)",
-            "Credit": "Gift of Arthur M. Bullowa",
-            "Object number": "104.1987",
-            "Copyright": "\u00a9 2023 Josef Koudelka",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/3229"
-    },
-    {
-        "Artist": "Josef Koudelka",
-        "Title": "Czechoslovakia",
-        "Year": "1966",
-        "ObjectID": "46355",
-        "Work": "https://www.moma.org/collection/works/46355",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMzI5OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8fa6badefec18210",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "9 7/16 \u00d7 14 1/8\" (24 \u00d7 35.7 cm)",
-            "Credit": "Gift of Arthur M. Bullowa",
-            "Object number": "106.1987",
-            "Copyright": "\u00a9 2023 Josef Koudelka",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/3229"
-    },
-    {
-        "Artist": "Josef Koudelka",
-        "Title": "Velka Lomnica",
-        "Year": "1966",
-        "ObjectID": "52741",
-        "Work": "https://www.moma.org/collection/works/52741",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxOTkwNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2ff786b86d385d15",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "13 \u00d7 8 3/8\" (33.0 \u00d7 21.3 cm)",
-            "Credit": "Stephen R. Currier Memorial Fund",
-            "Object number": "406.1971",
-            "Copyright": "\u00a9 2023 Josef Koudelka",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/3229"
-    },
-    {
-        "Artist": "Josef Koudelka",
-        "Title": "Sprisske Bystre",
-        "Year": "1966",
-        "ObjectID": "52776",
-        "Work": "https://www.moma.org/collection/works/52776",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxOTkwOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=57e774a7042b000b",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "8 1/2 \u00d7 12 3/4\" (21.6 \u00d7 32.2 cm)",
-            "Credit": "David H. McAlpin Fund",
-            "Object number": "408.1971",
-            "Copyright": "\u00a9 2023 Josef Koudelka",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/3229"
-    },
-    {
-        "Artist": "Lee Krasner",
-        "Title": "Gaea",
-        "Year": "1966",
-        "ObjectID": "79162",
-        "Work": "https://www.moma.org/collection/works/79162",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MzIzNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0ddf1a366cd4ce5c",
-        "Details": {
-            "Medium": "Oil on canvas",
-            "Dimensions": "69\" x 10' 5 1/2\" (175.3 x 318.8 cm)",
-            "Credit": "Kay Sage Tanguy Fund",
-            "Object number": "212.1977",
-            "Copyright": "\u00a9 2023 Pollock-Krasner Foundation / Artists Rights Society (ARS), New York",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/3240"
-    },
-    {
-        "Artist": "Paul Krot",
-        "Title": "Providence, R.I.",
-        "Year": "1966",
-        "ObjectID": "204924",
-        "Work": "https://www.moma.org/collection/works/204924",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM1NTg0NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=13aa4f0fbad19e48",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "4 3/8 \u00d7 6 15/16\" (11.1 \u00d7 17.6 cm)",
-            "Credit": "Purchase",
-            "Object number": "SC1967.1.5",
-            "Portfolio": "Photographs Rhode Island School of Design",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/49726"
-    },
-    {
-        "Artist": "Warren Krupsaw",
-        "Title": "Norway",
-        "Year": "1966",
-        "ObjectID": "204925",
-        "Work": "https://www.moma.org/collection/works/204925",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM1NTg0OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f3ec6e83d63a6e51",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "5 5/16 \u00d7 6 11/16\" (13.5 \u00d7 17 cm)",
-            "Credit": "Purchase",
-            "Object number": "SC1967.1.6",
-            "Portfolio": "Photographs Rhode Island School of Design",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/43039"
-    },
-    {
-        "Artist": "Gerald Laing",
-        "Title": "Compact from 11 Pop Artists, Volume I",
-        "Year": "1966",
-        "ObjectID": "65779",
-        "Work": "https://www.moma.org/collection/works/65779",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwNTcyOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1288f0fbcc44ed47",
-        "Details": {
-            "Medium": "Screenprint with collage additions from a portfolio of ten screenprints (one with collage additions), and one lithograph",
-            "Dimensions": "composition: 22 3/8 x 19 7/8\" (56.8 x 50.5 cm); sheet: 24 x 19 7/8\" (60.9 x 50.5cm)",
-            "Publisher": "Original Editions",
-            "Printer": "Knickerbocker Machine & Foundry Inc., New York",
-            "Edition": "200",
-            "Credit": "Gift of Original Editions",
-            "Object number": "274.1966.1j",
-            "Portfolio": "11 Pop Artists",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/3344"
-    },
-    {
-        "Artist": "Gerald Laing",
-        "Title": "Slide from 11 Pop Artists, Volume II",
-        "Year": "1966",
-        "ObjectID": "65788",
-        "Work": "https://www.moma.org/collection/works/65788",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM1Nzk2OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3f68456f24782d65",
-        "Details": {
-            "Medium": "Screenprint with collage additions from a portfolio of eleven screenprints, one with collage additions",
-            "Dimensions": "composition: 28 1/4 x 12 3/4\" (71.7 x 32.4cm); sheet: 29 7/8 x 24\" (75.9 x 61 cm)",
-            "Publisher": "Original Editions",
-            "Printer": "Knickerbocker Machine & Foundry Inc., New York",
-            "Edition": "200",
-            "Credit": "Gift of Original Editions",
-            "Object number": "274.1966.2h",
-            "Portfolio": "11 Pop Artists",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/3344"
-    },
-    {
-        "Artist": "Gerald Laing",
-        "Title": "Triple from 11 Pop Artists, Volume III",
-        "Year": "1966",
-        "ObjectID": "65800",
-        "Work": "https://www.moma.org/collection/works/65800",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNTA5NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=82b4b291112291dc",
-        "Details": {
-            "Medium": "Screenprint from a portfolio of ten screenprints and one lithograph",
-            "Dimensions": "composition: 21 3/16 x 31 1/4\" (53.8 x 79.4cm); sheet: 29 15/16 x 36\" (76.1 x 91.4cm)",
-            "Publisher": "Original Editions",
-            "Printer": "Knickerbocker Machine & Foundry Inc., New York",
-            "Edition": "200",
-            "Credit": "Gift of Original Editions",
-            "Object number": "274.1966.3i",
-            "Portfolio": "11 Pop Artists",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/3344"
-    },
-    {
-        "Artist": "Ben Larrabee",
-        "Title": "Sue",
-        "Year": "1966",
-        "ObjectID": "204926",
-        "Work": "https://www.moma.org/collection/works/204926",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM1NTg0OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=797d87f908534862",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "4 \u00d7 6 1/8\" (10.2 \u00d7 15.5 cm)",
-            "Credit": "Purchase",
-            "Object number": "SC1967.1.7",
-            "Copyright": "\u00a9 2023 Ben Larrabee",
-            "Portfolio": "Photographs Rhode Island School of Design",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/49724"
-    },
-    {
-        "Artist": "Jan Lenica",
-        "Title": "Der Schatten (Shadows) (Poster for German distribution of the Polish film Cien directed by Jerzy Kawalerowicz and first released in 1956)",
-        "Year": "1966",
-        "ObjectID": "125418",
-        "Work": "https://www.moma.org/collection/works/125418",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5OTM4NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d2cd884327cadd8a",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "33 1/4 \u00d7 23 1/2\" (84.5 \u00d7 59.7 cm)",
-            "Credit": "Gift of the designer",
-            "Object number": "378.2014",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/3480"
-    },
-    {
-        "Artist": "Jan Lenica",
-        "Title": "Cul-de-sac (Poster for British comedy thriller directed by Roman Polanski)",
-        "Year": "1966",
-        "ObjectID": "125420",
-        "Work": "https://www.moma.org/collection/works/125420",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwMTcwMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e3504408042f00ef",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "29 1/4 x 39 3/4\" (74.3 x 101 cm)",
-            "Credit": "Gift of the designer",
-            "Object number": "377.2014",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/3480"
-    },
-    {
-        "Artist": "Jan Lenica",
-        "Title": "Der Soldat (The Soldier) (Poster for German distribution of the French film Le Petit Soldat directed by Jean-Luc Godard and first released in 1963)",
-        "Year": "1966",
-        "ObjectID": "125421",
-        "Work": "https://www.moma.org/collection/works/125421",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5OTM4NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e66128fbe4be34ae",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "33 1/4 \u00d7 23 1/2\" (84.5 \u00d7 59.7 cm)",
-            "Credit": "Gift of the designer",
-            "Object number": "379.2014",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/3480"
-    },
-    {
-        "Artist": "Jan Lenica",
-        "Title": "Jan Lenica (Poster for exhibition of the artist\u2019s work)",
-        "Year": "1966",
-        "ObjectID": "125423",
-        "Work": "https://www.moma.org/collection/works/125423",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5OTM4NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4086070ce71d27b3",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "24 \u00d7 17\" (61 \u00d7 43.2 cm)",
-            "Credit": "Gift of the designer",
-            "Object number": "380.2014",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/3480"
-    },
-    {
-        "Artist": "Sol LeWitt",
-        "Title": "Cubic-Modular Wall Structure, Black",
-        "Year": "1966",
-        "ObjectID": "81428",
-        "Work": "https://www.moma.org/collection/works/81428",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyNjc1NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b1be4d5619b7dd58",
-        "Details": {
-            "Medium": "Painted wood",
-            "Dimensions": "43 1/2 x 43 1/2 x 9 3/8\" (110.3 x 110.2 x 23.7 cm)",
-            "Credit": "Gift of Alicia Legg",
-            "Object number": "390.1986",
-            "Copyright": "\u00a9 2023 Sol LeWitt / Artists Rights Society (ARS), New York",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/3528"
-    },
-    {
-        "Artist": "Sol LeWitt",
-        "Title": "Serial Project, I (ABCD)",
-        "Year": "1966",
-        "ObjectID": "81533",
-        "Work": "https://www.moma.org/collection/works/81533",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMTU5MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8d3ea9c8696ce161",
-        "Details": {
-            "Medium": "Baked enamel on steel units over baked enamel on aluminum",
-            "Dimensions": "20\" x 13' 7\" x 13' 7\" (50.8 x 398.9 x 398.9 cm)",
-            "Credit": "Gift of Agnes Gund and purchase (by exchange)",
-            "Object number": "515.1978.a-ssss",
-            "Copyright": "\u00a9 2023 Sol LeWitt/Artists Rights Society (ARS), New York",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/3528"
-    },
-    {
-        "Artist": "Roy Lichtenstein",
-        "Title": "Lincoln Center / September 12-22 1966 / 4th New York Film Festival / Philarmonic Hall",
-        "Year": "1966",
-        "ObjectID": "7016",
-        "Work": "https://www.moma.org/collection/works/7016",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMDIxOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=eb74e6ffb9942caa",
-        "Details": {
-            "Medium": "Poster",
-            "Dimensions": "45 3/4 x 29 15/16\" (116.2 x 76.1 cm)",
-            "Credit": "Peter Stone Collection of Posters by Artists",
-            "Object number": "448.1976",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/3542"
-    },
-    {
-        "Artist": "Roy Lichtenstein",
-        "Title": "Study for Modern Painting with Bolt",
-        "Year": "1966",
-        "ObjectID": "38604",
-        "Work": "https://www.moma.org/collection/works/38604",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0NzkwOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f294cff1b1b19f48",
-        "Details": {
-            "Medium": "Felt-tip pen and pencil on paper",
-            "Dimensions": "5 x 5\" (12.9 x 12.9 cm)",
-            "Credit": "Fractional and promised gift of Jan Cowles and Charles Cowles to honor the memory of Roy Lichtenstein",
-            "Object number": "1374.1974",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/3542"
-    },
-    {
-        "Artist": "Richard Lindner",
-        "Title": "Checkmate",
-        "Year": "1966",
-        "ObjectID": "36538",
-        "Work": "https://www.moma.org/collection/works/36538",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMTE5NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ee4a6fd06086ca27",
-        "Details": {
-            "Medium": "Cut-and-pasted papers, watercolor, pencil, crayon, and ink on paper",
-            "Dimensions": "23 7/8 x 17 7/8\" (60.6 x 45.6 cm)",
-            "Credit": "John S. Newberry Fund",
-            "Object number": "370.1966",
-            "Copyright": "\u00a9 2023 Richard Lindner / Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/3559"
-    },
-    {
-        "Artist": "Joran Lindvall, Sture Balgard, Eva Bjorklund",
-        "Title": "Hej stad",
-        "Year": "1966",
-        "ObjectID": "8883",
-        "Work": "https://www.moma.org/collection/works/8883",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDQyOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=38631c32629e75b5",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "39 3/8 x 27 1/2\" (100 x 69.9 cm)",
-            "Credit": "Gift of the designers",
-            "Object number": "1577.2000",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/8404"
-    },
-    {
-        "Artist": "Carol Lipper, John Massey",
-        "Title": "Shedd Aquarium",
-        "Year": "1965-66",
-        "ObjectID": "7965",
-        "Work": "https://www.moma.org/collection/works/7965",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxOTQ4OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0f91b778475c6d71",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "50 x 35\" (128 x 88.1 cm)",
-            "Credit": "Gift of John Massey",
-            "Object number": "702.1966",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/3565"
-    },
-    {
-        "Artist": "Frank Lobdell",
-        "Title": "Untitled",
-        "Year": "1966",
-        "ObjectID": "77638",
-        "Work": "https://www.moma.org/collection/works/77638",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5MTgwMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3c157c9b3d853fa1",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "composition and sheet: 20 1/16 \u00d7 27\" (51 \u00d7 68.6 cm)",
+            "Medium": "Lithograph on two sheets",
+            "Dimensions": "overall (two sheets): 22 9/16 \u00d7 32 1/8\" (57.3 \u00d7 81.6 cm)",
             "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
             "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
             "Edition": "20, plus 9 Tamarind Impressions",
             "Credit": "Gift of Kleiner, Bell & Co.",
-            "Object number": "1832.1967",
+            "Object number": "370.1970.a-b",
+            "Copyright": "\u00a9 2023 The Charles White Archives",
             "Associated work": "Tamarind Lithography Workshop Archive",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/3576"
+        "Profile": "https://www.moma.org/artists/6339"
     },
     {
-        "Artist": "Frank Lobdell",
-        "Title": "Untitled",
-        "Year": "1966",
-        "ObjectID": "77639",
-        "Work": "https://www.moma.org/collection/works/77639",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5MTgwMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2222f8104678c5a3",
+        "Artist": "Charles White",
+        "Title": "Wanted Poster Series #14",
+        "Year": "1970",
+        "ObjectID": "67950",
+        "Work": "https://www.moma.org/collection/works/67950",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3Nzc4OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=55e9217ff768265c",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "composition and sheet: 20 1/16 \u00d7 27 1/16\" (50.9 \u00d7 68.7 cm)",
+            "Dimensions": "composition and sheet: 21 15/16 \u00d7 29 15/16\" (55.8 \u00d7 76 cm)",
             "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
             "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
             "Edition": "20",
             "Credit": "Gift of Kleiner, Bell & Co.",
-            "Object number": "1833.1967",
+            "Object number": "371.1970",
+            "Copyright": "\u00a9 2023 The Charles White Archives",
             "Associated work": "Tamarind Lithography Workshop Archive",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/3576"
+        "Profile": "https://www.moma.org/artists/6339"
     },
     {
-        "Artist": "Frank Lobdell",
-        "Title": "Untitled",
-        "Year": "1966",
-        "ObjectID": "77640",
-        "Work": "https://www.moma.org/collection/works/77640",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5MTgwMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=32b6bd91d969b157",
+        "Artist": "Charles White",
+        "Title": "Wanted Poster Series #14a",
+        "Year": "1970",
+        "ObjectID": "67978",
+        "Work": "https://www.moma.org/collection/works/67978",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3OTM2NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=89226b3eb1eb811c",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "composition and sheet: 20 1/16 \u00d7 27 1/16\" (51 \u00d7 68.7 cm)",
+            "Dimensions": "composition and sheet: 22 1/16 \u00d7 30 1/8\" (56 \u00d7 76.5 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "10",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "372.1970",
+            "Copyright": "\u00a9 2023 The Charles White Archives",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6339"
+    },
+    {
+        "Artist": "Charles White",
+        "Title": "Wanted Poster Series #12",
+        "Year": "1970",
+        "ObjectID": "67994",
+        "Work": "https://www.moma.org/collection/works/67994",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3Nzc5MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=865006a210632aff",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition and sheet: 25 \u00d7 37\" (63.5 \u00d7 94 cm)",
             "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
             "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
             "Edition": "20",
             "Credit": "Gift of Kleiner, Bell & Co.",
-            "Object number": "1834.1967",
+            "Object number": "373.1970",
+            "Copyright": "\u00a9 2023 The Charles White Archives",
             "Associated work": "Tamarind Lithography Workshop Archive",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/3576"
+        "Profile": "https://www.moma.org/artists/6339"
     },
     {
-        "Artist": "Frank Lobdell",
-        "Title": "Untitled",
-        "Year": "1966",
-        "ObjectID": "77641",
-        "Work": "https://www.moma.org/collection/works/77641",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5MTgwNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=026364d18a2e162d",
+        "Artist": "Charles White",
+        "Title": "Wanted Poster Series #12a",
+        "Year": "1970",
+        "ObjectID": "68017",
+        "Work": "https://www.moma.org/collection/works/68017",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3Nzc5MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=05d57ac3455f66f7",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "composition and sheet: 20 1/16 \u00d7 27 1/16\" (50.9 \u00d7 68.8 cm)",
+            "Dimensions": "composition and sheet: 25 \u00d7 37\" (63.5 \u00d7 94 cm)",
             "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
             "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
             "Edition": "20",
             "Credit": "Gift of Kleiner, Bell & Co.",
-            "Object number": "1835.1967",
+            "Object number": "374.1970",
+            "Copyright": "\u00a9 2023 The Charles White Archives",
             "Associated work": "Tamarind Lithography Workshop Archive",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/3576"
+        "Profile": "https://www.moma.org/artists/6339"
     },
     {
-        "Artist": "Frank Lobdell",
-        "Title": "Untitled",
-        "Year": "1966",
-        "ObjectID": "77642",
-        "Work": "https://www.moma.org/collection/works/77642",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5MTgwNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=bbac388f11b42c8c",
+        "Artist": "Charles White",
+        "Title": "Wanted Poster Series #15",
+        "Year": "1970",
+        "ObjectID": "68031",
+        "Work": "https://www.moma.org/collection/works/68031",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5MTg0MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=69d19cd56b789d88",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "composition and sheet: 20 1/16 \u00d7 27 1/16\" (50.9 \u00d7 68.8 cm)",
+            "Dimensions": "composition and sheet: 21 \u00d7 27\" (53.3 \u00d7 68.6 cm)",
             "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
             "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
             "Edition": "20",
             "Credit": "Gift of Kleiner, Bell & Co.",
-            "Object number": "1836.1967",
+            "Object number": "375.1970",
+            "Copyright": "\u00a9 2023 The Charles White Archives",
             "Associated work": "Tamarind Lithography Workshop Archive",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/3576"
+        "Profile": "https://www.moma.org/artists/6339"
     },
     {
-        "Artist": "Frank Lobdell",
-        "Title": "Untitled",
-        "Year": "1966",
-        "ObjectID": "77643",
-        "Work": "https://www.moma.org/collection/works/77643",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5MTgwNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5ffba98a06159323",
+        "Artist": "David Wilcox",
+        "Title": "Nina Simone",
+        "Year": "1970",
+        "ObjectID": "4929",
+        "Work": "https://www.moma.org/collection/works/4929",
+        "Thumbnail": null,
         "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "composition and sheet: 27 3/16 \u00d7 20 3/16\" (69.1 \u00d7 51.3 cm)",
-            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
-            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
-            "Edition": "20",
-            "Credit": "Gift of Kleiner, Bell & Co.",
-            "Object number": "1837.1967",
-            "Associated work": "Tamarind Lithography Workshop Archive",
-            "Department": "Drawings and Prints"
+            "Medium": "Offset lithograph",
+            "Dimensions": "27 7/16 \u00d7 19 3/16\" (69.7 \u00d7 48.7 cm)",
+            "Designer": "Robert Defrin",
+            "Credit": "Gift of RCA Records, Inc.",
+            "Object number": "70.1972",
+            "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/3576"
+        "Profile": "https://www.moma.org/artists/6364"
     },
     {
-        "Artist": "Frank Lobdell",
-        "Title": "Untitled",
-        "Year": "1966",
-        "ObjectID": "77644",
-        "Work": "https://www.moma.org/collection/works/77644",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5MTgwNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=08d0c8ff220bfdcc",
+        "Artist": "William T. Wiley",
+        "Title": "Peacock Gap",
+        "Year": "1970",
+        "ObjectID": "36648",
+        "Work": "https://www.moma.org/collection/works/36648",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ4ODk1MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=abd8f6b80a623078",
         "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "composition (irreg.): 27 1/16 \u00d7 19 5/8\" (68.7 \u00d7 49.9 cm); sheet: 27 1/16 \u00d7 20 1/16\" (68.7 \u00d7 51 cm)",
-            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
-            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
-            "Edition": "20",
-            "Credit": "Gift of Kleiner, Bell & Co.",
-            "Object number": "1838.1967",
-            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Medium": "Watercolor and ink on paper",
+            "Dimensions": "28 7/8 x 20 7/8\" (73.5 x 53.3 cm)",
+            "Credit": "Larry Aldrich Foundation Fund",
+            "Object number": "395.1970",
+            "Copyright": "\u00a9 2023 William T. Wiley",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/3576"
+        "Profile": "https://www.moma.org/artists/6370"
     },
     {
-        "Artist": "Frank Lobdell",
+        "Artist": "William T. Williams",
         "Title": "Untitled",
-        "Year": "1966",
-        "ObjectID": "77645",
-        "Work": "https://www.moma.org/collection/works/77645",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5MTgwOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c93139b328916aec",
+        "Year": "1970",
+        "ObjectID": "65978",
+        "Work": "https://www.moma.org/collection/works/65978",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0MDc1NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=05c1d77acf8627b2",
         "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "composition and sheet: 27 1/16 \u00d7 20\" (68.7 \u00d7 50.8 cm)",
-            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
-            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
-            "Edition": "20",
-            "Credit": "Gift of Kleiner, Bell & Co.",
-            "Object number": "1839.1967",
-            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Medium": "Portfolio of four screenprints",
+            "Dimensions": "composition (each approx.): 15 15/16 \u00d7 11 9/16\" (40.5 \u00d7 29.3 cm); sheet (each): 23 3/8 \u00d7 17 1/2\" (59.4 \u00d7 44.4 cm)",
+            "Publisher": "HKL Ltd., New York",
+            "Edition": "144",
+            "Credit": "Gift of Joshua Mack in memory of Judy Goldberg",
+            "Object number": "282.1997.1-4",
+            "Type": "Portfolio",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/3576"
+        "Profile": "https://www.moma.org/artists/6382"
     },
     {
-        "Artist": "Frank Lobdell",
-        "Title": "Untitled",
-        "Year": "1966",
-        "ObjectID": "77646",
-        "Work": "https://www.moma.org/collection/works/77646",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5MTgwOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=bf6ec0b323b4636b",
+        "Artist": "William T. Williams",
+        "Title": "Untitled from an untitled portfolio",
+        "Year": "1970",
+        "ObjectID": "144857",
+        "Work": "https://www.moma.org/collection/works/144857",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0MDc1NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=05c1d77acf8627b2",
         "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "composition and sheet: 27 3/16 \u00d7 20 1/16\" (69 \u00d7 51 cm)",
-            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
-            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
-            "Edition": "20",
-            "Credit": "Gift of Kleiner, Bell & Co.",
-            "Object number": "1840.1967",
-            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Medium": "One from a portfolio of four screenprints",
+            "Dimensions": "composition: 16 \u00d7 11 9/16\" (40.6 \u00d7 29.3 cm); sheet: 23 3/8 \u00d7 17 1/2\" (59.4 \u00d7 44.4 cm)",
+            "Publisher": "HKL Ltd., New York",
+            "Edition": "144",
+            "Credit": "Gift of Joshua Mack in memory of Judy Goldberg",
+            "Object number": "282.1997.1",
+            "Portfolio": "Untitled",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/3576"
+        "Profile": "https://www.moma.org/artists/6382"
     },
     {
-        "Artist": "Frank Lobdell",
-        "Title": "Untitled",
-        "Year": "1966",
-        "ObjectID": "77647",
-        "Work": "https://www.moma.org/collection/works/77647",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5MTgxMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8d5ac96ca0142c66",
+        "Artist": "William T. Williams",
+        "Title": "Untitled from an untitled portfolio",
+        "Year": "1970",
+        "ObjectID": "144858",
+        "Work": "https://www.moma.org/collection/works/144858",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0MDc1NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a99757706965205a",
         "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "composition and sheet: 26 15/16 \u00d7 20 1/16\" (68.5 \u00d7 51 cm)",
-            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
-            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
-            "Edition": "20",
-            "Credit": "Gift of Kleiner, Bell & Co.",
-            "Object number": "1841.1967",
-            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Medium": "One from a portfolio of four screenprints",
+            "Dimensions": "composition: 16 1/16 \u00d7 11 9/16\" (40.8 \u00d7 29.3 cm); sheet: 23 3/8 \u00d7 17 1/2\" (59.4 \u00d7 44.4 cm)",
+            "Publisher": "HKL Ltd., New York",
+            "Edition": "144",
+            "Credit": "Gift of Joshua Mack in memory of Judy Goldberg",
+            "Object number": "282.1997.2",
+            "Portfolio": "Untitled",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/3576"
+        "Profile": "https://www.moma.org/artists/6382"
     },
     {
-        "Artist": "Frank Lobdell",
-        "Title": "Untitled",
-        "Year": "1966",
-        "ObjectID": "77648",
-        "Work": "https://www.moma.org/collection/works/77648",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5MTgxMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2078ca08a99f1493",
+        "Artist": "William T. Williams",
+        "Title": "Untitled from an untitled portfolio",
+        "Year": "1970",
+        "ObjectID": "144859",
+        "Work": "https://www.moma.org/collection/works/144859",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0MDc1NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=bfcc6b5db2cf5e01",
         "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "composition and sheet: 27 1/16 \u00d7 20 1/16\" (68.8 \u00d7 51 cm)",
-            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
-            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
-            "Edition": "20",
-            "Credit": "Gift of Kleiner, Bell & Co.",
-            "Object number": "1842.1967",
-            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Medium": "One from a portfolio of four screenprints",
+            "Dimensions": "composition: 15 15/16 \u00d7 11 9/16\" (40.5 \u00d7 29.4 cm); sheet: 23 3/8 \u00d7 17 1/2\" (59.4 \u00d7 44.4 cm)",
+            "Publisher": "HKL Ltd., New York",
+            "Edition": "144",
+            "Credit": "Gift of Joshua Mack in memory of Judy Goldberg",
+            "Object number": "282.1997.3",
+            "Portfolio": "Untitled",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/3576"
+        "Profile": "https://www.moma.org/artists/6382"
     },
     {
-        "Artist": "Frank Lobdell",
-        "Title": "Untitled",
-        "Year": "1966",
-        "ObjectID": "77649",
-        "Work": "https://www.moma.org/collection/works/77649",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5MTgxMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=22902a532c941b34",
+        "Artist": "William T. Williams",
+        "Title": "Untitled from an untitled portfolio",
+        "Year": "1970",
+        "ObjectID": "144860",
+        "Work": "https://www.moma.org/collection/works/144860",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0MDc1NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2fa9d92cd2a8a603",
         "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "composition and sheet: 20 1/16 \u00d7 27\" (50.9 \u00d7 68.6 cm)",
-            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
-            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
-            "Edition": "20",
-            "Credit": "Gift of Kleiner, Bell & Co.",
-            "Object number": "1843.1967",
-            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Medium": "One from a portfolio of four screenprints",
+            "Dimensions": "composition: 15 15/16 \u00d7 11 9/16\" (40.5 \u00d7 29.3 cm); sheet: 23 3/8 \u00d7 17 1/2\" (59.4 \u00d7 44.4 cm)",
+            "Publisher": "HKL Ltd., New York",
+            "Edition": "144",
+            "Credit": "Gift of Joshua Mack in memory of Judy Goldberg",
+            "Object number": "282.1997.4",
+            "Portfolio": "Untitled",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/3576"
+        "Profile": "https://www.moma.org/artists/6382"
     },
     {
-        "Artist": "Frank Lobdell",
-        "Title": "Untitled",
-        "Year": "1966",
-        "ObjectID": "77650",
-        "Work": "https://www.moma.org/collection/works/77650",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5MTgxNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=12975b53c4fd345f",
+        "Artist": "Christopher Wilmarth",
+        "Title": "Late",
+        "Year": "1970",
+        "ObjectID": "100345",
+        "Work": "https://www.moma.org/collection/works/100345",
+        "Thumbnail": null,
         "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "composition and sheet: 19 15/16 \u00d7 27 1/16\" (50.6 \u00d7 68.8 cm)",
-            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
-            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
-            "Edition": "20",
-            "Credit": "Gift of Kleiner, Bell & Co.",
-            "Object number": "1844.1967",
-            "Associated work": "Tamarind Lithography Workshop Archive",
-            "Department": "Drawings and Prints"
+            "Medium": "Wired glass, glass, gunblue steel, and steel cable",
+            "Dimensions": "30 x 59 x 8\" (76.2 x 149.9 x 20.3 cm)",
+            "Credit": "Gift of Edward R. Broida",
+            "Object number": "810.2005",
+            "Copyright": "\u00a9 2023 Estate of Christopher Wilmarth",
+            "Department": "Painting and Sculpture"
         },
-        "Profile": "https://www.moma.org/artists/3576"
+        "Profile": "https://www.moma.org/artists/6386"
     },
     {
-        "Artist": "Frank Lobdell",
-        "Title": "Untitled",
-        "Year": "1966",
-        "ObjectID": "77778",
-        "Work": "https://www.moma.org/collection/works/77778",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5MTgyMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a57ecb4e7f49ac27",
+        "Artist": "Christopher Wilmarth",
+        "Title": "Thinner",
+        "Year": "1969-70",
+        "ObjectID": "100350",
+        "Work": "https://www.moma.org/collection/works/100350",
+        "Thumbnail": null,
         "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "composition and sheet: 27 3/16 \u00d7 20 1/16\" (69 \u00d7 51 cm)",
-            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
-            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
-            "Edition": "20",
-            "Credit": "Gift of Kleiner, Bell & Co.",
-            "Object number": "1940.1967",
-            "Associated work": "Tamarind Lithography Workshop Archive",
-            "Department": "Drawings and Prints"
+            "Medium": "Glass and steel rods",
+            "Dimensions": "14 x 46 5/8 x 12\" (35.6 x 118.4 x 30.5 cm)",
+            "Credit": "Gift of Edward R. Broida",
+            "Object number": "809.2005",
+            "Copyright": "\u00a9 2023 Estate of Christopher Wilmarth",
+            "Department": "Painting and Sculpture"
         },
-        "Profile": "https://www.moma.org/artists/3576"
+        "Profile": "https://www.moma.org/artists/6386"
     },
     {
-        "Artist": "Frank Lobdell",
-        "Title": "Untitled",
-        "Year": "1966",
-        "ObjectID": "77779",
-        "Work": "https://www.moma.org/collection/works/77779",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5MTgxMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=89b51e627db69f49",
+        "Artist": "Ian Wilson",
+        "Title": "Discussion, 10th of July 1970",
+        "Year": "1970",
+        "ObjectID": "147120",
+        "Work": "https://www.moma.org/collection/works/147120",
+        "Thumbnail": null,
         "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "composition and sheet: 19 15/16 \u00d7 26 15/16\" (50.7 \u00d7 68.4 cm)",
-            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
-            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
-            "Edition": "20",
-            "Credit": "Gift of Kleiner, Bell & Co.",
-            "Object number": "1941.1967",
-            "Associated work": "Tamarind Lithography Workshop Archive",
-            "Department": "Drawings and Prints"
+            "Medium": "Photocopy on seven sheets",
+            "Dimensions": "Each: 11 13/16 x 8 1/4\" (30 x 21 cm)",
+            "Credit": "Partial gift of the Daled Collection and partial purchase through the generosity of Maja Oeri and Hans Bodenmann, Sue and Edgar Wachenheim III, Agnes Gund, Marlene Hess and James D. Zirin, Marie-Jos\u00e9e and Henry R. Kravis, and Jerry I. Speyer and Katherine G. Farley",
+            "Object number": "752.2011.a-g",
+            "Copyright": "\u00a9 2023 Ian Wilson",
+            "Department": "Media and Performance"
         },
-        "Profile": "https://www.moma.org/artists/3576"
+        "Profile": "https://www.moma.org/artists/39643"
     },
     {
-        "Artist": "Frank Lobdell",
-        "Title": "Untitled",
-        "Year": "1966",
-        "ObjectID": "77780",
-        "Work": "https://www.moma.org/collection/works/77780",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5NDM3OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=37302dfcc56c5d69",
+        "Artist": "Garry Winogrand",
+        "Title": "Opening, Frank Stella Exhibition, The Museum of Modern Art, New York (Andy Warhol)",
+        "Year": "1970",
+        "ObjectID": "49711",
+        "Work": "https://www.moma.org/collection/works/49711",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzOTQ2OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e5896811d4561b02",
         "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "composition and sheet: 22 \u00d7 30 1/8\" (55.9 \u00d7 76.5 cm)",
-            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
-            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
-            "Edition": "20",
-            "Credit": "Gift of Kleiner, Bell & Co.",
-            "Object number": "1942.1967",
-            "Associated work": "Tamarind Lithography Workshop Archive",
-            "Department": "Drawings and Prints"
+            "Sitter": "Andy Warhol",
+            "Medium": "Gelatin silver print",
+            "Dimensions": "10 5/8 \u00d7 15 7/8\" (27 \u00d7 40.3 cm)",
+            "Credit": "Purchase and gift of Barbara Schwartz in memory of Eugene M. Schwartz, by exchange",
+            "Object number": "262.1999",
+            "Copyright": "\u00a9 The Estate of Garry Winogrand, courtesy Fraenkel Gallery",
+            "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/3576"
+        "Profile": "https://www.moma.org/artists/6399"
     },
     {
-        "Artist": "Frank Lobdell",
-        "Title": "Untitled",
-        "Year": "1966",
-        "ObjectID": "77781",
-        "Work": "https://www.moma.org/collection/works/77781",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5NDM3OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2448654d2795b0b3",
+        "Artist": "Garry Winogrand",
+        "Title": "Hard Hat Rally, New York",
+        "Year": "1970",
+        "ObjectID": "49723",
+        "Work": "https://www.moma.org/collection/works/49723",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzOTQ3MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=40a8ac9263b6b31e",
         "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "composition and sheet: 20 7/8 \u00d7 30 1/2\" (53.1 \u00d7 77.5 cm)",
-            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
-            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
-            "Edition": "20",
-            "Credit": "Gift of Kleiner, Bell & Co.",
-            "Object number": "1943.1967",
-            "Associated work": "Tamarind Lithography Workshop Archive",
-            "Department": "Drawings and Prints"
+            "Medium": "Gelatin silver print",
+            "Dimensions": "10 5/8 \u00d7 15 7/8\" (27 \u00d7 40.3 cm)",
+            "Credit": "Purchase and gift of Barbara Schwartz in memory of Eugene M. Schwartz, by exchange",
+            "Object number": "263.1999",
+            "Copyright": "\u00a9 The Estate of Garry Winogrand, courtesy Fraenkel Gallery",
+            "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/3576"
+        "Profile": "https://www.moma.org/artists/6399"
     },
     {
-        "Artist": "Frank Lobdell",
-        "Title": "Untitled",
-        "Year": "1966",
-        "ObjectID": "77782",
-        "Work": "https://www.moma.org/collection/works/77782",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5NDM4MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a7ef959641317454",
+        "Artist": "Garry Winogrand",
+        "Title": "Untitled from Women are Beautiful",
+        "Year": "1970",
+        "ObjectID": "51345",
+        "Work": "https://www.moma.org/collection/works/51345",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzOTQ3OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=27bb26ce0c8d6907",
         "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "composition and sheet: 22 1/8 \u00d7 30 1/2\" (56.2 \u00d7 77.4 cm)",
-            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
-            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
-            "Edition": "20",
-            "Credit": "Gift of Kleiner, Bell & Co.",
-            "Object number": "1944.1967",
-            "Associated work": "Tamarind Lithography Workshop Archive",
-            "Department": "Drawings and Prints"
+            "Medium": "Gelatin silver print",
+            "Dimensions": "8 11/16 \u00d7 12 15/16\" (22.1 \u00d7 33 cm)",
+            "Credit": "Gift of Mitchell Deutsch",
+            "Object number": "344.1990",
+            "Copyright": "\u00a9 The Estate of Garry Winogrand, courtesy Fraenkel Gallery",
+            "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/3576"
+        "Profile": "https://www.moma.org/artists/6399"
     },
     {
-        "Artist": "Frank Lobdell",
+        "Artist": "Garry Winogrand",
+        "Title": "MET Centennial Ball from Women are Beautiful",
+        "Year": "1970",
+        "ObjectID": "51389",
+        "Work": "https://www.moma.org/collection/works/51389",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzOTQ4MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ad3a36e6d1c93d91",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "8 11/16 \u00d7 13\" (22.1 \u00d7 33.1 cm)",
+            "Credit": "Gift of Mitchell Deutsch",
+            "Object number": "346.1990",
+            "Copyright": "\u00a9 The Estate of Garry Winogrand, courtesy Fraenkel Gallery",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/6399"
+    },
+    {
+        "Artist": "Garry Winogrand",
+        "Title": "Untitled from Women are Beautiful",
+        "Year": "1970",
+        "ObjectID": "51525",
+        "Work": "https://www.moma.org/collection/works/51525",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzOTQ5MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7ea2371a42631fed",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "8 11/16 \u00d7 13\" (22.1 \u00d7 33.1 cm)",
+            "Credit": "Gift of Mitchell Deutsch",
+            "Object number": "352.1990",
+            "Copyright": "\u00a9 The Estate of Garry Winogrand, courtesy Fraenkel Gallery",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/6399"
+    },
+    {
+        "Artist": "Garry Winogrand",
+        "Title": "Untitled from Women are Beautiful",
+        "Year": "1970",
+        "ObjectID": "51634",
+        "Work": "https://www.moma.org/collection/works/51634",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzOTQ5NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=49538e2806213f67",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "8 11/16 \u00d7 12 15/16\" (22.1 \u00d7 33 cm)",
+            "Credit": "Gift of Mitchell Deutsch",
+            "Object number": "356.1990",
+            "Copyright": "\u00a9 The Estate of Garry Winogrand, courtesy Fraenkel Gallery",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/6399"
+    },
+    {
+        "Artist": "Garry Winogrand",
+        "Title": "Tenth Anniversary Party, Guggenheim Museum, New York",
+        "Year": "1970",
+        "ObjectID": "52511",
+        "Work": "https://www.moma.org/collection/works/52511",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzOTUxNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0cd605e2e16563b2",
+        "Details": {
+            "Sitter": "Robert Rauschenberg",
+            "Medium": "Gelatin silver print",
+            "Dimensions": "10 5/8 \u00d7 15 7/8\" (27 \u00d7 40.4 cm)",
+            "Credit": "Purchase and gift of Barbara Schwartz in memory of Eugene M. Schwartz",
+            "Object number": "395.1998",
+            "Copyright": "\u00a9 The Estate of Garry Winogrand, courtesy Fraenkel Gallery",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/6399"
+    },
+    {
+        "Artist": "Garry Winogrand",
+        "Title": "Opening, Frank Stella Exhibition, The Museum of Modern Art",
+        "Year": "1970",
+        "ObjectID": "52544",
+        "Work": "https://www.moma.org/collection/works/52544",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzOTUxNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6b03e77b6599d968",
+        "Details": {
+            "Sitter": "John Szarkowski, Henry Geldzahler, Elliot Richardson",
+            "Medium": "Gelatin silver print",
+            "Dimensions": "10 5/8 \u00d7 15 7/8\" (27 \u00d7 40.3 cm)",
+            "Credit": "Purchase and gift of Barbara Schwartz in memory of Eugene M. Schwartz",
+            "Object number": "396.1998",
+            "Copyright": "\u00a9 The Estate of Garry Winogrand, courtesy Fraenkel Gallery",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/6399"
+    },
+    {
+        "Artist": "Garry Winogrand",
+        "Title": "Opening, Frank Stella Exhibition, The Museum of Modern Art, New York",
+        "Year": "1970",
+        "ObjectID": "52562",
+        "Work": "https://www.moma.org/collection/works/52562",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzOTUxNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6c940470652106fd",
+        "Details": {
+            "Sitter": "Robert Rauschenberg, Dick and Lisa Oldenburg, Leo Castelli",
+            "Medium": "Gelatin silver print",
+            "Dimensions": "10 9/16 \u00d7 15 3/4\" (26.8 \u00d7 40 cm)",
+            "Credit": "Purchase and gift of Barbara Schwartz in memory of Eugene M. Schwartz",
+            "Object number": "397.1998",
+            "Copyright": "\u00a9 The Estate of Garry Winogrand, courtesy Fraenkel Gallery",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/6399"
+    },
+    {
+        "Artist": "Garry Winogrand",
         "Title": "Untitled",
-        "Year": "1966",
-        "ObjectID": "77783",
-        "Work": "https://www.moma.org/collection/works/77783",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5Njk1MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=839922e3278afc19",
+        "Year": "c. 1965",
+        "ObjectID": "53279",
+        "Work": "https://www.moma.org/collection/works/53279",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzOTYwOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=026733cc17b268ca",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "13 1/4 \u00d7 8 15/16\" (33.6 \u00d7 22.7 cm)",
+            "Credit": "Purchase and gift of Barbara Schwartz in memory of Eugene M. Schwartz",
+            "Object number": "430.1998",
+            "Copyright": "\u00a9 The Estate of Garry Winogrand, courtesy Fraenkel Gallery",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/6399"
+    },
+    {
+        "Artist": "Garry Winogrand",
+        "Title": "New York",
+        "Year": "c. 1968",
+        "ObjectID": "53349",
+        "Work": "https://www.moma.org/collection/works/53349",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzOTYxNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1ad945fcca862f51",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "8 9/16 \u00d7 12 15/16\" (21.7 \u00d7 32.8 cm)",
+            "Credit": "Purchase and gift of Barbara Schwartz in memory of Eugene M. Schwartz",
+            "Object number": "435.1998",
+            "Copyright": "\u00a9 The Estate of Garry Winogrand, courtesy Fraenkel Gallery",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/6399"
+    },
+    {
+        "Artist": "Garry Winogrand",
+        "Title": "New York",
+        "Year": "c. 1965",
+        "ObjectID": "54156",
+        "Work": "https://www.moma.org/collection/works/54156",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzOTY2OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4162a52075945c34",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "8 15/16 \u00d7 13 7/16\" (22.8 \u00d7 34.2 cm)",
+            "Credit": "Purchase and gift of Barbara Schwartz in memory of Eugene M. Schwartz",
+            "Object number": "481.1998",
+            "Copyright": "\u00a9 The Estate of Garry Winogrand, courtesy Fraenkel Gallery",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/6399"
+    },
+    {
+        "Artist": "Garry Winogrand",
+        "Title": "Kent State Demonstration, Washington, D.C.",
+        "Year": "1970",
+        "ObjectID": "55886",
+        "Work": "https://www.moma.org/collection/works/55886",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMTIyNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=07287d21f8387c05",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "10 7/16 \u00d7 15 15/16\" (26.5 \u00d7 40.5 cm)",
+            "Credit": "Purchase",
+            "Object number": "659.1977",
+            "Copyright": "\u00a9 The Estate of Garry Winogrand, courtesy Fraenkel Gallery",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/6399"
+    },
+    {
+        "Artist": "Garry Winogrand",
+        "Title": "Muhammad Ali - Oscar Bonavena Press Conference, New York",
+        "Year": "1970",
+        "ObjectID": "55891",
+        "Work": "https://www.moma.org/collection/works/55891",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzOTcyMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=392255754d16c8b0",
+        "Details": {
+            "Sitter": "Muhammad Ali",
+            "Medium": "Gelatin silver print",
+            "Dimensions": "10 5/8 \u00d7 15 15/16\" (27 \u00d7 40.5 cm)",
+            "Credit": "Purchase",
+            "Object number": "660.1977",
+            "Copyright": "\u00a9 The Estate of Garry Winogrand, courtesy Fraenkel Gallery",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/6399"
+    },
+    {
+        "Artist": "Garry Winogrand",
+        "Title": "Opening, Frank Stella Exhibition, The Museum of Modern Art, New York",
+        "Year": "1970",
+        "ObjectID": "55905",
+        "Work": "https://www.moma.org/collection/works/55905",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzOTcyNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0ab981702a4872e6",
+        "Details": {
+            "Sitter": "Hannah Wilke, Claes Oldenburg, Frank Stella",
+            "Medium": "Gelatin silver print",
+            "Dimensions": "10 11/16 \u00d7 15 7/8\" (27.2 \u00d7 40.4 cm)",
+            "Credit": "Purchase",
+            "Object number": "663.1977",
+            "Copyright": "\u00a9 The Estate of Garry Winogrand, courtesy Fraenkel Gallery",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/6399"
+    },
+    {
+        "Artist": "Garry Winogrand",
+        "Title": "Peace Demonstration, Central Park, New York",
+        "Year": "1970",
+        "ObjectID": "55930",
+        "Work": "https://www.moma.org/collection/works/55930",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzOTczMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=55d52b244c505c83",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "10 1/2 \u00d7 15 15/16\" (26.7 \u00d7 40.5 cm)",
+            "Credit": "Purchase",
+            "Object number": "667.1977",
+            "Copyright": "\u00a9 The Estate of Garry Winogrand, courtesy Fraenkel Gallery",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/6399"
+    },
+    {
+        "Artist": "Garry Winogrand",
+        "Title": "Kent State Demonstration, Washington D.C.",
+        "Year": "1970",
+        "ObjectID": "89176",
+        "Work": "https://www.moma.org/collection/works/89176",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNDAzNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4b8782bafb20431b",
+        "Details": {
+            "Medium": "Gelatin silver print, printed c. 1977",
+            "Dimensions": "10 5/8 \u00d7 15 7/8\" (27 \u00d7 40.4 cm)",
+            "Credit": "Purchase",
+            "Object number": "402.2003",
+            "Copyright": "\u00a9 The Estate of Garry Winogrand, courtesy Fraenkel Gallery",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/6399"
+    },
+    {
+        "Artist": "Garry Winogrand",
+        "Title": "Untitled from Women are Beautiful",
+        "Year": "1970",
+        "ObjectID": "111053",
+        "Work": "https://www.moma.org/collection/works/111053",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5Mjk2MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a3060e4989893197",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "8 11/16 \u00d7 13\" (22.1 \u00d7 33 cm)",
+            "Credit": "Gift of Mitchell Deutsch",
+            "Object number": "835.2007",
+            "Copyright": "\u00a9 The Estate of Garry Winogrand, courtesy Fraenkel Gallery",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/6399"
+    },
+    {
+        "Artist": "Garry Winogrand",
+        "Title": "New York City from Women are Beautiful",
+        "Year": "1970",
+        "ObjectID": "111063",
+        "Work": "https://www.moma.org/collection/works/111063",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5Mjg3NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d8a81f8bfc2e74a3",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "8 3/4 \u00d7 13 1/8\" (22.2 \u00d7 33.4 cm)",
+            "Credit": "Gift of Mitchell Deutsch",
+            "Object number": "772.2007",
+            "Copyright": "\u00a9 The Estate of Garry Winogrand, courtesy Fraenkel Gallery",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/6399"
+    },
+    {
+        "Artist": "Garry Winogrand",
+        "Title": "Toronto from Women are Beautiful",
+        "Year": "1970",
+        "ObjectID": "111096",
+        "Work": "https://www.moma.org/collection/works/111096",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MDcyMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1618217a6c5d86fa",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "8 3/4 \u00d7 13 1/16\" (22.2 \u00d7 33.1 cm)",
+            "Credit": "Purchase and gift of Barbara Schwartz in memory of Eugene M. Schwartz",
+            "Object number": "807.2007",
+            "Copyright": "\u00a9 The Estate of Garry Winogrand, courtesy Fraenkel Gallery",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/6399"
+    },
+    {
+        "Artist": "Garry Winogrand",
+        "Title": "Untitled from Women are Beautiful",
+        "Year": "1970",
+        "ObjectID": "111121",
+        "Work": "https://www.moma.org/collection/works/111121",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5Mjk2OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5f08179313627735",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "8 13/16 \u00d7 13 1/16\" (22.4 \u00d7 33.2 cm)",
+            "Credit": "Purchase and gift of Barbara Schwartz in memory of Eugene M. Schwartz",
+            "Object number": "840.2007",
+            "Copyright": "\u00a9 The Estate of Garry Winogrand, courtesy Fraenkel Gallery",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/6399"
+    },
+    {
+        "Artist": "Garry Winogrand",
+        "Title": "Untitled from Women are Beautiful",
+        "Year": "1970",
+        "ObjectID": "111122",
+        "Work": "https://www.moma.org/collection/works/111122",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5Mjk2OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8fc6853813bf3ddc",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "8 11/16 \u00d7 13 1/16\" (22.1 \u00d7 33.1 cm)",
+            "Credit": "Purchase and gift of Barbara Schwartz in memory of Eugene M. Schwartz",
+            "Object number": "841.2007",
+            "Copyright": "\u00a9 The Estate of Garry Winogrand, courtesy Fraenkel Gallery",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/6399"
+    },
+    {
+        "Artist": "Garry Winogrand",
+        "Title": "Muhammad Ali - Oscar Bonavena Press Conference, New York City",
+        "Year": "1970",
+        "ObjectID": "111144",
+        "Work": "https://www.moma.org/collection/works/111144",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMTI3MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a0715600da4fa4bd",
+        "Details": {
+            "Medium": "Gelatin silver print, printed 1987-88 by Tom Consilvio",
+            "Dimensions": "14 7/8 \u00d7 22 1/4\" (37.8 \u00d7 56.5 cm)",
+            "Credit": "Purchase",
+            "Object number": "771.2007",
+            "Copyright": "\u00a9 The Estate of Garry Winogrand, courtesy Fraenkel Gallery",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/6399"
+    },
+    {
+        "Artist": "Garry Winogrand",
+        "Title": "Muhammad Ali and Oscar Bonavena, Press Conference, New York City from the portfolio Big Shots",
+        "Year": "1970",
+        "ObjectID": "113238",
+        "Work": "https://www.moma.org/collection/works/113238",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5NzQzNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=341391f8ca9c6ac5",
+        "Details": {
+            "Medium": "Gelatin silver print, printed 1983",
+            "Dimensions": "12 5/16 \u00d7 18 1/2\" (31.2 \u00d7 47 cm)",
+            "Credit": "Purchase and gift of Barbara Schwartz in memory of Eugene M. Schwartz",
+            "Object number": "847.2007.10",
+            "Copyright": "\u00a9 The Estate of Garry Winogrand, courtesy Fraenkel Gallery",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/6399"
+    },
+    {
+        "Artist": "Emerson Woelffer",
+        "Title": "Head",
+        "Year": "1969-70, published 1970",
+        "ObjectID": "68072",
+        "Work": "https://www.moma.org/collection/works/68072",
+        "Thumbnail": null,
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "composition and sheet: 23 1/16 \u00d7 32 1/2\" (58.5 \u00d7 82.6 cm)",
+            "Dimensions": "composition and sheet: 24 3/16 \u00d7 18 1/8\" (61.4 \u00d7 46.1 cm)",
             "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
             "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
-            "Edition": "20",
+            "Edition": "20, plus 9 Tamarind Impressions",
             "Credit": "Gift of Kleiner, Bell & Co.",
-            "Object number": "1945.1967",
+            "Object number": "378.1970",
             "Associated work": "Tamarind Lithography Workshop Archive",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/3576"
+        "Profile": "https://www.moma.org/artists/6422"
+    },
+    {
+        "Artist": "Emerson Woelffer",
+        "Title": "Homage to Duchamp (Homage a Duchamp)",
+        "Year": "1969-70, published 1970",
+        "ObjectID": "68098",
+        "Work": "https://www.moma.org/collection/works/68098",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition and sheet: 24 1/16 \u00d7 18 1/16\" (61.1 \u00d7 45.8 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "379.1970",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6422"
+    },
+    {
+        "Artist": "Emerson Woelffer",
+        "Title": "Pont Neuf",
+        "Year": "1970",
+        "ObjectID": "68114",
+        "Work": "https://www.moma.org/collection/works/68114",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition and sheet: 30 1/16 \u00d7 22 1/16\" (76.3 \u00d7 56 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "380.1970",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6422"
+    },
+    {
+        "Artist": "Emerson Woelffer",
+        "Title": "Figure",
+        "Year": "1970",
+        "ObjectID": "68130",
+        "Work": "https://www.moma.org/collection/works/68130",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition and sheet: 24 1/16 \u00d7 18 1/16\" (61.1 \u00d7 45.8 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "381.1970",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6422"
+    },
+    {
+        "Artist": "Emerson Woelffer",
+        "Title": "Portrait of Max Ernst",
+        "Year": "1970",
+        "ObjectID": "68156",
+        "Work": "https://www.moma.org/collection/works/68156",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition and sheet: 24 1/8 \u00d7 18 1/16\" (61.3 \u00d7 45.9 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "382.1970",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6422"
+    },
+    {
+        "Artist": "Emerson Woelffer",
+        "Title": "Tri-Color",
+        "Year": "1970",
+        "ObjectID": "68172",
+        "Work": "https://www.moma.org/collection/works/68172",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition and sheet: 24 1/8 \u00d7 18 1/16\" (61.2 \u00d7 45.9 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "383.1970",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6422"
+    },
+    {
+        "Artist": "Emerson Woelffer",
+        "Title": "Two Figures",
+        "Year": "1970",
+        "ObjectID": "68197",
+        "Work": "https://www.moma.org/collection/works/68197",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition and sheet: 24 3/16 \u00d7 18 1/16\" (61.5 \u00d7 45.8 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "384.1970",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6422"
+    },
+    {
+        "Artist": "Emerson Woelffer",
+        "Title": "Homage to Man Ray (Hommage a Man Ray)",
+        "Year": "1970",
+        "ObjectID": "68212",
+        "Work": "https://www.moma.org/collection/works/68212",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition and sheet: 24 \u00d7 18 1/16\" (61 \u00d7 45.9 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "385.1970",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/6422"
     }
 ]

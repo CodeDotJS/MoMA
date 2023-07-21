@@ -1,832 +1,904 @@
 [
     {
-        "Artist": "Lee Friedlander",
-        "Title": "Walker Percy. Covington, Louisiana",
-        "Year": "1962",
-        "ObjectID": "57438",
-        "Work": "https://www.moma.org/collection/works/57438",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ0NTAzOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=dfa93ccaadaadc47",
+        "Artist": "William Gropper",
+        "Title": "Untitled",
+        "Year": "1967",
+        "ObjectID": "77884",
+        "Work": "https://www.moma.org/collection/works/77884",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3NDk4OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=324490df4e3ca085",
         "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "9 1/16 \u00d7 5 15/16\" (23 \u00d7 15.1 cm)",
-            "Credit": "Purchase",
-            "Object number": "992.2000",
-            "Copyright": "\u00a9 2023 Lee Friedlander",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/2002"
-    },
-    {
-        "Artist": "Lee Friedlander",
-        "Title": "Washington, D.C.",
-        "Year": "1962",
-        "ObjectID": "57647",
-        "Work": "https://www.moma.org/collection/works/57647",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzNjE2MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=14b3700a2d6c1712",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "18 7/16 \u00d7 12 5/16\" (46.9 \u00d7 31.3 cm)",
-            "Credit": "Purchase",
-            "Object number": "1108.2000",
-            "Copyright": "\u00a9 2023 Lee Friedlander",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/2002"
-    },
-    {
-        "Artist": "Lee Friedlander",
-        "Title": "Galax, Virginia",
-        "Year": "1962",
-        "ObjectID": "57706",
-        "Work": "https://www.moma.org/collection/works/57706",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzNjE2OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7950330a8ff23742",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "15 1/4 \u00d7 18 3/4\" (38.7 \u00d7 47.7 cm)",
-            "Credit": "Purchase",
-            "Object number": "1138.2000",
-            "Copyright": "\u00a9 2023 Lee Friedlander",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/2002"
-    },
-    {
-        "Artist": "Lee Friedlander",
-        "Title": "Galax, Virginia",
-        "Year": "1962",
-        "ObjectID": "86885",
-        "Work": "https://www.moma.org/collection/works/86885",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MDQ0NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=64aae6bed7bbc3ac",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "5 13/16 \u00d7 8 13/16\" (14.8 \u00d7 22.4 cm)",
-            "Credit": "Gift of N. Carol Lipis",
-            "Object number": "846.1978.8",
-            "Copyright": "\u00a9 2023 Lee Friedlander",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/2002"
-    },
-    {
-        "Artist": "Lee Friedlander",
-        "Title": "Washington, D.C.",
-        "Year": "1962",
-        "ObjectID": "89908",
-        "Work": "https://www.moma.org/collection/works/89908",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMjQ4OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c2142d8a463a4c7b",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "8 1/8 \u00d7 5 7/16\" (20.6 \u00d7 13.8 cm)",
-            "Credit": "Purchase",
-            "Object number": "8.2006",
-            "Copyright": "\u00a9 2023 Lee Friedlander",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/2002"
-    },
-    {
-        "Artist": "Lee Friedlander",
-        "Title": "Baltimore, Maryland",
-        "Year": "1962",
-        "ObjectID": "89917",
-        "Work": "https://www.moma.org/collection/works/89917",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1OTMxNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5b1f7810ddb2f753",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "6 \u00d7 9 1/16\" (15.2 \u00d7 23 cm)",
-            "Credit": "Purchase",
-            "Object number": "7.2006",
-            "Copyright": "\u00a9 2023 Lee Friedlander",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/2002"
-    },
-    {
-        "Artist": "Lee Friedlander, Jim Dine",
-        "Title": "Baltimore",
-        "Year": "1962",
-        "ObjectID": "48814",
-        "Work": "https://www.moma.org/collection/works/48814",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MDc1MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c96bde592d0037d0",
-        "Details": {
-            "Collaborating artist": "Jim Dine",
-            "Medium": "Gelatin silver print",
-            "Dimensions": "8 1/2 \u00d7 5 1/2\" (21.6 \u00d7 13.9 cm)",
-            "Credit": "Stephen R. Currier Memorial Fund",
-            "Object number": "218.1970.13",
-            "Copyright": "\u00a9 2023 Lee Friedlander",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/2002"
-    },
-    {
-        "Artist": "Vasudeo S. Gaitonde",
-        "Title": "Painting, 4",
-        "Year": "1962",
-        "ObjectID": "78306",
-        "Work": "https://www.moma.org/collection/works/78306",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MjEyNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a1f42c9f481567f4",
-        "Details": {
-            "Medium": "Oil on canvas",
-            "Dimensions": "40 x 49 7/8\" (101.6 x 126.6 cm)",
-            "Credit": "Gift of Mrs. Joseph James Akston",
-            "Object number": "1.1963",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/2051"
-    },
-    {
-        "Artist": "Alberto Giacometti",
-        "Title": "Annette",
-        "Year": "1962",
-        "ObjectID": "80059",
-        "Work": "https://www.moma.org/collection/works/80059",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MjA1MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=57e87b1137c3c244",
-        "Details": {
-            "Medium": "Oil on canvas",
-            "Dimensions": "36 3/8 x 28 7/8\" (92.3 x 73.2 cm)",
-            "Credit": "The Sidney and Harriet Janis Collection",
-            "Object number": "603.1967",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/2141"
-    },
-    {
-        "Artist": "James Francis Gill",
-        "Title": "Woman in Striped Dress",
-        "Year": "1962",
-        "ObjectID": "78326",
-        "Work": "https://www.moma.org/collection/works/78326",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMTk2NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=dea5a32359af8479",
-        "Details": {
-            "Medium": "Color crayon on gesso on board",
-            "Dimensions": "40 x 30\" (101.4 x 76.2 cm)",
-            "Credit": "Larry Aldrich Foundation Fund",
-            "Object number": "2.1963",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/2159"
-    },
-    {
-        "Artist": "James Francis Gill",
-        "Title": "Marilyn",
-        "Year": "1962",
-        "ObjectID": "78680",
-        "Work": "https://www.moma.org/collection/works/78680",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjk4NTU0Il0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNTEyeDUxMlx1MDAzZSJdXQ.jpg?sha=edeec2d17a2f9282",
-        "Details": {
-            "Medium": "Oil on board, three panels",
-            "Dimensions": "Each 48 x 35 7/8\" (122 x 91 cm)",
-            "Credit": "Gift of D. and J. de Menil",
-            "Object number": "72.1963.a-c",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/2159"
-    },
-    {
-        "Artist": "David Goldblatt",
-        "Title": "Randfontein, South Africa",
-        "Year": "1962",
-        "ObjectID": "52003",
-        "Work": "https://www.moma.org/collection/works/52003",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4NzQwMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ad3e81dcd4b74cb2",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "5 1/4 \u00d7 7 7/8\" (14.3 \u00d7 20 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "372.1978",
-            "Copyright": "\u00a9 2023 David Goldblatt",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/2214"
-    },
-    {
-        "Artist": "Natalia Goncharova",
-        "Title": "Plate 8 from Futurists, Abstractionists, Dadaists: the Forerunners of the Avant-Garde, vol. I",
-        "Year": "1962",
-        "ObjectID": "18210",
-        "Work": "https://www.moma.org/collection/works/18210",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ3ODQ2MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1b3ffc8a3235366f",
-        "Details": {
-            "Author": "Michel Seuphor",
-            "Medium": "Etching from an illustrated book with nineteen etchings (three with drypoint, two with aquatint, and one with aquatint and embossing) and one engraving",
-            "Dimensions": "plate: 5 13/16 \u00d7 4 7/16\" (14.8 \u00d7 11.3 cm); page: 11 3/4 \u00d7 9 7/16\" (29.8 \u00d7 24 cm)",
-            "Publisher": "Galleria Schwarz, Milan",
-            "Printer": "Atelier Georges Leblanc, Paris",
-            "Edition": "60",
-            "Credit": "Gift of Peter Deitsch Gallery",
-            "Object number": "521.1967.8",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Illustrated book": "Futurists, Abstractionists, Dadaists: the Forerunners of the Avant-Garde, vol. I",
+            "Medium": "Lithograph",
+            "Dimensions": "composition (irreg.): 10 \u00d7 6 1/8\" (25.4 \u00d7 15.5 cm); sheet: 14 3/16 \u00d7 10 3/16\" (36 \u00d7 25.8 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "2001.1967",
+            "Associated work": "Tamarind Lithography Workshop Archive",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/2229"
+        "Profile": "https://www.moma.org/artists/2360"
     },
     {
-        "Artist": "Joe Goode",
-        "Title": "Untitled from New Painting of Common Objects",
-        "Year": "1962",
-        "ObjectID": "202148",
-        "Work": "https://www.moma.org/collection/works/202148",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM1MDk5MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=37bf4671b1c0bbfc",
+        "Artist": "William Gropper",
+        "Title": "Untitled",
+        "Year": "1967",
+        "ObjectID": "77885",
+        "Work": "https://www.moma.org/collection/works/77885",
+        "Thumbnail": null,
         "Details": {
-            "Medium": "One from a portfolio of five mimeographs on paper",
-            "Dimensions": "sheet (each): 11 \u00d7 8 1/2\" (28 \u00d7 21.6 cm)",
-            "Publisher": "Pasadena Art Museum, California",
-            "Printer": "Unidentified",
-            "Edition": "unknown",
-            "Credit": "Riva Castleman Endowment Fund",
-            "Object number": "32.2016.3",
-            "Portfolio": "New Painting of Common Objects",
+            "Medium": "Lithograph",
+            "Dimensions": "composition (irreg.): 18 1/16 \u00d7 11 15/16\" (45.9 \u00d7 30.4 cm); sheet: 22 3/16 \u00d7 15\" (56.3 \u00d7 38.1 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "2002.1967",
+            "Associated work": "Tamarind Lithography Workshop Archive",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/2236"
+        "Profile": "https://www.moma.org/artists/2360"
     },
     {
-        "Artist": "Tomislav Gotovac",
-        "Title": "Showing Elle",
-        "Year": "1962",
-        "ObjectID": "173436",
-        "Work": "https://www.moma.org/collection/works/173436",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwMDQ2MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=770b30b2f0635f66",
+        "Artist": "William Gropper",
+        "Title": "Untitled",
+        "Year": "1967",
+        "ObjectID": "77886",
+        "Work": "https://www.moma.org/collection/works/77886",
+        "Thumbnail": null,
         "Details": {
-            "Medium": "Six gelatin silver prints",
-            "Dimensions": "Each 15 11/16 \u00d7 11 3/4\" (39.9 \u00d7 29.9 cm)",
-            "Credit": "Committee on Photography Fund",
-            "Object number": "117.2014.a-f",
-            "Department": "Photography"
+            "Medium": "Lithograph",
+            "Dimensions": "composition (irreg.): 19 1/8 \u00d7 10 13/16\" (48.6 \u00d7 27.5 cm); sheet: 22 1/8 \u00d7 15 1/16\" (56.2 \u00d7 38.2 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "2003.1967",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/40680"
+        "Profile": "https://www.moma.org/artists/2360"
     },
     {
-        "Artist": "Roy Grace",
-        "Title": "103,Cooper Union Exhibition, School of Art and Architecture",
-        "Year": "1962",
-        "ObjectID": "8300",
-        "Work": "https://www.moma.org/collection/works/8300",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMDUxNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ceeb15f4277b9b72",
+        "Artist": "William Gropper",
+        "Title": "Untitled",
+        "Year": "1967",
+        "ObjectID": "77887",
+        "Work": "https://www.moma.org/collection/works/77887",
+        "Thumbnail": null,
         "Details": {
-            "Medium": "Photo offset lithograph",
-            "Dimensions": "21 3/8 x 16 1/2\" (54.5 x 42.3 cm)",
-            "Credit": "Anonymous gift",
-            "Object number": "872.1979",
-            "Department": "Architecture and Design"
+            "Medium": "Lithograph",
+            "Dimensions": "composition (irreg.): 19 1/8 \u00d7 11 13/16\" (48.5 \u00d7 30 cm); sheet: 22 11/16 \u00d7 15 5/16\" (57.6 \u00d7 38.9 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "2004.1967",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/2275"
+        "Profile": "https://www.moma.org/artists/2360"
     },
     {
-        "Artist": "Fratelli Grivel (now Grivel S.r.l.)",
-        "Title": "Ice Axe",
-        "Year": "1900-1962",
-        "ObjectID": "3143",
-        "Work": "https://www.moma.org/collection/works/3143",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMDkzOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=89e213a0c7cf2df6",
+        "Artist": "William Gropper",
+        "Title": "Untitled",
+        "Year": "1967",
+        "ObjectID": "77888",
+        "Work": "https://www.moma.org/collection/works/77888",
+        "Thumbnail": null,
         "Details": {
-            "Manufacturer": "Fratelli Grivel (now Grivel S.r.l.)",
-            "Medium": "Steel, wood, and cloth strap",
-            "Dimensions": "39 1/2 x 13 3/16 x 3\" (100.3 x 33.5 x 7.6 cm)",
-            "Credit": "Gift of Trailwise Company",
-            "Object number": "267.1962",
-            "Department": "Architecture and Design"
+            "Medium": "Lithograph",
+            "Dimensions": "composition (irreg.): 17 5/16 \u00d7 11\" (43.9 \u00d7 27.9 cm); sheet: 22 7/16 \u00d7 15 1/4\" (57 \u00d7 38.7 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "2005.1967",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/10374"
+        "Profile": "https://www.moma.org/artists/2360"
     },
     {
-        "Artist": "Satish Gujral",
-        "Title": "Outpost",
-        "Year": "1962",
-        "ObjectID": "79770",
-        "Work": "https://www.moma.org/collection/works/79770",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3OTg4OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fd20ae7bbbc97603",
+        "Artist": "Robert Grosvenor",
+        "Title": "Project for Existing Building with at Least One Glass Wall",
+        "Year": "1967",
+        "ObjectID": "37055",
+        "Work": "https://www.moma.org/collection/works/37055",
+        "Thumbnail": null,
         "Details": {
-            "Medium": "Oil and mixed mediums on canvas",
-            "Dimensions": "33 1/8 x 44 3/8\" (83.9 x 112.6 cm)",
-            "Credit": "Gift of Dr. and Mrs. Samuel Rosen",
-            "Object number": "452.1964",
-            "Department": "Painting and Sculpture"
+            "Medium": "Plastic tape, colored pencil, pencil, and ink on paper",
+            "Dimensions": "24 x 30\" (60.9 x 76.3 cm)",
+            "Credit": "L-B Foundation Fund",
+            "Object number": "467.1967",
+            "Copyright": "\u00a9 2023 Robert Grosvenor",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/2411"
+        "Profile": "https://www.moma.org/artists/2373"
+    },
+    {
+        "Artist": "Robert Grosvenor",
+        "Title": "Untitled",
+        "Year": "1967",
+        "ObjectID": "289070",
+        "Work": "https://www.moma.org/collection/works/289070",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ1OTQ5NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=24abd49f8493c052",
+        "Details": {
+            "Medium": "Cut-and-pasted paper and printed paper on paper with pencil, and pencil, colored pencil, and ink on paper, and two gelatin silver prints",
+            "Dimensions": "(.a): 17 \u00d7 14\" (43.2 \u00d7 35.6 cm); (.b-f): 14 \u00d7 17\" (35.6 \u00d7 43.2 cm); (.g-h): 8 \u00d7 10\" (20.3 \u00d7 25.4 cm)",
+            "Credit": "Gift of the Gilbert B. and Lila Silverman Instruction Drawing Collection, Detroit",
+            "Object number": "1443.2018.a-h",
+            "Copyright": "\u00a9 2023 Robert Grosvenor",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/2373"
     },
     {
         "Artist": "Philip Guston",
-        "Title": "North",
-        "Year": "1961-62",
-        "ObjectID": "79545",
-        "Work": "https://www.moma.org/collection/works/79545",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1MTI5NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e3b380ddbccdf0d0",
+        "Title": "In-text plate (folio 66 recto) from In Memory of My Feelings",
+        "Year": "1967",
+        "ObjectID": "11187",
+        "Work": "https://www.moma.org/collection/works/11187",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwMzM0MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=94ac917b5f74177a",
         "Details": {
-            "Medium": "Oil on canvas",
-            "Dimensions": "69\" x 6' 5\" (175.3 x 195.6 cm)",
-            "Credit": "Gift of Musa Guston",
-            "Object number": "365.1991",
+            "Author": "Frank O'Hara",
+            "Medium": "One from an illustrated book with forty-six lithographs",
+            "Dimensions": "composition (irreg.): 11 15/16 x 9\" (30.4 x 22.9cm); page: 11 15/16 x 9\" (30.4 x 22.8 cm)",
+            "Publisher": "The Museum of Modern Art, New York",
+            "Printer": "Crafton Graphic Company, Inc., New York",
+            "Edition": "2,500",
+            "Credit": "Gift of The Museum of Modern Art Department of Publications",
+            "Object number": "92.1968.26",
             "Copyright": "\u00a9 2023 The Estate of Philip Guston",
-            "Department": "Painting and Sculpture"
+            "Illustrated book": "In Memory of My Feelings",
+            "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/2419"
     },
     {
-        "Artist": "Hagiwara Hideo",
-        "Title": "A Man in Armor (2)",
-        "Year": "1962",
-        "ObjectID": "60813",
-        "Work": "https://www.moma.org/collection/works/60813",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5MDE4MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b7234671e0522136",
+        "Artist": "Philip Guston",
+        "Title": "In-text plate (folio 68 recto) from In Memory of My Feelings",
+        "Year": "1967",
+        "ObjectID": "11188",
+        "Work": "https://www.moma.org/collection/works/11188",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwMzM0MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=63a2a61f0bd1a1c3",
         "Details": {
-            "Medium": "Woodcut",
-            "Dimensions": "Plate 33 1/2 x 23 1/2\" (85.1 x 59.7 cm) Sheet  39 1/8 x 24 9/16\" (99.4 x 62.4 cm)  10/12/72",
-            "Edition": "30",
-            "Credit": "Purchase",
-            "Object number": "44.1969",
+            "Author": "Frank O'Hara",
+            "Medium": "One from an illustrated book with forty-six lithographs",
+            "Dimensions": "composition (irreg.): 11 15/16 x 8 15/16\" (30.4 x 22.7cm); page: 11 15/16 x 9\" (30.4 x 22.8 cm)",
+            "Publisher": "The Museum of Modern Art, New York",
+            "Printer": "Crafton Graphic Company, Inc., New York",
+            "Edition": "2,500",
+            "Credit": "Gift of The Museum of Modern Art Department of Publications",
+            "Object number": "92.1968.27",
+            "Copyright": "\u00a9 2023 The Estate of Philip Guston",
+            "Illustrated book": "In Memory of My Feelings",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/2450"
+        "Profile": "https://www.moma.org/artists/2419"
     },
     {
-        "Artist": "Peter Hajnoczky",
-        "Title": "Winter Hilfe *62",
-        "Year": "1962",
-        "ObjectID": "6771",
-        "Work": "https://www.moma.org/collection/works/6771",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxODUwNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f4f796888331fa3e",
+        "Artist": "Philip Guston",
+        "Title": "In-text plate (folio 70 recto) from In Memory of My Feelings",
+        "Year": "1967",
+        "ObjectID": "11189",
+        "Work": "https://www.moma.org/collection/works/11189",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwMzM0MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fe19227735733cc3",
         "Details": {
-            "Medium": "Offset lithograph",
-            "Dimensions": "50 x 35 1/2\" (127.0 x 90.1 cm)",
-            "Credit": "Given anonymously",
-            "Object number": "379.1963",
+            "Author": "Frank O'Hara",
+            "Medium": "One from an illustrated book with forty-six lithographs",
+            "Dimensions": "composition (irreg.): 11 7/8 x 8 15/16\" (30.2 x 22.7cm); page: 11 15/16 x 9\" (30.4 x 22.8 cm)",
+            "Publisher": "The Museum of Modern Art, New York",
+            "Printer": "Crafton Graphic Company, Inc., New York",
+            "Edition": "2,500",
+            "Credit": "Gift of The Museum of Modern Art Department of Publications",
+            "Object number": "92.1968.28",
+            "Copyright": "\u00a9 2023 The Estate of Philip Guston",
+            "Illustrated book": "In Memory of My Feelings",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/2419"
+    },
+    {
+        "Artist": "Philip Guston",
+        "Title": "In-text plate (folios 71 verso and 72 recto) from In Memory of My Feelings",
+        "Year": "1967",
+        "ObjectID": "11190",
+        "Work": "https://www.moma.org/collection/works/11190",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwMzM0MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c85c1d0bb2c45ec2",
+        "Details": {
+            "Author": "Frank O'Hara",
+            "Medium": "One from an illustrated book with forty-six lithographs",
+            "Dimensions": "composition (irreg.): 11 15/16 x 9 1/4\" (30.4 x 23.5cm); page (two-page spread): 11 15/16 x 17 15/16\" (30.4 x 45.6 cm)",
+            "Publisher": "The Museum of Modern Art, New York",
+            "Printer": "Crafton Graphic Company, Inc., New York",
+            "Edition": "2,500",
+            "Credit": "Gift of The Museum of Modern Art Department of Publications",
+            "Object number": "92.1968.29",
+            "Copyright": "\u00a9 2023 The Estate of Philip Guston",
+            "Illustrated book": "In Memory of My Feelings",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/2419"
+    },
+    {
+        "Artist": "Philip Guston",
+        "Title": "In-text plate (folio 73 verso) from In Memory of My Feelings",
+        "Year": "1967",
+        "ObjectID": "11192",
+        "Work": "https://www.moma.org/collection/works/11192",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwMzM0NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=93690047e33800c5",
+        "Details": {
+            "Author": "Frank O'Hara",
+            "Medium": "One from an illustrated book with forty-six lithographs",
+            "Dimensions": "composition (irreg.): 11 15/16 x 8 15/16\" (30.4 x 22.7cm); page: 11 15/16 x 9\" (30.4 x 22.8 cm)",
+            "Publisher": "The Museum of Modern Art, New York",
+            "Printer": "Crafton Graphic Company, Inc., New York",
+            "Edition": "2,500",
+            "Credit": "Gift of The Museum of Modern Art Department of Publications",
+            "Object number": "92.1968.30",
+            "Copyright": "\u00a9 2023 The Estate of Philip Guston",
+            "Illustrated book": "In Memory of My Feelings",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/2419"
+    },
+    {
+        "Artist": "Philip Guston",
+        "Title": "Plate (folio 76 recto) from In Memory of My Feelings",
+        "Year": "1967",
+        "ObjectID": "11193",
+        "Work": "https://www.moma.org/collection/works/11193",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwMzM0NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d0df7b609a7f2739",
+        "Details": {
+            "Author": "Frank O'Hara",
+            "Medium": "One from an illustrated book with forty-six lithographs",
+            "Dimensions": "composition (irreg.): 11 15/16 x 8 15/16\" (30.4 x 22.7cm); page: 11 15/16 x 9\" (30.4 x 22.8 cm)",
+            "Publisher": "The Museum of Modern Art, New York",
+            "Printer": "Crafton Graphic Company, Inc., New York",
+            "Edition": "2,500",
+            "Credit": "Gift of The Museum of Modern Art Department of Publications",
+            "Object number": "92.1968.31",
+            "Copyright": "\u00a9 2023 The Estate of Philip Guston",
+            "Illustrated book": "In Memory of My Feelings",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/2419"
+    },
+    {
+        "Artist": "Philip Guston",
+        "Title": "Haven",
+        "Year": "1967",
+        "ObjectID": "100268",
+        "Work": "https://www.moma.org/collection/works/100268",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5ODIzNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ed0703c3873e01a1",
+        "Details": {
+            "Medium": "Ink on paper",
+            "Dimensions": "15 3/4 x 19\" (40 x 48.3 cm)",
+            "Credit": "Gift of Edward R. Broida",
+            "Object number": "711.2005",
+            "Copyright": "\u00a9 2023 The Estate of Philip Guston",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/2419"
+    },
+    {
+        "Artist": "Philip Guston",
+        "Title": "Preparatory drawing for In Memory of My Feelings",
+        "Year": "1967",
+        "ObjectID": "108232",
+        "Work": "https://www.moma.org/collection/works/108232",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwNjIxOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=16b3bc79b9844e0c",
+        "Details": {
+            "Author": "Frank O'Hara",
+            "Medium": "Ink on acetate",
+            "Dimensions": "14 x 10 15/16\" (35.6 x 27.8 cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "2202.1967.20",
+            "Copyright": "\u00a9 2023 The Estate of Philip Guston",
+            "Portfolio": "Preparatory drawings for In Memory of My Feelings",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/2419"
+    },
+    {
+        "Artist": "Philip Guston",
+        "Title": "Preparatory drawing for In Memory of My Feelings",
+        "Year": "1967",
+        "ObjectID": "108332",
+        "Work": "https://www.moma.org/collection/works/108332",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwNjIyMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=71d5744732d7fe44",
+        "Details": {
+            "Author": "Frank O'Hara",
+            "Medium": "Ink on acetate",
+            "Dimensions": "14 x 11\" (35.5 x 27.9 cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "2202.1967.21",
+            "Copyright": "\u00a9 2023 The Estate of Philip Guston",
+            "Portfolio": "Preparatory drawings for In Memory of My Feelings",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/2419"
+    },
+    {
+        "Artist": "Philip Guston",
+        "Title": "Preparatory drawing for In Memory of My Feelings",
+        "Year": "1967",
+        "ObjectID": "108333",
+        "Work": "https://www.moma.org/collection/works/108333",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwNjIyMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9e1a97bbb961f4b8",
+        "Details": {
+            "Author": "Frank O'Hara",
+            "Medium": "Ink on acetate",
+            "Dimensions": "13 15/16 x 10 9/16\" (35.4 x 26.8 cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "2202.1967.22",
+            "Copyright": "\u00a9 2023 The Estate of Philip Guston",
+            "Portfolio": "Preparatory drawings for In Memory of My Feelings",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/2419"
+    },
+    {
+        "Artist": "Philip Guston",
+        "Title": "Preparatory drawing for In Memory of My Feelings",
+        "Year": "1967",
+        "ObjectID": "108334",
+        "Work": "https://www.moma.org/collection/works/108334",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwNjIyMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=aff9d163dd52c250",
+        "Details": {
+            "Author": "Frank O'Hara",
+            "Medium": "Ink on acetate",
+            "Dimensions": "14 x 10 15/16\" (35.6 x 27.8 cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "2202.1967.23",
+            "Copyright": "\u00a9 2023 The Estate of Philip Guston",
+            "Portfolio": "Preparatory drawings for In Memory of My Feelings",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/2419"
+    },
+    {
+        "Artist": "Philip Guston",
+        "Title": "Preparatory drawing for In Memory of My Feelings",
+        "Year": "1967",
+        "ObjectID": "108335",
+        "Work": "https://www.moma.org/collection/works/108335",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwNjIyMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9ac4eb30d7887a7d",
+        "Details": {
+            "Author": "Frank O'Hara",
+            "Medium": "Ink on acetate",
+            "Dimensions": "13 15/16 x 11\" (35.4 x 27.9 cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "2202.1967.24",
+            "Copyright": "\u00a9 2023 The Estate of Philip Guston",
+            "Portfolio": "Preparatory drawings for In Memory of My Feelings",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/2419"
+    },
+    {
+        "Artist": "Philip Guston",
+        "Title": "Preparatory drawing for In Memory of My Feelings",
+        "Year": "1967",
+        "ObjectID": "108336",
+        "Work": "https://www.moma.org/collection/works/108336",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwNjIyNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e19995aec658ffd3",
+        "Details": {
+            "Author": "Frank O'Hara",
+            "Medium": "Ink on acetate",
+            "Dimensions": "13 15/16 x 11\" (35.4 x 28 cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "2202.1967.25",
+            "Copyright": "\u00a9 2023 The Estate of Philip Guston",
+            "Portfolio": "Preparatory drawings for In Memory of My Feelings",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/2419"
+    },
+    {
+        "Artist": "Philip Guston",
+        "Title": "Unused preparatory drawing for In Memory of My Feelings",
+        "Year": "1967",
+        "ObjectID": "125377",
+        "Work": "https://www.moma.org/collection/works/125377",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwNjIyNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=dbdec67d43002926",
+        "Details": {
+            "Author": "Frank O'Hara",
+            "Medium": "Ink on acetate",
+            "Dimensions": "14 x 10 15/16\" (35.6 x 27.8 cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "2202.1967.26",
+            "Copyright": "\u00a9 2023 The Estate of Philip Guston",
+            "Portfolio": "Preparatory drawings for In Memory of My Feelings",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/2419"
+    },
+    {
+        "Artist": "Philip Guston",
+        "Title": "Unused preparatory drawing for In Memory of My Feelings",
+        "Year": "1967",
+        "ObjectID": "125378",
+        "Work": "https://www.moma.org/collection/works/125378",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwNjIyNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=82470265e5999201",
+        "Details": {
+            "Author": "Frank O'Hara",
+            "Medium": "Ink on acetate",
+            "Dimensions": "14 x 11\" (35.5 x 27.9 cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "2202.1967.27",
+            "Copyright": "\u00a9 2023 The Estate of Philip Guston",
+            "Portfolio": "Preparatory drawings for In Memory of My Feelings",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/2419"
+    },
+    {
+        "Artist": "Philip Guston",
+        "Title": "Unused preparatory drawing for In Memory of My Feelings",
+        "Year": "1967",
+        "ObjectID": "125379",
+        "Work": "https://www.moma.org/collection/works/125379",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwNjIyNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3c952aead2a00b7d",
+        "Details": {
+            "Author": "Frank O'Hara",
+            "Medium": "Ink on acetate",
+            "Dimensions": "13 15/16 x 10 15/16\" (35.4 x 27.8 cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "2202.1967.28",
+            "Copyright": "\u00a9 2023 The Estate of Philip Guston",
+            "Portfolio": "Preparatory drawings for In Memory of My Feelings",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/2419"
+    },
+    {
+        "Artist": "Philip Guston",
+        "Title": "Unused preparatory drawing for In Memory of My Feelings",
+        "Year": "1967",
+        "ObjectID": "125380",
+        "Work": "https://www.moma.org/collection/works/125380",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwNjIyOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=17ac852f5972568b",
+        "Details": {
+            "Author": "Frank O'Hara",
+            "Medium": "Ink on acetate",
+            "Dimensions": "13 15/16 x 11\" (35.4 x 27.9 cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "2202.1967.29",
+            "Copyright": "\u00a9 2023 The Estate of Philip Guston",
+            "Portfolio": "Preparatory drawings for In Memory of My Feelings",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/2419"
+    },
+    {
+        "Artist": "Philip Guston",
+        "Title": "Unused preparatory drawing for In Memory of My Feelings",
+        "Year": "1967",
+        "ObjectID": "125381",
+        "Work": "https://www.moma.org/collection/works/125381",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwNjIyOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=adbe19c0022f1a17",
+        "Details": {
+            "Author": "Frank O'Hara",
+            "Medium": "Ink on acetate",
+            "Dimensions": "14 x 10 15/16\" (35.5 x 27.8 cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "2202.1967.30",
+            "Copyright": "\u00a9 2023 The Estate of Philip Guston",
+            "Portfolio": "Preparatory drawings for In Memory of My Feelings",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/2419"
+    },
+    {
+        "Artist": "Philip Guston",
+        "Title": "Unused preparatory drawing for In Memory of My Feelings",
+        "Year": "1967",
+        "ObjectID": "125382",
+        "Work": "https://www.moma.org/collection/works/125382",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwNjIzMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2b8b8e1e9720717c",
+        "Details": {
+            "Author": "Frank O'Hara",
+            "Medium": "Ink on acetate",
+            "Dimensions": "13 7/8 x 11\" (35.3 x 27.9 cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "2202.1967.31",
+            "Copyright": "\u00a9 2023 The Estate of Philip Guston",
+            "Portfolio": "Preparatory drawings for In Memory of My Feelings",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/2419"
+    },
+    {
+        "Artist": "Philip Guston",
+        "Title": "Unused preparatory drawing for In Memory of My Feelings",
+        "Year": "1967",
+        "ObjectID": "125383",
+        "Work": "https://www.moma.org/collection/works/125383",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwNjIzMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7a68da56056d68e9",
+        "Details": {
+            "Author": "Frank O'Hara",
+            "Medium": "Ink on acetate",
+            "Dimensions": "14 x 11\" (35.5 x 28 cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "2202.1967.32",
+            "Copyright": "\u00a9 2023 The Estate of Philip Guston",
+            "Portfolio": "Preparatory drawings for In Memory of My Feelings",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/2419"
+    },
+    {
+        "Artist": "Philip Guston",
+        "Title": "Unused preparatory drawing for In Memory of My Feelings",
+        "Year": "1967",
+        "ObjectID": "125384",
+        "Work": "https://www.moma.org/collection/works/125384",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwNjIzMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3795824bb30bbc1e",
+        "Details": {
+            "Author": "Frank O'Hara",
+            "Medium": "Ink on acetate",
+            "Dimensions": "14 x 11\" (35.5 x 27.9 cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "2202.1967.33",
+            "Copyright": "\u00a9 2023 The Estate of Philip Guston",
+            "Portfolio": "Preparatory drawings for In Memory of My Feelings",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/2419"
+    },
+    {
+        "Artist": "Philip Guston",
+        "Title": "Unused preparatory drawing for In Memory of My Feelings",
+        "Year": "1967",
+        "ObjectID": "125385",
+        "Work": "https://www.moma.org/collection/works/125385",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwNjIzMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4c30bd2c34878287",
+        "Details": {
+            "Author": "Frank O'Hara",
+            "Medium": "Ink on acetate",
+            "Dimensions": "14 x 11\" (35.5 x 27.9 cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "2202.1967.34",
+            "Copyright": "\u00a9 2023 The Estate of Philip Guston",
+            "Portfolio": "Preparatory drawings for In Memory of My Feelings",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/2419"
+    },
+    {
+        "Artist": "Philip Guston",
+        "Title": "Unused preparatory drawing for In Memory of My Feelings",
+        "Year": "1967",
+        "ObjectID": "125386",
+        "Work": "https://www.moma.org/collection/works/125386",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwNjIzNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3982fdb44f1af373",
+        "Details": {
+            "Author": "Frank O'Hara",
+            "Medium": "Ink on acetate",
+            "Dimensions": "14 x 11\" (35.5 x 27.9 cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "2202.1967.35",
+            "Copyright": "\u00a9 2023 The Estate of Philip Guston",
+            "Portfolio": "Preparatory drawings for In Memory of My Feelings",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/2419"
+    },
+    {
+        "Artist": "Howard Guttenplan",
+        "Title": "Norman [Outtakes]",
+        "Year": "1967",
+        "ObjectID": "421213",
+        "Work": "https://www.moma.org/collection/works/421213",
+        "Thumbnail": null,
+        "Details": {
+            "Object number": "W25262",
+            "Department": "Film"
+        },
+        "Profile": "https://www.moma.org/artists/67350"
+    },
+    {
+        "Artist": "Charles Gwathmey",
+        "Title": "Gwathmey Residence, Amagansett, New York",
+        "Year": "1965-1967",
+        "ObjectID": "1013",
+        "Work": "https://www.moma.org/collection/works/1013",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyOTM5MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b051e0ce534b1470",
+        "Details": {
+            "Medium": "Cardboard and wood",
+            "Dimensions": "9 3/8 x 8 1/8 x 9 1/8\" (23.8 x 20.6 x 23.2 cm)",
+            "Credit": "Gift of the architect",
+            "Object number": "356.1993",
+            "Copyright": "\u00a9 2023 Charles Gwathmey",
             "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/2459"
+        "Profile": "https://www.moma.org/artists/2424"
     },
     {
-        "Artist": "Jorg Hamburger",
-        "Title": "Das Kind und Seine Welt",
-        "Year": "1962",
-        "ObjectID": "8774",
-        "Work": "https://www.moma.org/collection/works/8774",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDMxOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cb1d1f043edaf6e2",
+        "Artist": "Robert Haiko",
+        "Title": "Providence, R.I.",
+        "Year": "1967",
+        "ObjectID": "204923",
+        "Work": "https://www.moma.org/collection/works/204923",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM1NTg0NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=32fe753faf97be6c",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "4 1/2 \u00d7 6 1/8\" (11.5 \u00d7 15.5 cm)",
+            "Credit": "Purchase",
+            "Object number": "SC1967.1.4",
+            "Portfolio": "Photographs Rhode Island School of Design",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/43038"
+    },
+    {
+        "Artist": "Philippe Halsman",
+        "Title": "Richard Nixon",
+        "Year": "1967",
+        "ObjectID": "51873",
+        "Work": "https://www.moma.org/collection/works/51873",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5OTI5OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1288ebe54f2ea608",
+        "Details": {
+            "Sitter": "Richard Nixon",
+            "Medium": "Gelatin silver print",
+            "Dimensions": "13 11/16 \u00d7 10 11/16\" (34.7 \u00d7 27.2 cm)",
+            "Credit": "Gift of Jane Halsman Bello",
+            "Object number": "366.1998",
+            "Copyright": "\u00a9 2023 Halsman Estate",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/2470"
+    },
+    {
+        "Artist": "Philippe Halsman",
+        "Title": "Marilyn as Mao",
+        "Year": "1967",
+        "ObjectID": "56365",
+        "Work": "https://www.moma.org/collection/works/56365",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMzc5NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=60a79575ff28836e",
+        "Details": {
+            "Sitter": "Marilyn Monroe",
+            "Medium": "Gelatin silver print",
+            "Dimensions": "13 3/8 \u00d7 10 1/8\" (34 \u00d7 25.8 cm)",
+            "Credit": "Gift of Jane Halsman Bello",
+            "Object number": "772.1998",
+            "Copyright": "\u00a9 2023 Halsman Estate",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/2470"
+    },
+    {
+        "Artist": "John Hamilton",
+        "Title": "Totem I",
+        "Year": "1967",
+        "ObjectID": "200327",
+        "Work": "https://www.moma.org/collection/works/200327",
+        "Thumbnail": null,
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "50 3/16 x 35 3/8\" (127.5 x 89.9 cm)",
-            "Credit": "Gift of the designer",
-            "Object number": "1475.2000",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/2477"
-    },
-    {
-        "Artist": "Rolf Harder",
-        "Title": "moved",
-        "Year": "1962",
-        "ObjectID": "109100",
-        "Work": "https://www.moma.org/collection/works/109100",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MjI0NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=03be710c8403cd4e",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "3 3/4 x 8 3/4\" (9.5 x 22.2 cm)",
-            "Credit": "Gift of the designer",
-            "Object number": "386.2007",
-            "Copyright": "\u00a9 2023 Rolf Harder",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/32655"
-    },
-    {
-        "Artist": "Rolf Harder",
-        "Title": "Alcan Foil",
-        "Year": "c.1960-62",
-        "ObjectID": "109107",
-        "Work": "https://www.moma.org/collection/works/109107",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MzI2NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=bbf6012e5ca6730c",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "each: 8 x 4\" (20.3 x 10.2 cm)",
-            "Credit": "Gift of the designer",
-            "Object number": "382.2007.1-3",
-            "Copyright": "\u00a9 2023 Rolf Harder",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/32655"
-    },
-    {
-        "Artist": "Rolf Harder",
-        "Title": "Les sulfamides...",
-        "Year": "c. 1962",
-        "ObjectID": "109228",
-        "Work": "https://www.moma.org/collection/works/109228",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MjI0NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=737bf7d887a6ded9",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "7 x 6 1/2\" (17.8 x 16.5 cm)",
-            "Credit": "Gift of the designer",
-            "Object number": "385.2007",
-            "Copyright": "\u00a9 2023 Rolf Harder",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/32655"
-    },
-    {
-        "Artist": "Charles Harrison",
-        "Title": "View-master (model G)",
-        "Year": "1962",
-        "ObjectID": "205547",
-        "Work": "https://www.moma.org/collection/works/205547",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQyMzM3MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7bb2a5ed4f2dbbb2",
-        "Details": {
-            "Manufacturer": "Sawyer Manufacturing",
-            "Medium": "Injection molded plastic",
-            "Dimensions": "4 5/16 \u00d7 6 5/8 \u00d7 5 7/8\" (10.9 \u00d7 16.8 \u00d7 15 cm)",
+            "Dimensions": "35 1/8 \u00d7 23\" (89.2 \u00d7 58.4 cm)",
+            "Publisher": "East Totem West, Mill Valley, CA",
             "Credit": "Anonymous gift",
-            "Object number": "960.2016.1-3",
+            "Object number": "P1450",
             "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/49887"
+        "Profile": "https://www.moma.org/artists/34057"
+    },
+    {
+        "Artist": "Richard Hamilton",
+        "Title": "I'm dreaming of a white Christmas",
+        "Year": "1967",
+        "ObjectID": "76483",
+        "Work": "https://www.moma.org/collection/works/76483",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1MzYxOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=29416a2e672bb55c",
+        "Details": {
+            "Medium": "Screenprint",
+            "Dimensions": "Sheet 30 1/4 x 40 15/16\" (76.8 x 104.0 cm) Comp. 22 1/8 x 33 7/8\" (56.2 x 86.0 cm)(irreg.)",
+            "Publisher": "Richard Hamilton",
+            "Printer": "Richard Hamilton, Edition Domberger, Stuttgart",
+            "Edition": "75",
+            "Credit": "Celeste and Armand Bartos Foundation Fund",
+            "Object number": "1356.1968",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / DACS, London",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/2481"
+    },
+    {
+        "Artist": "Haphash and the Coloured Coat",
+        "Title": "My White Bicycle",
+        "Year": "1967",
+        "ObjectID": "192278",
+        "Work": "https://www.moma.org/collection/works/192278",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0MDk5NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=03e1371fab6901b1",
+        "Details": {
+            "Medium": "Screenprint",
+            "Dimensions": "29 1/2 x 19 1/2\" (74.9 x 49.5 cm)",
+            "Publisher": "Osiris Visions Ltd., London",
+            "Credit": "Anonymous gift",
+            "Object number": "P1222",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/49226"
+    },
+    {
+        "Artist": "Haphash and the Coloured Coat",
+        "Title": "UFO Coming",
+        "Year": "1967",
+        "ObjectID": "200302",
+        "Work": "https://www.moma.org/collection/works/200302",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Screenprint",
+            "Dimensions": "29 3/4 \u00d7 19 1/8\" (75.6 \u00d7 48.6 cm)",
+            "Printer": "Osiris Visions Ltd., London",
+            "Credit": "Anonymous gift",
+            "Object number": "P1429",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/49226"
+    },
+    {
+        "Artist": "Haphash and the Coloured Coat",
+        "Title": "Traffic at Saville Theater",
+        "Year": "1967",
+        "ObjectID": "200308",
+        "Work": "https://www.moma.org/collection/works/200308",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "29 1/2 \u00d7 19 1/4\" (74.9 \u00d7 48.9 cm)",
+            "Publisher": "Osiris Visions Ltd., London",
+            "Printer": "TSR, London",
+            "Credit": "Anonymous gift",
+            "Object number": "P1435",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/49226"
+    },
+    {
+        "Artist": "Marvin Harden",
+        "Title": "A Fine and Private Place",
+        "Year": "1967",
+        "ObjectID": "36781",
+        "Work": "https://www.moma.org/collection/works/36781",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzOTI5MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=92e8a349cf0fa75a",
+        "Details": {
+            "Medium": "Pencil on pink paper",
+            "Dimensions": "29 7/8 x 22 1/4\" (76 x 56.7 cm)",
+            "Credit": "Blanchette Hooker Rockefeller Fund",
+            "Object number": "412.1969",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/2498"
+    },
+    {
+        "Artist": "Rolf Harder, Design Collaborative Montreal Ltd.",
+        "Title": "Franz Alexander...",
+        "Year": "c. 1967",
+        "ObjectID": "109230",
+        "Work": "https://www.moma.org/collection/works/109230",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MjI1NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0b8655567e25eab9",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "7 1/4 x 7 1/4\" (18.4 x 18.4 cm)",
+            "Credit": "Gift of the designer",
+            "Object number": "400.2007",
+            "Copyright": "\u00a9 2023 Rolf Harder",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/32655"
+    },
+    {
+        "Artist": "Chauncey Hare",
+        "Title": "Southern Pacific Station, Oakland",
+        "Year": "1967",
+        "ObjectID": "50952",
+        "Work": "https://www.moma.org/collection/works/50952",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzNzMyNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d54d263677bb95f6",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "7 7/8 \u00d7 9 7/8\" (20 \u00d7 25.1 cm)",
+            "Credit": "Purchase",
+            "Object number": "330.1968",
+            "Copyright": "This photograph was made by Chauncey Hare to protest and warn against the growing domination of working people by multinational corporations and their elite owners and managers \r\n\u00a9 2019 Chauncey Hare",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/2503"
+    },
+    {
+        "Artist": "Irving Harper",
+        "Title": "Chandelier",
+        "Year": "1967",
+        "ObjectID": "4747",
+        "Work": "https://www.moma.org/collection/works/4747",
+        "Thumbnail": null,
+        "Details": {
+            "Manufacturer": "Irving Harper",
+            "Medium": "Plastic",
+            "Dimensions": "11 x 25 x 22\" (27.9 x 63.5 x 55.9 cm)",
+            "Credit": "Philip Johnson Fund",
+            "Object number": "2231.1967",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/2509"
     },
     {
         "Artist": "Grace Hartigan",
-        "Title": "Inside - Outside",
-        "Year": "1962",
-        "ObjectID": "67469",
-        "Work": "https://www.moma.org/collection/works/67469",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4MjE0MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e399154acc944240",
+        "Title": "In-text plate (folios 79 verso and 80 recto) from In Memory of My Feelings",
+        "Year": "1967",
+        "ObjectID": "11195",
+        "Work": "https://www.moma.org/collection/works/11195",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwMzM0NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cca25e876224553f",
         "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "composition: 17 15/16 x 13 3/4\" (45.5 x 35 cm); sheet (irreg.): 24 13/16 x 19 15/16\" (63.1 x 50.6 cm)",
-            "Publisher": "Universal Limited Art Editions, West Islip, New York",
-            "Printer": "Universal Limited Art Editions, West Islip, New York",
-            "Edition": "15",
-            "Credit": "Gift of the Celeste and Armand Bartos Foundation",
-            "Object number": "350.1962",
-            "Copyright": "\u00a9 2023 Grace Hartigan",
+            "Author": "Frank O'Hara",
+            "Medium": "One from an illustrated book with forty-six lithographs",
+            "Dimensions": "composition (irreg.): 11 15/16 x 17 3/8\" (30.4 x 44.2cm); page (two-page spread): 11 15/16 x 17 15/16\" (30.4 x 45.6 cm)",
+            "Publisher": "The Museum of Modern Art, New York",
+            "Printer": "Crafton Graphic Company, Inc., New York",
+            "Edition": "2,500",
+            "Credit": "Gift of The Museum of Modern Art Department of Publications",
+            "Object number": "92.1968.33",
+            "Illustrated book": "In Memory of My Feelings",
             "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/2520"
     },
     {
-        "Artist": "Shigeru Hatsuyama",
-        "Title": "Floating Sleep (Summer Birds)",
-        "Year": "1962",
-        "ObjectID": "60892",
-        "Work": "https://www.moma.org/collection/works/60892",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5MDE4MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7e7a25ba67e68714",
+        "Artist": "Grace Hartigan",
+        "Title": "Preparatory drawing for In Memory of My Feelings",
+        "Year": "1967",
+        "ObjectID": "108234",
+        "Work": "https://www.moma.org/collection/works/108234",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwOTAxNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3ab08819fa33cdea",
         "Details": {
-            "Medium": "Woodcut",
-            "Dimensions": "28 3/8 \u00d7 23 3/4\" (72.1 \u00d7 60.3 cm)",
-            "Edition": "13",
-            "Credit": "Purchase",
-            "Object number": "48.1969",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/2538"
-    },
-    {
-        "Artist": "Raoul Hausmann",
-        "Title": "Plate 9 from Futurists, Abstractionists, Dadaists: the Forerunners of the Avant-Garde, vol. I",
-        "Year": "1961, published 1962",
-        "ObjectID": "18211",
-        "Work": "https://www.moma.org/collection/works/18211",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ3ODQ2NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c938764116980b6b",
-        "Details": {
-            "Author": "Michel Seuphor",
-            "Medium": "Etching from an illustrated book with nineteen etchings (three with drypoint, two with aquatint, and one with aquatint and embossing) and one engraving",
-            "Dimensions": "plate: 5 7/8 \u00d7 4 3/8\" (14.9 \u00d7 11.1 cm); page: 11 3/4 \u00d7 9 7/16\" (29.8 \u00d7 24 cm)",
-            "Publisher": "Galleria Schwarz, Milan",
-            "Printer": "Atelier Georges Leblanc, Paris",
-            "Edition": "60",
-            "Credit": "Gift of Peter Deitsch Gallery",
-            "Object number": "521.1967.9",
-            "Copyright": "\u00a9 2023 Raoul Hausmann / Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Illustrated book": "Futurists, Abstractionists, Dadaists: the Forerunners of the Avant-Garde, vol. I",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/2544"
-    },
-    {
-        "Artist": "Dave Heath",
-        "Title": "Brooklyn, New York",
-        "Year": "1962",
-        "ObjectID": "47063",
-        "Work": "https://www.moma.org/collection/works/47063",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwNzQ4NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d7c6b131dd9f90a1",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "6 13/16 \u00d7 9 3/4\" (17.3 \u00d7 24.7 cm)",
-            "Credit": "Purchase",
-            "Object number": "161.1963",
-            "Copyright": "\u00a9 2023 Dave Heath",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/2564"
-    },
-    {
-        "Artist": "Phillip Hefferton",
-        "Title": "Untitled from New Painting of Common Objects",
-        "Year": "1962",
-        "ObjectID": "202149",
-        "Work": "https://www.moma.org/collection/works/202149",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM1MDk5MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ec973e963ad489c2",
-        "Details": {
-            "Medium": "One from a portfolio of five mimeographs on paper",
-            "Dimensions": "sheet: 11 \u00d7 8 1/2\" (28 \u00d7 21.6 cm)",
-            "Publisher": "Pasadena Art Museum, California",
-            "Printer": "Unidentified",
-            "Edition": "unknown",
-            "Credit": "Riva Castleman Endowment Fund",
-            "Object number": "32.2016.4",
-            "Portfolio": "New Painting of Common Objects",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/49145"
-    },
-    {
-        "Artist": "Bernhard Heiliger",
-        "Title": "Untitled",
-        "Year": "1962",
-        "ObjectID": "37558",
-        "Work": "https://www.moma.org/collection/works/37558",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2ODcyMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d202287e12cc7698",
-        "Details": {
-            "Medium": "Charcoal and pencil on paper",
-            "Dimensions": "39 x 27 3/8\" (99.0 x 69.4 cm)",
-            "Credit": "Gift of John S. Newberry",
-            "Object number": "606.1963",
-            "Copyright": "\u00a9 2023 Bernhard Heiliger / Artists Rights Society (ARS), New York / VG Bild-Kunst, Germany",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/2575"
-    },
-    {
-        "Artist": "Ken Heyman",
-        "Title": "Untitled",
-        "Year": "1962",
-        "ObjectID": "48913",
-        "Work": "https://www.moma.org/collection/works/48913",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5OTI2MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=90bf908f2d2aca82",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "16 1/2 \u00d7 13 1/2\" (41.9 \u00d7 34.3 cm)",
-            "Credit": "Purchase",
-            "Object number": "222.1962",
-            "Copyright": "\u00a9 2023 Ken Heyman",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/2628"
-    },
-    {
-        "Artist": "Ken Heyman",
-        "Title": "Untitled",
-        "Year": "1962",
-        "ObjectID": "50727",
-        "Work": "https://www.moma.org/collection/works/50727",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMDcyMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=320caf81d11c25b4",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "16 1/2 \u00d7 11 1/2\" (41.9 \u00d7 29.2 cm)",
+            "Author": "Frank O'Hara",
+            "Medium": "Ink on acetate",
+            "Dimensions": "13 7/8 x 11\" (35.3 x 28 cm)",
             "Credit": "Gift of the artist",
-            "Object number": "322.1964",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/2628"
-    },
-    {
-        "Artist": "Sheila Hicks",
-        "Title": "White Letter",
-        "Year": "1962",
-        "ObjectID": "3569",
-        "Work": "https://www.moma.org/collection/works/3569",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5ODgxOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=233dc4f165831f66",
-        "Details": {
-            "Medium": "Hand-spun wool",
-            "Dimensions": "46 1/2 \u00d7 38\" (118.1 \u00d7 96.5 cm)",
-            "Credit": "Gift of Knoll Associates",
-            "Object number": "430.1964",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/2631"
-    },
-    {
-        "Artist": "Dick Higgins",
-        "Title": "Danger Music Number Fifteen",
-        "Year": "1962",
-        "ObjectID": "127388",
-        "Work": "https://www.moma.org/collection/works/127388",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MDUwNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ac6225b66b9cb744",
-        "Details": {
-            "Medium": "Mimeograph",
-            "Dimensions": "sheet: 3 x 5 1/16\" (7.6 x 12.8 cm)",
-            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
-            "Object number": "2245.2008",
-            "Copyright": "\u00a9 2023 Dick Higgins",
+            "Object number": "2202.1967.36",
+            "Copyright": "\u00a9 2023 Grace Hartigan",
+            "Portfolio": "Preparatory drawings for In Memory of My Feelings",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/2637"
+        "Profile": "https://www.moma.org/artists/2520"
     },
     {
-        "Artist": "Dick Higgins",
-        "Title": "Danger Music Number Seventeen",
-        "Year": "1962",
-        "ObjectID": "127389",
-        "Work": "https://www.moma.org/collection/works/127389",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNjIyNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2e0959248f2496c6",
+        "Artist": "Grace Hartigan",
+        "Title": "Preparatory drawing for In Memory of My Feelings",
+        "Year": "1967",
+        "ObjectID": "108235",
+        "Work": "https://www.moma.org/collection/works/108235",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwOTAxNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=049f6033ddcfed05",
         "Details": {
-            "Medium": "Mimeograph and ballpoint pen on cardstock",
-            "Dimensions": "sheet: 2 15/16 x 5\" (7.5 x 12.7 cm)",
-            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
-            "Object number": "2246.2008",
-            "Copyright": "\u00a9 2023 Dick Higgins",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/2637"
-    },
-    {
-        "Artist": "Dick Higgins",
-        "Title": "Graphis 118",
-        "Year": "1962",
-        "ObjectID": "127392",
-        "Work": "https://www.moma.org/collection/works/127392",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NTgwMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=df719a944f699cf9",
-        "Details": {
-            "Medium": "Ballpoint pen on two sheets of paper and cut-and-pasted photostat and pressure-sensitive tape on board",
-            "Dimensions": "sheet (instructions): 8 7/8 x 14 3/16\" (22.5 x 36 cm); sheet (score): 9 7/16 x 8 1/16\" (24 x 20.4 cm)",
-            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
-            "Object number": "2249.2008.1-2",
-            "Copyright": "\u00a9 2023 Dick Higgins",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/2637"
-    },
-    {
-        "Artist": "Dick Higgins",
-        "Title": "Danger Music No. 24",
-        "Year": "1962",
-        "ObjectID": "131340",
-        "Work": "https://www.moma.org/collection/works/131340",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3ODkyMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7247cf377ac7522a",
-        "Details": {
-            "Medium": "Typewriting and ballpoint pen on index card",
-            "Dimensions": "sheet: 2 15/16 x 4 15/16\" (7.5 x 12.5 cm)",
-            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
-            "Object number": "3118.2008",
-            "Copyright": "\u00a9 2023 Dick Higgins",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/2637"
-    },
-    {
-        "Artist": "Dick Higgins, Wolf Vostell",
-        "Title": "de-coll/age, no. 2",
-        "Year": "1962",
-        "ObjectID": "138361",
-        "Work": "https://www.moma.org/collection/works/138361",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQwMjg3OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d67e261097edd6e7",
-        "Details": {
-            "Collaborating artist": "Dick Higgins, Wolf Vostell",
-            "Medium": "Periodical, letterpress, offset, and photocopy printed",
-            "Dimensions": "overall (closed): 11 9/16 \u00d7 8 3/16 \u00d7 3/16\" (29.3 \u00d7 20.8 \u00d7 0.4 cm)",
-            "Designer": "Wolf Vostell",
-            "Publisher": "Wolf Vostell, Cologne",
-            "Edition": "500",
-            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
-            "Object number": "3959.2008",
-            "Copyright": "\u00a9 2023 Wolf Vostell / Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/2637"
-    },
-    {
-        "Artist": "Armin Hofmann",
-        "Title": "Herman Miller Collection, Mobel unserer Zeit",
-        "Year": "1962",
-        "ObjectID": "7750",
-        "Work": "https://www.moma.org/collection/works/7750",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMTcxMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=96f79f084c6f4c10",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "50 3/8 x 35 3/8\" (127.9 x 89.9 cm)",
-            "Printer": "Wassermann A.G., Basel",
+            "Author": "Frank O'Hara",
+            "Medium": "Ink on acetate",
+            "Dimensions": "13 15/16 x 11\" (35.4 x 28 cm)",
             "Credit": "Gift of the artist",
-            "Object number": "614.1981",
+            "Object number": "2202.1967.37",
+            "Copyright": "\u00a9 2023 Grace Hartigan",
+            "Portfolio": "Preparatory drawings for In Memory of My Feelings",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/2520"
+    },
+    {
+        "Artist": "Haus-Rucker-Co, Gunter Zamp Kelp, Laurids Ortner, Manfred Ortner, Klaus Pinter",
+        "Title": "Palmtree Island (Oasis) Project, New York, New York, Perspective",
+        "Year": "1971",
+        "ObjectID": "91898",
+        "Work": "https://www.moma.org/collection/works/91898",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEwMDk3NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cd26d4f30337ef39",
+        "Details": {
+            "Medium": "Cut-and-pasted printed paper with gouache and graphite and cut-and-pasted painted paper on silver gelatin photograph on board",
+            "Dimensions": "19 3/4 x 29 5/8\" (50.2 x 75.2 cm)",
+            "Credit": "Wendy Evans Joseph Purchase Fund",
+            "Object number": "482.2004",
+            "Copyright": "\u00a9 2023 Haus-Rucker-Co",
             "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/2697"
-    },
-    {
-        "Artist": "Armin Hofmann",
-        "Title": "Stadt Theater Basel",
-        "Year": "1962",
-        "ObjectID": "7756",
-        "Work": "https://www.moma.org/collection/works/7756",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMTcxNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6f5736a4c32cf463",
-        "Details": {
-            "Medium": "Offset lithograph",
-            "Dimensions": "50 5/16 x 35 3/8\" (127.8 x 89.8 cm)",
-            "Printer": "Wassermann A.G., Basel",
-            "Credit": "Gift of the artist",
-            "Object number": "616.1981",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/2697"
-    },
-    {
-        "Artist": "Hans Hofmann",
-        "Title": "Memoria in Aeternum",
-        "Year": "1962",
-        "ObjectID": "79621",
-        "Work": "https://www.moma.org/collection/works/79621",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MTM2MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0f97b1b6b3621442",
-        "Details": {
-            "Medium": "Oil on canvas",
-            "Dimensions": "7' x 6' 1/8\" (213.3 x 183.2 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "399.1963",
-            "Copyright": "\u00a9 2023 Estate of Hans Hofmann / Artists Rights Society (ARS), New York",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/2698"
-    },
-    {
-        "Artist": "Hans Hollein",
-        "Title": "Building Form Studies, project, Perspectives",
-        "Year": "1962",
-        "ObjectID": "697",
-        "Work": "https://www.moma.org/collection/works/697",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxODYzNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a75e83aca7c4916f",
-        "Details": {
-            "Medium": "Graphite on paper",
-            "Dimensions": "9 3/8 x 12 3/4\" (23.8 x 32.4 cm)",
-            "Credit": "Gift of Philip Johnson",
-            "Object number": "565.1963.1-2",
-            "Copyright": "\u00a9 2023 Hans Hollein",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/2705"
-    },
-    {
-        "Artist": "Hans Hollein",
-        "Title": "Building Form Studies, project, Perspective",
-        "Year": "1962",
-        "ObjectID": "146256",
-        "Work": "https://www.moma.org/collection/works/146256",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwNjU0NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f8eb993fc613c610",
-        "Details": {
-            "Medium": "Graphite on paper",
-            "Dimensions": "9 3/8 x 12 3/4\" (23.8 x 32.4 cm)",
-            "Credit": "Gift of Philip Johnson",
-            "Object number": "565.1963.1",
-            "Copyright": "\u00a9 2023 Hans Hollein",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/2705"
-    },
-    {
-        "Artist": "Hans Hollein",
-        "Title": "Building Form Studies, project, Perspective",
-        "Year": "1962",
-        "ObjectID": "146257",
-        "Work": "https://www.moma.org/collection/works/146257",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwNjU0NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=36ba2dfb02ea894f",
-        "Details": {
-            "Medium": "Graphite on paper",
-            "Dimensions": "7 x 9 3/8\" (17.8 x 23.8 cm)",
-            "Credit": "Gift of Philip Johnson",
-            "Object number": "565.1963.2",
-            "Copyright": "\u00a9 2023 Hans Hollein",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/2705"
-    },
-    {
-        "Artist": "Kati Horna",
-        "Title": "Bottle",
-        "Year": "1962",
-        "ObjectID": "52876",
-        "Work": "https://www.moma.org/collection/works/52876",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMzY1NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=979f0065b8bd2ac3",
-        "Details": {
-            "Medium": "Gelatin silver print, printed c. 1980",
-            "Dimensions": "9 5/16 \u00d7 6 1/2\" (23.7 \u00d7 16.5 cm)",
-            "Credit": "The Family of Man Fund",
-            "Object number": "410.1992",
-            "Copyright": "\u00a9 2023 Kati Horna Estate",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/6916"
-    },
-    {
-        "Artist": "Kati Horna",
-        "Title": "Untitled (Remedios Varo wearing a mask by Leonora Carrington)",
-        "Year": "1962",
-        "ObjectID": "290162",
-        "Work": "https://www.moma.org/collection/works/290162",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQzOTEwMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=142a8602efd928b7",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "8 1/2 \u00d7 7 3/4\" (21.6 \u00d7 19.7 cm)",
-            "Credit": "Carol and David Appel Family Fund",
-            "Object number": "966.2018",
-            "Copyright": "\u00a9 2023 Kati Horna Estate",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/6916"
+        "Profile": "https://www.moma.org/artists/8412"
     }
 ]

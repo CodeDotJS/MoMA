@@ -1,830 +1,821 @@
 [
     {
-        "Artist": "Steve DiBenedetto",
+        "Artist": "Philippe Perrot",
         "Title": "Untitled",
-        "Year": "2002",
-        "ObjectID": "95812",
-        "Work": "https://www.moma.org/collection/works/95812",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE0NDA5NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1173186892996305",
+        "Year": "2003",
+        "ObjectID": "96995",
+        "Work": "https://www.moma.org/collection/works/96995",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE0NTcyMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a20a563eed8ab0b8",
+        "Details": {
+            "Medium": "Gouache, Betadine, crayon, and pencil on paper",
+            "Dimensions": "12 1/2 x 9 1/2\" (31.8 x 24.1 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "2710.2005",
+            "Copyright": "\u00a9 2023 Phillipe Perrot",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/28756"
+    },
+    {
+        "Artist": "Philippe Perrot",
+        "Title": "Untitled",
+        "Year": "2003",
+        "ObjectID": "96996",
+        "Work": "https://www.moma.org/collection/works/96996",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE0NTcyNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=aba21c347d48b16f",
+        "Details": {
+            "Medium": "Gouache, Betadine, crayon, and pencil on paper",
+            "Dimensions": "12 1/2 x 9 1/2\" (31.8 x 24.1 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "2711.2005",
+            "Copyright": "\u00a9 2023 Phillipe Perrot",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/28756"
+    },
+    {
+        "Artist": "Alessandro Pessoli",
+        "Title": "Just sleeping out of time, looking for a sign",
+        "Year": "2003",
+        "ObjectID": "96999",
+        "Work": "https://www.moma.org/collection/works/96999",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Gouache on twenty-four pieces of paper",
+            "Dimensions": "Each: 13 3/4 x 9 3/4\" (34.9 x 24.8 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "2713.2005.a-x",
+            "Copyright": "\u00a9 2023 Alessandro Pessoli",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/22722"
+    },
+    {
+        "Artist": "Raymond Pettibon",
+        "Title": "No Title (I have had...)",
+        "Year": "2003",
+        "ObjectID": "91043",
+        "Work": "https://www.moma.org/collection/works/91043",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjkzNDc3Il0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNTEyeDUxMlx1MDAzZSJdXQ.jpg?sha=ffa8307ab7fb6fdf",
+        "Details": {
+            "Medium": "Ink, colored ink, and watercolor on paper",
+            "Dimensions": "11 3/4 x 16 1/2\" (29.8 x 41.9 cm)",
+            "Credit": "Purchased with funds provided by the Patricia Orden Memorial Fund for Contemporary Drawing",
+            "Object number": "158.2004",
+            "Copyright": "\u00a9 2023 Raymond Pettibon",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/7500"
+    },
+    {
+        "Artist": "Raymond Pettibon",
+        "Title": "No Title (Art we know...)",
+        "Year": "2003",
+        "ObjectID": "97003",
+        "Work": "https://www.moma.org/collection/works/97003",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1OTE1NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b86f806e3bd4cb69",
+        "Details": {
+            "Medium": "Ink and watercolor on paper",
+            "Dimensions": "43 1/2 x 34\" (110.5 x 86.4 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "2735.2005",
+            "Copyright": "\u00a9 2023 Raymond Pettibon",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/7500"
+    },
+    {
+        "Artist": "Raymond Pettibon",
+        "Title": "No Title (In that split...)",
+        "Year": "2003",
+        "ObjectID": "97022",
+        "Work": "https://www.moma.org/collection/works/97022",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1Mjg0NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8d18d3e972373fa0",
+        "Details": {
+            "Medium": "Ink, watercolor, synthetic polymer paint, cut-and-pasted printed paper, and pencil on paper",
+            "Dimensions": "30 x 22 1/4\" (76.2 x 56.5 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "2737.2005",
+            "Copyright": "\u00a9 2023 Raymond Pettibon",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/7500"
+    },
+    {
+        "Artist": "Raymond Pettibon",
+        "Title": "No Title (The bright flatness...)",
+        "Year": "2003",
+        "ObjectID": "97023",
+        "Work": "https://www.moma.org/collection/works/97023",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzNTAwMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=13886b011af5ed9e",
+        "Details": {
+            "Medium": "Watercolor on paper",
+            "Dimensions": "39 x 38 1/2\" (99.1 x 97.8 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "2736.2005",
+            "Copyright": "\u00a9 2023 Raymond Pettibon",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/7500"
+    },
+    {
+        "Artist": "Raymond Pettibon",
+        "Title": "No Title (They enter the...)",
+        "Year": "2003",
+        "ObjectID": "97024",
+        "Work": "https://www.moma.org/collection/works/97024",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyOTkwOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7d6f11dcc5f4d2d2",
+        "Details": {
+            "Medium": "Acrylic, ink, watercolor, pencil, and colored pencil on paper",
+            "Dimensions": "30 1/2 x 22 3/4\" (77.5 x 57.8 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "2738.2005",
+            "Copyright": "\u00a9 2023 Raymond Pettibon",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/7500"
+    },
+    {
+        "Artist": "Raymond Pettibon, Blank",
+        "Title": "The Power Trio Makes Louder",
+        "Year": "2003",
+        "ObjectID": "191061",
+        "Work": "https://www.moma.org/collection/works/191061",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzNTYwMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a09502385d5caa44",
+        "Details": {
+            "Medium": "CD",
+            "Dimensions": "overall: 4 7/8 x 5 1/2 x 3/16\" (12.4 x 13.9 x 0.5 cm)",
+            "Publisher": "GROB",
+            "Credit": "Acquired from The Eileen and Michael Cohen Collection through the The Sue and Edgar Wachenheim III Endowment",
+            "Object number": "1089.2014.71",
+            "Copyright": "\u00a9 2023 Raymond Pettibon",
+            "Associated work": "Raymond Pettibon Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/7500"
+    },
+    {
+        "Artist": "Elizabeth Peyton",
+        "Title": "Flower Ben",
+        "Year": "2003",
+        "ObjectID": "89162",
+        "Work": "https://www.moma.org/collection/works/89162",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MDE0NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=86971b3f907d509d",
+        "Details": {
+            "Medium": "Woodcut",
+            "Dimensions": "composition: 14 5/8 x 10 3/4\" (37.1 x 27.3 cm); sheet: 19 5/8 x 15 3/4\" (49.8 x 40 cm)",
+            "Publisher": "Two Palms Press, New York",
+            "Printer": "Two Palms Press, New York",
+            "Edition": "45",
+            "Credit": "John B. Turner Fund",
+            "Object number": "351.2003",
+            "Copyright": "\u00a9 2023 Elizabeth Peyton",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/8042"
+    },
+    {
+        "Artist": "Elizabeth Peyton",
+        "Title": "Marc",
+        "Year": "2003",
+        "ObjectID": "89163",
+        "Work": "https://www.moma.org/collection/works/89163",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMDA0NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8e569199372b5c29",
+        "Details": {
+            "Medium": "Etching",
+            "Publisher": "Two Palms Press, New York",
+            "Printer": "Two Palms Press, New York",
+            "Edition": "30",
+            "Credit": "Gift of the Young Print Collectors of The Museum of Modern Art",
+            "Object number": "352.2003",
+            "Copyright": "\u00a9 2023 Elizabeth Peyton",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/8042"
+    },
+    {
+        "Artist": "Elizabeth Peyton",
+        "Title": "Lunch (Nick)",
+        "Year": "2003",
+        "ObjectID": "97028",
+        "Work": "https://www.moma.org/collection/works/97028",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzMzk5MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a45e5af81efc7163",
+        "Details": {
+            "Medium": "Watercolor on paper",
+            "Dimensions": "29 7/8 x 22 1/2\" (75.9 x 57.2 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "2743.2005",
+            "Copyright": "\u00a9 2023 Elizabeth Peyton",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/8042"
+    },
+    {
+        "Artist": "Elizabeth Peyton",
+        "Title": "Nick (Poquatuck Park)",
+        "Year": "(2003)",
+        "ObjectID": "97030",
+        "Work": "https://www.moma.org/collection/works/97030",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExMzYwOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c3a6a29b0ee77e8f",
+        "Details": {
+            "Medium": "Charcoal on colored paper",
+            "Dimensions": "11 1/2 x 9\" (29.2 x 22.9 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "2745.2005",
+            "Copyright": "\u00a9 2023 Elizabeth Peyton",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/8042"
+    },
+    {
+        "Artist": "Elizabeth Peyton",
+        "Title": "Marc (April)",
+        "Year": "(2003)",
+        "ObjectID": "97031",
+        "Work": "https://www.moma.org/collection/works/97031",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExMjM5OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=455133313b9535ae",
+        "Details": {
+            "Medium": "Colored pencil on paper",
+            "Dimensions": "8 5/8 x 6\" (21.9 x 15.2 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "2744.2005",
+            "Copyright": "\u00a9 2023 Elizabeth Peyton",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/8042"
+    },
+    {
+        "Artist": "Jerry Phillips",
+        "Title": "Untitled",
+        "Year": "(2003)",
+        "ObjectID": "97045",
+        "Work": "https://www.moma.org/collection/works/97045",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzODYwOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=56a7703c4519eda2",
         "Details": {
             "Medium": "Pencil on paper",
-            "Dimensions": "22 1/2 x 30 1/8\" (57.2 x 76.5 cm)",
+            "Dimensions": "5 1/2 x 22\" (14 x 55.9 cm)",
             "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
-            "Object number": "1563.2005",
-            "Copyright": "\u00a9 2023 Steve DiBenedetto",
+            "Object number": "2759.2005",
+            "Copyright": "\u00a9 2023 Jerry Phillips",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/28609"
+        "Profile": "https://www.moma.org/artists/28760"
     },
     {
-        "Artist": "Rineke Dijkstra",
-        "Title": "Almerisa, Leidschendam, The Netherlands",
-        "Year": "April 13, 2002",
-        "ObjectID": "101409",
-        "Work": "https://www.moma.org/collection/works/101409",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMjAwNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8449f1c9d3ee9723",
-        "Details": {
-            "Medium": "Chromogenic print",
-            "Dimensions": "13 3/4 \u00d7 11 1/4\" (35 \u00d7 28.5 cm)",
-            "Credit": "Acquired through the generosity of Leila and Melville Straus",
-            "Object number": "856.2005.x1-x2",
-            "Copyright": "\u00a9 2023 Rineke Dijkstra",
-            "Series": "Almerisa",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/8139"
-    },
-    {
-        "Artist": "Mark Dion",
-        "Title": "Die geoffnete Raritaten-und Naturalien-Kammer from the series Ex Libris",
-        "Year": "2002 (originally published 1704)",
-        "ObjectID": "149218",
-        "Work": "https://www.moma.org/collection/works/149218",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMzIzMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=da348d2884c9d419",
-        "Details": {
-            "Author": "Paul Jacob Marperger",
-            "Medium": "Artist's book with offset bookplate",
-            "Dimensions": "overall (closed): 7 1/2 x 4 3/4 x 11/16\" (19 x 12 x 1.8 cm)",
-            "Publisher": "Salon Verlag, Cologne",
-            "Printer": "WB Druck, Rieden im Allg\u00e4u",
-            "Edition": "200",
-            "Credit": "Acquired through the generosity of an anonymous donor in honor of Glenn D. Lowry",
-            "Object number": "1019.2011.3",
-            "Copyright": "\u00a9 2023 Mark Dion",
-            "Associated work": "Ex Libris",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/27427"
-    },
-    {
-        "Artist": "Mark Dion",
-        "Title": "Seattle Vivarium",
-        "Year": "2002",
-        "ObjectID": "169877",
-        "Work": "https://www.moma.org/collection/works/169877",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4NDAzNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8c36fbd50df76774",
-        "Details": {
-            "Medium": "Colored pencil on six sheets of paper",
-            "Dimensions": ".a): 9 x 12\" (22.9 x 30.5 cm)\r\n.b): 7 3/4 x 13 1/8\" (19.7 x 33.3 cm)\r\n.c): 9 x 12\" (22.9 x 30.5 cm)\r\n.d): 9 x 12\" (22.9 x 30.5 cm)\r\n.e): 9 x 12\" (22.9 x 30.5 cm)\r\n.f): 7 3/8 x 12\" (18.7 x 30.5 cm)",
-            "Credit": "Acquired through the generosity of the Contemporary Arts Council of The Museum of Modern Art",
-            "Object number": "646.2013.a-f",
-            "Copyright": "\u00a9 2023 Mark Dion",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/27427"
-    },
-    {
-        "Artist": "Mark Dion",
-        "Title": "Babel",
-        "Year": "2002",
-        "ObjectID": "288977",
-        "Work": "https://www.moma.org/collection/works/288977",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ1MTM0NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a24ad2f75402d4da",
-        "Details": {
-            "Medium": "Felt-tip pen on graph paper",
-            "Dimensions": "8 1/2 \u00d7 5 1/2\" (21.6 \u00d7 14 cm)",
-            "Credit": "Gift of the Gilbert B. and Lila Silverman Instruction Drawing Collection, Detroit",
-            "Object number": "1407.2018",
-            "Copyright": "\u00a9 2023 Mark Dion",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/27427"
-    },
-    {
-        "Artist": "Peter Doig",
+        "Artist": "Jerry Phillips",
         "Title": "Untitled",
-        "Year": "2002",
-        "ObjectID": "88190",
-        "Work": "https://www.moma.org/collection/works/88190",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyNDk1NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e4a79ceb31d74aea",
-        "Details": {
-            "Medium": "Pencil and ink on paper",
-            "Dimensions": "19 7/8 x 26\" (50.4 x 66 cm)",
-            "Credit": "Purchased with funds provided by The Buddy Taub Foundation, Dennis A. Roach, Director",
-            "Object number": "143.2003",
-            "Copyright": "\u00a9 2023 Peter Doig",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/8087"
-    },
-    {
-        "Artist": "Peter Doig",
-        "Title": "100 Years Ago",
-        "Year": "2002",
-        "ObjectID": "88191",
-        "Work": "https://www.moma.org/collection/works/88191",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM4NTYzOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ec107704becb1c56",
-        "Details": {
-            "Medium": "Oil on paper",
-            "Dimensions": "29 7/8 x 22\" (75.8 x 55.9 cm)",
-            "Credit": "Gift of Martin and Rebecca Eisenberg",
-            "Object number": "144.2003",
-            "Copyright": "\u00a9 2023 Peter Doig",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/8087"
-    },
-    {
-        "Artist": "Nathaniel Dorsky",
-        "Title": "The Visitation",
-        "Year": "2002",
-        "ObjectID": "321751",
-        "Work": "https://www.moma.org/collection/works/321751",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ4NTM2MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ee1fb422d94e3dc9",
-        "Details": {
-            "Object number": "W19038",
-            "Department": "Film"
-        },
-        "Profile": "https://www.moma.org/artists/32229"
-    },
-    {
-        "Artist": "Winka Dubbeldam",
-        "Title": "From Hardware to Softform, project (Armature model)",
-        "Year": "2002",
-        "ObjectID": "100100",
-        "Work": "https://www.moma.org/collection/works/100100",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ0MDU1MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=699362b2680cc754",
-        "Details": {
-            "Medium": "Acrylic",
-            "Dimensions": "13 x 6 x 20\" (33 x 15.2 x 50.8 cm)",
-            "Credit": "Barbara Pine Purchase Fund and gift of Frederieke Taylor",
-            "Object number": "827.2005",
-            "Copyright": "\u00a9 2023 Winka Dubbledam",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/29620"
-    },
-    {
-        "Artist": "Carroll Dunham",
-        "Title": "In Town",
-        "Year": "2002",
-        "ObjectID": "86838",
-        "Work": "https://www.moma.org/collection/works/86838",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMDM5NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5deb4ea8091992d0",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "composition: 14 9/16 x 21 5/8\" (37 x 55 cm); sheet: 22 1/16 x 29 7/8\" (56 x 75.9 cm)",
-            "Publisher": "Universal Limited Art Editions, West Islip, New York",
-            "Printer": "Universal Limited Art Editions, West Islip, New York",
-            "Credit": "Gift of Emily Fisher Landau",
-            "Object number": "327.2002",
-            "Copyright": "\u00a9 2023 Carroll Dunham",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/1652"
-    },
-    {
-        "Artist": "Carroll Dunham",
-        "Title": "Untitled #1",
-        "Year": "1992-2002",
-        "ObjectID": "87839",
-        "Work": "https://www.moma.org/collection/works/87839",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MzE0OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1d3e865e1ace5c27",
-        "Details": {
-            "Medium": "Drypoint",
-            "Publisher": "Universal Limited Art Editions, West Islip, New York",
-            "Printer": "Universal Limited Art Editions, West Islip, New York",
-            "Edition": "7.",
-            "Credit": "Gift of Emily Fisher Landau",
-            "Object number": "18.2003",
-            "Copyright": "\u00a9 2023 Carroll Dunham",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/1652"
-    },
-    {
-        "Artist": "Carroll Dunham",
-        "Title": "Untitled #2",
-        "Year": "1992-2002",
-        "ObjectID": "87840",
-        "Work": "https://www.moma.org/collection/works/87840",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MzE1MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6244840aa38cf1ac",
-        "Details": {
-            "Medium": "Drypoint",
-            "Publisher": "Universal Limited Art Editions, West Islip, New York",
-            "Printer": "Universal Limited Art Editions, West Islip, New York",
-            "Edition": "7.",
-            "Credit": "Gift of Emily Fisher Landau",
-            "Object number": "19.2003",
-            "Copyright": "\u00a9 2023 Carroll Dunham",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/1652"
-    },
-    {
-        "Artist": "Carroll Dunham",
-        "Title": "Untitled #3",
-        "Year": "1992-2002",
-        "ObjectID": "87841",
-        "Work": "https://www.moma.org/collection/works/87841",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MzE1NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1a6466ca13c446a4",
-        "Details": {
-            "Medium": "Drypoint",
-            "Publisher": "Universal Limited Art Editions, West Islip, New York",
-            "Printer": "Universal Limited Art Editions, West Islip, New York",
-            "Edition": "7.",
-            "Credit": "Gift of Emily Fisher Landau",
-            "Object number": "20.2003",
-            "Copyright": "\u00a9 2023 Carroll Dunham",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/1652"
-    },
-    {
-        "Artist": "Carroll Dunham",
-        "Title": "Untitled",
-        "Year": "2002",
-        "ObjectID": "95845",
-        "Work": "https://www.moma.org/collection/works/95845",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNDU4NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f52dc1279e707010",
+        "Year": "(2003)",
+        "ObjectID": "97046",
+        "Work": "https://www.moma.org/collection/works/97046",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzODYxMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2a1333a55bbe3f98",
         "Details": {
             "Medium": "Pencil on paper",
-            "Dimensions": "18 x 24\" (45.7 x 61 cm)",
+            "Dimensions": "6 1/2 x 11\" (16.5 x 27.9 cm)",
             "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
-            "Object number": "1589.2005",
-            "Copyright": "\u00a9 2023 Carroll Dunham",
+            "Object number": "2760.2005",
+            "Copyright": "\u00a9 2023 Jerry Phillips",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/1652"
+        "Profile": "https://www.moma.org/artists/28760"
     },
     {
-        "Artist": "Marcel Dzama",
-        "Title": "Untitled",
-        "Year": "(2002)",
-        "ObjectID": "95855",
-        "Work": "https://www.moma.org/collection/works/95855",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNTczMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=34d9e28bec5f0f03",
+        "Artist": "Richard Phillips",
+        "Title": "$",
+        "Year": "2003",
+        "ObjectID": "97047",
+        "Work": "https://www.moma.org/collection/works/97047",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE0Mjc2NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a98c9750f35eb7b3",
         "Details": {
-            "Medium": "Ink, watercolor, and root beer concentrate on paper",
-            "Dimensions": "11 x 14\" (27.9 x 35.6 cm)",
+            "Medium": "Charcoal, chalk, and pencil on paper",
+            "Dimensions": "26 x 20 1/2\" (66 x 52.1 cm)",
             "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
-            "Object number": "1593.2005",
-            "Copyright": "\u00a9 2023 Marcel Dzama",
+            "Object number": "2761.2005",
+            "Copyright": "\u00a9 2023 Richard Phillips",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/27712"
+        "Profile": "https://www.moma.org/artists/28761"
     },
     {
-        "Artist": "Marcel Dzama",
-        "Title": "Untitled",
-        "Year": "(2002)",
-        "ObjectID": "95856",
-        "Work": "https://www.moma.org/collection/works/95856",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNTczNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a2d5f831f6147287",
+        "Artist": "Gabriele Picco",
+        "Title": "Diet Pepsi",
+        "Year": "2003",
+        "ObjectID": "97052",
+        "Work": "https://www.moma.org/collection/works/97052",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1MTk0NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=367dabb9c9319ad0",
         "Details": {
-            "Medium": "Ink, watercolor, and root beer concentrate on paper",
-            "Dimensions": "11 x 14\" (27.9 x 35.6 cm)",
+            "Medium": "Ballpoint pen and synthetic polymer paint on paper",
+            "Dimensions": "8 1/2 x 11\" (21.6 x 27.9 cm)",
             "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
-            "Object number": "1594.2005",
-            "Copyright": "\u00a9 2023 Marcel Dzama",
+            "Object number": "2766.2005",
+            "Copyright": "\u00a9 2023 Gabriele Picco",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/27712"
+        "Profile": "https://www.moma.org/artists/28762"
     },
     {
-        "Artist": "Marcel Dzama",
-        "Title": "Untitled",
-        "Year": "(2002)",
-        "ObjectID": "95857",
-        "Work": "https://www.moma.org/collection/works/95857",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNTczNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=41f47baf9272f8fe",
+        "Artist": "Gabriele Picco",
+        "Title": "Different kind of pain and happiness in the same bottle",
+        "Year": "2003",
+        "ObjectID": "97053",
+        "Work": "https://www.moma.org/collection/works/97053",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1MTk0OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=276d10f07aba6471",
         "Details": {
-            "Medium": "Ink, watercolor, and root beer concentrate on paper",
-            "Dimensions": "11 x 14\" (27.9 x 35.6 cm)",
+            "Medium": "Ballpoint pen on paper",
+            "Dimensions": "9 1/2 x 12 1/2\" (24.1 x 31.8 cm)",
             "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
-            "Object number": "1595.2005",
-            "Copyright": "\u00a9 2023 Marcel Dzama",
+            "Object number": "2767.2005",
+            "Copyright": "\u00a9 2023 Gabriele Picco",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/27712"
+        "Profile": "https://www.moma.org/artists/28762"
     },
     {
-        "Artist": "Marcel Dzama",
-        "Title": "Untitled",
-        "Year": "(2002)",
-        "ObjectID": "95858",
-        "Work": "https://www.moma.org/collection/works/95858",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNTczNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=dc2a57b07dd8f372",
+        "Artist": "Gabriele Picco",
+        "Title": "Do you believe",
+        "Year": "2003",
+        "ObjectID": "97054",
+        "Work": "https://www.moma.org/collection/works/97054",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1MTk0OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=496a41af0c4b1fc2",
         "Details": {
-            "Medium": "Ink, watercolor, and root beer concentrate on paper",
-            "Dimensions": "11 x 14\" (27.9 x 35.6 cm)",
+            "Medium": "Ballpoint pen on paper",
+            "Dimensions": "9 1/2 x 12 1/2\" (24.1 x 31.8 cm)",
             "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
-            "Object number": "1596.2005",
-            "Copyright": "\u00a9 2023 Marcel Dzama",
+            "Object number": "2768.2005",
+            "Copyright": "\u00a9 2023 Gabriele Picco",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/27712"
+        "Profile": "https://www.moma.org/artists/28762"
     },
     {
-        "Artist": "Marcel Dzama",
-        "Title": "Untitled",
-        "Year": "(2002)",
-        "ObjectID": "95859",
-        "Work": "https://www.moma.org/collection/works/95859",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNTczNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1c0a9dd9f8851ad9",
+        "Artist": "Gabriele Picco",
+        "Title": "Don't try to live the wrong life",
+        "Year": "2003",
+        "ObjectID": "97055",
+        "Work": "https://www.moma.org/collection/works/97055",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1MTk1MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e4e2e8944eceaa6f",
         "Details": {
-            "Medium": "Ink, watercolor, and root beer concentrate on paper",
-            "Dimensions": "11 x 14\" (27.9 x 35.6 cm)",
+            "Medium": "Ballpoint pen on paper",
+            "Dimensions": "9 1/2 x 12 1/2\" (24.1 x 31.8 cm)",
             "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
-            "Object number": "1597.2005",
-            "Copyright": "\u00a9 2023 Marcel Dzama",
+            "Object number": "2769.2005",
+            "Copyright": "\u00a9 2023 Gabriele Picco",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/27712"
+        "Profile": "https://www.moma.org/artists/28762"
     },
     {
-        "Artist": "Marcel Dzama",
-        "Title": "Untitled",
-        "Year": "(2002)",
-        "ObjectID": "95860",
-        "Work": "https://www.moma.org/collection/works/95860",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNTczOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=51bdd619e5c2c80c",
+        "Artist": "Gabriele Picco",
+        "Title": "Infinite Column",
+        "Year": "2003",
+        "ObjectID": "97056",
+        "Work": "https://www.moma.org/collection/works/97056",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1MDY2OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c575b59e4d249e8e",
         "Details": {
-            "Medium": "Ink, watercolor, root beer concentrate, and correction fluid on paper",
-            "Dimensions": "11 x 14\" (27.9 x 35.6 cm)",
+            "Medium": "Ballpoint pen and synthetic polymer paint on paper",
+            "Dimensions": "8 1/2 x 11\" (21.6 x 27.9 cm)",
             "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
-            "Object number": "1598.2005",
-            "Copyright": "\u00a9 2023 Marcel Dzama",
+            "Object number": "2770.2005",
+            "Copyright": "\u00a9 2023 Gabriele Picco",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/27712"
+        "Profile": "https://www.moma.org/artists/28762"
     },
     {
-        "Artist": "Marcel Dzama",
-        "Title": "Untitled",
-        "Year": "(2002)",
-        "ObjectID": "95861",
-        "Work": "https://www.moma.org/collection/works/95861",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNTczOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3f62e6d447303cf1",
+        "Artist": "Gabriele Picco",
+        "Title": "Little life big love",
+        "Year": "2003",
+        "ObjectID": "97057",
+        "Work": "https://www.moma.org/collection/works/97057",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1MTk1MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=726ac6a5eb0cc51c",
         "Details": {
-            "Medium": "Ink, watercolor, and root beer concentrate on paper",
-            "Dimensions": "11 x 14\" (27.9 x 35.6 cm)",
+            "Medium": "Ballpoint pen on paper",
+            "Dimensions": "9 1/2 x 12 1/2\" (24.1 x 31.8 cm)",
             "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
-            "Object number": "1599.2005",
-            "Copyright": "\u00a9 2023 Marcel Dzama",
+            "Object number": "2771.2005",
+            "Copyright": "\u00a9 2023 Gabriele Picco",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/27712"
+        "Profile": "https://www.moma.org/artists/28762"
     },
     {
-        "Artist": "Marcel Dzama",
-        "Title": "Untitled",
-        "Year": "(2002)",
-        "ObjectID": "95862",
-        "Work": "https://www.moma.org/collection/works/95862",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNTc0MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5586461214a386b9",
+        "Artist": "Gabriele Picco",
+        "Title": "Married Hand (Flower)",
+        "Year": "2003",
+        "ObjectID": "97058",
+        "Work": "https://www.moma.org/collection/works/97058",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1MDQ4OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=53881b6e8250ea38",
         "Details": {
-            "Medium": "Ink, watercolor, and root beer concentrate on paper",
-            "Dimensions": "11 x 14\" (27.9 x 35.6 cm)",
+            "Medium": "Ballpoint pen, felt-tip pen, and synthetic polymer paint on paper",
+            "Dimensions": "8 1/2 x 11\" (21.6 x 27.9 cm)",
             "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
-            "Object number": "1600.2005",
-            "Copyright": "\u00a9 2023 Marcel Dzama",
+            "Object number": "2772.2005",
+            "Copyright": "\u00a9 2023 Gabriele Picco",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/27712"
+        "Profile": "https://www.moma.org/artists/28762"
     },
     {
-        "Artist": "Marcel Dzama",
-        "Title": "Untitled",
-        "Year": "(2002)",
-        "ObjectID": "95863",
-        "Work": "https://www.moma.org/collection/works/95863",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNTc0MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=969bcbf018e91b8f",
+        "Artist": "Gabriele Picco",
+        "Title": "New way of life",
+        "Year": "2003",
+        "ObjectID": "97059",
+        "Work": "https://www.moma.org/collection/works/97059",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1MTk1MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=19883dcda46dbe4f",
         "Details": {
-            "Medium": "Ink, watercolor, and root beer concentrate on paper",
-            "Dimensions": "11 x 14\" (27.9 x 35.6 cm)",
+            "Medium": "Ballpoint pen on paper",
+            "Dimensions": "9 1/2 x 12 1/2\" (24.1 x 31.8 cm)",
             "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
-            "Object number": "1601.2005",
-            "Copyright": "\u00a9 2023 Marcel Dzama",
+            "Object number": "2773.2005",
+            "Copyright": "\u00a9 2023 Gabriele Picco",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/27712"
+        "Profile": "https://www.moma.org/artists/28762"
     },
     {
-        "Artist": "Marcel Dzama",
+        "Artist": "Gabriele Picco",
         "Title": "Untitled",
-        "Year": "(2002)",
-        "ObjectID": "95864",
-        "Work": "https://www.moma.org/collection/works/95864",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNTczMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=46646d3d37c5c571",
+        "Year": "2003",
+        "ObjectID": "97060",
+        "Work": "https://www.moma.org/collection/works/97060",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1MTk1MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1b53649508b22cbb",
         "Details": {
-            "Medium": "Ink, watercolor, and root beer concentrate on paper",
-            "Dimensions": "11 x 14\" (27.9 x 35.6 cm)",
+            "Medium": "Felt-tip pen and ballpoint pen on printed paper",
+            "Dimensions": "11 3/4 x 8 1/2\" (29.8 x 21.6 cm)",
             "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
-            "Object number": "1602.2005",
-            "Copyright": "\u00a9 2023 Marcel Dzama",
+            "Object number": "2774.2005",
+            "Copyright": "\u00a9 2023 Gabriele Picco",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/27712"
+        "Profile": "https://www.moma.org/artists/28762"
     },
     {
-        "Artist": "Marcel Dzama",
+        "Artist": "Gabriele Picco",
         "Title": "Untitled",
-        "Year": "(2002)",
-        "ObjectID": "95865",
-        "Work": "https://www.moma.org/collection/works/95865",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE0NTYxOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=db6905563401a120",
+        "Year": "2003",
+        "ObjectID": "97061",
+        "Work": "https://www.moma.org/collection/works/97061",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1MTk0NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=22c27a5411dbbdfb",
         "Details": {
-            "Medium": "Ink, watercolor, and root beer concentrate on paper",
-            "Dimensions": "11 x 14\" (27.9 x 35.6 cm)",
+            "Medium": "Ballpoint pen on paper",
+            "Dimensions": "12 5/8 x 9 1/2\" (32.1 x 24.1 cm)",
             "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
-            "Object number": "1603.2005",
-            "Copyright": "\u00a9 2023 Marcel Dzama",
+            "Object number": "2775.2005",
+            "Copyright": "\u00a9 2023 Gabriele Picco",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/27712"
+        "Profile": "https://www.moma.org/artists/28762"
     },
     {
-        "Artist": "Marcel Dzama",
+        "Artist": "Gabriele Picco",
         "Title": "Untitled",
-        "Year": "(2002)",
-        "ObjectID": "95866",
-        "Work": "https://www.moma.org/collection/works/95866",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNTczMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7d70b84bca988d90",
+        "Year": "2003",
+        "ObjectID": "97062",
+        "Work": "https://www.moma.org/collection/works/97062",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1MTk0NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f4c34e4c52f34313",
         "Details": {
-            "Medium": "Ink, watercolor, and root beer concentrate on paper",
-            "Dimensions": "11 x 14\" (27.9 x 35.6 cm)",
+            "Medium": "Felt-tip pen and ballpoint pen on paper",
+            "Dimensions": "8 1/4 x 11 1/2\" (21 x 29.2 cm)",
             "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
-            "Object number": "1604.2005",
-            "Copyright": "\u00a9 2023 Marcel Dzama",
+            "Object number": "2776.2005",
+            "Copyright": "\u00a9 2023 Gabriele Picco",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/27712"
+        "Profile": "https://www.moma.org/artists/28762"
     },
     {
-        "Artist": "Martin Eder",
+        "Artist": "Gabriele Picco",
         "Title": "Untitled",
-        "Year": "2002",
-        "ObjectID": "95880",
-        "Work": "https://www.moma.org/collection/works/95880",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyNDA0OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=87a8bc700afe1d52",
+        "Year": "2003",
+        "ObjectID": "97063",
+        "Work": "https://www.moma.org/collection/works/97063",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1MTk0NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4fa9a48e6a5725a4",
         "Details": {
-            "Medium": "Watercolor and pencil on paper",
-            "Dimensions": "11 1/8 x 8 1/2\" (28.3 x 21.6 cm)",
+            "Medium": "Felt-tip pen and ballpoint pen on paper",
+            "Dimensions": "8 1/4 x 11 3/4\" (21 x 29.8 cm)",
             "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
-            "Object number": "1617.2005",
-            "Copyright": "\u00a9 2023 Martin Eder / Artists Rights Society (ARS), New York / VG Bild-Kunst, Germany",
+            "Object number": "2777.2005",
+            "Copyright": "\u00a9 2023 Gabriele Picco",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/28613"
+        "Profile": "https://www.moma.org/artists/28762"
     },
     {
-        "Artist": "Martin Eder",
-        "Title": "Untitled",
-        "Year": "2002",
-        "ObjectID": "95881",
-        "Work": "https://www.moma.org/collection/works/95881",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyNDA1MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=215364e38f64931a",
+        "Artist": "Gabriele Picco",
+        "Title": "Wind",
+        "Year": "2003",
+        "ObjectID": "97064",
+        "Work": "https://www.moma.org/collection/works/97064",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE0MTcyNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7fb5738e365b4d32",
         "Details": {
-            "Medium": "Watercolor and pencil on paper",
+            "Medium": "Ballpoint pen and synthetic polymer paint on paper",
+            "Dimensions": "8 1/2 x 11\" (21.6 x 27.9 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "2778.2005",
+            "Copyright": "\u00a9 2023 Gabriele Picco",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/28762"
+    },
+    {
+        "Artist": "Chloe Piene",
+        "Title": "Little Masturbator # 16",
+        "Year": "(2002-03)",
+        "ObjectID": "97072",
+        "Work": "https://www.moma.org/collection/works/97072",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NzA3NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=61cd9e434c4766ab",
+        "Details": {
+            "Medium": "Ballpoint pen on paper in box",
+            "Dimensions": "Sheet: 11 1/4 x 8 3/4\" (28.6 x 22.2 cm)\r\nComponent (box): 11 1/2 x 9 x 1\" (29.2 x 22.9 x 2.5 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "2786.2005.a-b",
+            "Copyright": "\u00a9 2023 Chloe Piene",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/25190"
+    },
+    {
+        "Artist": "Chloe Piene",
+        "Title": "Benediction",
+        "Year": "2003",
+        "ObjectID": "97073",
+        "Work": "https://www.moma.org/collection/works/97073",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE0MDQxMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=68785cd502ce947b",
+        "Details": {
+            "Medium": "Charcoal on transparentized paper",
+            "Dimensions": "42 1/2 x 44 1/4\" (108 x 112.4 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "2787.2005",
+            "Copyright": "\u00a9 2023 Chloe Piene",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/25190"
+    },
+    {
+        "Artist": "Chloe Piene",
+        "Title": "Little Masturbator",
+        "Year": "2003",
+        "ObjectID": "97876",
+        "Work": "https://www.moma.org/collection/works/97876",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1ODAyOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=42af9908c2cd7639",
+        "Details": {
+            "Medium": "Ballpoint pen on paper",
+            "Dimensions": "8 1/2 x 5 1/2\" (21.6 x 14 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "2788.2005",
+            "Copyright": "\u00a9 2023 Chloe Piene",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/25190"
+    },
+    {
+        "Artist": "Jack Pierson",
+        "Title": "Untitled",
+        "Year": "2003",
+        "ObjectID": "97083",
+        "Work": "https://www.moma.org/collection/works/97083",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNTcxNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=979015a3f2ffc16c",
+        "Details": {
+            "Medium": "Felt-tip pen on paper",
             "Dimensions": "11 x 9\" (27.9 x 22.9 cm)",
             "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
-            "Object number": "1618.2005",
-            "Copyright": "\u00a9 2023 Martin Eder / Artists Rights Society (ARS), New York / VG Bild-Kunst, Germany",
+            "Object number": "2798.2005",
+            "Copyright": "\u00a9 2023 Jack Pierson",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/28613"
+        "Profile": "https://www.moma.org/artists/21446"
     },
     {
-        "Artist": "Martin Eder",
-        "Title": "Untitled",
-        "Year": "2002",
-        "ObjectID": "95882",
-        "Work": "https://www.moma.org/collection/works/95882",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyNDA1MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4645602146d3320d",
+        "Artist": "Jack Pierson",
+        "Title": "Untitled (Another Night)",
+        "Year": "2003",
+        "ObjectID": "97084",
+        "Work": "https://www.moma.org/collection/works/97084",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNTcxNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cf31dd40885d98e0",
         "Details": {
-            "Medium": "Watercolor and pencil on paper",
-            "Dimensions": "11 1/8 x 8 7/8\" (28.3 x 22.5 cm)",
+            "Medium": "Pencil and felt-tip pen on paper",
+            "Dimensions": "11 x 8 3/4\" (27.9 x 22.2 cm)",
             "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
-            "Object number": "1619.2005",
-            "Copyright": "\u00a9 2023 Martin Eder / Artists Rights Society (ARS), New York / VG Bild-Kunst, Germany",
+            "Object number": "2799.2005",
+            "Copyright": "\u00a9 2023 Jack Pierson",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/28613"
+        "Profile": "https://www.moma.org/artists/21446"
     },
     {
-        "Artist": "Martin Eder",
-        "Title": "Untitled",
-        "Year": "2002",
-        "ObjectID": "95883",
-        "Work": "https://www.moma.org/collection/works/95883",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1NDgzOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=156caf4fd01f2791",
+        "Artist": "Pong Chun-ho",
+        "Title": "Salinui chueok (Memories of Murder) [English Subtitled]",
+        "Year": "2003/2003",
+        "ObjectID": "180461",
+        "Work": "https://www.moma.org/collection/works/180461",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ1MTIzMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0e0941f00777843b",
         "Details": {
-            "Medium": "Watercolor and pencil on paper",
-            "Dimensions": "29 x 21\" (73.7 x 53.3 cm)",
-            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
-            "Object number": "1620.2005",
-            "Copyright": "\u00a9 2023 Martin Eder / Artists Rights Society (ARS), New York / VG Bild-Kunst, Germany",
-            "Department": "Drawings and Prints"
+            "Object number": "W24395",
+            "Department": "Film"
         },
-        "Profile": "https://www.moma.org/artists/28613"
+        "Profile": "https://www.moma.org/artists/45885"
     },
     {
-        "Artist": "Martin Eder",
-        "Title": "Untitled",
-        "Year": "2002",
-        "ObjectID": "95884",
-        "Work": "https://www.moma.org/collection/works/95884",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyNDA1MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2a140e4005dbe170",
+        "Artist": "Pope.L",
+        "Title": "The Black Factory Archive",
+        "Year": "2003-ongoing",
+        "ObjectID": "182201",
+        "Work": "https://www.moma.org/collection/works/182201",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ0NzIyOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=226f5ce13b28ef54",
         "Details": {
-            "Medium": "Watercolor, pencil, and colored pencil on paper",
-            "Dimensions": "11 1/2 x 8 1/2\" (29.2 x 21.6 cm)",
-            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
-            "Object number": "1621.2005",
-            "Copyright": "\u00a9 2023 Martin Eder / Artists Rights Society (ARS), New York / VG Bild-Kunst, Germany",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/28613"
-    },
-    {
-        "Artist": "Martin Eder",
-        "Title": "Untitled",
-        "Year": "2002",
-        "ObjectID": "95885",
-        "Work": "https://www.moma.org/collection/works/95885",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyNDA1MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=42a687d987240f4a",
-        "Details": {
-            "Medium": "Watercolor, pencil, and colored pencil on paper",
-            "Dimensions": "11 1/4 x 8 3/4\" (28.6 x 22.2 cm)",
-            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
-            "Object number": "1622.2005",
-            "Copyright": "\u00a9 2023 Martin Eder / Artists Rights Society (ARS), New York / VG Bild-Kunst, Germany",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/28613"
-    },
-    {
-        "Artist": "Martin Eder",
-        "Title": "Untitled",
-        "Year": "2002",
-        "ObjectID": "95886",
-        "Work": "https://www.moma.org/collection/works/95886",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyNDA1NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a7de2725d5bb02b3",
-        "Details": {
-            "Medium": "Watercolor, pencil, and colored pencil on paper",
-            "Dimensions": "11 1/4 x 8 3/4\" (28.6 x 22.2 cm)",
-            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
-            "Object number": "1623.2005",
-            "Copyright": "\u00a9 2023 Martin Eder / Artists Rights Society (ARS), New York / VG Bild-Kunst, Germany",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/28613"
-    },
-    {
-        "Artist": "Jacob El Hanani",
-        "Title": "Topography",
-        "Year": "(2002)",
-        "ObjectID": "100239",
-        "Work": "https://www.moma.org/collection/works/100239",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3OTA1MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4e45fd8f6dfe85aa",
-        "Details": {
-            "Medium": "Ink on paper",
-            "Dimensions": "32 x 40 1/8\" (81.3 x 101.9 cm)",
-            "Credit": "Gift of Edward R. Broida",
-            "Object number": "699.2005",
-            "Copyright": "\u00a9 2023 Jacob El Hanani",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/1710"
-    },
-    {
-        "Artist": "Olafur Eliasson",
-        "Title": "Eye Eye (for Parkett no. 64)",
-        "Year": "2002",
-        "ObjectID": "87835",
-        "Work": "https://www.moma.org/collection/works/87835",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ0MjcxNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=11eca4fd3b58a6a1",
-        "Details": {
-            "Medium": "Multiple of iris shutter, mirror, and wood",
-            "Dimensions": "overall: 10 11/16 \u00d7 8 11/16 \u00d7 10 1/16\" (27.1 \u00d7 22 \u00d7 25.5 cm)",
-            "Publisher": "Parkett Publishers, Z\u00fcrich and New York",
-            "Edition": "70",
-            "Credit": "Linda Barth Goldstein Fund",
-            "Object number": "21.2003",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/25982"
-    },
-    {
-        "Artist": "Olafur Eliasson, Tom Friedman, Rodney Graham, Nic Hess, Amy Sillman, Various Artists",
-        "Title": "Parkett no. 64",
-        "Year": "2002",
-        "ObjectID": "86768",
-        "Work": "https://www.moma.org/collection/works/86768",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQyOTMyMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2512a23c5cfb1515",
-        "Details": {
-            "Collaborating artist": "Olafur Eliasson, Tom Friedman, Rodney Graham, Nic Hess, Amy Sillman",
-            "Medium": "Journal with three special edition projects",
-            "Dimensions": "Page: 10 1/16 x 8 1/16\" (25.5 x 20.4 cm)",
-            "Publisher": "Parkett Publishers, Z\u00fcrich and New York",
-            "Credit": "Gift of Parkett",
-            "Object number": "373.2002",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/24409"
-    },
-    {
-        "Artist": "Lori Ellison",
-        "Title": "Untitled (Notebook Drawing)",
-        "Year": "(1998/2002)",
-        "ObjectID": "118152",
-        "Work": "https://www.moma.org/collection/works/118152",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzNjc0OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=473978b03173e635",
-        "Details": {
-            "Medium": "Ballpoint pen on notebook paper",
-            "Dimensions": "11 x 8 1/4\" (27.9 x 21 cm)",
-            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
-            "Object number": "1628.2005",
-            "Copyright": "\u00a9 2023 Lori Ellison",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/28616"
-    },
-    {
-        "Artist": "Lori Ellison",
-        "Title": "Untitled (Notebook Drawing)",
-        "Year": "(1998/2002)",
-        "ObjectID": "118153",
-        "Work": "https://www.moma.org/collection/works/118153",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1NDUxOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=71f11dc4f4824c69",
-        "Details": {
-            "Medium": "Ballpoint pen on notebook paper",
-            "Dimensions": "10 3/4 x 8 1/4\" (27.3 x 21 cm)",
-            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
-            "Object number": "1629.2005",
-            "Copyright": "\u00a9 2023 Lori Ellison",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/28616"
-    },
-    {
-        "Artist": "Lori Ellison",
-        "Title": "Untitled (Notebook Drawing)",
-        "Year": "2002",
-        "ObjectID": "118154",
-        "Work": "https://www.moma.org/collection/works/118154",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1NDUyMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=47dd2a37a94e2c44",
-        "Details": {
-            "Medium": "Ballpoint pen on notebook paper",
-            "Dimensions": "10 3/4 x 8 1/4\" (27.3 x 21 cm)",
-            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
-            "Object number": "1632.2005",
-            "Copyright": "\u00a9 2023 Lori Ellison",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/28616"
-    },
-    {
-        "Artist": "Lori Ellison",
-        "Title": "Untitled (Notebook Drawing)",
-        "Year": "(1998/2002)",
-        "ObjectID": "118155",
-        "Work": "https://www.moma.org/collection/works/118155",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1NDUyMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=37db689dc8f05cb8",
-        "Details": {
-            "Medium": "Ballpoint pen on notebook paper",
-            "Dimensions": "10 3/4 x 8 1/4\" (27.3 x 21 cm)",
-            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
-            "Object number": "1630.2005",
-            "Copyright": "\u00a9 2023 Lori Ellison",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/28616"
-    },
-    {
-        "Artist": "Lori Ellison",
-        "Title": "Untitled (Notebook Drawing)",
-        "Year": "(1998/2002)",
-        "ObjectID": "118156",
-        "Work": "https://www.moma.org/collection/works/118156",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1NDUyMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4ab2cb5e77cf6d14",
-        "Details": {
-            "Medium": "Ballpoint pen on notebook paper",
-            "Dimensions": "10 3/4 x 8 1/4\" (27.3 x 21 cm)",
-            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
-            "Object number": "1631.2005",
-            "Copyright": "\u00a9 2023 Lori Ellison",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/28616"
-    },
-    {
-        "Artist": "Emigre Inc., Rudy VanderLans, Zuzana Licko",
-        "Title": "Emigre 61, The Grassy Knoll: Happily Ever After",
-        "Year": "2002",
-        "ObjectID": "112359",
-        "Work": "https://www.moma.org/collection/works/112359",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MjEzNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c90a1c874194d4cc",
-        "Details": {
-            "Medium": "Lithograph",
+            "Medium": "Archive of items related to the Black Factory, including Donated Objects, Twice Sold Goods, ephemera, digital image files, a website, and a film",
             "Dimensions": "Various dimensions",
-            "Credit": "Agnes Gund Purchase Fund",
-            "Object number": "205.2006.61",
-            "Copyright": "\u00a9 2023 Rudy VanderLans & Zuzana Licko",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/30189"
-    },
-    {
-        "Artist": "Emigre Inc., Rudy VanderLans, Zuzana Licko",
-        "Title": "Emigre 62, Catfish",
-        "Year": "2002",
-        "ObjectID": "112360",
-        "Work": "https://www.moma.org/collection/works/112360",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MjEzOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8608ab5960796738",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "Various dimensions",
-            "Credit": "Agnes Gund Purchase Fund",
-            "Object number": "205.2006.62",
-            "Copyright": "\u00a9 2023 Rudy VanderLans & Zuzana Licko",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/30189"
-    },
-    {
-        "Artist": "Emigre Inc., Rudy VanderLans, Zuzana Licko",
-        "Title": "Emigre 63, Scenic: The Acid Gospel Experience",
-        "Year": "2002",
-        "ObjectID": "112361",
-        "Work": "https://www.moma.org/collection/works/112361",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MjE0MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f3c243e3d160b289",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "Various dimensions",
-            "Credit": "Agnes Gund Purchase Fund",
-            "Object number": "205.2006.63",
-            "Copyright": "\u00a9 2023 Rudy VanderLans & Zuzana Licko",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/30189"
-    },
-    {
-        "Artist": "Angele Etoundi Essamba",
-        "Title": "Dos 10 from the series Noirs",
-        "Year": "2002",
-        "ObjectID": "432934",
-        "Work": "https://www.moma.org/collection/works/432934",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNjE2NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=898c7cc2c082514c",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "18 11/16 \u00d7 14\" (47.5 \u00d7 35.6 cm)",
-            "Credit": "Acquired through the generosity of Ruth Nordenbrook",
-            "Object number": "540.2022",
-            "Copyright": "\u00a9 2023 Ang\u00e8le Etoundi Essamba",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/134681"
-    },
-    {
-        "Artist": "Lee Etheredge IV",
-        "Title": "Dissemination",
-        "Year": "2002",
-        "ObjectID": "90679",
-        "Work": "https://www.moma.org/collection/works/90679",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4NjM5NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=60b9029be4bd0b55",
-        "Details": {
-            "Medium": "Typewriting on paper",
-            "Dimensions": "15 3/4 x 20 1/2\" (40 x 52.1 cm)",
-            "Credit": "Gift of Sarah-Ann and Werner H. Kramarsky",
-            "Object number": "99.2004",
-            "Copyright": "\u00a9 2023 Lee Etheredge IV",
+            "Credit": "Fund for the Twenty-First Century and Deborah Wye Endowment Fund",
+            "Object number": "626.2014.1-210",
+            "Copyright": "\u00a9 2023 William Pope.L",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/27162"
+        "Profile": "https://www.moma.org/artists/37145"
     },
     {
-        "Artist": "Experimental Jetset",
-        "Title": "Decemberzegels Stamps",
-        "Year": "2002",
-        "ObjectID": "109186",
-        "Work": "https://www.moma.org/collection/works/109186",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MjE4OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c693bf3ff14e6792",
+        "Artist": "Marjetica Potrc",
+        "Title": "Caracas: Growing House",
+        "Year": "2003",
+        "ObjectID": "97106",
+        "Work": "https://www.moma.org/collection/works/97106",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyMzI0OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=259198e6f0182bb7",
         "Details": {
-            "Medium": "Lithograph on self-adhesive paper",
-            "Dimensions": "6 1/4 x 5 5/8\" (15.9 x 14.3 cm)",
-            "Credit": "Gift of the designers",
-            "Object number": "348.2007",
-            "Copyright": "\u00a9 2023 Experimental Jetset",
-            "Department": "Architecture and Design"
+            "Medium": "Felt-tip pen on paper",
+            "Dimensions": "11 1/2 x 8 1/4\" (29.2 x 21 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "2823.2005.1",
+            "Copyright": "\u00a9 2023 Marjetica Potrc",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/32472"
+        "Profile": "https://www.moma.org/artists/28766"
     },
     {
-        "Artist": "Experimental Jetset",
-        "Title": "We Build New Sentences",
-        "Year": "2002",
-        "ObjectID": "109187",
-        "Work": "https://www.moma.org/collection/works/109187",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MjE4OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=794696da0fc92e75",
+        "Artist": "Marjetica Potrc",
+        "Title": "Caracas: Growing House",
+        "Year": "2003",
+        "ObjectID": "97107",
+        "Work": "https://www.moma.org/collection/works/97107",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyMzI1MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1e676b0c848a981d",
         "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "9 1/2 x 6 3/4 x 1 3/8\" (24.1 x 17.1 x 3.5 cm)",
-            "Credit": "Gift of the designers",
-            "Object number": "349.2007",
-            "Copyright": "\u00a9 2023 Experimental Jetset",
-            "Department": "Architecture and Design"
+            "Medium": "Felt-tip pen on paper",
+            "Dimensions": "11 1/2 x 8 1/4\" (29.2 x 21 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "2823.2005.2",
+            "Copyright": "\u00a9 2023 Marjetica Potrc",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/32472"
+        "Profile": "https://www.moma.org/artists/28766"
+    },
+    {
+        "Artist": "Marjetica Potrc",
+        "Title": "Caracas: Growing House",
+        "Year": "2003",
+        "ObjectID": "97108",
+        "Work": "https://www.moma.org/collection/works/97108",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyMzI1MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ba86aad32e6357b2",
+        "Details": {
+            "Medium": "Felt-tip pen on paper",
+            "Dimensions": "11 1/2 x 8 1/4\" (29.2 x 21 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "2823.2005.3",
+            "Copyright": "\u00a9 2023 Marjetica Potrc",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/28766"
+    },
+    {
+        "Artist": "Paul P.",
+        "Title": "Untitled",
+        "Year": "2003",
+        "ObjectID": "96895",
+        "Work": "https://www.moma.org/collection/works/96895",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE0ODMyOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4794006c56cc1767",
+        "Details": {
+            "Medium": "Pencil and colored pencil on paper",
+            "Dimensions": "8 1/2 x 11\" (21.6 x 27.9 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "2615.2005",
+            "Copyright": "\u00a9 2023 Paul P",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/28747"
+    },
+    {
+        "Artist": "Paul P.",
+        "Title": "Untitled",
+        "Year": "2003",
+        "ObjectID": "96898",
+        "Work": "https://www.moma.org/collection/works/96898",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE0ODMzMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ae191313c3d8e7e4",
+        "Details": {
+            "Medium": "Pencil on paper",
+            "Dimensions": "11 1/4 x 9\" (28.6 x 22.9 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "2616.2005",
+            "Copyright": "\u00a9 2023 Paul P",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/28747"
+    },
+    {
+        "Artist": "Paul P.",
+        "Title": "Untitled",
+        "Year": "2003",
+        "ObjectID": "96899",
+        "Work": "https://www.moma.org/collection/works/96899",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE0ODMzMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f8c2f8575570b12b",
+        "Details": {
+            "Medium": "Pencil on paper",
+            "Dimensions": "11 x 8 1/2\" (27.9 x 21.6 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "2617.2005",
+            "Copyright": "\u00a9 2023 Paul P",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/28747"
+    },
+    {
+        "Artist": "Paul P.",
+        "Title": "Untitled",
+        "Year": "2003",
+        "ObjectID": "96900",
+        "Work": "https://www.moma.org/collection/works/96900",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE0ODMzMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0ddc2d552693b9f9",
+        "Details": {
+            "Medium": "Pencil on paper",
+            "Dimensions": "11 x 8 1/2\" (27.9 x 21.6 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "2618.2005",
+            "Copyright": "\u00a9 2023 Paul P",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/28747"
+    },
+    {
+        "Artist": "Paul P.",
+        "Title": "Untitled",
+        "Year": "2003",
+        "ObjectID": "96901",
+        "Work": "https://www.moma.org/collection/works/96901",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE0ODMzMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=53cd1c02394d28f7",
+        "Details": {
+            "Medium": "Colored pencil on paper",
+            "Dimensions": "11 x 9\" (27.9 x 22.9 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "2619.2005",
+            "Copyright": "\u00a9 2023 Paul P",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/28747"
+    },
+    {
+        "Artist": "Paul P.",
+        "Title": "Untitled",
+        "Year": "2003",
+        "ObjectID": "96902",
+        "Work": "https://www.moma.org/collection/works/96902",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE0ODMzNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=41ae739dc63a982d",
+        "Details": {
+            "Medium": "Pencil on paper",
+            "Dimensions": "11 x 8 1/2\" (27.9 x 21.6 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "2620.2005",
+            "Copyright": "\u00a9 2023 Paul P",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/28747"
+    },
+    {
+        "Artist": "Paul P.",
+        "Title": "Untitled",
+        "Year": "2003",
+        "ObjectID": "96903",
+        "Work": "https://www.moma.org/collection/works/96903",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1MDQ4NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b3d4693e892974a7",
+        "Details": {
+            "Medium": "Colored pencil on paper",
+            "Dimensions": "11 1/4 x 8 1/4\" (28.6 x 21 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "2621.2005",
+            "Copyright": "\u00a9 2023 Paul P",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/28747"
+    },
+    {
+        "Artist": "Paul P.",
+        "Title": "Untitled",
+        "Year": "2003",
+        "ObjectID": "96904",
+        "Work": "https://www.moma.org/collection/works/96904",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE0ODMzNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d522658f5477919f",
+        "Details": {
+            "Medium": "Colored pencil on paper",
+            "Dimensions": "11 x 7\" (27.9 x 17.8 cm)",
+            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift",
+            "Object number": "2622.2005",
+            "Copyright": "\u00a9 2023 Paul P",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/28747"
     }
 ]

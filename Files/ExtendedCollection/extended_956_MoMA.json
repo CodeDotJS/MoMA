@@ -1,871 +1,863 @@
 [
     {
-        "Artist": "Art Sinsabaugh",
-        "Title": "Chicago Landscape #85",
-        "Year": "1964",
-        "ObjectID": "55020",
-        "Work": "https://www.moma.org/collection/works/55020",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMTY2MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b5b0ca38973e5cd8",
+        "Artist": "Stanley Kubrick",
+        "Title": "2001: A Space Odyssey",
+        "Year": "1968",
+        "ObjectID": "301948",
+        "Work": "https://www.moma.org/collection/works/301948",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjczOTUxIl0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNTEyeDUxMlx1MDAzZSJdXQ.jpg?sha=7490d4894a6bb984",
         "Details": {
+            "Producer": "Stanley Kubrick",
+            "Object number": "W6596",
+            "Department": "Film"
+        },
+        "Profile": "https://www.moma.org/artists/26651"
+    },
+    {
+        "Artist": "Rainer Kuchenmeister",
+        "Title": "N (Napoleon)",
+        "Year": "1968",
+        "ObjectID": "74642",
+        "Work": "https://www.moma.org/collection/works/74642",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Portfolio of four lithographs",
+            "Dimensions": "various composition sizes; sheet (each approx.): 23 1/4 \u00d7 16 9/16\" (59.1 \u00d7 42 cm)",
+            "Publisher": "Galerie Stangl, Munich",
+            "Printer": "Klettenberg-Presse, Koln",
+            "Edition": "45",
+            "Credit": "John S. Newberry Fund",
+            "Object number": "886.1969.1-4",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3280"
+    },
+    {
+        "Artist": "Yayoi Kusama, Harry Shunk, Janos Kender",
+        "Title": "The Anatomic Explosion, New York",
+        "Year": "1968",
+        "ObjectID": "176979",
+        "Work": "https://www.moma.org/collection/works/176979",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5NTc5NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7aff06f0dc2624eb",
+        "Details": {
+            "Collaborating artist": "Harry Shunk, J\u00e1nos Kender",
             "Medium": "Gelatin silver print",
-            "Dimensions": "7 5/8 \u00d7 19 3/8\" (19.4 \u00d7 49.3 cm)",
-            "Credit": "Purchase",
-            "Object number": "550.1973",
+            "Dimensions": "9 5/8 \u00d7 7 11/16\" (24.5 \u00d7 19.5 cm)",
+            "Credit": "Gift of the Roy Lichtenstein Foundation in memory of Harry Shunk and J\u00e1nos Kender",
+            "Object number": "1017.2013.1",
+            "Copyright": "\u00a9 2023 Yayoi Kusama. Photograph: Shunk-Kender  \u00a9 J. Paul Getty Trust.  The Getty Research Institute, Los Angeles",
             "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/5450"
+        "Profile": "https://www.moma.org/artists/3315"
     },
     {
-        "Artist": "Aaron Siskind",
-        "Title": "Untitled",
-        "Year": "c. 1954",
-        "ObjectID": "46362",
-        "Work": "https://www.moma.org/collection/works/46362",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4MzQ5NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f897320242577d04",
+        "Artist": "Yayoi Kusama, Harry Shunk, Janos Kender",
+        "Title": "The Anatomic Explosion, New York",
+        "Year": "1968",
+        "ObjectID": "176980",
+        "Work": "https://www.moma.org/collection/works/176980",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5NTgwOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d982e00d25154459",
         "Details": {
+            "Collaborating artist": "Harry Shunk, J\u00e1nos Kender",
             "Medium": "Gelatin silver print",
-            "Dimensions": "14 \u00d7 19 13/16\" (35.6 \u00d7 50.3 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "107.1964",
-            "Copyright": "\u00a9 2023 Estate of Aaron Siskind",
+            "Dimensions": "9 5/8 \u00d7 7 11/16\" (24.5 \u00d7 19.5 cm)",
+            "Credit": "Gift of the Roy Lichtenstein Foundation in memory of Harry Shunk and J\u00e1nos Kender",
+            "Object number": "1017.2013.2",
+            "Copyright": "\u00a9 2023 Yayoi Kusama. Photograph: Shunk-Kender  \u00a9 J. Paul Getty Trust.  The Getty Research Institute, Los Angeles",
             "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/5456"
+        "Profile": "https://www.moma.org/artists/3315"
     },
     {
-        "Artist": "Skunder (Skunder Boghossian)",
-        "Title": "Ju-Ju's Wedding",
-        "Year": "1964",
-        "ObjectID": "34030",
-        "Work": "https://www.moma.org/collection/works/34030",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQyMDgwNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7dcaa532fef04f6e",
+        "Artist": "Yayoi Kusama, Harry Shunk, Janos Kender",
+        "Title": "The Anatomic Explosion, New York",
+        "Year": "1968",
+        "ObjectID": "176981",
+        "Work": "https://www.moma.org/collection/works/176981",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5NTgxOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a2e54b79e8f44b8f",
         "Details": {
-            "Medium": "Tempera and metallic paint on cut-and-torn cardboard",
-            "Dimensions": "21 1/8 x 20\" (53.6 x 50.7 cm)",
-            "Credit": "Blanchette Hooker Rockefeller Fund",
-            "Object number": "109.1966",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5467"
-    },
-    {
-        "Artist": "Kimber Smith",
-        "Title": "Plate (page 37) from 1\u00a2 Life",
-        "Year": "1964",
-        "ObjectID": "32067",
-        "Work": "https://www.moma.org/collection/works/32067",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ5MTIzNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3077772c6f5993e2",
-        "Details": {
-            "Author": "Walasse Ting",
-            "Medium": "Lithograph from an illustrated book with sixty-two lithographs and reproductions",
-            "Dimensions": "composition: 15 3/8 \u00d7 10 15/16\" (39 \u00d7 27.8 cm); page (irreg.): 16 1/8 \u00d7 11 7/16\" (41 \u00d7 29 cm)",
-            "Publisher": "Eberhard W. Kornfeld, Bern, Switzerland",
-            "Printer": "Maurice Beaudet",
-            "Edition": "100 special, 2,000 regular",
-            "Credit": "Gift of the author, Walasse Ting, the editor, Sam Francis, and the publisher, E. W. Kornfeld",
-            "Object number": "1164.1964.13",
-            "Illustrated book": "1\u00a2 Life",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5487"
-    },
-    {
-        "Artist": "Kimber Smith",
-        "Title": "Plate (page 54) from 1\u00a2 Life",
-        "Year": "1964",
-        "ObjectID": "32072",
-        "Work": "https://www.moma.org/collection/works/32072",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ5MTI0MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c08745570e0362a2",
-        "Details": {
-            "Author": "Walasse Ting",
-            "Medium": "Lithograph from an illustrated book with sixty-two lithographs and reproductions",
-            "Dimensions": "composition: 15 1/16 \u00d7 10 3/8\" (38.3 \u00d7 26.4 cm); page (irreg.): 16 1/8 \u00d7 11 7/16\" (41 \u00d7 29 cm)",
-            "Publisher": "Eberhard W. Kornfeld, Bern, Switzerland",
-            "Printer": "Maurice Beaudet",
-            "Edition": "100 special, 2,000 regular",
-            "Credit": "Gift of the author, Walasse Ting, the editor, Sam Francis, and the publisher, E. W. Kornfeld",
-            "Object number": "1164.1964.18",
-            "Illustrated book": "1\u00a2 Life",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5487"
-    },
-    {
-        "Artist": "Kimber Smith",
-        "Title": "Plate (page 59) from 1\u00a2 Life",
-        "Year": "1964",
-        "ObjectID": "32075",
-        "Work": "https://www.moma.org/collection/works/32075",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ5MTI0NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=251878b172136fe0",
-        "Details": {
-            "Author": "Walasse Ting",
-            "Medium": "Lithograph from an illustrated book with sixty-two lithographs and reproductions",
-            "Dimensions": "composition: 13 3/8 \u00d7 10 5/8\" (34 \u00d7 27 cm); page (irreg.): 16 1/8 \u00d7 11 7/16\" (41 \u00d7 29 cm)",
-            "Publisher": "Eberhard W. Kornfeld, Bern, Switzerland",
-            "Printer": "Maurice Beaudet",
-            "Edition": "100 special, 2,000 regular",
-            "Credit": "Gift of the author, Walasse Ting, the editor, Sam Francis, and the publisher, E. W. Kornfeld",
-            "Object number": "1164.1964.20",
-            "Illustrated book": "1\u00a2 Life",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5487"
-    },
-    {
-        "Artist": "Kimber Smith",
-        "Title": "Headpiece (page 66) from 1\u00a2 Life",
-        "Year": "1964",
-        "ObjectID": "32079",
-        "Work": "https://www.moma.org/collection/works/32079",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ5MTI0OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c972399ea7e2f2a8",
-        "Details": {
-            "Author": "Walasse Ting",
-            "Medium": "Lithograph from an illustrated book with sixty-two lithographs and reproductions",
-            "Dimensions": "composition: 9 3/8 \u00d7 11\" (23.8 \u00d7 27.9 cm); page (irreg.): 16 1/8 \u00d7 11 7/16\" (41 \u00d7 29 cm)",
-            "Publisher": "Eberhard W. Kornfeld, Bern, Switzerland",
-            "Printer": "Maurice Beaudet",
-            "Edition": "100 special, 2,000 regular",
-            "Credit": "Gift of the author, Walasse Ting, the editor, Sam Francis, and the publisher, E. W. Kornfeld",
-            "Object number": "1164.1964.24",
-            "Illustrated book": "1\u00a2 Life",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5487"
-    },
-    {
-        "Artist": "Kimber Smith",
-        "Title": "Plate (page 71) from 1\u00a2 Life",
-        "Year": "1964",
-        "ObjectID": "32081",
-        "Work": "https://www.moma.org/collection/works/32081",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ5MTI1MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4336f68723972d1d",
-        "Details": {
-            "Author": "Walasse Ting",
-            "Medium": "Lithograph from an illustrated book with sixty-two lithographs and reproductions",
-            "Dimensions": "composition: 15 1/16 \u00d7 10 9/16\" (38.3 \u00d7 26.8 cm); page (irreg.): 16 1/8 \u00d7 11 7/16\" (41 \u00d7 29 cm)",
-            "Publisher": "Eberhard W. Kornfeld, Bern, Switzerland",
-            "Printer": "Maurice Beaudet",
-            "Edition": "100 special, 2,000 regular",
-            "Credit": "Gift of the author, Walasse Ting, the editor, Sam Francis, and the publisher, E. W. Kornfeld",
-            "Object number": "1164.1964.26",
-            "Illustrated book": "1\u00a2 Life",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5487"
-    },
-    {
-        "Artist": "Kimber Smith",
-        "Title": "Plate (page 28) from 1\u00a2 Life",
-        "Year": "1964",
-        "ObjectID": "32124",
-        "Work": "https://www.moma.org/collection/works/32124",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ5MTI5MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4cb59269a0510b51",
-        "Details": {
-            "Author": "Walasse Ting",
-            "Medium": "Lithograph from an illustrated book with sixty-two lithographs and reproductions",
-            "Dimensions": "composition: 15 9/16 \u00d7 10 5/8\" (39.5 \u00d7 27 cm); page (irreg.): 16 1/8 \u00d7 11 7/16\" (41 \u00d7 29 cm)",
-            "Publisher": "Eberhard W. Kornfeld, Bern, Switzerland",
-            "Printer": "Maurice Beaudet",
-            "Edition": "100 special, 2,000 regular",
-            "Credit": "Gift of the author, Walasse Ting, the editor, Sam Francis, and the publisher, E. W. Kornfeld",
-            "Object number": "1164.1964.9",
-            "Illustrated book": "1\u00a2 Life",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5487"
-    },
-    {
-        "Artist": "Tony Smith",
-        "Title": "Moondog",
-        "Year": "1964 (fabricated 1998)",
-        "ObjectID": "81039",
-        "Work": "https://www.moma.org/collection/works/81039",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQzMjY3OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9acc9c90613e0b1a",
-        "Details": {
-            "Medium": "Painted aluminum",
-            "Dimensions": "17' 1 1/4\" x 15' 8 1/2\" x 13' 7 1/4\" (521.3 x 478.8 x 414.7 cm)",
-            "Credit": "Gift of Agnes Gund, Helen Acheson Bequest (by exchange), and Thomas W. Weisel Fund",
-            "Object number": "154.1998",
-            "Copyright": "\u00a9 2023 Estate of Tony Smith / Artists Rights Society (ARS), New York",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/5494"
-    },
-    {
-        "Artist": "W. Eugene Smith",
-        "Title": "Rahsaan Roland Kirk",
-        "Year": "1964",
-        "ObjectID": "45188",
-        "Work": "https://www.moma.org/collection/works/45188",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1MjIyMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=868b8c3bf7465679",
-        "Details": {
+            "Collaborating artist": "Harry Shunk, J\u00e1nos Kender",
             "Medium": "Gelatin silver print",
-            "Dimensions": "11 1/2 \u00d7 7 1/4\" (29.2 \u00d7 18.4 cm)",
-            "Credit": "Gift of Richard L. Sandor",
-            "Object number": "58.1987",
+            "Dimensions": "8 11/16 \u00d7 7 11/16\" (22 \u00d7 19.5 cm)",
+            "Credit": "Gift of the Roy Lichtenstein Foundation in memory of Harry Shunk and J\u00e1nos Kender",
+            "Object number": "1017.2013.3",
+            "Copyright": "\u00a9 2023 Yayoi Kusama. Photograph: Shunk-Kender  \u00a9 J. Paul Getty Trust.  The Getty Research Institute, Los Angeles",
             "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/5496"
+        "Profile": "https://www.moma.org/artists/3315"
     },
     {
-        "Artist": "Giorgio Soavi",
-        "Title": "Paper Weight",
-        "Year": "1964",
-        "ObjectID": "4537",
-        "Work": "https://www.moma.org/collection/works/4537",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMTk0MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a86a7568e1e58e7e",
+        "Artist": "Yayoi Kusama, Harry Shunk, Janos Kender",
+        "Title": "The Anatomic Explosion, New York",
+        "Year": "1968",
+        "ObjectID": "176982",
+        "Work": "https://www.moma.org/collection/works/176982",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5NTgyOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8c503003d7839665",
         "Details": {
-            "Manufacturer": "Ing. C. Olivetti & C. S.p.A., Ivrea, Italy",
-            "Medium": "Steel",
-            "Dimensions": ".a (sphere): 1 3/8\" (3.5 cm)\r\n.b (cylinder): 2 3/4 x 3\" (7 x 7.6 cm)",
-            "Credit": "Gift of the manufacturer",
-            "Object number": "907.1965.a-b",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/5502"
-    },
-    {
-        "Artist": "K.R.H. Sonderborg",
-        "Title": "Double page in-text plate (pages 116 and 117) from 1\u00a2 Life",
-        "Year": "1964",
-        "ObjectID": "32100",
-        "Work": "https://www.moma.org/collection/works/32100",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ5MTI2OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=96be312c8ef5abe2",
-        "Details": {
-            "Author": "Walasse Ting",
-            "Medium": "Lithograph from an illustrated book with sixty-two lithographs and reproductions",
-            "Dimensions": "composition (irreg.): 15 15/16 \u00d7 20 1/2\" (40.5 \u00d7 52 cm); sheet (irreg.): 16 1/8 \u00d7 22 13/16\" (41 \u00d7 58 cm)",
-            "Publisher": "Eberhard W. Kornfeld, Bern, Switzerland",
-            "Printer": "Maurice Beaudet",
-            "Edition": "100 special, 2,000 regular",
-            "Credit": "Gift of the author, Walasse Ting, the editor, Sam Francis, and the publisher, E. W. Kornfeld",
-            "Object number": "1164.1964.43",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Illustrated book": "1\u00a2 Life",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5522"
-    },
-    {
-        "Artist": "Jesus Rafael Soto",
-        "Title": "Untitled",
-        "Year": "1964",
-        "ObjectID": "81481",
-        "Work": "https://www.moma.org/collection/works/81481",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5NDI3NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=78450ab1196fd3db",
-        "Details": {
-            "Medium": "Multiple of synthetic polymer paint on plexiglass with wood",
-            "Dimensions": "overall: 12 1/2 \u00d7 12 1/2 \u00d7 6 1/8\" (31.7 \u00d7 31.7 \u00d7 15.6 cm)",
-            "Publisher": "\u00c9dition Mat Mot, Cologne",
-            "Edition": "100",
-            "Credit": "Frances R. Keech Bequest",
-            "Object number": "453.1994",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5535"
-    },
-    {
-        "Artist": "Jesus Rafael Soto",
-        "Title": "Neumann Vibration-Writing",
-        "Year": "1964",
-        "ObjectID": "206002",
-        "Work": "https://www.moma.org/collection/works/206002",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ0MzcyMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b8fad7a03b5c17f8",
-        "Details": {
-            "Medium": "Vinyl-acrylic on wood, painted steel, and nylon",
-            "Dimensions": "40 3/16 \u00d7 67 15/16 \u00d7 6 5/16\" (102 \u00d7 172.5 \u00d7 16 cm)",
-            "Credit": "Gift of Patricia Phelps de Cisneros through the Latin American and Caribbean Fund in honor of Carolina Cisneros Phelps",
-            "Object number": "875.2016",
-            "Copyright": "\u00a9 2023 / Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/5535"
-    },
-    {
-        "Artist": "Daniel Spoerri",
-        "Title": "Announcement for 29 Variations on a Meal, Allan Stone Gallery, March 19-22, 1964",
-        "Year": "1964",
-        "ObjectID": "132184",
-        "Work": "https://www.moma.org/collection/works/132184",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3NDc2MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=470f85d663e5fc5f",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "sheet: 6 x 6 7/8\" (15.3 x 17.5 cm)",
-            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
-            "Object number": "3683.2008",
-            "Copyright": "\u00a9 2023 Daniel Spoerri / Artists Rights Society (ARS), New York / ProLitteris, Switzerland",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5569"
-    },
-    {
-        "Artist": "Daniel Spoerri",
-        "Title": "Mirrored Object (Spiegelobjekt)",
-        "Year": "1964",
-        "ObjectID": "156281",
-        "Work": "https://www.moma.org/collection/works/156281",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0NjMwMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=66b832328b907913",
-        "Details": {
-            "Medium": "Multiple of two mirrors with found objects in various media",
-            "Dimensions": "overall: 19 11/16 x 39 3/8 x 13/16\" (50 x 100 x 2 cm)",
-            "Publisher": "\u00c9dition MAT, Cologne, in association with Galerie der Spiegel, Cologne",
-            "Printer": "\u00c9dition MAT, Cologne, in association with Galerie der Spiegel, Cologne",
-            "Edition": "100",
-            "Credit": "Committee on Prints and Illustrated Books Fund",
-            "Object number": "132.2012",
-            "Copyright": "\u00a9 2023 Daniel Spoerri / Artists Rights Society (ARS), New York / ProLitteris, Switzerland",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5569"
-    },
-    {
-        "Artist": "Hans Jurgen Spohn",
-        "Title": "River Boat Shuffle",
-        "Year": "1964",
-        "ObjectID": "8400",
-        "Work": "https://www.moma.org/collection/works/8400",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxOTUxMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7ab0d51fd7a80180",
-        "Details": {
-            "Medium": "Offset lithograph",
-            "Dimensions": "33 x 23 1/4\" (83.8 x 59.0 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "934.1965",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/5570"
-    },
-    {
-        "Artist": "Hans Jurgen Spohn",
-        "Title": "Jugend Veranstaltungen der XIV Internationalen Filmfestspiele Berlin",
-        "Year": "1964",
-        "ObjectID": "8402",
-        "Work": "https://www.moma.org/collection/works/8402",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxOTUxMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9ed003cea87662eb",
-        "Details": {
-            "Medium": "Offset lithograph",
-            "Dimensions": "23 1/4 x 33\" (59.0 x 83.8 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "935.1965",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/5570"
-    },
-    {
-        "Artist": "Theodoros Stamos",
-        "Title": "Red Mound Number 1",
-        "Year": "1963-64",
-        "ObjectID": "80679",
-        "Work": "https://www.moma.org/collection/works/80679",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MTMyNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=894831745c662971",
-        "Details": {
-            "Medium": "Oil on canvas",
-            "Dimensions": "52 x 56\" (132 x 142 cm)",
-            "Credit": "Gift of the artist in memory of Ren\u00e9 d'Harnoncourt",
-            "Object number": "1535.1968",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/5597"
-    },
-    {
-        "Artist": "Julian Stanczak",
-        "Title": "Fluctuation",
-        "Year": "1964",
-        "ObjectID": "60768",
-        "Work": "https://www.moma.org/collection/works/60768",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMzQ2MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=545560d95ffcf340",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "composition: 13 5/16 x 13 1/4\" (33.8 x 33.6cm); sheet: 20 x 18 7/8\" (50.8 x 47.9cm)",
-            "Edition": "35",
-            "Credit": "John B. Turner Fund",
-            "Object number": "42.1965",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5599"
-    },
-    {
-        "Artist": "Frank Stella",
-        "Title": "Untitled",
-        "Year": "(1964)",
-        "ObjectID": "34075",
-        "Work": "https://www.moma.org/collection/works/34075",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3ODc1NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f19f95a286cb877e",
-        "Details": {
-            "Medium": "Felt-tip pen on paper",
-            "Dimensions": "4 x 6\" (10.2 x 15.3 cm)",
-            "Credit": "Gift of Lawrence Rubin",
-            "Object number": "112.1981",
-            "Copyright": "\u00a9 2023 Frank Stella / Artists Rights Society (ARS), New York",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5640"
-    },
-    {
-        "Artist": "Frank Stella",
-        "Title": "Untitled",
-        "Year": "(1964)",
-        "ObjectID": "34087",
-        "Work": "https://www.moma.org/collection/works/34087",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3ODc1OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=165964500b75834d",
-        "Details": {
-            "Medium": "Felt-tip pen on paper",
-            "Dimensions": "4 x 6\" (10.2 x 15.3 cm)",
-            "Credit": "Gift of Lawrence Rubin",
-            "Object number": "113.1981",
-            "Copyright": "\u00a9 2023 Frank Stella / Artists Rights Society (ARS), New York",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5640"
-    },
-    {
-        "Artist": "Frank Stella",
-        "Title": "Untitled",
-        "Year": "1964",
-        "ObjectID": "34098",
-        "Work": "https://www.moma.org/collection/works/34098",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3ODc2MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2ef9519593152abd",
-        "Details": {
-            "Medium": "Felt-tip pen on paper",
-            "Dimensions": "4 x 6\" (10.2 x 15.3 cm)",
-            "Credit": "Gift of Lawrence Rubin",
-            "Object number": "114.1981",
-            "Copyright": "\u00a9 2023 Frank Stella / Artists Rights Society (ARS), New York",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5640"
-    },
-    {
-        "Artist": "Frank Stella",
-        "Title": "Untitled",
-        "Year": "(1964)",
-        "ObjectID": "34164",
-        "Work": "https://www.moma.org/collection/works/34164",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3ODc2OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7044c78507e7a5c4",
-        "Details": {
-            "Medium": "Crayon and colored ballpoint pen on paper",
-            "Dimensions": "5 5/8 x 8 1/2\" (14.6 x 22.2 cm)",
-            "Credit": "Gift of Lawrence Rubin",
-            "Object number": "119.1981.a-b",
-            "Copyright": "\u00a9 2023 Frank Stella / Artists Rights Society (ARS), New York",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5640"
-    },
-    {
-        "Artist": "Frank Stella",
-        "Title": "Untitled",
-        "Year": "(1964)",
-        "ObjectID": "34180",
-        "Work": "https://www.moma.org/collection/works/34180",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3ODc2OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e2bd7bb4b638f472",
-        "Details": {
-            "Medium": "Colored ballpoint pen on paper",
-            "Dimensions": "8 1/2 x 5 5/8\" (22.2 x 14.6 cm)",
-            "Credit": "Gift of Lawrence Rubin",
-            "Object number": "120.1981",
-            "Copyright": "\u00a9 2023 Frank Stella / Artists Rights Society (ARS), New York",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5640"
-    },
-    {
-        "Artist": "Frank Stella",
-        "Title": "Untitled",
-        "Year": "(1964)",
-        "ObjectID": "34201",
-        "Work": "https://www.moma.org/collection/works/34201",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3ODc3MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a2abaa08e2fd377f",
-        "Details": {
-            "Medium": "Felt-tip pen on graph paper",
-            "Dimensions": "11 x 8 1/2\" (27.9 x 21.5 cm)",
-            "Credit": "Gift of Lawrence Rubin",
-            "Object number": "121.1981",
-            "Copyright": "\u00a9 2023 Frank Stella / Artists Rights Society (ARS), New York",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5640"
-    },
-    {
-        "Artist": "Frank Stella",
-        "Title": "Untitled",
-        "Year": "(1964)",
-        "ObjectID": "34218",
-        "Work": "https://www.moma.org/collection/works/34218",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3ODc3MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=304eb66d162c4f99",
-        "Details": {
-            "Medium": "Felt-tip pen on graph paper",
-            "Dimensions": "11 x 8 1/2\" (27.9 x 21.5 cm)",
-            "Credit": "Gift of Lawrence Rubin",
-            "Object number": "122.1981",
-            "Copyright": "\u00a9 2023 Frank Stella / Artists Rights Society (ARS), New York",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5640"
-    },
-    {
-        "Artist": "Frank Stella",
-        "Title": "Untitled",
-        "Year": "1964",
-        "ObjectID": "38530",
-        "Work": "https://www.moma.org/collection/works/38530",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5OTcwMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=99f377d90a95198e",
-        "Details": {
-            "Medium": "Pencil and crayon on graph paper",
-            "Dimensions": "17 x 21 7/8\" (43.2 x 55.8 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "1162.1969",
-            "Copyright": "\u00a9 2023 Frank Stella / Artists Rights Society (ARS), New York",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5640"
-    },
-    {
-        "Artist": "Frank Stella",
-        "Title": "Untitled (Rabat) from X + X (Ten Works by Ten Painters)",
-        "Year": "1964",
-        "ObjectID": "62793",
-        "Work": "https://www.moma.org/collection/works/62793",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwNjE4NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1ed7c006daeb488d",
-        "Details": {
-            "Medium": "One from a portfolio of ten screenprints",
-            "Dimensions": "composition (irreg.): 17 15/16 x 17 15/16\" (45.6 x 45.6cm); sheet: 24 x 20\" (61 x 50.8cm)",
-            "Publisher": "Wadsworth Atheneum, Hartford, CT",
-            "Printer": "Ives-Sillman, Inc., New Haven, CT, Sirocco Screenprinters",
-            "Edition": "500",
-            "Credit": "Gift of Harry C. Oppenheimer (by exchange)",
-            "Object number": "139.1965.2",
-            "Copyright": "\u00a9 2023 Frank Stella / Artists Rights Society (ARS), New York",
-            "Portfolio": "X + X (Ten Works by Ten Painters)",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5640"
-    },
-    {
-        "Artist": "Frank Stella",
-        "Title": "Gray Scrambled Double Square",
-        "Year": "1964",
-        "ObjectID": "79875",
-        "Work": "https://www.moma.org/collection/works/79875",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4MjcwNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4516f80258c9d4e7",
-        "Details": {
-            "Medium": "Alkyd on canvas",
-            "Dimensions": "69\" x 11'  6 1/4\" (175.2 x 351.2 cm)",
-            "Credit": "Gift of Celeste and Armand P. Bartos",
-            "Object number": "508.1984",
-            "Copyright": "\u00a9 2023 Frank Stella / Artists Rights Society (ARS), New York",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/5640"
-    },
-    {
-        "Artist": "Frank Stella",
-        "Title": "Fez (2)",
-        "Year": "1964",
-        "ObjectID": "80178",
-        "Work": "https://www.moma.org/collection/works/80178",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyODA0NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=805527959248e10d",
-        "Details": {
-            "Medium": "Fluorescent alkyd on canvas",
-            "Dimensions": "6' 7 1/8\" x 6' 7 1/8\" (195.6 x 195.6 cm)",
-            "Credit": "Gift of Lita Hornick",
-            "Object number": "647.1997",
-            "Copyright": "\u00a9 2023 Frank Stella / Artists Rights Society (ARS), New York",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/5640"
-    },
-    {
-        "Artist": "Larry Stewart",
-        "Title": "Untitled",
-        "Year": "1964",
-        "ObjectID": "201425",
-        "Work": "https://www.moma.org/collection/works/201425",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0MjU3NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d57d9d8cd660a5a6",
-        "Details": {
+            "Collaborating artist": "Harry Shunk, J\u00e1nos Kender",
             "Medium": "Gelatin silver print",
-            "Dimensions": "11 \u00d7 14\" (27.9 \u00d7 35.6 cm)",
-            "Credit": "Purchase",
-            "Object number": "1.2022.13",
-            "Copyright": "\u00a9 2023 Larry Stewart",
-            "Portfolio": "Kamoinge Workshop Portfolio 1",
+            "Dimensions": "9 5/8 \u00d7 7 11/16\" (24.5 \u00d7 19.5 cm)",
+            "Credit": "Gift of the Roy Lichtenstein Foundation in memory of Harry Shunk and J\u00e1nos Kender",
+            "Object number": "1017.2013.4",
+            "Copyright": "\u00a9 2023 Yayoi Kusama. Photograph: Shunk-Kender  \u00a9 J. Paul Getty Trust.  The Getty Research Institute, Los Angeles",
             "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/49370"
+        "Profile": "https://www.moma.org/artists/3315"
     },
     {
-        "Artist": "Otto Stupakoff",
-        "Title": "Untitled",
-        "Year": "1964",
-        "ObjectID": "217767",
-        "Work": "https://www.moma.org/collection/works/217767",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5MTg0OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fb5fbfb54ad6767c",
+        "Artist": "Yayoi Kusama, Harry Shunk, Janos Kender",
+        "Title": "The Anatomic Explosion, New York",
+        "Year": "1968",
+        "ObjectID": "176983",
+        "Work": "https://www.moma.org/collection/works/176983",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5NTgzMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=53e16becd1ce9fd6",
         "Details": {
-            "Medium": "43 gelatin silver prints with applied color",
-            "Dimensions": "Each 4 1/4 \u00d7 6 1/4\" (10.8 \u00d7 15.9 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "495.2017.1-43",
-            "Copyright": "\u00a9 2023 Estate of Otto Stupakoff",
+            "Collaborating artist": "Harry Shunk, J\u00e1nos Kender",
+            "Medium": "Gelatin silver print",
+            "Dimensions": "9 5/8 \u00d7 7 11/16\" (24.5 \u00d7 19.5 cm)",
+            "Credit": "Gift of the Roy Lichtenstein Foundation in memory of Harry Shunk and J\u00e1nos Kender",
+            "Object number": "1017.2013.5",
+            "Copyright": "\u00a9 2023 Yayoi Kusama. Photograph: Shunk-Kender  \u00a9 J. Paul Getty Trust.  The Getty Research Institute, Los Angeles",
             "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/67628"
+        "Profile": "https://www.moma.org/artists/3315"
     },
     {
-        "Artist": "Harry Suchland",
-        "Title": "Christbaumkugeln sind Zerbrechlich",
-        "Year": "1964",
-        "ObjectID": "5926",
-        "Work": "https://www.moma.org/collection/works/5926",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxOTIyOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=20f0b34837ccc081",
+        "Artist": "Yayoi Kusama, Harry Shunk, Janos Kender",
+        "Title": "The Anatomic Explosion, New York",
+        "Year": "1968",
+        "ObjectID": "176984",
+        "Work": "https://www.moma.org/collection/works/176984",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5NTgzMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b645b1352cd595c2",
         "Details": {
-            "Medium": "Photolithograph",
-            "Dimensions": "23 1/4 x 32 3/4\" (59.0 x 83.2 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "264.1965",
-            "Department": "Architecture and Design"
+            "Collaborating artist": "Harry Shunk, J\u00e1nos Kender",
+            "Medium": "Gelatin silver print",
+            "Dimensions": "9 5/8 \u00d7 7 11/16\" (24.5 \u00d7 19.5 cm)",
+            "Credit": "Gift of the Roy Lichtenstein Foundation in memory of Harry Shunk and J\u00e1nos Kender",
+            "Object number": "1017.2013.6",
+            "Copyright": "\u00a9 2023 Yayoi Kusama. Photograph: Shunk-Kender  \u00a9 J. Paul Getty Trust.  The Getty Research Institute, Los Angeles",
+            "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/5714"
+        "Profile": "https://www.moma.org/artists/3315"
     },
     {
-        "Artist": "Miroslav Sutej",
-        "Title": "Black and White",
-        "Year": "1964",
-        "ObjectID": "66345",
-        "Work": "https://www.moma.org/collection/works/66345",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMzMwNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4fbcb5fa8d8e1a5a",
+        "Artist": "Yayoi Kusama, Harry Shunk, Janos Kender",
+        "Title": "The Anatomic Explosion, New York",
+        "Year": "1968",
+        "ObjectID": "176985",
+        "Work": "https://www.moma.org/collection/works/176985",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5NTgzMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=bbb2cd6545596ad2",
         "Details": {
-            "Medium": "Screenprint",
-            "Dimensions": "composition: 16 11/16 x 8 9/16\" (42.4 x 21.8cm); sheet: 27 5/16 x 19 5/8\" (69.4 x 49.8cm)",
-            "Credit": "Eve Clendenin Fund",
-            "Object number": "296.1964",
-            "Department": "Drawings and Prints"
+            "Collaborating artist": "Harry Shunk, J\u00e1nos Kender",
+            "Medium": "Gelatin silver print",
+            "Dimensions": "8 1/4 \u00d7 7 11/16\" (20.9 \u00d7 19.5 cm)",
+            "Credit": "Gift of the Roy Lichtenstein Foundation in memory of Harry Shunk and J\u00e1nos Kender",
+            "Object number": "1017.2013.7",
+            "Copyright": "\u00a9 2023 Yayoi Kusama. Photograph: Shunk-Kender  \u00a9 J. Paul Getty Trust.  The Getty Research Institute, Los Angeles",
+            "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/5737"
+        "Profile": "https://www.moma.org/artists/3315"
     },
     {
-        "Artist": "Ladislav Sutnar",
-        "Title": "Break-through to the Hudson River: A Plan for Yonkers to Peekskill",
-        "Year": "1964",
-        "ObjectID": "129070",
-        "Work": "https://www.moma.org/collection/works/129070",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3MjgxOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6cc76da7b12a82aa",
+        "Artist": "Yayoi Kusama, Harry Shunk, Janos Kender",
+        "Title": "The Anatomic Explosion, New York",
+        "Year": "1968",
+        "ObjectID": "176986",
+        "Work": "https://www.moma.org/collection/works/176986",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5NTgzMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ee927a6c32d8f1b0",
         "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "9 x 12\" (22.9 x 30.5 cm)",
-            "Credit": "Gift of Radoslav Sutnar",
-            "Object number": "399.2009",
-            "Department": "Architecture and Design"
+            "Collaborating artist": "Harry Shunk, J\u00e1nos Kender",
+            "Medium": "Gelatin silver print",
+            "Dimensions": "6 11/16 \u00d7 9 5/8\" (17 \u00d7 24.5 cm)",
+            "Credit": "Gift of the Roy Lichtenstein Foundation in memory of Harry Shunk and J\u00e1nos Kender",
+            "Object number": "1017.2013.8",
+            "Copyright": "\u00a9 2023 Yayoi Kusama. Photograph: Shunk-Kender  \u00a9 J. Paul Getty Trust.  The Getty Research Institute, Los Angeles",
+            "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/5740"
+        "Profile": "https://www.moma.org/artists/3315"
     },
     {
-        "Artist": "Alina Szapocznikow",
-        "Title": "Untitled",
-        "Year": "1964",
-        "ObjectID": "113209",
-        "Work": "https://www.moma.org/collection/works/113209",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1NDcyNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a522f7866ea18594",
+        "Artist": "Yayoi Kusama, Harry Shunk, Janos Kender",
+        "Title": "The Anatomic Explosion, New York",
+        "Year": "1968",
+        "ObjectID": "176987",
+        "Work": "https://www.moma.org/collection/works/176987",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5NTgzNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=796fbe1220801e36",
         "Details": {
-            "Medium": "Ink and felt-tip pen on paper",
-            "Dimensions": "12 5/16 x 9 1/4\" (31.3 x 23.5 cm)",
-            "Credit": "Purchased with funds provided by the Rendl Endowment for Slavic Art",
-            "Object number": "1416.2007",
-            "Copyright": "\u00a9 2023 / Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Department": "Drawings and Prints"
+            "Collaborating artist": "Harry Shunk, J\u00e1nos Kender",
+            "Medium": "Gelatin silver print",
+            "Dimensions": "6 11/16 \u00d7 9 5/8\" (17 \u00d7 24.5 cm)",
+            "Credit": "Gift of the Roy Lichtenstein Foundation in memory of Harry Shunk and J\u00e1nos Kender",
+            "Object number": "1017.2013.9",
+            "Copyright": "\u00a9 2023 Yayoi Kusama. Photograph: Shunk-Kender  \u00a9 J. Paul Getty Trust.  The Getty Research Institute, Los Angeles",
+            "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/34124"
+        "Profile": "https://www.moma.org/artists/3315"
     },
     {
-        "Artist": "Alina Szapocznikow",
-        "Title": "Untitled",
-        "Year": "1964",
-        "ObjectID": "114770",
-        "Work": "https://www.moma.org/collection/works/114770",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNDYyOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=162a7ffadf5d73b5",
+        "Artist": "Yayoi Kusama, Harry Shunk, Janos Kender",
+        "Title": "The Anatomic Explosion, New York",
+        "Year": "1968",
+        "ObjectID": "176988",
+        "Work": "https://www.moma.org/collection/works/176988",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5NTc5OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6ba9b6e67b90b55a",
         "Details": {
-            "Medium": "Ink and blue ink on paper",
-            "Dimensions": "12 3/4 x 9 1/4\" (32.4 x 23.5 cm)",
-            "Credit": "Gift of The Judith Rothschild Foundation",
-            "Object number": "1411.2007",
-            "Copyright": "\u00a9 2023 / Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Department": "Drawings and Prints"
+            "Collaborating artist": "Harry Shunk, J\u00e1nos Kender",
+            "Medium": "Gelatin silver print",
+            "Dimensions": "6 11/16 \u00d7 9 5/8\" (17 \u00d7 24.5 cm)",
+            "Credit": "Gift of the Roy Lichtenstein Foundation in memory of Harry Shunk and J\u00e1nos Kender",
+            "Object number": "1017.2013.10",
+            "Copyright": "\u00a9 2023 Yayoi Kusama. Photograph: Shunk-Kender  \u00a9 J. Paul Getty Trust.  The Getty Research Institute, Los Angeles",
+            "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/34124"
+        "Profile": "https://www.moma.org/artists/3315"
     },
     {
-        "Artist": "Tadasky (Tadasuke Kuwayama)",
-        "Title": "B-171",
-        "Year": "1964",
-        "ObjectID": "78396",
-        "Work": "https://www.moma.org/collection/works/78396",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwNzk5NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=13ddd98a07271e17",
+        "Artist": "Yayoi Kusama, Harry Shunk, Janos Kender",
+        "Title": "The Anatomic Explosion, New York",
+        "Year": "1968",
+        "ObjectID": "176989",
+        "Work": "https://www.moma.org/collection/works/176989",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5NTc5OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5f2c50413549c3f1",
         "Details": {
-            "Medium": "Synthetic polymer paint on canvas",
-            "Dimensions": "15 1/8 x 15 1/8\" (38.4 x 38.4 cm)",
-            "Credit": "Given anonymously",
-            "Object number": "8.1965",
-            "Department": "Painting and Sculpture"
+            "Collaborating artist": "Harry Shunk, J\u00e1nos Kender",
+            "Medium": "Gelatin silver print",
+            "Dimensions": "6 11/16 \u00d7 9 5/8\" (17 \u00d7 24.5 cm)",
+            "Credit": "Gift of the Roy Lichtenstein Foundation in memory of Harry Shunk and J\u00e1nos Kender",
+            "Object number": "1017.2013.11",
+            "Copyright": "\u00a9 2023 Yayoi Kusama. Photograph: Shunk-Kender  \u00a9 J. Paul Getty Trust.  The Getty Research Institute, Los Angeles",
+            "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/5776"
+        "Profile": "https://www.moma.org/artists/3315"
     },
     {
-        "Artist": "Peter Takal",
-        "Title": "Birds from the portfolio Of Nature, Of Man",
-        "Year": "1964",
-        "ObjectID": "76514",
-        "Work": "https://www.moma.org/collection/works/76514",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5MTc3MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=67908df9728ab815",
+        "Artist": "Yayoi Kusama, Harry Shunk, Janos Kender",
+        "Title": "The Anatomic Explosion, New York",
+        "Year": "1968",
+        "ObjectID": "176990",
+        "Work": "https://www.moma.org/collection/works/176990",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5NTgwMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=071495ec1f8e14f4",
         "Details": {
-            "Medium": "One from a portfolio of twenty lithographs",
-            "Dimensions": "composition (irreg.): 17 3/8 \u00d7 22 1/4\" (44.2 \u00d7 56.5 cm); sheet: 18 1/8 \u00d7 22 1/4\" (46.1 \u00d7 56.5 cm)",
-            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
-            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
-            "Edition": "20, plus 9 Tamarind Impressions",
-            "Credit": "Gift of Kleiner, Bell & Co.",
-            "Object number": "1360.1967",
-            "Associated work": "Tamarind Lithography Workshop Archive",
-            "Department": "Drawings and Prints"
+            "Collaborating artist": "Harry Shunk, J\u00e1nos Kender",
+            "Medium": "Gelatin silver print",
+            "Dimensions": "9 5/8 \u00d7 7 11/16\" (24.5 \u00d7 19.5 cm)",
+            "Credit": "Gift of the Roy Lichtenstein Foundation in memory of Harry Shunk and J\u00e1nos Kender",
+            "Object number": "1017.2013.12",
+            "Copyright": "\u00a9 2023 Yayoi Kusama. Photograph: Shunk-Kender  \u00a9 J. Paul Getty Trust.  The Getty Research Institute, Los Angeles",
+            "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/5784"
+        "Profile": "https://www.moma.org/artists/3315"
     },
     {
-        "Artist": "Rufino Tamayo",
-        "Title": "Two Sons (Deux fils)",
-        "Year": "1964",
-        "ObjectID": "76814",
-        "Work": "https://www.moma.org/collection/works/76814",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5MTc3OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=547f91f2dd30b817",
+        "Artist": "Yayoi Kusama, Harry Shunk, Janos Kender",
+        "Title": "The Anatomic Explosion, New York",
+        "Year": "1968",
+        "ObjectID": "176991",
+        "Work": "https://www.moma.org/collection/works/176991",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5NTgwMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=85225cb3014cc299",
         "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "composition and sheet: 24 \u00d7 18 3/16\" (60.9 \u00d7 46.2 cm)",
-            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
-            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
-            "Edition": "20",
-            "Credit": "Gift of Kleiner, Bell & Co.",
-            "Object number": "1441.1967",
-            "Associated work": "Tamarind Lithography Workshop Archive",
-            "Department": "Drawings and Prints"
+            "Collaborating artist": "Harry Shunk, J\u00e1nos Kender",
+            "Medium": "Gelatin silver print",
+            "Dimensions": "9 5/8 \u00d7 7 11/16\" (24.5 \u00d7 19.5 cm)",
+            "Credit": "Gift of the Roy Lichtenstein Foundation in memory of Harry Shunk and J\u00e1nos Kender",
+            "Object number": "1017.2013.13",
+            "Copyright": "\u00a9 2023 Yayoi Kusama. Photograph: Shunk-Kender  \u00a9 J. Paul Getty Trust.  The Getty Research Institute, Los Angeles",
+            "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/5795"
+        "Profile": "https://www.moma.org/artists/3315"
     },
     {
-        "Artist": "Rufino Tamayo",
-        "Title": "Man with Hat",
-        "Year": "1964",
-        "ObjectID": "76817",
-        "Work": "https://www.moma.org/collection/works/76817",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5MTc3OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c656fda760cfc7e9",
+        "Artist": "Yayoi Kusama, Harry Shunk, Janos Kender",
+        "Title": "The Anatomic Explosion, New York",
+        "Year": "1968",
+        "ObjectID": "176992",
+        "Work": "https://www.moma.org/collection/works/176992",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5NTgwMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b5876d75889231c8",
         "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "composition and sheet: 21 15/16 \u00d7 18 1/16\" (55.7 \u00d7 45.8 cm)",
-            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
-            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
-            "Edition": "20",
-            "Credit": "Gift of Kleiner, Bell & Co.",
-            "Object number": "1442.1967",
-            "Associated work": "Tamarind Lithography Workshop Archive",
-            "Department": "Drawings and Prints"
+            "Collaborating artist": "Harry Shunk, J\u00e1nos Kender",
+            "Medium": "Gelatin silver print",
+            "Dimensions": "9 5/8 \u00d7 7 11/16\" (24.5 \u00d7 19.5 cm)",
+            "Credit": "Gift of the Roy Lichtenstein Foundation in memory of Harry Shunk and J\u00e1nos Kender",
+            "Object number": "1017.2013.14",
+            "Copyright": "\u00a9 2023 Yayoi Kusama. Photograph: Shunk-Kender  \u00a9 J. Paul Getty Trust.  The Getty Research Institute, Los Angeles",
+            "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/5795"
+        "Profile": "https://www.moma.org/artists/3315"
     },
     {
-        "Artist": "Rufino Tamayo",
-        "Title": "Ghost",
-        "Year": "1964",
-        "ObjectID": "76820",
-        "Work": "https://www.moma.org/collection/works/76820",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5MTc4MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cf4e66f9bdfee68e",
+        "Artist": "Yayoi Kusama, Harry Shunk, Janos Kender",
+        "Title": "The Anatomic Explosion, New York",
+        "Year": "1968",
+        "ObjectID": "176993",
+        "Work": "https://www.moma.org/collection/works/176993",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5NTgwMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=bca9a5f3ff3e125e",
         "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "composition and sheet: 22 1/16 \u00d7 18 1/4\" (56 \u00d7 46.3 cm)",
-            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
-            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
-            "Edition": "20",
-            "Credit": "Gift of Kleiner, Bell & Co.",
-            "Object number": "1443.1967",
-            "Associated work": "Tamarind Lithography Workshop Archive",
-            "Department": "Drawings and Prints"
+            "Collaborating artist": "Harry Shunk, J\u00e1nos Kender",
+            "Medium": "Gelatin silver print",
+            "Dimensions": "9 5/8 \u00d7 7 11/16\" (24.5 \u00d7 19.5 cm)",
+            "Credit": "Gift of the Roy Lichtenstein Foundation in memory of Harry Shunk and J\u00e1nos Kender",
+            "Object number": "1017.2013.15",
+            "Copyright": "\u00a9 2023 Yayoi Kusama. Photograph: Shunk-Kender  \u00a9 J. Paul Getty Trust.  The Getty Research Institute, Los Angeles",
+            "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/5795"
+        "Profile": "https://www.moma.org/artists/3315"
     },
     {
-        "Artist": "Rufino Tamayo",
-        "Title": "Woman",
-        "Year": "1964",
-        "ObjectID": "76823",
-        "Work": "https://www.moma.org/collection/works/76823",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5MTc4MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b36cad64a959b3a6",
+        "Artist": "Yayoi Kusama, Harry Shunk, Janos Kender",
+        "Title": "The Anatomic Explosion, New York",
+        "Year": "1968",
+        "ObjectID": "176994",
+        "Work": "https://www.moma.org/collection/works/176994",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5NTgwNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e7c5bb3e696b9ac7",
         "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "composition and sheet: 22 1/16 \u00d7 18 1/4\" (56 \u00d7 46.4 cm)",
-            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
-            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
-            "Edition": "20",
-            "Credit": "Gift of Kleiner, Bell & Co.",
-            "Object number": "1444.1967",
-            "Associated work": "Tamarind Lithography Workshop Archive",
-            "Department": "Drawings and Prints"
+            "Collaborating artist": "Harry Shunk, J\u00e1nos Kender",
+            "Medium": "Gelatin silver print",
+            "Dimensions": "9 5/8 \u00d7 7 11/16\" (24.5 \u00d7 19.5 cm)",
+            "Credit": "Gift of the Roy Lichtenstein Foundation in memory of Harry Shunk and J\u00e1nos Kender",
+            "Object number": "1017.2013.16",
+            "Copyright": "\u00a9 2023 Yayoi Kusama. Photograph: Shunk-Kender  \u00a9 J. Paul Getty Trust.  The Getty Research Institute, Los Angeles",
+            "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/5795"
+        "Profile": "https://www.moma.org/artists/3315"
     },
     {
-        "Artist": "Rufino Tamayo",
-        "Title": "Woman",
-        "Year": "1964",
-        "ObjectID": "76826",
-        "Work": "https://www.moma.org/collection/works/76826",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5MTc4MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=bd0bd1cbb706ad7e",
+        "Artist": "Yayoi Kusama, Harry Shunk, Janos Kender",
+        "Title": "The Anatomic Explosion, New York",
+        "Year": "1968",
+        "ObjectID": "176995",
+        "Work": "https://www.moma.org/collection/works/176995",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5NTgwNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8e310341ebefbf31",
         "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "composition and sheet: 21 15/16 \u00d7 18 1/8\" (55.8 \u00d7 46 cm)",
-            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
-            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
-            "Edition": "20",
-            "Credit": "Gift of Kleiner, Bell & Co.",
-            "Object number": "1445.1967",
-            "Associated work": "Tamarind Lithography Workshop Archive",
-            "Department": "Drawings and Prints"
+            "Collaborating artist": "Harry Shunk, J\u00e1nos Kender",
+            "Medium": "Gelatin silver print",
+            "Dimensions": "7 11/16 \u00d7 8 7/8\" (19.5 \u00d7 22.6 cm)",
+            "Credit": "Gift of the Roy Lichtenstein Foundation in memory of Harry Shunk and J\u00e1nos Kender",
+            "Object number": "1017.2013.17",
+            "Copyright": "\u00a9 2023 Yayoi Kusama. Photograph: Shunk-Kender  \u00a9 J. Paul Getty Trust.  The Getty Research Institute, Los Angeles",
+            "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/5795"
+        "Profile": "https://www.moma.org/artists/3315"
     },
     {
-        "Artist": "Rufino Tamayo",
-        "Title": "Ghost",
-        "Year": "1964",
-        "ObjectID": "76829",
-        "Work": "https://www.moma.org/collection/works/76829",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5MTc4MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9931cc0c34226c34",
+        "Artist": "Yayoi Kusama, Harry Shunk, Janos Kender",
+        "Title": "The Anatomic Explosion, New York",
+        "Year": "1968",
+        "ObjectID": "176996",
+        "Work": "https://www.moma.org/collection/works/176996",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5NTgwNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=94b34697e12d5293",
         "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "composition and sheet: 22 \u00d7 18 1/16\" (55.9 \u00d7 45.8 cm)",
-            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
-            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
-            "Edition": "20",
-            "Credit": "Gift of Kleiner, Bell & Co.",
-            "Object number": "1446.1967",
-            "Associated work": "Tamarind Lithography Workshop Archive",
-            "Department": "Drawings and Prints"
+            "Collaborating artist": "Harry Shunk, J\u00e1nos Kender",
+            "Medium": "Gelatin silver print",
+            "Dimensions": "9 5/8 \u00d7 7 11/16\" (24.5 \u00d7 19.5 cm)",
+            "Credit": "Gift of the Roy Lichtenstein Foundation in memory of Harry Shunk and J\u00e1nos Kender",
+            "Object number": "1017.2013.18",
+            "Copyright": "\u00a9 2023 Yayoi Kusama. Photograph: Shunk-Kender  \u00a9 J. Paul Getty Trust.  The Getty Research Institute, Los Angeles",
+            "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/5795"
+        "Profile": "https://www.moma.org/artists/3315"
     },
     {
-        "Artist": "Rufino Tamayo",
-        "Title": "Profile of a Man",
-        "Year": "1964",
-        "ObjectID": "76832",
-        "Work": "https://www.moma.org/collection/works/76832",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5MTc4NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e513ac315d5f30b7",
+        "Artist": "Yayoi Kusama, Harry Shunk, Janos Kender",
+        "Title": "The Anatomic Explosion, New York",
+        "Year": "1968",
+        "ObjectID": "176997",
+        "Work": "https://www.moma.org/collection/works/176997",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5NTgwNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a2aa0f09473ac5c4",
         "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "composition and sheet: 22 1/8 \u00d7 18 1/16\" (56.2 \u00d7 45.9 cm)",
-            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
-            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
-            "Edition": "20",
-            "Credit": "Gift of Kleiner, Bell & Co.",
-            "Object number": "1447.1967",
-            "Associated work": "Tamarind Lithography Workshop Archive",
-            "Department": "Drawings and Prints"
+            "Collaborating artist": "Harry Shunk, J\u00e1nos Kender",
+            "Medium": "Gelatin silver print",
+            "Dimensions": "9 5/8 \u00d7 7 11/16\" (24.5 \u00d7 19.5 cm)",
+            "Credit": "Gift of the Roy Lichtenstein Foundation in memory of Harry Shunk and J\u00e1nos Kender",
+            "Object number": "1017.2013.19",
+            "Copyright": "\u00a9 2023 Yayoi Kusama. Photograph: Shunk-Kender  \u00a9 J. Paul Getty Trust.  The Getty Research Institute, Los Angeles",
+            "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/5795"
+        "Profile": "https://www.moma.org/artists/3315"
+    },
+    {
+        "Artist": "Yayoi Kusama, Harry Shunk, Janos Kender",
+        "Title": "The Anatomic Explosion, New York",
+        "Year": "1968",
+        "ObjectID": "176998",
+        "Work": "https://www.moma.org/collection/works/176998",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5NTgwOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=676ba3fe831a86aa",
+        "Details": {
+            "Collaborating artist": "Harry Shunk, J\u00e1nos Kender",
+            "Medium": "Gelatin silver print",
+            "Dimensions": "7 11/16 \u00d7 9 5/8\" (19.5 \u00d7 24.4 cm)",
+            "Credit": "Gift of the Roy Lichtenstein Foundation in memory of Harry Shunk and J\u00e1nos Kender",
+            "Object number": "1017.2013.20",
+            "Copyright": "\u00a9 2023 Yayoi Kusama. Photograph: Shunk-Kender  \u00a9 J. Paul Getty Trust.  The Getty Research Institute, Los Angeles",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/3315"
+    },
+    {
+        "Artist": "Yayoi Kusama, Harry Shunk, Janos Kender",
+        "Title": "The Anatomic Explosion, New York",
+        "Year": "1968",
+        "ObjectID": "176999",
+        "Work": "https://www.moma.org/collection/works/176999",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5NTgxMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3ae4e612f4233866",
+        "Details": {
+            "Collaborating artist": "Harry Shunk, J\u00e1nos Kender",
+            "Medium": "Gelatin silver print",
+            "Dimensions": "6 7/8 \u00d7 9 3/4\" (17.4 \u00d7 24.7 cm)",
+            "Credit": "Gift of the Roy Lichtenstein Foundation in memory of Harry Shunk and J\u00e1nos Kender",
+            "Object number": "1017.2013.21",
+            "Copyright": "\u00a9 2023 Yayoi Kusama. Photograph: Shunk-Kender  \u00a9 J. Paul Getty Trust.  The Getty Research Institute, Los Angeles",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/3315"
+    },
+    {
+        "Artist": "Yayoi Kusama, Harry Shunk, Janos Kender",
+        "Title": "The Anatomic Explosion, New York",
+        "Year": "1968",
+        "ObjectID": "177000",
+        "Work": "https://www.moma.org/collection/works/177000",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5NTgxMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a64eafe9ef9bf850",
+        "Details": {
+            "Collaborating artist": "Harry Shunk, J\u00e1nos Kender",
+            "Medium": "Gelatin silver print",
+            "Dimensions": "9 5/8 \u00d7 7 11/16\" (24.5 \u00d7 19.5 cm)",
+            "Credit": "Gift of the Roy Lichtenstein Foundation in memory of Harry Shunk and J\u00e1nos Kender",
+            "Object number": "1017.2013.22",
+            "Copyright": "\u00a9 2023 Yayoi Kusama. Photograph: Shunk-Kender  \u00a9 J. Paul Getty Trust.  The Getty Research Institute, Los Angeles",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/3315"
+    },
+    {
+        "Artist": "Yayoi Kusama, Harry Shunk, Janos Kender",
+        "Title": "The Anatomic Explosion, New York",
+        "Year": "1968",
+        "ObjectID": "177001",
+        "Work": "https://www.moma.org/collection/works/177001",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5NTgxMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c24f762714522233",
+        "Details": {
+            "Collaborating artist": "Harry Shunk, J\u00e1nos Kender",
+            "Medium": "Gelatin silver print",
+            "Dimensions": "6 7/8 \u00d7 9 3/4\" (17.4 \u00d7 24.7 cm)",
+            "Credit": "Gift of the Roy Lichtenstein Foundation in memory of Harry Shunk and J\u00e1nos Kender",
+            "Object number": "1017.2013.23",
+            "Copyright": "\u00a9 2023 Yayoi Kusama. Photograph: Shunk-Kender  \u00a9 J. Paul Getty Trust.  The Getty Research Institute, Los Angeles",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/3315"
+    },
+    {
+        "Artist": "Yayoi Kusama, Harry Shunk, Janos Kender",
+        "Title": "The Anatomic Explosion, New York",
+        "Year": "1968",
+        "ObjectID": "177002",
+        "Work": "https://www.moma.org/collection/works/177002",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5NTgxMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7bfa1af7b16e43f4",
+        "Details": {
+            "Collaborating artist": "Harry Shunk, J\u00e1nos Kender",
+            "Medium": "Gelatin silver print",
+            "Dimensions": "9 3/4 \u00d7 6 5/8\" (24.7 \u00d7 16.9 cm)",
+            "Credit": "Gift of the Roy Lichtenstein Foundation in memory of Harry Shunk and J\u00e1nos Kender",
+            "Object number": "1017.2013.24",
+            "Copyright": "\u00a9 2023 Yayoi Kusama. Photograph: Shunk-Kender  \u00a9 J. Paul Getty Trust.  The Getty Research Institute, Los Angeles",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/3315"
+    },
+    {
+        "Artist": "Yayoi Kusama, Harry Shunk, Janos Kender",
+        "Title": "The Anatomic Explosion, New York",
+        "Year": "1968",
+        "ObjectID": "177003",
+        "Work": "https://www.moma.org/collection/works/177003",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5NTgxNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4851c7a3c6ebea3e",
+        "Details": {
+            "Collaborating artist": "Harry Shunk, J\u00e1nos Kender",
+            "Medium": "Gelatin silver print",
+            "Dimensions": "9 5/8 \u00d7 7 11/16\" (24.5 \u00d7 19.5 cm)",
+            "Credit": "Gift of the Roy Lichtenstein Foundation in memory of Harry Shunk and J\u00e1nos Kender",
+            "Object number": "1017.2013.25",
+            "Copyright": "\u00a9 2023 Yayoi Kusama. Photograph: Shunk-Kender  \u00a9 J. Paul Getty Trust.  The Getty Research Institute, Los Angeles",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/3315"
+    },
+    {
+        "Artist": "Yayoi Kusama, Harry Shunk, Janos Kender",
+        "Title": "The Anatomic Explosion, New York",
+        "Year": "1968",
+        "ObjectID": "177004",
+        "Work": "https://www.moma.org/collection/works/177004",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5NTgxNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5f7a677fd6cf3f73",
+        "Details": {
+            "Collaborating artist": "Harry Shunk, J\u00e1nos Kender",
+            "Medium": "Gelatin silver print",
+            "Dimensions": "9 5/8 \u00d7 7 11/16\" (24.5 \u00d7 19.5 cm)",
+            "Credit": "Gift of the Roy Lichtenstein Foundation in memory of Harry Shunk and J\u00e1nos Kender",
+            "Object number": "1017.2013.26",
+            "Copyright": "\u00a9 2023 Yayoi Kusama. Photograph: Shunk-Kender  \u00a9 J. Paul Getty Trust.  The Getty Research Institute, Los Angeles",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/3315"
+    },
+    {
+        "Artist": "Yayoi Kusama, Harry Shunk, Janos Kender",
+        "Title": "The Anatomic Explosion, New York",
+        "Year": "1968",
+        "ObjectID": "177005",
+        "Work": "https://www.moma.org/collection/works/177005",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5NTgxNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=882ced1f9824ba1d",
+        "Details": {
+            "Collaborating artist": "Harry Shunk, J\u00e1nos Kender",
+            "Medium": "Gelatin silver print",
+            "Dimensions": "9 3/4 \u00d7 6 5/8\" (24.7 \u00d7 16.9 cm)",
+            "Credit": "Gift of the Roy Lichtenstein Foundation in memory of Harry Shunk and J\u00e1nos Kender",
+            "Object number": "1017.2013.27",
+            "Copyright": "\u00a9 2023 Yayoi Kusama. Photograph: Shunk-Kender  \u00a9 J. Paul Getty Trust.  The Getty Research Institute, Los Angeles",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/3315"
+    },
+    {
+        "Artist": "Yayoi Kusama, Harry Shunk, Janos Kender",
+        "Title": "The Anatomic Explosion, New York",
+        "Year": "1968",
+        "ObjectID": "177006",
+        "Work": "https://www.moma.org/collection/works/177006",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5NTgxNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=db3aa302c55a94ef",
+        "Details": {
+            "Collaborating artist": "Harry Shunk, J\u00e1nos Kender",
+            "Medium": "Gelatin silver print",
+            "Dimensions": "6 7/8 \u00d7 9 3/4\" (17.5 \u00d7 24.7 cm)",
+            "Credit": "Gift of the Roy Lichtenstein Foundation in memory of Harry Shunk and J\u00e1nos Kender",
+            "Object number": "1017.2013.28",
+            "Copyright": "\u00a9 2023 Yayoi Kusama. Photograph: Shunk-Kender  \u00a9 J. Paul Getty Trust.  The Getty Research Institute, Los Angeles",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/3315"
+    },
+    {
+        "Artist": "Yayoi Kusama, Harry Shunk, Janos Kender",
+        "Title": "The Anatomic Explosion, New York",
+        "Year": "1968",
+        "ObjectID": "177007",
+        "Work": "https://www.moma.org/collection/works/177007",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5NTgxOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=09f13b2410b055b3",
+        "Details": {
+            "Collaborating artist": "Harry Shunk, J\u00e1nos Kender",
+            "Medium": "Gelatin silver print",
+            "Dimensions": "9 5/8 \u00d7 7 11/16\" (24.5 \u00d7 19.5 cm)",
+            "Credit": "Gift of the Roy Lichtenstein Foundation in memory of Harry Shunk and J\u00e1nos Kender",
+            "Object number": "1017.2013.29",
+            "Copyright": "\u00a9 2023 Yayoi Kusama. Photograph: Shunk-Kender  \u00a9 J. Paul Getty Trust.  The Getty Research Institute, Los Angeles",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/3315"
+    },
+    {
+        "Artist": "Yayoi Kusama, Harry Shunk, Janos Kender",
+        "Title": "The Anatomic Explosion, New York",
+        "Year": "1968",
+        "ObjectID": "177008",
+        "Work": "https://www.moma.org/collection/works/177008",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5NTgyMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=56c6ccd0fc52942b",
+        "Details": {
+            "Collaborating artist": "Harry Shunk, J\u00e1nos Kender",
+            "Medium": "Gelatin silver print",
+            "Dimensions": "9 11/16 \u00d7 6 3/4\" (24.6 \u00d7 17.2 cm)",
+            "Credit": "Gift of the Roy Lichtenstein Foundation in memory of Harry Shunk and J\u00e1nos Kender",
+            "Object number": "1017.2013.30",
+            "Copyright": "\u00a9 2023 Yayoi Kusama. Photograph: Shunk-Kender  \u00a9 J. Paul Getty Trust.  The Getty Research Institute, Los Angeles",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/3315"
+    },
+    {
+        "Artist": "Yayoi Kusama, Harry Shunk, Janos Kender",
+        "Title": "The Anatomic Explosion, New York",
+        "Year": "1968",
+        "ObjectID": "177009",
+        "Work": "https://www.moma.org/collection/works/177009",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5NTgyMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1d29f2c6f35e9741",
+        "Details": {
+            "Collaborating artist": "Harry Shunk, J\u00e1nos Kender",
+            "Medium": "Gelatin silver print",
+            "Dimensions": "9 5/8 \u00d7 7 11/16\" (24.5 \u00d7 19.5 cm)",
+            "Credit": "Gift of the Roy Lichtenstein Foundation in memory of Harry Shunk and J\u00e1nos Kender",
+            "Object number": "1017.2013.31",
+            "Copyright": "\u00a9 2023 Yayoi Kusama. Photograph: Shunk-Kender  \u00a9 J. Paul Getty Trust.  The Getty Research Institute, Los Angeles",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/3315"
+    },
+    {
+        "Artist": "Yayoi Kusama, Harry Shunk, Janos Kender",
+        "Title": "The Anatomic Explosion, New York",
+        "Year": "1968",
+        "ObjectID": "177010",
+        "Work": "https://www.moma.org/collection/works/177010",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5NTgyMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=28a985d897615363",
+        "Details": {
+            "Collaborating artist": "Harry Shunk, J\u00e1nos Kender",
+            "Medium": "Gelatin silver print",
+            "Dimensions": "7 5/8 \u00d7 9 3/4\" (19.3 \u00d7 24.7 cm)",
+            "Credit": "Gift of the Roy Lichtenstein Foundation in memory of Harry Shunk and J\u00e1nos Kender",
+            "Object number": "1017.2013.32",
+            "Copyright": "\u00a9 2023 Yayoi Kusama. Photograph: Shunk-Kender  \u00a9 J. Paul Getty Trust.  The Getty Research Institute, Los Angeles",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/3315"
+    },
+    {
+        "Artist": "Yayoi Kusama, Harry Shunk, Janos Kender",
+        "Title": "The Anatomic Explosion, New York",
+        "Year": "1968",
+        "ObjectID": "177011",
+        "Work": "https://www.moma.org/collection/works/177011",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5NTgyMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ae674b1aca07e285",
+        "Details": {
+            "Collaborating artist": "Harry Shunk, J\u00e1nos Kender",
+            "Medium": "Gelatin silver print",
+            "Dimensions": "7 11/16 \u00d7 9 5/8\" (19.5 \u00d7 24.5 cm)",
+            "Credit": "Gift of the Roy Lichtenstein Foundation in memory of Harry Shunk and J\u00e1nos Kender",
+            "Object number": "1017.2013.33",
+            "Copyright": "\u00a9 2023 Yayoi Kusama. Photograph: Shunk-Kender  \u00a9 J. Paul Getty Trust.  The Getty Research Institute, Los Angeles",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/3315"
+    },
+    {
+        "Artist": "Yayoi Kusama, Harry Shunk, Janos Kender",
+        "Title": "The Anatomic Explosion, New York",
+        "Year": "1968",
+        "ObjectID": "177012",
+        "Work": "https://www.moma.org/collection/works/177012",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5NTgyNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9fe4d954507aa1f3",
+        "Details": {
+            "Collaborating artist": "Harry Shunk, J\u00e1nos Kender",
+            "Medium": "Gelatin silver print",
+            "Dimensions": "7 11/16 \u00d7 9 5/8\" (19.5 \u00d7 24.4 cm)",
+            "Credit": "Gift of the Roy Lichtenstein Foundation in memory of Harry Shunk and J\u00e1nos Kender",
+            "Object number": "1017.2013.34",
+            "Copyright": "\u00a9 2023 Yayoi Kusama. Photograph: Shunk-Kender  \u00a9 J. Paul Getty Trust.  The Getty Research Institute, Los Angeles",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/3315"
+    },
+    {
+        "Artist": "Yayoi Kusama, Harry Shunk, Janos Kender",
+        "Title": "The Anatomic Explosion, New York",
+        "Year": "1968",
+        "ObjectID": "177013",
+        "Work": "https://www.moma.org/collection/works/177013",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5NTgyNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d85bc4ff8ef47fca",
+        "Details": {
+            "Collaborating artist": "Harry Shunk, J\u00e1nos Kender",
+            "Medium": "Gelatin silver print",
+            "Dimensions": "9 5/8 \u00d7 6 7/8\" (24.5 \u00d7 17.5 cm)",
+            "Credit": "Gift of the Roy Lichtenstein Foundation in memory of Harry Shunk and J\u00e1nos Kender",
+            "Object number": "1017.2013.35",
+            "Copyright": "\u00a9 2023 Yayoi Kusama. Photograph: Shunk-Kender  \u00a9 J. Paul Getty Trust.  The Getty Research Institute, Los Angeles",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/3315"
+    },
+    {
+        "Artist": "Yayoi Kusama, Harry Shunk, Janos Kender",
+        "Title": "The Anatomic Explosion, New York",
+        "Year": "1968",
+        "ObjectID": "177014",
+        "Work": "https://www.moma.org/collection/works/177014",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5NTgyNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4b2949b50684d606",
+        "Details": {
+            "Collaborating artist": "Harry Shunk, J\u00e1nos Kender",
+            "Medium": "Gelatin silver print",
+            "Dimensions": "6 1/2 \u00d7 9 11/16\" (16.5 \u00d7 24.6 cm)",
+            "Credit": "Gift of the Roy Lichtenstein Foundation in memory of Harry Shunk and J\u00e1nos Kender",
+            "Object number": "1017.2013.36",
+            "Copyright": "\u00a9 2023 Yayoi Kusama. Photograph: Shunk-Kender  \u00a9 J. Paul Getty Trust.  The Getty Research Institute, Los Angeles",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/3315"
+    },
+    {
+        "Artist": "Yayoi Kusama, Harry Shunk, Janos Kender",
+        "Title": "The Anatomic Explosion, New York",
+        "Year": "1968",
+        "ObjectID": "177015",
+        "Work": "https://www.moma.org/collection/works/177015",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5NTgyNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d2ffa8feb7b89bb8",
+        "Details": {
+            "Collaborating artist": "Harry Shunk, J\u00e1nos Kender",
+            "Medium": "Gelatin silver print",
+            "Dimensions": "6 1/2 \u00d7 9 11/16\" (16.5 \u00d7 24.6 cm)",
+            "Credit": "Gift of the Roy Lichtenstein Foundation in memory of Harry Shunk and J\u00e1nos Kender",
+            "Object number": "1017.2013.37",
+            "Copyright": "\u00a9 2023 Yayoi Kusama. Photograph: Shunk-Kender  \u00a9 J. Paul Getty Trust.  The Getty Research Institute, Los Angeles",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/3315"
+    },
+    {
+        "Artist": "Yayoi Kusama, Harry Shunk, Janos Kender",
+        "Title": "The Anatomic Explosion, New York",
+        "Year": "1968",
+        "ObjectID": "177016",
+        "Work": "https://www.moma.org/collection/works/177016",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5NTgyOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a11a67b6a736c0bf",
+        "Details": {
+            "Collaborating artist": "Harry Shunk, J\u00e1nos Kender",
+            "Medium": "Gelatin silver print",
+            "Dimensions": "9 5/8 \u00d7 7 11/16\" (24.5 \u00d7 19.5 cm)",
+            "Credit": "Gift of the Roy Lichtenstein Foundation in memory of Harry Shunk and J\u00e1nos Kender",
+            "Object number": "1017.2013.38",
+            "Copyright": "\u00a9 2023 Yayoi Kusama. Photograph: Shunk-Kender  \u00a9 J. Paul Getty Trust.  The Getty Research Institute, Los Angeles",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/3315"
+    },
+    {
+        "Artist": "Yayoi Kusama, Harry Shunk, Janos Kender",
+        "Title": "Mirror Performance, New York",
+        "Year": "1968",
+        "ObjectID": "177017",
+        "Work": "https://www.moma.org/collection/works/177017",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5NTc0MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a76fc653bdec075f",
+        "Details": {
+            "Collaborating artist": "Harry Shunk, J\u00e1nos Kender",
+            "Medium": "Gelatin silver print",
+            "Dimensions": "6 5/8 \u00d7 9 11/16\" (16.9 \u00d7 24.6 cm)",
+            "Credit": "Gift of the Roy Lichtenstein Foundation in memory of Harry Shunk and J\u00e1nos Kender",
+            "Object number": "1016.2013.1",
+            "Copyright": "\u00a9 2023 Yayoi Kusama. Photograph: Shunk-Kender  \u00a9 J. Paul Getty Trust.  The Getty Research Institute, Los Angeles",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/3315"
+    },
+    {
+        "Artist": "Yayoi Kusama, Harry Shunk, Janos Kender",
+        "Title": "Mirror Performance, New York",
+        "Year": "1968",
+        "ObjectID": "177018",
+        "Work": "https://www.moma.org/collection/works/177018",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5NTc1NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3db7f56b1558246a",
+        "Details": {
+            "Collaborating artist": "Harry Shunk, J\u00e1nos Kender",
+            "Medium": "Gelatin silver print",
+            "Dimensions": "6 5/8 \u00d7 9 11/16\" (16.9 \u00d7 24.6 cm)",
+            "Credit": "Gift of the Roy Lichtenstein Foundation in memory of Harry Shunk and J\u00e1nos Kender",
+            "Object number": "1016.2013.2",
+            "Copyright": "\u00a9 2023 Yayoi Kusama. Photograph: Shunk-Kender  \u00a9 J. Paul Getty Trust.  The Getty Research Institute, Los Angeles",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/3315"
+    },
+    {
+        "Artist": "Yayoi Kusama, Harry Shunk, Janos Kender",
+        "Title": "Mirror Performance, New York",
+        "Year": "1968",
+        "ObjectID": "177019",
+        "Work": "https://www.moma.org/collection/works/177019",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5NTc2NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=bfc49d3371e9949b",
+        "Details": {
+            "Collaborating artist": "Harry Shunk, J\u00e1nos Kender",
+            "Medium": "Gelatin silver print",
+            "Dimensions": "6 5/8 \u00d7 9 11/16\" (16.9 \u00d7 24.6 cm)",
+            "Credit": "Gift of the Roy Lichtenstein Foundation in memory of Harry Shunk and J\u00e1nos Kender",
+            "Object number": "1016.2013.3",
+            "Copyright": "\u00a9 2023 Yayoi Kusama. Photograph: Shunk-Kender  \u00a9 J. Paul Getty Trust.  The Getty Research Institute, Los Angeles",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/3315"
+    },
+    {
+        "Artist": "Yayoi Kusama, Harry Shunk, Janos Kender",
+        "Title": "Mirror Performance, New York",
+        "Year": "1968",
+        "ObjectID": "177020",
+        "Work": "https://www.moma.org/collection/works/177020",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5NTc3NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5a55ddbde29e6c5d",
+        "Details": {
+            "Collaborating artist": "Harry Shunk, J\u00e1nos Kender",
+            "Medium": "Gelatin silver print",
+            "Dimensions": "9 11/16 \u00d7 6 5/8\" (24.6 \u00d7 16.9 cm)",
+            "Credit": "Gift of the Roy Lichtenstein Foundation in memory of Harry Shunk and J\u00e1nos Kender",
+            "Object number": "1016.2013.4",
+            "Copyright": "\u00a9 2023 Yayoi Kusama. Photograph: Shunk-Kender  \u00a9 J. Paul Getty Trust.  The Getty Research Institute, Los Angeles",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/3315"
+    },
+    {
+        "Artist": "Yayoi Kusama, Harry Shunk, Janos Kender",
+        "Title": "Mirror Performance, New York",
+        "Year": "1968",
+        "ObjectID": "177021",
+        "Work": "https://www.moma.org/collection/works/177021",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5NTc4NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fb875dd84d970b33",
+        "Details": {
+            "Collaborating artist": "Harry Shunk, J\u00e1nos Kender",
+            "Medium": "Gelatin silver print",
+            "Dimensions": "9 11/16 \u00d7 6 5/8\" (24.6 \u00d7 16.9 cm)",
+            "Credit": "Gift of the Roy Lichtenstein Foundation in memory of Harry Shunk and J\u00e1nos Kender",
+            "Object number": "1016.2013.5",
+            "Copyright": "\u00a9 2023 Yayoi Kusama. Photograph: Shunk-Kender  \u00a9 J. Paul Getty Trust.  The Getty Research Institute, Los Angeles",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/3315"
+    },
+    {
+        "Artist": "Yayoi Kusama, Harry Shunk, Janos Kender",
+        "Title": "Mirror Performance, New York",
+        "Year": "1968",
+        "ObjectID": "177022",
+        "Work": "https://www.moma.org/collection/works/177022",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5NTc5MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f1c8d05b0075226a",
+        "Details": {
+            "Collaborating artist": "Harry Shunk, J\u00e1nos Kender",
+            "Medium": "Gelatin silver print",
+            "Dimensions": "7 3/4 \u00d7 9 3/4\" (19.7 \u00d7 24.7 cm)",
+            "Credit": "Gift of the Roy Lichtenstein Foundation in memory of Harry Shunk and J\u00e1nos Kender",
+            "Object number": "1016.2013.6",
+            "Copyright": "\u00a9 2023 Yayoi Kusama. Photograph: Shunk-Kender  \u00a9 J. Paul Getty Trust.  The Getty Research Institute, Los Angeles",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/3315"
+    },
+    {
+        "Artist": "Yayoi Kusama, Harry Shunk, Janos Kender",
+        "Title": "Mirror Performance, New York",
+        "Year": "1968",
+        "ObjectID": "177023",
+        "Work": "https://www.moma.org/collection/works/177023",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5NTc5NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c953b756cdd05eae",
+        "Details": {
+            "Collaborating artist": "Harry Shunk, J\u00e1nos Kender",
+            "Medium": "Gelatin silver print",
+            "Dimensions": "9 11/16 \u00d7 6 11/16\" (24.6 \u00d7 17 cm)",
+            "Credit": "Gift of the Roy Lichtenstein Foundation in memory of Harry Shunk and J\u00e1nos Kender",
+            "Object number": "1016.2013.7",
+            "Copyright": "\u00a9 2023 Yayoi Kusama. Photograph: Shunk-Kender  \u00a9 J. Paul Getty Trust.  The Getty Research Institute, Los Angeles",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/3315"
+    },
+    {
+        "Artist": "Yayoi Kusama, Harry Shunk, Janos Kender",
+        "Title": "Mirror Performance, New York",
+        "Year": "1968",
+        "ObjectID": "177024",
+        "Work": "https://www.moma.org/collection/works/177024",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5NTc5NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a95963a3c33ac4a3",
+        "Details": {
+            "Collaborating artist": "Harry Shunk, J\u00e1nos Kender",
+            "Medium": "Gelatin silver print",
+            "Dimensions": "9 11/16 \u00d7 6 1/8\" (24.6 \u00d7 15.6 cm)",
+            "Credit": "Gift of the Roy Lichtenstein Foundation in memory of Harry Shunk and J\u00e1nos Kender",
+            "Object number": "1016.2013.8",
+            "Copyright": "\u00a9 2023 Yayoi Kusama. Photograph: Shunk-Kender  \u00a9 J. Paul Getty Trust.  The Getty Research Institute, Los Angeles",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/3315"
     }
 ]

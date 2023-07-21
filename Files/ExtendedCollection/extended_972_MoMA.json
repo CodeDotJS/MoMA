@@ -1,811 +1,890 @@
 [
     {
-        "Artist": "James Kelly",
-        "Title": "Untitled",
-        "Year": "1963",
-        "ObjectID": "76139",
-        "Work": "https://www.moma.org/collection/works/76139",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5MTc3MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c9adf5e6b0485bb1",
+        "Artist": "Frank Stella",
+        "Title": "Quathlamba II from the V Series",
+        "Year": "1968",
+        "ObjectID": "74802",
+        "Work": "https://www.moma.org/collection/works/74802",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4MDMyNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0b081d01b829baf0",
         "Details": {
             "Medium": "Lithograph",
-            "Dimensions": "composition: 12 3/16 \u00d7 15 3/8\" (31 \u00d7 39.1 cm); sheet: 17 \u00d7 19 5/8\" (43.2 \u00d7 49.8 cm)",
-            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
-            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
-            "Edition": "20, plus 9 Tamarind Impressions",
-            "Credit": "Gift of Kleiner, Bell & Co.",
-            "Object number": "1236.1967",
-            "Associated work": "Tamarind Lithography Workshop Archive",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/3049"
-    },
-    {
-        "Artist": "James Kelly",
-        "Title": "Untitled",
-        "Year": "1963",
-        "ObjectID": "76141",
-        "Work": "https://www.moma.org/collection/works/76141",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5NDM1OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=44a7bf4286a79b05",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "composition (irreg.): 19 3/16 \u00d7 25 7/8\" (48.7 \u00d7 65.8 cm); sheet: 22 5/16 \u00d7 30 3/8\" (56.7 \u00d7 77.1 cm)",
-            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
-            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
-            "Edition": "20, plus 9 Tamarind Impressions",
-            "Credit": "Gift of Kleiner, Bell & Co.",
-            "Object number": "1237.1967",
-            "Associated work": "Tamarind Lithography Workshop Archive",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/3049"
-    },
-    {
-        "Artist": "James Kelly",
-        "Title": "Untitled",
-        "Year": "1963",
-        "ObjectID": "76143",
-        "Work": "https://www.moma.org/collection/works/76143",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5NDM1OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=911f847f7af9f1a2",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "composition (irreg.): 20 1/16 x 28 1/8\" (51 x 71.5cm); sheet: 22 3/8 x 29 13/16\" (56.8 x 75.8cm)",
-            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
-            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
-            "Edition": "20, plus 9 Tamarind Impressions",
-            "Credit": "Gift of Kleiner, Bell & Co.",
-            "Object number": "1238.1967",
-            "Associated work": "Tamarind Lithography Workshop Archive",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/3049"
-    },
-    {
-        "Artist": "Isamu Kenmochi",
-        "Title": "Stool (model S-302)",
-        "Year": "1963",
-        "ObjectID": "3905",
-        "Work": "https://www.moma.org/collection/works/3905",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMTQ1MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c43ae0ab2dd59ca9",
-        "Details": {
-            "Manufacturer": "Yamakawa Rattan Co., Ltd., Japan",
-            "Medium": "Rattan and fabric upholstered cushion",
-            "Dimensions": "14 1/4 x 15 1/4\" (36.2 x 38.7 cm)",
-            "Credit": "Gift of the manufacturer",
-            "Object number": "464.1964",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/3059"
-    },
-    {
-        "Artist": "Andre Kertesz",
-        "Title": "Lovers in the Tuileries",
-        "Year": "1963",
-        "ObjectID": "50751",
-        "Work": "https://www.moma.org/collection/works/50751",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4ODI2OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d5a9fc5f5b113ac5",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "10 3/16 \u00d7 13 5/8\" (25.9 \u00d7 34.6 cm)",
-            "Credit": "Courtesy of the photographer",
-            "Object number": "323.1965",
-            "Copyright": "\u00a9 2023 Estate of Andr\u00e9 Kert\u00e9sz",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/3072"
-    },
-    {
-        "Artist": "Andre Kertesz",
-        "Title": "Rue Mazarine",
-        "Year": "1963",
-        "ObjectID": "57415",
-        "Work": "https://www.moma.org/collection/works/57415",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNzMwNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f80a667c334fc391",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "15 13/16 \u00d7 19 11/16\" (40.2 \u00d7 50 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "980.1969",
-            "Copyright": "\u00a9 2023 Estate of Andr\u00e9 Kert\u00e9sz",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/3072"
-    },
-    {
-        "Artist": "Andre Kertesz",
-        "Title": "Banks of the Seine",
-        "Year": "1963",
-        "ObjectID": "57433",
-        "Work": "https://www.moma.org/collection/works/57433",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MDgzNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=89ef1039ce26d243",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "10 5/8 \u00d7 13 11/16\" (27.1 \u00d7 34.7 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "989.1969",
-            "Copyright": "\u00a9 2023 Estate of Andr\u00e9 Kert\u00e9sz",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/3072"
-    },
-    {
-        "Artist": "Gunther Kieser",
-        "Title": "Jazz Band Ball",
-        "Year": "1963",
-        "ObjectID": "8049",
-        "Work": "https://www.moma.org/collection/works/8049",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxODU1MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2441b057185cb07b",
-        "Details": {
-            "Medium": "Offset lithograph",
-            "Dimensions": "33 1/8 x 23 1/4\" (34.1 x 59.0 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "754.1963",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/3090"
-    },
-    {
-        "Artist": "R. B. Kitaj",
-        "Title": "Untitled: cover for \"Times Literary Supplement\"",
-        "Year": "(1963)",
-        "ObjectID": "36789",
-        "Work": "https://www.moma.org/collection/works/36789",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMTI5NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b18f837e3dcbf490",
-        "Details": {
-            "Medium": "Cut and pasted paper, charcoal, and pencil on paper",
-            "Dimensions": "15 x 10 3/4\" (38 x 27.4 cm)",
+            "Dimensions": "composition (irreg.): 11 1/8 x 25 3/4\" (28.2 x 65.4 cm); sheet: 16 3/16 x 28 7/8\" (41.1 x 73.3 cm)",
+            "Printer": "James Webb, Dan Gualdoni, George Page",
             "Credit": "John B. Turner Fund",
-            "Object number": "414.1969",
-            "Copyright": "\u00a9 2023 R. B. Kitaj",
+            "Object number": "920.1969.6",
+            "Copyright": "\u00a9 2023 Frank Stella / Artists Rights Society (ARS), New York",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/3121"
+        "Profile": "https://www.moma.org/artists/5640"
     },
     {
-        "Artist": "Poul Kj\u00e6rholm",
-        "Title": "Nesting Tables",
-        "Year": "1963",
-        "ObjectID": "3226",
-        "Work": "https://www.moma.org/collection/works/3226",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyOTIxMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8618e9306c6ef42b",
+        "Artist": "Frank Stella",
+        "Title": "Empress of India I from the V Series",
+        "Year": "1968",
+        "ObjectID": "74803",
+        "Work": "https://www.moma.org/collection/works/74803",
+        "Thumbnail": null,
         "Details": {
-            "Manufacturer": "Georg Jensen S\u00f8lvsmedie, Copenhagen, Denmark",
-            "Medium": "Plastic and steel",
-            "Dimensions": ".1 (overall): 11 3/8 x 11 1/8 x 11 1/8\" (28.9 x 28.3 x 28.3 cm)\r\n.1a (frame): 11 1/8 x 11 1/8 x 11 1/8\" (28.3 x 28.3 x 28.3 cm)\r\n.1b (top): 1/4 x 11 1/8 x 11 1/8\" (0.6 x 28.3 x 28.3 cm)\r\n.2 (overall): 10 3/4 x 10 1/2 x 10 1/2\" (27.3 x 26.7 x 26.7 cm)\r\n.2a (frame): 10 1/2 x 10 1/2 x 10 1/2\" (26.7 x 26.7 x 26.7 cm)\r\n.2b (top): 1/4 x 10 1/2 x 10 1/2\" (0.6 x 26.7 x 26.7 cm)\r\n.3 (overall): 10 1/4 x 10 x 10\" (26 x 25.4 x 25.4 cm)\r\n.3a (frame): 10 x 10 x 10\" (25.4 x 25.4 x 25.4 cm)\r\n.3b (top): 1/4 x 10 x 10\" (0.6 x 25.4 x 25.4 cm)",
-            "Credit": "Estate of Patricia Bonfield",
-            "Object number": "297.1999.1-3",
+            "Medium": "Lithograph",
+            "Dimensions": "composition (irreg.): 11 1/8 x 32 5/16\" (28.3 x 82.1 cm); sheet: 16 1/8 x 35 1/4\" (41 x 89.6 cm)",
+            "Printer": "Charles Ritt",
+            "Credit": "John B. Turner Fund",
+            "Object number": "920.1969.7",
+            "Copyright": "\u00a9 2023 Frank Stella / Artists Rights Society (ARS), New York",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5640"
+    },
+    {
+        "Artist": "Frank Stella",
+        "Title": "Empress of India II from the V Series",
+        "Year": "1968",
+        "ObjectID": "74804",
+        "Work": "https://www.moma.org/collection/works/74804",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition (irreg.): 11 1/8 x 32 5/16\" (28.3 x 82 cm); sheet: 16 1/4 x 35 7/16\" (41.2 x 90 cm)",
+            "Printer": "James Webb, Charles Ritt, Bruce Lowney",
+            "Credit": "John B. Turner Fund",
+            "Object number": "920.1969.8",
+            "Copyright": "\u00a9 2023 Frank Stella / Artists Rights Society (ARS), New York",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5640"
+    },
+    {
+        "Artist": "Friedrich St. Florian",
+        "Title": "New York Birdcage-Imaginary Architecture, project, New York City, New York, Perspective from above and plan",
+        "Year": "1968",
+        "ObjectID": "865",
+        "Work": "https://www.moma.org/collection/works/865",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMDEyNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=392740f7defad652",
+        "Details": {
+            "Medium": "Colored pencil on architectural photo reproduction",
+            "Dimensions": "33 1/2 x 35 1/8\" (85.1 x 89.2 cm)",
+            "Credit": "Philip Johnson Fund",
+            "Object number": "1252.1974",
+            "Copyright": "\u00a9 2023 Friedrich St. Florian",
             "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/3123"
+        "Profile": "https://www.moma.org/artists/5580"
     },
     {
-        "Artist": "Milan Knizak",
-        "Title": "Destroyed Music",
-        "Year": "1963, fabricated 1980",
-        "ObjectID": "131455",
-        "Work": "https://www.moma.org/collection/works/131455",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5MTA3OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=38ed8efa3a591a42",
+        "Artist": "Aleksandar Stjepanovic, Bozidar Jankovic, Branislav Karadzic",
+        "Title": "Block 22, New Belgrade, Serbia (Apartment layout iterations)",
+        "Year": "1968",
+        "ObjectID": "222270",
+        "Work": "https://www.moma.org/collection/works/222270",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ4MTMyNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5baf172c7bd255f0",
         "Details": {
-            "Medium": "Altered record player",
-            "Dimensions": "overall (closed): 16 1/8 x 13 x 6 11/16\" (41 x 33 x 17 cm); overall (open): 16 1/8 x 16 1/8 x 17\" (41 x 41 x 43.2 cm)",
-            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
-            "Object number": "3161.2008",
-            "Copyright": "\u00a9 2023 Milan Kn\u00ed\u017e\u00e1k",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/29427"
-    },
-    {
-        "Artist": "Milan Knizak",
-        "Title": "Environments on the Street from Performance Files",
-        "Year": "1962-63",
-        "ObjectID": "178914",
-        "Work": "https://www.moma.org/collection/works/178914",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5NDE2NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a5f1cfef7d87d940",
-        "Details": {
-            "Medium": "Envelope, photocopy, and 21 gelatin silver prints",
-            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
-            "Object number": "3160.2008.1a-w",
-            "Copyright": "\u00a9 2023 Milan Kn\u00ed\u017e\u00e1k / Artists Rights Society (ARS), New York / VG Bild-Kunst, Germany",
-            "Associated work": "Performance Files",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/29427"
-    },
-    {
-        "Artist": "Milan Knizak",
-        "Title": "Body & a Sculpture from Performance Files",
-        "Year": "1963",
-        "ObjectID": "178916",
-        "Work": "https://www.moma.org/collection/works/178916",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5NDcwNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=041bbb5e9d6aaac2",
-        "Details": {
-            "Medium": "Envelope, photocopy, and 3 gelatin silver prints",
-            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
-            "Object number": "3160.2008.3a-e",
-            "Copyright": "\u00a9 2023 Milan Kn\u00ed\u017e\u00e1k / Artists Rights Society (ARS), New York / VG Bild-Kunst, Germany",
-            "Associated work": "Performance Files",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/29427"
-    },
-    {
-        "Artist": "Milan Knizak",
-        "Title": "Environment in a Back-Yard from Performance Files",
-        "Year": "1963",
-        "ObjectID": "178917",
-        "Work": "https://www.moma.org/collection/works/178917",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5NDc2MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=26c32508de368642",
-        "Details": {
-            "Medium": "Envelope, photocopy, and 6 gelatin silver prints",
-            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
-            "Object number": "3160.2008.4a-h",
-            "Copyright": "\u00a9 2023 Milan Kn\u00ed\u017e\u00e1k / Artists Rights Society (ARS), New York / VG Bild-Kunst, Germany",
-            "Associated work": "Performance Files",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/29427"
-    },
-    {
-        "Artist": "Milan Knizak",
-        "Title": "Destroyed Music",
-        "Year": "1963, fabricated 1975",
-        "ObjectID": "179878",
-        "Work": "https://www.moma.org/collection/works/179878",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5MTA4MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=59254054131509d2",
-        "Details": {
-            "Medium": "Altered vinyl record",
-            "Dimensions": "Other (Record): 9 13/16\" (25 cm)",
-            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
-            "Object number": "3162.2008",
-            "Copyright": "\u00a9 2023 Milan Kn\u00ed\u017e\u00e1k",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/29427"
-    },
-    {
-        "Artist": "Milan Knizak",
-        "Title": "Destroyed Music",
-        "Year": "1963, fabricated 1975",
-        "ObjectID": "191647",
-        "Work": "https://www.moma.org/collection/works/191647",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMyMzY4OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1a319aae90c57942",
-        "Details": {
-            "Medium": "Altered vinyl record",
-            "Dimensions": "11 7/8 x 11 7/8\" (30.1 x 30.1 cm)",
-            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
-            "Object number": "3405.2008",
-            "Copyright": "\u00a9 2023 Milan Kn\u00ed\u017e\u00e1k",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/29427"
-    },
-    {
-        "Artist": "Milan Knizak",
-        "Title": "Destroyed Music",
-        "Year": "1963, fabricated 1975",
-        "ObjectID": "191648",
-        "Work": "https://www.moma.org/collection/works/191648",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMyMzc0MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=23df85960edc0e93",
-        "Details": {
-            "Medium": "Altered vinyl record",
-            "Dimensions": "11 7/8 x 11 7/8\" (30.1 x 30.1 cm)",
-            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
-            "Object number": "3406.2008",
-            "Copyright": "\u00a9 2023 Milan Kn\u00ed\u017e\u00e1k",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/29427"
-    },
-    {
-        "Artist": "Milan Knizak",
-        "Title": "Destroyed Music",
-        "Year": "1963, fabricated 1975",
-        "ObjectID": "191649",
-        "Work": "https://www.moma.org/collection/works/191649",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM4MTUyMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=769c08cc5a04f3f4",
-        "Details": {
-            "Medium": "Altered vinyl record and ink on paper sign",
-            "Dimensions": "11 7/8 x 11 7/8\" (30.1 x 30.1 cm)",
-            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
-            "Object number": "3407.2008.a-b",
-            "Copyright": "\u00a9 2023 Milan Kn\u00ed\u017e\u00e1k",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/29427"
-    },
-    {
-        "Artist": "Milan Knizak",
-        "Title": "Destroyed Music",
-        "Year": "1963, fabricated 1975",
-        "ObjectID": "191650",
-        "Work": "https://www.moma.org/collection/works/191650",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQyOTYwNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ffee6ac901caddca",
-        "Details": {
-            "Medium": "Altered vinyl record",
-            "Dimensions": "11 7/8 x 11 7/8\" (30.1 x 30.1 cm)",
-            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
-            "Object number": "3408.2008.a-b",
-            "Copyright": "\u00a9 2023 Milan Kn\u00ed\u017e\u00e1k",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/29427"
-    },
-    {
-        "Artist": "Milan Knizak",
-        "Title": "Destroyed Music",
-        "Year": "1963, fabricated 1975",
-        "ObjectID": "191651",
-        "Work": "https://www.moma.org/collection/works/191651",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMyMzczMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b0ecf36ade75ddf9",
-        "Details": {
-            "Medium": "Altered vinyl record",
-            "Dimensions": "11 7/8 x 11 7/8\" (30.1 x 30.1 cm)",
-            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
-            "Object number": "3409.2008.a-b",
-            "Copyright": "\u00a9 2023 Milan Kn\u00ed\u017e\u00e1k",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/29427"
-    },
-    {
-        "Artist": "Alison Knowles, George Brecht, Robert Watts",
-        "Title": "Attache Case",
-        "Year": "1963",
-        "ObjectID": "135491",
-        "Work": "https://www.moma.org/collection/works/135491",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQyNDY3NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1b54b1cece2a9bfd",
-        "Details": {
-            "Medium": "Vinyl-covered attach\u00e9 case with screenprint",
-            "Dimensions": "12 5/8 x 16 15/16 x 3 3/4\" (32 x 43 x 9.5 cm)",
-            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
-            "Object number": "3926.2008",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Germany / \u00a9 2023  Alison Knowles / \u00a9 2023 Estate of Robert Watts",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/36471"
-    },
-    {
-        "Artist": "Koch Creations, Lynbrook, NY",
-        "Title": "Lampette Reading Lamp (model E6)",
-        "Year": "1963",
-        "ObjectID": "4130",
-        "Work": "https://www.moma.org/collection/works/4130",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMDM2OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9dc7858003937e83",
-        "Details": {
-            "Manufacturer": "Koch Creations, Lynbrook, NY",
-            "Medium": "Plastic and metal",
-            "Dimensions": "expanded: 16 x 3 1/4\" (40.6 x 8.3 cm)\r\ncompact: 6 x 3 1/4\" (15.2 x 8.3 cm)",
-            "Credit": "Purchase",
-            "Object number": "585.1963",
+            "Medium": "Felt-tip pen and pencil on tracing paper",
+            "Dimensions": "11 11/16 \u00d7 8 1/4\" (29.7 \u00d7 21 cm)",
+            "Credit": "Gift of the architect",
+            "Object number": "155.2019.1",
             "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/10901"
+        "Profile": "https://www.moma.org/artists/68050"
     },
     {
-        "Artist": "Bela Kolarova",
-        "Title": "Radiogram of Circle",
-        "Year": "1962-63",
-        "ObjectID": "163962",
-        "Work": "https://www.moma.org/collection/works/163962",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MTU1NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d19c52470e7f98fc",
+        "Artist": "Aleksandar Stjepanovic, Bozidar Jankovic, Branislav Karadzic",
+        "Title": "Block 22, New Belgrade, Serbia (Apartment layout iterations)",
+        "Year": "1968",
+        "ObjectID": "222271",
+        "Work": "https://www.moma.org/collection/works/222271",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ4MTMyNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d299af160ca31222",
+        "Details": {
+            "Medium": "Felt-tip pen and pencil on tracing paper",
+            "Dimensions": "11 11/16 \u00d7 8 1/4\" (29.7 \u00d7 21 cm)",
+            "Credit": "Gift of the architect",
+            "Object number": "155.2019.2",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/68050"
+    },
+    {
+        "Artist": "Aleksandar Stjepanovic, Bozidar Jankovic, Branislav Karadzic",
+        "Title": "Block 23, New Belgrade, Serbia (Sketch studies)",
+        "Year": "1968",
+        "ObjectID": "222272",
+        "Work": "https://www.moma.org/collection/works/222272",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ4MTMyNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=241cc4e93cff5c48",
+        "Details": {
+            "Medium": "Felt-tip pen and pencil on tracing paper",
+            "Dimensions": "8 1/4 \u00d7 11 11/16\" (21 \u00d7 29.7 cm)",
+            "Credit": "Gift of the architect",
+            "Object number": "155.2019.3",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/68050"
+    },
+    {
+        "Artist": "Aleksandar Stjepanovic, Bozidar Jankovic, Branislav Karadzic",
+        "Title": "Block 23, New Belgrade, Serbia (Plan iterations)",
+        "Year": "1968",
+        "ObjectID": "222274",
+        "Work": "https://www.moma.org/collection/works/222274",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ4MTMyOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ca9fa9bbd9ff15a6",
+        "Details": {
+            "Medium": "Felt-tip pen and pencil on tracing paper",
+            "Dimensions": "11 11/16 \u00d7 8 1/4\" (29.7 \u00d7 21 cm)",
+            "Credit": "Gift of the architect",
+            "Object number": "155.2019.4",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/68050"
+    },
+    {
+        "Artist": "Aleksandar Stjepanovic, Bozidar Jankovic, Branislav Karadzic",
+        "Title": "Block 23, New Belgrade, Serbia (Plan iterations)",
+        "Year": "1968",
+        "ObjectID": "222276",
+        "Work": "https://www.moma.org/collection/works/222276",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ4MTMyOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=36b2fb6125550e48",
+        "Details": {
+            "Medium": "Felt-tip pen on tracing paper",
+            "Dimensions": "8 1/4 \u00d7 11 11/16\" (21 \u00d7 29.7 cm)",
+            "Credit": "Gift of the architect",
+            "Object number": "155.2019.5",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/68050"
+    },
+    {
+        "Artist": "Aleksandar Stjepanovic, Bozidar Jankovic, Branislav Karadzic",
+        "Title": "Block 23, New Belgrade, Serbia (Facade study)",
+        "Year": "1968",
+        "ObjectID": "222277",
+        "Work": "https://www.moma.org/collection/works/222277",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ4MTMzMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0753db2e804fe122",
+        "Details": {
+            "Medium": "Felt-tip pen on tracing paper",
+            "Dimensions": "8 1/4 \u00d7 11 11/16\" (21 \u00d7 29.7 cm)",
+            "Credit": "Gift of the architect",
+            "Object number": "155.2019.6",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/68050"
+    },
+    {
+        "Artist": "Aleksandar Stjepanovic, Bozidar Jankovic, Branislav Karadzic",
+        "Title": "Block 23, New Belgrade, Serbia (Plan sketch)",
+        "Year": "1968",
+        "ObjectID": "222281",
+        "Work": "https://www.moma.org/collection/works/222281",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ4MTMzMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=551e9a6263bb1c98",
+        "Details": {
+            "Medium": "Felt-tip pen on tracing paper",
+            "Dimensions": "15 15/16 \u00d7 11 7/16\" (40.5 \u00d7 29.1 cm)",
+            "Credit": "Gift of the architect",
+            "Object number": "155.2019.7",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/68050"
+    },
+    {
+        "Artist": "Dana Stone/United Press International",
+        "Title": "\"Wounded\"",
+        "Year": "April 11, 1968",
+        "ObjectID": "58701",
+        "Work": "https://www.moma.org/collection/works/58701",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMTM0MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=762e8ac5d28d4512",
         "Details": {
             "Medium": "Gelatin silver print",
-            "Dimensions": "10 11/16 \u00d7 9 1/16\" (27.1 \u00d7 23 cm)",
-            "Credit": "Gift of Martin Helcl, Prague",
-            "Object number": "306.2013",
-            "Copyright": "\u00a9 2023 Estate of Bela Kol\u00e1rov\u00e1",
+            "Dimensions": "7 11/16 \u00d7 9 13/16\" (19.5 \u00d7 24.9 cm)",
+            "Credit": "The New York Times Collection",
+            "Object number": "2108.2001",
+            "Copyright": "\u00a9 2023 Dana Stone/United Press International",
             "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/42336"
+        "Profile": "https://www.moma.org/artists/8622"
     },
     {
-        "Artist": "Bela Kolarova",
-        "Title": "Radiogram of Circle",
-        "Year": "1962-63",
-        "ObjectID": "163963",
-        "Work": "https://www.moma.org/collection/works/163963",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MTU1NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=eefeafa85acd142f",
+        "Artist": "John Stram, Jack Stringer, Carl Norby",
+        "Title": "Computer Tape Package Series 500",
+        "Year": "1968",
+        "ObjectID": "3350",
+        "Work": "https://www.moma.org/collection/works/3350",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyOTMzOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=333aa8a5cf5b64fd",
         "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "9 9/16 \u00d7 7\" (24.3 \u00d7 17.8 cm)",
-            "Credit": "Gift of Martin Helcl, Prague",
-            "Object number": "303.2013",
-            "Copyright": "\u00a9 2023 Estate of Bela Kol\u00e1rov\u00e1",
-            "Department": "Photography"
+            "Manufacturer": "International Business Machines Corp., Armonk, NY",
+            "Medium": "Impact styrene, styrene acryloitrile, and acetal",
+            "Dimensions": "Overall: 1 1/8 x 11 5/8\" (2.9 x 29.5 cm)\r\n.a (bottom): 1/2 x 11 5/8\" (1.3 x 29.5 cm)\r\n.b (lid): 3/4 x 11 1/4\" (1.9 x 28.6 cm)\r\n.c (tape): 3/4 x 10 3/8\" (1.9 x 26.4 cm)",
+            "Credit": "Gift of the manufacturer",
+            "Object number": "345.1969.a-c",
+            "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/42336"
+        "Profile": "https://www.moma.org/artists/5684"
     },
     {
-        "Artist": "Bela Kolarova",
-        "Title": "Radiogram of Circle",
-        "Year": "1962-63",
-        "ObjectID": "163964",
-        "Work": "https://www.moma.org/collection/works/163964",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MTU1NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cca160ac2509be97",
+        "Artist": "James Strombotne",
+        "Title": "Title page from the portfolio Recognitions",
+        "Year": "1968",
+        "ObjectID": "75783",
+        "Work": "https://www.moma.org/collection/works/75783",
+        "Thumbnail": null,
         "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "11 7/8 \u00d7 9 7/16\" (30.1 \u00d7 24 cm)",
-            "Credit": "Gift of Martin Helcl, Prague",
-            "Object number": "305.2013",
-            "Copyright": "\u00a9 2023 Estate of Bela Kol\u00e1rov\u00e1",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/42336"
-    },
-    {
-        "Artist": "Bela Kolarova",
-        "Title": "Radiogram of Circle",
-        "Year": "1962-63",
-        "ObjectID": "163968",
-        "Work": "https://www.moma.org/collection/works/163968",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwNjQzMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1e8b17d797971e44",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "23 5/8 \u00d7 19 7/8\" (60 \u00d7 50.5 cm)",
-            "Credit": "Acquired through the generosity of Marie-Jos\u00e9e Kravis",
-            "Object number": "304.2013",
-            "Copyright": "\u00a9 2023 Estate of Bela Kol\u00e1rov\u00e1",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/42336"
-    },
-    {
-        "Artist": "Josef Koudelka",
-        "Title": "Kadan",
-        "Year": "1963",
-        "ObjectID": "52854",
-        "Work": "https://www.moma.org/collection/works/52854",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwNzYyMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c6380bdab3b69520",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "8 1/2 \u00d7 13\" (21.6 \u00d7 33.0 cm)",
-            "Credit": "David H. McAlpin Fund",
-            "Object number": "409.1971",
-            "Copyright": "\u00a9 2023 Josef Koudelka",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/3229"
-    },
-    {
-        "Artist": "Josef Koudelka",
-        "Title": "Poprad",
-        "Year": "1963",
-        "ObjectID": "52899",
-        "Work": "https://www.moma.org/collection/works/52899",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMzY1NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=028381f903c8f3e1",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "8 1/4 \u00d7 13\" (21.0 \u00d7 33.0 cm)",
-            "Credit": "The Parkinson Fund",
-            "Object number": "412.1971",
-            "Copyright": "\u00a9 2023 Josef Koudelka",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/3229"
-    },
-    {
-        "Artist": "Shigeko Kubota",
-        "Title": "1st.LOVE, 2nd.LOVE...",
-        "Year": "1963",
-        "ObjectID": "127423",
-        "Work": "https://www.moma.org/collection/works/127423",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NDc4MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e3b9d35d67ad5c94",
-        "Details": {
-            "Medium": "Mimeograph, pasted to announcement for the artist\u2019s solo exhibition at Naiqua Gallery, Tokyo",
-            "Dimensions": "sheet: 3 3/4 x 11\" (9.5 x 28 cm)",
-            "Credit": "The Gilbert and Lila Silverman Fluxus Collection Gift",
-            "Object number": "2305.2008",
-            "Copyright": "\u00a9 2023 Estate of Shigeko Kubota / Licensed by VAGA at Artists Rights Society (ARS), NY",
+            "Medium": "One from a portfolio of twelve lithographs",
+            "Dimensions": "composition (irreg.): 16 7/16 \u00d7 22 3/8\" (41.7 \u00d7 56.9 cm); sheet: 20 1/16 \u00d7 26\" (51 \u00d7 66.1 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 8 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1141.1968.1",
+            "Associated work": "Tamarind Lithography Workshop Archive",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/3277"
+        "Profile": "https://www.moma.org/artists/5695"
     },
     {
-        "Artist": "Tetsumi Kudo",
-        "Title": "From White Mecha to Black Mecha - Your Portrait",
-        "Year": "(1959-63)",
-        "ObjectID": "165931",
-        "Work": "https://www.moma.org/collection/works/165931",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI4MjU3MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=072e5c3508080f21",
+        "Artist": "James Strombotne",
+        "Title": "Recognitions",
+        "Year": "1968",
+        "ObjectID": "75784",
+        "Work": "https://www.moma.org/collection/works/75784",
+        "Thumbnail": null,
         "Details": {
-            "Medium": "Cut-and-pasted printed paper on two pieces of paperboard",
-            "Dimensions": "15 3/4 x 24 3/8\" (40 x 61.9 cm)",
-            "Credit": "Robert Lehman Endowment Fund for Acquisitions by the Department of Drawings, The Museum of Modern Art, New York and funds provided by James Keith Brown and Eric Diefenbach",
-            "Object number": "4.2013",
-            "Copyright": "\u00a9 2023 ADAGP, Paris + ARS, New York",
+            "Medium": "Portfolio of twelve lithographs",
+            "Dimensions": "various composition dimensions; sheet (each approx.): 20 1/16 \u00d7 26\" (51 \u00d7 66.1 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "Various sizes, plus 8 or 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1141.1968.1-12",
+            "Associated work": "Tamarind Lithography Workshop Archive",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/3281"
+        "Profile": "https://www.moma.org/artists/5695"
     },
     {
-        "Artist": "Yayoi Kusama",
-        "Title": "Flower",
-        "Year": "1953/1963",
-        "ObjectID": "35270",
-        "Work": "https://www.moma.org/collection/works/35270",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ3ODg3NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ae7912856d26ed6d",
+        "Artist": "James Strombotne",
+        "Title": "Ice Cream Cone from the portfolio Recognitions",
+        "Year": "1968",
+        "ObjectID": "75785",
+        "Work": "https://www.moma.org/collection/works/75785",
+        "Thumbnail": null,
         "Details": {
-            "Medium": "Ink, gouache, and pastel on paper",
-            "Dimensions": "15 3/4 x 13 1/4\" (40.1 x 33.8 cm)",
-            "Credit": "Purchased with funds given by Sheldon H. Solow",
-            "Object number": "210.1996",
-            "Copyright": "\u00a9 2023 Yayoi Kusama",
+            "Medium": "One from a portfolio of twelve lithographs",
+            "Dimensions": "composition: 16 9/16 \u00d7 23 1/8\" (42.1 \u00d7 58.7 cm); sheet: 20 1/16 \u00d7 26\" (51 \u00d7 66.1 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1141.1968.10",
+            "Associated work": "Tamarind Lithography Workshop Archive",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/3315"
+        "Profile": "https://www.moma.org/artists/5695"
     },
     {
-        "Artist": "Yayoi Kusama",
-        "Title": "Airmail No. 2 Accumulation",
-        "Year": "1963",
-        "ObjectID": "96440",
-        "Work": "https://www.moma.org/collection/works/96440",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExMjI4NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c425ce6515bd0148",
+        "Artist": "James Strombotne",
+        "Title": "March from the portfolio Recognitions",
+        "Year": "1968",
+        "ObjectID": "75786",
+        "Work": "https://www.moma.org/collection/works/75786",
+        "Thumbnail": null,
         "Details": {
-            "Medium": "Pasted airmail labels on paper",
-            "Dimensions": "9 1/8 x 10 1/2\" (23.2 x 26.7 cm)",
-            "Credit": "The Judith Rothschild Foundation Contemporary Drawings Collection Gift (purchase, and gift, in part, of The Eileen and Michael Cohen Collection)",
-            "Object number": "2150.2005",
-            "Copyright": "\u00a9 2023 Yayoi Kusama",
+            "Medium": "One from a portfolio of twelve lithographs",
+            "Dimensions": "composition: 16 9/16 \u00d7 23 1/16\" (42 \u00d7 58.6 cm); sheet: 20 1/16 \u00d7 26\" (51 \u00d7 66.1 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "18, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1141.1968.11",
+            "Associated work": "Tamarind Lithography Workshop Archive",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/3315"
+        "Profile": "https://www.moma.org/artists/5695"
     },
     {
-        "Artist": "Edoardo Landi",
-        "Title": "Geometrical Kinetic Variations",
-        "Year": "1963",
-        "ObjectID": "82003",
-        "Work": "https://www.moma.org/collection/works/82003",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1NzExNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f73810778cef1615",
+        "Artist": "James Strombotne",
+        "Title": "Rally Round the Flag from the portfolio Recognitions",
+        "Year": "1968",
+        "ObjectID": "75788",
+        "Work": "https://www.moma.org/collection/works/75788",
+        "Thumbnail": null,
         "Details": {
-            "Medium": "Water-filled plexiglass tubes, painted metal rollers with strips of colored cotton cloth tape, and motor, in a box",
-            "Dimensions": "19 3/4 x 19 3/4 x 5 3/4\" (50 x 50 x 14.5 cm)",
-            "Credit": "Gift of the Olivetti Company of Italy",
-            "Object number": "1237.1964",
+            "Medium": "One from a portfolio of twelve lithographs",
+            "Dimensions": "composition: 16 5/8 \u00d7 23 1/8\" (42.2 \u00d7 58.8 cm); sheet: 20 1/16 \u00d7 26\" (51 \u00d7 66.1 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1141.1968.2",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5695"
+    },
+    {
+        "Artist": "James Strombotne",
+        "Title": "Co Co from the portfolio Recognitions",
+        "Year": "1968",
+        "ObjectID": "75789",
+        "Work": "https://www.moma.org/collection/works/75789",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "One from a portfolio of twelve lithographs",
+            "Dimensions": "composition: 16 7/8 \u00d7 23 3/16\" (42.9 \u00d7 58.9 cm); sheet: 20 1/16 \u00d7 26\" (51 \u00d7 66.1 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1141.1968.3",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5695"
+    },
+    {
+        "Artist": "James Strombotne",
+        "Title": "Asylum from the portfolio Recognitions",
+        "Year": "1968",
+        "ObjectID": "75790",
+        "Work": "https://www.moma.org/collection/works/75790",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "One from a portfolio of twelve lithographs",
+            "Dimensions": "composition: 16 5/8 \u00d7 23 1/4\" (42.2 \u00d7 59.1 cm); sheet: 20 1/16 \u00d7 26\" (51 \u00d7 66.1 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1141.1968.4",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5695"
+    },
+    {
+        "Artist": "James Strombotne",
+        "Title": "Pink from the portfolio Recognitions",
+        "Year": "1968",
+        "ObjectID": "75791",
+        "Work": "https://www.moma.org/collection/works/75791",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "One from a portfolio of twelve lithographs",
+            "Dimensions": "composition: 17 3/8 \u00d7 23 1/8\" (44.2 \u00d7 58.8 cm); sheet: 20 1/16 \u00d7 26\" (51 \u00d7 66.1 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1141.1968.5",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5695"
+    },
+    {
+        "Artist": "James Strombotne",
+        "Title": "Smokers from the portfolio Recognitions",
+        "Year": "1968",
+        "ObjectID": "75792",
+        "Work": "https://www.moma.org/collection/works/75792",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "One from a portfolio of twelve lithographs",
+            "Dimensions": "composition (slightly irreg.): 16 11/16 \u00d7 23 3/16\" (42.4 \u00d7 58.9 cm); sheet: 20 1/16 \u00d7 26\" (51 \u00d7 66.1 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1141.1968.6",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5695"
+    },
+    {
+        "Artist": "James Strombotne",
+        "Title": "Military from the portfolio Recognitions",
+        "Year": "1968",
+        "ObjectID": "75793",
+        "Work": "https://www.moma.org/collection/works/75793",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "One from a portfolio of twelve lithographs",
+            "Dimensions": "composition (irreg.): 15 1/16 \u00d7 23 1/4\" (38.2 \u00d7 59 cm); sheet: 20 1/16 \u00d7 26\" (51 \u00d7 66.1 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1141.1968.7",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5695"
+    },
+    {
+        "Artist": "James Strombotne",
+        "Title": "Bird Lady from the portfolio Recognitions",
+        "Year": "1968",
+        "ObjectID": "75794",
+        "Work": "https://www.moma.org/collection/works/75794",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "One from a portfolio of twelve lithographs",
+            "Dimensions": "composition: 16 3/4 \u00d7 23 5/16\" (42.6 \u00d7 59.2 cm); sheet: 20 1/16 \u00d7 26\" (51 \u00d7 66.1 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1141.1968.8",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5695"
+    },
+    {
+        "Artist": "James Strombotne",
+        "Title": "Big Henry from the portfolio Recognitions",
+        "Year": "1968",
+        "ObjectID": "75795",
+        "Work": "https://www.moma.org/collection/works/75795",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "One from a portfolio of twelve lithographs",
+            "Dimensions": "composition (slightly irreg.): 16 3/4 \u00d7 23 5/16\" (42.5 \u00d7 59.2 cm); sheet: 20 1/16 \u00d7 26\" (51 \u00d7 66.1 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1141.1968.9",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5695"
+    },
+    {
+        "Artist": "James Strombotne",
+        "Title": "Smokers II",
+        "Year": "1968",
+        "ObjectID": "75798",
+        "Work": "https://www.moma.org/collection/works/75798",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition (slightly irreg.): 17 1/8 \u00d7 23 1/2\" (43.5 \u00d7 59.7 cm); sheet: 20 1/16 \u00d7 26 1/16\" (51 \u00d7 66.2 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "10, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1142.1968",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5695"
+    },
+    {
+        "Artist": "James Strombotne",
+        "Title": "String",
+        "Year": "1968",
+        "ObjectID": "75801",
+        "Work": "https://www.moma.org/collection/works/75801",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition (irreg.): 26 15/16 \u00d7 21 1/4\" (68.5 \u00d7 54 cm); sheet: 30 1/8 \u00d7 21 3/4\" (76.5 \u00d7 55.2 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1143.1968",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5695"
+    },
+    {
+        "Artist": "James Strombotne",
+        "Title": "Self Portrait",
+        "Year": "1968",
+        "ObjectID": "75807",
+        "Work": "https://www.moma.org/collection/works/75807",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition and sheet: 30 \u00d7 22 1/16\" (76.2 \u00d7 56 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1145.1968",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5695"
+    },
+    {
+        "Artist": "James Strombotne",
+        "Title": "Cowboy",
+        "Year": "1968",
+        "ObjectID": "75810",
+        "Work": "https://www.moma.org/collection/works/75810",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition (irreg.): 17 1/2 \u00d7 24\" (44.4 \u00d7 61 cm); sheet: 24 1/8 \u00d7 24\" (61.2 \u00d7 61 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1146.1968",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5695"
+    },
+    {
+        "Artist": "James Strombotne",
+        "Title": "Movies",
+        "Year": "1968",
+        "ObjectID": "75813",
+        "Work": "https://www.moma.org/collection/works/75813",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition (irreg.): 28 11/16 \u00d7 20 9/16\" (72.8 \u00d7 52.3 cm); sheet: 30 5/16 \u00d7 22 5/16\" (77 \u00d7 56.7 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1147.1968",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5695"
+    },
+    {
+        "Artist": "James Strombotne",
+        "Title": "W. C.",
+        "Year": "1968",
+        "ObjectID": "75816",
+        "Work": "https://www.moma.org/collection/works/75816",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition (irreg.): 19 5/16 \u00d7 29 1/8\" (49.1 \u00d7 73.9 cm); sheet: 22 3/8 \u00d7 30 5/16\" (56.9 \u00d7 77 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1148.1968",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5695"
+    },
+    {
+        "Artist": "James Strombotne",
+        "Title": "The Ladies",
+        "Year": "1968",
+        "ObjectID": "75828",
+        "Work": "https://www.moma.org/collection/works/75828",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition (irreg.): 18 5/16 \u00d7 25 7/8\" (46.5 \u00d7 65.7 cm); sheet: 22 1/16 \u00d7 29 15/16\" (56.1 \u00d7 76.1 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1149.1968",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5695"
+    },
+    {
+        "Artist": "James Strombotne",
+        "Title": "Demented Truck",
+        "Year": "1968",
+        "ObjectID": "75831",
+        "Work": "https://www.moma.org/collection/works/75831",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition (irreg.): 22 1/4 \u00d7 29 7/16\" (56.5 \u00d7 74.7 cm); sheet: 22 1/4 \u00d7 30\" (56.5 \u00d7 76.2 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1150.1968",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5695"
+    },
+    {
+        "Artist": "James Strombotne",
+        "Title": "Execution",
+        "Year": "1968",
+        "ObjectID": "75835",
+        "Work": "https://www.moma.org/collection/works/75835",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition (irreg.): 18 1/16 \u00d7 27 1/16\" (45.8 \u00d7 68.8 cm); sheet: 22 7/16 \u00d7 29 15/16\" (57 \u00d7 76 cm)",
+            "Publisher": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Printer": "Tamarind Lithography Workshop, Inc., Los Angeles",
+            "Edition": "20, plus 9 Tamarind Impressions",
+            "Credit": "Gift of Kleiner, Bell & Co.",
+            "Object number": "1151.1968",
+            "Associated work": "Tamarind Lithography Workshop Archive",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5695"
+    },
+    {
+        "Artist": "Leopold Survage",
+        "Title": "Plate (folio 46) from Hommage a Roger Lacouriere",
+        "Year": "1968",
+        "ObjectID": "9216",
+        "Work": "https://www.moma.org/collection/works/9216",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQwMjA4NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d05705bf0cbf3431",
+        "Details": {
+            "Author": "Pablo Picasso, Ilia Zdanevich",
+            "Medium": "Etching from an illustrated book with twelve etchings (two with aquatint, two with drypoint, one with aquatint and drypoint) and one drypoint",
+            "Dimensions": "plate: 6 5/8 \u00d7 8 15/16\" (16.9 \u00d7 22.7 cm); page: 9 1/4 \u00d7 11 7/16\" (23.5 \u00d7 29 cm)",
+            "Publisher": "Ilia Zdanevich",
+            "Printer": "Lacouri\u00e8re-Fr\u00e9laut, Paris",
+            "Edition": "50",
+            "Credit": "Mrs. Stanley Resor Fund (by exchange)",
+            "Object number": "15.1976.13",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Illustrated book": "Hommage \u00e0 Roger Lacouri\u00e8re",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5735"
+    },
+    {
+        "Artist": "Graham Sutherland",
+        "Title": "Cyno Cephalus from the portfolio A Bestiary",
+        "Year": "(1968)",
+        "ObjectID": "77337",
+        "Work": "https://www.moma.org/collection/works/77337",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0OTk1MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=76416cff3a8dec14",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "Sheet 26 x 19 11/16\" (66.0 x 50.0 cm)",
+            "Credit": "Gift of Monroe Wheeler",
+            "Object number": "1615.1968",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5739"
+    },
+    {
+        "Artist": "Alina Szapocznikow",
+        "Title": "Untitled",
+        "Year": "c. 1963-68",
+        "ObjectID": "114769",
+        "Work": "https://www.moma.org/collection/works/114769",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1NDcyNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cb6e93d13d37761c",
+        "Details": {
+            "Medium": "Ink on paper",
+            "Dimensions": "10 5/8 x 8 1/8\" (27 x 20.6 cm)",
+            "Credit": "Purchased with funds provided by the Rendl Endowment for Slavic Art",
+            "Object number": "1410.2007",
+            "Copyright": "\u00a9 2023 / Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/34124"
+    },
+    {
+        "Artist": "Alina Szapocznikow",
+        "Title": "Belly-Cushions",
+        "Year": "1968",
+        "ObjectID": "116325",
+        "Work": "https://www.moma.org/collection/works/116325",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzNjgxMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=84ed497928ed2040",
+        "Details": {
+            "Medium": "Polyurethane, five parts",
+            "Dimensions": "Each part  5 1/8\" to 7\" x 11 7/8\" x 13 1/2\" (13 to18 x 30 x 34 cm)",
+            "Credit": "Promised gift of Marie-Jos\u00e9e and Henry R. Kravis",
+            "Object number": "PG210.2008.a-e",
             "Department": "Painting and Sculpture"
         },
-        "Profile": "https://www.moma.org/artists/3362"
+        "Profile": "https://www.moma.org/artists/34124"
     },
     {
-        "Artist": "Darrell Landrum, Louis J. Zerbee",
-        "Title": "Chair and Ottoman (model 162)",
-        "Year": "1963",
-        "ObjectID": "4116",
-        "Work": "https://www.moma.org/collection/works/4116",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMDM0NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c7525c9d0b7abf14",
+        "Artist": "Alina Szapocznikow",
+        "Title": "Untitled (Study for a Sculpture 4)",
+        "Year": "c. 1963",
+        "ObjectID": "121302",
+        "Work": "https://www.moma.org/collection/works/121302",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1NDc3NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e23a1956e015551b",
         "Details": {
-            "Manufacturer": "Avard Inc., New York, NY",
-            "Medium": "Metal and wire mesh",
-            "Dimensions": ".1 - 29 1/2 x 23 x 28 1/2\" (74.9 x 58.4 x 72.4 cm)\r\n.2 - (unknown - TBD)",
-            "Credit": "Gift of the manufacturer",
-            "Object number": "573.1963.1-2",
-            "Department": "Architecture and Design"
+            "Medium": "Monotype and ink on paper",
+            "Dimensions": "16 1/2 x 11 5/8\" (41.9 x 29.5 cm)",
+            "Publisher": "unpublished",
+            "Printer": "Alina Szapocznikow, Warsaw or Paris",
+            "Edition": "unique",
+            "Credit": "Gift of The Judith Rothschild Foundation",
+            "Object number": "1888.2008",
+            "Copyright": "\u00a9 2023 / Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/3365"
+        "Profile": "https://www.moma.org/artists/34124"
     },
     {
-        "Artist": "Dorothea Lange",
-        "Title": "Bedouin Camp, Egypt",
-        "Year": "1963",
-        "ObjectID": "54009",
-        "Work": "https://www.moma.org/collection/works/54009",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1OTYzMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=527f23b4a3d51ec3",
+        "Artist": "Alina Szapocznikow",
+        "Title": "Untitled",
+        "Year": "c. 1963-65",
+        "ObjectID": "128576",
+        "Work": "https://www.moma.org/collection/works/128576",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MjQxNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=76762ec7ad71c50b",
         "Details": {
-            "Medium": "Gelatin silver print, printed 1965",
-            "Dimensions": "6 9/16 \u00d7 5 7/16\" (16.7 \u00d7 13.8 cm)",
-            "Credit": "Purchase",
-            "Object number": "475.1995",
+            "Medium": "Monotype",
+            "Dimensions": "composition (irreg.): 18 9/16 x 11 7/16\" (47.2 x 29 cm); sheet: 18 11/16 x 12 5/16\" (47.5 x 31.2 cm)",
+            "Publisher": "unpublished",
+            "Printer": "Alina Szapocznikow, Paris",
+            "Edition": "unique",
+            "Credit": "Edgar Wachenheim III Fund",
+            "Object number": "357.2009",
+            "Copyright": "\u00a9 Alina Szapocznikow. Artists Rights Society (ARS), New York / ADAGP, Paris.",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/34124"
+    },
+    {
+        "Artist": "Jiro Takamatsu",
+        "Title": "Perspective",
+        "Year": "1968",
+        "ObjectID": "166743",
+        "Work": "https://www.moma.org/collection/works/166743",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MzUwNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0299e041d8d9ce6a",
+        "Details": {
+            "Medium": "Colored chalk on colored paper",
+            "Dimensions": "14 3/4 x 10 3/4\" (37.5 x 27.3 cm)",
+            "Credit": "Gift of Tatsumi Sato",
+            "Object number": "17.2013",
+            "Copyright": "\u00a9 2023 Estate of Jiro Takamatsu, courtesy of Yumiko Chiba, Associate",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5785"
+    },
+    {
+        "Artist": "Jiro Takamatsu",
+        "Title": "Perspective",
+        "Year": "1968",
+        "ObjectID": "166744",
+        "Work": "https://www.moma.org/collection/works/166744",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2MzUwNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ac71227289922c3d",
+        "Details": {
+            "Medium": "Colored chalk on colored paper",
+            "Dimensions": "10 7/8 x 14 3/4\" (27.6 x 37.5 cm)",
+            "Credit": "Gift of Tatsumi Sato",
+            "Object number": "18.2013",
+            "Copyright": "\u00a9 2023 Estate of Jiro Takamatsu, courtesy of Yumiko Chiba, Associate",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/5785"
+    },
+    {
+        "Artist": "Shuzo Takiguchi",
+        "Title": "Rrose Selavy in Wilson-Lincoln System from To and From Rrose Selavy",
+        "Year": "1967, published 1968",
+        "ObjectID": "17205",
+        "Work": "https://www.moma.org/collection/works/17205",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwODk0MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4e251536a9b5ab56",
+        "Details": {
+            "Medium": "Lenticular print on board",
+            "Dimensions": "plate: 11 5/16 x 9 7/16\" (28.8 x 23.9 cm); sheet: 12 7/8 x 10 1/16\" (32.7 x 25.6 cm)",
+            "Publisher": "Rrose S\u00e9lavy, Tokyo",
+            "Edition": "60",
+            "Credit": "Leo Castelli Fund (by exchange)",
+            "Object number": "436.1973.3",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris / Estate of Marcel Duchamp",
+            "Illustrated book": "To and From Rrose Selavy [special edition boxed set]",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/14022"
+    },
+    {
+        "Artist": "Shuzo Takiguchi",
+        "Title": "A Swift Requiem: Marcel Duchamp 1887-1968",
+        "Year": "1968",
+        "ObjectID": "17236",
+        "Work": "https://www.moma.org/collection/works/17236",
+        "Thumbnail": null,
+        "Details": {
+            "Author": "Shuzo Takiguchi",
+            "Medium": "Illustrated book with one xerox",
+            "Dimensions": "xerox composition  8 1/4 x 5 1/8\" (21 x 13.1 cm)\r\ntext page  8 1/4 x 5 1/2\" (20.9 x 14 cm)\r\ntranslation page  9 7/8 x 6 7/8\" (25 x 17.5 cm)",
+            "Edition": "10 (numbered 1/10-10/10)",
+            "Credit": "Gift of Minami Gallery",
+            "Object number": "439.1973.A-B",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/14022"
+    },
+    {
+        "Artist": "Shuzo Takiguchi, Marcel Duchamp",
+        "Title": "Self-Portrait of Duchamp for Shuzo Takiguchi from the special edition boxed set of To and From Rrose Selavy",
+        "Year": "dated 1967, published 1968",
+        "ObjectID": "433225",
+        "Work": "https://www.moma.org/collection/works/433225",
+        "Thumbnail": null,
+        "Details": {
+            "Collaborating artist": "Marcel Duchamp",
+            "Medium": "Screenprint",
+            "Dimensions": "11 9/16 \u00d7 9 1/16\" (29.4 \u00d7 23 cm)",
+            "Publisher": "Rrose S\u00e9lavy, Tokyo",
+            "Edition": "50",
+            "Credit": "Leo Castelli Fund (by exchange)",
+            "Object number": "436.1973.5",
+            "Illustrated book": "To and From Rrose Selavy [special edition boxed set]",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/14022"
+    },
+    {
+        "Artist": "Shigeru Tamura",
+        "Title": "February 16, 1968",
+        "Year": "1968",
+        "ObjectID": "46726",
+        "Work": "https://www.moma.org/collection/works/46726",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNTMyMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7b0da763f8e1b28c",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "6 \u00d7 6\" (15.2 \u00d7 15.2 cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "130.1977",
             "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/3373"
+        "Profile": "https://www.moma.org/artists/5797"
     },
     {
-        "Artist": "Dorothea Lange",
-        "Title": "Egyptian Village",
-        "Year": "1963",
-        "ObjectID": "55183",
-        "Work": "https://www.moma.org/collection/works/55183",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzNzYwNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=642562a23524ceab",
+        "Artist": "Shigeru Tamura",
+        "Title": "June 19, 1968",
+        "Year": "1968",
+        "ObjectID": "46735",
+        "Work": "https://www.moma.org/collection/works/46735",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNTMyMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fcd1c902c998bd8a",
         "Details": {
-            "Medium": "Gelatin silver print, printed 1965",
-            "Dimensions": "15 7/8 \u00d7 19 13/16\" (40.4 \u00d7 50.4 cm)",
-            "Credit": "Purchase",
-            "Object number": "564.1995",
+            "Medium": "Gelatin silver print",
+            "Dimensions": "6 \u00d7 6\" (15.2 \u00d7 15.2 cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "131.1977",
             "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/3373"
+        "Profile": "https://www.moma.org/artists/5797"
     },
     {
-        "Artist": "Dorothea Lange",
-        "Title": "Procession Bearing Food to the Dead, Upper Egypt",
-        "Year": "1963",
-        "ObjectID": "55256",
-        "Work": "https://www.moma.org/collection/works/55256",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQyMTEyMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ca595b44411d7b2c",
+        "Artist": "Shigeru Tamura",
+        "Title": "June 22, 1968",
+        "Year": "1968",
+        "ObjectID": "46744",
+        "Work": "https://www.moma.org/collection/works/46744",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzNTMyMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=128fec6b94afa022",
         "Details": {
-            "Medium": "Gelatin silver print, printed 1965",
-            "Dimensions": "20 1/4 \u00d7 31 1/16\" (51.4 \u00d7 78.9 cm)",
-            "Credit": "Purchase",
-            "Object number": "571.1995",
+            "Medium": "Gelatin silver print",
+            "Dimensions": "6 \u00d7 6\" (15.2 \u00d7 15.2 cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "132.1977",
             "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/3373"
-    },
-    {
-        "Artist": "Dorothea Lange",
-        "Title": "Nile Valley",
-        "Year": "1963",
-        "ObjectID": "55276",
-        "Work": "https://www.moma.org/collection/works/55276",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzODYwMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=76cbbe623d688a2b",
-        "Details": {
-            "Medium": "Gelatin silver print, printed 1965",
-            "Dimensions": "20 1/4 \u00d7 27 1/2\" (51.4 \u00d7 69.9 cm)",
-            "Credit": "Purchase",
-            "Object number": "573.1995",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/3373"
-    },
-    {
-        "Artist": "Dorothea Lange",
-        "Title": "Nile Village, Egypt",
-        "Year": "1963",
-        "ObjectID": "55306",
-        "Work": "https://www.moma.org/collection/works/55306",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzODYwMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b2da6079733cead8",
-        "Details": {
-            "Medium": "Gelatin silver print, printed 1965",
-            "Dimensions": "16 5/8 \u00d7 12 11/16\" (42.3 \u00d7 32.2 cm)",
-            "Credit": "Purchase",
-            "Object number": "576.1995",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/3373"
-    },
-    {
-        "Artist": "Dorothea Lange",
-        "Title": "Man, Egypt",
-        "Year": "1963",
-        "ObjectID": "55326",
-        "Work": "https://www.moma.org/collection/works/55326",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzODYwNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c21d1544b848b513",
-        "Details": {
-            "Medium": "Gelatin silver print, printed 1965",
-            "Dimensions": "14 15/16 \u00d7 15 9/16\" (38 \u00d7 39.6 cm)",
-            "Credit": "Purchase",
-            "Object number": "578.1995",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/3373"
-    },
-    {
-        "Artist": "Dorothea Lange",
-        "Title": "Two Women, Egypt",
-        "Year": "1963",
-        "ObjectID": "55346",
-        "Work": "https://www.moma.org/collection/works/55346",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1OTI4MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=bfb2795a90ca96f9",
-        "Details": {
-            "Medium": "Gelatin silver print, printed 1965",
-            "Dimensions": "11 1/4 \u00d7 15 5/16\" (28.6 \u00d7 38.9 cm)",
-            "Credit": "Purchase",
-            "Object number": "580.1995",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/3373"
-    },
-    {
-        "Artist": "Dorothea Lange",
-        "Title": "Nile Delta, Egypt",
-        "Year": "1963",
-        "ObjectID": "55373",
-        "Work": "https://www.moma.org/collection/works/55373",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQyMTEyMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9b4cb82fccf5012e",
-        "Details": {
-            "Medium": "Gelatin silver print, printed 1965",
-            "Dimensions": "37 \u00d7 31 1/2\" (94 \u00d7 80 cm)",
-            "Credit": "Purchase",
-            "Object number": "583.1995",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/3373"
-    },
-    {
-        "Artist": "Dorothea Lange",
-        "Title": "Boy, Egypt",
-        "Year": "1963",
-        "ObjectID": "55397",
-        "Work": "https://www.moma.org/collection/works/55397",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzODYwNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7c5673d96ea3f6e2",
-        "Details": {
-            "Medium": "Gelatin silver print, printed 1965",
-            "Dimensions": "11 15/16 \u00d7 17 9/16\" (30.4 \u00d7 44.7 cm)",
-            "Credit": "Purchase",
-            "Object number": "586.1995",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/3373"
-    },
-    {
-        "Artist": "Dorothea Lange",
-        "Title": "Near Wudi Modaui, Sudan",
-        "Year": "1963",
-        "ObjectID": "55429",
-        "Work": "https://www.moma.org/collection/works/55429",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzODYwNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=95c850036264fd6b",
-        "Details": {
-            "Medium": "Gelatin silver print, printed 1965",
-            "Dimensions": "13 3/4 \u00d7 12 7/16\" (35 \u00d7 31.6 cm)",
-            "Credit": "Purchase",
-            "Object number": "590.1995",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/3373"
-    },
-    {
-        "Artist": "Dorothea Lange",
-        "Title": "Near Wudi Modaui, Sudan",
-        "Year": "1963",
-        "ObjectID": "55445",
-        "Work": "https://www.moma.org/collection/works/55445",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzODYwOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d360a43001f93209",
-        "Details": {
-            "Medium": "Gelatin silver print, printed 1965",
-            "Dimensions": "21 5/16 \u00d7 9 3/4\" (54.1 \u00d7 24.8 cm)",
-            "Credit": "Purchase",
-            "Object number": "592.1995",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/3373"
-    },
-    {
-        "Artist": "Dorothea Lange",
-        "Title": "Near Wudi Modaui, Sudan",
-        "Year": "1963",
-        "ObjectID": "55460",
-        "Work": "https://www.moma.org/collection/works/55460",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzODYwOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9221b771dde1aa65",
-        "Details": {
-            "Medium": "Gelatin silver print, printed 1965",
-            "Dimensions": "9 1/16 \u00d7 21 7/8\" (23.1 \u00d7 55.6 cm)",
-            "Credit": "Purchase",
-            "Object number": "594.1995",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/3373"
-    },
-    {
-        "Artist": "Dorothea Lange",
-        "Title": "Arab, Egypt",
-        "Year": "1963",
-        "ObjectID": "55498",
-        "Work": "https://www.moma.org/collection/works/55498",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzODYxMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5fc5e303ce3c14cd",
-        "Details": {
-            "Medium": "Gelatin silver print, printed 1965",
-            "Dimensions": "15 13/16 \u00d7 11 3/4\" (40.2 \u00d7 29.9 cm)",
-            "Credit": "Purchase",
-            "Object number": "599.1995",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/3373"
-    },
-    {
-        "Artist": "Dorothea Lange",
-        "Title": "Hoeing, Egypt",
-        "Year": "1963",
-        "ObjectID": "55514",
-        "Work": "https://www.moma.org/collection/works/55514",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzNzYwOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=866b8c0d820338da",
-        "Details": {
-            "Medium": "Gelatin silver print, printed 1965",
-            "Dimensions": "12 9/16 \u00d7 23 5/16\" (32 \u00d7 59.2 cm)",
-            "Credit": "Purchase",
-            "Object number": "601.1995",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/3373"
+        "Profile": "https://www.moma.org/artists/5797"
     }
 ]

@@ -1,791 +1,871 @@
 [
     {
-        "Artist": "Georg Trump",
-        "Title": "Bielefelder Aktiengesellschaft fur Mechanische Weberei",
-        "Year": "Unknown",
-        "ObjectID": "8511",
-        "Work": "https://www.moma.org/collection/works/8511",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyOTkyMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4f5bba5cbab58dfc",
+        "Artist": "Ludwig Hirschfeld-Mack",
+        "Title": "Corio",
+        "Year": "1943",
+        "ObjectID": "60672",
+        "Work": "https://www.moma.org/collection/works/60672",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExOTY4OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6aced322f75b8001",
         "Details": {
-            "Medium": "Letterpress",
-            "Dimensions": "4 1/2 x 6 3/8\" (11.4 x 16.2 cm)",
-            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
-            "Object number": "1037.1999",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/5947"
-    },
-    {
-        "Artist": "Georg Trump",
-        "Title": "Albert Hartmann letterhead",
-        "Year": "Unknown",
-        "ObjectID": "8512",
-        "Work": "https://www.moma.org/collection/works/8512",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyOTkyMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f15c081f9ebf8405",
-        "Details": {
-            "Medium": "Letterpress",
-            "Dimensions": "11 11/16 x 8 1/4\" (29.7 x 21 cm)",
-            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
-            "Object number": "1038.1999",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/5947"
-    },
-    {
-        "Artist": "Georg Trump",
-        "Title": "Hans Strauf letterhead",
-        "Year": "1925-1929",
-        "ObjectID": "198414",
-        "Work": "https://www.moma.org/collection/works/198414",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0ODQxMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4a3c6a52fd21dab1",
-        "Details": {
-            "Medium": "Letterpress",
-            "Dimensions": "11 5/8 \u00d7 8 1/4\" (29.5 \u00d7 21 cm)",
-            "Credit": "Elaine Lustig Cohen Collection, gift of Lawrence Benenson and the Committee on Architecture and Design Funds",
-            "Object number": "1369.2015",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/5947"
-    },
-    {
-        "Artist": "Georg Trump",
-        "Title": "OE Kunstgewerbehaus Paul Oehlmann letterhead",
-        "Year": "1925-1929",
-        "ObjectID": "198415",
-        "Work": "https://www.moma.org/collection/works/198415",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0ODQxNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1f5a55f412f4a2f6",
-        "Details": {
-            "Medium": "Letterpress",
-            "Dimensions": "11 1/2 \u00d7 8 1/4\" (29.2 \u00d7 21 cm)",
-            "Credit": "Elaine Lustig Cohen Collection, gift of Lawrence Benenson and the Committee on Architecture and Design Funds",
-            "Object number": "1371.2015",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/5947"
-    },
-    {
-        "Artist": "Georg Trump",
-        "Title": "BDG Gruppe Niedersachsen letterhead",
-        "Year": "1925-1929",
-        "ObjectID": "198416",
-        "Work": "https://www.moma.org/collection/works/198416",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0ODQxMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=acfa9fad7e8bdeab",
-        "Details": {
-            "Medium": "Letterpress",
-            "Dimensions": "11 1/2 \u00d7 8 1/4\" (29.2 \u00d7 21 cm)",
-            "Credit": "Elaine Lustig Cohen Collection, gift of Lawrence Benenson and the Committee on Architecture and Design Funds",
-            "Object number": "1368.2015",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/5947"
-    },
-    {
-        "Artist": "Georg Trump",
-        "Title": "I. Bansi letterhead",
-        "Year": "1925-1929",
-        "ObjectID": "198417",
-        "Work": "https://www.moma.org/collection/works/198417",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0ODQxNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6a4f45227b3671f6",
-        "Details": {
-            "Medium": "Letterpress",
-            "Dimensions": "11 5/8 \u00d7 8 1/4\" (29.5 \u00d7 21 cm)",
-            "Credit": "Elaine Lustig Cohen Collection, gift of Lawrence Benenson and the Committee on Architecture and Design Funds",
-            "Object number": "1370.2015",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/5947"
-    },
-    {
-        "Artist": "Georg Trump",
-        "Title": "Atelier fur Buchgewerbliche Herstellung Ernst Keller letterhead",
-        "Year": "1925-1929",
-        "ObjectID": "198420",
-        "Work": "https://www.moma.org/collection/works/198420",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0ODQxMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=249f2f13470943d4",
-        "Details": {
-            "Medium": "Letterpress",
-            "Dimensions": "8 1/4 \u00d7 5 7/8\" (21 \u00d7 14.9 cm)",
-            "Credit": "Elaine Lustig Cohen Collection, gift of Lawrence Benenson and the Committee on Architecture and Design Funds",
-            "Object number": "1365.2015",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/5947"
-    },
-    {
-        "Artist": "Georg Trump",
-        "Title": "Atelier Prof. G. Trump stationery postcard",
-        "Year": "1925-1929",
-        "ObjectID": "198422",
-        "Work": "https://www.moma.org/collection/works/198422",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0NzkwNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=152fcb4f83c167e0",
-        "Details": {
-            "Medium": "Letterpress",
-            "Dimensions": "4 1/8 \u00d7 5 3/4\" (10.5 \u00d7 14.6 cm)",
-            "Credit": "Elaine Lustig Cohen Collection, gift of Lawrence Benenson and the Committee on Architecture and Design Funds",
-            "Object number": "1366.2015",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/5947"
-    },
-    {
-        "Artist": "Georg Trump",
-        "Title": "Bauersche Giesserei stationery postcard",
-        "Year": "1925-1929",
-        "ObjectID": "198423",
-        "Work": "https://www.moma.org/collection/works/198423",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0NzkwNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c4b2ecfa480dc13b",
-        "Details": {
-            "Medium": "Letterpress",
-            "Dimensions": "4 1/8 \u00d7 5 3/4\" (10.5 \u00d7 14.6 cm)",
-            "Credit": "Elaine Lustig Cohen Collection, gift of Lawrence Benenson and the Committee on Architecture and Design Funds",
-            "Object number": "1367.2015",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/5947"
-    },
-    {
-        "Artist": "Jan Tschichold",
-        "Title": "Jan Tschichold stationery postcard (Sent to Piet Zwart)",
-        "Year": "1929",
-        "ObjectID": "198424",
-        "Work": "https://www.moma.org/collection/works/198424",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0NzkwOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e3dad0f03171138e",
-        "Details": {
-            "Medium": "Letterpress",
-            "Dimensions": "4 \u00d7 5 3/4\" (10.2 \u00d7 14.6 cm)",
-            "Credit": "Elaine Lustig Cohen Collection, gift of Lawrence Benenson and the Committee on Architecture and Design Funds",
-            "Object number": "1385.2015",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/5951"
-    },
-    {
-        "Artist": "Jan Tschichold",
-        "Title": "Film und Foto exhibition letterhead",
-        "Year": "1929",
-        "ObjectID": "198425",
-        "Work": "https://www.moma.org/collection/works/198425",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0ODQzMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b4ba9d78a172fafd",
-        "Details": {
-            "Medium": "Letterpress",
-            "Dimensions": "11 5/8 \u00d7 8 1/4\" (29.5 \u00d7 21 cm)",
-            "Credit": "Elaine Lustig Cohen Collection, gift of Lawrence Benenson and the Committee on Architecture and Design Funds",
-            "Object number": "1384.2015",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/5951"
-    },
-    {
-        "Artist": "Jan Tschichold",
-        "Title": "Meisterschule fur Deutschlands Buchdrucker (Master School for German book printers) letterhead",
-        "Year": "1929",
-        "ObjectID": "198427",
-        "Work": "https://www.moma.org/collection/works/198427",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0ODQzNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3f74e8d86c1722fd",
-        "Details": {
-            "Medium": "Letterpress",
-            "Dimensions": "11 5/8 \u00d7 8 1/4\" (29.5 \u00d7 21 cm)",
-            "Credit": "Elaine Lustig Cohen Collection, gift of Lawrence Benenson and the Committee on Architecture and Design Funds",
-            "Object number": "1387.2015",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/5951"
-    },
-    {
-        "Artist": "Jan Tschichold",
-        "Title": "Edith Tschichold letterhead",
-        "Year": "1920s",
-        "ObjectID": "198429",
-        "Work": "https://www.moma.org/collection/works/198429",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0ODQyMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=bd520bb77df42cd0",
-        "Details": {
-            "Medium": "Letterpress",
-            "Dimensions": "11 5/8 \u00d7 8 1/4\" (29.5 \u00d7 21 cm)",
-            "Credit": "Elaine Lustig Cohen Collection, gift of Lawrence Benenson and the Committee on Architecture and Design Funds",
-            "Object number": "1377.2015",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/5951"
-    },
-    {
-        "Artist": "Jan Tschichold",
-        "Title": "Nina Chmelowa letterhead",
-        "Year": "1920s",
-        "ObjectID": "198430",
-        "Work": "https://www.moma.org/collection/works/198430",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0ODQyOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=16fba95a6b03ccd6",
-        "Details": {
-            "Medium": "Letterpress",
-            "Dimensions": "10 1/4 \u00d7 7 7/8\" (26 \u00d7 20 cm)",
-            "Credit": "Elaine Lustig Cohen Collection, gift of Lawrence Benenson and the Committee on Architecture and Design Funds",
-            "Object number": "1380.2015",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/5951"
-    },
-    {
-        "Artist": "Jan Tschichold",
-        "Title": "Jan Tschichold letterhead",
-        "Year": "1920s",
-        "ObjectID": "198431",
-        "Work": "https://www.moma.org/collection/works/198431",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0ODQyMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=17619f5d89acf9fa",
-        "Details": {
-            "Medium": "Letterpress",
-            "Dimensions": "11 5/8 \u00d7 8 1/4\" (29.5 \u00d7 21 cm)",
-            "Credit": "Elaine Lustig Cohen Collection, gift of Lawrence Benenson and the Committee on Architecture and Design Funds",
-            "Object number": "1378.2015",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/5951"
-    },
-    {
-        "Artist": "Jan Tschichold",
-        "Title": "Jan Tschichold Ring NWG letterhead",
-        "Year": "1929",
-        "ObjectID": "198433",
-        "Work": "https://www.moma.org/collection/works/198433",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0ODQzMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7943e239145ae7c0",
-        "Details": {
-            "Medium": "Letterpress",
-            "Dimensions": "11 5/8 \u00d7 8 1/4\" (29.5 \u00d7 21 cm)",
-            "Credit": "Elaine Lustig Cohen Collection, gift of Lawrence Benenson and the Committee on Architecture and Design Funds",
-            "Object number": "1386.2015",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/5951"
-    },
-    {
-        "Artist": "Umbo (Otto Umbehr)",
-        "Title": "View of Berlin's Department Store Karstadt",
-        "Year": "1929",
-        "ObjectID": "83931",
-        "Work": "https://www.moma.org/collection/works/83931",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDQ5OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=49e6ba16821d40ba",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "9 5/16 \u00d7 6 1/8\" (23.7 \u00d7 15.5 cm)",
-            "Credit": "Thomas Walther Collection. Gift of Shirley C. Burden, by exchange",
-            "Object number": "1889.2001",
-            "Copyright": "\u00a9 2023 Umbo / Gallery Kicken Berlin / Phyllis Umbehr / VG Bild-Kunst, Bonn",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/6006"
-    },
-    {
-        "Artist": "Unidentified Artist",
-        "Title": "Jaroslav Seifert: Mesto v slzach",
-        "Year": "1929",
-        "ObjectID": "8572",
-        "Work": "https://www.moma.org/collection/works/8572",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyOTk3NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fa0133898ed8e2c3",
-        "Details": {
-            "Medium": "Photostat",
-            "Dimensions": "11 1/2 x 9 1/16\" (29.2 x 23 cm)",
-            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
-            "Object number": "1097.1999",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/23390"
-    },
-    {
-        "Artist": "Unidentified Artist",
-        "Title": "Detskie knigi, katalog",
-        "Year": "1929",
-        "ObjectID": "8646",
-        "Work": "https://www.moma.org/collection/works/8646",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDA1MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e532b2cfadf15a6b",
-        "Details": {
-            "Medium": "Letterpress",
-            "Dimensions": "7 11/16 \u00d7 5 5/16 \u00d7 1/2\" (19.6 \u00d7 13.5 \u00d7 1.3 cm)",
-            "Publisher": "Gosizdat (State Publishing House)",
-            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
-            "Object number": "1167.1999",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/23390"
-    },
-    {
-        "Artist": "Unidentified Artist",
-        "Title": "Ausstellung am Adolf-Mittag-See",
-        "Year": "1929",
-        "ObjectID": "8651",
-        "Work": "https://www.moma.org/collection/works/8651",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDA1NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7199f5ff658f7a23",
-        "Details": {
-            "Medium": "Letterpress",
-            "Dimensions": "8 3/16 x 3 15/16\" (20.8 x 10 cm)",
-            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
-            "Object number": "1172.1999",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/23390"
-    },
-    {
-        "Artist": "Unidentified Artist",
-        "Title": "Neue Kunst Fides: Einladung Zur Teilnahme an ihrem neuzeitlichen Lesezirkel",
-        "Year": "1920s",
-        "ObjectID": "8669",
-        "Work": "https://www.moma.org/collection/works/8669",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDA2MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3ec40e099765e1a2",
-        "Details": {
-            "Medium": "Letterpress",
-            "Dimensions": "8 7/16 x 5 13/16\" (21.4 x 14.8 cm)",
-            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
-            "Object number": "1177.1999",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/23390"
-    },
-    {
-        "Artist": "Unidentified Artist",
-        "Title": "Junkers Nachrichten No. 2, 1929",
-        "Year": "1929",
-        "ObjectID": "8683",
-        "Work": "https://www.moma.org/collection/works/8683",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDA4OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=87be028be29897c0",
-        "Details": {
-            "Medium": "Letterpress",
-            "Dimensions": "11 13/16 x 8 5/16\" (30 x 21.1 cm)",
-            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
-            "Object number": "1191.1999",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/23390"
-    },
-    {
-        "Artist": "Unidentified Artist",
-        "Title": "An den Deutschen Werkbund",
-        "Year": "1929",
-        "ObjectID": "8707",
-        "Work": "https://www.moma.org/collection/works/8707",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDEyMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5a2445ce60736dd0",
-        "Details": {
-            "Medium": "Letterpress",
-            "Dimensions": "4 1/8 x 5 13/16\" (10.5 x 14.8 cm)",
-            "Printer": "Deutschen Werkbund",
-            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
-            "Object number": "1215.1999",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/23390"
-    },
-    {
-        "Artist": "Unidentified Artist",
-        "Title": "An den Verkehrsverein Breslau",
-        "Year": "1929",
-        "ObjectID": "8708",
-        "Work": "https://www.moma.org/collection/works/8708",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMTk5NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=598e4e5851918fa9",
-        "Details": {
-            "Medium": "Letterpress",
-            "Dimensions": "4 1/8 x 5 13/16\" (10.5 x 14.8 cm)",
-            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
-            "Object number": "1216.1999",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/23390"
-    },
-    {
-        "Artist": "Unidentified Designer",
-        "Title": "Lenin 1870\u20131924. Lenin Is Gone, Leninism Lives On! (Lenina net\u2014zhiv leninism)",
-        "Year": "c.1924",
-        "ObjectID": "280216",
-        "Work": "https://www.moma.org/collection/works/280216",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ0OTU4MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e1257232db72475c",
-        "Details": {
-            "Medium": "Lithograph and letterpress",
-            "Dimensions": "42 1/2 \u00d7 28 1/4\" (108 \u00d7 71.8 cm)",
-            "Printer": "State Musical Score Printing House of Gosizdat (State Publishing House), Moscow",
-            "Credit": "The Merrill C. Berman Collection. Acquired through the generosity of Alice and Tom Tisch, Jo Carole and Ronald S. Lauder, Sue and Edgar Wachenheim III, David Booth, Marlene Hess and James D. Zirin, Marie-Jos\u00e9e and Henry R. Kravis, Jack Shear, the Patricia Bonfield Endowed Acquisition Fund for the Design Collection, Daniel and Jane Och, The Orentreich Family Foundation, Emily Rauh Pulitzer, The Modern Women's Fund; and by exchange: Gift of Jean Dubuffet in honor of Mr. and Mrs. Ralph Colin, The Judith Rothschild Foundation Contemporary Drawings Collection, and the Richard S. Zeisler Bequest",
-            "Object number": "711.2018",
-            "Associated work": "The Merrill C. Berman Collection at MoMA",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/6011"
-    },
-    {
-        "Artist": "Unidentified Designer",
-        "Title": "Editions Albert Morance letterhead",
-        "Year": "1920s",
-        "ObjectID": "198594",
-        "Work": "https://www.moma.org/collection/works/198594",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0Mjk1NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b1df34ba06bf16a5",
-        "Details": {
-            "Medium": "Letterpress",
-            "Dimensions": "10 5/8 \u00d7 8 1/4\" (27 \u00d7 21 cm)",
-            "Credit": "Elaine Lustig Cohen Collection, gift of Lawrence Benenson and the Committee on Architecture and Design Funds",
-            "Object number": "1483.2015",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/6013"
-    },
-    {
-        "Artist": "Unidentified Designer",
-        "Title": "L'Architecture d'Aujourd'hui stationery subscription form",
-        "Year": "1920s",
-        "ObjectID": "198612",
-        "Work": "https://www.moma.org/collection/works/198612",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0MzEwMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3ae2bafba8b51a32",
-        "Details": {
-            "Medium": "Letterpress",
-            "Dimensions": "8 1/2 \u00d7 9 1/2\" (21.6 \u00d7 24.1 cm)",
-            "Credit": "Elaine Lustig Cohen Collection, gift of Lawrence Benenson and the Committee on Architecture and Design Funds",
-            "Object number": "1496.2015",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/6013"
-    },
-    {
-        "Artist": "Unidentified Designer, Jean Badovici",
-        "Title": "Jean Badovici stationery envelope (Addressed to Pierre Chareau)",
-        "Year": "1920s",
-        "ObjectID": "198611",
-        "Work": "https://www.moma.org/collection/works/198611",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0MzEwMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c1d7e5f2ff368445",
-        "Details": {
-            "Medium": "Letterpress",
-            "Dimensions": "3 3/4 \u00d7 5 1/2\" (9.5 \u00d7 14 cm)",
-            "Credit": "Elaine Lustig Cohen Collection, gift of Lawrence Benenson and the Committee on Architecture and Design Funds",
-            "Object number": "1495.2015",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/6013"
-    },
-    {
-        "Artist": "Unidentified Designer",
-        "Title": "Nachrichten fur Lufthahrer letterhead",
-        "Year": "1920s",
-        "ObjectID": "198396",
-        "Work": "https://www.moma.org/collection/works/198396",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0Nzg5OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e09d63781daa26a5",
-        "Details": {
-            "Medium": "Letterpress",
-            "Dimensions": "11 5/8 \u00d7 8 1/4\" (29.5 \u00d7 21 cm)",
-            "Credit": "Elaine Lustig Cohen Collection, gift of Lawrence Benenson and the Committee on Architecture and Design Funds",
-            "Object number": "1202.2015",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/6014"
-    },
-    {
-        "Artist": "Unidentified Designer",
-        "Title": "Subscription receipt for Merz",
-        "Year": "1920s",
-        "ObjectID": "198479",
-        "Work": "https://www.moma.org/collection/works/198479",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0ODM3OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1cb311d0eb3babe6",
-        "Details": {
-            "Medium": "Letterpress",
-            "Dimensions": "4 1/8 \u00d7 8 7/8\" (10.5 \u00d7 22.5 cm)",
-            "Credit": "Elaine Lustig Cohen Collection, gift of Lawrence Benenson and the Committee on Architecture and Design Funds",
-            "Object number": "1336.2015",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/6014"
-    },
-    {
-        "Artist": "Unidentified Designer",
-        "Title": "Rovente Magazine letterhead (Letter to Rognoni)",
-        "Year": "c.1924",
-        "ObjectID": "198561",
-        "Work": "https://www.moma.org/collection/works/198561",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0MzI1MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ea9f543411ab7d17",
-        "Details": {
-            "Medium": "Letterpress",
-            "Dimensions": "11 3/8 \u00d7 8 7/8\" (28.9 \u00d7 22.5 cm)",
-            "Credit": "Elaine Lustig Cohen Collection, gift of Lawrence Benenson and the Committee on Architecture and Design Funds",
-            "Object number": "1460.2015",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/6016"
-    },
-    {
-        "Artist": "Unidentified photographer",
-        "Title": "Untitled (Chrysler Building under Construction)",
-        "Year": "Late November 1929",
-        "ObjectID": "83784",
-        "Work": "https://www.moma.org/collection/works/83784",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5ODQ0MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=77a4cd3a6af447b1",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "13 9/16 \u00d7 10 1/8\" (34.5 \u00d7 25.7 cm)",
-            "Credit": "Thomas Walther Collection. Abbott-Levy Collection funds, by exchange",
-            "Object number": "1706.2001",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/8595"
-    },
-    {
-        "Artist": "Unidentified photographer",
-        "Title": "Untitled (El Lissitzky Working on a Stage Design of Sergei Tretyakov's Play \"I Want a Baby\" in the Meyerhold Theater)",
-        "Year": "1929",
-        "ObjectID": "84034",
-        "Work": "https://www.moma.org/collection/works/84034",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDQ5NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d9dd5b769954d4c9",
-        "Details": {
-            "Sitter": "El Lissitzky",
-            "Medium": "Gelatin silver print",
-            "Dimensions": "3 1/4 \u00d7 5 1/16\" (8.2 \u00d7 12.8 cm)",
-            "Credit": "Thomas Walther Collection. Gift of Thomas Walther",
-            "Object number": "1765.2001",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/8595"
-    },
-    {
-        "Artist": "Unidentified photographer",
-        "Title": "Untitled",
-        "Year": "December 1927",
-        "ObjectID": "98182",
-        "Work": "https://www.moma.org/collection/works/98182",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI5Mjk0NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9dd10dc52a814b4b",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "4 3/4 \u00d7 2 11/16\" (12.1 \u00d7 6.8 cm)",
-            "Credit": "Gift of Thomas Walther",
-            "Object number": "461.2005",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/8595"
-    },
-    {
-        "Artist": "Unidentified photographer",
-        "Title": "Untitled",
-        "Year": "c. 1924",
-        "ObjectID": "141039",
-        "Work": "https://www.moma.org/collection/works/141039",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMyMjM3NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3c79bc800e81b41e",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "4 3/16 \u00d7 2 1/2\" (10.6 \u00d7 6.3 cm)",
-            "Credit": "Gift of Peter J. Cohen",
-            "Object number": "676.2010",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/8595"
-    },
-    {
-        "Artist": "Unidentified photographer",
-        "Title": "Untitled",
-        "Year": "1929",
-        "ObjectID": "141276",
-        "Work": "https://www.moma.org/collection/works/141276",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMyMzk1NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ea9ba738fabce65f",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "4 1/8 \u00d7 7\" (10.5 \u00d7 17.8 cm)",
-            "Credit": "Gift of Peter J. Cohen",
-            "Object number": "870.2010",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/8595"
-    },
-    {
-        "Artist": "Maurice Utrillo",
-        "Title": "La Place du Tertre",
-        "Year": "1919",
-        "ObjectID": "60798",
-        "Work": "https://www.moma.org/collection/works/60798",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MTg1MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6562092f21a8c59f",
-        "Details": {
-            "Medium": "Lithograph",
-            "Dimensions": "composition: 7 3/8 x 10 11/16\" (18.7 x 27.1 cm); sheet: 12 11/16 x 19 1/8\" (32.2 x 48.5 cm)",
-            "Credit": "Gift of Mrs. Saidie A. May",
-            "Object number": "44.1932",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Medium": "Woodcut",
+            "Dimensions": "composition: 5 3/4 x 8 5/16\" (14.6 x 21.1 cm); sheet: 8 13/16 x 10 3/8\" (22.4 x 26.4 cm)",
+            "Publisher": "Unidentified",
+            "Printer": "Unidentified",
+            "Edition": "unknown",
+            "Credit": "Gift of Mrs. Ludwig Hirschfeld",
+            "Object number": "39.1977",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/6046"
+        "Profile": "https://www.moma.org/artists/2669"
     },
     {
-        "Artist": "Maurice Utrillo",
-        "Title": "La Rue d'Orchampt (Orchampt Street) from Essai dur l'histoire de la lithographie en France. Les Peintures lithographes de Manet a Matisse. Album de lithographies originales.",
-        "Year": "c. 1924",
-        "ObjectID": "63644",
-        "Work": "https://www.moma.org/collection/works/63644",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2MTcxNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=482184649bba2529",
+        "Artist": "Ludwig Hirschfeld-Mack",
+        "Title": "Corio",
+        "Year": "(1943)",
+        "ObjectID": "60690",
+        "Work": "https://www.moma.org/collection/works/60690",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExOTY4OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=23beb25dadaab631",
         "Details": {
-            "Medium": "Lithograph from a portfolio of 16 lithographs",
-            "Dimensions": "composition: 7 13/16 x 11 5/16\" (19.8 x 28.8 cm); sheet: 10 3/4 x 14 7/16\" (27.3 x 36.6 cm)",
-            "Publisher": "Edmond Frapier, Paris, Galerie des Peintres-Graveurs, Paris",
-            "Edition": "525",
-            "Credit": "Purchase Fund",
-            "Object number": "175.1949.12",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Portfolio": "Essai dur l'histoire de la lithographie en France. Les Peintures lithographes de Manet \u00e0 Matisse. Album de lithographies originales.",
+            "Medium": "Woodcut",
+            "Dimensions": "composition (irreg.): 6 x 8 1/16\" (15.3 x 20.4 cm); sheet: 10 9/16 x 12 1/2\" (26.9 x 31.8 cm)",
+            "Publisher": "Unidentified",
+            "Printer": "Unidentified",
+            "Edition": "unknown",
+            "Credit": "Gift of Mrs. Ludwig Hirschfeld",
+            "Object number": "40.1977",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/6046"
+        "Profile": "https://www.moma.org/artists/2669"
     },
     {
-        "Artist": "James Van Der Zee",
-        "Title": "At the beach",
-        "Year": "1920s",
-        "ObjectID": "124822",
-        "Work": "https://www.moma.org/collection/works/124822",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzNzc5MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d1df4982b660ad3d",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "5 3/4 \u00d7 3 13/16\" (14.6 \u00d7 9.7 cm)",
-            "Credit": "Gift of Richard Benson",
-            "Object number": "SC2008.1.105",
-            "Copyright": "\u00a9 2023 Estate of James Van Der Zee",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/6074"
-    },
-    {
-        "Artist": "James Van Der Zee",
-        "Title": "The Moorish Zionist Temple of the Moorish Jews",
-        "Year": "1920s",
-        "ObjectID": "125039",
-        "Work": "https://www.moma.org/collection/works/125039",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUwMjA1NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=611740c6b064bdbd",
-        "Details": {
-            "Medium": "Gelatin silver prints",
-            "Dimensions": "Each 8 \u00d7 10\" (20.3 \u00d7 25.4 cm)",
-            "Credit": "Gift of Richard Benson",
-            "Object number": "SC2008.1.322.a-b",
-            "Copyright": "\u00a9 2023 Estate of James Van Der Zee",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/6074"
-    },
-    {
-        "Artist": "Georges Vantongerloo",
-        "Title": "XY = K Green and Red",
-        "Year": "1929",
-        "ObjectID": "35841",
-        "Work": "https://www.moma.org/collection/works/35841",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzNTc2OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3ff3ae900a9debd4",
+        "Artist": "Hannah Hoch",
+        "Title": "Untitled",
+        "Year": "1943",
+        "ObjectID": "38229",
+        "Work": "https://www.moma.org/collection/works/38229",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQzMTc4MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=09da6127403322ed",
         "Details": {
             "Medium": "Gouache on paper",
-            "Dimensions": "6 7/8 x 8 5/8\" (17.5 x 21.9 cm)",
-            "Credit": "Gift of the artist",
-            "Object number": "272.1937",
-            "Copyright": "\u00a9 2023 Georges Vantongerloo / Artists Rights Society (ARS), New York / ProLitteris, Switzerland",
+            "Dimensions": "27 1/2 x 19 3/4\" (69.9 x 50.2 cm)",
+            "Credit": "The Riklis Collection of McCrory Corporation",
+            "Object number": "899.1983",
+            "Copyright": "\u00a9 2023 Hannah H\u00f6ch / Artists Rights Society (ARS), New York / VG Bild-Kunst, Germany",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/6091"
+        "Profile": "https://www.moma.org/artists/2675"
     },
     {
-        "Artist": "Dziga Vertov",
-        "Title": "Chelovek s kinoapparatom (Man with a Movie Camera)",
-        "Year": "1929",
-        "ObjectID": "303131",
-        "Work": "https://www.moma.org/collection/works/303131",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzOTE0MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7c9d1f9bb40e5fd2",
+        "Artist": "Carl Hoeckner",
+        "Title": "Whither Mankind",
+        "Year": "c. 1935-43",
+        "ObjectID": "181372",
+        "Work": "https://www.moma.org/collection/works/181372",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ3MDQ4MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0e54d950695dd489",
         "Details": {
-            "Object number": "W964",
-            "Department": "Film"
-        },
-        "Profile": "https://www.moma.org/artists/24575"
-    },
-    {
-        "Artist": "Jacques Villon",
-        "Title": "Student reading (Ecoliere lisant)",
-        "Year": "1929",
-        "ObjectID": "69388",
-        "Work": "https://www.moma.org/collection/works/69388",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3NzgyNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=345f9d6c39f67e2a",
-        "Details": {
-            "Medium": "Etching",
-            "Dimensions": "plate: 10 15/16 x 8 3/4\" (27.8 x 22.3 cm); sheet: 15 3/4 x 11 7/8\" (40 x 30.1 cm)",
-            "Edition": "50",
-            "Credit": "Acquired through the Lillie P. Bliss Bequest (by exchange)",
-            "Object number": "455.1949",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Medium": "Lithograph",
+            "Dimensions": "composition: 12 15/16 \u00d7 12 11/16\" (32.8 \u00d7 32.3 cm); sheet: 18 1/8 \u00d7 24 1/16\" (46 \u00d7 61.1 cm)",
+            "Publisher": "Works Progress Administration (WPA), Federal Art Project, Chicago",
+            "Printer": "Works Progress Administration (WPA), Federal Art Project, Chicago",
+            "Edition": "20",
+            "Credit": "Extended loan from the United States WPA Art Program. Fine Arts Collection, Public Buildings Service, General Services Administration",
+            "Object number": "EL1957.920",
+            "Associated work": "Works Progress Administration (WPA), Federal Art Project, Graphic Arts Division, Chicago",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/6165"
+        "Profile": "https://www.moma.org/artists/45814"
     },
     {
-        "Artist": "Jacques Villon",
-        "Title": "Head of a Young Girl (Tete de fillette)",
-        "Year": "1929",
-        "ObjectID": "69463",
-        "Work": "https://www.moma.org/collection/works/69463",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3NzgyNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=60af454315f2d5a8",
+        "Artist": "Carl Hoeckner",
+        "Title": "Untitled",
+        "Year": "c. 1935-43",
+        "ObjectID": "181415",
+        "Work": "https://www.moma.org/collection/works/181415",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ3MDUyMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=239629121afd663b",
         "Details": {
-            "Medium": "Etching",
-            "Dimensions": "plate: 10 13/16 x 10 1/4\" (27.5 x 26 cm); sheet: 15 13/16 x 12\" (40.2 x 30.5 cm)",
-            "Edition": "50",
-            "Credit": "Larry Aldrich Fund",
-            "Object number": "460.1954",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Medium": "Lithograph",
+            "Dimensions": "composition: 11 11/16 \u00d7 18 1/2\" (29.7 \u00d7 47 cm); sheet: 13 3/8 \u00d7 20 3/16\" (34 \u00d7 51.3 cm)",
+            "Publisher": "Works Progress Administration (WPA), Federal Art Project, Chicago",
+            "Printer": "Works Progress Administration (WPA), Federal Art Project, Chicago",
+            "Edition": "probably fewer than 25",
+            "Credit": "Extended loan from the United States WPA Art Program. Fine Arts Collection, Public Buildings Service, General Services Administration",
+            "Object number": "EL1957.963",
+            "Associated work": "Works Progress Administration (WPA), Federal Art Project, Graphic Arts Division, Chicago",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/6165"
+        "Profile": "https://www.moma.org/artists/45814"
     },
     {
-        "Artist": "Maurice de Vlaminck",
-        "Title": "The Mill on the Naze (Le Moulin de la Naze) from Essai dur l'histoire de la lithographie en France. Les Peintures lithographes de Manet a Matisse. Album de lithographies originales.",
-        "Year": "c. 1924",
-        "ObjectID": "63651",
-        "Work": "https://www.moma.org/collection/works/63651",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyMzk4NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cac94061c782ab5b",
+        "Artist": "Carl Hoeckner",
+        "Title": "Untitled",
+        "Year": "c. 1935-43",
+        "ObjectID": "181551",
+        "Work": "https://www.moma.org/collection/works/181551",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ4NTA0MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0a91558431ec2423",
         "Details": {
-            "Medium": "Lithograph from a portfolio of 16 lithographs",
-            "Dimensions": "composition: 6 15/16 \u00d7 10 1/2\" (17.6 \u00d7 26.7 cm); sheet: 10 13/16 \u00d7 14 3/8\" (27.4 \u00d7 36.5 cm)",
-            "Publisher": "Edmond Frapier, Paris, Galerie des Peintres-Graveurs, Paris",
-            "Edition": "525",
-            "Credit": "Purchase Fund",
-            "Object number": "175.1949.4",
-            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
-            "Portfolio": "Essai dur l'histoire de la lithographie en France. Les Peintures lithographes de Manet \u00e0 Matisse. Album de lithographies originales.",
+            "Medium": "Screenprint",
+            "Dimensions": "composition (irreg.): 8 11/16 \u00d7 14 3/16\" (22 \u00d7 36.1 cm); sheet: 11 1/4 \u00d7 17 5/16\" (28.5 \u00d7 43.9 cm)",
+            "Publisher": "Works Progress Administration (WPA), Federal Art Project, Chicago",
+            "Printer": "Works Progress Administration (WPA), Federal Art Project, Chicago",
+            "Edition": "probably fewer than 25",
+            "Credit": "Extended loan from the United States WPA Art Program. Fine Arts Collection, Public Buildings Service, General Services Administration",
+            "Object number": "EL1957.1097",
+            "Associated work": "Works Progress Administration (WPA), Federal Art Project, Graphic Arts Division, Chicago",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/6177"
+        "Profile": "https://www.moma.org/artists/45814"
     },
     {
-        "Artist": "Friedrich Vordemberge-Gildewart",
-        "Title": "Leni Matthaei D.W.B",
-        "Year": "c. 1924",
-        "ObjectID": "8710",
-        "Work": "https://www.moma.org/collection/works/8710",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDEyNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4e3f35545e627ed7",
+        "Artist": "Josef Hoffmann",
+        "Title": "Vase",
+        "Year": "c. 1938",
+        "ObjectID": "1098",
+        "Work": "https://www.moma.org/collection/works/1098",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMjA3MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=baa2a900be43a07b",
         "Details": {
-            "Medium": "Letterpress",
-            "Dimensions": "11 5/8 x 8 1/4\" (29.5 x 21 cm)",
-            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
-            "Object number": "1218.1999",
+            "Manufacturer": "Krystallglasmanufaktur Theresienthal Gmbh, Zweisel, Germany",
+            "Medium": "Glass",
+            "Dimensions": "5 7/8 x 4 1/2\" (14.9 x 11.4 cm)",
+            "Credit": "Given anonymously",
+            "Object number": "2260.2001",
             "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/6189"
+        "Profile": "https://www.moma.org/artists/2694"
     },
     {
-        "Artist": "Andreas Walser",
-        "Title": "Photogram",
-        "Year": "1929",
-        "ObjectID": "84078",
-        "Work": "https://www.moma.org/collection/works/84078",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMzA0OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a2ec0b96aa55a663",
+        "Artist": "Dorothy Hood",
+        "Title": "The Seeming Beginning",
+        "Year": "1943",
+        "ObjectID": "33049",
+        "Work": "https://www.moma.org/collection/works/33049",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3OTA1MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=18e43fb402d3b02c",
         "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "7 \u00d7 9 3/8\" (17.8 \u00d7 23.8 cm)",
-            "Credit": "Thomas Walther Collection. Gift of Thomas Walther",
-            "Object number": "1897.2001",
-            "Department": "Photography"
+            "Medium": "Ink and pencil on paper",
+            "Dimensions": "22 1/8 x 34 1/8\" (56.2 x 86.7 cm)",
+            "Credit": "James Thrall Soby Fund",
+            "Object number": "7.1944",
+            "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/24602"
+        "Profile": "https://www.moma.org/artists/2722"
     },
     {
-        "Artist": "Edward Weston",
-        "Title": "Oak, Monterey County",
-        "Year": "1929",
-        "ObjectID": "53138",
-        "Work": "https://www.moma.org/collection/works/53138",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNzk4OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7968339a3f38bfea",
+        "Artist": "Kati Horna",
+        "Title": "Doll in Doorway",
+        "Year": "c. 1938",
+        "ObjectID": "407365",
+        "Work": "https://www.moma.org/collection/works/407365",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ5NTAwMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b6fd1ecf47d17ee4",
         "Details": {
             "Medium": "Gelatin silver print",
-            "Dimensions": "7 7/16 \u00d7 9 3/8\" (18.9 \u00d7 23.8 cm)",
-            "Credit": "Gift of David H. McAlpin",
-            "Object number": "420.1956",
-            "Copyright": "\u00a9 Center for Creative Photography, Arizona Board of Regents / Artists Rights Society (ARS), New York",
+            "Dimensions": "7 1/2 \u00d7 7\" (19.1 \u00d7 17.8 cm)",
+            "Credit": "Gift of Helen Kornblum in honor of Roxana Marcoci",
+            "Object number": "44.2020",
+            "Copyright": "\u00a9 2023 Kati Horna Estate",
             "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/6329"
+        "Profile": "https://www.moma.org/artists/6916"
+    },
+    {
+        "Artist": "Kati Horna",
+        "Title": "Doll Parts",
+        "Year": "c. 1938",
+        "ObjectID": "407382",
+        "Work": "https://www.moma.org/collection/works/407382",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ5MzIwOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0dace9d614a00800",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "7 \u00d7 7 3/4\" (17.8 \u00d7 19.7 cm)",
+            "Credit": "Gift of Helen Kornblum in honor of Roxana Marcoci",
+            "Object number": "45.2020",
+            "Copyright": "\u00a9 2023 Kati Horna Estate",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/6916"
+    },
+    {
+        "Artist": "Shichiro Imatake",
+        "Title": "Army, Navy and Air Force (Exhibition Hall for Scientific Weapons)",
+        "Year": "1943",
+        "ObjectID": "8919",
+        "Work": "https://www.moma.org/collection/works/8919",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "36 1/8 x 24 1/4\" (91.7 x 61.6 cm)",
+            "Credit": "Gift of the designer",
+            "Object number": "1596.2000",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/8437"
+    },
+    {
+        "Artist": "Humphrey Jennings",
+        "Title": "Horse's Head",
+        "Year": "c. 1938",
+        "ObjectID": "55436",
+        "Work": "https://www.moma.org/collection/works/55436",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMzQ4NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=290683f5dd120320",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "7 15/16 \u00d7 11 13/16\" (20.3 \u00d7 30 cm)",
+            "Credit": "Purchase",
+            "Object number": "591.1990",
+            "Copyright": "\u00a9 2023 Humphrey Jennings",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/7002"
+    },
+    {
+        "Artist": "Humphrey Jennings",
+        "Title": "Use Persil",
+        "Year": "c. 1938",
+        "ObjectID": "55444",
+        "Work": "https://www.moma.org/collection/works/55444",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMzQ4NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4ea38d0403cb58db",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "7 15/16 \u00d7 11 13/16\" (20.3 \u00d7 30 cm)",
+            "Credit": "Purchase",
+            "Object number": "592.1990",
+            "Copyright": "\u00a9 2023 Humphrey Jennings",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/7002"
+    },
+    {
+        "Artist": "Sargent Johnson",
+        "Title": "Dorothy C.",
+        "Year": "c. 1938",
+        "ObjectID": "181635",
+        "Work": "https://www.moma.org/collection/works/181635",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ2ODYwMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2f3dd953a11bae10",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition: 11 1/16 \u00d7 6 1/16\" (28.1 \u00d7 15.4 cm); sheet: 14 \u00d7 8\" (35.6 \u00d7 20.3 cm)",
+            "Publisher": "Works Progress Administration (WPA), Federal Art Project, San Francisco",
+            "Printer": "Works Progress Administration (WPA), Federal Art Project, San Francisco",
+            "Edition": "probably fewer than 25",
+            "Credit": "Extended loan from the United States WPA Art Program. Fine Arts Collection, Public Buildings Service, General Services Administration",
+            "Object number": "EL1957.1181",
+            "Associated work": "Works Progress Administration (WPA), Federal Art Project, Graphic Arts Division, San Francisco",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/45859"
+    },
+    {
+        "Artist": "Sargent Johnson",
+        "Title": "Head",
+        "Year": "c. 1935-43",
+        "ObjectID": "181637",
+        "Work": "https://www.moma.org/collection/works/181637",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ2ODYwNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e750140bbf97b895",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition: 12 1/2 \u00d7 8 9/16\" (31.7 \u00d7 21.8 cm); sheet: 14 15/16 \u00d7 10 1/2\" (38 \u00d7 26.7 cm)",
+            "Publisher": "Works Progress Administration (WPA), Federal Art Project, San Francisco",
+            "Printer": "Works Progress Administration (WPA), Federal Art Project, San Francisco",
+            "Edition": "probably fewer than 25",
+            "Credit": "Extended loan from the United States WPA Art Program. Fine Arts Collection, Public Buildings Service, General Services Administration",
+            "Object number": "EL1957.1183",
+            "Associated work": "Works Progress Administration (WPA), Federal Art Project, Graphic Arts Division, San Francisco",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/45859"
+    },
+    {
+        "Artist": "Mervin Jules",
+        "Title": "The Little Presser",
+        "Year": "1943",
+        "ObjectID": "80096",
+        "Work": "https://www.moma.org/collection/works/80096",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIyNTMzNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=af22575448b2a525",
+        "Details": {
+            "Medium": "Oil on board",
+            "Dimensions": "11 1/2 x 11 5/8\" (29.2 x 29.5 cm)",
+            "Credit": "Purchase",
+            "Object number": "617.1943",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/2951"
+    },
+    {
+        "Artist": "Shirley Julian",
+        "Title": "The Search",
+        "Year": "c. 1935-43",
+        "ObjectID": "181501",
+        "Work": "https://www.moma.org/collection/works/181501",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ4NDk5NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=afb84f0f8a00bf51",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition: 13 7/8 \u00d7 10 1/16\" (35.2 \u00d7 25.5 cm); sheet: 17 1/16 \u00d7 12 9/16\" (43.3 \u00d7 31.9 cm)",
+            "Publisher": "Works Progress Administration (WPA), Federal Art Project, San Francisco",
+            "Printer": "Works Progress Administration (WPA), Federal Art Project, San Francisco",
+            "Edition": "probably fewer than 25",
+            "Credit": "Extended loan from the United States WPA Art Program. Fine Arts Collection, Public Buildings Service, General Services Administration",
+            "Object number": "EL1957.1048",
+            "Associated work": "Works Progress Administration (WPA), Federal Art Project, Graphic Arts Division, San Francisco",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/45860"
+    },
+    {
+        "Artist": "Joan Junyer",
+        "Title": "Set design for Cuckold's Fair",
+        "Year": "1943",
+        "ObjectID": "33483",
+        "Work": "https://www.moma.org/collection/works/33483",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NjI4NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0ebdd11f8bf72cdf",
+        "Details": {
+            "Medium": "Gouache and ink on black paper on board",
+            "Dimensions": "18 3/4 x 25 3/4\" (47.6 x 65.4 cm)",
+            "Credit": "Roudin Fund",
+            "Object number": "43.1948",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/2956"
+    },
+    {
+        "Artist": "Reuben Kadish",
+        "Title": "Alchemy",
+        "Year": "c. 1935-43",
+        "ObjectID": "181652",
+        "Work": "https://www.moma.org/collection/works/181652",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ2ODY0MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8f5f776f85087595",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition: 15 1/16 \u00d7 12 5/8\" (38.2 \u00d7 32 cm); sheet: 21 1/16 \u00d7 15 3/4\" (53.5 \u00d7 40 cm)",
+            "Publisher": "Works Progress Administration (WPA), Federal Art Project, San Francisco",
+            "Printer": "Works Progress Administration (WPA), Federal Art Project, San Francisco",
+            "Edition": "probably fewer than 25",
+            "Credit": "Extended loan from the United States WPA Art Program. Fine Arts Collection, Public Buildings Service, General Services Administration",
+            "Object number": "EL1957.1198",
+            "Associated work": "Works Progress Administration (WPA), Federal Art Project, Graphic Arts Division, San Francisco",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/2960"
+    },
+    {
+        "Artist": "E. McKnight Kauffer",
+        "Title": "Civil Aeronautics Administration - Speeds The War",
+        "Year": "1943",
+        "ObjectID": "5040",
+        "Work": "https://www.moma.org/collection/works/5040",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxNzYxMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=02577649ae5d490d",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "39 7/8 x 28 1/4\" (101.3 x 71.8 cm)",
+            "Credit": "Gift of the Civil Aeronautics Administration",
+            "Object number": "94.1944",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/3020"
+    },
+    {
+        "Artist": "Pat Keely",
+        "Title": "Wireless War",
+        "Year": "1943",
+        "ObjectID": "4968",
+        "Work": "https://www.moma.org/collection/works/4968",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "28 15/16 x 36 1/16\" (73.5 x 91.6 cm)",
+            "Credit": "Gift of the General Post Office, England",
+            "Object number": "79.1945",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/3037"
+    },
+    {
+        "Artist": "Pat Keely",
+        "Title": "Knotted Chain",
+        "Year": "1943",
+        "ObjectID": "5117",
+        "Work": "https://www.moma.org/collection/works/5117",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "30 1/16 x 19 13/16\" (76.4 x 50.4 cm)",
+            "Credit": "Gift of the Royal Society for the Prevention of Accidents, England",
+            "Object number": "113.1945",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/3037"
+    },
+    {
+        "Artist": "Pat Keely",
+        "Title": "Sepsis - Get First Aid",
+        "Year": "1943",
+        "ObjectID": "5120",
+        "Work": "https://www.moma.org/collection/works/5120",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "29 15/16 x 19 13/16\" (76 x 50.4 cm)",
+            "Credit": "Gift of the Royal Society for the Prevention of Accidents, England",
+            "Object number": "114.1945",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/3037"
+    },
+    {
+        "Artist": "Georgy Khomzor",
+        "Title": "I Will Take Revenge!",
+        "Year": "1943",
+        "ObjectID": "46237",
+        "Work": "https://www.moma.org/collection/works/46237",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwNzcyMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8fd4124e9ee8107b",
+        "Details": {
+            "Medium": "Gelatin silver print",
+            "Dimensions": "7 1/4 \u00d7 9 3/8\" (18.5 \u00d7 23.9 cm)",
+            "Credit": "Gift of Pierre N. Leval",
+            "Object number": "97.1999",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/8322"
+    },
+    {
+        "Artist": "Henry Koerner",
+        "Title": "Save Waste Fats for Explosives",
+        "Year": "1943",
+        "ObjectID": "167525",
+        "Work": "https://www.moma.org/collection/works/167525",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3MjMwNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=62451cd592098633",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "28 x 20\" (71.1 x 50.8 cm)",
+            "Publisher": "Office of War Information",
+            "Printer": "U.S. Government Printing Office, Washington, D.C.",
+            "Credit": "Architecture & Design Study Center",
+            "Object number": "P1023",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/3187"
+    },
+    {
+        "Artist": "Benjamin Kopman",
+        "Title": "Untitled",
+        "Year": "c. 1935-43",
+        "ObjectID": "181628",
+        "Work": "https://www.moma.org/collection/works/181628",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ2ODU5NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ef546b84b3e4c042",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition (irreg.): 12 5/8 \u00d7 10 3/8\" (32 \u00d7 26.4 cm); sheet: 20 1/8 \u00d7 13 3/16\" (51.1 \u00d7 33.5 cm)",
+            "Publisher": "Works Progress Administration (WPA), Federal Art Project, New York",
+            "Printer": "Works Progress Administration (WPA), Federal Art Project, New York",
+            "Edition": "probably fewer than 25",
+            "Credit": "Extended loan from the United States WPA Art Program. Fine Arts Collection, Public Buildings Service, General Services Administration",
+            "Object number": "EL1957.1174",
+            "Associated work": "Works Progress Administration (WPA), Federal Art Project, Graphic Arts Division, New York",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3216"
+    },
+    {
+        "Artist": "Benjamin Kopman",
+        "Title": "Untitled (Woman in Evening Clothes)",
+        "Year": "c. 1935-43",
+        "ObjectID": "181630",
+        "Work": "https://www.moma.org/collection/works/181630",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ2ODU5OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d5a3911d7e7dd9f7",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition: 15 1/2 \u00d7 12 3/16\" (39.3 \u00d7 31 cm); sheet: 20 1/16 \u00d7 14 5/8\" (51 \u00d7 37.1 cm)",
+            "Publisher": "Works Progress Administration (WPA), Federal Art Project, New York",
+            "Printer": "Works Progress Administration (WPA), Federal Art Project, New York",
+            "Edition": "probably fewer than 25",
+            "Credit": "Extended loan from the United States WPA Art Program. Fine Arts Collection, Public Buildings Service, General Services Administration",
+            "Object number": "EL1957.1176",
+            "Associated work": "Works Progress Administration (WPA), Federal Art Project, Graphic Arts Division, New York",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3216"
+    },
+    {
+        "Artist": "Chet La More",
+        "Title": "Miner",
+        "Year": "c. 1935-43",
+        "ObjectID": "181426",
+        "Work": "https://www.moma.org/collection/works/181426",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ2ODY3NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9584e51ffc58f65f",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition: 9 9/16 \u00d7 12 11/16\" (24.3 \u00d7 32.3 cm); sheet: 11 9/16 \u00d7 16\" (29.3 \u00d7 40.6 cm)",
+            "Publisher": "Works Progress Administration (WPA), Federal Art Project, New York",
+            "Printer": "Works Progress Administration (WPA), Federal Art Project, New York",
+            "Edition": "probably fewer than 25",
+            "Credit": "Extended loan from the United States WPA Art Program. Fine Arts Collection, Public Buildings Service, General Services Administration",
+            "Object number": "EL1957.974",
+            "Associated work": "Works Progress Administration (WPA), Federal Art Project, Graphic Arts Division, New York",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3326"
+    },
+    {
+        "Artist": "Chet La More",
+        "Title": "Construction",
+        "Year": "c. 1935-43",
+        "ObjectID": "181504",
+        "Work": "https://www.moma.org/collection/works/181504",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ4NDk5OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1b90325fa0641f2e",
+        "Details": {
+            "Medium": "Woodcut",
+            "Dimensions": "composition: 10 13/16 \u00d7 15 15/16\" (27.5 \u00d7 40.5 cm); sheet: 14 3/16 \u00d7 19 3/8\" (36 \u00d7 49.2 cm)",
+            "Publisher": "Works Progress Administration (WPA), Federal Art Project, New York",
+            "Printer": "Works Progress Administration (WPA), Federal Art Project, New York",
+            "Edition": "probably fewer than 25",
+            "Credit": "Extended loan from the United States WPA Art Program. Fine Arts Collection, Public Buildings Service, General Services Administration",
+            "Object number": "EL1957.1051",
+            "Associated work": "Works Progress Administration (WPA), Federal Art Project, Graphic Arts Division, New York",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3326"
+    },
+    {
+        "Artist": "Wifredo Lam",
+        "Title": "The Jungle (La Jungla)",
+        "Year": "1943",
+        "ObjectID": "34666",
+        "Work": "https://www.moma.org/collection/works/34666",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzMDQ5NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=21389a32afb4564c",
+        "Details": {
+            "Medium": "Gouache on paper on canvas",
+            "Dimensions": "94 1/4 x 90 1/2\" (239.4 x 229.9 cm)",
+            "Credit": "Inter-American Fund",
+            "Object number": "140.1945",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3349"
+    },
+    {
+        "Artist": "Dorothea Lange",
+        "Title": "Clouds, Utah",
+        "Year": "c. 1938",
+        "ObjectID": "54228",
+        "Work": "https://www.moma.org/collection/works/54228",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzNzU5OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=10f1fb43b61cb821",
+        "Details": {
+            "Medium": "Gelatin silver print, printed 1965",
+            "Dimensions": "15 13/16 \u00d7 13 7/8\" (40.2 \u00d7 35.2 cm)",
+            "Credit": "Purchase",
+            "Object number": "486.1995",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/3373"
+    },
+    {
+        "Artist": "Dorothea Lange",
+        "Title": "Pledge to the Flag, San Francisco",
+        "Year": "1943",
+        "ObjectID": "54483",
+        "Work": "https://www.moma.org/collection/works/54483",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwOTAyMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=bd15c0fe68783b2a",
+        "Details": {
+            "Medium": "Gelatin silver print, printed 1965",
+            "Dimensions": "12 3/4 \u00d7 5 11/16\" (32.4 \u00d7 14.4 cm)",
+            "Credit": "Purchase",
+            "Object number": "504.1995",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/3373"
+    },
+    {
+        "Artist": "Jacob Lawrence",
+        "Title": "A Family",
+        "Year": "1943",
+        "ObjectID": "37787",
+        "Work": "https://www.moma.org/collection/works/37787",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExMDIyMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=dc3e8de6044648e9",
+        "Details": {
+            "Medium": "Gouache, ink, and pencil on paper",
+            "Dimensions": "22 5/8 x 15 5/8\" (57.4 x 39.6 cm)",
+            "Credit": "Gift of Mrs. Maurice Blin",
+            "Object number": "684.1971",
+            "Copyright": "\u00a9 2023 Jacob Lawrence / Artists Rights Society (ARS), New York",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3418"
+    },
+    {
+        "Artist": "Joseph LeBoit",
+        "Title": "Refugees",
+        "Year": "c. 1935-43",
+        "ObjectID": "181406",
+        "Work": "https://www.moma.org/collection/works/181406",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ3MDUxMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2205d06d3e2f2844",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition: 8 7/8 \u00d7 11 13/16\" (22.6 \u00d7 30 cm); sheet: 10 11/16 \u00d7 15 7/8\" (27.2 \u00d7 40.3 cm)",
+            "Publisher": "Works Progress Administration (WPA), Federal Art Project, New York",
+            "Printer": "Works Progress Administration (WPA), Federal Art Project, New York",
+            "Edition": "probably fewer than 25",
+            "Credit": "Extended loan from the United States WPA Art Program. Fine Arts Collection, Public Buildings Service, General Services Administration",
+            "Object number": "EL1957.954",
+            "Associated work": "Works Progress Administration (WPA), Federal Art Project, Graphic Arts Division, New York",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/45831"
+    },
+    {
+        "Artist": "Joseph LeBoit",
+        "Title": "The Catch",
+        "Year": "c. 1935-43",
+        "ObjectID": "181516",
+        "Work": "https://www.moma.org/collection/works/181516",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ4NTAwNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1bca2021cecfc137",
+        "Details": {
+            "Medium": "Woodcut",
+            "Dimensions": "composition: 16 \u00d7 11 7/8\" (40.7 \u00d7 30.1 cm); sheet: 19 1/2 \u00d7 16 1/4\" (49.5 \u00d7 41.2 cm)",
+            "Publisher": "Works Progress Administration (WPA), Federal Art Project, New York",
+            "Printer": "Works Progress Administration (WPA), Federal Art Project, New York",
+            "Edition": "probably fewer than 25",
+            "Credit": "Extended loan from the United States WPA Art Program. Fine Arts Collection, Public Buildings Service, General Services Administration",
+            "Object number": "EL1957.1063",
+            "Associated work": "Works Progress Administration (WPA), Federal Art Project, Graphic Arts Division, New York",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/45831"
+    },
+    {
+        "Artist": "Joseph LeBoit",
+        "Title": "Woman with Hen",
+        "Year": "c. 1935-43",
+        "ObjectID": "181517",
+        "Work": "https://www.moma.org/collection/works/181517",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ4NTAwOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ceb67433288ddd18",
+        "Details": {
+            "Medium": "Woodcut",
+            "Dimensions": "composition: 19 13/16 \u00d7 15 11/16\" (50.3 \u00d7 39.9 cm); sheet (irreg.): 23 15/16 \u00d7 18\" (60.8 \u00d7 45.7 cm)",
+            "Publisher": "Works Progress Administration (WPA), Federal Art Project, New York",
+            "Printer": "Works Progress Administration (WPA), Federal Art Project, New York",
+            "Edition": "probably fewer than 25",
+            "Credit": "Extended loan from the United States WPA Art Program. Fine Arts Collection, Public Buildings Service, General Services Administration",
+            "Object number": "EL1957.1064",
+            "Associated work": "Works Progress Administration (WPA), Federal Art Project, Graphic Arts Division, New York",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/45831"
+    },
+    {
+        "Artist": "Dudley Lee",
+        "Title": "Aspirin - 65 X",
+        "Year": "January 1943",
+        "ObjectID": "45899",
+        "Work": "https://www.moma.org/collection/works/45899",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMzgwNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=20aabcfb0fd87ace",
+        "Details": {
+            "Medium": "Dye transfer print",
+            "Dimensions": "8 7/8 \u00d7 11 3/4\" (22.5 \u00d7 29.8 cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "84.1943",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/3454"
+    },
+    {
+        "Artist": "Dudley Lee",
+        "Title": "Hypo - 100 X",
+        "Year": "January 1943",
+        "ObjectID": "45922",
+        "Work": "https://www.moma.org/collection/works/45922",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMzgwOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ecc0c3b3d7503111",
+        "Details": {
+            "Medium": "Dye transfer print",
+            "Dimensions": "8 7/8 \u00d7 11 3/4\" (22.5 \u00d7 29.8 cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "85.1943",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/3454"
+    },
+    {
+        "Artist": "Theyre Lee-Elliott",
+        "Title": "Grit In The Eye",
+        "Year": "1943",
+        "ObjectID": "5097",
+        "Work": "https://www.moma.org/collection/works/5097",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "29 3/4 x 19 5/16\" (75.5 x 49 cm)",
+            "Credit": "Gift of the Royal Society for the Prevention of Accidents, England",
+            "Object number": "107.1945",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/3458"
+    },
+    {
+        "Artist": "Herbert Leupin",
+        "Title": "Schweizer Mustermesse Basel",
+        "Year": "1943",
+        "ObjectID": "6680",
+        "Work": "https://www.moma.org/collection/works/6680",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyNzY1OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=47fb2624191335f9",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "50 x 35 1/2\" (127 x 90.2 cm)",
+            "Printer": "Wolfsberg-Druck, Zurich",
+            "Credit": "Gift of Leonard A. Lauder",
+            "Object number": "419.1994",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/3503"
+    },
+    {
+        "Artist": "Herbert Leupin",
+        "Title": "Poster for the PKZ store, Zurich",
+        "Year": "c.1938",
+        "ObjectID": "427824",
+        "Work": "https://www.moma.org/collection/works/427824",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzNTk0MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c5cb488e86f7b1ab",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "approx: 56 \u00d7 40\" (142.2 \u00d7 101.6 cm)",
+            "Credit": "Gift of Arthur Cohen",
+            "Object number": "500.2021",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/3503"
+    },
+    {
+        "Artist": "Jennie Lewis",
+        "Title": "San Francisco Scene; No. 1",
+        "Year": "c. 1935-43",
+        "ObjectID": "181324",
+        "Work": "https://www.moma.org/collection/works/181324",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ4OTY5NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=71dea0726dde0488",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition (irreg.): 9 3/4 \u00d7 12 13/16\" (24.8 \u00d7 32.5 cm); sheet: 12 3/8 \u00d7 17 1/2\" (31.5 \u00d7 44.5 cm)",
+            "Publisher": "Works Progress Administration (WPA), Federal Art Project, San Francisco",
+            "Printer": "Works Progress Administration (WPA), Federal Art Project, San Francisco",
+            "Edition": "probably fewer than 25",
+            "Credit": "Extended loan from the United States WPA Art Program. Fine Arts Collection, Public Buildings Service, General Services Administration",
+            "Object number": "EL1957.872",
+            "Associated work": "Works Progress Administration (WPA), Federal Art Project, Graphic Arts Division, San Francisco",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/45813"
+    },
+    {
+        "Artist": "Jennie Lewis",
+        "Title": "Houses Near the Panhandle District; San Francisco California",
+        "Year": "c. 1935-43",
+        "ObjectID": "181325",
+        "Work": "https://www.moma.org/collection/works/181325",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ4OTY5NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=327d42a10ab69529",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition (irreg.): 9 1/16 \u00d7 17 7/16\" (23 \u00d7 44.3 cm); sheet: 12 5/8 \u00d7 19 1/2\" (32.1 \u00d7 49.5 cm)",
+            "Publisher": "Works Progress Administration (WPA), Federal Art Project, San Francisco",
+            "Printer": "Works Progress Administration (WPA), Federal Art Project, San Francisco",
+            "Edition": "probably fewer than 25",
+            "Credit": "Extended loan from the United States WPA Art Program. Fine Arts Collection, Public Buildings Service, General Services Administration",
+            "Object number": "EL1957.873",
+            "Associated work": "Works Progress Administration (WPA), Federal Art Project, Graphic Arts Division, San Francisco",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/45813"
+    },
+    {
+        "Artist": "Jennie Lewis",
+        "Title": "Richmond District",
+        "Year": "c. 1935-43",
+        "ObjectID": "181326",
+        "Work": "https://www.moma.org/collection/works/181326",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ4OTY5NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c2a8910116956616",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition (irreg.): 10 1/16 \u00d7 12 1/16\" (25.5 \u00d7 30.6 cm); sheet: 12 5/8 \u00d7 18\" (32 \u00d7 45.7 cm)",
+            "Publisher": "Works Progress Administration (WPA), Federal Art Project, San Francisco",
+            "Printer": "Works Progress Administration (WPA), Federal Art Project, San Francisco",
+            "Edition": "probably fewer than 25",
+            "Credit": "Extended loan from the United States WPA Art Program. Fine Arts Collection, Public Buildings Service, General Services Administration",
+            "Object number": "EL1957.874",
+            "Associated work": "Works Progress Administration (WPA), Federal Art Project, Graphic Arts Division, San Francisco",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/45813"
+    },
+    {
+        "Artist": "Jennie Lewis",
+        "Title": "Houses Near Beach; San Francisco California",
+        "Year": "c. 1935-43",
+        "ObjectID": "181339",
+        "Work": "https://www.moma.org/collection/works/181339",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ4OTY5OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f97f91bba499cdf3",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition (irreg.): 10 1/4 \u00d7 14 7/8\" (26 \u00d7 37.8 cm); sheet: 12 1/2 \u00d7 17 1/8\" (31.7 \u00d7 43.5 cm)",
+            "Publisher": "Works Progress Administration (WPA), Federal Art Project, San Francisco",
+            "Printer": "Works Progress Administration (WPA), Federal Art Project, San Francisco",
+            "Edition": "probably fewer than 25",
+            "Credit": "Extended loan from the United States WPA Art Program. Fine Arts Collection, Public Buildings Service, General Services Administration",
+            "Object number": "EL1957.887",
+            "Associated work": "Works Progress Administration (WPA), Federal Art Project, Graphic Arts Division, San Francisco",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/45813"
+    },
+    {
+        "Artist": "Jennie Lewis",
+        "Title": "Street Scene Near G.G. Park; San Francisco California",
+        "Year": "c. 1935-43",
+        "ObjectID": "181341",
+        "Work": "https://www.moma.org/collection/works/181341",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ4OTY5OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b78b0347d18dd8a0",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition (irreg.): 11 7/16 \u00d7 15 9/16\" (29 \u00d7 39.6 cm); sheet: 14 1/2 \u00d7 18\" (36.8 \u00d7 45.7 cm)",
+            "Publisher": "Works Progress Administration (WPA), Federal Art Project, San Francisco",
+            "Printer": "Works Progress Administration (WPA), Federal Art Project, San Francisco",
+            "Edition": "probably fewer than 25",
+            "Credit": "Extended loan from the United States WPA Art Program. Fine Arts Collection, Public Buildings Service, General Services Administration",
+            "Object number": "EL1957.889",
+            "Associated work": "Works Progress Administration (WPA), Federal Art Project, Graphic Arts Division, San Francisco",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/45813"
+    },
+    {
+        "Artist": "Jennie Lewis",
+        "Title": "Scene on Taylor St. San Francisco",
+        "Year": "c. 1935-43",
+        "ObjectID": "181436",
+        "Work": "https://www.moma.org/collection/works/181436",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ4OTcwMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=202c16cbe768be49",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition (irreg.): 11 1/4 \u00d7 15 5/16\" (28.5 \u00d7 38.9 cm); sheet: 14 3/4 \u00d7 17 3/8\" (37.5 \u00d7 44.1 cm)",
+            "Publisher": "Works Progress Administration (WPA), Federal Art Project, San Francisco",
+            "Printer": "Works Progress Administration (WPA), Federal Art Project, San Francisco",
+            "Edition": "probably fewer than 25",
+            "Credit": "Extended loan from the United States WPA Art Program. Fine Arts Collection, Public Buildings Service, General Services Administration",
+            "Object number": "EL1957.984",
+            "Associated work": "Works Progress Administration (WPA), Federal Art Project, Graphic Arts Division, San Francisco",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/45813"
+    },
+    {
+        "Artist": "Jennie Lewis",
+        "Title": "Telegraph Hill, San Francisco California",
+        "Year": "c. 1935-43",
+        "ObjectID": "181438",
+        "Work": "https://www.moma.org/collection/works/181438",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ4OTcwMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=98f6628da0e314fd",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition (irreg.): 10 7/16 \u00d7 15 1/4\" (26.5 \u00d7 38.7 cm); sheet: 12 1/2 \u00d7 17 7/8\" (31.8 \u00d7 45.4 cm)",
+            "Publisher": "Works Progress Administration (WPA), Federal Art Project, San Francisco",
+            "Printer": "Works Progress Administration (WPA), Federal Art Project, San Francisco",
+            "Edition": "probably fewer than 25",
+            "Credit": "Extended loan from the United States WPA Art Program. Fine Arts Collection, Public Buildings Service, General Services Administration",
+            "Object number": "EL1957.986",
+            "Associated work": "Works Progress Administration (WPA), Federal Art Project, Graphic Arts Division, San Francisco",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/45813"
     }
 ]

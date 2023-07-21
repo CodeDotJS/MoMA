@@ -1,5 +1,73 @@
 [
     {
+        "Artist": "Sean Canty",
+        "Title": "Untitled #1, from the Drawing Doubles series",
+        "Year": "2021",
+        "ObjectID": "427664",
+        "Work": "https://www.moma.org/collection/works/427664",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMzc0MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c724625e2ae1132f",
+        "Details": {
+            "Medium": "Serigraph",
+            "Dimensions": "30 \u00d7 30\" (76.2 \u00d7 76.2 cm)",
+            "Credit": "Gift of Elise Jaffe + Jeffrey Brown",
+            "Object number": "723.2022",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/134088"
+    },
+    {
+        "Artist": "Sean Canty",
+        "Title": "Untitled #3, from the Drawing Doubles series",
+        "Year": "2021",
+        "ObjectID": "427665",
+        "Work": "https://www.moma.org/collection/works/427665",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMzc0MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5354fa304398117d",
+        "Details": {
+            "Medium": "Serigraph",
+            "Dimensions": "30 \u00d7 30\" (76.2 \u00d7 76.2 cm)",
+            "Credit": "Gift of Elise Jaffe + Jeffrey Brown",
+            "Object number": "725.2022",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/134088"
+    },
+    {
+        "Artist": "Vija Celmins",
+        "Title": "Fragment from the portfolio The Met 150",
+        "Year": "2021",
+        "ObjectID": "430812",
+        "Work": "https://www.moma.org/collection/works/430812",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMDY4MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=915abec164f57809",
+        "Details": {
+            "Medium": "Wood engraving on handmade Gampi on paper",
+            "Dimensions": "composition: 5 7/8 \u00d7 7 13/16\" (15 \u00d7 19.9 cm); sheet: 14 7/8 \u00d7 14 15/16\" (37.8 \u00d7 37.9 cm)",
+            "Publisher": "The Metropolitan Museum of Art, Sharon Coplan Hurowitz",
+            "Printer": "The Grenfell Press, New York, Leslie Miller",
+            "Edition": "60",
+            "Credit": "Gift of Jack Shear",
+            "Object number": "386.2022.2",
+            "Portfolio": "\u201cThe Met 150\u201d portfolio",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/1048"
+    },
+    {
+        "Artist": "Kenturah Davis",
+        "Title": "Contending with Contingency I",
+        "Year": "2021",
+        "ObjectID": "427454",
+        "Work": "https://www.moma.org/collection/works/427454",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxMzgwMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=343a3f664f7e7ce7",
+        "Details": {
+            "Medium": "Carbon pencil, pencil, and blind debossing on nine sheets of paper",
+            "Dimensions": "132 \u00d7 81\" (335.3 \u00d7 205.7 cm)",
+            "Credit": "Gift of Pamela and David Hornik",
+            "Object number": "353.2021.a-i",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/134027"
+    },
+    {
         "Artist": "Vaginal Davis",
         "Title": "Oshun African Goddess of Love and Sweet Water",
         "Year": "2021",
@@ -362,9 +430,42 @@
             "Edition": "60",
             "Credit": "Gift of Jack Shear",
             "Object number": "386.2022.3",
+            "Portfolio": "\u201cThe Met 150\u201d portfolio",
             "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/2923"
+    },
+    {
+        "Artist": "Hella Jongerius",
+        "Title": "Matrix Module",
+        "Year": "2021",
+        "ObjectID": "437135",
+        "Work": "https://www.moma.org/collection/works/437135",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Paper, yarn, thread, and metal frames",
+            "Dimensions": "31 1/2 \u00d7 19 11/16 \u00d7 19 11/16\" (80 \u00d7 50 \u00d7 50 cm)",
+            "Credit": "Gift of Jongeriuslab B.V.",
+            "Object number": "754.2022",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7584"
+    },
+    {
+        "Artist": "Hella Jongerius",
+        "Title": "Unfoldable Cubes",
+        "Year": "2021",
+        "ObjectID": "437136",
+        "Work": "https://www.moma.org/collection/works/437136",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Yarn, paper, foil, and solar strips",
+            "Dimensions": "19 11/16 \u00d7 19 11/16 \u00d7 19 11/16\" (50 \u00d7 50 \u00d7 50 cm)",
+            "Credit": "Gift of Jongeriuslab B.V.",
+            "Object number": "755.2022.a-c",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7584"
     },
     {
         "Artist": "Wyatt Kahn",
@@ -420,6 +521,22 @@
         "Profile": "https://www.moma.org/artists/38858"
     },
     {
+        "Artist": "Julian Lethbridge",
+        "Title": "Carpenter's Square",
+        "Year": "2021",
+        "ObjectID": "429233",
+        "Work": "https://www.moma.org/collection/works/429233",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Oil and oil stick on canvas",
+            "Dimensions": "72 \u00d7 60\" (182.9 \u00d7 152.4 cm)",
+            "Credit": "Gift of Agnes Gund in memory of Anne Bass",
+            "Object number": "531.2021",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/3500"
+    },
+    {
         "Artist": "Glenn Ligon",
         "Title": "Extract",
         "Year": "2021",
@@ -454,6 +571,7 @@
             "Edition": "60",
             "Credit": "Gift of Jack Shear",
             "Object number": "386.2022.4",
+            "Portfolio": "\u201cThe Met 150\u201d portfolio",
             "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/8285"
@@ -473,9 +591,29 @@
             "Edition": "60",
             "Credit": "Gift of Jack Shear",
             "Object number": "386.2022.5",
+            "Portfolio": "\u201cThe Met 150\u201d portfolio",
             "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/25414"
+    },
+    {
+        "Artist": "Sam Moyer",
+        "Title": "MOON SUN",
+        "Year": "2021",
+        "ObjectID": "444707",
+        "Work": "https://www.moma.org/collection/works/444707",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition: 39 1/2 \u00d7 30\" (100.3 \u00d7 76.2 cm); sheet: 49 1/2 \u00d7 37 3/4\" (125.7 \u00d7 95.9 cm)",
+            "Publisher": "Universal Limited Art Editions, Bay Shore, NY",
+            "Printer": "Universal Limited Art Editions, Bay Shore, NY",
+            "Edition": "22",
+            "Credit": "Acquired through the generosity of Mary M. and Sash A. Spencer",
+            "Object number": "37.2023",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/72494"
     },
     {
         "Artist": "Sandra Mujinga",
@@ -512,6 +650,7 @@
             "Edition": "60",
             "Credit": "Gift of Jack Shear",
             "Object number": "386.2022.6",
+            "Portfolio": "\u201cThe Met 150\u201d portfolio",
             "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/28097"
@@ -531,6 +670,54 @@
         "Profile": "https://www.moma.org/artists/32334"
     },
     {
+        "Artist": "Adhi Nugraha",
+        "Title": "Cow Dung Lamp 1",
+        "Year": "2021",
+        "ObjectID": "442469",
+        "Work": "https://www.moma.org/collection/works/442469",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Processed cow dung, PVA glue, and electronics",
+            "Dimensions": "16 9/16 \u00d7 14 3/16 \u00d7 5 1/8\" (42 \u00d7 36 \u00d7 13 cm)",
+            "Credit": "Committee on Architecture and Design Funds",
+            "Object number": "102.2023",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/135439"
+    },
+    {
+        "Artist": "Adhi Nugraha",
+        "Title": "Cow Dung Speaker",
+        "Year": "2021",
+        "ObjectID": "442507",
+        "Work": "https://www.moma.org/collection/works/442507",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Processed cow dung, PVA glue, and electronics",
+            "Dimensions": "6 3/4 \u00d7 5 \u00d7 5\" (17.1 \u00d7 12.7 \u00d7 12.7 cm)",
+            "Credit": "Committee on Architecture and Design Funds",
+            "Object number": "104.2023",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/135439"
+    },
+    {
+        "Artist": "Adhi Nugraha",
+        "Title": "Cow Dung Lamp 2",
+        "Year": "2021",
+        "ObjectID": "442645",
+        "Work": "https://www.moma.org/collection/works/442645",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Processed cow dung, PVA glue, and electronics",
+            "Dimensions": "18 1/2 \u00d7 14 3/16 \u00d7 5 1/8\" (47 \u00d7 36 \u00d7 13 cm)",
+            "Credit": "Committee on Architecture and Design Funds",
+            "Object number": "103.2023",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/135439"
+    },
+    {
         "Artist": "Gabriel Orozco",
         "Title": "Simon's Lines from the portfolio The Met 150",
         "Year": "2020, published 2021",
@@ -545,6 +732,7 @@
             "Edition": "60",
             "Credit": "Gift of Jack Shear",
             "Object number": "386.2022.7",
+            "Portfolio": "\u201cThe Met 150\u201d portfolio",
             "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/7461"
@@ -628,194 +816,5 @@
             "Department": "Drawings and Prints"
         },
         "Profile": "https://www.moma.org/artists/134790"
-    },
-    {
-        "Artist": "Gala Porras-Kim",
-        "Title": "44 Offerings for the Rain at the Peabody Museum",
-        "Year": "2021",
-        "ObjectID": "441070",
-        "Work": "https://www.moma.org/collection/works/441070",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzNzc4MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=42d846e32beb9fb4",
-        "Details": {
-            "Medium": "Pencil on paper",
-            "Dimensions": "sheet: 46 7/8 \u00d7 35 7/16\" (119 \u00d7 90 cm)",
-            "Credit": "Gift of Carolina and Marcelo Boffi",
-            "Object number": "802.2022",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/134790"
-    },
-    {
-        "Artist": "Zak Prekop",
-        "Title": "New Drone",
-        "Year": "2021",
-        "ObjectID": "425484",
-        "Work": "https://www.moma.org/collection/works/425484",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzNDkxOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ee30743ac819d532",
-        "Details": {
-            "Medium": "Oil on canvas",
-            "Dimensions": "68 \u00d7 54\" (172.7 \u00d7 137.2 cm)",
-            "Credit": "Fund for the Twenty-First Century",
-            "Object number": "343.2021",
-            "Copyright": "\u00a9 Zak Prekop",
-            "Department": "Painting and Sculpture"
-        },
-        "Profile": "https://www.moma.org/artists/72820"
-    },
-    {
-        "Artist": "Andy Robert",
-        "Title": "The Original",
-        "Year": "2021",
-        "ObjectID": "431485",
-        "Work": "https://www.moma.org/collection/works/431485",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMjgyNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4a97baa661241400",
-        "Details": {
-            "Medium": "Mixed media on pieced colored paper",
-            "Dimensions": "56 \u00d7 37 1/2\" (142.2 \u00d7 95.3 cm)",
-            "Credit": "Fund for the Twenty-First Century",
-            "Object number": "382.2022",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/133738"
-    },
-    {
-        "Artist": "Edward Ruscha",
-        "Title": "Boom Town from the portfolio The Met 150",
-        "Year": "2020, published 2021",
-        "ObjectID": "430818",
-        "Work": "https://www.moma.org/collection/works/430818",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUyMTUyMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a2ee7cc526a0d98f",
-        "Details": {
-            "Medium": "Lithograph with embossing",
-            "Dimensions": "composition: 11 1/8 \u00d7 11 9/16\" (28.3 \u00d7 29.4 cm); sheet: 15 \u00d7 15\" (38.1 \u00d7 38.1 cm)",
-            "Publisher": "The Metropolitan Museum of Art, Sharon Coplan Hurowitz",
-            "Printer": "Gemini G.E.L., Los Angeles",
-            "Edition": "60",
-            "Credit": "Gift of Jack Shear",
-            "Object number": "386.2022.8",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/5086"
-    },
-    {
-        "Artist": "Zorawar Sidhu, Rob Swainston",
-        "Title": "January 6 from the series Doomscrolling",
-        "Year": "2020-21",
-        "ObjectID": "431039",
-        "Work": "https://www.moma.org/collection/works/431039",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMzk2OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0fceee4d8d5ce092",
-        "Details": {
-            "Medium": "Woodcut",
-            "Dimensions": "composition: 48 7/16 \u00d7 40 3/16\" (123 \u00d7 102 cm); sheet: 57 1/2 \u00d7 45 1/4\" (146.1 \u00d7 114.9 cm)",
-            "Publisher": "Prints of Darkness, Long Island City, NY",
-            "Printer": "Zorawar Sidhu, Long Island City, NY, Rob Swainston, Long Island City, NY",
-            "Edition": "5",
-            "Credit": "Acquired through the generosity of Martin and Rebecca Eisenberg",
-            "Object number": "715.2022",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/134546"
-    },
-    {
-        "Artist": "Zorawar Sidhu, Rob Swainston",
-        "Title": "May 27 from the series Doomscrolling",
-        "Year": "2020-21",
-        "ObjectID": "431040",
-        "Work": "https://www.moma.org/collection/works/431040",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMzk1OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=8ba34956f79a7212",
-        "Details": {
-            "Medium": "Woodcut",
-            "Dimensions": "composition: 48 7/16 \u00d7 40 3/16\" (123 \u00d7 102 cm); sheet: 57 1/2 \u00d7 45 1/4\" (146.1 \u00d7 114.9 cm)",
-            "Publisher": "Prints of Darkness, Long Island City, NY",
-            "Printer": "Zorawar Sidhu, Long Island City, NY, Rob Swainston, Long Island City, NY",
-            "Edition": "5",
-            "Credit": "Acquired through the generosity of Nelson Blitz and Catherine Woodard in memory of Brooke Alexander",
-            "Object number": "717.2022",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/134546"
-    },
-    {
-        "Artist": "Zorawar Sidhu, Rob Swainston",
-        "Title": "May 24 from the series Doomscrolling",
-        "Year": "2020-21",
-        "ObjectID": "431041",
-        "Work": "https://www.moma.org/collection/works/431041",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMzk1NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2e2b3e6d33e7bfc6",
-        "Details": {
-            "Medium": "Woodcut",
-            "Dimensions": "composition: 48 7/16 \u00d7 40 3/16\" (123 \u00d7 102 cm); sheet: 57 1/2 \u00d7 45 1/4\" (146.1 \u00d7 114.9 cm)",
-            "Publisher": "Prints of Darkness, Long Island City, NY",
-            "Printer": "Zorawar Sidhu, Long Island City, NY, Rob Swainston, Long Island City, NY",
-            "Edition": "5",
-            "Credit": "Acquired through the generosity of Nelson Blitz and Catherine Woodard in memory of Brooke Alexander",
-            "Object number": "716.2022",
-            "Department": "Drawings and Prints"
-        },
-        "Profile": "https://www.moma.org/artists/134546"
-    },
-    {
-        "Artist": "Randhir Singh",
-        "Title": "Chittagong University, Chittagong, Bangladesh",
-        "Year": "2020-2021",
-        "ObjectID": "421567",
-        "Work": "https://www.moma.org/collection/works/421567",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ5NTY2MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ed2711b221087bda",
-        "Details": {
-            "Architectural firm": "Muzharul Islam",
-            "Medium": "Digital photograph",
-            "Credit": "Committee on Architecture and Design Funds",
-            "Object number": "88.2023",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/133347"
-    },
-    {
-        "Artist": "Randhir Singh",
-        "Title": "Indian Institute of Management (IIM), Bangalore, India",
-        "Year": "2020-2021",
-        "ObjectID": "421572",
-        "Work": "https://www.moma.org/collection/works/421572",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ5NTY2OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=853bd3e9a3c7fc4f",
-        "Details": {
-            "Architectural firm": "Balkrishna Doshi",
-            "Medium": "Digital photograph",
-            "Credit": "Committee on Architecture and Design Funds",
-            "Object number": "82.2023",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/133347"
-    },
-    {
-        "Artist": "Randhir Singh",
-        "Title": "India International Centre (IIC), New Delhi, India",
-        "Year": "2020-2021",
-        "ObjectID": "421575",
-        "Work": "https://www.moma.org/collection/works/421575",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxMjU5MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c198328e831c4ea2",
-        "Details": {
-            "Architectural firm": "Joseph Allen Stein",
-            "Medium": "Digital photograph",
-            "Credit": "Committee on Architecture and Design Funds",
-            "Object number": "84.2023",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/133347"
-    },
-    {
-        "Artist": "Randhir Singh",
-        "Title": "Kanchanjunga Apartments, Bombay, India",
-        "Year": "2020-2021",
-        "ObjectID": "421695",
-        "Work": "https://www.moma.org/collection/works/421695",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxMjUyMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=01adeeda6ef5735f",
-        "Details": {
-            "Architectural firm": "Charles Correa",
-            "Medium": "Digital photograph",
-            "Credit": "Committee on Architecture and Design Funds",
-            "Object number": "76.2023",
-            "Department": "Architecture and Design"
-        },
-        "Profile": "https://www.moma.org/artists/133347"
     }
 ]

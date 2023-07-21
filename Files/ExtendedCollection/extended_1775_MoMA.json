@@ -1,785 +1,858 @@
 [
     {
-        "Artist": "Hugo van Werden",
-        "Title": "Walz-Maschinen",
-        "Year": "1872",
-        "ObjectID": "176891",
-        "Work": "https://www.moma.org/collection/works/176891",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzODQ0MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=27054703336108bd",
+        "Artist": "Gerhard Marcks",
+        "Title": "Ox Drivers (Ochsentreiber)",
+        "Year": "1921, printed 1922",
+        "ObjectID": "70164",
+        "Work": "https://www.moma.org/collection/works/70164",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyMjc0OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0076089f9bd4e5e4",
         "Details": {
-            "Medium": "Collotype",
-            "Dimensions": "24 7/8 \u00d7 18 5/8\" (63.2 \u00d7 47.3 cm)",
-            "Credit": "Gift of Heidi and Richard Rieger",
-            "Object number": "1086.2013.8",
-            "Portfolio": "Friedrich Krupp Cast Steel Works, Essen portfolio",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/44336"
-    },
-    {
-        "Artist": "Hugo van Werden",
-        "Title": "Krupp's 12 cm. Rohr in Oberdecklaffete mit Mittelpivot",
-        "Year": "1872",
-        "ObjectID": "176906",
-        "Work": "https://www.moma.org/collection/works/176906",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwNzkwMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=76158fb47a0c8bb5",
-        "Details": {
-            "Medium": "Collotype",
-            "Dimensions": "7 1/2 \u00d7 8 15/16\" (19 \u00d7 22.7 cm)",
-            "Credit": "Gift of Heidi and Richard Rieger",
-            "Object number": "1086.2013.23",
-            "Portfolio": "Friedrich Krupp Cast Steel Works, Essen portfolio",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/44336"
-    },
-    {
-        "Artist": "Hugo van Werden",
-        "Title": "Krupp's 15 cm. Rohr von 3,85 Mtr. Lange in Oberdecklaffete mit Mittelpivot",
-        "Year": "1872",
-        "ObjectID": "176907",
-        "Work": "https://www.moma.org/collection/works/176907",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwNzkwMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9a86d43b228086ff",
-        "Details": {
-            "Medium": "Collotype",
-            "Dimensions": "7 7/8 \u00d7 10 13/16\" (20 \u00d7 27.5 cm)",
-            "Credit": "Gift of Heidi and Richard Rieger",
-            "Object number": "1086.2013.24",
-            "Portfolio": "Friedrich Krupp Cast Steel Works, Essen portfolio",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/44336"
-    },
-    {
-        "Artist": "Hugo van Werden",
-        "Title": "Krupp's 21 cm. Rohr in fajrnajrer Oberdecklaffete fur Bug.",
-        "Year": "1872",
-        "ObjectID": "176908",
-        "Work": "https://www.moma.org/collection/works/176908",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMwNzkwMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2bf17aa8326d8142",
-        "Details": {
-            "Medium": "Collotype",
-            "Dimensions": "8 1/4 \u00d7 12 5/8\" (20.9 \u00d7 32.1 cm)",
-            "Credit": "Gift of Heidi and Richard Rieger",
-            "Object number": "1086.2013.25",
-            "Portfolio": "Friedrich Krupp Cast Steel Works, Essen portfolio",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/44336"
-    },
-    {
-        "Artist": "Mathew B. Brady (studio of)",
-        "Title": "Portrait of Robert Schenck",
-        "Year": "1871",
-        "ObjectID": "54300",
-        "Work": "https://www.moma.org/collection/works/54300",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMTY0MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=83fc2b9be17aba63",
-        "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "17 15/16 \u00d7 14 11/16\" (45.6 \u00d7 37.3 cm)",
-            "Credit": "Anonymous gift",
-            "Object number": "491.1965",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/734"
-    },
-    {
-        "Artist": "Julia Margaret Cameron",
-        "Title": "Portrait of Mr. Charles Hay Cameron",
-        "Year": "September 1871",
-        "ObjectID": "54947",
-        "Work": "https://www.moma.org/collection/works/54947",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ0MjcyNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5d0093193027bbfa",
-        "Details": {
-            "Medium": "Carbon print",
-            "Dimensions": "12 1/4 \u00d7 9 9/16\" (31.1 \u00d7 24.3 cm)",
-            "Credit": "Gift of Edward Steichen",
-            "Object number": "545.1960",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/932"
-    },
-    {
-        "Artist": "Johann Hahn",
-        "Title": "Im Schnepper-Graben",
-        "Year": "1871",
-        "ObjectID": "48309",
-        "Work": "https://www.moma.org/collection/works/48309",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1NzAxNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3474fca2979e73d8",
-        "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "7 5/16 \u00d7 9 5/16\" (18.5 \u00d7 23.7 cm)",
-            "Credit": "Gift of Celeste Bartos",
-            "Object number": "199.1975.11",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/2453"
-    },
-    {
-        "Artist": "Johann Hahn",
-        "Title": "Der Funfeckige Turm Mit Der Kaiserstallung Und Dem Lug Ins Land",
-        "Year": "1871",
-        "ObjectID": "48311",
-        "Work": "https://www.moma.org/collection/works/48311",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1NzAxOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5e5adb209bc872e6",
-        "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "7 5/16 \u00d7 9 5/16\" (18.5 \u00d7 23.7 cm)",
-            "Credit": "Gift of Celeste Bartos",
-            "Object number": "199.1975.13",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/2453"
-    },
-    {
-        "Artist": "Johann Hahn",
-        "Title": "Der Funfeckige Turm Mit Der Kaiserstallung Und Dem Lug Ins Land",
-        "Year": "1871",
-        "ObjectID": "48312",
-        "Work": "https://www.moma.org/collection/works/48312",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1NzAxOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7ada0e1294d9f784",
-        "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "7 1/4 \u00d7 9 5/16\" (18.5 \u00d7 23.7 cm)",
-            "Credit": "Gift of Celeste Bartos",
-            "Object number": "199.1975.14",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/2453"
-    },
-    {
-        "Artist": "Johann Hahn",
-        "Title": "Laufer Gate, Nuremberg",
-        "Year": "1871",
-        "ObjectID": "48316",
-        "Work": "https://www.moma.org/collection/works/48316",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1NzAyMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=43f0b39ba5d0dcab",
-        "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "7 5/16 \u00d7 9 5/16\" (18.5 \u00d7 23.7 cm)",
-            "Credit": "Gift of Celeste Bartos",
-            "Object number": "199.1975.18",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/2453"
-    },
-    {
-        "Artist": "Johann Hahn",
-        "Title": "Hallerthorlein",
-        "Year": "1871",
-        "ObjectID": "48318",
-        "Work": "https://www.moma.org/collection/works/48318",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1NzAwNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2ca97ec14171b882",
-        "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "7 5/16 \u00d7 9 5/16\" (18.5 \u00d7 23.7 cm)",
-            "Credit": "Gift of Celeste Bartos",
-            "Object number": "199.1975.2",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/2453"
-    },
-    {
-        "Artist": "Johann Hahn",
-        "Title": "Pegnitz River",
-        "Year": "1871",
-        "ObjectID": "48320",
-        "Work": "https://www.moma.org/collection/works/48320",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1NzAyNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=44c5df3702cb4464",
-        "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "7 5/16 \u00d7 9 5/16\" (18.5 \u00d7 23.7 cm)",
-            "Credit": "Gift of Celeste Bartos",
-            "Object number": "199.1975.21",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/2453"
-    },
-    {
-        "Artist": "Johann Hahn",
-        "Title": "Splittler Gate, Nuremberg",
-        "Year": "1871",
-        "ObjectID": "48325",
-        "Work": "https://www.moma.org/collection/works/48325",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1NzAzMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d03a83c0d334d737",
-        "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "7 5/16 \u00d7 9 5/16\" (18.5 \u00d7 23.7 cm)",
-            "Credit": "Gift of Celeste Bartos",
-            "Object number": "199.1975.26",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/2453"
-    },
-    {
-        "Artist": "Johann Hahn",
-        "Title": "Hinter der Mauer",
-        "Year": "1871",
-        "ObjectID": "48327",
-        "Work": "https://www.moma.org/collection/works/48327",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1NzAzMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0eb444dbbe072da8",
-        "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "7 5/16 \u00d7 9 5/16\" (18.5 \u00d7 23.7 cm)",
-            "Credit": "Gift of Celeste Bartos",
-            "Object number": "199.1975.28",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/2453"
-    },
-    {
-        "Artist": "Johann Hahn",
-        "Title": "Hangman Bridge, Nuremberg",
-        "Year": "1871",
-        "ObjectID": "48328",
-        "Work": "https://www.moma.org/collection/works/48328",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1NzAzNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cdb192cdaadeadaf",
-        "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "7 5/16 \u00d7 9 5/16\" (18.5 \u00d7 23.7 cm)",
-            "Credit": "Gift of Celeste Bartos",
-            "Object number": "199.1975.29",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/2453"
-    },
-    {
-        "Artist": "Johann Hahn",
-        "Title": "At the mouth of the Pegnitz River",
-        "Year": "1871",
-        "ObjectID": "48329",
-        "Work": "https://www.moma.org/collection/works/48329",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1NzAwOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=59d0f8d8847466a3",
-        "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "7 5/16 \u00d7 9 5/16\" (18.5 \u00d7 23.7 cm)",
-            "Credit": "Gift of Celeste Bartos",
-            "Object number": "199.1975.3",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/2453"
-    },
-    {
-        "Artist": "Johann Hahn",
-        "Title": "Blick den Stadtgraben Entlang Nach Dem Neuen-Tor",
-        "Year": "1871",
-        "ObjectID": "48330",
-        "Work": "https://www.moma.org/collection/works/48330",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1NzAwOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e9737ed4467d806c",
-        "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "7 5/16 \u00d7 9 5/16\" (18.5 \u00d7 23.7 cm)",
-            "Credit": "Gift of Celeste Bartos",
-            "Object number": "199.1975.4",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/2453"
-    },
-    {
-        "Artist": "Johann Hahn",
-        "Title": "Neuen Gate, Nuremberg",
-        "Year": "1871",
-        "ObjectID": "48331",
-        "Work": "https://www.moma.org/collection/works/48331",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1NzAxMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=215aa5612d9ee859",
-        "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "7 5/16 \u00d7 9 5/16\" (18.5 \u00d7 23.7 cm)",
-            "Credit": "Gift of Celeste Bartos",
-            "Object number": "199.1975.5",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/2453"
-    },
-    {
-        "Artist": "Johann Hahn",
-        "Title": "From the New Gate toward the Castle (Vom Neuen-Thor nach der Burg) from \"The City Wall of Nuremberg\"",
-        "Year": "1871",
-        "ObjectID": "48332",
-        "Work": "https://www.moma.org/collection/works/48332",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1NzAxMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cb92204d38865374",
-        "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "7 5/16 \u00d7 9 5/16\" (18.5 \u00d7 23.7 cm)",
-            "Credit": "Gift of Celeste Bartos",
-            "Object number": "199.1975.6",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/2453"
-    },
-    {
-        "Artist": "Johann Hahn",
-        "Title": "Die Burg Von S.W.",
-        "Year": "1871",
-        "ObjectID": "48334",
-        "Work": "https://www.moma.org/collection/works/48334",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1NzAxMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=cacad5d319bcf1c1",
-        "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "7 5/16 \u00d7 9 5/16\" (18.5 \u00d7 23.7 cm)",
-            "Credit": "Gift of Celeste Bartos",
-            "Object number": "199.1975.8",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/2453"
-    },
-    {
-        "Artist": "Timothy O'Sullivan",
-        "Title": "Black Canon, Colorado River, From Camp 8, Looking Above",
-        "Year": "1871",
-        "ObjectID": "86804",
-        "Work": "https://www.moma.org/collection/works/86804",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMDIxNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=3257a8786bad5e04",
-        "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "7 15/16 \u00d7 10 13/16\" (20.2 \u00d7 27.5 cm)",
-            "Credit": "Gift of Ansel Adams in memory of Albert M. Bender",
-            "Object number": "87.1941.8",
-            "Portfolio": "Geographical Explorations and Surveys West of the 100th Meridian, Photographs Showing Landscapes, Geological, and Other Features of Portions of the Western Territory of the United States, Obtained in Connection with Geographical and Geological Explorations and Surveys West of the 100th Meridian",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/4363"
-    },
-    {
-        "Artist": "Timothy O'Sullivan",
-        "Title": "Black Canon, Colorado River, Looking Below from Big Horn Camp",
-        "Year": "1871",
-        "ObjectID": "92466",
-        "Work": "https://www.moma.org/collection/works/92466",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM3MTQyNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b108400dfd8cca0e",
-        "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "7 15/16 \u00d7 10 13/16\" (20.2 \u00d7 27.5 cm)",
-            "Credit": "Gift of Ansel Adams in memory of Albert M. Bender",
-            "Object number": "87.1941.4",
-            "Portfolio": "Geographical Explorations and Surveys West of the 100th Meridian, Photographs Showing Landscapes, Geological, and Other Features of Portions of the Western Territory of the United States, Obtained in Connection with Geographical and Geological Explorations and Surveys West of the 100th Meridian",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/4363"
-    },
-    {
-        "Artist": "Timothy O'Sullivan",
-        "Title": "Black Canon, Colorado River, Looking Above from Camp 7",
-        "Year": "1871",
-        "ObjectID": "92467",
-        "Work": "https://www.moma.org/collection/works/92467",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM3MTQyNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9e2f556999dfecd8",
-        "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "7 15/16 \u00d7 10 13/16\" (20.2 \u00d7 27.5 cm)",
-            "Credit": "Gift of Ansel Adams in memory of Albert M. Bender",
-            "Object number": "87.1941.5",
-            "Portfolio": "Geographical Explorations and Surveys West of the 100th Meridian, Photographs Showing Landscapes, Geological, and Other Features of Portions of the Western Territory of the United States, Obtained in Connection with Geographical and Geological Explorations and Surveys West of the 100th Meridian",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/4363"
-    },
-    {
-        "Artist": "Timothy O'Sullivan",
-        "Title": "Black Canon, Colorado River, Looking Below, Near Camp 7",
-        "Year": "1871",
-        "ObjectID": "92468",
-        "Work": "https://www.moma.org/collection/works/92468",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM3MTQyOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2f3fa312021a7b9c",
-        "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "7 15/16 \u00d7 10 13/16\" (20.2 \u00d7 27.5 cm)",
-            "Credit": "Gift of Ansel Adams in memory of Albert M. Bender",
-            "Object number": "87.1941.6",
-            "Portfolio": "Geographical Explorations and Surveys West of the 100th Meridian, Photographs Showing Landscapes, Geological, and Other Features of Portions of the Western Territory of the United States, Obtained in Connection with Geographical and Geological Explorations and Surveys West of the 100th Meridian",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/4363"
-    },
-    {
-        "Artist": "Timothy O'Sullivan",
-        "Title": "Black Canon, Colorado River, Looking Below, Near Camp 7",
-        "Year": "1871",
-        "ObjectID": "92469",
-        "Work": "https://www.moma.org/collection/works/92469",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM3MTQyOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6864a26d7ee17c3e",
-        "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "7 15/16 \u00d7 10 13/16\" (20.2 \u00d7 27.5 cm)",
-            "Credit": "Gift of Ansel Adams in memory of Albert M. Bender",
-            "Object number": "87.1941.7",
-            "Portfolio": "Geographical Explorations and Surveys West of the 100th Meridian, Photographs Showing Landscapes, Geological, and Other Features of Portions of the Western Territory of the United States, Obtained in Connection with Geographical and Geological Explorations and Surveys West of the 100th Meridian",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/4363"
-    },
-    {
-        "Artist": "Odilon Redon",
-        "Title": "Portrait of a Young Man (after Holbein)",
-        "Year": "c. 1866",
-        "ObjectID": "35970",
-        "Work": "https://www.moma.org/collection/works/35970",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjkzNDkyIl0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNTEyeDUxMlx1MDAzZSJdXQ.jpg?sha=605b4b2a2d917bb1",
-        "Details": {
-            "Medium": "Pencil on colored paper",
-            "Dimensions": "9 1/8 x 7 1/8\" (23.2 x 18.1 cm)",
-            "Credit": "Gift of The Ian Woodner Family Collection",
-            "Object number": "282.2000",
+            "Medium": "Woodcut",
+            "Dimensions": "composition (irreg. ): 8 7/8 x 11 11/16\" (22.5 x 29.7 cm); sheet (irreg.): 11 5/16 x 16 1/8\" (28.8 x 41 cm)",
+            "Publisher": "Gerhard Marcks",
+            "Printer": "The artist or unknown printer, Staatliches Bauhaus, Weimar",
+            "Edition": "unknown (approx. 10), on Japan and \"B\u00fctten\" [this ex.]; plus an unknown number, reprinted by Richard von Sichowsky after c. 1949 from the broken block, on Japan paper",
+            "Credit": "Purchase",
+            "Object number": "500.1949",
+            "Copyright": "\u00a9 2023 Gerhard-Marcks-Stiftung, Bremen, Germany",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/4840"
+        "Profile": "https://www.moma.org/artists/3756"
     },
     {
-        "Artist": "Hugo van Werden",
-        "Title": "Lange 15 cm. Kanone in hoher Kusten-Laffete",
-        "Year": "1871",
-        "ObjectID": "176887",
-        "Work": "https://www.moma.org/collection/works/176887",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzODQzNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9b69dab86e81e633",
+        "Artist": "Gerhard Marcks",
+        "Title": "Little Cats (Die kleinen Katzen)",
+        "Year": "(1922)",
+        "ObjectID": "109174",
+        "Work": "https://www.moma.org/collection/works/109174",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyMjc1MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=185195785b489b8b",
         "Details": {
-            "Medium": "Collotype",
-            "Dimensions": "9 13/16 \u00d7 10 1/2\" (25 \u00d7 26.7 cm)",
-            "Credit": "Gift of Heidi and Richard Rieger",
-            "Object number": "1086.2013.4",
-            "Portfolio": "Friedrich Krupp Cast Steel Works, Essen portfolio",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/44336"
-    },
-    {
-        "Artist": "Hugo van Werden",
-        "Title": "Lange 15 cm. Kanone in hoher Breitseiten-Laffete",
-        "Year": "1871",
-        "ObjectID": "176888",
-        "Work": "https://www.moma.org/collection/works/176888",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzODQzOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a00cd5cd06e63c81",
-        "Details": {
-            "Medium": "Collotype",
-            "Dimensions": "7 11/16 \u00d7 9 3/16\" (19.6 \u00d7 23.4 cm)",
-            "Credit": "Gift of Heidi and Richard Rieger",
-            "Object number": "1086.2013.5",
-            "Portfolio": "Friedrich Krupp Cast Steel Works, Essen portfolio",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/44336"
-    },
-    {
-        "Artist": "Hugo van Werden",
-        "Title": "Schiessstand",
-        "Year": "1871",
-        "ObjectID": "176889",
-        "Work": "https://www.moma.org/collection/works/176889",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzODQzOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=be296a7bc8375c55",
-        "Details": {
-            "Medium": "Collotype",
-            "Dimensions": "8 5/16 \u00d7 13 1/16\" (21.1 \u00d7 33.2 cm)",
-            "Credit": "Gift of Heidi and Richard Rieger",
-            "Object number": "1086.2013.6",
-            "Portfolio": "Friedrich Krupp Cast Steel Works, Essen portfolio",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/44336"
-    },
-    {
-        "Artist": "Hugo van Werden",
-        "Title": "21 cm Belagerungs-Geschutz, Aufstellung fur den Transport",
-        "Year": "1871",
-        "ObjectID": "176900",
-        "Work": "https://www.moma.org/collection/works/176900",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzODQzMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=588b2cd9574c29b6",
-        "Details": {
-            "Medium": "Collotype",
-            "Dimensions": "7 15/16 \u00d7 11 13/16\" (20.2 \u00d7 30 cm)",
-            "Credit": "Gift of Heidi and Richard Rieger",
-            "Object number": "1086.2013.17",
-            "Portfolio": "Friedrich Krupp Cast Steel Works, Essen portfolio",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/44336"
-    },
-    {
-        "Artist": "Hugo van Werden",
-        "Title": "21 cm Belagerungs-Geschutz, Aufstellung in der Batterie",
-        "Year": "1871",
-        "ObjectID": "176901",
-        "Work": "https://www.moma.org/collection/works/176901",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjMzODQzNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=617b2ba9c762295e",
-        "Details": {
-            "Medium": "Collotype",
-            "Dimensions": "7 3/4 \u00d7 11 3/4\" (19.7 \u00d7 29.9 cm)",
-            "Credit": "Gift of Heidi and Richard Rieger",
-            "Object number": "1086.2013.18",
-            "Portfolio": "Friedrich Krupp Cast Steel Works, Essen portfolio",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/44336"
-    },
-    {
-        "Artist": "Leopoldo and Guiseppe Alinari",
-        "Title": "The Rape of the Sabines by Giovanni Bologna, Loggia Dei Lanzi, Florence",
-        "Year": "c. 1865",
-        "ObjectID": "55245",
-        "Work": "https://www.moma.org/collection/works/55245",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MzMwNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=11b4d8a6b612c446",
-        "Details": {
-            "Medium": "Albumen silver print from a glass negative",
-            "Dimensions": "22 11/16 \u00d7 17 1/16\" (57.6 \u00d7 43.3 cm)",
-            "Credit": "Purchase",
-            "Object number": "570.1990",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/113"
-    },
-    {
-        "Artist": "Mathew B. Brady (studio of)",
-        "Title": "Untitled",
-        "Year": "1860-70",
-        "ObjectID": "44809",
-        "Work": "https://www.moma.org/collection/works/44809",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMTE3OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b3ecc023960591b4",
-        "Details": {
-            "Medium": "Gelatin silver print",
-            "Dimensions": "19 3/4 \u00d7 15 11/16\" (50.2 \u00d7 39.9 cm)",
-            "Credit": "Acquired through the courtesy of an anonymous donor",
-            "Object number": "49.1964",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/734"
-    },
-    {
-        "Artist": "Mathew B. Brady (studio of)",
-        "Title": "Samuel Nelson",
-        "Year": "c. 1865",
-        "ObjectID": "46262",
-        "Work": "https://www.moma.org/collection/works/46262",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMTMwOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=ad6fbae21b9e0fb2",
-        "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "17 3/8 \u00d7 14 3/4\" (44.1 \u00d7 37.3 cm)",
-            "Credit": "Anonymous gift",
-            "Object number": "99.1959",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/734"
-    },
-    {
-        "Artist": "Mathew B. Brady (studio of)",
-        "Title": "Earl DeGray Ripon",
-        "Year": "c. 1865",
-        "ObjectID": "54284",
-        "Work": "https://www.moma.org/collection/works/54284",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMTYzOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7e9f735f60573509",
-        "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "17 1/16 \u00d7 14 3/16\" (43.3 \u00d7 36.1 cm)",
-            "Credit": "Anonymous gift",
-            "Object number": "490.1965",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/734"
-    },
-    {
-        "Artist": "Julia Margaret Cameron",
-        "Title": "Portrait of G. F. Watts, R. A",
-        "Year": "c. 1865",
-        "ObjectID": "54974",
-        "Work": "https://www.moma.org/collection/works/54974",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ0MjcyNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7d47f143cdf9f1ad",
-        "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "4 1/2 \u00d7 3 3/4\" (11.4 \u00d7 9.5 cm)",
-            "Credit": "Gift of Edward Steichen",
-            "Object number": "547.1960",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/932"
-    },
-    {
-        "Artist": "Julia Margaret Cameron",
-        "Title": "Pre-Raphaelite Study",
-        "Year": "1870",
-        "ObjectID": "99021",
-        "Work": "https://www.moma.org/collection/works/99021",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE3NDQxNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=02f1fad3efb07fa1",
-        "Details": {
-            "Medium": "Albumen silver print from wet-collodion glass negative",
-            "Dimensions": "14 1/16 \u00d7 10 15/16\" (35.7 \u00d7 27.8 cm)",
-            "Credit": "Bequest of Paul F. Walter",
-            "Object number": "931.2018",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/932"
-    },
-    {
-        "Artist": "Charles Negre",
-        "Title": "Plant Study",
-        "Year": "1860s ?",
-        "ObjectID": "46059",
-        "Work": "https://www.moma.org/collection/works/46059",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMTUwNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=007241bf1a59193f",
-        "Details": {
-            "Medium": "Albumen silver print from a wet-collodion glass negative",
-            "Dimensions": "8 3/8 \u00d7 6 1/2\" (21.4 \u00d7 16.7 cm)",
-            "Credit": "Acquired through the generosity of Blanchette Hooker Rockefeller",
-            "Object number": "90.1986",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/4254"
-    },
-    {
-        "Artist": "Pierre Petit",
-        "Title": "Maximilien Paul Emile Littre",
-        "Year": "c. 1865",
-        "ObjectID": "44452",
-        "Work": "https://www.moma.org/collection/works/44452",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMzYzMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=55fc216a6e7c8234",
-        "Details": {
-            "Medium": "Collodion silver print",
-            "Dimensions": "8 3/4 \u00d7 6 7/8\" (22.2 \u00d7 17.4 cm)",
-            "Credit": "Purchase",
-            "Object number": "38.1964",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/4576"
-    },
-    {
-        "Artist": "Pierre Petit",
-        "Title": "Madame Victor Hugo",
-        "Year": "c. 1858-1868",
-        "ObjectID": "51821",
-        "Work": "https://www.moma.org/collection/works/51821",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMzYwMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=0fc24b4d171fdab0",
-        "Details": {
-            "Medium": "Albumen silver print from a glass negative",
-            "Dimensions": "oval 9 13/16 \u00d7 7 3/8\" (25 \u00d7 18.7 cm)",
-            "Credit": "Acquired through the generosity of Paul F. Walter",
-            "Object number": "364.1981",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/4576"
-    },
-    {
-        "Artist": "Pierre Petit",
-        "Title": "Mademoiselle Champon",
-        "Year": "c. 1865",
-        "ObjectID": "51933",
-        "Work": "https://www.moma.org/collection/works/51933",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMzYxNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=81025fe9f2442956",
-        "Details": {
-            "Medium": "Albumen silver print from a glass negative",
-            "Dimensions": "oval 9 13/16 \u00d7 7 3/8\" (25 \u00d7 18.7 cm)",
-            "Credit": "Acquired through the generosity of Paul F. Walter",
-            "Object number": "369.1981",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/4576"
-    },
-    {
-        "Artist": "Jose Guadalupe Posada",
-        "Title": "Ballad of the Supplicants to San Antonio (Corrido: Suplicas a San Antonio)",
-        "Year": "1870",
-        "ObjectID": "68799",
-        "Work": "https://www.moma.org/collection/works/68799",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI2NjcwNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f2d9ed2516be4a7c",
-        "Details": {
-            "Medium": "Relief engraving",
-            "Dimensions": "composition: 2 3/8 x 5 1/16\" (6 x 12.8cm); sheet: 2 1/2 x 5 3/16\" (6.4 x 13.1cm)",
-            "Credit": "Larry Aldrich Fund",
-            "Object number": "421.1954",
+            "Medium": "Woodcut",
+            "Dimensions": "composition: 6 5/16 x 6 7/8\" (16.1 x 17.5 cm); sheet: 10 9/16 x 14 1/2\" (26.9 x 36.8 cm)",
+            "Publisher": "Gerhard Marcks",
+            "Printer": "Staatliches Bauhaus, Weimar",
+            "Edition": "approx. 10, on Japan [this ex.]; plus an unknown edition, reprinted in 1970; and a 1971 exhibition poster edition of unknown size for the Galerie Nierendorf",
+            "Credit": "Gift of Mrs. Donald B. Strauss",
+            "Object number": "678.1956",
+            "Copyright": "\u00a9 2023 Gerhard-Marcks-Stiftung, Bremen, Germany",
             "Department": "Drawings and Prints"
         },
-        "Profile": "https://www.moma.org/artists/4707"
+        "Profile": "https://www.moma.org/artists/3756"
     },
     {
-        "Artist": "Edward Welby Pugin",
-        "Title": "Chair",
-        "Year": "1870",
-        "ObjectID": "1403",
-        "Work": "https://www.moma.org/collection/works/1403",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMDgzNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=12d55e0ead057663",
+        "Artist": "Louis Marcoussis",
+        "Title": "Still Life: Zither and Sea Shell (Nature morte: Cithare et Coquillage)",
+        "Year": "(1922)",
+        "ObjectID": "70161",
+        "Work": "https://www.moma.org/collection/works/70161",
+        "Thumbnail": null,
         "Details": {
-            "Medium": "Oak",
-            "Dimensions": "31 7/8 x 16 1/8 x 20 3/8\" (81 x 41 x 51.8 cm), seat h. 17\" (43.2 cm)",
-            "Credit": "Mr. and Mrs. Walter Hochschild Purchase Fund",
-            "Object number": "SC7.1987",
+            "Medium": "Etching and aquatint",
+            "Dimensions": "plate: 20 1/2 x 27 7/8\" (52.1 x 70.8 cm); sheet: 24 15/16 x 33 3/4\" (63.4 x 85.7 cm)",
+            "Publisher": "Unidentified",
+            "Printer": "Unidentified",
+            "Edition": "20",
+            "Credit": "Abby Aldrich Rockefeller Fund",
+            "Object number": "499.1971",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / ADAGP, Paris",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3757"
+    },
+    {
+        "Artist": "Filippo Tommaso Marinetti",
+        "Title": "Osvobozena slova",
+        "Year": "1922",
+        "ObjectID": "105078",
+        "Work": "https://www.moma.org/collection/works/105078",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1NDY3OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9b9a5640e20c8778",
+        "Details": {
+            "Medium": "Book with four fold-out plates",
+            "Dimensions": "book (closed): 8 1/16 x 5 5/16 x 3/8\" (20.5 x 13.5 x 0.9 cm); page (each): 7 13/16 x 5 3/16\" (19.8 x 13.1 cm)",
+            "Publisher": "Petr a Tvrdy, Prague",
+            "Printer": "F. Obzina, Vy\u0161kove, Czech Republic",
+            "Edition": "1,500",
+            "Credit": "Monroe Wheeler Fund",
+            "Object number": "732.2006",
+            "Copyright": "\u00a9 2023 Filippo Tommaso Marinetti / Artists Rights Society (ARS), New York / SIAE, Rome",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3771"
+    },
+    {
+        "Artist": "John Marin",
+        "Title": "Camden Mountain across the Bay",
+        "Year": "1922",
+        "ObjectID": "33200",
+        "Work": "https://www.moma.org/collection/works/33200",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0NDk0MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b433bc84c3a61455",
+        "Details": {
+            "Medium": "Watercolor on paper",
+            "Dimensions": "17 1/4 x 20 1/2\" (43.8 x 52.1 cm)",
+            "Credit": "Gift of Abby Aldrich Rockefeller (by exchange)",
+            "Object number": "16.1936",
+            "Copyright": "\u00a9 2023 Estate of John Marin  / Artists Rights Society (ARS), New York",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3770"
+    },
+    {
+        "Artist": "John Marin",
+        "Title": "Lower Manhattan (Composing Derived from Top of Woolworth)",
+        "Year": "1922",
+        "ObjectID": "34702",
+        "Work": "https://www.moma.org/collection/works/34702",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxMDQzNCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=aad4d0d2443966d9",
+        "Details": {
+            "Medium": "Gouache and charcoal with paper cut-out attached with thread on paper",
+            "Dimensions": "21 5/8 x 26 7/8\" (54.5 x 67.5 cm)",
+            "Credit": "Acquired through the Lillie P. Bliss Bequest (by exchange)",
+            "Object number": "143.1945",
+            "Copyright": "\u00a9 2023 Estate of John Marin  / Artists Rights Society (ARS), New York",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3770"
+    },
+    {
+        "Artist": "Henri Matisse",
+        "Title": "Model in Repose (Le Repos du modele) from Essai dur l'histoire de la lithographie en France. Les Peintures lithographes de Manet a Matisse. Album de lithographies originales.",
+        "Year": "1922, published c. 1924",
+        "ObjectID": "63655",
+        "Work": "https://www.moma.org/collection/works/63655",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE2NDA4OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=28f0c5b7c8dd9706",
+        "Details": {
+            "Medium": "Lithograph from a portfolio of 16 lithographs",
+            "Dimensions": "composition: 8 3/4 x 11 13/16\" (22.3 x 30 cm); sheet: 10 7/8 x 14 7/16\" (27.6 x 36.7 cm)",
+            "Publisher": "Edmond Frapier, Paris, Galerie des Peintres-Graveurs, Paris",
+            "Printer": "Galerie Percier",
+            "Edition": "525",
+            "Credit": "Abby Aldrich Rockefeller Fund",
+            "Object number": "175.1949.8",
+            "Copyright": "\u00a9 2023 Succession H. Matisse / Artists Rights Society (ARS), New York",
+            "Portfolio": "Essai dur l'histoire de la lithographie en France. Les Peintures lithographes de Manet \u00e0 Matisse. Album de lithographies originales.",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3832"
+    },
+    {
+        "Artist": "Henri Matisse",
+        "Title": "The Organdy Dress (La Robe d'organdi)",
+        "Year": "1922",
+        "ObjectID": "69041",
+        "Work": "https://www.moma.org/collection/works/69041",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxODU4MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=54d36f3c5b05dae8",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition: 16 3/4 x 10 13/16\" (42.6 x 27.5cm); sheet: 21 1/16 \u00d7 14\" (53.5 \u00d7 35.5 cm)",
+            "Publisher": "Henri Matisse",
+            "Printer": "Mme Duch\u00e2tel",
+            "Edition": "50",
+            "Credit": "Gift of Abby Aldrich Rockefeller",
+            "Object number": "433.1940",
+            "Copyright": "\u00a9 2023 Succession H. Matisse / Artists Rights Society (ARS), New York",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3832"
+    },
+    {
+        "Artist": "Ludwig Meidner",
+        "Title": "Portrait of Elise (Portrat Elise) from the series \"Heads.\" 17 Etchings (\"Kopfe.\" 17 Radierungen)",
+        "Year": "(1921, published 1922)",
+        "ObjectID": "66389",
+        "Work": "https://www.moma.org/collection/works/66389",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyMjA2OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b339543c7d7dac1d",
+        "Details": {
+            "Medium": "Etching",
+            "Dimensions": "plate: 8 15/16 x 8 1/16\" (22.7 x 20.4 cm); sheet: 16 x 11 13/16\" (40.6 x 30 cm)",
+            "Publisher": "Euphorion Verlag, Berlin",
+            "Printer": "Unidentified",
+            "Edition": "15 on Japan paper [this ex.] and 35 on \"B\u00fctten\" paper",
+            "Credit": "Miles O. Epstein Fund",
+            "Object number": "298.1994",
+            "Copyright": "\u00a9 Ludwig-Meidner-Archiv, J\u00fcdisches Museum der Stadt Frankfurt am Main, Germany",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3909"
+    },
+    {
+        "Artist": "Ludwig Meidner",
+        "Title": "Man and Girl: Dr. Hans Huth and Tanja (Herr und Madchen: Dr. Hans Huth und Tanja) from the series \"Heads.\" 17 Etchings (\"Kopfe.\" 17 Radierungen)",
+        "Year": "(1921, published 1922)",
+        "ObjectID": "66411",
+        "Work": "https://www.moma.org/collection/works/66411",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyMjgwOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=14746e7a872ba287",
+        "Details": {
+            "Medium": "Etching",
+            "Dimensions": "plate: 9 5/16 x 7 1/16\" (23.7 x 17.9 cm); sheet: 16 1/8 x 11 13/16\" (41 x 30 cm)",
+            "Publisher": "Euphorion Verlag, Berlin",
+            "Printer": "Unidentified",
+            "Edition": "15 on Japan paper [this ex.] and 35 on \"B\u00fctten\" paper",
+            "Credit": "Miles O. Epstein Fund",
+            "Object number": "299.1994",
+            "Copyright": "\u00a9 Ludwig-Meidner-Archiv, J\u00fcdisches Museum der Stadt Frankfurt am Main, Germany",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3909"
+    },
+    {
+        "Artist": "Felix Meseck",
+        "Title": "Illustration for Act IV from Shakespeare's The Tempest (Der Sturm)",
+        "Year": "(1922)",
+        "ObjectID": "70555",
+        "Work": "https://www.moma.org/collection/works/70555",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE5MDQxOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=dae5bdab9e56f086",
+        "Details": {
+            "Medium": "Etching and drypoint",
+            "Dimensions": "plate: 9 1/16 x 6 5/8\" (23 x 16.9cm)",
+            "Publisher": "Avalun Verlag, Dresden-Hellerau",
+            "Printer": "A. Rogall, Berlin",
+            "Edition": "proof before the book edition of 110",
+            "Credit": "Given anonymously",
+            "Object number": "526.1942",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/3942"
+    },
+    {
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "Glass Skyscraper project (Elevation study)",
+        "Year": "1922",
+        "ObjectID": "660",
+        "Work": "https://www.moma.org/collection/works/660",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0NTcyNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b01aec8cf6098897",
+        "Details": {
+            "Medium": "Charcoal, Cont\u00e9 crayon, and pencil on paper mounted on board",
+            "Dimensions": "54 1/2 x 32 3/4\" (137.8 x 83.2 cm)",
+            "Credit": "Mies van der Rohe Archive, gift of George Danforth",
+            "Object number": "474.1974",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
             "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/7267"
+        "Profile": "https://www.moma.org/artists/7166"
     },
     {
-        "Artist": "S.W. Burcaw & Brother Studio, Allentown, PA",
-        "Title": "Portrait of a man",
-        "Year": "c. 1865",
-        "ObjectID": "124747",
-        "Work": "https://www.moma.org/collection/works/124747",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUwMDM3MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=9cc6a52768e4eb7f",
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "Glass Skyscraper, project, no intended site known",
+        "Year": "1922 (model 1985)",
+        "ObjectID": "1004",
+        "Work": "https://www.moma.org/collection/works/1004",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjc1NjI0Il0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgNTEyeDUxMlx1MDAzZSJdXQ.jpg?sha=5fcf17585f4671ca",
         "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "3 15/16 \u00d7 2 5/16\" (10 \u00d7 5.9 cm)",
-            "Credit": "Gift of Richard Benson",
-            "Object number": "SC2008.1.30",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/36245"
-    },
-    {
-        "Artist": "S.W. Burcaw & Brother Studio, Allentown, PA",
-        "Title": "Young boy with hat",
-        "Year": "c. 1865",
-        "ObjectID": "124748",
-        "Work": "https://www.moma.org/collection/works/124748",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUwMTkyNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e59b37ed068cce2a",
-        "Details": {
-            "Medium": "Albumen silver print",
-            "Dimensions": "3 3/4 \u00d7 2 1/4\" (9.5 \u00d7 5.7 cm)",
-            "Credit": "Gift of Richard Benson",
-            "Object number": "SC2008.1.31",
-            "Department": "Photography"
-        },
-        "Profile": "https://www.moma.org/artists/36245"
-    },
-    {
-        "Artist": "Michael Thonet",
-        "Title": "Folding Lounge Chair with Foot Rest",
-        "Year": "c. 1865",
-        "ObjectID": "4196",
-        "Work": "https://www.moma.org/collection/works/4196",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIzMDQ2MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=875d03c6a0b7b985",
-        "Details": {
-            "Manufacturer": "Gebr\u00fcder Thonet, Vienna, Austria",
-            "Medium": "Steam-bent beechwood and cane",
-            "Dimensions": "42 3/8 x 22 1/4 x 58 15/16\" (107.6 x 56.5 x 149.7 cm), seat h. 16 3/8\" (41.6 cm)",
+            "Medium": "Acrylic and paper",
+            "Dimensions": "24 1/8 x 9 3/8 x 8\" (61.3 x 23.8 x 20.3 cm)",
+            "Model maker": "Theodore J. Century",
             "Credit": "Purchase",
-            "Object number": "666.1980",
+            "Object number": "259.1986",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
             "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/5866"
+        "Profile": "https://www.moma.org/artists/7166"
     },
     {
-        "Artist": "Unidentified photographer",
-        "Title": "The Great Temple, Madura, India",
-        "Year": "1860s",
-        "ObjectID": "45554",
-        "Work": "https://www.moma.org/collection/works/45554",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI1OTMxNSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f2f4f76349c9ab77",
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "Glass Skyscraper project (View of lost model)",
+        "Year": "1922",
+        "ObjectID": "82759",
+        "Work": "https://www.moma.org/collection/works/82759",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIxNjY0NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=23c55b8af6f9b1dd",
         "Details": {
-            "Medium": "Albumen silver print from a glass negative",
-            "Dimensions": "8 11/16 \u00d7 10 11/16\" (22.1 \u00d7 27.2 cm)",
-            "Credit": "Gift of Paul F. Walter",
-            "Object number": "69.1997",
-            "Department": "Photography"
+            "Medium": "Airbrushed gouache on gelatin silver print",
+            "Dimensions": "7 3/8 x 5 3/8\" (18.8 x 13.7 cm)",
+            "Credit": "Mies van der Rohe Archive Fund",
+            "Object number": "2377.2001",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
         },
-        "Profile": "https://www.moma.org/artists/8595"
+        "Profile": "https://www.moma.org/artists/7166"
     },
     {
-        "Artist": "Unidentified photographer",
-        "Title": "Untitled",
-        "Year": "c. 1860",
-        "ObjectID": "45821",
-        "Work": "https://www.moma.org/collection/works/45821",
-        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM5MjI4MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=5665b25bf046e7b1",
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "Glass Skyscraper Project (Floor plan)",
+        "Year": "1922",
+        "ObjectID": "87496",
+        "Work": "https://www.moma.org/collection/works/87496",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMzk1NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a8646a0bb2bbfaaa",
         "Details": {
-            "Medium": "Ambrotype, one-quarter plate, in leather case",
-            "Dimensions": "2 9/16 \u00d7 3 9/16\" (6.5 \u00d7 9.0 cm)",
-            "Credit": "Gift of Celeste Bartos",
-            "Object number": "80.1974",
+            "Medium": "Vandyke print with watercolor, pencil, and wax pencil",
+            "Dimensions": "21 x 24 1/2\" (53.3 x 62.2 cm)",
+            "Credit": "Mies van der Rohe Archive, gift of the architect",
+            "Object number": "MR21.4",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7166"
+    },
+    {
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "Glass Skyscraper Project (Floorplan)",
+        "Year": "1922",
+        "ObjectID": "107257",
+        "Work": "https://www.moma.org/collection/works/107257",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwNTkzMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1af53497fa9e92ad",
+        "Details": {
+            "Medium": "Ink on illustration board",
+            "Dimensions": "30 x 40\" (76.2 x 101.6 cm)",
+            "Credit": "Mies van der Rohe Archive, gift of the architect",
+            "Object number": "MR21.7",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7166"
+    },
+    {
+        "Artist": "Ludwig Mies van der Rohe",
+        "Title": "Glass Skyscraper, project",
+        "Year": "1922",
+        "ObjectID": "145731",
+        "Work": "https://www.moma.org/collection/works/145731",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwNzM0MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d37d4d37460fa8a1",
+        "Details": {
+            "Medium": "Pencil on tracing paper",
+            "Dimensions": "30 1/2 x 37 3/4\" (77.5 x 95.9 cm)",
+            "Credit": "Mies van der Rohe Archive, gift of the architect",
+            "Object number": "MR21.5",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/7166"
+    },
+    {
+        "Artist": "Petr Miturich",
+        "Title": "Zangezi",
+        "Year": "1922",
+        "ObjectID": "12048",
+        "Work": "https://www.moma.org/collection/works/12048",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDM3OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c18fddabef3b3327",
+        "Details": {
+            "Author": "Velimir Khlebnikov",
+            "Medium": "Cover with lithographed manuscript text and illustration on front",
+            "Dimensions": "page: 9 1/2 x 6 5/16\" (24.2 x 16.1 cm)",
+            "Publisher": "Unidentified, Moscow",
+            "Edition": "2,000",
+            "Credit": "Gift of The Judith Rothschild Foundation",
+            "Object number": "153.2001",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4030"
+    },
+    {
+        "Artist": "Laszlo Moholy-Nagy",
+        "Title": "Ma: Aktivista Folyoirat, vol. VII, no. 5-6",
+        "Year": "1922",
+        "ObjectID": "217707",
+        "Work": "https://www.moma.org/collection/works/217707",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ1Mzg1OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e52dd0c9aa042b98",
+        "Details": {
+            "Medium": "Letterpress",
+            "Dimensions": "12 3/16 \u00d7 9 1/4\" (31 \u00d7 23.5 cm)",
+            "Editor": "Lajos Kass\u00e1k",
+            "Printer": "Druck Elbem\u00fchl, Vienna",
+            "Credit": "The Merrill C. Berman Collection. Acquired through the generosity of Alice and Tom Tisch, Jo Carole and Ronald S. Lauder, Sue and Edgar Wachenheim III, David Booth, Marlene Hess and James D. Zirin, Marie-Jos\u00e9e and Henry R. Kravis, Jack Shear, the Patricia Bonfield Endowed Acquisition Fund for the Design Collection, Daniel and Jane Och, The Orentreich Family Foundation, Emily Rauh Pulitzer, The Modern Women's Fund; and by exchange: Gift of Jean Dubuffet in honor of Mr. and Mrs. Ralph Colin, The Judith Rothschild Foundation Contemporary Drawings Collection, and the Richard S. Zeisler Bequest",
+            "Object number": "610.2018",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Associated work": "The Merrill C. Berman Collection at MoMA",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/4048"
+    },
+    {
+        "Artist": "Johannes Molzahn",
+        "Title": "Fagus-Werk, Karl Benscheidt",
+        "Year": "1922",
+        "ObjectID": "8129",
+        "Work": "https://www.moma.org/collection/works/8129",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDk3NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=bd8be2baf4816181",
+        "Details": {
+            "Medium": "Letterpress",
+            "Dimensions": "4 3/8 x 8 11/16\" (11.1 x 22.1 cm)",
+            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
+            "Object number": "780.1999",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/4054"
+    },
+    {
+        "Artist": "Johannes Molzahn",
+        "Title": "Fagus Werk letterhead",
+        "Year": "1922",
+        "ObjectID": "8131",
+        "Work": "https://www.moma.org/collection/works/8131",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDk3NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f4dde2142c6505eb",
+        "Details": {
+            "Medium": "Letterpress and embossing",
+            "Dimensions": "11 11/16 x 8 1/4\" (29.7 x 21 cm)",
+            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
+            "Object number": "781.1999",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/4054"
+    },
+    {
+        "Artist": "Johannes Molzahn",
+        "Title": "Fagus-Werk, Karl Benscheidt",
+        "Year": "1922",
+        "ObjectID": "8133",
+        "Work": "https://www.moma.org/collection/works/8133",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDk3OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=af501e7e85c9f78f",
+        "Details": {
+            "Medium": "Letterpress",
+            "Dimensions": "4 1/2 x 6 3/8\" (11.4 x 16.2 cm)",
+            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
+            "Object number": "782.1999",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/4054"
+    },
+    {
+        "Artist": "Johannes Molzahn",
+        "Title": "Fagus-Werk, Karl Benscheidt",
+        "Year": "1922",
+        "ObjectID": "8135",
+        "Work": "https://www.moma.org/collection/works/8135",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDk4MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c8abfbba4e163ca5",
+        "Details": {
+            "Medium": "Letterpress and embossing",
+            "Dimensions": "11 11/16 x 8 1/4\" (29.7 x 21 cm)",
+            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
+            "Object number": "783.1999",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/4054"
+    },
+    {
+        "Artist": "Johannes Molzahn",
+        "Title": "Fagus-Werk, Karl Benscheidt",
+        "Year": "1922",
+        "ObjectID": "8137",
+        "Work": "https://www.moma.org/collection/works/8137",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDk4MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1e0b1b151ad49034",
+        "Details": {
+            "Medium": "Letterpress and embossing",
+            "Dimensions": "11 11/16 x 8 1/4\" (29.7 x 21 cm)",
+            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
+            "Object number": "784.1999",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/4054"
+    },
+    {
+        "Artist": "Johannes Molzahn",
+        "Title": "Fagus-Werk, Karl Benscheidt",
+        "Year": "1922",
+        "ObjectID": "8139",
+        "Work": "https://www.moma.org/collection/works/8139",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDk4MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=7ee5f7d4a7242c9b",
+        "Details": {
+            "Medium": "Letterpress and embossing",
+            "Dimensions": "11 11/16 x 8 1/4\" (29.7 x 21 cm)",
+            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
+            "Object number": "785.1999",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/4054"
+    },
+    {
+        "Artist": "Johannes Molzahn",
+        "Title": "Fagus-Werk, Karl Benscheidt",
+        "Year": "1922",
+        "ObjectID": "8141",
+        "Work": "https://www.moma.org/collection/works/8141",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDk4NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=2b8f5fe4df013e26",
+        "Details": {
+            "Medium": "Letterpress and embossing",
+            "Dimensions": "11 11/16 x 8 5/16\" (29.7 x 21.1 cm)",
+            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
+            "Object number": "786.1999",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/4054"
+    },
+    {
+        "Artist": "Johannes Molzahn",
+        "Title": "Fagus-Werk, Karl Benscheidt",
+        "Year": "1922",
+        "ObjectID": "8143",
+        "Work": "https://www.moma.org/collection/works/8143",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDk4NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=f1dc3f952b0f7874",
+        "Details": {
+            "Medium": "Letterpress and embossing",
+            "Dimensions": "11 11/16 x 8 1/4\" (29.7 x 21 cm)",
+            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
+            "Object number": "787.1999",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/4054"
+    },
+    {
+        "Artist": "Johannes Molzahn",
+        "Title": "Fagus-Werk, Karl Benscheidt",
+        "Year": "1922",
+        "ObjectID": "8145",
+        "Work": "https://www.moma.org/collection/works/8145",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDk4OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d75f6efdb9d23b1c",
+        "Details": {
+            "Medium": "Letterpress and embossing",
+            "Dimensions": "5 7/8 x 8 1/4\" (14.9 x 21 cm)",
+            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
+            "Object number": "788.1999",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/4054"
+    },
+    {
+        "Artist": "Johannes Molzahn",
+        "Title": "Uberreicht: Franz Kopp",
+        "Year": "1922",
+        "ObjectID": "8147",
+        "Work": "https://www.moma.org/collection/works/8147",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUzMDk5MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=b60c8c46c9b1dc10",
+        "Details": {
+            "Medium": "Letterpress and embossing",
+            "Dimensions": "3 1/16 x 5 5/8\" (7.8 x 14.3 cm)",
+            "Credit": "Jan Tschichold Collection, Gift of Philip Johnson",
+            "Object number": "789.1999",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/4054"
+    },
+    {
+        "Artist": "Claude Monet",
+        "Title": "The Japanese Footbridge",
+        "Year": "c. 1920-22",
+        "ObjectID": "79254",
+        "Work": "https://www.moma.org/collection/works/79254",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE1MTE1NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=e53b544dac38e3a3",
+        "Details": {
+            "Medium": "Oil on canvas",
+            "Dimensions": "35 1/4 x 45 7/8\" (89.5 x 116.3 cm)",
+            "Credit": "Grace Rainey Rogers Fund",
+            "Object number": "242.1956",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/4058"
+    },
+    {
+        "Artist": "Otto Mueller",
+        "Title": "Three Girls Before the Mirror (Drei Madchen vor dem Spiegel)",
+        "Year": "(c. 1922)",
+        "ObjectID": "64020",
+        "Work": "https://www.moma.org/collection/works/64020",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyODgwMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=96da3216db8915ac",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition (irreg.): 13 7/8 x 9 15/16\" (35.2 x 25.3 cm); sheet (irreg.): 18 11/16 x 14 3/16\" (47.5 x 36 cm)",
+            "Publisher": "Unidentified",
+            "Printer": "Unidentified",
+            "Edition": "proof outside the edition of 50",
+            "Credit": "Gift of Mr. and Mrs. Eugene Victor Thaw",
+            "Object number": "187.1957",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4140"
+    },
+    {
+        "Artist": "Otto Mueller",
+        "Title": "Two Bathers in a Brook (Zwei Badende im Bach)",
+        "Year": "(c. 1922)",
+        "ObjectID": "72963",
+        "Work": "https://www.moma.org/collection/works/72963",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNTY2MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d1ce6dbc18035c7c",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "Composition: 9 13/16 x 6 11/16\" (25 x 17 cm); sheet: 14 1/2 x 10 5/8\" (36.8 x 27 cm)",
+            "Publisher": "unpublished",
+            "Printer": "Georg Lange, Breslau",
+            "Edition": "unique color variant outside the edition of approx. 15; plus 60 in another color variation",
+            "Credit": "Given anonymously",
+            "Object number": "672.1943",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4140"
+    },
+    {
+        "Artist": "Otto Mueller",
+        "Title": "Half Nude Girl in Profile (in Front of a Picture) (Madchen-Halbakt im Profil [vor einem Bild])",
+        "Year": "(1922)",
+        "ObjectID": "72987",
+        "Work": "https://www.moma.org/collection/works/72987",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwMzcyMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=1c84f3192c2a8129",
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "composition (irreg.): 8 3/4 x 6 13/16\" (22.3 x 17.3 cm); sheet: 15 1/16 x 9 7/8\" (38.2 x 25.1 cm)",
+            "Publisher": "Fritz Gurlitt, Berlin, (distributed after 1930 by) Galerie Ferdinand M\u00f6ller, Berlin",
+            "Printer": "probably Gurlitt-Presse, Berlin",
+            "Edition": "75 (including approx. 25 on Japan paper [this ex.] and approx. 50 on B\u00fctten and copperprinting paper)",
+            "Credit": "Given anonymously",
+            "Object number": "674.1943",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4140"
+    },
+    {
+        "Artist": "F. W. Murnau",
+        "Title": "Nosferatu: Eine Symphonie des Grauens",
+        "Year": "1922",
+        "ObjectID": "303569",
+        "Work": "https://www.moma.org/collection/works/303569",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExMzEzNiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4fdcf14c6382dc90",
+        "Details": {
+            "Object number": "W1558",
+            "Department": "Film"
+        },
+        "Profile": "https://www.moma.org/artists/112602"
+    },
+    {
+        "Artist": "Elie Nadelman",
+        "Title": "Head of a Woman",
+        "Year": "c. 1920-22",
+        "ObjectID": "35758",
+        "Work": "https://www.moma.org/collection/works/35758",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI3MzI4MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=23a673bfa27a4885",
+        "Details": {
+            "Medium": "Ink and watercolor on paper",
+            "Dimensions": "12 1/2 x 7 7/8\" (31.7 x 20.1 cm)",
+            "Credit": "Gift of Lincoln Kirstein in honor of Ren\u00e9 d'Harnoncourt",
+            "Object number": "265.1969",
+            "Copyright": "\u00a9 Estate of Elie Nadelman",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4197"
+    },
+    {
+        "Artist": "Heinrich Nauen",
+        "Title": "Dilborn",
+        "Year": "(c. 1913-22)",
+        "ObjectID": "69293",
+        "Work": "https://www.moma.org/collection/works/69293",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyMjcyMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=22cb9d90a05d5562",
+        "Details": {
+            "Medium": "Etching and drypoint",
+            "Dimensions": "plate: 15 7/16 x 12 1/2\" (39.2 x 31.8cm); sheet: 23 7/8 x 18 5/8\" (60.6 x 47.3 cm)",
+            "Publisher": "Unidentified",
+            "Printer": "Unidentified",
+            "Edition": "unknown",
+            "Credit": "Gift of Abby Aldrich Rockefeller",
+            "Object number": "448.1940",
+            "Copyright": "\u00a9 2023  Heinrich Nauen / Artists Rights Society (ARS), New York / VG Bild-Kunst, Germany",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4242"
+    },
+    {
+        "Artist": "Fred Niblo",
+        "Title": "Blood and Sand",
+        "Year": "1922",
+        "ObjectID": "305785",
+        "Work": "https://www.moma.org/collection/works/305785",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExMzE0MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d67e679e9e5f1ed8",
+        "Details": {
+            "Credit": "Preserved from original materials on loan from La Cin\u00e9math\u00e8que royale de Belgique",
+            "Object number": "W870",
+            "Department": "Film"
+        },
+        "Profile": "https://www.moma.org/artists/32334"
+    },
+    {
+        "Artist": "Emil Nolde",
+        "Title": "Surf (Brandung)",
+        "Year": "(1922)",
+        "ObjectID": "62514",
+        "Work": "https://www.moma.org/collection/works/62514",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyMDIyMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=a27a0aa96770da5f",
+        "Details": {
+            "Medium": "Etching and tonal etching",
+            "Dimensions": "plate: 12 3/4 x 9 11/16\" (32.4 x 24.6 cm); sheet: 24 7/8 x 17 13/16\" (63.2 x 45.2 cm)",
+            "Publisher": "unpublished",
+            "Printer": "Kleinsorg, Copenhagen, Otto Felsing, Berlin",
+            "Edition": "17; plus 5 impressions of state I; and 15 impressions of state III",
+            "Credit": "Purchase",
+            "Object number": "134.1946",
+            "Copyright": "\u00a9 Nolde Stiftung Seeb\u00fcll, Germany",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4327"
+    },
+    {
+        "Artist": "Emil Nolde",
+        "Title": "Doctors (Doktoren)",
+        "Year": "(1922)",
+        "ObjectID": "69310",
+        "Work": "https://www.moma.org/collection/works/69310",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEzNTUzMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4be5711f289e85e2",
+        "Details": {
+            "Medium": "Woodcut",
+            "Dimensions": "composition (irreg.): 20 1/4 x 28 3/16\" (51.4 x 71.6 cm); sheet: 25 7/8 x 33 3/16\" (65.8 x 84.3 cm)",
+            "Publisher": "unpublished",
+            "Printer": "Emil Nolde, Berlin, Ada Nolde, Berlin",
+            "Edition": "one of 3 impressions of state II (total edition, states I-III: 10)",
+            "Credit": "Gift of Abby Aldrich Rockefeller",
+            "Object number": "449.1940",
+            "Copyright": "\u00a9 Nolde Stiftung Seeb\u00fcll, Germany",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4327"
+    },
+    {
+        "Artist": "Emil Nolde",
+        "Title": "Phantoms (Erscheinungen)",
+        "Year": "(1922)",
+        "ObjectID": "69461",
+        "Work": "https://www.moma.org/collection/works/69461",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjEyMTkzNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c6beec4bc0d01955",
+        "Details": {
+            "Medium": "Etching and tonal etching",
+            "Dimensions": "plate: 12 11/16 x 9 13/16\" (32.3 x 24.9 cm); sheet: 19 x 13 7/8\" (48.3 x 35.3 cm)",
+            "Publisher": "unpublished",
+            "Printer": "Kleinsorg, Copenhagen, Otto Felsing, Berlin",
+            "Edition": "one of at least 9 impressions of state III (total edition, states I-III: at least 30)",
+            "Credit": "Gift of Abby Aldrich Rockefeller",
+            "Object number": "460.1940",
+            "Copyright": "\u00a9 Nolde Stiftung Seeb\u00fcll, Germany",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4327"
+    },
+    {
+        "Artist": "Paul Outerbridge",
+        "Title": "Ide Collar",
+        "Year": "1922",
+        "ObjectID": "52457",
+        "Work": "https://www.moma.org/collection/works/52457",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjUxOTkwMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4f27dcd0fcac9c80",
+        "Details": {
+            "Medium": "Platinum print",
+            "Dimensions": "4 1/2 \u00d7 3 5/8\" (11.9 \u00d7 9.2 cm)",
+            "Credit": "Gift of the artist",
+            "Object number": "393.1972",
+            "Copyright": "\u00a9 2023 Estate of Paul Outerbridge, Jr.",
             "Department": "Photography"
         },
-        "Profile": "https://www.moma.org/artists/8595"
+        "Profile": "https://www.moma.org/artists/4452"
+    },
+    {
+        "Artist": "Paul Outerbridge",
+        "Title": "Saltine Box",
+        "Year": "1922",
+        "ObjectID": "58368",
+        "Work": "https://www.moma.org/collection/works/58368",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjIwOTYyOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=c6df077a5ab6f55b",
+        "Details": {
+            "Medium": "Platinum print",
+            "Dimensions": "3 9/16 \u00d7 4 1/2\" (9.0 \u00d7 11.5 cm)",
+            "Credit": "Gift of David H. McAlpin",
+            "Object number": "1785.1968",
+            "Copyright": "\u00a9 2023 Estate of Paul Outerbridge, Jr.",
+            "Department": "Photography"
+        },
+        "Profile": "https://www.moma.org/artists/4452"
+    },
+    {
+        "Artist": "Odon Palasovsky, Ivan Hevesy",
+        "Title": "Manifesztum, 1922, A milliok kulturajat, Uj muveszetet , Le a penesz viraggal",
+        "Year": "1922",
+        "ObjectID": "160134",
+        "Work": "https://www.moma.org/collection/works/160134",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjI0Nzg2MiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=d146af7a47f7c5af",
+        "Details": {
+            "Medium": "Book, letterpress printed",
+            "Dimensions": "page (each): 9 3/4 x 6 7/8\" (24.7 x 17.4 cm); overall (closed): 9 3/4 x 6 7/8 x 1/16\" (24.7 x 17.4 x 0.2 cm)",
+            "Publisher": "Merkantil nyomda, Budapest",
+            "Printer": "Merkantil nyomda, Budapest",
+            "Edition": "unknown, probably fewer than 100",
+            "Credit": "Committee on Prints and Illustrated Books Fund",
+            "Object number": "741.2012",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/38939"
+    },
+    {
+        "Artist": "Ivo Pannaggi",
+        "Title": "My Mother Reading the Newspaper",
+        "Year": "c. 1922",
+        "ObjectID": "79878",
+        "Work": "https://www.moma.org/collection/works/79878",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjE4MjIyMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=abcc969c6b59b885",
+        "Details": {
+            "Medium": "Oil on canvas on board",
+            "Dimensions": "11 1/8 x 10 1/4\" (28.3 x 26 cm)",
+            "Credit": "Gift of Mario da Silva",
+            "Object number": "510.1951",
+            "Department": "Painting and Sculpture"
+        },
+        "Profile": "https://www.moma.org/artists/4484"
+    },
+    {
+        "Artist": "Max Pechstein",
+        "Title": "Head of a Sailor (Fisherman's Head) (Kopf eines Seemannes [Fischerkopf]) from the portfolio Dedicated to Arno Holz on his 60th Birthday by German Artists (Arno Holz zum sechzigsten Geburtstage, gewidmet von deutschen Kunstlern)",
+        "Year": "1922",
+        "ObjectID": "68575",
+        "Work": "https://www.moma.org/collection/works/68575",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExNDgxOSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4f35eb6df337fb8c",
+        "Details": {
+            "Medium": "Woodcut",
+            "Dimensions": "composition: 15 13/16 x 11 3/4\" (40.1 x 29.8 cm); sheet (irreg.): 16 3/8 x 13 7/16\" (41.6 x 34.1 cm)",
+            "Publisher": "Fritz Gurlitt, Berlin",
+            "Printer": "Unidentified",
+            "Edition": "100; plus 38 for the contributing artists and the publisher; unknown number of proofs outside the edition",
+            "Credit": "Gift of Samuel A. Berger",
+            "Object number": "407.1954",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4533"
+    },
+    {
+        "Artist": "Max Pechstein",
+        "Title": "Four Nudes at the Sea for the illustrated book The Samland Ode (Vier Akte am Meer fur das illustrierte Buch Die Samlandische Ode)",
+        "Year": "1917",
+        "ObjectID": "72998",
+        "Work": "https://www.moma.org/collection/works/72998",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjExMzU3NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=fbf0cb679b1079d0",
+        "Details": {
+            "Medium": "Lithograph with watercolor additions",
+            "Dimensions": "composition: 5 11/16 x 9 1/16\" (14.5 x 23 cm); sheet: 12 5/8 x 15 1/8\" (32 x 38.4 cm)",
+            "Publisher": "Fritz Gurlitt, Berlin",
+            "Printer": "Gurlitt-Presse, Berlin",
+            "Edition": "trial proof outside the edition of 130",
+            "Credit": "Given anonymously",
+            "Object number": "675.1943",
+            "Copyright": "\u00a9 2023 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4533"
+    },
+    {
+        "Artist": "Laszlo Peri",
+        "Title": "In Front of the Table",
+        "Year": "1922",
+        "ObjectID": "35125",
+        "Work": "https://www.moma.org/collection/works/35125",
+        "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQzMzE2MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=6f5c5d222349d735",
+        "Details": {
+            "Medium": "Tempera on board",
+            "Dimensions": "25 1/4 x 34\" (64.1 x 86.4 cm)",
+            "Credit": "Katherine S. Dreier Bequest",
+            "Object number": "184.1953",
+            "Copyright": "\u00a9 The Estate of Peter Laszlo Peri. All rights reserved. DACS",
+            "Department": "Drawings and Prints"
+        },
+        "Profile": "https://www.moma.org/artists/4559"
+    },
+    {
+        "Artist": "Coles Phillips",
+        "Title": "Light Consumes Coal",
+        "Year": "c. 1917",
+        "ObjectID": "8184",
+        "Work": "https://www.moma.org/collection/works/8184",
+        "Thumbnail": null,
+        "Details": {
+            "Medium": "Lithograph",
+            "Dimensions": "27 7/8 x 20 1/2\" (71 x 52 cm)",
+            "Printer": "Edwards and Deutsch Litho. Co., Chicago",
+            "Credit": "Acquired by exchange",
+            "Object number": "808.1983",
+            "Department": "Architecture and Design"
+        },
+        "Profile": "https://www.moma.org/artists/4599"
     }
 ]
