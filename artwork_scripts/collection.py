@@ -18,7 +18,7 @@ headers = {
 base_url = "https://www.moma.org/collection/?utf8=%E2%9C%93&q=&classifications=any&date_begin=Pre-1850&date_end=2023&page={}&direction=fwd"
 image_base_url = "https://www.moma.org"
 
-output_directory = "../Files/Collection_Pages"
+output_directory = "../Files/User/Collection_Pages"
 
 if not os.path.exists(output_directory):
     os.makedirs(output_directory)
@@ -105,26 +105,6 @@ async def scrape_pages():
 loop = asyncio.get_event_loop()
 loop.run_until_complete(scrape_pages())
 
-async def save_all_data_as_json():
-    existing_data = {}
-    if os.path.exists('collection.json') and os.path.getsize('collection.json') > 0:
-        try:
-            with open('collection.json', 'r') as json_file:
-                existing_data = json.load(json_file)
-        except json.decoder.JSONDecodeError:
-            pass
-
-    for page_number, data in all_data.items():
-        if page_number in existing_data:
-            existing_data[page_number].extend(data)
-        else:
-            existing_data[page_number] = data
-
-    with open('collection.json', 'w') as json_file:
-        json.dump(existing_data, json_file, indent=4)
-
-loop.run_until_complete(save_all_data_as_json())
-
 complete_data = {}
 for page_number in range(int(start), int(end) + 1):
     filename = os.path.join(output_directory, f"{page_number}_MoMA.json")
@@ -132,7 +112,3 @@ for page_number in range(int(start), int(end) + 1):
         with open(filename, 'r') as json_file:
             page_data = json.load(json_file)
             complete_data.update({f"{page_number}": page_data})
-
-with open('collection.json', 'w') as json_file:
-    json.dump(complete_data, json_file, indent=4)
-print("\nData merged and saved in collection.json")
