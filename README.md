@@ -2,82 +2,82 @@
 
 ## Description
 
-An attempt to build Museum of Modern Art's dataset and API from scratch.
+MoMA Artworks Scraper and Dataset Builder is designed to collect and organize data about artworks and artists from the Museum of Modern Art (MoMA). This project gathers essential details about Artworks and Artists. It then saves the collected data in both JSON and CSV formats, making it easy to use for further analysis and research.
 
+__Artworks Data__
 
-<h1 align="center"><img width="10%" src="media/work-in-progress.png" alt=""></h1>
+The [artworks.json](artworks.json) file contains a vast collection of __100,110 artworks__ from the Museum of Modern Art (MoMA). Each artwork entry is represented as a JSON object with comprehensive details, including the artist's name, title, year, medium, dimensions, publisher, edition, credit, object number, copyright, portfolio, department, and more.
 
-## Install
+__Example__
 
-```sh
-$ curl -OL https://raw.githubusercontent.com/CodeDotJS/MoMArchive/master/collection.py
-```
-
-__Upcoming__:
-
-I'm currently working on it to further extend the dataset, but it heavily relies on the data grabbed through `collection.py`
-
-```sh
-$ curl -OL https://raw.githubusercontent.com/CodeDotJS/MoMArchive/master/collectionExtended.py
-```
-
-## Usage
-
-```sh
-$ python extractor.py
-
-Get data from page: x
-Get data till page: n
-```
-
-__Till where should I scrape the page?__
-
-If you visit MoMA's [collection](https://www.moma.org/collection/), you can see -
-
-- > *Showing 88,144 __(N)__ out of 101,777 works online*
-
-Each page shows 48 works, and if there `"N"` works online, you can do `math.ceil(N/48)` to get to the last page.
-
-__How do I make it fast?__
-
-- You can change the concurrent request limit at [`L87`](https://github.com/CodeDotJS/MoMA/blob/master/collection.py#L87)
-
-
-__How is the data organized?__
-
-- The script scrapes and saves random pages as "`Page_<X-N>_moma_collection.json`" to handle concurrent requests.
-- Files are then merged into a single, organized "`collection.json`" file.
-- By default, the script deletes the intermediate pages, keeping only the main collection file, but you can keep all the pages by commenting out the last four lines of code.
-
-## Structure
-
-The final collection consists of an object with multiple properties (pages), "1", "2", "3", and so on. Each property contains an array with a single object.
-
-```json
+```JSON
 {
-    "1": [
-        {
-            "Artist": "Fernando Laposse",
-            "Title": "Totomoxtle",
-            "Year": "2017",
-            "ObjectID": "442508",
-            "Work": "https://www.moma.org/collection/works/442508",
-            "Thumbnail": "https://www.moma.org/media/W1siZiIsIjU0MjIwOCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=36de6710c994ec55"
-        }
-	],
-    "1837": [
-        {
-            "Artist": "Unidentified photographer",
-            "Title": "Untitled",
-            "Year": "n.d.",
-            "ObjectID": "111535",
-            "Work": "https://www.moma.org/collection/works/111535",
-            "Thumbnail": "https://www.moma.org/media/W1siZiIsIjM0OTc2MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDUxMng1MTJcdTAwM2UiXV0.jpg?sha=4ca080fd135dc4f0"
-        }
-    ]
+    "Artist": "Frida Kahlo",
+    "Title": "My Grandparents, My Parents, and I (Family Tree)",
+    "Year": "1936",
+    "ObjectID": 78784,
+    "Work": "https://www.moma.org/collection/works/78784",
+    "Thumbnail": "https://www.moma.org/media/W1siZiIsIjQ3N...M2UiXV0.jpg?sha=c411357c15216300",
+    "Details": {
+        "Medium": "Oil and tempera on zinc",
+        "Dimensions": "12 1/8 x 13 5/8\" (30.7 x 34.5 cm)",
+        "Credit": "Gift of Allan Roos, M. D., and B. Mathieu Roos",
+        "Object number": "102.1976",
+        "Copyright": "\u00a9 2023 Banco de M\u00e9xico Diego Rivera Frida Kahlo Museums Trust, Mexico, D.F. / Artists Rights Society (ARS), New York",
+        "Department": "Painting and Sculpture"
+    },
+    "Profile": "https://www.moma.org/artists/2963"
 }
+ ```
+
+__Artists Data__
+
+The [artists.json](artists.json) file is a dataset containing information about various artists represented in the Museum of Modern Art. With __27,385 entries__, each artist's data is represented as a JSON object, providing details such as the artist's page URL, ID, name, and bio. Additionally, the dataset includes extended details (if available on MoMA's site) about each artist, including an introduction, Wikidata ID, nationality, gender, roles, alternative names, Ulan ID, and more.
+
+__Example__
+
+```JSON
+{
+    "page": "https://www.moma.org/artists/2963",
+    "ID": 2963,
+    "name": "Frida Kahlo",
+    "bio": "Mexican, 1907–1954",
+    "details": {
+        "Introduction": "Mexican fantasy painter known as much for her turbulent personal life as her fanciful self-portraits. ... Her work received notoriety in the 1970's, becoming popular with feminist art historians and Latin Americans living in the United States.",
+        "Wikidata": "Q5588",
+        "Nationality": "Mexican",
+        "Gender": "Female",
+        "Roles": "Artist, Painter",
+        "Names": "Frida Kahlo, Frida Kahlo de Rivera, Frida Rivera, De Rivera Kahlo.. Frida Rivera-Kahlo",
+        "Ulan": "500030701"
+    }
+}
+
 ```
+## Motivation
+
+The primary motivation behind this project is to build an extensive dataset of MoMA's artists and art collection and create an accessible API. As the original API is restricted to MoMA staff and partners, this project seeks to provide a publicly available alternative.
+
+## Features
+
+- Uses concurrent/asynchronous programming for faster data collection and processing.
+- Gathers __Artwork__ information from  more than __100k pages__ in MoMA's collection.
+- Gathers __Artist__ information from  more than __27k pages__ in MoMA's collection.
+- Saves and extends the artwork/artists data in JSON format for each page.
+- Sorts and converts the collected data to CSV for easier analysis.
+
+## Build
+
+Building datasets for both Artists and Artworks requires different scripts. The complete steps are mentioned __[here](docs/workground.md)__.
+
+## Contributing
+
+If you're interested in contributing, you can start by forking the repository. After that, create a separate branch to work on your changes, and once you're done, submit a pull request with your modifications.
+
+## Related
+
+- [MoMA API](https://github.com/CodeDotJS/moma-api) - Flask-based API for MoMA Artworks/Artists dataset - Explore MoMA's art collection and artist details with ease.
 
 ## License
 
-MIT
+MIT License
