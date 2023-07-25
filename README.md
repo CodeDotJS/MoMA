@@ -61,8 +61,8 @@ The primary motivation behind this project is to build an extensive dataset of M
 ## Features
 
 - Uses concurrent/asynchronous programming for faster data collection and processing.
-- Gathers __Artwork__ information from  more than __100k pages__ in MoMA's collection.
-- Gathers __Artist__ information from  more than __27k pages__ in MoMA's collection.
+- Gathers Artwork information from  more than __100k pages__ in MoMA's collection.
+- Gathers Artist information from  more than __27k pages__ in MoMA's collection.
 - Saves and extends the artwork/artists data in JSON format for each page.
 - Sorts and converts the collected data to CSV for easier analysis.
 
@@ -76,7 +76,7 @@ If you're interested in contributing, you can start by forking the repository. A
 
 ## Related
 
-- [MoMA API](https://github.com/CodeDotJS/moma-api) - Flask-based API for MoMA Artworks/Artists dataset - Explore MoMA's art collection and artist details with ease.
+- [MoMA API]() - Flask-based API for MoMA Artworks/Artists dataset. Explore MoMA's art collection and artist details with ease.
 
 ## License
 
