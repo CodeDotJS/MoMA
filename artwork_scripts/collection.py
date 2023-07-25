@@ -18,7 +18,7 @@ headers = {
 base_url = "https://www.moma.org/collection/?utf8=%E2%9C%93&q=&classifications=any&date_begin=Pre-1850&date_end=2023&page={}&direction=fwd"
 image_base_url = "https://www.moma.org"
 
-output_directory = "../Files/User/Collection_Pages"
+output_directory = "../Files/Collection_Pages"
 
 if not os.path.exists(output_directory):
     os.makedirs(output_directory)
