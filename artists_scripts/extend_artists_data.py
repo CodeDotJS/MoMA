@@ -15,11 +15,6 @@ headers = {
     'Accept-Encoding': 'gzip, deflate, br',
     'Connection': 'keep-alive',
     'Cookie': 'getty-record-should-start-opened=true; wikipedia-entry-should-start-opened=false; viewedCookieBanner=true; global=MTY4OTkyNDg2MHxOd3dBTkZOWFZqWXpSa3RLUlVOSFExWlJXazgzVGs5VU0wOHlRVWxYVGxoTFQwUkJSVTFUVGtkVlJreEJOVUZPTmtoRFNrOWFTRUU9fJ7F9ljtKT4IampbL5RPDKLDAvorL-v_icsF6eE7unUF; cf_clearance=nnprQ_A70YbNppmewYhFFUvvpOp7sJaH4ckibmRqGFo-1689923373-0-0.2.1689923373; _gorilla_csrf=MTY4OTg5MDExMnxJbkZyVkdNMVNVSjNlRmwzYnl0QmRXRldka1E1TW1WallrdFNiRmN4Umpjd0sxQkVkMjB4ZHpaNk1uTTlJZ289fCafckxXyuUDzwMqDe4L3nf-ulwHf_-rshoZt8pA-lZP; sessionHighlightColor=5',
-    'Upgrade-Insecure-Requests': '1',
-    'Sec-Fetch-Dest': 'document',
-    'Sec-Fetch-Mode': 'navigate',
-    'Sec-Fetch-Site': 'none',
-    'Sec-Fetch-User': '?1'
 }
 
 def fetch(url, max_retries=3, retry_delay=1):
@@ -42,22 +37,15 @@ def process_artist(item):
 
     soup = BeautifulSoup(html, "html.parser")
 
-    # Find the first <section> element
     first_section = soup.find('section')
-
-    # Find the <h1> and <h2> elements inside the first section
     h1_element = first_section.find('h1')
     h2_element = first_section.find('h2')
 
-    # Find the <span> elements inside <h1> and <h2> respectively
     name_span = h1_element.find('span', class_='layout/block') if h1_element else None
     bio_span = h2_element.find('span', class_='layout/block balance-text') if h2_element else None
-
-    # Collect name and bio only if found, otherwise set to None
     name = name_span.get_text(strip=True) if name_span else None
     bio = bio_span.get_text(strip=True) if bio_span else None
 
-    # Extract keys and values for the "Details" object
     details = {}
     dt_elements = soup.find_all('dt')
     for dt_element in dt_elements:
@@ -65,13 +53,12 @@ def process_artist(item):
         value = dt_element.find_next('dd').get_text(strip=True)
         details[key] = value
 
-    # Create the extended dictionary
     extended_item = {
         "page": page_url,
         "ID": artist_id,
         "name": name,
         "bio": bio,
-        "details": details if details else None  # Set details to None if not found
+        "details": details if details else None
     }
 
     return extended_item
@@ -89,40 +76,32 @@ def scrape_and_save_extended_json(input_folder, output_folder, start_page=1, end
     files_processed = set()
 
     try:
-        # Collect the filenames of the files that are already processed in the "Collection" folder
         for collection_filename in os.listdir(output_folder):
             if collection_filename.endswith("_extended.json"):
                 files_processed.add(collection_filename.replace("_extended.json", ".json"))
 
-        # Get the list of files in the "SeparatePages" folder and sort them
         files_to_process = sorted([filename for filename in os.listdir(input_folder) if filename.endswith(".json")])
 
         for filename in files_to_process:
-            # Parse the page number from the filename
             page_number = int(filename.split("_")[0])
 
-            # Check if the page number is within the specified range
             if start_page <= page_number and (end_page is None or page_number <= end_page):
                 if filename not in files_processed:
                     with open(os.path.join(input_folder, filename), "r") as file:
                         data = json.load(file)
-
-                    # Print the processing message for each file once
                     print(f"Processing file: {filename}")
 
                     extended_data = process_artists(data)
 
-                    # Create the output directory if it doesn't exist
                     os.makedirs(output_folder, exist_ok=True)
 
-                    # Save the extended JSON
                     extended_filename = f"{filename[:-5]}_extended.json"
+
                     with open(os.path.join(output_folder, extended_filename), "w") as outfile:
                         json.dump(extended_data, outfile, indent=2)
 
                     files_processed.add(filename)
                 else:
-                    # File skipped message
                     print(f"Skipped file: {filename} (Page number: {page_number})")
 
     except (requests.RequestException, json.JSONDecodeError, FileNotFoundError) as e:
@@ -130,7 +109,7 @@ def scrape_and_save_extended_json(input_folder, output_folder, start_page=1, end
 
     except KeyboardInterrupt:
         print("Process interrupted by the user.")
-        return  # Gracefully exit the function
+        return
 
     except Exception as e:
         print(f"An unexpected error occurred: {e}")
@@ -138,8 +117,6 @@ def scrape_and_save_extended_json(input_folder, output_folder, start_page=1, end
 def main():
     input_folder_path = "../Files/Artists/SeparatePages"
     output_folder_path = "../Files/Artists/ExtendedCollection"
-
-    # Get user inputs for starting and ending page numbers
     start_page = int(input("Enter the starting page number to scrape from: "))
     end_page = int(input("Enter the ending page number to scrape until (press Enter to scrape all pages): ") or 0)
 
