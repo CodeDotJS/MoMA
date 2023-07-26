@@ -81,6 +81,10 @@ __Build__
 - Flask-based API for MoMA Artworks/Artists dataset.
 - Automation tools for dataset's monthly checkups and updates.
 
+__Add__
+
+- In MoMA's original dataset, images are not included, but I'd like to further extend and add images as well. The task is fairly simple, so the changes will be pushed soon.
+
 __Improvements__
 
 - Fix redundancies in various scripts.
