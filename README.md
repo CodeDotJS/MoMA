@@ -74,10 +74,18 @@ Building datasets for both Artists and Artworks requires different scripts. The 
 
 If you're interested in contributing, you can start by forking the repository. After that, create a separate branch to work on your changes, and once you're done, submit a pull request with your modifications.
 
-## Related
+## Future Work
 
-- [MoMA API]() - Flask-based API for MoMA Artworks/Artists dataset. Explore MoMA's art collection and artist details with ease.
+__Build__
+
+- Flask-based API for MoMA Artworks/Artists dataset.
+- Automation tools for dataset's monthly checkups and updates.
+
+__Improvements__
+
+- Fix redundancies in various scripts.
+- Strict structure for JSON datasets.
 
 ## License
 
-MIT License
+MIT License &copy; Rishi Giri
